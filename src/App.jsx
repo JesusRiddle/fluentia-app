@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import Home from './components/Home';
 import StudyMode from './components/StudyMode';
 import PracticeMode from './components/PracticeMode';
+import StudyTimer from './components/StudyTimer';
 import './index.css';
 
 function App() {
@@ -66,8 +67,8 @@ function App() {
         </div>
         <div className="header-actions">
           <select
-            className="pill-btn"
-            style={{ padding: '6px 12px', marginRight: '10px', fontSize: '0.85rem' }}
+            className="pill-btn header-language"
+            aria-label="Idioma objetivo"
             value={targetLang}
             onChange={(e) => setTargetLang(e.target.value)}
           >
@@ -77,7 +78,7 @@ function App() {
             <option value="pt">🇧🇷 Portugués</option>
           </select>
 
-          <label style={{ fontSize: '0.8rem', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '5px', cursor: 'pointer', color: 'var(--muted)' }}>
+          <label className="auto-play-toggle">
             <input
               type="checkbox"
               checked={autoPlay}
@@ -86,7 +87,9 @@ function App() {
             /> Auto-Play
           </label>
 
-          <button onClick={toggleTheme} className="icon-btn" title="Cambiar Tema">
+          <StudyTimer />
+
+          <button onClick={toggleTheme} className="icon-btn" title="Cambiar Tema" aria-label="Cambiar tema claro u oscuro">
             <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
             </svg>

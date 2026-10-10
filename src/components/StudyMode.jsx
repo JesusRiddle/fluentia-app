@@ -1,16 +1,37 @@
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
+import NumberRangeFilter from './NumberRangeFilter';
+import { filterCardsByNumberRange, isNumbersModule } from '../utils/numberRanges';
 
 export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isFlipped, setIsFlipped] = useState(false);
     const [speechRate, setSpeechRate] = useState(1.0);
+    const [range, setRange] = useState('all');
+    const audioTimeoutRef = useRef(null);
+
+    useEffect(() => () => {
+        window.clearTimeout(audioTimeoutRef.current);
+        window.speechSynthesis.cancel();
+    }, []);
 
     if (!moduleData || !moduleData.cards) return null;
 
-    const cards = moduleData.cards;
+    const cards = filterCardsByNumberRange(moduleData, range);
     const currentCard = cards[currentIndex];
     const totalCards = cards.length;
     const progressPct = totalCards > 1 ? Math.round((currentIndex / (totalCards - 1)) * 100) : 100;
+
+    const cancelAudio = () => {
+        window.clearTimeout(audioTimeoutRef.current);
+        window.speechSynthesis.cancel();
+    };
+
+    const changeRange = newRange => {
+        cancelAudio();
+        setIsFlipped(false);
+        setCurrentIndex(0);
+        setRange(newRange);
+    };
 
     const ttsVoices = {
         'en': 'en-US',
@@ -31,23 +52,40 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
 
     const handleFlip = () => {
         const newFlippedState = !isFlipped;
+        cancelAudio();
         setIsFlipped(newFlippedState);
 
         if (newFlippedState && autoPlay) {
-            setTimeout(playAudio, 150);
+            audioTimeoutRef.current = window.setTimeout(playAudio, 150);
         }
     };
 
     // Función unificada para cambiar de tarjeta y resetear el giro
     const changeCard = (newIndex) => {
+        cancelAudio();
         setIsFlipped(false);
         setCurrentIndex(newIndex);
     };
 
+    if (!currentCard) {
+        return (
+            <main className="view">
+                <div className="progress-top study-controls">
+                    {isNumbersModule(moduleData) && <NumberRangeFilter value={range} onChange={changeRange} />}
+                    <button className="pill-btn" onClick={onBack}>← Regresar</button>
+                </div>
+                <p className="hint">No hay tarjetas en este rango. Elige otro para continuar.</p>
+            </main>
+        );
+    }
+
     return (
         <main className="view">
-            <div className="progress-top">
-                <span className="progress-count">{currentIndex + 1} / {totalCards}</span>
+            <div className="progress-top study-controls">
+                <div className="study-range-group">
+                    {isNumbersModule(moduleData) && <NumberRangeFilter value={range} onChange={changeRange} />}
+                    <span className="progress-count">{currentIndex + 1} / {totalCards}</span>
+                </div>
                 <button className="pill-btn" onClick={onBack}>← Regresar</button>
             </div>
 

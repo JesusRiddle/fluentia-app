@@ -1,43 +1,45 @@
 import { useState, useEffect, useCallback } from 'react';
+import NumberRangeFilter from './NumberRangeFilter';
+import { filterCardsByNumberRange, isNumbersModule } from '../utils/numberRanges';
+
+const ttsVoices = {
+    en: 'en-US',
+    fr: 'fr-FR',
+    it: 'it-IT',
+    pt: 'pt-BR',
+};
+
+function createPracticeRound(pool) {
+    const round = {
+        currentCorrectCard: null,
+        options: [],
+        hasAnswered: false,
+        wrongGuesses: [],
+        isHintActive: false,
+        errorMsg: '',
+    };
+    if (pool.length < 6) {
+        return { ...round, errorMsg: 'Se necesitan al menos 6 tarjetas en este rango para las 6 opciones.' };
+    }
+
+    const currentCorrectCard = pool[Math.floor(Math.random() * pool.length)];
+    const distractors = pool
+        .filter(card => card.id !== currentCorrectCard.id)
+        .sort(() => Math.random() - 0.5)
+        .slice(0, 5);
+    return {
+        ...round,
+        currentCorrectCard,
+        options: [...distractors, currentCorrectCard].sort(() => Math.random() - 0.5),
+    };
+}
 
 export default function PracticeMode({ moduleData, targetLang, onBack }) {
     const [score, setScore] = useState(0);
     const [range, setRange] = useState('all');
-    const [currentCorrectCard, setCurrentCorrectCard] = useState(null);
-    const [options, setOptions] = useState([]);
-
-    // Estados para la jugada actual
-    const [hasAnswered, setHasAnswered] = useState(false);
-    const [wrongGuesses, setWrongGuesses] = useState([]);
-    const [isHintActive, setIsHintActive] = useState(false);
+    const [round, setRound] = useState(() => createPracticeRound(filterCardsByNumberRange(moduleData, 'all')));
     const [speechRate, setSpeechRate] = useState(1.0);
-    const [errorMsg, setErrorMsg] = useState('');
-
-    const ttsVoices = {
-        'en': 'en-US',
-        'fr': 'fr-FR',
-        'it': 'it-IT',
-        'pt': 'pt-BR'
-    };
-    const isNumbersModule = moduleData.module?.toLowerCase().includes('número');
-
-    const getFilteredCards = useCallback(() => {
-        if (!moduleData || !moduleData.cards) return [];
-        if (range === 'all') return moduleData.cards;
-
-        return moduleData.cards.filter(card => {
-            // Limpiamos el ID (ej. de "n78" a "78")
-            const cleanId = card.id.replace('n', '');
-            const val = parseInt(cleanId, 10);
-            if (isNaN(val)) return false;
-
-            if (range === '0-10') return val >= 0 && val <= 10;
-            if (range === '11-20') return val >= 11 && val <= 20;
-            if (range === '30-90') return (val >= 30 && val < 100 && val % 10 === 0) || (val >= 31 && val <= 92);
-            if (range === '100-1000') return val >= 100;
-            return true;
-        });
-    }, [moduleData, range]);
+    const { currentCorrectCard, options, hasAnswered, wrongGuesses, isHintActive, errorMsg } = round;
 
     const playAudio = useCallback((card = currentCorrectCard) => {
         if (!card) return;
@@ -49,45 +51,15 @@ export default function PracticeMode({ moduleData, targetLang, onBack }) {
         window.speechSynthesis.speak(utterance);
     }, [currentCorrectCard, targetLang, speechRate]);
 
-    const nextPracticeRound = useCallback(() => {
-        setHasAnswered(false);
-        setWrongGuesses([]);
-        setIsHintActive(false);
-        setErrorMsg('');
+    const nextPracticeRound = () => {
+        setRound(createPracticeRound(filterCardsByNumberRange(moduleData, range)));
+    };
 
-        const pool = getFilteredCards();
-        if (pool.length < 6) {
-            setErrorMsg('Se necesitan al menos 6 números en este rango para las 6 opciones.');
-            setOptions([]);
-            return;
-        }
-
-        // Elegir tarjeta correcta
-        const correctCard = pool[Math.floor(Math.random() * pool.length)];
-
-        // Elegir 5 distractores
-        const distractors = [];
-        const availableDistractors = pool.filter(c => c.id !== correctCard.id);
-
-        // Mezclar distractores disponibles
-        availableDistractors.sort(() => Math.random() - 0.5);
-
-        for (let i = 0; i < 5 && i < availableDistractors.length; i++) {
-            distractors.push(availableDistractors[i]);
-        }
-
-        // Mezclar las 6 opciones finales
-        const roundOptions = [...distractors, correctCard].sort(() => Math.random() - 0.5);
-
-        setCurrentCorrectCard(correctCard);
-        setOptions(roundOptions);
-
-    }, [getFilteredCards]);
-
-    // Disparar una nueva ronda al cargar el componente o cambiar el rango
-    useEffect(() => {
-        nextPracticeRound();
-    }, [nextPracticeRound]);
+    const changeRange = newRange => {
+        window.speechSynthesis.cancel();
+        setRange(newRange);
+        setRound(createPracticeRound(filterCardsByNumberRange(moduleData, newRange)));
+    };
 
     // Reproducir audio automáticamente cuando cambia la tarjeta correcta
     useEffect(() => {
@@ -104,10 +76,10 @@ export default function PracticeMode({ moduleData, targetLang, onBack }) {
         playAudio(); // Reproducir audio automáticamente al tocar cualquier burbuja
 
         if (card.id === currentCorrectCard.id) {
-            setHasAnswered(true);
+            setRound(previous => ({ ...previous, hasAnswered: true }));
             setScore(prev => prev + 1);
         } else {
-            setWrongGuesses(prev => [...prev, card.id]);
+            setRound(previous => ({ ...previous, wrongGuesses: [...previous.wrongGuesses, card.id] }));
         }
     };
 
@@ -120,20 +92,7 @@ export default function PracticeMode({ moduleData, targetLang, onBack }) {
 
                 {/* Selector de rango (Solo se muestra en el módulo de números) */}
                 <div style={{ display: 'flex', gap: '8px' }}>
-                    {isNumbersModule && (
-                        <select
-                            className="pill-btn"
-                            style={{ padding: '6px 12px', fontSize: '0.85rem' }}
-                            value={range}
-                            onChange={(e) => setRange(e.target.value)}
-                        >
-                            <option value="all">🌐 Todos</option>
-                            <option value="0-10">0 al 10</option>
-                            <option value="11-20">11 al 20</option>
-                            <option value="30-90">Decenas (30-90)</option>
-                            <option value="100-1000">Centenas y Mil (100-2000)</option>
-                        </select>
-                    )}
+                    {isNumbersModule(moduleData) && <NumberRangeFilter value={range} onChange={changeRange} />}
                 </div>
 
                 <button className="pill-btn" onClick={onBack}>← Regresar</button>
@@ -212,7 +171,7 @@ export default function PracticeMode({ moduleData, targetLang, onBack }) {
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '15px', marginTop: '20px' }}>
                 <button
                     className="ghost-btn"
-                    onClick={() => setIsHintActive(true)}
+                    onClick={() => setRound(previous => ({ ...previous, isHintActive: true }))}
                     disabled={hasAnswered || isHintActive}
                     style={{ width: 'auto', padding: '12px 18px', opacity: (hasAnswered || isHintActive) ? 0.5 : 1 }}
                 >
