@@ -1,0 +1,515 @@
+/* ============================================================
+   FLUENTIA — Estilos basados en Shadowing App
+============================================================ */
+:root {
+    --bg: #F7F7FA;
+    --card-bg: #FFFFFF;
+    --card-border: #E7E7EE;
+    --text: #171923;
+    --muted: #737784;
+    --primary: #6D5CE7;
+    --primary-dark: #5A48D8;
+    --primary-soft: #F0EDFF;
+    --accent: #17B897;
+    --border: #E5E5EC;
+    --radius-sm: 10px;
+    --radius: 16px;
+    --radius-lg: 20px;
+    --shadow-sm: 0 1px 2px rgba(23, 25, 35, 0.05);
+    --shadow-md: 0 8px 24px rgba(23, 25, 35, 0.07);
+    --shadow-lg: 0 20px 50px rgba(23, 25, 35, 0.16);
+    --shadow-card: 0 18px 45px rgba(20, 20, 35, .08);
+    --hero-card: #F1EFFF;
+    --font: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+[data-theme="dark"] {
+    --bg: #0C0D12;
+    --card-bg: #15171F;
+    --card-border: #272A36;
+    --text: #F4F3FA;
+    --muted: #9599AD;
+    --primary: #8C78FF;
+    --primary-dark: #A995FF;
+    --primary-soft: #211D3B;
+    --accent: #2fd8b3;
+    --border: #2B2E39;
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, .28);
+    --shadow-md: 0 8px 24px rgba(0, 0, 0, .40);
+    --shadow-lg: 0 24px 60px rgba(0, 0, 0, .55);
+    --shadow-card: 0 24px 65px rgba(0, 0, 0, .30);
+    --hero-card: #151925;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    font-family: var(--font);
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    transition: background .25s ease, color .25s ease;
+    -webkit-tap-highlight-color: transparent;
+}
+
+/* ---------- Header ---------- */
+.app-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 68px;
+    padding: 14px 30px;
+    background: color-mix(in srgb, var(--card-bg) 92%, transparent);
+    border-bottom: 1px solid var(--card-border);
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    backdrop-filter: blur(18px);
+    -webkit-backdrop-filter: blur(18px);
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+}
+
+.brand-mark {
+    width: 32px;
+    height: 32px;
+    color: var(--primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.brand-mark svg {
+    width: 100%;
+    height: 100%;
+}
+
+.brand h1 {
+    font-size: 0.95rem;
+    font-weight: 800;
+    margin: 0;
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+}
+
+.brand h1 span {
+    color: var(--primary);
+    font-weight: 500;
+}
+
+.header-actions {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.icon-btn {
+    background: none;
+    border: none;
+    color: var(--muted);
+    cursor: pointer;
+    width: 38px;
+    height: 38px;
+    border-radius: 10px;
+    transition: background .15s ease, color .15s ease, transform .12s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon-btn svg {
+    width: 19px;
+    height: 19px;
+}
+
+.icon-btn:hover {
+    color: var(--primary);
+    background: var(--primary-soft);
+}
+
+.icon-btn:active {
+    transform: scale(0.9);
+}
+
+/* ---------- Layout ---------- */
+.view {
+    width: 100%;
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 10px 32px 40px;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    padding: 8px 18px 20px;
+    position: relative;
+    text-align: center;
+}
+
+.hero-kicker {
+    margin: 0 0 10px;
+    color: var(--muted);
+    font-size: .75rem;
+    font-weight: 800;
+    letter-spacing: .28em;
+    text-transform: uppercase;
+}
+
+.hero-title {
+    margin: 0 0 10px;
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: 800;
+    letter-spacing: -.03em;
+}
+
+.hero-title span {
+    color: transparent;
+    background: linear-gradient(105deg, #B39BFF 0%, var(--primary) 55%, #765EF2 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.hero-sub {
+    color: var(--muted);
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0;
+}
+
+/* ---------- Botones Exactos ---------- */
+.primary-btn,
+.secondary-btn,
+.ghost-btn {
+    border: none;
+    border-radius: var(--radius-sm);
+    padding: 14px 18px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    cursor: pointer;
+    width: 100%;
+    transition: transform 0.12s ease, box-shadow 0.15s ease, opacity 0.15s ease, background 0.15s ease;
+}
+
+.primary-btn {
+    background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+    color: #fff;
+    border-radius: 14px;
+    box-shadow: 0 10px 24px color-mix(in srgb, var(--primary) 25%, transparent);
+}
+
+.primary-btn:hover {
+    background: var(--primary-dark);
+    transform: translateY(-1px);
+}
+
+.primary-btn:active {
+    transform: translateY(0);
+    opacity: 0.92;
+}
+
+.secondary-btn {
+    background: var(--primary-soft);
+    color: var(--primary-dark);
+    border-radius: 14px;
+}
+
+.secondary-btn:hover {
+    transform: translateY(-1px);
+}
+
+.ghost-btn {
+    background: transparent;
+    color: var(--muted);
+    border: 1.5px solid var(--border);
+}
+
+.ghost-btn:hover {
+    border-color: var(--primary);
+    color: var(--primary-dark);
+}
+
+.divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin: 24px 0 16px;
+}
+
+.divider::before,
+.divider::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+}
+
+.divider span {
+    padding: 0 12px;
+}
+
+.hint {
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+/* ---------- Motor Flashcard 3D ---------- */
+.card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 24px;
+    box-shadow: var(--shadow-card);
+}
+
+.flashcard-container {
+    width: 100%;
+    height: 380px;
+    perspective: 1000px;
+    cursor: pointer;
+}
+
+.flashcard-inner {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+.flashcard-inner.is-flipped {
+    transform: rotateY(180deg);
+}
+
+.flashcard-front,
+.flashcard-back {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 28px 30px;
+    text-align: center;
+}
+
+.flashcard-back {
+    transform: rotateY(180deg);
+    border: 2px solid var(--primary);
+    background: var(--primary-soft);
+}
+
+/* ---------- Barra de Progreso Desplazadora ---------- */
+.progress-top {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 6px;
+}
+
+.progress-count {
+    font-weight: 800;
+    color: var(--muted);
+    font-size: 0.85rem;
+}
+
+.progress-track-wrap {
+    position: relative;
+    width: 100%;
+}
+
+.progress-track {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 6px;
+    border-radius: 3px;
+    background: linear-gradient(to right, var(--primary) var(--fill, 0%), var(--border) var(--fill, 0%));
+    outline: none;
+    cursor: pointer;
+}
+
+.progress-track::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: var(--primary);
+    box-shadow: 0 2px 6px color-mix(in srgb, var(--primary) 50%, transparent);
+    cursor: pointer;
+}
+
+/* ---------- Estilo para botones de temas en Home ---------- */
+.theme-card-btn {
+    transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+}
+
+.theme-card-btn:hover {
+    transform: translateY(-2px);
+    border-color: var(--primary);
+    box-shadow: var(--shadow-md);
+}
+
+.hidden {
+    display: none !important;
+}
+
+.link-btn {
+    background: none;
+    border: none;
+    color: var(--primary);
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 700;
+    padding: 0;
+    transition: opacity 0.15s ease;
+}
+
+.link-btn:hover {
+    opacity: 0.8;
+    text-decoration: underline;
+}
+
+.progress-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.progress-count {
+    font-weight: 800;
+    color: var(--muted);
+    font-size: 0.9rem;
+}
+
+.progress-percent {
+    text-align: right;
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin: 4px 2px 18px 0;
+}
+
+/* ---------- Botón de Pastilla (Pill Button) ---------- */
+.pill-btn {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    color: var(--text);
+    padding: 6px 16px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: var(--shadow-sm);
+    transition: all 0.15s ease;
+}
+
+.pill-btn:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+}
+
+.pill-btn:active {
+    transform: translateY(0);
+}
+
+/* ---------- Estilos del Modo Práctica (Burbujas) ---------- */
+.bubble-option {
+    background: var(--card-bg);
+    border: 2px solid var(--card-border);
+    border-radius: var(--radius);
+    padding: 18px 20px;
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: var(--text);
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.15s ease;
+    box-shadow: var(--shadow-sm);
+}
+
+.bubble-option:hover {
+    border-color: var(--primary);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+.bubble-option.correct {
+    background: #22C55E !important;
+    border-color: #16A34A !important;
+    color: #ffffff !important;
+    transform: scale(1.02);
+}
+
+.bubble-option.incorrect {
+    background: #EF4444 !important;
+    border-color: #DC2626 !important;
+    color: #ffffff !important;
+    animation: shake 0.3s ease;
+}
+
+@keyframes shake {
+
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(-6px);
+    }
+
+    75% {
+        transform: translateX(6px);
+    }
+}
+
+/* ---------- Cuadrícula del Modo Práctica (3 filas x 2 columnas) ---------- */
+#bubbles-container {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 12px !important;
+    margin-bottom: 20px !important;
+}
+
+.bubble-option {
+    background: var(--card-bg);
+    border: 2px solid var(--card-border);
+    border-radius: var(--radius);
+    padding: 16px 10px;
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: var(--text);
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.15s ease;
+    box-shadow: var(--shadow-sm);
+    width: 100%;
+    /* Asegura que abarque su celda de la cuadrícula */
+}
+
+/* ---------- Botones de Velocidad ---------- */
+.speed-btn.active {
+    background: var(--primary) !important;
+    color: #ffffff !important;
+    border-color: var(--primary) !important;
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--primary) 35%, transparent);
+}
