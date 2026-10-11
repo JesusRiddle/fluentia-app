@@ -114,17 +114,6 @@ export const MODULES = [
         available: false,
     },
     {
-        id: "a2_restaurantes_y_mesa",
-        title: "Restaurantes y Frases en la Mesa",
-        description:
-            "Objetos, personal, gustos, reservas, llegada, pedidos, restricciones básicas y pago.",
-        level: "A2",
-        category: "comida-bebida",
-        icon: "🗣️",
-        file: "a2_restaurantes_y_mesa.json",
-        available: true,
-    },
-    {
         id: "a1_descripciones",
         title: "Descripciones Físicas y Adjetivos",
         description:
@@ -209,6 +198,39 @@ export const MODULES = [
         icon: "🆘",
         file: "a1_verbos.json",
         available: false,
+    },
+    {
+        id: "a2_restaurantes_y_mesa",
+        title: "Restaurantes y Frases en la Mesa",
+        description:
+            "Objetos, personal, gustos, reservas, llegada, pedidos, restricciones básicas y pago.",
+        level: "A2",
+        category: "comida-bebida",
+        icon: "🗣️",
+        file: "a2_restaurantes_y_mesa.json",
+        available: true,
+    },
+    {
+        id: "a2_cafeterias_y_comida_rapida",
+        title: "Cafeterías y Comida Rápida",
+        description:
+            "Pedir bebidas y combos, elegir tamaños, personalizar tu orden y recogerla.",
+        level: "A2",
+        category: "comida-bebida",
+        icon: "🗣️",
+        file: "a2_cafeterias_y_comida_rapida.json",
+        available: true,
+    },
+    {
+        id: "a2_hoteles_y_alojamiento",
+        title: "Hoteles y Alojamiento",
+        description:
+            "Reservar, registrarse, pedir servicios y resolver imprevistos durante tu estancia.",
+        level: "A2",
+        category: "comida-bebida",
+        icon: "🗣️",
+        file: "a2_hoteles_y_alojamiento.json",
+        available: true,
     },
     {
         id: "b1_restaurantes_peticiones_e_imprevistos",
