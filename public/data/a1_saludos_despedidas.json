@@ -14,28 +14,6 @@
       "image_url": ""
     },
     {
-      "id": "sd_002",
-      "es": "Saludos",
-      "translations": {
-        "en": "Greetings",
-        "fr": "Salutations",
-        "it": "Saluti",
-        "pt": "Saudações"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_003",
-      "es": "Despedidas",
-      "translations": {
-        "en": "Goodbyes",
-        "fr": "Formules d’au revoir",
-        "it": "Congedi",
-        "pt": "Despedidas"
-      },
-      "image_url": ""
-    },
-    {
       "id": "sd_004",
       "es": "Saludar",
       "translations": {
@@ -124,17 +102,6 @@
       "image_url": ""
     },
     {
-      "id": "sd_012",
-      "es": "Buen día (al saludar)",
-      "translations": {
-        "en": "Good morning",
-        "fr": "Bonjour",
-        "it": "Buongiorno",
-        "pt": "Bom dia"
-      },
-      "image_url": ""
-    },
-    {
       "id": "sd_013",
       "es": "Buenas tardes",
       "translations": {
@@ -158,7 +125,7 @@
     },
     {
       "id": "sd_015",
-      "es": "Buenas noches (al despedirse)",
+      "es": "Buenas noches (antes de dormir)",
       "translations": {
         "en": "Good night",
         "fr": "Bonne nuit",
@@ -169,67 +136,23 @@
     },
     {
       "id": "sd_016",
-      "es": "Buenos días, señor",
+      "es": "Señor",
       "translations": {
-        "en": "Good morning, sir",
-        "fr": "Bonjour, monsieur",
-        "it": "Buongiorno, signore",
-        "pt": "Bom dia, senhor"
+        "en": "Sir",
+        "fr": "Monsieur",
+        "it": "Signore",
+        "pt": "Senhor"
       },
       "image_url": ""
     },
     {
       "id": "sd_017",
-      "es": "Buenos días, señora",
+      "es": "Señora",
       "translations": {
-        "en": "Good morning, ma’am",
-        "fr": "Bonjour, madame",
-        "it": "Buongiorno, signora",
-        "pt": "Bom dia, senhora"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_018",
-      "es": "Buenas tardes, señor",
-      "translations": {
-        "en": "Good afternoon, sir",
-        "fr": "Bonjour, monsieur",
-        "it": "Buon pomeriggio, signore",
-        "pt": "Boa tarde, senhor"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_019",
-      "es": "Buenas tardes, señora",
-      "translations": {
-        "en": "Good afternoon, ma’am",
-        "fr": "Bonjour, madame",
-        "it": "Buon pomeriggio, signora",
-        "pt": "Boa tarde, senhora"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_020",
-      "es": "Buenas noches, señor (al llegar)",
-      "translations": {
-        "en": "Good evening, sir",
-        "fr": "Bonsoir, monsieur",
-        "it": "Buonasera, signore",
-        "pt": "Boa noite, senhor"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_021",
-      "es": "Buenas noches, señora (al llegar)",
-      "translations": {
-        "en": "Good evening, ma’am",
-        "fr": "Bonsoir, madame",
-        "it": "Buonasera, signora",
-        "pt": "Boa noite, senhora"
+        "en": "Ma’am",
+        "fr": "Madame",
+        "it": "Signora",
+        "pt": "Senhora"
       },
       "image_url": ""
     },
@@ -251,7 +174,7 @@
         "en": "How are you?",
         "fr": "Comment allez-vous ?",
         "it": "Come sta?",
-        "pt": "Como está?"
+        "pt": "Como o senhor está? / Como a senhora está?"
       },
       "image_url": ""
     },
@@ -366,6 +289,39 @@
       "image_url": ""
     },
     {
+      "id": "sd_132",
+      "es": "¿Cómo estás? (otra forma)",
+      "translations": {
+        "en": "How are you doing?",
+        "fr": "Comment ça va ?",
+        "it": "Come stai?",
+        "pt": "Como você está?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "sd_133",
+      "es": "¿Cómo has estado?",
+      "translations": {
+        "en": "How have you been?",
+        "fr": "Comment vas-tu ces derniers temps ?",
+        "it": "Come stai ultimamente?",
+        "pt": "Como você tem passado?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "sd_134",
+      "es": "¿En qué andas?",
+      "translations": {
+        "en": "What are you up to?",
+        "fr": "Tu fais quoi en ce moment ?",
+        "it": "Che cosa stai facendo ultimamente?",
+        "pt": "O que você anda fazendo?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "sd_034",
       "es": "¡Qué sorpresa!",
       "translations": {
@@ -455,23 +411,12 @@
     },
     {
       "id": "sd_042",
-      "es": "Es un placer conocerlo (formal)",
+      "es": "Es un placer conocerlo/la (formal)",
       "translations": {
         "en": "It’s a pleasure to meet you",
         "fr": "C’est un plaisir de faire votre connaissance",
-        "it": "È un piacere conoscerla",
-        "pt": "É um prazer conhecê-lo"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_043",
-      "es": "Es un placer conocerla (formal)",
-      "translations": {
-        "en": "It’s a pleasure to meet you",
-        "fr": "C’est un plaisir de faire votre connaissance",
-        "it": "È un piacere conoscerla",
-        "pt": "É um prazer conhecê-la"
+        "it": "È un piacere conoscerLa",
+        "pt": "É um prazer conhecê-lo/la"
       },
       "image_url": ""
     },
@@ -499,89 +444,45 @@
     },
     {
       "id": "sd_046",
-      "es": "Bienvenido",
+      "es": "Bienvenido/a",
       "translations": {
         "en": "Welcome",
         "fr": "Bienvenue",
-        "it": "Benvenuto",
-        "pt": "Bem-vindo"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_047",
-      "es": "Bienvenida",
-      "translations": {
-        "en": "Welcome",
-        "fr": "Bienvenue",
-        "it": "Benvenuta",
-        "pt": "Bem-vinda"
+        "it": "Benvenuto/a",
+        "pt": "Bem-vindo/a"
       },
       "image_url": ""
     },
     {
       "id": "sd_048",
-      "es": "Bienvenidos",
+      "es": "Bienvenidos/as",
       "translations": {
         "en": "Welcome",
         "fr": "Bienvenue",
-        "it": "Benvenuti",
-        "pt": "Bem-vindos"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_049",
-      "es": "Bienvenidas",
-      "translations": {
-        "en": "Welcome",
-        "fr": "Bienvenue",
-        "it": "Benvenute",
-        "pt": "Bem-vindas"
+        "it": "Benvenuti/e",
+        "pt": "Bem-vindos/as"
       },
       "image_url": ""
     },
     {
       "id": "sd_050",
-      "es": "Bienvenido de nuevo",
+      "es": "Bienvenido/a de nuevo",
       "translations": {
         "en": "Welcome back",
-        "fr": "Bon retour",
-        "it": "Bentornato",
-        "pt": "Bem-vindo de volta"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_051",
-      "es": "Bienvenida de nuevo",
-      "translations": {
-        "en": "Welcome back",
-        "fr": "Bon retour",
-        "it": "Bentornata",
-        "pt": "Bem-vinda de volta"
+        "fr": "Bon retour parmi nous !",
+        "it": "Bentornato/a",
+        "pt": "Bem-vindo/a de volta"
       },
       "image_url": ""
     },
     {
       "id": "sd_052",
-      "es": "Bien, gracias",
+      "es": "(Muy) Bien, gracias",
       "translations": {
-        "en": "Fine, thank you",
-        "fr": "Bien, merci",
-        "it": "Bene, grazie",
-        "pt": "Bem, obrigado"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_053",
-      "es": "Muy bien, gracias",
-      "translations": {
-        "en": "Very well, thank you",
-        "fr": "Très bien, merci",
-        "it": "Molto bene, grazie",
-        "pt": "Muito bem, obrigado"
+        "en": "(Very well) Fine, thank you",
+        "fr": "(Très) Bien, merci",
+        "it": "(Molto) Bene, grazie",
+        "pt": "(Muito) Bem, obrigado"
       },
       "image_url": ""
     },
@@ -619,24 +520,24 @@
       "image_url": ""
     },
     {
-      "id": "sd_057",
-      "es": "¿Y tú?",
+      "id": "sd_135",
+      "es": "Estoy bien, gracias. ¿Y tú?",
       "translations": {
-        "en": "And you?",
-        "fr": "Et toi ?",
-        "it": "E tu?",
-        "pt": "E você?"
+        "en": "I’m fine, thanks. And you?",
+        "fr": "Je vais bien, merci. Et toi ?",
+        "it": "Sto bene, grazie. E tu?",
+        "pt": "Estou bem, obrigado/a. E você?"
       },
       "image_url": ""
     },
     {
-      "id": "sd_058",
-      "es": "¿Y usted?",
+      "id": "sd_136",
+      "es": "Estoy bien, gracias. ¿Y usted?",
       "translations": {
-        "en": "And you?",
-        "fr": "Et vous ?",
-        "it": "E Lei?",
-        "pt": "E você?"
+        "en": "I’m fine, thanks. And you?",
+        "fr": "Je vais bien, merci. Et vous ?",
+        "it": "Sto bene, grazie. E Lei?",
+        "pt": "Estou bem, obrigado/a. o senhor / a senhora?"
       },
       "image_url": ""
     },
@@ -708,7 +609,7 @@
     },
     {
       "id": "sd_065",
-      "es": "Hasta ahora",
+      "es": "Nos vemos en un momento",
       "translations": {
         "en": "See you in a moment",
         "fr": "À tout de suite",
@@ -828,72 +729,6 @@
       "image_url": ""
     },
     {
-      "id": "sd_076",
-      "es": "Hasta el martes",
-      "translations": {
-        "en": "See you on Tuesday",
-        "fr": "À mardi",
-        "it": "A martedì",
-        "pt": "Até terça-feira"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_077",
-      "es": "Hasta el miércoles",
-      "translations": {
-        "en": "See you on Wednesday",
-        "fr": "À mercredi",
-        "it": "A mercoledì",
-        "pt": "Até quarta-feira"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_078",
-      "es": "Hasta el jueves",
-      "translations": {
-        "en": "See you on Thursday",
-        "fr": "À jeudi",
-        "it": "A giovedì",
-        "pt": "Até quinta-feira"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_079",
-      "es": "Hasta el viernes",
-      "translations": {
-        "en": "See you on Friday",
-        "fr": "À vendredi",
-        "it": "A venerdì",
-        "pt": "Até sexta-feira"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_080",
-      "es": "Hasta el sábado",
-      "translations": {
-        "en": "See you on Saturday",
-        "fr": "À samedi",
-        "it": "A sabato",
-        "pt": "Até sábado"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_081",
-      "es": "Hasta el domingo",
-      "translations": {
-        "en": "See you on Sunday",
-        "fr": "À dimanche",
-        "it": "A domenica",
-        "pt": "Até domingo"
-      },
-      "image_url": ""
-    },
-    {
       "id": "sd_082",
       "es": "Hasta la semana que viene",
       "translations": {
@@ -1007,8 +842,19 @@
       "id": "sd_092",
       "es": "Con permiso (al retirarse)",
       "translations": {
+        "en": "Excuse me, I have to go.",
+        "fr": "Veuillez m’excuser, je dois partir.",
+        "it": "Mi scusi, devo andare.",
+        "pt": "Com licença, preciso ir."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "sd_092",
+      "es": "Con permiso (que te dejen pasar)",
+      "translations": {
         "en": "Excuse me",
-        "fr": "Veuillez m’excuser",
+        "fr": "Pardon",
         "it": "Permesso",
         "pt": "Com licença"
       },
@@ -1021,7 +867,7 @@
         "en": "Thank you for everything",
         "fr": "Merci pour tout",
         "it": "Grazie di tutto",
-        "pt": "Obrigado por tudo"
+        "pt": "Obrigado/a por tudo"
       },
       "image_url": ""
     },
@@ -1032,7 +878,7 @@
         "en": "Thank you for your visit",
         "fr": "Merci de votre visite",
         "it": "Grazie per la visita",
-        "pt": "Obrigado pela sua visita"
+        "pt": "Obrigado/a pela sua visita"
       },
       "image_url": ""
     },
@@ -1055,28 +901,6 @@
         "fr": "Bonne journée",
         "it": "Buona giornata",
         "pt": "Tenha um bom dia"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_097",
-      "es": "Que tenga un buen día (formal)",
-      "translations": {
-        "en": "Have a nice day",
-        "fr": "Bonne journée",
-        "it": "Buona giornata",
-        "pt": "Tenha um bom dia"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_098",
-      "es": "Que tengas una buena tarde",
-      "translations": {
-        "en": "Have a nice afternoon",
-        "fr": "Bon après-midi",
-        "it": "Buon pomeriggio",
-        "pt": "Tenha uma boa tarde"
       },
       "image_url": ""
     },
@@ -1252,7 +1076,7 @@
         "en": "Thank you for calling",
         "fr": "Merci de votre appel",
         "it": "Grazie per aver chiamato",
-        "pt": "Obrigado por ligar"
+        "pt": "Obrigado/a por ligar"
       },
       "image_url": ""
     },
@@ -1436,76 +1260,10 @@
       "id": "sd_131",
       "es": "Felices vacaciones",
       "translations": {
-        "en": "Enjoy your holiday",
+        "en": "Enjoy your vacation",
         "fr": "Bonnes vacances",
         "it": "Buone vacanze",
         "pt": "Boas férias"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_132",
-      "es": "¿Cómo estás? (otra forma)",
-      "translations": {
-        "en": "How are you doing?",
-        "fr": "Comment ça va ?",
-        "it": "Come stai?",
-        "pt": "Como você está?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_133",
-      "es": "¿Cómo has estado?",
-      "translations": {
-        "en": "How have you been?",
-        "fr": "Comment vas-tu ces derniers temps ?",
-        "it": "Come stai ultimamente?",
-        "pt": "Como você tem passado?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_134",
-      "es": "¿En qué andas?",
-      "translations": {
-        "en": "What are you up to?",
-        "fr": "Tu fais quoi en ce moment ?",
-        "it": "Che cosa stai facendo ultimamente?",
-        "pt": "O que você anda fazendo?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_135",
-      "es": "Estoy bien, gracias. ¿Y tú?",
-      "translations": {
-        "en": "I’m fine, thanks. And you?",
-        "fr": "Je vais bien, merci. Et toi ?",
-        "it": "Sto bene, grazie. E tu?",
-        "pt": "Estou bem, obrigado. E você?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_136",
-      "es": "Estoy bien, gracias. ¿Y usted?",
-      "translations": {
-        "en": "I’m fine, thanks. And you?",
-        "fr": "Je vais bien, merci. Et vous ?",
-        "it": "Sto bene, grazie. E Lei?",
-        "pt": "Estou bem, obrigado. E você?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_137",
-      "es": "Muy bien",
-      "translations": {
-        "en": "Very well",
-        "fr": "Très bien",
-        "it": "Molto bene",
-        "pt": "Muito bem"
       },
       "image_url": ""
     },
@@ -1604,7 +1362,7 @@
         "en": "Thank you for your time",
         "fr": "Merci pour votre temps",
         "it": "Grazie per il suo tempo",
-        "pt": "Obrigado pelo seu tempo"
+        "pt": "Obrigado/a pelo seu tempo"
       },
       "image_url": ""
     },
@@ -1642,13 +1400,35 @@
       "image_url": ""
     },
     {
-      "id": "sd_150",
-      "es": "Sueña con los angelitos",
+      "id": "sd_151",
+      "es": "Nada mal",
       "translations": {
-        "en": "Sweet dreams",
-        "fr": "Fais de beaux rêves",
-        "it": "Sogni d’oro",
-        "pt": "Bons sonhos"
+        "en": "Not bad",
+        "fr": "Pas mal",
+        "it": "Non male",
+        "pt": "Nada mal"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "sd_152",
+      "es": "Hasta ahora, todo bien",
+      "translations": {
+        "en": "So far, so good",
+        "fr": "Jusqu’ici, tout va bien",
+        "it": "Finora tutto bene",
+        "pt": "Até agora, tudo bem"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "sd_153",
+      "es": "Habla [nombre] (por teléfono)",
+      "translations": {
+        "en": "[nombre] speaking",
+        "fr": "[nombre] à l’appareil",
+        "it": "Sono [nombre]",
+        "pt": "Aqui é [nombre]"
       },
       "image_url": ""
     }

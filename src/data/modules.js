@@ -33,6 +33,16 @@ export const MODULES = [
         available: true,
     },
     {
+        id: "a1_cortesia_disculpas_agradecimientos",
+        title: "Cortesía, disculpas y agradecimientos",
+        description: "Permisos, favores, disculpas y agradecimientos.",
+        level: "A1",
+        category: "fundamentos",
+        icon: "🙏",
+        file: "a1_cortesia_disculpas_agradecimientos.json",
+        available: true,
+    },
+    {
         id: "a1_numeros",
         title: "Los Números",
         description: "Dígitos, decenas, millones y negativos",
@@ -112,17 +122,6 @@ export const MODULES = [
         category: "comida-bebida",
         icon: "🗣️",
         file: "a2_restaurantes_y_mesa.json",
-        available: true,
-    },
-    {
-        id: "b1_restaurantes_peticiones_e_imprevistos",
-        title: "Restaurantes: peticiones e imprevistos",
-        description:
-            "Ingredientes, preparación, restricciones detalladas, recomendaciones, modificaciones, errores y reclamaciones.",
-        level: "B1",
-        category: "comida-bebida",
-        icon: "🗣️",
-        file: "b1_restaurantes_peticiones_e_imprevistos.json",
         available: true,
     },
     {
@@ -210,6 +209,17 @@ export const MODULES = [
         icon: "🆘",
         file: "a1_verbos.json",
         available: false,
+    },
+    {
+        id: "b1_restaurantes_peticiones_e_imprevistos",
+        title: "Restaurantes: peticiones e imprevistos",
+        description:
+            "Ingredientes, preparación, restricciones detalladas, recomendaciones, modificaciones, errores y reclamaciones.",
+        level: "B1",
+        category: "comida-bebida",
+        icon: "🗣️",
+        file: "b1_restaurantes_peticiones_e_imprevistos.json",
+        available: true,
     },
 ];
 
