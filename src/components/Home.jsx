@@ -42,6 +42,10 @@ export default function Home({ onSelectModule }) {
 
     const levelModules = MODULES.filter((item) => item.level === level);
 
+    const availableTopicsCount = levelModules.filter(
+        (item) => item.available
+    ).length;
+
     const visibleCategories = CATEGORIES.filter((item) =>
         levelModules.some((module) => module.category === item.id)
     );
@@ -189,9 +193,14 @@ export default function Home({ onSelectModule }) {
 
             <p className="home-muted" role="status" aria-live="polite">
                 {showingTopics
-                    ? `${matchingModules.length} ${matchingModules.length === 1 ? "tema encontrado" : "temas encontrados"
+                    ? `${matchingModules.length} ${matchingModules.length === 1
+                        ? "tema encontrado"
+                        : "temas encontrados"
                     }`
-                    : `${visibleCategories.length} ${visibleCategories.length === 1 ? "categoría" : "categorías"
+                    : `${visibleCategories.length} ${visibleCategories.length === 1
+                        ? "categoría"
+                        : "categorías"
+                    } · ${availableTopicsCount} ${availableTopicsCount === 1 ? "tema" : "temas"
                     }`}
             </p>
 
