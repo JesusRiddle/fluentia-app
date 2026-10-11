@@ -1,0 +1,6122 @@
+{
+  "module": "Restaurantes y mesa",
+  "level": "A2",
+  "cards": [
+    {
+      "id": "rm1",
+      "es": "Mesa",
+      "translations": {
+        "en": "Table",
+        "pt": "Mesa",
+        "fr": "Table",
+        "it": "Tavolo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm2",
+      "es": "Silla",
+      "translations": {
+        "en": "Chair",
+        "pt": "Cadeira",
+        "fr": "Chaise",
+        "it": "Sedia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm3",
+      "es": "Asiento",
+      "translations": {
+        "en": "Seat",
+        "pt": "Assento",
+        "fr": "Place assise",
+        "it": "Posto a sedere"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm4",
+      "es": "Taburete",
+      "translations": {
+        "en": "Stool",
+        "pt": "Banqueta",
+        "fr": "Tabouret",
+        "it": "Sgabello"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm5",
+      "es": "Mantel",
+      "translations": {
+        "en": "Tablecloth",
+        "pt": "Toalha de mesa",
+        "fr": "Nappe",
+        "it": "Tovaglia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm6",
+      "es": "Mantel individual",
+      "translations": {
+        "en": "Placemat",
+        "pt": "Jogo americano",
+        "fr": "Set de table",
+        "it": "Tovaglietta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm7",
+      "es": "Servilleta",
+      "translations": {
+        "en": "Napkin",
+        "pt": "Guardanapo",
+        "fr": "Serviette",
+        "it": "Tovagliolo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm8",
+      "es": "Servilleta de papel",
+      "translations": {
+        "en": "Paper napkin",
+        "pt": "Guardanapo de papel",
+        "fr": "Serviette en papier",
+        "it": "Tovagliolo di carta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm9",
+      "es": "Servilleta de tela",
+      "translations": {
+        "en": "Cloth napkin",
+        "pt": "Guardanapo de tecido",
+        "fr": "Serviette en tissu",
+        "it": "Tovagliolo di stoffa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm10",
+      "es": "Servilletero (porta-servilletas de mesa)",
+      "translations": {
+        "en": "Napkin holder",
+        "pt": "Porta-guardanapos",
+        "fr": "Porte-serviettes de table",
+        "it": "Portatovaglioli"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm11",
+      "es": "Cubiertos",
+      "translations": {
+        "en": "Silverware / Flatware / Cutlery",
+        "pt": "Talheres",
+        "fr": "Couverts",
+        "it": "Posate"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm12",
+      "es": "Cuchara",
+      "translations": {
+        "en": "Spoon",
+        "pt": "Colher",
+        "fr": "Cuillère",
+        "it": "Cucchiaio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm13",
+      "es": "Tenedor",
+      "translations": {
+        "en": "Fork",
+        "pt": "Garfo",
+        "fr": "Fourchette",
+        "it": "Forchetta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm14",
+      "es": "Cuchillo",
+      "translations": {
+        "en": "Knife",
+        "pt": "Faca",
+        "fr": "Couteau",
+        "it": "Coltello"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm15",
+      "es": "Cucharita / Cuchara de té",
+      "translations": {
+        "en": "Teaspoon",
+        "pt": "Colher de chá / Colher pequena",
+        "fr": "Petite cuillère / Cuillère à café",
+        "it": "Cucchiaino"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm16",
+      "es": "Cuchara sopera",
+      "translations": {
+        "en": "Soup spoon",
+        "pt": "Colher de sopa",
+        "fr": "Cuillère à soupe",
+        "it": "Cucchiaio da minestra"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm17",
+      "es": "Cuchillo para carne",
+      "translations": {
+        "en": "Steak knife",
+        "pt": "Faca para carne / Faca de churrasco",
+        "fr": "Couteau à steak",
+        "it": "Coltello da bistecca"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm18",
+      "es": "Cubiertos de postre",
+      "translations": {
+        "en": "Dessert silverware / Dessert utensils",
+        "pt": "Talheres de sobremesa",
+        "fr": "Couverts à dessert",
+        "it": "Posate da dessert"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm19",
+      "es": "Palillos para comer",
+      "translations": {
+        "en": "Chopsticks",
+        "pt": "Hashis",
+        "fr": "Baguettes",
+        "it": "Bacchette"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm20",
+      "es": "Palillo de dientes",
+      "translations": {
+        "en": "Toothpick",
+        "pt": "Palito de dente",
+        "fr": "Cure-dent",
+        "it": "Stuzzicadenti"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm21",
+      "es": "Vajilla",
+      "translations": {
+        "en": "Tableware",
+        "pt": "Louça",
+        "fr": "Vaisselle",
+        "it": "Stoviglie"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm22",
+      "es": "Plato (recipiente para servir comida)",
+      "translations": {
+        "en": "Plate",
+        "pt": "Prato",
+        "fr": "Assiette",
+        "it": "Piatto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm23",
+      "es": "Plato hondo",
+      "translations": {
+        "en": "Soup plate",
+        "pt": "Prato fundo",
+        "fr": "Assiette creuse",
+        "it": "Piatto fondo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm24",
+      "es": "Plato pequeño",
+      "translations": {
+        "en": "Small plate",
+        "pt": "Prato pequeno",
+        "fr": "Petite assiette",
+        "it": "Piattino"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm25",
+      "es": "Plato de postre",
+      "translations": {
+        "en": "Dessert plate",
+        "pt": "Prato de sobremesa",
+        "fr": "Assiette à dessert",
+        "it": "Piatto da dessert"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm26",
+      "es": "Platillo para compartir (comida)",
+      "translations": {
+        "en": "Dish to share / Sharing platter",
+        "pt": "Prato para compartilhar",
+        "fr": "Plat à partager",
+        "it": "Piatto da condividere"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm27",
+      "es": "Tazón",
+      "translations": {
+        "en": "Bowl",
+        "pt": "Tigela",
+        "fr": "Bol",
+        "it": "Ciotola"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm28",
+      "es": "Taza",
+      "translations": {
+        "en": "Cup",
+        "pt": "Xícara",
+        "fr": "Tasse",
+        "it": "Tazza"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm29",
+      "es": "Taza tipo mug",
+      "translations": {
+        "en": "Mug",
+        "pt": "Caneca",
+        "fr": "Mug",
+        "it": "Tazza grande / Mug"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm30",
+      "es": "Platillo para taza",
+      "translations": {
+        "en": "Saucer",
+        "pt": "Pires",
+        "fr": "Soucoupe",
+        "it": "Piattino per tazza"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm31",
+      "es": "Vaso",
+      "translations": {
+        "en": "Glass",
+        "pt": "Copo",
+        "fr": "Verre",
+        "it": "Bicchiere"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm32",
+      "es": "Copa de vino",
+      "translations": {
+        "en": "Wine glass",
+        "pt": "Taça de vinho",
+        "fr": "Verre à vin",
+        "it": "Calice da vino"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm33",
+      "es": "Copa de champaña alargada (tipo flauta)",
+      "translations": {
+        "en": "Champagne flute",
+        "pt": "Taça de champanhe",
+        "fr": "Flûte à champagne",
+        "it": "Flûte da champagne"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm34",
+      "es": "Botella",
+      "translations": {
+        "en": "Bottle",
+        "pt": "Garrafa",
+        "fr": "Bouteille",
+        "it": "Bottiglia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm35",
+      "es": "Botella de agua",
+      "translations": {
+        "en": "Bottle of water",
+        "pt": "Garrafa de água",
+        "fr": "Bouteille d'eau",
+        "it": "Bottiglia d'acqua"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm36",
+      "es": "Botella de vino",
+      "translations": {
+        "en": "Bottle of wine",
+        "pt": "Garrafa de vinho",
+        "fr": "Bouteille de vin",
+        "it": "Bottiglia di vino"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm37",
+      "es": "Jarra",
+      "translations": {
+        "en": "Pitcher / Jug",
+        "pt": "Jarra",
+        "fr": "Carafe",
+        "it": "Caraffa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm38",
+      "es": "Jarra de agua",
+      "translations": {
+        "en": "Pitcher of water",
+        "pt": "Jarra de água",
+        "fr": "Carafe d'eau",
+        "it": "Caraffa d'acqua"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm39",
+      "es": "Charola",
+      "translations": {
+        "en": "Tray",
+        "pt": "Bandeja",
+        "fr": "Plateau",
+        "it": "Vassoio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm40",
+      "es": "Salero",
+      "translations": {
+        "en": "Salt shaker",
+        "pt": "Saleiro",
+        "fr": "Salière",
+        "it": "Saliera"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm41",
+      "es": "Pimentero",
+      "translations": {
+        "en": "Pepper shaker",
+        "pt": "Pimenteiro",
+        "fr": "Poivrière",
+        "it": "Pepiera"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm42",
+      "es": "Azucarero",
+      "translations": {
+        "en": "Sugar bowl",
+        "pt": "Açucareiro",
+        "fr": "Sucrier",
+        "it": "Zuccheriera"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm43",
+      "es": "Sobre de azúcar",
+      "translations": {
+        "en": "Sugar packet / Packet of sugar",
+        "pt": "Sachê de açúcar",
+        "fr": "Sachet de sucre",
+        "it": "Bustina di zucchero"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm44",
+      "es": "Aceitera (para aceite de oliva)",
+      "translations": {
+        "en": "Olive oil cruet",
+        "pt": "Galheteiro de azeite",
+        "fr": "Huilier",
+        "it": "Oliera"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm45",
+      "es": "Vinagrera",
+      "translations": {
+        "en": "Vinegar cruet",
+        "pt": "Galheteiro de vinagre",
+        "fr": "Vinaigrier",
+        "it": "Acetiera"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm46",
+      "es": "Salsera",
+      "translations": {
+        "en": "Sauce boat / Gravy boat",
+        "pt": "Molheira",
+        "fr": "Saucière",
+        "it": "Salsiera"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm47",
+      "es": "Canasta de pan",
+      "translations": {
+        "en": "Bread basket",
+        "pt": "Cesta de pão",
+        "fr": "Corbeille à pain",
+        "it": "Cestino del pane"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm48",
+      "es": "Popote",
+      "translations": {
+        "en": "Straw",
+        "pt": "Canudo",
+        "fr": "Paille",
+        "it": "Cannuccia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm49",
+      "es": "Destapador",
+      "translations": {
+        "en": "Bottle opener",
+        "pt": "Abridor de garrafas",
+        "fr": "Décapsuleur",
+        "it": "Apribottiglie"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm50",
+      "es": "Sacacorchos",
+      "translations": {
+        "en": "Corkscrew",
+        "pt": "Saca-rolhas",
+        "fr": "Tire-bouchon",
+        "it": "Cavatappi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm51",
+      "es": "Pinzas para servir",
+      "translations": {
+        "en": "Serving tongs",
+        "pt": "Pegador de alimentos",
+        "fr": "Pince de service",
+        "it": "Pinze da servizio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm52",
+      "es": "Cucharón",
+      "translations": {
+        "en": "Ladle",
+        "pt": "Concha",
+        "fr": "Louche",
+        "it": "Mestolo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm53",
+      "es": "Recipiente para llevar",
+      "translations": {
+        "en": "Takeout container",
+        "pt": "Embalagem para viagem",
+        "fr": "Boîte à emporter",
+        "it": "Contenitore da asporto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm54",
+      "es": "Bolsa para llevar",
+      "translations": {
+        "en": "Takeout bag",
+        "pt": "Sacola para viagem",
+        "fr": "Sac à emporter",
+        "it": "Sacchetto da asporto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm55",
+      "es": "Tapa de un vaso o recipiente",
+      "translations": {
+        "en": "Lid",
+        "pt": "Tampa",
+        "fr": "Couvercle",
+        "it": "Coperchio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm56",
+      "es": "Restaurante",
+      "translations": {
+        "en": "Restaurant",
+        "pt": "Restaurante",
+        "fr": "Restaurant",
+        "it": "Ristorante"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm57",
+      "es": "Comedor del restaurante",
+      "translations": {
+        "en": "Dining room",
+        "pt": "Salão do restaurante",
+        "fr": "Salle de restaurant",
+        "it": "Sala del ristorante"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm58",
+      "es": "Terraza",
+      "translations": {
+        "en": "Patio / Terrace",
+        "pt": "Terraço / Área externa",
+        "fr": "Terrasse",
+        "it": "Terrazza"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm59",
+      "es": "Barra / Mostrador",
+      "translations": {
+        "en": "Counter / Bar counter",
+        "pt": "Balcão",
+        "fr": "Comptoir",
+        "it": "Bancone"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm60",
+      "es": "Bar",
+      "translations": {
+        "en": "Bar",
+        "pt": "Bar",
+        "fr": "Bar",
+        "it": "Bar"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm61",
+      "es": "Cocina del restaurante",
+      "translations": {
+        "en": "Restaurant kitchen",
+        "pt": "Cozinha do restaurante",
+        "fr": "Cuisine du restaurant",
+        "it": "Cucina del ristorante"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm62",
+      "es": "Entrada del restaurante",
+      "translations": {
+        "en": "Restaurant entrance",
+        "pt": "Entrada do restaurante",
+        "fr": "Entrée du restaurant",
+        "it": "Ingresso del ristorante"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm63",
+      "es": "Baño",
+      "translations": {
+        "en": "Restroom / Bathroom",
+        "pt": "Banheiro",
+        "fr": "Toilettes",
+        "it": "Bagno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm64",
+      "es": "Zona de espera",
+      "translations": {
+        "en": "Waiting area",
+        "pt": "Área de espera",
+        "fr": "Espace d'attente",
+        "it": "Area di attesa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm65",
+      "es": "Mesa junto a la ventana",
+      "translations": {
+        "en": "Table by the window",
+        "pt": "Mesa perto da janela",
+        "fr": "Table près de la fenêtre",
+        "it": "Tavolo vicino alla finestra"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm66",
+      "es": "Mesa adentro",
+      "translations": {
+        "en": "Indoor table",
+        "pt": "Mesa na área interna",
+        "fr": "Table à l'intérieur",
+        "it": "Tavolo all'interno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm67",
+      "es": "Mesa afuera",
+      "translations": {
+        "en": "Outdoor table",
+        "pt": "Mesa na área externa",
+        "fr": "Table à l'extérieur",
+        "it": "Tavolo all'esterno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm68",
+      "es": "Mesa para dos",
+      "translations": {
+        "en": "Table for two",
+        "pt": "Mesa para duas pessoas",
+        "fr": "Table pour deux",
+        "it": "Tavolo per due"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm69",
+      "es": "Mesa compartida",
+      "translations": {
+        "en": "Shared table",
+        "pt": "Mesa compartilhada",
+        "fr": "Table partagée",
+        "it": "Tavolo condiviso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm70",
+      "es": "Silla alta para bebé",
+      "translations": {
+        "en": "High chair",
+        "pt": "Cadeirão para bebê",
+        "fr": "Chaise haute pour bébé",
+        "it": "Seggiolone"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm71",
+      "es": "Mesero/a",
+      "translations": {
+        "en": "Server / Waiter / Waitress",
+        "pt": "Garçom / Garçonete",
+        "fr": "Serveur / Serveuse",
+        "it": "Cameriere / Cameriera"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm72",
+      "es": "Cajero/a",
+      "translations": {
+        "en": "Cashier",
+        "pt": "Caixa",
+        "fr": "Caissier / Caissière",
+        "it": "Cassiere / Cassiera"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm73",
+      "es": "Recepcionista del restaurante",
+      "translations": {
+        "en": "Restaurant host / Hostess",
+        "pt": "Recepcionista do restaurante",
+        "fr": "Employé / Employée d'accueil",
+        "it": "Addetto / Addetta all'accoglienza"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm74",
+      "es": "Cocinero/a",
+      "translations": {
+        "en": "Cook",
+        "pt": "Cozinheiro / Cozinheira",
+        "fr": "Cuisinier / Cuisinière",
+        "it": "Cuoco / Cuoca"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm75",
+      "es": "Chef / Jefe/a de cocina",
+      "translations": {
+        "en": "Chef",
+        "pt": "Chef de cozinha",
+        "fr": "Chef de cuisine",
+        "it": "Chef / Capocuoco"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm76",
+      "es": "Gerente",
+      "translations": {
+        "en": "Manager",
+        "pt": "Gerente",
+        "fr": "Responsable / Gérant / Gérante",
+        "it": "Responsabile / Direttore / Direttrice"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm77",
+      "es": "Cliente (persona que compra o consume)",
+      "translations": {
+        "en": "Customer",
+        "pt": "Cliente",
+        "fr": "Client / Cliente",
+        "it": "Cliente"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm78",
+      "es": "Comensal",
+      "translations": {
+        "en": "Diner",
+        "pt": "Comensal",
+        "fr": "Convive",
+        "it": "Commensale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm79",
+      "es": "Servicio a la mesa",
+      "translations": {
+        "en": "Table service",
+        "pt": "Serviço de mesa",
+        "fr": "Service à table",
+        "it": "Servizio al tavolo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm80",
+      "es": "Autoservicio",
+      "translations": {
+        "en": "Self-service",
+        "pt": "Autosserviço",
+        "fr": "Libre-service",
+        "it": "Self-service"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm81",
+      "es": "Carta / Menú (lista de platillos)",
+      "translations": {
+        "en": "Menu",
+        "pt": "Cardápio",
+        "fr": "Carte",
+        "it": "Menù"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm82",
+      "es": "Carta de bebidas",
+      "translations": {
+        "en": "Drink menu",
+        "pt": "Cardápio de bebidas",
+        "fr": "Carte des boissons",
+        "it": "Menù delle bevande"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm83",
+      "es": "Carta de vinos",
+      "translations": {
+        "en": "Wine list",
+        "pt": "Carta de vinhos",
+        "fr": "Carte des vins",
+        "it": "Carta dei vini"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm84",
+      "es": "Menú del día",
+      "translations": {
+        "en": "Daily set menu",
+        "pt": "Menu do dia",
+        "fr": "Menu du jour",
+        "it": "Menù del giorno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm85",
+      "es": "Menú de precio fijo",
+      "translations": {
+        "en": "Prix fixe menu / Fixed-price menu",
+        "pt": "Menu de preço fixo",
+        "fr": "Menu à prix fixe",
+        "it": "Menù a prezzo fisso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm86",
+      "es": "A la carta (platillos que se piden individualmente)",
+      "translations": {
+        "en": "À la carte",
+        "pt": "À la carte",
+        "fr": "À la carte",
+        "it": "Alla carta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm87",
+      "es": "Menú infantil",
+      "translations": {
+        "en": "Kids' menu",
+        "pt": "Cardápio infantil / Menu infantil",
+        "fr": "Menu enfant",
+        "it": "Menù per bambini"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm88",
+      "es": "Especialidad de la casa",
+      "translations": {
+        "en": "House specialty",
+        "pt": "Especialidade da casa",
+        "fr": "Spécialité de la maison",
+        "it": "Specialità della casa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm89",
+      "es": "Plato del día",
+      "translations": {
+        "en": "Dish of the day",
+        "pt": "Prato do dia",
+        "fr": "Plat du jour",
+        "it": "Piatto del giorno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm90",
+      "es": "Entrada / Entrante (antes del plato principal)",
+      "translations": {
+        "en": "Appetizer / Starter",
+        "pt": "Entrada",
+        "fr": "Entrée",
+        "it": "Antipasto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm91",
+      "es": "Plato principal / Plato fuerte",
+      "translations": {
+        "en": "Main course / Entrée",
+        "pt": "Prato principal",
+        "fr": "Plat principal",
+        "it": "Piatto principale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm92",
+      "es": "Primer plato italiano (pasta, arroz o sopa, por ejemplo)",
+      "translations": {
+        "en": "First course (Italian primo)",
+        "pt": "Primeiro prato (primo, na Itália)",
+        "fr": "Premier plat (primo, en Italie)",
+        "it": "Primo piatto / Primo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm93",
+      "es": "Segundo plato italiano (carne o pescado, por ejemplo)",
+      "translations": {
+        "en": "Second course (Italian secondo)",
+        "pt": "Segundo prato (secondo, na Itália)",
+        "fr": "Deuxième plat (secondo, en Italie)",
+        "it": "Secondo piatto / Secondo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm94",
+      "es": "Guarnición",
+      "translations": {
+        "en": "Side dish",
+        "pt": "Acompanhamento",
+        "fr": "Accompagnement / Garniture",
+        "it": "Contorno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm95",
+      "es": "Postre",
+      "translations": {
+        "en": "Dessert",
+        "pt": "Sobremesa",
+        "fr": "Dessert",
+        "it": "Dessert / Dolce"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm96",
+      "es": "Bebida",
+      "translations": {
+        "en": "Drink / Beverage",
+        "pt": "Bebida",
+        "fr": "Boisson",
+        "it": "Bevanda"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm97",
+      "es": "Aperitivo (bebida antes de comer)",
+      "translations": {
+        "en": "Aperitif",
+        "pt": "Aperitivo",
+        "fr": "Apéritif",
+        "it": "Aperitivo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm98",
+      "es": "Desayuno",
+      "translations": {
+        "en": "Breakfast",
+        "pt": "Café da manhã",
+        "fr": "Petit-déjeuner",
+        "it": "Colazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm99",
+      "es": "Almuerzo",
+      "translations": {
+        "en": "Lunch",
+        "pt": "Almoço",
+        "fr": "Déjeuner",
+        "it": "Pranzo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm100",
+      "es": "Cena",
+      "translations": {
+        "en": "Dinner",
+        "pt": "Jantar",
+        "fr": "Dîner",
+        "it": "Cena"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm101",
+      "es": "Brunch",
+      "translations": {
+        "en": "Brunch",
+        "pt": "Brunch",
+        "fr": "Brunch",
+        "it": "Brunch"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm102",
+      "es": "Comida (ocasión de comer)",
+      "translations": {
+        "en": "Meal",
+        "pt": "Refeição",
+        "fr": "Repas",
+        "it": "Pasto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm103",
+      "es": "Platillo / Plato (comida preparada)",
+      "translations": {
+        "en": "Dish",
+        "pt": "Prato",
+        "fr": "Plat",
+        "it": "Piatto / Pietanza"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm104",
+      "es": "Porción",
+      "translations": {
+        "en": "Portion",
+        "pt": "Porção",
+        "fr": "Portion",
+        "it": "Porzione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm105",
+      "es": "Media porción",
+      "translations": {
+        "en": "Half portion / Half order",
+        "pt": "Meia porção",
+        "fr": "Demi-portion",
+        "it": "Mezza porzione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm106",
+      "es": "Ingrediente",
+      "translations": {
+        "en": "Ingredient",
+        "pt": "Ingrediente",
+        "fr": "Ingrédient",
+        "it": "Ingrediente"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm107",
+      "es": "Salsa",
+      "translations": {
+        "en": "Sauce",
+        "pt": "Molho",
+        "fr": "Sauce",
+        "it": "Salsa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm108",
+      "es": "Aderezo para ensalada",
+      "translations": {
+        "en": "Salad dressing",
+        "pt": "Molho para salada",
+        "fr": "Sauce pour salade",
+        "it": "Condimento per insalata"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm109",
+      "es": "Condimento",
+      "translations": {
+        "en": "Seasoning",
+        "pt": "Tempero",
+        "fr": "Assaisonnement",
+        "it": "Condimento"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm110",
+      "es": "Relleno",
+      "translations": {
+        "en": "Filling",
+        "pt": "Recheio",
+        "fr": "Farce",
+        "it": "Ripieno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm111",
+      "es": "Pedido",
+      "translations": {
+        "en": "Order",
+        "pt": "Pedido",
+        "fr": "Commande",
+        "it": "Ordinazione / Ordine"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm112",
+      "es": "Reservación / Reserva",
+      "translations": {
+        "en": "Reservation",
+        "pt": "Reserva",
+        "fr": "Réservation",
+        "it": "Prenotazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm113",
+      "es": "Lista de espera",
+      "translations": {
+        "en": "Waitlist",
+        "pt": "Lista de espera",
+        "fr": "Liste d'attente",
+        "it": "Lista d'attesa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm114",
+      "es": "Tiempo de espera",
+      "translations": {
+        "en": "Wait time",
+        "pt": "Tempo de espera",
+        "fr": "Temps d'attente",
+        "it": "Tempo di attesa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm115",
+      "es": "Horario de apertura",
+      "translations": {
+        "en": "Opening time",
+        "pt": "Horário de abertura",
+        "fr": "Heure d'ouverture",
+        "it": "Orario di apertura"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm116",
+      "es": "Horario de cierre",
+      "translations": {
+        "en": "Closing time",
+        "pt": "Horário de fechamento",
+        "fr": "Heure de fermeture",
+        "it": "Orario di chiusura"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm117",
+      "es": "Precio",
+      "translations": {
+        "en": "Price",
+        "pt": "Preço",
+        "fr": "Prix",
+        "it": "Prezzo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm118",
+      "es": "Cuenta del restaurante",
+      "translations": {
+        "en": "Check / Bill",
+        "pt": "Conta",
+        "fr": "Addition",
+        "it": "Conto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm119",
+      "es": "Propina",
+      "translations": {
+        "en": "Tip",
+        "pt": "Gorjeta",
+        "fr": "Pourboire",
+        "it": "Mancia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm120",
+      "es": "Cargo por servicio",
+      "translations": {
+        "en": "Service charge",
+        "pt": "Taxa de serviço",
+        "fr": "Frais de service",
+        "it": "Servizio / Costo del servizio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm121",
+      "es": "Cargo por cubierto (por persona, en un restaurante)",
+      "translations": {
+        "en": "Per-person cover charge (restaurant)",
+        "pt": "Taxa por pessoa pelo uso da mesa (coperto, na Itália)",
+        "fr": "Frais de couvert par personne",
+        "it": "Coperto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm122",
+      "es": "Impuesto",
+      "translations": {
+        "en": "Tax",
+        "pt": "Imposto",
+        "fr": "Taxe",
+        "it": "Imposta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm123",
+      "es": "Recibo",
+      "translations": {
+        "en": "Receipt",
+        "pt": "Recibo / Comprovante de pagamento",
+        "fr": "Reçu / Ticket de caisse",
+        "it": "Ricevuta / Scontrino"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm124",
+      "es": "Efectivo",
+      "translations": {
+        "en": "Cash",
+        "pt": "Dinheiro / Dinheiro em espécie",
+        "fr": "Espèces",
+        "it": "Contanti"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm125",
+      "es": "Cambio (dinero que devuelven)",
+      "translations": {
+        "en": "Change",
+        "pt": "Troco",
+        "fr": "Monnaie rendue",
+        "it": "Resto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm126",
+      "es": "Tarjeta de crédito",
+      "translations": {
+        "en": "Credit card",
+        "pt": "Cartão de crédito",
+        "fr": "Carte de crédit",
+        "it": "Carta di credito"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm127",
+      "es": "Tarjeta de débito",
+      "translations": {
+        "en": "Debit card",
+        "pt": "Cartão de débito",
+        "fr": "Carte de débit",
+        "it": "Carta di debito"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm128",
+      "es": "Terminal de pago",
+      "translations": {
+        "en": "Card reader / Payment terminal",
+        "pt": "Maquininha de cartão",
+        "fr": "Terminal de paiement",
+        "it": "POS / Terminale di pagamento"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm129",
+      "es": "Pago sin contacto",
+      "translations": {
+        "en": "Contactless payment",
+        "pt": "Pagamento por aproximação",
+        "fr": "Paiement sans contact",
+        "it": "Pagamento senza contatto / Pagamento contactless"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm130",
+      "es": "Pix (pago instantáneo brasileño)",
+      "translations": {
+        "en": "Pix (Brazilian instant payment system)",
+        "pt": "Pix",
+        "fr": "Pix (système brésilien de paiement instantané)",
+        "it": "Pix (sistema brasiliano di pagamento istantaneo)"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm131",
+      "es": "Cuenta separada",
+      "translations": {
+        "en": "Separate check",
+        "pt": "Conta separada",
+        "fr": "Addition séparée",
+        "it": "Conto separato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm132",
+      "es": "Comida para llevar",
+      "translations": {
+        "en": "Takeout / Carryout / Takeout food",
+        "pt": "Comida para viagem",
+        "fr": "Repas à emporter",
+        "it": "Cibo da asporto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm133",
+      "es": "Pedido para recoger",
+      "translations": {
+        "en": "Pickup order",
+        "pt": "Pedido para retirada",
+        "fr": "Commande à récupérer",
+        "it": "Ordine da ritirare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm134",
+      "es": "Sobras de comida",
+      "translations": {
+        "en": "Leftovers",
+        "pt": "Sobras de comida",
+        "fr": "Restes du repas",
+        "it": "Avanzi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm135",
+      "es": "Bufé",
+      "translations": {
+        "en": "Buffet",
+        "pt": "Bufê / Buffet",
+        "fr": "Buffet",
+        "it": "Buffet"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm136",
+      "es": "Comida ilimitada por precio fijo",
+      "translations": {
+        "en": "All-you-can-eat",
+        "pt": "Comida à vontade por um preço fixo",
+        "fr": "À volonté à prix fixe",
+        "it": "A volontà a prezzo fisso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm137",
+      "es": "Sabor",
+      "translations": {
+        "en": "Flavor / Taste",
+        "pt": "Sabor",
+        "fr": "Goût",
+        "it": "Sapore"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm138",
+      "es": "Dulce",
+      "translations": {
+        "en": "Sweet",
+        "pt": "Doce",
+        "fr": "Sucré",
+        "it": "Dolce"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm139",
+      "es": "Salado (con sabor a sal)",
+      "translations": {
+        "en": "Salty",
+        "pt": "Salgado",
+        "fr": "Salé",
+        "it": "Salato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm140",
+      "es": "Salado (opuesto a dulce, tipo de comida)",
+      "translations": {
+        "en": "Savory",
+        "pt": "Salgado (em oposição a doce)",
+        "fr": "Salé (par opposition à sucré)",
+        "it": "Salato (contrapposto a dolce)"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm141",
+      "es": "Ácido / Agrio (sabor)",
+      "translations": {
+        "en": "Sour",
+        "pt": "Azedo / Ácido",
+        "fr": "Acide",
+        "it": "Aspro / Acido"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm142",
+      "es": "Amargo",
+      "translations": {
+        "en": "Bitter",
+        "pt": "Amargo",
+        "fr": "Amer",
+        "it": "Amaro"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm143",
+      "es": "Picante (que produce picor)",
+      "translations": {
+        "en": "Spicy",
+        "pt": "Apimentado",
+        "fr": "Piquant / Pimenté",
+        "it": "Piccante"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm144",
+      "es": "No picante",
+      "translations": {
+        "en": "Not spicy",
+        "pt": "Não apimentado",
+        "fr": "Pas piquant / Non piquant",
+        "it": "Non piccante"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm145",
+      "es": "Muy picante",
+      "translations": {
+        "en": "Very spicy",
+        "pt": "Muito apimentado",
+        "fr": "Très piquant",
+        "it": "Molto piccante"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm146",
+      "es": "Crujiente",
+      "translations": {
+        "en": "Crispy",
+        "pt": "Crocante",
+        "fr": "Croustillant",
+        "it": "Croccante"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm147",
+      "es": "Tierno (fácil de masticar)",
+      "translations": {
+        "en": "Tender",
+        "pt": "Macio",
+        "fr": "Tendre",
+        "it": "Tenero"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm148",
+      "es": "Jugoso",
+      "translations": {
+        "en": "Juicy",
+        "pt": "Suculento",
+        "fr": "Juteux",
+        "it": "Succoso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm149",
+      "es": "Cremoso",
+      "translations": {
+        "en": "Creamy",
+        "pt": "Cremoso",
+        "fr": "Crémeux",
+        "it": "Cremoso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm150",
+      "es": "Caliente (temperatura)",
+      "translations": {
+        "en": "Hot",
+        "pt": "Quente",
+        "fr": "Chaud",
+        "it": "Caldo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm151",
+      "es": "Frío",
+      "translations": {
+        "en": "Cold",
+        "pt": "Frio",
+        "fr": "Froid",
+        "it": "Freddo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm152",
+      "es": "Tibio",
+      "translations": {
+        "en": "Lukewarm / Warm",
+        "pt": "Morno",
+        "fr": "Tiède",
+        "it": "Tiepido"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm153",
+      "es": "Crudo (sin cocinar)",
+      "translations": {
+        "en": "Raw",
+        "pt": "Cru",
+        "fr": "Cru",
+        "it": "Crudo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm154",
+      "es": "Cocido (cocinado)",
+      "translations": {
+        "en": "Cooked",
+        "pt": "Cozido / Cozinhado",
+        "fr": "Cuit",
+        "it": "Cotto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm155",
+      "es": "Frito",
+      "translations": {
+        "en": "Fried",
+        "pt": "Frito",
+        "fr": "Frit",
+        "it": "Fritto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm156",
+      "es": "Empanizado",
+      "translations": {
+        "en": "Breaded",
+        "pt": "Empanado",
+        "fr": "Pané",
+        "it": "Impanato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm157",
+      "es": "A la parrilla",
+      "translations": {
+        "en": "Grilled",
+        "pt": "Grelhado",
+        "fr": "Grillé",
+        "it": "Alla griglia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm158",
+      "es": "A la plancha",
+      "translations": {
+        "en": "Cooked on a griddle",
+        "pt": "Feito na chapa",
+        "fr": "Cuit à la plancha",
+        "it": "Alla piastra"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm159",
+      "es": "Al horno",
+      "translations": {
+        "en": "Oven-baked",
+        "pt": "Assado no forno",
+        "fr": "Cuit au four",
+        "it": "Al forno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm160",
+      "es": "Al vapor",
+      "translations": {
+        "en": "Steamed",
+        "pt": "Cozido no vapor",
+        "fr": "Cuit à la vapeur",
+        "it": "Al vapore"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm161",
+      "es": "Hervido (cocinado en agua)",
+      "translations": {
+        "en": "Boiled",
+        "pt": "Cozido em água fervente / Fervido",
+        "fr": "Bouilli",
+        "it": "Bollito"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm162",
+      "es": "Guisado",
+      "translations": {
+        "en": "Stewed",
+        "pt": "Ensopado",
+        "fr": "Mijoté",
+        "it": "Stufato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm163",
+      "es": "Ahumado",
+      "translations": {
+        "en": "Smoked",
+        "pt": "Defumado",
+        "fr": "Fumé",
+        "it": "Affumicato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm164",
+      "es": "Carne poco hecha / Término rojo",
+      "translations": {
+        "en": "Rare meat / Meat cooked rare",
+        "pt": "Carne malpassada",
+        "fr": "Viande saignante",
+        "it": "Carne al sangue"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm165",
+      "es": "Carne a término medio",
+      "translations": {
+        "en": "Meat cooked medium",
+        "pt": "Carne ao ponto",
+        "fr": "Viande à point",
+        "it": "Carne a cottura media"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm166",
+      "es": "Carne bien cocida",
+      "translations": {
+        "en": "Well-done meat",
+        "pt": "Carne bem-passada",
+        "fr": "Viande bien cuite",
+        "it": "Carne ben cotta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm167",
+      "es": "Sin hielo",
+      "translations": {
+        "en": "No ice",
+        "pt": "Sem gelo",
+        "fr": "Sans glaçons",
+        "it": "Senza ghiaccio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm168",
+      "es": "Con hielo",
+      "translations": {
+        "en": "With ice",
+        "pt": "Com gelo",
+        "fr": "Avec des glaçons",
+        "it": "Con ghiaccio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm169",
+      "es": "Sin azúcar",
+      "translations": {
+        "en": "Without sugar",
+        "pt": "Sem açúcar",
+        "fr": "Sans sucre",
+        "it": "Senza zucchero"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm170",
+      "es": "Sin azúcar añadida",
+      "translations": {
+        "en": "No added sugar",
+        "pt": "Sem adição de açúcar",
+        "fr": "Sans sucre ajouté",
+        "it": "Senza zuccheri aggiunti"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm171",
+      "es": "Sin sal",
+      "translations": {
+        "en": "Without salt",
+        "pt": "Sem sal",
+        "fr": "Sans sel",
+        "it": "Senza sale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm172",
+      "es": "Con poca sal",
+      "translations": {
+        "en": "With little salt",
+        "pt": "Com pouco sal",
+        "fr": "Avec peu de sel",
+        "it": "Con poco sale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm173",
+      "es": "Sin alcohol",
+      "translations": {
+        "en": "Alcohol-free",
+        "pt": "Sem álcool",
+        "fr": "Sans alcool",
+        "it": "Senza alcol"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm174",
+      "es": "Agua sin gas",
+      "translations": {
+        "en": "Still water",
+        "pt": "Água sem gás",
+        "fr": "Eau plate",
+        "it": "Acqua naturale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm175",
+      "es": "Agua con gas",
+      "translations": {
+        "en": "Sparkling water",
+        "pt": "Água com gás",
+        "fr": "Eau gazeuse",
+        "it": "Acqua frizzante"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm176",
+      "es": "Agua de la llave",
+      "translations": {
+        "en": "Tap water",
+        "pt": "Água da torneira",
+        "fr": "Eau du robinet",
+        "it": "Acqua del rubinetto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm177",
+      "es": "A temperatura ambiente",
+      "translations": {
+        "en": "At room temperature",
+        "pt": "Em temperatura ambiente",
+        "fr": "À température ambiante",
+        "it": "A temperatura ambiente"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm178",
+      "es": "Vino por copa",
+      "translations": {
+        "en": "Wine by the glass",
+        "pt": "Vinho em taça",
+        "fr": "Vin au verre",
+        "it": "Vino al calice"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm179",
+      "es": "Vino de la casa",
+      "translations": {
+        "en": "House wine",
+        "pt": "Vinho da casa",
+        "fr": "Vin de la maison",
+        "it": "Vino della casa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm180",
+      "es": "Vino tinto",
+      "translations": {
+        "en": "Red wine",
+        "pt": "Vinho tinto",
+        "fr": "Vin rouge",
+        "it": "Vino rosso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm181",
+      "es": "Vino blanco",
+      "translations": {
+        "en": "White wine",
+        "pt": "Vinho branco",
+        "fr": "Vin blanc",
+        "it": "Vino bianco"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm182",
+      "es": "Vino rosado",
+      "translations": {
+        "en": "Rosé wine",
+        "pt": "Vinho rosé",
+        "fr": "Vin rosé",
+        "it": "Vino rosato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm183",
+      "es": "Cerveza de barril",
+      "translations": {
+        "en": "Draft beer",
+        "pt": "Chope",
+        "fr": "Bière pression",
+        "it": "Birra alla spina"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm184",
+      "es": "Cerveza sin alcohol",
+      "translations": {
+        "en": "Nonalcoholic beer / Alcohol-free beer",
+        "pt": "Cerveja sem álcool",
+        "fr": "Bière sans alcool",
+        "it": "Birra analcolica / Birra senza alcol"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm185",
+      "es": "Alergia alimentaria",
+      "translations": {
+        "en": "Food allergy",
+        "pt": "Alergia alimentar",
+        "fr": "Allergie alimentaire",
+        "it": "Allergia alimentare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm186",
+      "es": "Intolerancia alimentaria",
+      "translations": {
+        "en": "Food intolerance",
+        "pt": "Intolerância alimentar",
+        "fr": "Intolérance alimentaire",
+        "it": "Intolleranza alimentare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm187",
+      "es": "Intolerancia a la lactosa",
+      "translations": {
+        "en": "Lactose intolerance",
+        "pt": "Intolerância à lactose",
+        "fr": "Intolérance au lactose",
+        "it": "Intolleranza al lattosio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm188",
+      "es": "Lactosa",
+      "translations": {
+        "en": "Lactose",
+        "pt": "Lactose",
+        "fr": "Lactose",
+        "it": "Lattosio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm189",
+      "es": "Lácteos",
+      "translations": {
+        "en": "Dairy products",
+        "pt": "Laticínios / Leite e derivados",
+        "fr": "Produits laitiers",
+        "it": "Latticini"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm190",
+      "es": "Leche",
+      "translations": {
+        "en": "Milk",
+        "pt": "Leite",
+        "fr": "Lait",
+        "it": "Latte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm191",
+      "es": "Queso",
+      "translations": {
+        "en": "Cheese",
+        "pt": "Queijo",
+        "fr": "Fromage",
+        "it": "Formaggio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm192",
+      "es": "Mantequilla",
+      "translations": {
+        "en": "Butter",
+        "pt": "Manteiga",
+        "fr": "Beurre",
+        "it": "Burro"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm193",
+      "es": "Crema de leche",
+      "translations": {
+        "en": "Cream",
+        "pt": "Creme de leite",
+        "fr": "Crème",
+        "it": "Panna"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm194",
+      "es": "Huevo",
+      "translations": {
+        "en": "Egg",
+        "pt": "Ovo",
+        "fr": "Œuf",
+        "it": "Uovo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm195",
+      "es": "Gluten",
+      "translations": {
+        "en": "Gluten",
+        "pt": "Glúten",
+        "fr": "Gluten",
+        "it": "Glutine"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm196",
+      "es": "Trigo",
+      "translations": {
+        "en": "Wheat",
+        "pt": "Trigo",
+        "fr": "Blé",
+        "it": "Grano / Frumento"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm197",
+      "es": "Cacahuate",
+      "translations": {
+        "en": "Peanut",
+        "pt": "Amendoim",
+        "fr": "Cacahuète",
+        "it": "Arachide"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm198",
+      "es": "Frutos secos de árbol (nueces, almendras, etc.)",
+      "translations": {
+        "en": "Tree nuts",
+        "pt": "Castanhas e nozes",
+        "fr": "Fruits à coque",
+        "it": "Frutta a guscio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm199",
+      "es": "Pescado",
+      "translations": {
+        "en": "Fish",
+        "pt": "Peixe",
+        "fr": "Poisson",
+        "it": "Pesce"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm200",
+      "es": "Mariscos (crustáceos y moluscos)",
+      "translations": {
+        "en": "Shellfish",
+        "pt": "Crustáceos e moluscos",
+        "fr": "Crustacés et mollusques",
+        "it": "Crostacei e molluschi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm201",
+      "es": "Camarón",
+      "translations": {
+        "en": "Shrimp",
+        "pt": "Camarão",
+        "fr": "Crevette",
+        "it": "Gambero"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm202",
+      "es": "Soya",
+      "translations": {
+        "en": "Soy",
+        "pt": "Soja",
+        "fr": "Soja",
+        "it": "Soia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm203",
+      "es": "Ajonjolí",
+      "translations": {
+        "en": "Sesame",
+        "pt": "Gergelim",
+        "fr": "Sésame",
+        "it": "Sesamo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm204",
+      "es": "Mostaza",
+      "translations": {
+        "en": "Mustard",
+        "pt": "Mostarda",
+        "fr": "Moutarde",
+        "it": "Senape"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm205",
+      "es": "Apio",
+      "translations": {
+        "en": "Celery",
+        "pt": "Aipo / Salsão",
+        "fr": "Céleri",
+        "it": "Sedano"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm206",
+      "es": "Sin lactosa",
+      "translations": {
+        "en": "Lactose-free",
+        "pt": "Sem lactose",
+        "fr": "Sans lactose",
+        "it": "Senza lattosio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm207",
+      "es": "Sin leche",
+      "translations": {
+        "en": "Without milk",
+        "pt": "Sem leite",
+        "fr": "Sans lait",
+        "it": "Senza latte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm208",
+      "es": "Sin lácteos",
+      "translations": {
+        "en": "Dairy-free",
+        "pt": "Sem laticínios / Sem leite e derivados",
+        "fr": "Sans produits laitiers",
+        "it": "Senza latticini / Senza latte e derivati"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm209",
+      "es": "Sin gluten",
+      "translations": {
+        "en": "Gluten-free",
+        "pt": "Sem glúten",
+        "fr": "Sans gluten",
+        "it": "Senza glutine"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm210",
+      "es": "Vegetariano/a (tipo de comida)",
+      "translations": {
+        "en": "Vegetarian",
+        "pt": "Vegetariano / Vegetariana",
+        "fr": "Végétarien / Végétarienne",
+        "it": "Vegetariano / Vegetariana"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm211",
+      "es": "Vegano/a (tipo de comida)",
+      "translations": {
+        "en": "Vegan",
+        "pt": "Vegano / Vegana",
+        "fr": "Végétalien / Végétalienne / Végan / Végane",
+        "it": "Vegano / Vegana"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm212",
+      "es": "Bebida vegetal (alternativa a la leche)",
+      "translations": {
+        "en": "Plant-based milk / Plant-based milk alternative",
+        "pt": "Bebida vegetal",
+        "fr": "Boisson végétale",
+        "it": "Bevanda vegetale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm213",
+      "es": "Mesa con asientos tipo banca tapizada (booth)",
+      "translations": {
+        "en": "Booth",
+        "pt": "Mesa com bancos estofados",
+        "fr": "Table avec banquettes",
+        "it": "Tavolo con panche imbottite"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm214",
+      "es": "Alérgeno",
+      "translations": {
+        "en": "Allergen",
+        "pt": "Alérgeno",
+        "fr": "Allergène",
+        "it": "Allergene"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm215",
+      "es": "Lista de alérgenos",
+      "translations": {
+        "en": "Allergen list",
+        "pt": "Lista de alérgenos",
+        "fr": "Liste des allergènes",
+        "it": "Elenco degli allergeni"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm216",
+      "es": "Halal",
+      "translations": {
+        "en": "Halal",
+        "pt": "Halal",
+        "fr": "Halal",
+        "it": "Halal"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm217",
+      "es": "Kosher",
+      "translations": {
+        "en": "Kosher",
+        "pt": "Kosher",
+        "fr": "Casher / Kasher",
+        "it": "Kosher"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm218",
+      "es": "Quisiera reservar una mesa.",
+      "translations": {
+        "en": "I'd like to reserve a table.",
+        "pt": "Gostaria de reservar uma mesa.",
+        "fr": "Je voudrais réserver une table.",
+        "it": "Vorrei prenotare un tavolo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm219",
+      "es": "¿Es necesario reservar?",
+      "translations": {
+        "en": "Do I need a reservation?",
+        "pt": "É preciso reservar?",
+        "fr": "Faut-il réserver ?",
+        "it": "È necessario prenotare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm220",
+      "es": "¿Tienen una mesa disponible?",
+      "translations": {
+        "en": "Do you have a table available?",
+        "pt": "Vocês têm uma mesa disponível?",
+        "fr": "Avez-vous une table disponible ?",
+        "it": "Avete un tavolo libero?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm221",
+      "es": "¿Me da una mesa para dos, por favor?",
+      "translations": {
+        "en": "Can I have a table for two, please?",
+        "pt": "Pode me dar uma mesa para duas pessoas, por favor? / Uma mesa para duas pessoas, por favor.",
+        "fr": "Pourrais-je avoir une table pour deux, s'il vous plaît ?",
+        "it": "Posso avere un tavolo per due, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm222",
+      "es": "Quisiera una mesa para esta noche.",
+      "translations": {
+        "en": "I'd like a table for tonight.",
+        "pt": "Gostaria de uma mesa para hoje à noite.",
+        "fr": "Je voudrais une table pour ce soir.",
+        "it": "Vorrei un tavolo per stasera."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm223",
+      "es": "¿Hay disponibilidad a las [hora]?",
+      "translations": {
+        "en": "Do you have a table available at [time]?",
+        "pt": "Vocês têm uma mesa disponível às [horário]?",
+        "fr": "Avez-vous de la place à [heure] ?",
+        "it": "C'è disponibilità alle [ora]?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm224",
+      "es": "Tengo una reservación a nombre de [nombre].",
+      "translations": {
+        "en": "I have a reservation under the name [name].",
+        "pt": "Tenho uma reserva em nome de [nome].",
+        "fr": "J'ai une réservation au nom de [nom].",
+        "it": "Ho una prenotazione a nome di [nome]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm225",
+      "es": "No tenemos reservación.",
+      "translations": {
+        "en": "We don't have a reservation.",
+        "pt": "Não temos reserva.",
+        "fr": "Nous n'avons pas réservé.",
+        "it": "Non abbiamo una prenotazione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm226",
+      "es": "Somos [número] personas.",
+      "translations": {
+        "en": "There are [number] of us.",
+        "pt": "Somos [número] pessoas.",
+        "fr": "Nous sommes [nombre] personnes.",
+        "it": "Siamo [numero] persone."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm227",
+      "es": "Estoy esperando a alguien.",
+      "translations": {
+        "en": "I'm waiting for someone.",
+        "pt": "Estou esperando alguém.",
+        "fr": "J'attends quelqu'un.",
+        "it": "Sto aspettando qualcuno."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm228",
+      "es": "Mi acompañante llegará más tarde.",
+      "translations": {
+        "en": "The person I'm dining with will arrive later.",
+        "pt": "A pessoa que vem comigo vai chegar mais tarde.",
+        "fr": "La personne qui m'accompagne arrivera plus tard.",
+        "it": "La persona che viene con me arriverà più tardi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm229",
+      "es": "¿Podemos sentarnos mientras esperamos?",
+      "translations": {
+        "en": "Can we sit down while we wait?",
+        "pt": "Podemos nos sentar enquanto esperamos?",
+        "fr": "Pouvons-nous nous asseoir en attendant ?",
+        "it": "Possiamo sederci mentre aspettiamo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm230",
+      "es": "¿Cuánto tiempo hay que esperar?",
+      "translations": {
+        "en": "How long is the wait?",
+        "pt": "Quanto tempo temos que esperar? / Qual é o tempo de espera?",
+        "fr": "Combien de temps faut-il attendre ?",
+        "it": "Quanto c'è da aspettare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm231",
+      "es": "¿Nos puede agregar a la lista de espera?",
+      "translations": {
+        "en": "Could you put us on the waitlist?",
+        "pt": "Pode colocar a gente na lista de espera?",
+        "fr": "Pouvez-vous nous ajouter à la liste d'attente ?",
+        "it": "Può metterci in lista d'attesa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm232",
+      "es": "¿Cómo nos avisarán cuando haya una mesa?",
+      "translations": {
+        "en": "How will you let us know when a table is ready?",
+        "pt": "Como vocês vão avisar quando tiver uma mesa?",
+        "fr": "Comment nous préviendrez-vous lorsqu'une table sera disponible ?",
+        "it": "Come ci avviserete quando ci sarà un tavolo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm233",
+      "es": "Quisiera cambiar mi reservación.",
+      "translations": {
+        "en": "I'd like to change my reservation.",
+        "pt": "Gostaria de alterar minha reserva.",
+        "fr": "Je voudrais modifier ma réservation.",
+        "it": "Vorrei modificare la mia prenotazione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm234",
+      "es": "Quisiera cancelar mi reservación.",
+      "translations": {
+        "en": "I'd like to cancel my reservation.",
+        "pt": "Gostaria de cancelar minha reserva.",
+        "fr": "Je voudrais annuler ma réservation.",
+        "it": "Vorrei cancellare la mia prenotazione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm235",
+      "es": "Llegaremos diez minutos tarde.",
+      "translations": {
+        "en": "We'll be ten minutes late.",
+        "pt": "Vamos chegar com dez minutos de atraso.",
+        "fr": "Nous aurons dix minutes de retard.",
+        "it": "Arriveremo con dieci minuti di ritardo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm236",
+      "es": "¿Hasta qué hora sirven comida?",
+      "translations": {
+        "en": "Until what time do you serve food?",
+        "pt": "Até que horas vocês servem comida?",
+        "fr": "Jusqu'à quelle heure servez-vous à manger ?",
+        "it": "Fino a che ora servite da mangiare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm237",
+      "es": "¿La cocina sigue abierta?",
+      "translations": {
+        "en": "Is the kitchen still open?",
+        "pt": "A cozinha ainda está aberta?",
+        "fr": "La cuisine est-elle encore ouverte ?",
+        "it": "La cucina è ancora aperta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm238",
+      "es": "¿A qué hora empiezan a servir la cena?",
+      "translations": {
+        "en": "What time do you start serving dinner?",
+        "pt": "A que horas vocês começam a servir o jantar?",
+        "fr": "À quelle heure commencez-vous à servir le dîner ?",
+        "it": "A che ora iniziate a servire la cena?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm239",
+      "es": "¿Sirven desayuno todo el día?",
+      "translations": {
+        "en": "Do you serve breakfast all day?",
+        "pt": "Vocês servem café da manhã o dia todo?",
+        "fr": "Servez-vous le petit-déjeuner toute la journée ?",
+        "it": "Servite la colazione tutto il giorno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm240",
+      "es": "Preferimos una mesa adentro.",
+      "translations": {
+        "en": "We'd prefer an indoor table.",
+        "pt": "Preferimos uma mesa na área interna.",
+        "fr": "Nous préférons une table à l'intérieur.",
+        "it": "Preferiamo un tavolo all'interno."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm241",
+      "es": "Preferimos una mesa afuera.",
+      "translations": {
+        "en": "We'd prefer an outdoor table.",
+        "pt": "Preferimos uma mesa na área externa.",
+        "fr": "Nous préférons une table à l'extérieur.",
+        "it": "Preferiamo un tavolo all'esterno."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm242",
+      "es": "¿Podemos sentarnos en la terraza?",
+      "translations": {
+        "en": "Can we sit on the patio?",
+        "pt": "Podemos nos sentar na área externa?",
+        "fr": "Pouvons-nous nous installer en terrasse ?",
+        "it": "Possiamo sederci in terrazza?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm243",
+      "es": "¿Podemos sentarnos junto a la ventana?",
+      "translations": {
+        "en": "Can we sit by the window?",
+        "pt": "Podemos nos sentar perto da janela?",
+        "fr": "Pouvons-nous nous asseoir près de la fenêtre ?",
+        "it": "Possiamo sederci vicino alla finestra?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm244",
+      "es": "¿Podemos sentarnos en la barra?",
+      "translations": {
+        "en": "Can we sit at the counter?",
+        "pt": "Podemos nos sentar no balcão?",
+        "fr": "Pouvons-nous nous asseoir au comptoir ?",
+        "it": "Possiamo sederci al bancone?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm245",
+      "es": "¿Podemos elegir cualquier mesa?",
+      "translations": {
+        "en": "Can we choose any table?",
+        "pt": "Podemos escolher qualquer mesa?",
+        "fr": "Pouvons-nous choisir n'importe quelle table ?",
+        "it": "Possiamo scegliere qualsiasi tavolo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm246",
+      "es": "¿Esta mesa está libre?",
+      "translations": {
+        "en": "Is this table available?",
+        "pt": "Esta mesa está livre?",
+        "fr": "Cette table est-elle libre ?",
+        "it": "Questo tavolo è libero?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm247",
+      "es": "¿Podemos cambiar de mesa?",
+      "translations": {
+        "en": "Can we change tables?",
+        "pt": "Podemos trocar de mesa?",
+        "fr": "Pouvons-nous changer de table ?",
+        "it": "Possiamo cambiare tavolo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm248",
+      "es": "Quisiera una mesa más tranquila.",
+      "translations": {
+        "en": "I'd like a quieter table.",
+        "pt": "Gostaria de uma mesa mais tranquila.",
+        "fr": "Je voudrais une table dans un endroit plus calme.",
+        "it": "Vorrei un tavolo più tranquillo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm249",
+      "es": "¿Tienen una silla alta para bebé?",
+      "translations": {
+        "en": "Do you have a high chair?",
+        "pt": "Vocês têm um cadeirão para bebê?",
+        "fr": "Avez-vous une chaise haute pour bébé ?",
+        "it": "Avete un seggiolone?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm250",
+      "es": "¿Prefiere una mesa con sillas o con asientos tipo banca?",
+      "translations": {
+        "en": "Would you prefer a table or a booth?",
+        "pt": "Prefere uma mesa com cadeiras ou com bancos estofados?",
+        "fr": "Préférez-vous une table avec des chaises ou avec des banquettes ?",
+        "it": "Preferisce un tavolo con sedie o con panche imbottite?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm251",
+      "es": "Necesitamos una mesa accesible para una persona en silla de ruedas.",
+      "translations": {
+        "en": "We need a wheelchair-accessible table.",
+        "pt": "Precisamos de uma mesa acessível para uma pessoa em cadeira de rodas.",
+        "fr": "Il nous faut une table accessible en fauteuil roulant.",
+        "it": "Ci serve un tavolo accessibile a una persona in sedia a rotelle."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm252",
+      "es": "¿Podemos entrar con una carriola?",
+      "translations": {
+        "en": "Can we bring a stroller in?",
+        "pt": "Podemos entrar com um carrinho de bebê?",
+        "fr": "Peut-on entrer avec une poussette ?",
+        "it": "Possiamo entrare con un passeggino?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm253",
+      "es": "¿Dónde está el baño?",
+      "translations": {
+        "en": "Where is the restroom?",
+        "pt": "Onde fica o banheiro?",
+        "fr": "Où sont les toilettes ?",
+        "it": "Dov'è il bagno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm254",
+      "es": "¿Tienen wifi?",
+      "translations": {
+        "en": "Do you have Wi-Fi?",
+        "pt": "Vocês têm Wi-Fi?",
+        "fr": "Avez-vous le Wi-Fi ?",
+        "it": "Avete il Wi-Fi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm255",
+      "es": "¿Cuál es la contraseña del wifi?",
+      "translations": {
+        "en": "What's the Wi-Fi password?",
+        "pt": "Qual é a senha do Wi-Fi?",
+        "fr": "Quel est le mot de passe du Wi-Fi ?",
+        "it": "Qual è la password del Wi-Fi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm256",
+      "es": "¿Podría traerme la carta, por favor?",
+      "translations": {
+        "en": "Could I have the menu, please?",
+        "pt": "Poderia me trazer o cardápio, por favor?",
+        "fr": "Pourrais-je avoir la carte, s'il vous plaît ?",
+        "it": "Potrei avere il menù, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm257",
+      "es": "¿Tienen una carta en [idioma]?",
+      "translations": {
+        "en": "Do you have a menu in [language]?",
+        "pt": "Vocês têm um cardápio em [idioma]?",
+        "fr": "Avez-vous une carte en [langue] ?",
+        "it": "Avete un menù in [lingua]?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm258",
+      "es": "¿Nos puede traer la carta de bebidas?",
+      "translations": {
+        "en": "Could you bring us the drink menu?",
+        "pt": "Pode trazer o cardápio de bebidas para a gente?",
+        "fr": "Pouvez-vous nous apporter la carte des boissons ?",
+        "it": "Può portarci il menù delle bevande?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm259",
+      "es": "¿Nos puede traer la carta de vinos?",
+      "translations": {
+        "en": "Could you bring us the wine list?",
+        "pt": "Pode trazer a carta de vinhos para a gente?",
+        "fr": "Pouvez-vous nous apporter la carte des vins ?",
+        "it": "Può portarci la carta dei vini?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm260",
+      "es": "¿Tienen menú del día?",
+      "translations": {
+        "en": "Do you have a daily set menu?",
+        "pt": "Vocês têm menu do dia?",
+        "fr": "Proposez-vous un menu du jour ?",
+        "it": "Avete un menù del giorno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm261",
+      "es": "¿Qué incluye el menú de precio fijo?",
+      "translations": {
+        "en": "What's included in the set menu?",
+        "pt": "O que está incluído no menu de preço fixo?",
+        "fr": "Qu'est-ce qui est compris dans le menu ?",
+        "it": "Che cosa comprende il menù?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm262",
+      "es": "¿La bebida está incluida?",
+      "translations": {
+        "en": "Is a drink included?",
+        "pt": "A bebida está incluída?",
+        "fr": "La boisson est-elle comprise ?",
+        "it": "La bevanda è inclusa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm263",
+      "es": "¿Las bebidas se pagan aparte?",
+      "translations": {
+        "en": "Are drinks charged separately?",
+        "pt": "As bebidas são cobradas à parte?",
+        "fr": "Les boissons sont-elles facturées séparément ?",
+        "it": "Le bevande si pagano a parte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm264",
+      "es": "¿Cuál es el plato del día?",
+      "translations": {
+        "en": "What's the dish of the day?",
+        "pt": "Qual é o prato do dia?",
+        "fr": "Quel est le plat du jour ?",
+        "it": "Qual è il piatto del giorno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm265",
+      "es": "¿Cuál es la especialidad de la casa?",
+      "translations": {
+        "en": "What's the house specialty?",
+        "pt": "Qual é a especialidade da casa?",
+        "fr": "Quelle est la spécialité de la maison ?",
+        "it": "Qual è la specialità della casa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm266",
+      "es": "¿Qué recomienda?",
+      "translations": {
+        "en": "What do you recommend? / What would you recommend?",
+        "pt": "O que você recomenda? / O que você sugere?",
+        "fr": "Que me conseillez-vous ? / Que recommandez-vous ?",
+        "it": "Che cosa mi consiglia? / Che cosa mi suggerisce?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm267",
+      "es": "¿Cuál es su plato más popular?",
+      "translations": {
+        "en": "What's your most popular dish?",
+        "pt": "Qual é o prato mais pedido?",
+        "fr": "Quel est votre plat le plus populaire ?",
+        "it": "Qual è il vostro piatto più richiesto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm268",
+      "es": "¿Qué contiene este platillo?",
+      "translations": {
+        "en": "What's in this dish? / What ingredients are in this dish?",
+        "pt": "O que tem neste prato? / Quais são os ingredientes deste prato?",
+        "fr": "Qu'y a-t-il dans ce plat ?",
+        "it": "Che cosa c'è in questo piatto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm269",
+      "es": "¿Cómo se prepara este platillo?",
+      "translations": {
+        "en": "How is this dish prepared?",
+        "pt": "Como este prato é preparado?",
+        "fr": "Comment ce plat est-il préparé ?",
+        "it": "Come viene preparato questo piatto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm270",
+      "es": "¿Con qué viene acompañado?",
+      "translations": {
+        "en": "What does it come with?",
+        "pt": "Quais acompanhamentos vêm com ele?",
+        "fr": "Avec quel accompagnement est-il servi ?",
+        "it": "Con che contorno viene servito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm271",
+      "es": "¿La guarnición está incluida?",
+      "translations": {
+        "en": "Is the side dish included?",
+        "pt": "O acompanhamento está incluído?",
+        "fr": "L'accompagnement est-il compris ?",
+        "it": "Il contorno è incluso?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm272",
+      "es": "¿La guarnición se pide por separado?",
+      "translations": {
+        "en": "Do I order the side dish separately?",
+        "pt": "O acompanhamento é pedido à parte?",
+        "fr": "Faut-il commander l'accompagnement séparément ?",
+        "it": "Il contorno si ordina a parte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm273",
+      "es": "¿Este platillo es para una persona?",
+      "translations": {
+        "en": "Is this dish for one person?",
+        "pt": "Este prato serve uma pessoa?",
+        "fr": "Ce plat est-il pour une personne ?",
+        "it": "Questo piatto è per una persona?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm274",
+      "es": "¿La porción es suficiente para compartir?",
+      "translations": {
+        "en": "Is the portion large enough to share?",
+        "pt": "A porção é suficiente para compartilhar?",
+        "fr": "La portion est-elle assez grande pour être partagée ?",
+        "it": "La porzione è abbastanza grande da condividere?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm275",
+      "es": "¿Tienen medias porciones?",
+      "translations": {
+        "en": "Do you have half portions?",
+        "pt": "Vocês têm meias porções?",
+        "fr": "Proposez-vous des demi-portions ?",
+        "it": "Avete mezze porzioni?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm276",
+      "es": "¿Todavía tienen este platillo?",
+      "translations": {
+        "en": "Do you still have this dish?",
+        "pt": "Vocês ainda têm este prato?",
+        "fr": "Ce plat est-il encore disponible ?",
+        "it": "Questo piatto è ancora disponibile?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm277",
+      "es": "¿Este bufé se cobra por kilo?",
+      "translations": {
+        "en": "Is this buffet priced by weight, per kilogram?",
+        "pt": "Este bufê é cobrado por quilo?",
+        "fr": "Ce buffet est-il facturé au poids ?",
+        "it": "Questo buffet si paga a peso?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm278",
+      "es": "¿Cuál es el precio por kilo?",
+      "translations": {
+        "en": "What's the price per kilogram?",
+        "pt": "Qual é o preço por quilo?",
+        "fr": "Quel est le prix au kilo ?",
+        "it": "Qual è il prezzo al chilo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm279",
+      "es": "¿Dónde se pesa el plato?",
+      "translations": {
+        "en": "Where do I weigh my plate?",
+        "pt": "Onde se pesa o prato?",
+        "fr": "Où pèse-t-on l'assiette ?",
+        "it": "Dove si pesa il piatto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm280",
+      "es": "¿Este bufé tiene precio fijo?",
+      "translations": {
+        "en": "Does this buffet have a fixed price?",
+        "pt": "Este bufê tem preço fixo?",
+        "fr": "Ce buffet est-il à prix fixe ?",
+        "it": "Questo buffet ha un prezzo fisso?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm281",
+      "es": "¿Este bufé permite servirse varias veces?",
+      "translations": {
+        "en": "Is this buffet all-you-can-eat?",
+        "pt": "Este bufê é à vontade?",
+        "fr": "Ce buffet est-il à volonté ?",
+        "it": "Questo buffet è a volontà?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm282",
+      "es": "¿Cuánto cuesta este platillo?",
+      "translations": {
+        "en": "How much is this dish?",
+        "pt": "Quanto custa este prato?",
+        "fr": "Combien coûte ce plat ?",
+        "it": "Quanto costa questo piatto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm283",
+      "es": "¿Este precio es por persona?",
+      "translations": {
+        "en": "Is this price per person?",
+        "pt": "Este preço é por pessoa?",
+        "fr": "Ce prix est-il par personne ?",
+        "it": "Questo prezzo è a persona?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm284",
+      "es": "Necesitamos unos minutos más.",
+      "translations": {
+        "en": "We need a few more minutes.",
+        "pt": "Precisamos de mais alguns minutos.",
+        "fr": "Il nous faut encore quelques minutes.",
+        "it": "Ci servono ancora alcuni minuti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm285",
+      "es": "Todavía no hemos decidido.",
+      "translations": {
+        "en": "We haven't decided yet.",
+        "pt": "Ainda não decidimos.",
+        "fr": "Nous n'avons pas encore choisi.",
+        "it": "Non abbiamo ancora deciso."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm286",
+      "es": "Ya estamos listos/as para ordenar.",
+      "translations": {
+        "en": "We're ready to order.",
+        "pt": "Já estamos prontos/prontas para pedir.",
+        "fr": "Nous sommes prêts/prêtes à commander.",
+        "it": "Siamo pronti/pronte per ordinare."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm287",
+      "es": "Quisiera pedir [platillo], por favor. / Voy a pedir [platillo], por favor.",
+      "translations": {
+        "en": "I'll have the [dish], please. / I'd like to order the [dish], please.",
+        "pt": "Vou querer [prato], por favor. / Gostaria de pedir [prato], por favor.",
+        "fr": "Je prendrai [plat], s'il vous plaît. / Je voudrais commander [plat], s'il vous plaît.",
+        "it": "Prendo [piatto], per favore. / Vorrei ordinare [piatto], per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm288",
+      "es": "¿Me puede dar [platillo o bebida], por favor? / ¿Podría darme [platillo o bebida], por favor?",
+      "translations": {
+        "en": "Can I get [dish or drink], please? / Could I get [dish or drink], please?",
+        "pt": "Pode me trazer [prato ou bebida], por favor? / Poderia me trazer [prato ou bebida], por favor?",
+        "fr": "Est-ce que je peux avoir [plat ou boisson], s'il vous plaît ? / Pourrais-je avoir [plat ou boisson], s'il vous plaît ?",
+        "it": "Posso avere [piatto o bevanda], per favore? / Potrei avere [piatto o bevanda], per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm289",
+      "es": "Quisiera esto, por favor.",
+      "translations": {
+        "en": "I'd like this, please.",
+        "pt": "Gostaria deste aqui, por favor. / Vou querer este aqui, por favor.",
+        "fr": "Je voudrais ceci, s'il vous plaît.",
+        "it": "Vorrei questo, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm290",
+      "es": "Quisiera lo mismo.",
+      "translations": {
+        "en": "I'd like the same.",
+        "pt": "Gostaria do mesmo.",
+        "fr": "Je voudrais la même chose.",
+        "it": "Vorrei lo stesso."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm291",
+      "es": "Para mí, una ensalada, por favor. / ¿Me puede dar una ensalada, por favor?",
+      "translations": {
+        "en": "A salad for me, please. / Can I get a salad, please?",
+        "pt": "Para mim, uma salada, por favor. / Pode me trazer uma salada, por favor?",
+        "fr": "Pour moi, une salade, s'il vous plaît. / Est-ce que je peux avoir une salade, s'il vous plaît ?",
+        "it": "Per me un'insalata, per favore. / Posso avere un'insalata, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm292",
+      "es": "Quisiéramos compartir una entrada.",
+      "translations": {
+        "en": "We'd like to share an appetizer.",
+        "pt": "Gostaríamos de compartilhar uma entrada.",
+        "fr": "Nous voudrions partager une entrée.",
+        "it": "Vorremmo condividere un antipasto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm293",
+      "es": "Quisiera pedir primero las bebidas.",
+      "translations": {
+        "en": "I'd like to order drinks first.",
+        "pt": "Gostaria de pedir as bebidas primeiro.",
+        "fr": "Je voudrais commander les boissons d'abord.",
+        "it": "Vorrei ordinare prima le bevande."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm294",
+      "es": "Quisiera una porción pequeña.",
+      "translations": {
+        "en": "I'd like a small portion.",
+        "pt": "Gostaria de uma porção pequena.",
+        "fr": "Je voudrais une petite portion.",
+        "it": "Vorrei una porzione piccola."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm295",
+      "es": "Quisiera una media porción.",
+      "translations": {
+        "en": "I'd like a half portion.",
+        "pt": "Gostaria de meia porção.",
+        "fr": "Je voudrais une demi-portion.",
+        "it": "Vorrei mezza porzione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm296",
+      "es": "¿Podemos pedir otra entrada?",
+      "translations": {
+        "en": "Can we order another appetizer?",
+        "pt": "Podemos pedir outra entrada?",
+        "fr": "Pouvons-nous commander une autre entrée ?",
+        "it": "Possiamo ordinare un altro antipasto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm297",
+      "es": "¿Podría cambiar mi pedido?",
+      "translations": {
+        "en": "Could I change my order?",
+        "pt": "Poderia alterar meu pedido?",
+        "fr": "Pourrais-je modifier ma commande ?",
+        "it": "Potrei cambiare la mia ordinazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm298",
+      "es": "¿Podemos agregar un platillo más?",
+      "translations": {
+        "en": "Can we add one more dish?",
+        "pt": "Podemos acrescentar mais um prato?",
+        "fr": "Pouvons-nous ajouter un plat ?",
+        "it": "Possiamo aggiungere un altro piatto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm299",
+      "es": "¿Cuánto tardará el pedido?",
+      "translations": {
+        "en": "How long will our order take?",
+        "pt": "Quanto tempo nosso pedido vai demorar?",
+        "fr": "Dans combien de temps notre commande sera-t-elle prête ?",
+        "it": "Quanto ci vorrà per preparare la nostra ordinazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm300",
+      "es": "Tenemos un poco de prisa.",
+      "translations": {
+        "en": "We're in a bit of a hurry.",
+        "pt": "Estamos com um pouco de pressa.",
+        "fr": "Nous sommes un peu pressés/pressées.",
+        "it": "Abbiamo un po' di fretta."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm301",
+      "es": "¿Qué platillo sale más rápido?",
+      "translations": {
+        "en": "Which dish is quickest to prepare?",
+        "pt": "Qual prato fica pronto mais rápido?",
+        "fr": "Quel plat est le plus rapide à préparer ?",
+        "it": "Quale piatto è più veloce da preparare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm302",
+      "es": "Eso es todo, gracias.",
+      "translations": {
+        "en": "That's all, thank you.",
+        "pt": "É só isso, obrigado/obrigada.",
+        "fr": "Ce sera tout, merci.",
+        "it": "È tutto, grazie."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm303",
+      "es": "Por ahora, eso es todo.",
+      "translations": {
+        "en": "That's all for now.",
+        "pt": "Por enquanto, é só isso.",
+        "fr": "Pour l'instant, ce sera tout.",
+        "it": "Per ora è tutto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm304",
+      "es": "Quisiera agua, por favor.",
+      "translations": {
+        "en": "I would like some water, please.",
+        "pt": "Gostaria de água, por favor.",
+        "fr": "Je voudrais de l'eau, s'il vous plaît.",
+        "it": "Vorrei dell'acqua, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm305",
+      "es": "Una botella de agua sin gas, por favor.",
+      "translations": {
+        "en": "A bottle of still water, please.",
+        "pt": "Uma garrafa de água sem gás, por favor.",
+        "fr": "Une bouteille d'eau plate, s'il vous plaît.",
+        "it": "Una bottiglia d'acqua naturale, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm306",
+      "es": "¿Nos puede traer una jarra de agua?",
+      "translations": {
+        "en": "Could you bring us a pitcher of water?",
+        "pt": "Pode trazer uma jarra de água para a gente?",
+        "fr": "Pouvez-vous nous apporter une carafe d'eau ?",
+        "it": "Può portarci una caraffa d'acqua?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm307",
+      "es": "¿Nos puede traer agua de la llave?",
+      "translations": {
+        "en": "Could you bring us some tap water?",
+        "pt": "Pode trazer água da torneira para a gente?",
+        "fr": "Pouvez-vous nous apporter de l'eau du robinet ?",
+        "it": "Può portarci dell'acqua del rubinetto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm308",
+      "es": "Agua a temperatura ambiente, por favor.",
+      "translations": {
+        "en": "Room-temperature water, please.",
+        "pt": "Água em temperatura ambiente, por favor.",
+        "fr": "De l'eau à température ambiante, s'il vous plaît.",
+        "it": "Acqua a temperatura ambiente, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm309",
+      "es": "Con poco hielo, por favor.",
+      "translations": {
+        "en": "Light ice, please.",
+        "pt": "Com pouco gelo, por favor.",
+        "fr": "Avec peu de glaçons, s'il vous plaît.",
+        "it": "Con poco ghiaccio, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm310",
+      "es": "¿Me puede traer un poco de hielo?",
+      "translations": {
+        "en": "Could you bring me some ice?",
+        "pt": "Pode me trazer um pouco de gelo?",
+        "fr": "Pouvez-vous m'apporter des glaçons ?",
+        "it": "Può portarmi un po' di ghiaccio?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm311",
+      "es": "Una copa de vino tinto, por favor.",
+      "translations": {
+        "en": "A glass of red wine, please.",
+        "pt": "Uma taça de vinho tinto, por favor.",
+        "fr": "Un verre de vin rouge, s'il vous plaît.",
+        "it": "Un calice di vino rosso, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm312",
+      "es": "¿Qué vino recomienda?",
+      "translations": {
+        "en": "Which wine do you recommend?",
+        "pt": "Qual vinho você recomenda?",
+        "fr": "Quel vin me conseillez-vous ?",
+        "it": "Quale vino mi consiglia?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm313",
+      "es": "¿Tienen vino por copa?",
+      "translations": {
+        "en": "Do you serve wine by the glass?",
+        "pt": "Vocês servem vinho em taça?",
+        "fr": "Servez-vous du vin au verre ?",
+        "it": "Servite vino al calice?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm314",
+      "es": "¿Qué cervezas tienen?",
+      "translations": {
+        "en": "What beers do you have?",
+        "pt": "Quais cervejas vocês têm?",
+        "fr": "Quelles bières avez-vous ?",
+        "it": "Che birre avete?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm315",
+      "es": "Una cerveza de barril, por favor.",
+      "translations": {
+        "en": "A draft beer, please.",
+        "pt": "Um chope, por favor.",
+        "fr": "Une bière pression, s'il vous plaît.",
+        "it": "Una birra alla spina, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm316",
+      "es": "Quisiera una bebida sin alcohol.",
+      "translations": {
+        "en": "I'd like a nonalcoholic drink.",
+        "pt": "Gostaria de uma bebida sem álcool.",
+        "fr": "Je voudrais une boisson sans alcool.",
+        "it": "Vorrei una bevanda analcolica."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm317",
+      "es": "¿Esta bebida tiene alcohol?",
+      "translations": {
+        "en": "Does this drink contain alcohol?",
+        "pt": "Esta bebida tem álcool?",
+        "fr": "Cette boisson contient-elle de l'alcool ?",
+        "it": "Questa bevanda contiene alcol?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm318",
+      "es": "¿Me puede traer otra bebida?",
+      "translations": {
+        "en": "Could you bring me another drink?",
+        "pt": "Pode me trazer outra bebida?",
+        "fr": "Pouvez-vous m'apporter une autre boisson ?",
+        "it": "Può portarmi un'altra bevanda?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm319",
+      "es": "¿Me puede volver a llenar el vaso de agua?",
+      "translations": {
+        "en": "Could you refill my water glass?",
+        "pt": "Pode encher meu copo de água de novo?",
+        "fr": "Pouvez-vous remplir à nouveau mon verre d'eau ?",
+        "it": "Può riempirmi di nuovo il bicchiere d'acqua?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm320",
+      "es": "¿La recarga de esta bebida tiene costo?",
+      "translations": {
+        "en": "Is there a charge for a refill of this drink?",
+        "pt": "A reposição desta bebida é cobrada?",
+        "fr": "Faut-il payer pour être resservi de cette boisson ?",
+        "it": "Si paga per avere un altro bicchiere di questa bevanda?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm321",
+      "es": "Me gusta la comida picante.",
+      "translations": {
+        "en": "I like spicy food.",
+        "pt": "Gosto de comida apimentada.",
+        "fr": "J'aime les plats piquants.",
+        "it": "Mi piace il cibo piccante."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm322",
+      "es": "No me gusta la comida picante.",
+      "translations": {
+        "en": "I don't like spicy food.",
+        "pt": "Não gosto de comida apimentada.",
+        "fr": "Je n'aime pas les plats piquants.",
+        "it": "Non mi piace il cibo piccante."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm323",
+      "es": "Prefiero algo ligero.",
+      "translations": {
+        "en": "I'd prefer something light.",
+        "pt": "Prefiro algo leve.",
+        "fr": "Je préfère quelque chose de léger.",
+        "it": "Preferisco qualcosa di leggero."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm324",
+      "es": "¿Este platillo es picante?",
+      "translations": {
+        "en": "Is this dish spicy?",
+        "pt": "Este prato é apimentado?",
+        "fr": "Ce plat est-il piquant ?",
+        "it": "Questo piatto è piccante?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm325",
+      "es": "¿Se puede preparar sin chile?",
+      "translations": {
+        "en": "Can it be made without chili peppers?",
+        "pt": "Dá para preparar sem pimenta?",
+        "fr": "Peut-on le préparer sans piment ?",
+        "it": "Si può preparare senza peperoncino?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm326",
+      "es": "Poco picante, por favor.",
+      "translations": {
+        "en": "Mild, please.",
+        "pt": "Pouco apimentado, por favor.",
+        "fr": "Peu piquant, s'il vous plaît.",
+        "it": "Poco piccante, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm327",
+      "es": "¿Me lo puede preparar sin [ingrediente]?",
+      "translations": {
+        "en": "Can I have it without [ingredient]?",
+        "pt": "Pode preparar sem [ingrediente]?",
+        "fr": "Pouvez-vous le préparer sans [ingrédient] ?",
+        "it": "Può prepararlo senza [ingrediente]?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm328",
+      "es": "Sin [ingrediente], por favor.",
+      "translations": {
+        "en": "No [ingredient], please. / Without [ingredient], please.",
+        "pt": "Sem [ingrediente], por favor.",
+        "fr": "Sans [ingrédient], s'il vous plaît.",
+        "it": "Senza [ingrediente], per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm329",
+      "es": "Sin sal añadida, por favor.",
+      "translations": {
+        "en": "No added salt, please.",
+        "pt": "Sem adição de sal, por favor.",
+        "fr": "Sans sel ajouté, s'il vous plaît.",
+        "it": "Senza sale aggiunto, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm330",
+      "es": "La salsa aparte, por favor.",
+      "translations": {
+        "en": "Sauce on the side, please.",
+        "pt": "O molho à parte, por favor.",
+        "fr": "La sauce à part, s'il vous plaît.",
+        "it": "La salsa a parte, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm331",
+      "es": "El aderezo aparte, por favor.",
+      "translations": {
+        "en": "Dressing on the side, please.",
+        "pt": "O molho da salada à parte, por favor.",
+        "fr": "La sauce de la salade à part, s'il vous plaît.",
+        "it": "Il condimento per l'insalata a parte, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm332",
+      "es": "Con más salsa, por favor.",
+      "translations": {
+        "en": "Extra sauce, please.",
+        "pt": "Com mais molho, por favor.",
+        "fr": "Avec plus de sauce, s'il vous plaît.",
+        "it": "Con più salsa, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm333",
+      "es": "¿Puedo cambiar las papas por ensalada?",
+      "translations": {
+        "en": "Can I substitute a salad for the fries?",
+        "pt": "Posso trocar as batatas fritas por salada?",
+        "fr": "Puis-je remplacer les frites par une salade ?",
+        "it": "Posso sostituire le patatine con un'insalata?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm334",
+      "es": "¿Puedo elegir otra guarnición?",
+      "translations": {
+        "en": "Can I choose a different side?",
+        "pt": "Posso escolher outro acompanhamento?",
+        "fr": "Puis-je choisir une autre garniture ?",
+        "it": "Posso scegliere un altro contorno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm335",
+      "es": "¿El cambio tiene costo adicional?",
+      "translations": {
+        "en": "Is there an extra charge for the substitution?",
+        "pt": "A troca tem custo adicional?",
+        "fr": "Le changement entraîne-t-il un supplément ?",
+        "it": "La sostituzione ha un costo aggiuntivo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm336",
+      "es": "Quisiera la carne poco hecha.",
+      "translations": {
+        "en": "I'd like the meat rare.",
+        "pt": "Gostaria da carne malpassada.",
+        "fr": "Je voudrais la viande saignante.",
+        "it": "Vorrei la carne al sangue."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm337",
+      "es": "Quisiera la carne término medio.",
+      "translations": {
+        "en": "I'd like the meat medium.",
+        "pt": "Gostaria da carne ao ponto.",
+        "fr": "Je voudrais la viande à point.",
+        "it": "Vorrei la carne a cottura media."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm338",
+      "es": "Quisiera la carne bien cocida.",
+      "translations": {
+        "en": "I'd like the meat well done.",
+        "pt": "Gostaria da carne bem-passada.",
+        "fr": "Je voudrais la viande bien cuite.",
+        "it": "Vorrei la carne ben cotta."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm339",
+      "es": "No como carne.",
+      "translations": {
+        "en": "I don't eat meat.",
+        "pt": "Não como carne.",
+        "fr": "Je ne mange pas de viande.",
+        "it": "Non mangio carne."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm340",
+      "es": "No como mariscos.",
+      "translations": {
+        "en": "I don't eat shellfish.",
+        "pt": "Não como crustáceos nem moluscos.",
+        "fr": "Je ne mange pas de crustacés ni de mollusques.",
+        "it": "Non mangio crostacei né molluschi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm341",
+      "es": "No consumo lácteos.",
+      "translations": {
+        "en": "I don't eat dairy. / I don't consume dairy products.",
+        "pt": "Não consumo laticínios.",
+        "fr": "Je ne consomme pas de produits laitiers.",
+        "it": "Non consumo latticini."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm342",
+      "es": "Soy vegetariano/a. / Sigo una dieta vegetariana.",
+      "translations": {
+        "en": "I'm vegetarian. / I follow a vegetarian diet.",
+        "pt": "Sou vegetariano/vegetariana. / Sigo uma dieta vegetariana.",
+        "fr": "Je suis végétarien/végétarienne. / Je suis un régime végétarien.",
+        "it": "Sono vegetariano/vegetariana. / Seguo una dieta vegetariana."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm343",
+      "es": "Soy vegano/a. / Sigo una dieta vegana.",
+      "translations": {
+        "en": "I'm vegan. / I follow a vegan diet.",
+        "pt": "Sou vegano/vegana. / Sigo uma dieta vegana.",
+        "fr": "Je suis végétalien/végétalienne. / Je suis un régime végétalien.",
+        "it": "Sono vegano/vegana. / Seguo una dieta vegana."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm344",
+      "es": "¿Tienen opciones vegetarianas?",
+      "translations": {
+        "en": "Do you have vegetarian options?",
+        "pt": "Vocês têm opções vegetarianas?",
+        "fr": "Avez-vous des options végétariennes ?",
+        "it": "Avete opzioni vegetariane?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm345",
+      "es": "¿Tienen opciones veganas?",
+      "translations": {
+        "en": "Do you have vegan options?",
+        "pt": "Vocês têm opções veganas?",
+        "fr": "Avez-vous des options végétaliennes ?",
+        "it": "Avete opzioni vegane?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm346",
+      "es": "¿Tienen opciones sin gluten?",
+      "translations": {
+        "en": "Do you have gluten-free options?",
+        "pt": "Vocês têm opções sem glúten?",
+        "fr": "Avez-vous des options sans gluten ?",
+        "it": "Avete opzioni senza glutine?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm347",
+      "es": "¿Tienen opciones sin lactosa?",
+      "translations": {
+        "en": "Do you have lactose-free options?",
+        "pt": "Vocês têm opções sem lactose?",
+        "fr": "Avez-vous des options sans lactose ?",
+        "it": "Avete opzioni senza lattosio?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm348",
+      "es": "¿Tienen opciones sin lácteos?",
+      "translations": {
+        "en": "Do you have dairy-free options?",
+        "pt": "Vocês têm opções sem laticínios?",
+        "fr": "Avez-vous des options sans produits laitiers ?",
+        "it": "Avete opzioni senza latticini?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm349",
+      "es": "¿Tienen comida halal?",
+      "translations": {
+        "en": "Do you have halal food?",
+        "pt": "Vocês têm comida halal?",
+        "fr": "Proposez-vous des plats halal ?",
+        "it": "Avete cibo halal?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm350",
+      "es": "¿Tienen comida kosher?",
+      "translations": {
+        "en": "Do you have kosher food?",
+        "pt": "Vocês têm comida kosher?",
+        "fr": "Proposez-vous des plats casher ?",
+        "it": "Avete cibo kosher?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm351",
+      "es": "Tengo una alergia alimentaria.",
+      "translations": {
+        "en": "I have a food allergy.",
+        "pt": "Tenho uma alergia alimentar.",
+        "fr": "J'ai une allergie alimentaire.",
+        "it": "Ho un'allergia alimentare."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm352",
+      "es": "Tengo alergia a [ingrediente].",
+      "translations": {
+        "en": "I'm allergic to [ingredient]. / I have an allergy to [ingredient].",
+        "pt": "Tenho alergia a [ingrediente].",
+        "fr": "Je suis allergique à [ingrédient].",
+        "it": "Ho un'allergia a [ingrediente]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm353",
+      "es": "Tengo alergia a la leche.",
+      "translations": {
+        "en": "I'm allergic to milk.",
+        "pt": "Tenho alergia ao leite.",
+        "fr": "Je suis allergique au lait.",
+        "it": "Ho un'allergia al latte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm354",
+      "es": "Tengo alergia a los cacahuates.",
+      "translations": {
+        "en": "I'm allergic to peanuts.",
+        "pt": "Tenho alergia a amendoim.",
+        "fr": "Je suis allergique aux cacahuètes.",
+        "it": "Ho un'allergia alle arachidi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm355",
+      "es": "Tengo intolerancia a la lactosa.",
+      "translations": {
+        "en": "I'm lactose intolerant.",
+        "pt": "Tenho intolerância à lactose.",
+        "fr": "Je suis intolérant/intolérante au lactose.",
+        "it": "Sono intollerante al lattosio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm356",
+      "es": "Tengo enfermedad celíaca.",
+      "translations": {
+        "en": "I have celiac disease.",
+        "pt": "Tenho doença celíaca.",
+        "fr": "J'ai la maladie cœliaque.",
+        "it": "Ho la celiachia."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm357",
+      "es": "¿Este platillo contiene [ingrediente]?",
+      "translations": {
+        "en": "Does this dish contain [ingredient]?",
+        "pt": "Este prato contém [ingrediente]?",
+        "fr": "Ce plat contient-il [ingrédient] ?",
+        "it": "Questo piatto contiene [ingrediente]?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm358",
+      "es": "¿Esta salsa contiene crema?",
+      "translations": {
+        "en": "Does this sauce contain cream?",
+        "pt": "Este molho contém creme de leite?",
+        "fr": "Cette sauce contient-elle de la crème ?",
+        "it": "Questa salsa contiene panna?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm359",
+      "es": "¿Este platillo contiene gluten?",
+      "translations": {
+        "en": "Does this dish contain gluten?",
+        "pt": "Este prato contém glúten?",
+        "fr": "Ce plat contient-il du gluten ?",
+        "it": "Questo piatto contiene glutine?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm360",
+      "es": "¿Esta sopa tiene caldo de carne?",
+      "translations": {
+        "en": "Does this soup contain meat broth?",
+        "pt": "Esta sopa tem caldo de carne?",
+        "fr": "Cette soupe contient-elle du bouillon de viande ?",
+        "it": "Questa zuppa contiene brodo di carne?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm361",
+      "es": "¿Puede consultar los ingredientes con la cocina?",
+      "translations": {
+        "en": "Could you check the ingredients with the kitchen?",
+        "pt": "Pode confirmar os ingredientes com a cozinha?",
+        "fr": "Pouvez-vous vérifier les ingrédients auprès de la cuisine ?",
+        "it": "Può verificare gli ingredienti con la cucina?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm362",
+      "es": "¿Me puede recomendar una opción sin [ingrediente]?",
+      "translations": {
+        "en": "Could you recommend an option without [ingredient]?",
+        "pt": "Pode me recomendar uma opção sem [ingrediente]?",
+        "fr": "Pouvez-vous me conseiller une option sans [ingrédient] ?",
+        "it": "Può consigliarmi un'opzione senza [ingrediente]?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm363",
+      "es": "¿Puede avisarle al cocinero de mi alergia?",
+      "translations": {
+        "en": "Could you tell the cook about my allergy?",
+        "pt": "Pode avisar o cozinheiro sobre minha alergia?",
+        "fr": "Pouvez-vous informer le cuisinier de mon allergie ?",
+        "it": "Può informare il cuoco della mia allergia?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm364",
+      "es": "Necesito evitar por completo [ingrediente].",
+      "translations": {
+        "en": "I need to avoid [ingredient] completely.",
+        "pt": "Preciso evitar totalmente [ingrediente].",
+        "fr": "Je dois éviter complètement [ingrédient].",
+        "it": "Devo evitare completamente [ingrediente]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm365",
+      "es": "¿Tienen una lista de alérgenos?",
+      "translations": {
+        "en": "Do you have an allergen list?",
+        "pt": "Vocês têm uma lista de alérgenos?",
+        "fr": "Avez-vous une liste des allergènes ?",
+        "it": "Avete un elenco degli allergeni?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm366",
+      "es": "Es una alergia, no una preferencia.",
+      "translations": {
+        "en": "It's an allergy, not a preference.",
+        "pt": "É uma alergia, não uma preferência.",
+        "fr": "C'est une allergie, pas une préférence.",
+        "it": "È un'allergia, non una preferenza."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm367",
+      "es": "Necesito ayuda médica.",
+      "translations": {
+        "en": "I need medical help.",
+        "pt": "Preciso de ajuda médica.",
+        "fr": "J'ai besoin d'aide médicale.",
+        "it": "Ho bisogno di assistenza medica."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm368",
+      "es": "¿Puede llamar a una ambulancia?",
+      "translations": {
+        "en": "Could you call an ambulance?",
+        "pt": "Pode chamar uma ambulância?",
+        "fr": "Pouvez-vous appeler une ambulance ?",
+        "it": "Può chiamare un'ambulanza?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm369",
+      "es": "Disculpe (para llamar al mesero).",
+      "translations": {
+        "en": "Excuse me.",
+        "pt": "Com licença.",
+        "fr": "Excusez-moi.",
+        "it": "Mi scusi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm370",
+      "es": "¿Nos puede traer más servilletas?",
+      "translations": {
+        "en": "Could you bring us more napkins?",
+        "pt": "Pode trazer mais guardanapos para a gente?",
+        "fr": "Pouvez-vous nous apporter d'autres serviettes ?",
+        "it": "Può portarci altri tovaglioli?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm371",
+      "es": "¿Me puede traer una cuchara?",
+      "translations": {
+        "en": "Could you bring me a spoon?",
+        "pt": "Pode me trazer uma colher?",
+        "fr": "Pouvez-vous m'apporter une cuillère ?",
+        "it": "Può portarmi un cucchiaio?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm372",
+      "es": "¿Nos puede traer un plato adicional?",
+      "translations": {
+        "en": "Could you bring us an extra plate?",
+        "pt": "Pode trazer um prato extra para a gente?",
+        "fr": "Pouvez-vous nous apporter une assiette supplémentaire ?",
+        "it": "Può portarci un piatto in più?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm373",
+      "es": "¿Me puede traer un vaso limpio?",
+      "translations": {
+        "en": "Could you bring me a clean glass?",
+        "pt": "Pode me trazer um copo limpo?",
+        "fr": "Pouvez-vous m'apporter un verre propre ?",
+        "it": "Può portarmi un bicchiere pulito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm374",
+      "es": "¿Me puede traer cubiertos limpios?",
+      "translations": {
+        "en": "Could you bring me clean silverware?",
+        "pt": "Pode me trazer talheres limpos?",
+        "fr": "Pouvez-vous m'apporter des couverts propres ?",
+        "it": "Può portarmi delle posate pulite?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm375",
+      "es": "¿Nos puede traer sal y pimienta?",
+      "translations": {
+        "en": "Could you bring us salt and pepper?",
+        "pt": "Pode trazer sal e pimenta-do-reino para a gente?",
+        "fr": "Pouvez-vous nous apporter du sel et du poivre ?",
+        "it": "Può portarci sale e pepe?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm376",
+      "es": "¿Nos puede traer un poco de pan?",
+      "translations": {
+        "en": "Could you bring us some bread?",
+        "pt": "Pode trazer um pouco de pão para a gente?",
+        "fr": "Pouvez-vous nous apporter du pain ?",
+        "it": "Può portarci un po' di pane?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm377",
+      "es": "¿El pan tiene costo?",
+      "translations": {
+        "en": "Is there a charge for the bread?",
+        "pt": "O pão é cobrado?",
+        "fr": "Le pain est-il payant ?",
+        "it": "Il pane si paga?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm378",
+      "es": "¿Me puede traer un poco de limón verde?",
+      "translations": {
+        "en": "Could you bring me some lime?",
+        "pt": "Pode me trazer um pouco de limão?",
+        "fr": "Pouvez-vous m'apporter un peu de citron vert ?",
+        "it": "Può portarmi un po' di lime?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm379",
+      "es": "Limón amarillo",
+      "translations": {
+        "en": "Lemon",
+        "pt": "Limão-siciliano",
+        "fr": "Citron / Citron jaune",
+        "it": "Limone"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm380",
+      "es": "¿Nos puede traer aceite de oliva?",
+      "translations": {
+        "en": "Could you bring us some olive oil?",
+        "pt": "Pode trazer azeite para a gente?",
+        "fr": "Pouvez-vous nous apporter de l'huile d'olive ?",
+        "it": "Può portarci dell'olio d'oliva?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm381",
+      "es": "¿Nos puede traer vinagre?",
+      "translations": {
+        "en": "Could you bring us some vinegar?",
+        "pt": "Pode trazer vinagre para a gente?",
+        "fr": "Pouvez-vous nous apporter du vinaigre ?",
+        "it": "Può portarci dell'aceto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm382",
+      "es": "¿Podemos pedir el postre?",
+      "translations": {
+        "en": "Can we order dessert?",
+        "pt": "Podemos pedir a sobremesa?",
+        "fr": "Pouvons-nous commander le dessert ?",
+        "it": "Possiamo ordinare il dessert?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm383",
+      "es": "¿Qué postres tienen?",
+      "translations": {
+        "en": "What desserts do you have?",
+        "pt": "Quais sobremesas vocês têm?",
+        "fr": "Quels desserts avez-vous ?",
+        "it": "Che dessert avete?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm384",
+      "es": "No queremos postre, gracias.",
+      "translations": {
+        "en": "No dessert for us, thank you.",
+        "pt": "Não vamos querer sobremesa, obrigado/obrigada.",
+        "fr": "Pas de dessert pour nous, merci.",
+        "it": "Niente dessert per noi, grazie."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm385",
+      "es": "¿Me puede traer un café?",
+      "translations": {
+        "en": "Could you bring me a coffee?",
+        "pt": "Pode me trazer um café?",
+        "fr": "Pouvez-vous m'apporter un café ?",
+        "it": "Può portarmi un caffè?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm386",
+      "es": "Todavía estoy comiendo.",
+      "translations": {
+        "en": "I'm still eating.",
+        "pt": "Ainda estou comendo.",
+        "fr": "Je suis encore en train de manger. / Je n'ai pas encore terminé.",
+        "it": "Sto ancora mangiando."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm387",
+      "es": "Ya terminé.",
+      "translations": {
+        "en": "I'm finished.",
+        "pt": "Já terminei.",
+        "fr": "J'ai terminé.",
+        "it": "Ho finito."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm388",
+      "es": "Puede retirar mi plato.",
+      "translations": {
+        "en": "You can clear my plate. / You can take my plate away.",
+        "pt": "Pode retirar meu prato.",
+        "fr": "Vous pouvez débarrasser mon assiette.",
+        "it": "Può portare via il mio piatto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm389",
+      "es": "La comida está muy buena.",
+      "translations": {
+        "en": "The food is very good.",
+        "pt": "A comida está muito boa.",
+        "fr": "La cuisine est très bonne.",
+        "it": "Il cibo è molto buono."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm390",
+      "es": "Estaba delicioso.",
+      "translations": {
+        "en": "It was delicious.",
+        "pt": "Estava delicioso.",
+        "fr": "C'était délicieux.",
+        "it": "Era delizioso."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm391",
+      "es": "Ya no quiero más, gracias.",
+      "translations": {
+        "en": "I don't want any more, thank you.",
+        "pt": "Não quero mais, obrigado/obrigada.",
+        "fr": "Je n'en veux plus, merci.",
+        "it": "Non ne voglio più, grazie."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm392",
+      "es": "¿Me lo puede dar para llevar?",
+      "translations": {
+        "en": "Can I get this to go?",
+        "pt": "Pode colocar para viagem?",
+        "fr": "Puis-je l'avoir à emporter ?",
+        "it": "Posso averlo da asporto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm393",
+      "es": "¿Para aquí o para llevar?",
+      "translations": {
+        "en": "For here or to go? / Dine-in or carryout?",
+        "pt": "Para comer aqui ou para viagem?",
+        "fr": "Sur place ou à emporter ?",
+        "it": "Da mangiare qui o da asporto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm394",
+      "es": "Para comer aquí, por favor.",
+      "translations": {
+        "en": "For here, please. / Dine-in, please.",
+        "pt": "Para comer aqui, por favor.",
+        "fr": "Sur place, s'il vous plaît.",
+        "it": "Da mangiare qui, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm395",
+      "es": "Para llevar, por favor.",
+      "translations": {
+        "en": "To go, please. / For carryout, please.",
+        "pt": "Para viagem, por favor.",
+        "fr": "À emporter, s'il vous plaît.",
+        "it": "Da asporto, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm396",
+      "es": "¿Me puede empacar lo que sobró?",
+      "translations": {
+        "en": "Could you box up the leftovers for me?",
+        "pt": "Pode embalar o que sobrou para viagem?",
+        "fr": "Pouvez-vous emballer les restes à emporter ?",
+        "it": "Può confezionarmi gli avanzi da portare via?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm397",
+      "es": "¿Me puede traer un recipiente para llevar?",
+      "translations": {
+        "en": "Could you bring me a takeout container?",
+        "pt": "Pode me trazer uma embalagem para viagem?",
+        "fr": "Pouvez-vous m'apporter une boîte à emporter ?",
+        "it": "Può portarmi un contenitore da asporto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm398",
+      "es": "Vengo a recoger un pedido a nombre de [nombre].",
+      "translations": {
+        "en": "I'm here to pick up an order under the name [name].",
+        "pt": "Vim retirar um pedido em nome de [nome].",
+        "fr": "Je viens récupérer une commande au nom de [nom].",
+        "it": "Sono qui per ritirare un ordine a nome di [nome]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm399",
+      "es": "¿Dónde recojo mi pedido para llevar?",
+      "translations": {
+        "en": "Where do I pick up my takeout order?",
+        "pt": "Onde retiro meu pedido para viagem?",
+        "fr": "Où puis-je récupérer ma commande à emporter ?",
+        "it": "Dove ritiro il mio ordine da asporto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm400",
+      "es": "¿Podría traerme la cuenta, por favor? / ¿Me trae la cuenta, por favor?",
+      "translations": {
+        "en": "Could I have the check, please? / Can I have the bill, please?",
+        "pt": "Poderia me trazer a conta, por favor? / Pode trazer a conta, por favor?",
+        "fr": "Pourrais-je avoir l'addition, s'il vous plaît ? / Pouvez-vous m'apporter l'addition, s'il vous plaît ?",
+        "it": "Potrei avere il conto, per favore? / Mi porta il conto, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm401",
+      "es": "¿Podemos pagar por separado?",
+      "translations": {
+        "en": "Can we pay separately?",
+        "pt": "Podemos pagar separadamente? / Podemos pagar separado?",
+        "fr": "Pouvons-nous payer séparément ?",
+        "it": "Possiamo pagare separatamente?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm402",
+      "es": "¿Nos puede traer cuentas separadas?",
+      "translations": {
+        "en": "Could we have separate checks?",
+        "pt": "Pode trazer contas separadas para a gente?",
+        "fr": "Pouvez-vous nous apporter des additions séparées ?",
+        "it": "Può portarci conti separati?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm403",
+      "es": "Quisiéramos dividir la cuenta en partes iguales.",
+      "translations": {
+        "en": "We'd like to split the check equally.",
+        "pt": "Gostaríamos de dividir a conta em partes iguais.",
+        "fr": "Nous voudrions partager l'addition à parts égales.",
+        "it": "Vorremmo dividere il conto in parti uguali."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm404",
+      "es": "Cada quien pagará lo que consumió.",
+      "translations": {
+        "en": "Each person will pay for what they ordered.",
+        "pt": "Cada um vai pagar o que consumiu.",
+        "fr": "Chacun paiera ce qu'il a consommé.",
+        "it": "Ognuno pagherà quello che ha consumato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm405",
+      "es": "Todo en una sola cuenta, por favor.",
+      "translations": {
+        "en": "One check for everything, please.",
+        "pt": "Tudo em uma só conta, por favor.",
+        "fr": "Tout sur une seule addition, s'il vous plaît.",
+        "it": "Tutto su un unico conto, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm406",
+      "es": "Yo pago la cuenta.",
+      "translations": {
+        "en": "I'll pay the check.",
+        "pt": "Eu pago a conta.",
+        "fr": "C'est moi qui paie l'addition.",
+        "it": "Pago io il conto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm407",
+      "es": "¿Aceptan tarjetas de crédito?",
+      "translations": {
+        "en": "Do you take credit cards? / Do you accept credit cards?",
+        "pt": "Vocês aceitam cartão de crédito?",
+        "fr": "Acceptez-vous les cartes de crédit ?",
+        "it": "Accettate carte di credito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm408",
+      "es": "¿Hay un monto mínimo para pagar con tarjeta?",
+      "translations": {
+        "en": "Is there a minimum for card payments?",
+        "pt": "Tem valor mínimo para pagar com cartão?",
+        "fr": "Y a-t-il un montant minimum pour payer par carte ?",
+        "it": "C'è un importo minimo per pagare con carta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm409",
+      "es": "¿Aceptan tarjetas de débito?",
+      "translations": {
+        "en": "Do you take debit cards?",
+        "pt": "Vocês aceitam cartão de débito?",
+        "fr": "Acceptez-vous les cartes de débit ?",
+        "it": "Accettate carte di debito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm410",
+      "es": "¿Puedo pagar en efectivo?",
+      "translations": {
+        "en": "Can I pay in cash?",
+        "pt": "Posso pagar em dinheiro?",
+        "fr": "Puis-je payer en espèces ?",
+        "it": "Posso pagare in contanti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm411",
+      "es": "Quisiera pagar con tarjeta.",
+      "translations": {
+        "en": "I'd like to pay by card.",
+        "pt": "Gostaria de pagar com cartão.",
+        "fr": "Je voudrais payer par carte.",
+        "it": "Vorrei pagare con carta."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm412",
+      "es": "¿Puedo usar otra tarjeta?",
+      "translations": {
+        "en": "Can I use another card?",
+        "pt": "Posso usar outro cartão?",
+        "fr": "Puis-je utiliser une autre carte ?",
+        "it": "Posso usare un'altra carta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm413",
+      "es": "¿Pueden volver a intentar el pago?",
+      "translations": {
+        "en": "Could you try the payment again?",
+        "pt": "Podem tentar o pagamento de novo?",
+        "fr": "Pouvez-vous réessayer le paiement ?",
+        "it": "Potete riprovare a effettuare il pagamento?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm414",
+      "es": "¿Podemos pagar una parte en efectivo y otra con tarjeta?",
+      "translations": {
+        "en": "Can we pay part in cash and part by card?",
+        "pt": "Podemos pagar uma parte em dinheiro e outra no cartão?",
+        "fr": "Pouvons-nous payer une partie en espèces et l'autre par carte ?",
+        "it": "Possiamo pagare una parte in contanti e una con carta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm415",
+      "es": "¿Aceptan pagos con Pix?",
+      "translations": {
+        "en": "Do you accept Pix payments?",
+        "pt": "Vocês aceitam Pix?",
+        "fr": "Acceptez-vous les paiements par Pix ?",
+        "it": "Accettate pagamenti con Pix?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm416",
+      "es": "¿Puedo pagar con el teléfono?",
+      "translations": {
+        "en": "Can I pay with my phone?",
+        "pt": "Posso pagar com o celular?",
+        "fr": "Puis-je payer avec mon téléphone ?",
+        "it": "Posso pagare con il telefono?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm417",
+      "es": "¿Puedo pagar aquí en la mesa?",
+      "translations": {
+        "en": "Can I pay here at the table?",
+        "pt": "Posso pagar aqui na mesa?",
+        "fr": "Puis-je payer ici à table ?",
+        "it": "Posso pagare qui al tavolo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm418",
+      "es": "¿Se paga en la caja?",
+      "translations": {
+        "en": "Do I pay at the register?",
+        "pt": "O pagamento é no caixa?",
+        "fr": "Faut-il payer à la caisse ?",
+        "it": "Si paga alla cassa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm419",
+      "es": "¿Puede traer la terminal de pago?",
+      "translations": {
+        "en": "Could you bring the card reader?",
+        "pt": "Pode trazer a maquininha de cartão?",
+        "fr": "Pouvez-vous apporter le terminal de paiement ?",
+        "it": "Può portare il terminale di pagamento?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm420",
+      "es": "¿El servicio está incluido?",
+      "translations": {
+        "en": "Is service included?",
+        "pt": "O serviço está incluído?",
+        "fr": "Le service est-il compris ?",
+        "it": "Il servizio è incluso?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm421",
+      "es": "¿Se cobra un cargo por cubierto?",
+      "translations": {
+        "en": "Is there a per-person cover charge?",
+        "pt": "Há uma taxa por pessoa pelo uso da mesa?",
+        "fr": "Y a-t-il des frais de couvert par personne ?",
+        "it": "Si paga il coperto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm422",
+      "es": "¿La propina está incluida?",
+      "translations": {
+        "en": "Is the tip included?",
+        "pt": "A gorjeta está incluída?",
+        "fr": "Le pourboire est-il compris ?",
+        "it": "La mancia è inclusa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm423",
+      "es": "¿Los impuestos están incluidos?",
+      "translations": {
+        "en": "Are taxes included?",
+        "pt": "Os impostos estão incluídos?",
+        "fr": "Les taxes sont-elles comprises ?",
+        "it": "Le imposte sono incluse?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm424",
+      "es": "¿Puedo dejar la propina con tarjeta?",
+      "translations": {
+        "en": "Can I leave the tip on my card?",
+        "pt": "Posso deixar a gorjeta no cartão?",
+        "fr": "Puis-je laisser un pourboire par carte ?",
+        "it": "Posso lasciare la mancia con la carta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm425",
+      "es": "Quédese con el cambio.",
+      "translations": {
+        "en": "Keep the change.",
+        "pt": "Pode ficar com o troco.",
+        "fr": "Gardez la monnaie.",
+        "it": "Tenga il resto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm426",
+      "es": "¿Me puede dar un recibo?",
+      "translations": {
+        "en": "Could I have a receipt?",
+        "pt": "Pode me dar um recibo ou comprovante de pagamento?",
+        "fr": "Pouvez-vous me donner un reçu ?",
+        "it": "Può darmi una ricevuta? / Può darmi lo scontrino?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm427",
+      "es": "Necesito un recibo impreso.",
+      "translations": {
+        "en": "I need a printed receipt.",
+        "pt": "Preciso de um recibo impresso.",
+        "fr": "J'ai besoin d'un reçu imprimé.",
+        "it": "Mi serve una ricevuta stampata."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm428",
+      "es": "¿Me puede dar una factura?",
+      "translations": {
+        "en": "Could I have an invoice?",
+        "pt": "Pode me emitir uma nota fiscal?",
+        "fr": "Pouvez-vous me donner une facture ?",
+        "it": "Può darmi una fattura?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm429",
+      "es": "¿Cuánto es en total?",
+      "translations": {
+        "en": "How much is it altogether?",
+        "pt": "Quanto dá no total?",
+        "fr": "Combien cela fait-il au total ?",
+        "it": "Quanto viene in totale?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm430",
+      "es": "Creo que hay un error en la cuenta.",
+      "translations": {
+        "en": "I think there's a mistake on the check.",
+        "pt": "Acho que tem um erro na conta.",
+        "fr": "Je crois qu'il y a une erreur dans l'addition.",
+        "it": "Credo che ci sia un errore nel conto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm431",
+      "es": "No pedimos esto.",
+      "translations": {
+        "en": "We didn't order this.",
+        "pt": "Não pedimos isto.",
+        "fr": "Nous n'avons pas commandé ceci.",
+        "it": "Non abbiamo ordinato questo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm432",
+      "es": "¿Qué es este cargo?",
+      "translations": {
+        "en": "What's this charge for?",
+        "pt": "O que é esta cobrança?",
+        "fr": "À quoi correspondent ces frais ?",
+        "it": "Che cos'è questo addebito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm433",
+      "es": "¿Puede revisar la cuenta, por favor?",
+      "translations": {
+        "en": "Could you review the check, please? / Could you check the bill, please?",
+        "pt": "Pode conferir a conta, por favor?",
+        "fr": "Pouvez-vous vérifier l'addition, s'il vous plaît ?",
+        "it": "Può controllare il conto, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm434",
+      "es": "Gracias por el servicio. / Gracias por atendernos.",
+      "translations": {
+        "en": "Thank you for taking care of us.",
+        "pt": "Obrigado/Obrigada pelo atendimento.",
+        "fr": "Merci pour le service.",
+        "it": "Grazie per il servizio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm435",
+      "es": "Todo estuvo muy bien.",
+      "translations": {
+        "en": "Everything was great.",
+        "pt": "Estava tudo muito bom.",
+        "fr": "Tout était très bien.",
+        "it": "È stato tutto molto buono."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm436",
+      "es": "Hasta luego.",
+      "translations": {
+        "en": "Goodbye.",
+        "pt": "Até logo.",
+        "fr": "Au revoir.",
+        "it": "Arrivederci."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm437",
+      "es": "No entendí.",
+      "translations": {
+        "en": "I didn't understand.",
+        "pt": "Não entendi.",
+        "fr": "Je n'ai pas compris.",
+        "it": "Non ho capito."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm438",
+      "es": "¿Puede repetirlo, por favor?",
+      "translations": {
+        "en": "Could you repeat that, please?",
+        "pt": "Pode repetir, por favor?",
+        "fr": "Pouvez-vous répéter, s'il vous plaît ?",
+        "it": "Può ripetere, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm439",
+      "es": "¿Puede hablar más despacio?",
+      "translations": {
+        "en": "Could you speak more slowly?",
+        "pt": "Pode falar mais devagar?",
+        "fr": "Pouvez-vous parler plus lentement ?",
+        "it": "Può parlare più lentamente?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm440",
+      "es": "Estoy aprendiendo el idioma.",
+      "translations": {
+        "en": "I'm learning the language.",
+        "pt": "Estou aprendendo o idioma.",
+        "fr": "J'apprends la langue.",
+        "it": "Sto imparando la lingua."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm441",
+      "es": "¿Puede señalarlo en la carta?",
+      "translations": {
+        "en": "Could you point to it on the menu?",
+        "pt": "Pode mostrar no cardápio?",
+        "fr": "Pouvez-vous le montrer sur la carte ?",
+        "it": "Può indicarlo sul menù?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm442",
+      "es": "¿Puede escribirlo, por favor?",
+      "translations": {
+        "en": "Could you write it down, please?",
+        "pt": "Pode escrever, por favor?",
+        "fr": "Pouvez-vous l'écrire, s'il vous plaît ?",
+        "it": "Può scriverlo, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm443",
+      "es": "¿Cuánto cuesta ese extra?",
+      "translations": {
+        "en": "How much does that extra cost?",
+        "pt": "Quanto custa esse extra?",
+        "fr": "Combien coûte ce supplément ?",
+        "it": "Quanto costa quell'aggiunta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm444",
+      "es": "Esto no es lo que pedí.",
+      "translations": {
+        "en": "This isn't what I ordered.",
+        "pt": "Não foi isso que eu pedi.",
+        "fr": "Ce n'est pas ce que j'ai commandé.",
+        "it": "Non è quello che ho ordinato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm445",
+      "es": "Falta uno de nuestros platillos.",
+      "translations": {
+        "en": "One of our dishes is missing.",
+        "pt": "Está faltando um dos nossos pratos.",
+        "fr": "Il manque un de nos plats.",
+        "it": "Manca uno dei nostri piatti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm446",
+      "es": "Mi comida está fría.",
+      "translations": {
+        "en": "My food is cold.",
+        "pt": "Minha comida está fria.",
+        "fr": "Mon plat est froid.",
+        "it": "Il mio cibo è freddo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm447",
+      "es": "Esta carne está demasiado cruda para mí.",
+      "translations": {
+        "en": "This meat is too rare for me. / This meat isn't cooked enough for me.",
+        "pt": "Esta carne está malpassada demais para mim.",
+        "fr": "Cette viande n'est pas assez cuite pour moi.",
+        "it": "Questa carne è troppo al sangue per me. / Questa carne non è abbastanza cotta per me."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm448",
+      "es": "¿Podría cocinarla un poco más?",
+      "translations": {
+        "en": "Could you cook it a little more?",
+        "pt": "Poderia cozinhar um pouco mais?",
+        "fr": "Pourriez-vous la cuire un peu plus ?",
+        "it": "Potrebbe cuocerla un po' di più?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm449",
+      "es": "Pedí este platillo sin queso.",
+      "translations": {
+        "en": "I ordered this dish without cheese.",
+        "pt": "Pedi este prato sem queijo.",
+        "fr": "J'ai commandé ce plat sans fromage.",
+        "it": "Ho ordinato questo piatto senza formaggio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm450",
+      "es": "¿Puede traerme el platillo que pedí?",
+      "translations": {
+        "en": "Could you bring me the dish I ordered?",
+        "pt": "Pode me trazer o prato que eu pedi?",
+        "fr": "Pouvez-vous m'apporter le plat que j'ai commandé ?",
+        "it": "Può portarmi il piatto che ho ordinato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm451",
+      "es": "No puedo comer esto.",
+      "translations": {
+        "en": "I can't eat this.",
+        "pt": "Não posso comer isto.",
+        "fr": "Je ne peux pas manger ceci.",
+        "it": "Non posso mangiare questo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm452",
+      "es": "¿Puede comprobar si nuestro pedido está listo?",
+      "translations": {
+        "en": "Could you check whether our order is ready?",
+        "pt": "Pode verificar se nosso pedido está pronto?",
+        "fr": "Pouvez-vous vérifier si notre commande est prête ?",
+        "it": "Può controllare se la nostra ordinazione è pronta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm453",
+      "es": "Bienvenidos/as.",
+      "translations": {
+        "en": "Welcome.",
+        "pt": "Bem-vindos / Bem-vindas.",
+        "fr": "Bienvenue.",
+        "it": "Benvenuti / Benvenute."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm454",
+      "es": "¿Tienen reservación?",
+      "translations": {
+        "en": "Do you have a reservation?",
+        "pt": "Vocês têm reserva?",
+        "fr": "Avez-vous réservé ?",
+        "it": "Avete una prenotazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm455",
+      "es": "¿A nombre de quién está la reservación?",
+      "translations": {
+        "en": "What name is the reservation under?",
+        "pt": "A reserva está em nome de quem?",
+        "fr": "À quel nom est la réservation ?",
+        "it": "A che nome è la prenotazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm456",
+      "es": "¿Para cuántas personas?",
+      "translations": {
+        "en": "How many people?",
+        "pt": "Para quantas pessoas?",
+        "fr": "Pour combien de personnes ?",
+        "it": "Per quante persone?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm457",
+      "es": "¿Ya llegó todo su grupo?",
+      "translations": {
+        "en": "Is your whole party here?",
+        "pt": "Todo o seu grupo já chegou?",
+        "fr": "Tout votre groupe est-il arrivé ?",
+        "it": "È arrivato tutto il vostro gruppo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm458",
+      "es": "¿Prefieren adentro o afuera?",
+      "translations": {
+        "en": "Would you prefer inside or outside?",
+        "pt": "Vocês preferem na área interna ou externa?",
+        "fr": "Vous préférez à l'intérieur ou à l'extérieur ?",
+        "it": "Preferite all'interno o all'esterno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm459",
+      "es": "Por aquí, por favor.",
+      "translations": {
+        "en": "Right this way, please.",
+        "pt": "Por aqui, por favor.",
+        "fr": "Par ici, s'il vous plaît.",
+        "it": "Da questa parte, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm460",
+      "es": "Síganme, por favor.",
+      "translations": {
+        "en": "Follow me, please.",
+        "pt": "Me acompanhem, por favor.",
+        "fr": "Suivez-moi, s'il vous plaît.",
+        "it": "Seguitemi, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm461",
+      "es": "Pueden sentarse donde quieran.",
+      "translations": {
+        "en": "You can sit anywhere you like.",
+        "pt": "Podem se sentar onde quiserem.",
+        "fr": "Vous pouvez vous asseoir où vous voulez.",
+        "it": "Potete sedervi dove volete."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm462",
+      "es": "Esta mesa está reservada.",
+      "translations": {
+        "en": "This table is reserved.",
+        "pt": "Esta mesa está reservada.",
+        "fr": "Cette table est réservée.",
+        "it": "Questo tavolo è prenotato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm463",
+      "es": "Su mesa ya está lista.",
+      "translations": {
+        "en": "Your table is ready.",
+        "pt": "Sua mesa já está pronta.",
+        "fr": "Votre table est prête.",
+        "it": "Il vostro tavolo è pronto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm464",
+      "es": "Tendrán que esperar unos minutos.",
+      "translations": {
+        "en": "You'll need to wait a few minutes.",
+        "pt": "Vocês vão ter que esperar alguns minutos.",
+        "fr": "Il faudra attendre quelques minutes.",
+        "it": "Dovrete aspettare qualche minuto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm465",
+      "es": "La espera es de unos veinte minutos.",
+      "translations": {
+        "en": "The wait is about twenty minutes.",
+        "pt": "O tempo de espera é de uns vinte minutos.",
+        "fr": "L'attente est d'environ vingt minutes.",
+        "it": "L'attesa è di circa venti minuti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm466",
+      "es": "Lo siento, estamos llenos.",
+      "translations": {
+        "en": "Sorry, we're full.",
+        "pt": "Desculpe, estamos lotados.",
+        "fr": "Je suis désolé/désolée, nous sommes complets.",
+        "it": "Mi dispiace, siamo al completo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm467",
+      "es": "No tenemos mesas disponibles.",
+      "translations": {
+        "en": "We don't have any tables available.",
+        "pt": "Não temos mesas disponíveis.",
+        "fr": "Nous n'avons pas de tables disponibles.",
+        "it": "Non abbiamo tavoli liberi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm468",
+      "es": "La cocina cierra en treinta minutos.",
+      "translations": {
+        "en": "The kitchen closes in thirty minutes.",
+        "pt": "A cozinha fecha em trinta minutos.",
+        "fr": "La cuisine ferme dans trente minutes.",
+        "it": "La cucina chiude tra trenta minuti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm469",
+      "es": "Aquí tienen la carta.",
+      "translations": {
+        "en": "Here's the menu.",
+        "pt": "Aqui está o cardápio.",
+        "fr": "Voici la carte.",
+        "it": "Ecco il menù."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm470",
+      "es": "Estos son los platillos especiales de hoy.",
+      "translations": {
+        "en": "These are today's specials.",
+        "pt": "Hoje temos estes pratos especiais.",
+        "fr": "Voici nos plats du jour.",
+        "it": "Questi sono i piatti speciali di oggi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm471",
+      "es": "¿Les traigo algo de beber?",
+      "translations": {
+        "en": "Can I get you something to drink?",
+        "pt": "Posso trazer algo para vocês beberem?",
+        "fr": "Puis-je vous apporter quelque chose à boire ?",
+        "it": "Vi porto qualcosa da bere?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm472",
+      "es": "¿Qué desean tomar?",
+      "translations": {
+        "en": "What would you like to drink?",
+        "pt": "O que vocês querem beber?",
+        "fr": "Que souhaitez-vous boire ?",
+        "it": "Che cosa desiderate da bere?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm473",
+      "es": "¿Sin gas o con gas?",
+      "translations": {
+        "en": "Still or sparkling?",
+        "pt": "Sem gás ou com gás?",
+        "fr": "Plate ou gazeuse ?",
+        "it": "Naturale o frizzante?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm474",
+      "es": "¿Con hielo o sin hielo?",
+      "translations": {
+        "en": "With or without ice?",
+        "pt": "Com gelo ou sem gelo?",
+        "fr": "Avec ou sans glaçons ?",
+        "it": "Con ghiaccio o senza?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm475",
+      "es": "¿Una copa o una botella?",
+      "translations": {
+        "en": "A glass or a bottle?",
+        "pt": "Uma taça ou uma garrafa?",
+        "fr": "Un verre ou une bouteille ?",
+        "it": "Un calice o una bottiglia?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm476",
+      "es": "¿Ya están listos/as para ordenar?",
+      "translations": {
+        "en": "Are you ready to order?",
+        "pt": "Já estão prontos/prontas para pedir?",
+        "fr": "Êtes-vous prêts/prêtes à commander ?",
+        "it": "Siete pronti/pronte per ordinare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm477",
+      "es": "¿Necesitan unos minutos más?",
+      "translations": {
+        "en": "Do you need a few more minutes?",
+        "pt": "Precisam de mais alguns minutos?",
+        "fr": "Vous faut-il encore quelques minutes ?",
+        "it": "Vi serve ancora qualche minuto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm478",
+      "es": "¿Qué les gustaría pedir?",
+      "translations": {
+        "en": "What would you like to order?",
+        "pt": "O que vocês gostariam de pedir?",
+        "fr": "Que souhaitez-vous commander ?",
+        "it": "Che cosa vorreste ordinare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm479",
+      "es": "¿Y para usted?",
+      "translations": {
+        "en": "And for you?",
+        "pt": "E para você?",
+        "fr": "Et pour vous ?",
+        "it": "E per lei?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm480",
+      "es": "¿Desea una entrada?",
+      "translations": {
+        "en": "Would you like an appetizer?",
+        "pt": "Gostaria de uma entrada?",
+        "fr": "Souhaitez-vous une entrée ?",
+        "it": "Desidera un antipasto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm481",
+      "es": "¿Qué guarnición quiere?",
+      "translations": {
+        "en": "Which side would you like?",
+        "pt": "Qual acompanhamento você quer?",
+        "fr": "Quel accompagnement souhaitez-vous ?",
+        "it": "Che contorno desidera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm482",
+      "es": "¿Cómo quiere la carne?",
+      "translations": {
+        "en": "How would you like your meat cooked? / How would you like your steak cooked?",
+        "pt": "Qual o ponto da carne?",
+        "fr": "Quelle cuisson souhaitez-vous pour la viande ?",
+        "it": "Come desidera la cottura della carne?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm483",
+      "es": "¿Desea la salsa aparte?",
+      "translations": {
+        "en": "Would you like the sauce on the side?",
+        "pt": "Quer o molho à parte?",
+        "fr": "Souhaitez-vous la sauce à part ?",
+        "it": "Desidera la salsa a parte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm484",
+      "es": "¿Eso es todo?",
+      "translations": {
+        "en": "Is that everything?",
+        "pt": "É só isso?",
+        "fr": "Ce sera tout ?",
+        "it": "È tutto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm485",
+      "es": "¿Quieren compartirlo?",
+      "translations": {
+        "en": "Would you like to share it?",
+        "pt": "Vocês querem compartilhar?",
+        "fr": "Souhaitez-vous le partager ?",
+        "it": "Volete condividerlo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm486",
+      "es": "¿Quiere la entrada antes del plato principal?",
+      "translations": {
+        "en": "Would you like the appetizer before the main course?",
+        "pt": "Quer a entrada antes do prato principal?",
+        "fr": "Souhaitez-vous l'entrée avant le plat principal ?",
+        "it": "Desidera l'antipasto prima del piatto principale?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm487",
+      "es": "¿Quiere que traigamos todo junto?",
+      "translations": {
+        "en": "Would you like everything brought out together?",
+        "pt": "Quer que a gente traga tudo junto?",
+        "fr": "Souhaitez-vous que nous apportions tout en même temps ?",
+        "it": "Desidera che portiamo tutto insieme?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm488",
+      "es": "Entonces, pidió [platillo], ¿correcto?",
+      "translations": {
+        "en": "So you ordered [dish], correct?",
+        "pt": "Então você pediu [prato], certo?",
+        "fr": "Vous avez donc commandé [plat], c'est bien cela ?",
+        "it": "Quindi ha ordinato [piatto], giusto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm489",
+      "es": "Enseguida le traigo su bebida.",
+      "translations": {
+        "en": "I'll bring your drink right away.",
+        "pt": "Já trago sua bebida.",
+        "fr": "Je vous apporte votre boisson tout de suite.",
+        "it": "Le porto subito la bevanda."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm490",
+      "es": "Este platillo viene con ensalada.",
+      "translations": {
+        "en": "This dish comes with a salad.",
+        "pt": "Este prato vem com salada.",
+        "fr": "Ce plat est accompagné d'une salade.",
+        "it": "Questo piatto è accompagnato da un'insalata."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm491",
+      "es": "La guarnición está incluida.",
+      "translations": {
+        "en": "The side dish is included.",
+        "pt": "O acompanhamento está incluído.",
+        "fr": "L'accompagnement est compris.",
+        "it": "Il contorno è incluso."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm492",
+      "es": "La bebida no está incluida.",
+      "translations": {
+        "en": "The drink isn't included.",
+        "pt": "A bebida não está incluída.",
+        "fr": "La boisson n'est pas comprise.",
+        "it": "La bevanda non è inclusa."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm493",
+      "es": "Este platillo es para compartir.",
+      "translations": {
+        "en": "This dish is meant to be shared.",
+        "pt": "Este prato é para compartilhar.",
+        "fr": "Ce plat est à partager.",
+        "it": "Questo piatto è da condividere."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm494",
+      "es": "Este platillo es un poco picante.",
+      "translations": {
+        "en": "This dish is a little spicy.",
+        "pt": "Este prato é um pouco apimentado.",
+        "fr": "Ce plat est légèrement piquant.",
+        "it": "Questo piatto è leggermente piccante."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm495",
+      "es": "Recomiendo el plato del día.",
+      "translations": {
+        "en": "I recommend the dish of the day.",
+        "pt": "Recomendo o prato do dia.",
+        "fr": "Je vous conseille le plat du jour.",
+        "it": "Consiglio il piatto del giorno."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm496",
+      "es": "Lo siento, ese platillo se nos terminó.",
+      "translations": {
+        "en": "Sorry, we're out of that dish.",
+        "pt": "Desculpe, esse prato acabou.",
+        "fr": "Je suis désolé/désolée, nous n'avons plus ce plat.",
+        "it": "Mi dispiace, quel piatto è esaurito."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm497",
+      "es": "Este platillo no está disponible hoy.",
+      "translations": {
+        "en": "This dish isn't available today.",
+        "pt": "Este prato não está disponível hoje.",
+        "fr": "Ce plat n'est pas disponible aujourd'hui.",
+        "it": "Questo piatto non è disponibile oggi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm498",
+      "es": "Podemos prepararlo sin [ingrediente].",
+      "translations": {
+        "en": "We can make it without [ingredient].",
+        "pt": "Podemos preparar sem [ingrediente].",
+        "fr": "Nous pouvons le préparer sans [ingrédient].",
+        "it": "Possiamo prepararlo senza [ingrediente]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm499",
+      "es": "La salsa ya viene preparada.",
+      "translations": {
+        "en": "The sauce is already prepared.",
+        "pt": "O molho já vem pronto.",
+        "fr": "La sauce est déjà préparée.",
+        "it": "La salsa è già preparata."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm500",
+      "es": "No podemos quitar ese ingrediente.",
+      "translations": {
+        "en": "We can't remove that ingredient.",
+        "pt": "Não podemos retirar esse ingrediente.",
+        "fr": "Nous ne pouvons pas retirer cet ingrédient.",
+        "it": "Non possiamo togliere quell'ingrediente."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm501",
+      "es": "Ese cambio tiene un costo adicional.",
+      "translations": {
+        "en": "There's an extra charge for that substitution.",
+        "pt": "Essa troca tem custo adicional.",
+        "fr": "Ce changement entraîne un supplément.",
+        "it": "Quella sostituzione ha un costo aggiuntivo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm502",
+      "es": "Eso se cobra aparte.",
+      "translations": {
+        "en": "That's charged separately.",
+        "pt": "Isso é cobrado à parte.",
+        "fr": "Cela est facturé séparément.",
+        "it": "Quello si paga a parte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm503",
+      "es": "Voy a consultar con la cocina.",
+      "translations": {
+        "en": "I'll check with the kitchen.",
+        "pt": "Vou confirmar com a cozinha.",
+        "fr": "Je vais vérifier auprès de la cuisine.",
+        "it": "Vado a chiedere in cucina."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm504",
+      "es": "¿Tiene alguna alergia alimentaria?",
+      "translations": {
+        "en": "Do you have any food allergies?",
+        "pt": "Você tem alguma alergia alimentar?",
+        "fr": "Avez-vous des allergies alimentaires ?",
+        "it": "Ha qualche allergia alimentare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm505",
+      "es": "¿Es una alergia o una preferencia?",
+      "translations": {
+        "en": "Is it an allergy or a preference?",
+        "pt": "É uma alergia ou uma preferência?",
+        "fr": "Est-ce une allergie ou une préférence ?",
+        "it": "È un'allergia o una preferenza?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm506",
+      "es": "Este platillo contiene leche.",
+      "translations": {
+        "en": "This dish contains milk.",
+        "pt": "Este prato contém leite.",
+        "fr": "Ce plat contient du lait.",
+        "it": "Questo piatto contiene latte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm507",
+      "es": "No puedo confirmar los ingredientes.",
+      "translations": {
+        "en": "I can't confirm the ingredients.",
+        "pt": "Não consigo confirmar os ingredientes.",
+        "fr": "Je ne peux pas confirmer les ingrédients.",
+        "it": "Non posso confermare gli ingredienti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm508",
+      "es": "No podemos garantizar que no contenga [ingrediente].",
+      "translations": {
+        "en": "We can't guarantee that it doesn't contain [ingredient].",
+        "pt": "Não podemos garantir que não contenha [ingrediente].",
+        "fr": "Nous ne pouvons pas garantir l'absence de [ingrédient].",
+        "it": "Non possiamo garantire che non contenga [ingrediente]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm509",
+      "es": "Buen provecho.",
+      "translations": {
+        "en": "Enjoy your meal.",
+        "pt": "Bom apetite.",
+        "fr": "Bon appétit.",
+        "it": "Buon appetito."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm510",
+      "es": "Tenga cuidado, el plato está caliente.",
+      "translations": {
+        "en": "Be careful, the plate is hot.",
+        "pt": "Cuidado, o prato está quente.",
+        "fr": "Attention, l'assiette est chaude.",
+        "it": "Faccia attenzione, il piatto è caldo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm511",
+      "es": "¿Qué tal la comida?",
+      "translations": {
+        "en": "How's the food?",
+        "pt": "O que está achando da comida?",
+        "fr": "Comment trouvez-vous le repas ?",
+        "it": "Com'è il cibo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm512",
+      "es": "¿Todo bien por aquí?",
+      "translations": {
+        "en": "Everything okay here?",
+        "pt": "Tudo certo por aqui?",
+        "fr": "Tout se passe bien ?",
+        "it": "Va tutto bene qui?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm513",
+      "es": "¿Tiene todo lo que necesita?",
+      "translations": {
+        "en": "Do you have everything you need?",
+        "pt": "Tem tudo de que precisa?",
+        "fr": "Avez-vous tout ce qu'il vous faut ?",
+        "it": "Ha tutto quello che le serve?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm514",
+      "es": "¿Desea otra bebida?",
+      "translations": {
+        "en": "Would you like another drink?",
+        "pt": "Gostaria de outra bebida?",
+        "fr": "Souhaitez-vous une autre boisson ?",
+        "it": "Desidera un'altra bevanda?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm515",
+      "es": "¿Desea más agua?",
+      "translations": {
+        "en": "Would you like more water?",
+        "pt": "Gostaria de mais água?",
+        "fr": "Souhaitez-vous encore de l'eau ?",
+        "it": "Desidera altra acqua?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm516",
+      "es": "¿Desea algo más? / ¿Desea agregar algo más?",
+      "translations": {
+        "en": "Would you like anything else? / Would you like to add anything else?",
+        "pt": "Gostaria de mais alguma coisa? / Gostaria de acrescentar mais alguma coisa?",
+        "fr": "Souhaitez-vous autre chose ? / Souhaitez-vous ajouter autre chose ?",
+        "it": "Desidera altro? / Desidera aggiungere altro?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm517",
+      "es": "¿Todavía sigue comiendo?",
+      "translations": {
+        "en": "Are you still working on that? / Are you still eating?",
+        "pt": "Ainda está comendo?",
+        "fr": "Vous êtes encore en train de manger ?",
+        "it": "Sta ancora mangiando?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm518",
+      "es": "¿Ya terminó?",
+      "translations": {
+        "en": "Have you finished?",
+        "pt": "Já terminou?",
+        "fr": "Avez-vous terminé ?",
+        "it": "Ha finito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm519",
+      "es": "¿Puedo retirar su plato?",
+      "translations": {
+        "en": "May I clear your plate? / Can I take your plate away?",
+        "pt": "Posso retirar seu prato?",
+        "fr": "Puis-je débarrasser votre assiette ?",
+        "it": "Posso portare via il piatto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm520",
+      "es": "¿Desea ver la carta de postres?",
+      "translations": {
+        "en": "Would you like to see the dessert menu?",
+        "pt": "Gostaria de ver o cardápio de sobremesas?",
+        "fr": "Souhaitez-vous voir la carte des desserts ?",
+        "it": "Desidera vedere il menù dei dessert?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm521",
+      "es": "¿Desea un café o un té?",
+      "translations": {
+        "en": "Would you like a coffee or tea?",
+        "pt": "Gostaria de um café ou um chá?",
+        "fr": "Souhaitez-vous un café ou un thé ?",
+        "it": "Desidera un caffè o un tè?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm522",
+      "es": "¿Quiere llevarse lo que sobró?",
+      "translations": {
+        "en": "Would you like to take the leftovers home?",
+        "pt": "Quer levar o que sobrou?",
+        "fr": "Souhaitez-vous emporter les restes ?",
+        "it": "Vuole portare via gli avanzi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm523",
+      "es": "¿Le traigo un recipiente para llevar?",
+      "translations": {
+        "en": "Would you like a takeout container?",
+        "pt": "Quer que eu traga uma embalagem para viagem?",
+        "fr": "Souhaitez-vous une boîte à emporter ?",
+        "it": "Le porto un contenitore da asporto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm524",
+      "es": "Lo siento por la demora.",
+      "translations": {
+        "en": "Sorry for the wait.",
+        "pt": "Desculpe pela demora.",
+        "fr": "Je suis désolé/désolée pour l'attente.",
+        "it": "Mi dispiace per l'attesa."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm525",
+      "es": "Su pedido estará listo pronto.",
+      "translations": {
+        "en": "Your order will be ready soon.",
+        "pt": "Seu pedido vai ficar pronto em breve.",
+        "fr": "Votre commande sera bientôt prête.",
+        "it": "La sua ordinazione sarà pronta a breve."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm526",
+      "es": "Lo siento, voy a corregir el pedido.",
+      "translations": {
+        "en": "Sorry, I'll fix the order.",
+        "pt": "Desculpe, vou corrigir o pedido.",
+        "fr": "Je suis désolé/désolée, je vais corriger la commande.",
+        "it": "Mi dispiace, correggo l'ordinazione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm527",
+      "es": "¿Van a pagar juntos o por separado? / ¿Una sola cuenta o cuentas separadas?",
+      "translations": {
+        "en": "Are you paying together or separately? / One check or separate checks?",
+        "pt": "Vão pagar tudo junto ou separado? / Uma conta só ou contas separadas?",
+        "fr": "Vous payez ensemble ou séparément ? / Une seule addition ou des additions séparées ?",
+        "it": "Pagate insieme o separatamente? / Un conto unico o conti separati?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm528",
+      "es": "¿Cómo desea pagar?",
+      "translations": {
+        "en": "How would you like to pay?",
+        "pt": "Como gostaria de pagar?",
+        "fr": "Comment souhaitez-vous payer ?",
+        "it": "Come desidera pagare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm529",
+      "es": "¿En efectivo o con tarjeta?",
+      "translations": {
+        "en": "Cash or card?",
+        "pt": "Em dinheiro ou no cartão?",
+        "fr": "En espèces ou par carte ?",
+        "it": "In contanti o con carta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm530",
+      "es": "¿Crédito o débito?",
+      "translations": {
+        "en": "Credit or debit?",
+        "pt": "Crédito ou débito?",
+        "fr": "Carte de crédit ou de débit ?",
+        "it": "Credito o debito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm531",
+      "es": "Solo aceptamos efectivo.",
+      "translations": {
+        "en": "We only accept cash.",
+        "pt": "Só aceitamos dinheiro.",
+        "fr": "Nous n'acceptons que les espèces.",
+        "it": "Accettiamo solo contanti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm532",
+      "es": "El servicio está incluido.",
+      "translations": {
+        "en": "Service is included.",
+        "pt": "O serviço está incluído.",
+        "fr": "Le service est compris.",
+        "it": "Il servizio è incluso."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm533",
+      "es": "La propina no está incluida.",
+      "translations": {
+        "en": "The tip isn't included.",
+        "pt": "A gorjeta não está incluída.",
+        "fr": "Le pourboire n'est pas compris.",
+        "it": "La mancia non è inclusa."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm534",
+      "es": "Puede pagar en la caja.",
+      "translations": {
+        "en": "You can pay at the register.",
+        "pt": "Pode pagar no caixa.",
+        "fr": "Vous pouvez payer à la caisse.",
+        "it": "Può pagare alla cassa."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm535",
+      "es": "Puede acercar su tarjeta.",
+      "translations": {
+        "en": "You can tap your card.",
+        "pt": "Pode aproximar o cartão.",
+        "fr": "Vous pouvez approcher votre carte.",
+        "it": "Può avvicinare la carta."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm536",
+      "es": "Inserte su tarjeta, por favor.",
+      "translations": {
+        "en": "Please insert your card.",
+        "pt": "Insira seu cartão, por favor.",
+        "fr": "Insérez votre carte, s'il vous plaît.",
+        "it": "Inserisca la carta, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm537",
+      "es": "Ingrese su código PIN, por favor.",
+      "translations": {
+        "en": "Please enter your PIN.",
+        "pt": "Digite sua senha, por favor.",
+        "fr": "Saisissez votre code PIN, s'il vous plaît.",
+        "it": "Inserisca il PIN, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm538",
+      "es": "Puede retirar su tarjeta.",
+      "translations": {
+        "en": "You can remove your card.",
+        "pt": "Pode retirar seu cartão.",
+        "fr": "Vous pouvez retirer votre carte.",
+        "it": "Può rimuovere la carta."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm539",
+      "es": "Su tarjeta fue rechazada.",
+      "translations": {
+        "en": "Your card was declined.",
+        "pt": "Seu cartão foi recusado.",
+        "fr": "Votre carte a été refusée.",
+        "it": "La carta è stata rifiutata."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm540",
+      "es": "¿Tiene otra forma de pago?",
+      "translations": {
+        "en": "Do you have another way to pay?",
+        "pt": "Você tem outra forma de pagamento?",
+        "fr": "Avez-vous un autre moyen de paiement ?",
+        "it": "Ha un altro metodo di pagamento?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm541",
+      "es": "¿Desea un recibo?",
+      "translations": {
+        "en": "Would you like a receipt?",
+        "pt": "Gostaria de um recibo?",
+        "fr": "Souhaitez-vous un reçu ?",
+        "it": "Desidera una ricevuta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm542",
+      "es": "Aquí tiene su cambio.",
+      "translations": {
+        "en": "Here's your change.",
+        "pt": "Aqui está seu troco.",
+        "fr": "Voici votre monnaie.",
+        "it": "Ecco il resto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm543",
+      "es": "Gracias, que tenga un buen día.",
+      "translations": {
+        "en": "Thank you, have a nice day.",
+        "pt": "Obrigado/Obrigada, tenha um bom dia.",
+        "fr": "Merci, bonne journée.",
+        "it": "Grazie, buona giornata."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm544",
+      "es": "Combo (platillo, guarnición y bebida)",
+      "translations": {
+        "en": "Meal / Combo meal / Combo",
+        "pt": "Combo",
+        "fr": "Menu (avec accompagnement et boisson)",
+        "it": "Menù (con contorno e bevanda)"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm545",
+      "es": "Producto solo, sin combo",
+      "translations": {
+        "en": "Item on its own / Item à la carte",
+        "pt": "Item avulso / Item sem combo",
+        "fr": "Produit à l'unité, sans menu",
+        "it": "Prodotto singolo, senza menù"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm546",
+      "es": "Tamaño",
+      "translations": {
+        "en": "Size",
+        "pt": "Tamanho",
+        "fr": "Taille / Format",
+        "it": "Formato / Dimensione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm547",
+      "es": "Pequeño / Chico (tamaño)",
+      "translations": {
+        "en": "Small",
+        "pt": "Pequeno",
+        "fr": "Petit",
+        "it": "Piccolo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm548",
+      "es": "Mediano (tamaño)",
+      "translations": {
+        "en": "Medium",
+        "pt": "Médio",
+        "fr": "Moyen",
+        "it": "Medio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm549",
+      "es": "Grande (tamaño)",
+      "translations": {
+        "en": "Large",
+        "pt": "Grande",
+        "fr": "Grand",
+        "it": "Grande"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm550",
+      "es": "Papas a la francesa / Papas fritas (guarnición)",
+      "translations": {
+        "en": "Fries / French fries",
+        "pt": "Batatas fritas",
+        "fr": "Frites",
+        "it": "Patatine fritte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm551",
+      "es": "Refresco",
+      "translations": {
+        "en": "Soda / Soft drink",
+        "pt": "Refrigerante",
+        "fr": "Soda",
+        "it": "Bibita gassata"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm552",
+      "es": "¿Lo desea en combo o solo?",
+      "translations": {
+        "en": "Would you like that as a meal or on its own?",
+        "pt": "Vai querer o combo ou só o item?",
+        "fr": "En menu ou à l'unité ?",
+        "it": "Lo desidera in menù o da solo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm553",
+      "es": "¿Qué tamaño desea?",
+      "translations": {
+        "en": "What size would you like?",
+        "pt": "Qual tamanho vai querer?",
+        "fr": "Quel format souhaitez-vous ?",
+        "it": "Che formato desidera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm554",
+      "es": "¿Qué bebida quiere con su combo?",
+      "translations": {
+        "en": "What drink would you like with your meal?",
+        "pt": "Qual bebida você quer no combo?",
+        "fr": "Quelle boisson souhaitez-vous avec votre menu ?",
+        "it": "Che bevanda desidera con il menù?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm555",
+      "es": "Lo quiero en combo, con papas grandes y un refresco grande, por favor.",
+      "translations": {
+        "en": "I'd like that as a meal with large fries and a large soda, please.",
+        "pt": "Quero o combo com uma porção grande de batatas fritas e um refrigerante grande, por favor.",
+        "fr": "Je voudrais le menu avec une grande portion de frites et un grand soda, s'il vous plaît.",
+        "it": "Vorrei il menù con una porzione grande di patatine e una bibita grande, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm556",
+      "es": "Solo la hamburguesa, sin combo, por favor.",
+      "translations": {
+        "en": "Just the burger, not the meal, please.",
+        "pt": "Só o hambúrguer, sem o combo, por favor.",
+        "fr": "Juste le burger, sans menu, s'il vous plaît.",
+        "it": "Solo l'hamburger, senza menù, per favore."
+      },
+      "image_url": ""
+    }
+  ]
+}

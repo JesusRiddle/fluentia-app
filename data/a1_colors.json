@@ -6,10 +6,10 @@
       "id": "c1",
       "image_url": "",
       "hex": "#EF4444",
-      "es": "Rojo",
+      "es": "Rojo/a",
       "translations": {
-        "it": "Rosso",
-        "pt": "Vermelho",
+        "it": "Rosso/a",
+        "pt": "Vermelho/a",
         "fr": "Rouge",
         "en": "Red"
       }
@@ -22,7 +22,7 @@
       "translations": {
         "it": "Blu",
         "pt": "Azul",
-        "fr": "Bleu",
+        "fr": "Bleu / Bleue",
         "en": "Blue"
       }
     },
@@ -30,10 +30,10 @@
       "id": "c3",
       "image_url": "",
       "hex": "#FBBF24",
-      "es": "Amarillo",
+      "es": "Amarillo/a",
       "translations": {
-        "it": "Giallo",
-        "pt": "Amarelo",
+        "it": "Giallo/a",
+        "pt": "Amarelo/a",
         "fr": "Jaune",
         "en": "Yellow"
       }
@@ -46,7 +46,7 @@
       "translations": {
         "it": "Verde",
         "pt": "Verde",
-        "fr": "Vert",
+        "fr": "Vert / Verte",
         "en": "Green"
       }
     },
@@ -66,11 +66,11 @@
       "id": "c6",
       "image_url": "",
       "hex": "#A855F7",
-      "es": "Morado",
+      "es": "Morado/a",
       "translations": {
         "it": "Viola",
-        "pt": "Roxo",
-        "fr": "Violet",
+        "pt": "Roxo/a",
+        "fr": "Violet / Violette",
         "en": "Purple"
       }
     },
@@ -89,12 +89,12 @@
     {
       "id": "c8",
       "image_url": "",
-      "hex": "#1F2937",
-      "es": "Negro",
+      "hex": "#000000",
+      "es": "Negro/a",
       "translations": {
-        "it": "Nero",
-        "pt": "Preto",
-        "fr": "Noir",
+        "it": "Nero/a",
+        "pt": "Preto/a",
+        "fr": "Noir / Noire",
         "en": "Black"
       }
     },
@@ -102,11 +102,11 @@
       "id": "c9",
       "image_url": "",
       "hex": "#FFFFFF",
-      "es": "Blanco",
+      "es": "Blanco/a",
       "translations": {
-        "it": "Bianco",
-        "pt": "Branco",
-        "fr": "Blanc",
+        "it": "Bianco/a",
+        "pt": "Branco/a",
+        "fr": "Blanc / Blanche",
         "en": "White"
       }
     },
@@ -116,9 +116,9 @@
       "hex": "#9CA3AF",
       "es": "Gris",
       "translations": {
-        "it": "Grigio",
+        "it": "Grigio/a",
         "pt": "Cinza",
-        "fr": "Gris",
+        "fr": "Gris / Grise",
         "en": "Gray"
       }
     },
@@ -138,11 +138,11 @@
       "id": "c12",
       "image_url": "",
       "hex": "#E5E7EB",
-      "es": "Plateado",
+      "es": "Plateado/a",
       "translations": {
-        "it": "Argento",
-        "pt": "Prateado",
-        "fr": "Argenté",
+        "it": "Argento / Argentato/a",
+        "pt": "Prateado/a",
+        "fr": "Argenté / Argentée",
         "en": "Silver"
       }
     },
@@ -150,11 +150,11 @@
       "id": "c13",
       "image_url": "",
       "hex": "#F59E0B",
-      "es": "Dorado",
+      "es": "Dorado/a",
       "translations": {
-        "it": "Dorato",
-        "pt": "Dourado",
-        "fr": "Doré",
+        "it": "Dorato/a",
+        "pt": "Dourado/a",
+        "fr": "Doré / Dorée",
         "en": "Gold"
       }
     },
@@ -162,10 +162,10 @@
       "id": "c14",
       "image_url": "",
       "hex": "#7DD3FC",
-      "es": "Celeste / Azul Claro",
+      "es": "Celeste / Azul claro",
       "translations": {
-        "it": "Azzurro",
-        "pt": "Azul-claro",
+        "it": "Azzurro/a / Celeste",
+        "pt": "Azul-claro / Azul-clara",
         "fr": "Bleu clair",
         "en": "Light blue"
       }
@@ -201,9 +201,57 @@
       "es": "Vino / Tinto",
       "translations": {
         "it": "Bordeaux",
-        "pt": "Vinho",
+        "pt": "Vinho / Bordô",
         "fr": "Bordeaux",
         "en": "Burgundy"
+      }
+    },
+    {
+      "id": "c18",
+      "image_url": "",
+      "hex": "#000080",
+      "es": "Azul marino",
+      "translations": {
+        "it": "Blu marino",
+        "pt": "Azul-marinho",
+        "fr": "Bleu marine",
+        "en": "Navy blue"
+      }
+    },
+    {
+      "id": "c19",
+      "image_url": "",
+      "hex": "#C8A2C8",
+      "es": "Lila",
+      "translations": {
+        "it": "Lilla",
+        "pt": "Lilás",
+        "fr": "Lilas",
+        "en": "Lilac"
+      }
+    },
+    {
+      "id": "c20",
+      "image_url": "",
+      "hex": "",
+      "es": "Claro/a (tonalidad)",
+      "translations": {
+        "it": "Chiaro/a",
+        "pt": "Claro/a",
+        "fr": "Clair / Claire",
+        "en": "Light"
+      }
+    },
+    {
+      "id": "c21",
+      "image_url": "",
+      "hex": "",
+      "es": "Oscuro/a (tonalidad)",
+      "translations": {
+        "it": "Scuro/a",
+        "pt": "Escuro/a",
+        "fr": "Foncé / Foncée",
+        "en": "Dark"
       }
     }
   ]

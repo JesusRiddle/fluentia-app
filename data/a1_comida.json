@@ -70,12 +70,12 @@
         },
         {
             "id": "food_7",
-            "es": "el limón`amarillo",
+            "es": "el limón amarillo",
             "translations": {
                 "en": "the lemon",
                 "fr": "le citron",
                 "it": "il limone",
-                "pt": "o limão"
+                "pt": "o limão-siciliano"
             },
             "image_url": "data/img/limon.jpg"
         },
@@ -85,7 +85,7 @@
             "translations": {
                 "en": "the watermelon",
                 "fr": "la pastèque",
-                "it": "l'anguria",
+                "it": "l'anguria / il cocomero",
                 "pt": "a melancia"
             },
             "image_url": "data/img/sandia.jpg"
@@ -446,10 +446,10 @@
             "id": "food_41",
             "es": "el champiñón",
             "translations": {
-                "en": "the mushroom",
-                "fr": "le champignon",
-                "it": "il fungo",
-                "pt": "o cogumelo"
+                "en": "the button mushroom",
+                "fr": "le champignon de Paris",
+                "it": "il champignon",
+                "pt": "o champignon / o cogumelo-de-paris"
             },
             "image_url": "data/img/champinon.jpg"
         },
@@ -614,7 +614,7 @@
                 "en": "the celery",
                 "fr": "le céleri",
                 "it": "il sedano",
-                "pt": "o aipo"
+                "pt": "o aipo / o salsão"
             },
             "image_url": "data/img/apio.jpg"
         },
@@ -675,22 +675,22 @@
         },
         {
             "id": "food_62",
-            "es": "la salchicha",
+            "es": "la salchicha (tipo hot dog)",
             "translations": {
-                "en": "the sausage",
-                "fr": "la saucisse",
-                "it": "la salsiccia",
+                "en": "the frankfurter / the hot dog sausage",
+                "fr": "la saucisse de Francfort",
+                "it": "il würstel",
                 "pt": "a salsicha"
             },
             "image_url": "data/img/salchicha.jpg"
         },
         {
             "id": "food_63",
-            "es": "el tocino",
+            "es": "el tocino (ahumado)",
             "translations": {
                 "en": "the bacon",
-                "fr": "le bacon",
-                "it": "la pancetta",
+                "fr": "le lard fumé en tranches",
+                "it": "il bacon / la pancetta affumicata",
                 "pt": "o bacon"
             },
             "image_url": "data/img/tocino.jpg"
@@ -776,7 +776,7 @@
             "id": "food_71",
             "es": "la avena",
             "translations": {
-                "en": "the oatmeal",
+                "en": "the oats",
                 "fr": "l'avoine",
                 "it": "l'avena",
                 "pt": "a aveia"
@@ -844,14 +844,14 @@
             "translations": {
                 "en": "the soda",
                 "fr": "le soda",
-                "it": "la bibita",
+                "it": "la bibita gassata",
                 "pt": "o refrigerante"
             },
             "image_url": "data/img/refresco.jpg"
         },
         {
             "id": "food_78",
-            "es": "el agua mineral",
+            "es": "el agua con gas",
             "translations": {
                 "en": "the sparkling water",
                 "fr": "l'eau gazeuse",
@@ -950,12 +950,12 @@
         },
         {
             "id": "food_87",
-            "es": "los fideos",
+            "es": "los fideos (pasta fina)",
             "translations": {
-                "en": "the noodles",
-                "fr": "les nouilles",
-                "it": "gli spaghetti",
-                "pt": "o macarrão"
+                "en": "the thin noodles",
+                "fr": "les vermicelles",
+                "it": "i capellini / i fedelini",
+                "pt": "o macarrão fino"
             },
             "image_url": "data/img/fideos.jpg"
         },
@@ -1008,7 +1008,7 @@
             "es": "la limonada",
             "translations": {
                 "en": "the lemonade",
-                "fr": "la limonade",
+                "fr": "la citronnade",
                 "it": "la limonata",
                 "pt": "a limonada"
             },
@@ -1076,7 +1076,7 @@
                 "en": "the poultry",
                 "fr": "la volaille",
                 "it": "il pollame",
-                "pt": "a ave"
+                "pt": "a carne de aves"
             },
             "image_url": "data/img/carne_ave.jpg"
         },
@@ -1093,11 +1093,11 @@
         },
         {
             "id": "food_100",
-            "es": "el venado",
+            "es": "la carne de venado",
             "translations": {
                 "en": "the venison",
                 "fr": "la viande de cerf",
-                "it": "il cervo",
+                "it": "la carne di cervo",
                 "pt": "a carne de veado"
             },
             "image_url": "data/img/venado.jpg"
@@ -1130,7 +1130,7 @@
             "translations": {
                 "en": "the rib",
                 "fr": "la côte",
-                "it": "la costola",
+                "it": "la costina",
                 "pt": "a costela"
             },
             "image_url": "data/img/costilla.jpg"
@@ -1148,23 +1148,23 @@
         },
         {
             "id": "food_105",
-            "es": "el lomo",
+            "es": "el lomo de cerdo",
             "translations": {
-                "en": "the tenderloin",
-                "fr": "le filet",
-                "it": "il lombo",
-                "pt": "o lombo"
+                "en": "the pork loin",
+                "fr": "la longe de porc",
+                "it": "la lonza di maiale / il lombo di maiale",
+                "pt": "o lombo de porco"
             },
             "image_url": "data/img/lomo.jpg"
         },
         {
             "id": "food_106",
-            "es": "el chuletón",
+            "es": "el chuletón (de res, con hueso)",
             "translations": {
-                "en": "the ribeye",
-                "fr": "l'entrecôte",
-                "it": "la costata",
-                "pt": "o bife ancho"
+                "en": "the bone-in ribeye",
+                "fr": "la côte de bœuf",
+                "it": "la costata di manzo con osso",
+                "pt": "o ribeye com osso"
             },
             "image_url": "data/img/chuleton.jpg"
         },
@@ -1172,7 +1172,7 @@
             "id": "food_107",
             "es": "la carne molida",
             "translations": {
-                "en": "the ground beef",
+                "en": "the ground meat",
                 "fr": "la viande hachée",
                 "it": "la carne macinata",
                 "pt": "a carne moída"
@@ -1192,12 +1192,12 @@
         },
         {
             "id": "food_109",
-            "es": "el muslo de pollo",
+            "es": "el muslo de pollo (parte superior) / el contramuslo",
             "translations": {
                 "en": "the chicken thigh",
-                "fr": "la cuisse de poulet",
-                "it": "la coscia di pollo",
-                "pt": "a coxa de frango"
+                "fr": "le haut de cuisse de poulet",
+                "it": "la sovracoscia di pollo",
+                "pt": "a sobrecoxa de frango"
             },
             "image_url": "data/img/muslo_pollo.jpg"
         },
@@ -1236,12 +1236,12 @@
         },
         {
             "id": "food_113",
-            "es": "la carne asada",
+            "es": "la carne asada (a la parrilla)",
             "translations": {
-                "en": "the roast meat",
-                "fr": "la viande rôtie",
-                "it": "l'arrosto",
-                "pt": "a carne assada"
+                "en": "the grilled meat",
+                "fr": "la viande grillée",
+                "it": "la carne alla griglia",
+                "pt": "a carne grelhada"
             },
             "image_url": "data/img/carne_asada.jpg"
         },
@@ -1258,12 +1258,12 @@
         },
         {
             "id": "food_115",
-            "es": "la cecina",
+            "es": "la cecina (mexicana, de res)",
             "translations": {
-                "en": "the jerky",
-                "fr": "la viande séchée",
-                "it": "la carne secca",
-                "pt": "a carne seca"
+                "en": "the Mexican cecina (thin, salted beef)",
+                "fr": "la cecina mexicaine (bœuf salé en fines tranches)",
+                "it": "la cecina messicana (carne bovina salata in fette sottili)",
+                "pt": "a cecina mexicana (carne bovina salgada em fatias finas)"
             },
             "image_url": "data/img/cecina.jpg"
         },
@@ -1282,10 +1282,10 @@
             "id": "food_117",
             "es": "los embutidos",
             "translations": {
-                "en": "the cold cuts",
-                "fr": "la charcuterie",
-                "it": "i salumi",
-                "pt": "os frios"
+                "en": "the sausages (fresh, cooked or cured)",
+                "fr": "la charcuterie en boyau",
+                "it": "gli insaccati",
+                "pt": "os embutidos"
             },
             "image_url": "data/img/embutidos.jpg"
         },
@@ -1293,7 +1293,7 @@
             "id": "food_118",
             "es": "los mariscos",
             "translations": {
-                "en": "the seafood",
+                "en": "the shellfish",
                 "fr": "les fruits de mer",
                 "it": "i frutti di mare",
                 "pt": "os frutos do mar"
@@ -1302,12 +1302,12 @@
         },
         {
             "id": "food_119",
-            "es": "el bacalao",
+            "es": "el bacalao fresco",
             "translations": {
-                "en": "the cod",
+                "en": "the fresh cod",
                 "fr": "le cabillaud",
-                "it": "il merluzzo",
-                "pt": "o bacalhau"
+                "it": "il merluzzo fresco",
+                "pt": "o bacalhau fresco"
             },
             "image_url": "data/img/bacalao.jpg"
         },
@@ -1384,7 +1384,7 @@
                 "en": "the clam",
                 "fr": "la palourde",
                 "it": "la vongola",
-                "pt": "o marisco"
+                "pt": "a amêijoa"
             },
             "image_url": "data/img/almeja.jpg"
         },
@@ -1403,8 +1403,8 @@
             "id": "food_128",
             "es": "la langosta",
             "translations": {
-                "en": "the lobster",
-                "fr": "le homard",
+                "en": "the spiny lobster",
+                "fr": "la langouste",
                 "it": "l'aragosta",
                 "pt": "a lagosta"
             },
@@ -1425,10 +1425,10 @@
             "id": "food_130",
             "es": "los brotes de soya",
             "translations": {
-                "en": "the bean sprouts",
+                "en": "the soybean sprouts",
                 "fr": "les pousses de soja",
                 "it": "i germogli di soia",
-                "pt": "os brotos de feijão"
+                "pt": "os brotos de soja"
             },
             "image_url": "data/img/brotes_soya.jpg"
         },
@@ -1790,7 +1790,7 @@
             "translations": {
                 "en": "the croissant",
                 "fr": "le croissant",
-                "it": "il cornetto",
+                "it": "il cornetto / il croissant",
                 "pt": "o croissant"
             },
             "image_url": "data/img/croissant.jpg"
@@ -1811,9 +1811,9 @@
             "es": "la dona",
             "translations": {
                 "en": "the donut",
-                "fr": "le beignet",
-                "it": "la ciambella",
-                "pt": "a rosquinha"
+                "fr": "le donut",
+                "it": "il donut",
+                "pt": "o donut"
             },
             "image_url": "data/img/dona.jpg"
         },
@@ -1933,7 +1933,7 @@
             "translations": {
                 "en": "the dessert",
                 "fr": "le dessert",
-                "it": "il dessert",
+                "it": "il dessert / il dolce",
                 "pt": "a sobremesa"
             },
             "image_url": "data/img/postre.jpg"
@@ -1998,8 +1998,8 @@
             "es": "los frutos secos",
             "translations": {
                 "en": "the nuts",
-                "fr": "les fruits secs",
-                "it": "la frutta secca",
+                "fr": "les fruits à coque",
+                "it": "la frutta secca a guscio",
                 "pt": "as nozes"
             },
             "image_url": "data/img/frutos_secos.jpg"
@@ -2141,8 +2141,8 @@
             "es": "la tuna",
             "translations": {
                 "en": "the prickly pear",
-                "fr": "la figue de barbarie",
-                "it": "il fico d'india",
+                "fr": "la figue de Barbarie",
+                "it": "il fico d'India",
                 "pt": "o figo-da-índia"
             },
             "image_url": "data/img/tuna.jpg"
@@ -2218,9 +2218,9 @@
             "es": "la col rizada",
             "translations": {
                 "en": "the kale",
-                "fr": "le chou frisé",
+                "fr": "le chou frisé / le chou kale",
                 "it": "il cavolo riccio",
-                "pt": "a couve"
+                "pt": "a couve kale / a couve-crespa"
             },
             "image_url": "data/img/col_rizada.jpg"
         },
@@ -2240,7 +2240,7 @@
             "es": "el chayote",
             "translations": {
                 "en": "the chayote",
-                "fr": "la christophine",
+                "fr": "la chayotte / la christophine / le chouchou",
                 "it": "il chayote",
                 "pt": "o chuchu"
             },
@@ -2264,7 +2264,7 @@
                 "en": "the cactus paddle",
                 "fr": "le nopal",
                 "it": "il nopal",
-                "pt": "o cacto"
+                "pt": "o nopal (raquete comestível de cacto)"
             },
             "image_url": "data/img/nopal.jpg"
         },
@@ -2396,7 +2396,7 @@
                 "en": "the pinto beans",
                 "fr": "les haricots pinto",
                 "it": "i fagioli pinto",
-                "pt": "os feijões cariocas"
+                "pt": "os feijões tipo pinto"
             },
             "image_url": "data/img/frijoles_pintos.jpg"
         },
@@ -2517,7 +2517,7 @@
                 "en": "the chestnut",
                 "fr": "la châtaigne",
                 "it": "la castagna",
-                "pt": "a castanha"
+                "pt": "a castanha-portuguesa"
             },
             "image_url": "data/img/castana.jpg"
         },
@@ -2528,7 +2528,7 @@
                 "en": "the pine nut",
                 "fr": "le pignon de pin",
                 "it": "il pinolo",
-                "pt": "o pinhole"
+                "pt": "o pinoli"
             },
             "image_url": "data/img/pinon.jpg"
         },
@@ -2737,7 +2737,7 @@
                 "en": "the whipped cream",
                 "fr": "la crème fouettée",
                 "it": "la panna montata",
-                "pt": "o chantilly"
+                "pt": "o creme de leite batido"
             },
             "image_url": "data/img/crema_batida.jpg"
         },
@@ -2745,7 +2745,7 @@
             "id": "food_250",
             "es": "el yogur griego",
             "translations": {
-                "en": "the greek yogurt",
+                "en": "the Greek yogurt",
                 "fr": "le yaourt grec",
                 "it": "lo yogurt greco",
                 "pt": "o iogurte grego"
@@ -2846,8 +2846,8 @@
             "translations": {
                 "en": "the blue cheese",
                 "fr": "le fromage bleu",
-                "it": "il formaggio blu",
-                "pt": "o queijo gorgonzola"
+                "it": "il formaggio erborinato / il formaggio blu",
+                "pt": "o queijo azul"
             },
             "image_url": "data/img/queso_azul.jpg"
         },
@@ -2864,12 +2864,12 @@
         },
         {
             "id": "food_261",
-            "es": "el queso manchego",
+            "es": "el queso manchego (español, de oveja)",
             "translations": {
-                "en": "the manchego cheese",
-                "fr": "le fromage manchego",
-                "it": "il formaggio manchego",
-                "pt": "o queijo manchego"
+                "en": "the Spanish Manchego cheese (sheep's milk)",
+                "fr": "le manchego espagnol (au lait de brebis)",
+                "it": "il manchego spagnolo (di latte di pecora)",
+                "pt": "o queijo manchego espanhol (de leite de ovelha)"
             },
             "image_url": "data/img/queso_manchego.jpg"
         },
@@ -2941,12 +2941,12 @@
         },
         {
             "id": "food_268",
-            "es": "la harina de maíz",
+            "es": "la harina de maíz (fina)",
             "translations": {
-                "en": "the cornmeal",
-                "fr": "la farine de maïs",
-                "it": "la farina di mais",
-                "pt": "a farinha de milho"
+                "en": "the corn flour",
+                "fr": "la farine de maïs fine",
+                "it": "la farina di mais fine",
+                "pt": "a farinha de milho fina"
             },
             "image_url": "data/img/harina_maiz.jpg"
         },
@@ -2988,9 +2988,9 @@
             "es": "la levadura",
             "translations": {
                 "en": "the yeast",
-                "fr": "la levure",
-                "it": "il lievito",
-                "pt": "o fermento"
+                "fr": "la levure boulangère",
+                "it": "il lievito di birra",
+                "pt": "o fermento biológico"
             },
             "image_url": "data/img/levadura.jpg"
         },
@@ -3000,8 +3000,8 @@
             "translations": {
                 "en": "the baking powder",
                 "fr": "la levure chimique",
-                "it": "il lievito in polvere",
-                "pt": "o fermento em pó"
+                "it": "il lievito chimico in polvere",
+                "pt": "o fermento químico em pó"
             },
             "image_url": "data/img/polvo_hornear.jpg"
         },
@@ -3053,9 +3053,9 @@
             "id": "food_278",
             "es": "la esencia de vainilla",
             "translations": {
-                "en": "the vanilla extract",
-                "fr": "l'extrait de vanille",
-                "it": "l'estratto di vaniglia",
+                "en": "the vanilla flavoring",
+                "fr": "l'arôme de vanille",
+                "it": "l'aroma di vaniglia",
                 "pt": "a essência de baunilha"
             },
             "image_url": "data/img/esencia_vainilla.jpg"
@@ -3183,7 +3183,7 @@
         },
         {
             "id": "food_290",
-            "es": "el mazapán",
+            "es": "el mazapán de almendra",
             "translations": {
                 "en": "the marzipan",
                 "fr": "la pâte d'amande",
@@ -3251,7 +3251,7 @@
             "id": "food_296",
             "es": "la crema de verduras",
             "translations": {
-                "en": "the vegetable soup",
+                "en": "the creamy vegetable soup",
                 "fr": "le velouté de légumes",
                 "it": "la crema di verdure",
                 "pt": "o creme de legumes"
@@ -3276,18 +3276,18 @@
                 "en": "the omelet",
                 "fr": "l'omelette",
                 "it": "l'omelette",
-                "pt": "o omelete"
+                "pt": "a omelete / o omelete"
             },
             "image_url": "data/img/omelet.jpg"
         },
         {
             "id": "food_299",
-            "es": "el huevo cocido",
+            "es": "el huevo cocido (duro)",
             "translations": {
-                "en": "the boiled egg",
+                "en": "the hard-boiled egg",
                 "fr": "l'œuf dur",
                 "it": "l'uovo sodo",
-                "pt": "o ovo cozido"
+                "pt": "o ovo cozido (gema dura)"
             },
             "image_url": "data/img/huevo_cocido.jpg"
         },
@@ -3341,7 +3341,7 @@
             "translations": {
                 "en": "the coffee with milk",
                 "fr": "le café au lait",
-                "it": "il caffè e latte",
+                "it": "il caffè e latte / il caffellatte",
                 "pt": "o café com leite"
             },
             "image_url": "data/img/cafe_leche.jpg"
@@ -3416,12 +3416,408 @@
             "id": "food_311",
             "es": "la sidra",
             "translations": {
-                "en": "the cider",
+                "en": "the hard cider",
                 "fr": "le cidre",
                 "it": "il sidro",
-                "pt": "a cidra"
+                "pt": "a sidra"
             },
             "image_url": "data/img/sidra.jpg"
+        },
+        {
+            "id": "food_312",
+            "es": "la avena cocida / las gachas de avena",
+            "translations": {
+                "en": "the oatmeal (cooked)",
+                "fr": "le porridge d'avoine",
+                "it": "il porridge d'avena",
+                "pt": "o mingau de aveia"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_313",
+            "es": "el agua mineral",
+            "translations": {
+                "en": "the mineral water",
+                "fr": "l'eau minérale",
+                "it": "l'acqua minerale",
+                "pt": "a água mineral"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_314",
+            "es": "la limonada con gas",
+            "translations": {
+                "en": "the sparkling lemonade",
+                "fr": "la limonade",
+                "it": "la limonata gassata",
+                "pt": "a limonada com gás"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_315",
+            "es": "la salchicha fresca (para asar)",
+            "translations": {
+                "en": "the fresh sausage",
+                "fr": "la saucisse fraîche",
+                "it": "la salsiccia fresca",
+                "pt": "a linguiça fresca"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_316",
+            "es": "el solomillo de cerdo",
+            "translations": {
+                "en": "the pork tenderloin",
+                "fr": "le filet mignon de porc",
+                "it": "il filetto di maiale",
+                "pt": "o filé-mignon suíno"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_317",
+            "es": "el ribeye sin hueso / el entrecot de res",
+            "translations": {
+                "en": "the boneless ribeye steak",
+                "fr": "l'entrecôte de bœuf",
+                "it": "la costata di manzo disossata",
+                "pt": "o bife ancho / o filé de costela sem osso"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_318",
+            "es": "la pierna de pollo (parte inferior)",
+            "translations": {
+                "en": "the chicken drumstick",
+                "fr": "le pilon de poulet",
+                "it": "il fuso di pollo",
+                "pt": "a coxa de frango"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_319",
+            "es": "la carne al horno",
+            "translations": {
+                "en": "the roast meat",
+                "fr": "la viande rôtie",
+                "it": "la carne arrosto",
+                "pt": "a carne assada no forno"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_320",
+            "es": "la carne seca (tipo jerky)",
+            "translations": {
+                "en": "the jerky",
+                "fr": "la viande séchée (type jerky)",
+                "it": "la carne essiccata (tipo jerky)",
+                "pt": "a carne desidratada (tipo jerky)"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_321",
+            "es": "los fiambres / las carnes frías",
+            "translations": {
+                "en": "the cold cuts",
+                "fr": "la charcuterie en tranches",
+                "it": "gli affettati",
+                "pt": "os frios"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_322",
+            "es": "los pescados y mariscos",
+            "translations": {
+                "en": "the seafood",
+                "fr": "le poisson et les fruits de mer",
+                "it": "il pesce e i frutti di mare",
+                "pt": "os peixes e frutos do mar"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_323",
+            "es": "el bacalao salado",
+            "translations": {
+                "en": "the salt cod",
+                "fr": "la morue salée",
+                "it": "il baccalà",
+                "pt": "o bacalhau salgado"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_324",
+            "es": "el bogavante",
+            "translations": {
+                "en": "the clawed lobster",
+                "fr": "le homard",
+                "it": "l'astice",
+                "pt": "o lavagante (lagosta com pinças)"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_325",
+            "es": "el queso gorgonzola",
+            "translations": {
+                "en": "the Gorgonzola cheese",
+                "fr": "le gorgonzola",
+                "it": "il gorgonzola",
+                "pt": "o queijo gorgonzola"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_326",
+            "es": "la harina de maíz de molienda gruesa / la sémola de maíz",
+            "translations": {
+                "en": "the cornmeal",
+                "fr": "la semoule de maïs",
+                "it": "la farina di mais a grana grossa",
+                "pt": "a farinha de milho de moagem grossa"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_327",
+            "es": "los frijoles carioca (variedad brasileña)",
+            "translations": {
+                "en": "the carioca beans",
+                "fr": "les haricots carioca",
+                "it": "i fagioli carioca",
+                "pt": "os feijões cariocas"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_328",
+            "es": "la crema chantilly / la crema batida endulzada",
+            "translations": {
+                "en": "the sweetened whipped cream / the Chantilly cream",
+                "fr": "la crème chantilly",
+                "it": "la panna montata zuccherata",
+                "pt": "o chantilly"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_329",
+            "es": "el queso tipo manchego (mexicano)",
+            "translations": {
+                "en": "the Mexican Manchego-style cheese",
+                "fr": "le fromage mexicain de type manchego",
+                "it": "il formaggio messicano tipo manchego",
+                "pt": "o queijo mexicano tipo manchego"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_330",
+            "es": "el extracto de vainilla",
+            "translations": {
+                "en": "the vanilla extract",
+                "fr": "l'extrait de vanille",
+                "it": "l'estratto di vaniglia",
+                "pt": "o extrato de baunilha"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_331",
+            "es": "el mazapán de cacahuate (mexicano)",
+            "translations": {
+                "en": "the Mexican peanut confection (mazapán)",
+                "fr": "le mazapán mexicain aux cacahuètes",
+                "it": "il mazapán messicano alle arachidi",
+                "pt": "o mazapán mexicano de amendoim"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_332",
+            "es": "los fideos asiáticos",
+            "translations": {
+                "en": "the Asian noodles",
+                "fr": "les nouilles asiatiques",
+                "it": "i noodles",
+                "pt": "o macarrão asiático"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_333",
+            "es": "la canela",
+            "translations": {
+                "en": "the cinnamon",
+                "fr": "la cannelle",
+                "it": "la cannella",
+                "pt": "a canela"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_334",
+            "es": "el orégano",
+            "translations": {
+                "en": "the oregano",
+                "fr": "l'origan",
+                "it": "l'origano",
+                "pt": "o orégano"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_335",
+            "es": "el tomillo",
+            "translations": {
+                "en": "the thyme",
+                "fr": "le thym",
+                "it": "il timo",
+                "pt": "o tomilho"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_336",
+            "es": "los ejotes",
+            "translations": {
+                "en": "the green beans",
+                "fr": "les haricots verts",
+                "it": "i fagiolini",
+                "pt": "as vagens"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_337",
+            "es": "las aceitunas",
+            "translations": {
+                "en": "the olives",
+                "fr": "les olives",
+                "it": "le olive",
+                "pt": "as azeitonas"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_338",
+            "es": "el aceite vegetal",
+            "translations": {
+                "en": "the vegetable oil",
+                "fr": "l'huile végétale",
+                "it": "l'olio vegetale",
+                "pt": "o óleo vegetal"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_339",
+            "es": "la salsa de tomate",
+            "translations": {
+                "en": "the tomato sauce",
+                "fr": "la sauce tomate",
+                "it": "la salsa di pomodoro",
+                "pt": "o molho de tomate"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_340",
+            "es": "la pechuga de pollo",
+            "translations": {
+                "en": "the chicken breast",
+                "fr": "le blanc de poulet / la poitrine de poulet",
+                "it": "il petto di pollo",
+                "pt": "o peito de frango"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_341",
+            "es": "los mejillones",
+            "translations": {
+                "en": "the mussels",
+                "fr": "les moules",
+                "it": "le cozze",
+                "pt": "os mexilhões"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_342",
+            "es": "las pasas",
+            "translations": {
+                "en": "the raisins",
+                "fr": "les raisins secs",
+                "it": "l'uvetta",
+                "pt": "as uvas-passas"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_343",
+            "es": "las crepas",
+            "translations": {
+                "en": "the crepes",
+                "fr": "les crêpes",
+                "it": "le crêpes / le crespelle",
+                "pt": "os crepes"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_344",
+            "es": "la tortilla de maíz",
+            "translations": {
+                "en": "the corn tortilla",
+                "fr": "la tortilla de maïs",
+                "it": "la tortilla di mais",
+                "pt": "a tortilha de milho"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_345",
+            "es": "la tortilla de harina de trigo",
+            "translations": {
+                "en": "the flour tortilla",
+                "fr": "la tortilla de blé",
+                "it": "la tortilla di farina di frumento",
+                "pt": "a tortilha de trigo"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_346",
+            "es": "el queso cheddar",
+            "translations": {
+                "en": "the cheddar cheese",
+                "fr": "le cheddar",
+                "it": "il cheddar",
+                "pt": "o queijo cheddar"
+            },
+            "image_url": ""
+        },
+        {
+            "id": "food_347",
+            "es": "el agua de coco",
+            "translations": {
+                "en": "the coconut water",
+                "fr": "l'eau de coco",
+                "it": "l'acqua di cocco",
+                "pt": "a água de coco"
+            },
+            "image_url": ""
         }
     ]
 }

@@ -1,0 +1,3559 @@
+{
+  "module": "Cafeterías y comida rápida",
+  "level": "A2",
+  "cards": [
+    {
+      "id": "cfr1",
+      "es": "Cafetería (establecimiento)",
+      "translations": {
+        "en": "Coffee shop / Café",
+        "pt": "Cafeteria",
+        "fr": "Café",
+        "it": "Caffetteria / Bar"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr2",
+      "es": "Comida rápida",
+      "translations": {
+        "en": "Fast food",
+        "pt": "Fast-food / Comida rápida",
+        "fr": "Restauration rapide",
+        "it": "Fast food"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr3",
+      "es": "Barista",
+      "translations": {
+        "en": "Barista",
+        "pt": "Barista",
+        "fr": "Barista",
+        "it": "Barista"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr4",
+      "es": "Mostrador para ordenar",
+      "translations": {
+        "en": "Order counter",
+        "pt": "Balcão de pedidos",
+        "fr": "Comptoir de commande",
+        "it": "Banco per ordinare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr5",
+      "es": "Mostrador de recogida",
+      "translations": {
+        "en": "Pickup counter",
+        "pt": "Balcão de retirada",
+        "fr": "Comptoir de retrait",
+        "it": "Banco per il ritiro"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr6",
+      "es": "Fila para ordenar",
+      "translations": {
+        "en": "Ordering line",
+        "pt": "Fila para fazer o pedido",
+        "fr": "File d'attente pour commander",
+        "it": "Fila per ordinare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr7",
+      "es": "Pantalla con el menú",
+      "translations": {
+        "en": "Menu board",
+        "pt": "Painel do cardápio",
+        "fr": "Panneau du menu",
+        "it": "Pannello del menù"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr8",
+      "es": "Terminal de autoservicio para ordenar",
+      "translations": {
+        "en": "Self-service ordering kiosk",
+        "pt": "Totem de autoatendimento",
+        "fr": "Borne de commande",
+        "it": "Chiosco per ordinare / Kiosk"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr9",
+      "es": "Número de pedido",
+      "translations": {
+        "en": "Order number",
+        "pt": "Número do pedido",
+        "fr": "Numéro de commande",
+        "it": "Numero dell'ordine"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr10",
+      "es": "Código de recogida",
+      "translations": {
+        "en": "Pickup code",
+        "pt": "Código de retirada",
+        "fr": "Code de retrait",
+        "it": "Codice di ritiro"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr11",
+      "es": "Avisador que vibra cuando el pedido está listo",
+      "translations": {
+        "en": "Order pager / Buzzer",
+        "pt": "Pager / Aparelho que vibra quando o pedido fica pronto",
+        "fr": "Bipeur / Boîtier qui vibre quand la commande est prête",
+        "it": "Cercapersone / Dispositivo che vibra quando l'ordine è pronto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr12",
+      "es": "Pedido por la aplicación",
+      "translations": {
+        "en": "Mobile order / App order",
+        "pt": "Pedido pelo aplicativo",
+        "fr": "Commande via l'application",
+        "it": "Ordine tramite l'app"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr13",
+      "es": "Pedido anticipado para recoger",
+      "translations": {
+        "en": "Order ahead for pickup",
+        "pt": "Pedido antecipado para retirada",
+        "fr": "Commande à l'avance à retirer",
+        "it": "Ordine anticipato da ritirare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr14",
+      "es": "Servicio desde el automóvil (drive-thru)",
+      "translations": {
+        "en": "Drive-thru / Drive-through",
+        "pt": "Drive-thru",
+        "fr": "Service au volant / Drive",
+        "it": "Drive-through / Servizio in auto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr15",
+      "es": "Ventanilla de pago",
+      "translations": {
+        "en": "Payment window",
+        "pt": "Guichê de pagamento",
+        "fr": "Guichet de paiement",
+        "it": "Sportello per il pagamento"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr16",
+      "es": "Ventanilla de recogida",
+      "translations": {
+        "en": "Pickup window",
+        "pt": "Guichê de retirada",
+        "fr": "Guichet de retrait",
+        "it": "Sportello per il ritiro"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr17",
+      "es": "Recogida en el estacionamiento",
+      "translations": {
+        "en": "Curbside pickup",
+        "pt": "Retirada no estacionamento",
+        "fr": "Retrait sur le parking",
+        "it": "Ritiro nel parcheggio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr18",
+      "es": "Número de espacio de estacionamiento",
+      "translations": {
+        "en": "Parking spot number",
+        "pt": "Número da vaga",
+        "fr": "Numéro de place de parking",
+        "it": "Numero del posto auto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr19",
+      "es": "Máquina dispensadora de refrescos",
+      "translations": {
+        "en": "Soda fountain",
+        "pt": "Máquina de refrigerante",
+        "fr": "Fontaine à boissons",
+        "it": "Distributore di bibite"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr20",
+      "es": "Recarga de bebida / Refill",
+      "translations": {
+        "en": "Drink refill / Refill",
+        "pt": "Refil de bebida / Refil",
+        "fr": "Recharge de boisson",
+        "it": "Ricarica della bevanda"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr21",
+      "es": "Cupones de descuento",
+      "translations": {
+        "en": "Discount coupons",
+        "pt": "Cupons de desconto",
+        "fr": "Coupons de réduction",
+        "it": "Buoni sconto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr22",
+      "es": "Puntos de fidelidad",
+      "translations": {
+        "en": "Loyalty points / Rewards points",
+        "pt": "Pontos de fidelidade",
+        "fr": "Points de fidélité",
+        "it": "Punti fedeltà"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr23",
+      "es": "Recompensa del programa de fidelidad",
+      "translations": {
+        "en": "Loyalty reward",
+        "pt": "Recompensa do programa de fidelidade",
+        "fr": "Récompense du programme de fidélité",
+        "it": "Premio del programma fedeltà"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr24",
+      "es": "Agotado (producto)",
+      "translations": {
+        "en": "Sold out / Out of stock",
+        "pt": "Esgotado / Em falta",
+        "fr": "Épuisé / En rupture de stock",
+        "it": "Esaurito"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr25",
+      "es": "Producto disponible por tiempo limitado",
+      "translations": {
+        "en": "Limited-time item",
+        "pt": "Produto por tempo limitado",
+        "fr": "Produit proposé pour une durée limitée",
+        "it": "Prodotto disponibile per un periodo limitato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr26",
+      "es": "Vaso desechable para café",
+      "translations": {
+        "en": "Disposable coffee cup",
+        "pt": "Copo descartável para café",
+        "fr": "Gobelet à café jetable",
+        "it": "Bicchiere monouso per il caffè"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr27",
+      "es": "Tapa con abertura para beber",
+      "translations": {
+        "en": "Sip-through lid",
+        "pt": "Tampa com abertura para beber",
+        "fr": "Couvercle avec ouverture pour boire",
+        "it": "Coperchio con apertura per bere"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr28",
+      "es": "Funda de cartón para un vaso caliente",
+      "translations": {
+        "en": "Cup sleeve",
+        "pt": "Protetor de papelão para copo quente",
+        "fr": "Manchon en carton pour gobelet chaud",
+        "it": "Fascia di cartone per bicchiere caldo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr29",
+      "es": "Tapón para la abertura de la tapa",
+      "translations": {
+        "en": "Lid stopper",
+        "pt": "Tampão para a abertura da tampa",
+        "fr": "Bouchon pour l'ouverture du couvercle",
+        "it": "Tappino per l'apertura del coperchio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr30",
+      "es": "Portavasos para transportar varias bebidas",
+      "translations": {
+        "en": "Drink carrier / Cup carrier",
+        "pt": "Suporte para transportar copos",
+        "fr": "Porte-gobelets de transport",
+        "it": "Portabicchieri da asporto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr31",
+      "es": "Popote / Pajilla",
+      "translations": {
+        "en": "Straw",
+        "pt": "Canudo",
+        "fr": "Paille",
+        "it": "Cannuccia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr32",
+      "es": "Agitador para café",
+      "translations": {
+        "en": "Coffee stirrer",
+        "pt": "Mexedor de café",
+        "fr": "Touillette à café",
+        "it": "Palettina per il caffè"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr33",
+      "es": "Vaso reutilizable",
+      "translations": {
+        "en": "Reusable cup",
+        "pt": "Copo reutilizável",
+        "fr": "Gobelet réutilisable",
+        "it": "Bicchiere riutilizzabile"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr34",
+      "es": "Termo para café",
+      "translations": {
+        "en": "Insulated coffee tumbler",
+        "pt": "Copo térmico para café",
+        "fr": "Mug isotherme",
+        "it": "Bicchiere termico per il caffè"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr35",
+      "es": "Bolsita de té",
+      "translations": {
+        "en": "Tea bag",
+        "pt": "Sachê de chá",
+        "fr": "Sachet de thé",
+        "it": "Bustina di tè"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr36",
+      "es": "Sobre de salsa",
+      "translations": {
+        "en": "Sauce packet",
+        "pt": "Sachê de molho",
+        "fr": "Sachet de sauce",
+        "it": "Bustina di salsa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr37",
+      "es": "Recipiente para salsa para mojar",
+      "translations": {
+        "en": "Dipping sauce cup",
+        "pt": "Potinho de molho",
+        "fr": "Petit pot de sauce",
+        "it": "Vaschetta di salsa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr38",
+      "es": "Cubiertos desechables",
+      "translations": {
+        "en": "Disposable utensils / Disposable cutlery",
+        "pt": "Talheres descartáveis",
+        "fr": "Couverts jetables",
+        "it": "Posate monouso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr39",
+      "es": "Bolsa sellada para llevar",
+      "translations": {
+        "en": "Sealed takeout bag",
+        "pt": "Sacola lacrada para viagem",
+        "fr": "Sac à emporter scellé",
+        "it": "Sacchetto da asporto sigillato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr40",
+      "es": "Café filtrado / Café de filtro",
+      "translations": {
+        "en": "Drip coffee / Filter coffee",
+        "pt": "Café coado / Café filtrado",
+        "fr": "Café filtre",
+        "it": "Caffè filtro"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr41",
+      "es": "Café de prensa francesa",
+      "translations": {
+        "en": "French press coffee",
+        "pt": "Café de prensa francesa",
+        "fr": "Café à la cafetière à piston",
+        "it": "Caffè con la caffettiera a stantuffo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr42",
+      "es": "Café filtrado preparado a mano",
+      "translations": {
+        "en": "Pour-over coffee",
+        "pt": "Café coado manualmente",
+        "fr": "Café filtre préparé à la main",
+        "it": "Caffè filtro preparato a mano"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr43",
+      "es": "Espresso / Café expreso",
+      "translations": {
+        "en": "Espresso",
+        "pt": "Espresso / Expresso",
+        "fr": "Expresso / Espresso",
+        "it": "Espresso / Caffè"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr44",
+      "es": "Espresso doble",
+      "translations": {
+        "en": "Double espresso / Doppio",
+        "pt": "Espresso duplo",
+        "fr": "Double expresso",
+        "it": "Espresso doppio / Caffè doppio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr45",
+      "es": "Ristretto (espresso de extracción corta)",
+      "translations": {
+        "en": "Ristretto",
+        "pt": "Ristretto",
+        "fr": "Ristretto / Café ristretto",
+        "it": "Ristretto / Caffè ristretto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr46",
+      "es": "Lungo (espresso de extracción larga)",
+      "translations": {
+        "en": "Lungo",
+        "pt": "Lungo / Espresso lungo",
+        "fr": "Lungo / Expresso à extraction longue",
+        "it": "Lungo / Caffè lungo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr47",
+      "es": "Café americano (espresso con agua añadida)",
+      "translations": {
+        "en": "Americano / Caffè Americano",
+        "pt": "Café americano",
+        "fr": "Café americano",
+        "it": "Caffè americano"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr48",
+      "es": "Latte (espresso con abundante leche vaporizada)",
+      "translations": {
+        "en": "Latte / Caffè latte",
+        "pt": "Latte / Caffè latte",
+        "fr": "Latte / Caffè latte",
+        "it": "Caffellatte / Caffè latte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr49",
+      "es": "Capuchino",
+      "translations": {
+        "en": "Cappuccino",
+        "pt": "Cappuccino / Capuccino",
+        "fr": "Cappuccino",
+        "it": "Cappuccino"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr50",
+      "es": "Espresso macchiato (espresso con un toque de leche)",
+      "translations": {
+        "en": "Espresso macchiato",
+        "pt": "Espresso macchiato",
+        "fr": "Espresso macchiato",
+        "it": "Caffè macchiato / Espresso macchiato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr51",
+      "es": "Latte macchiato (leche con espresso añadido)",
+      "translations": {
+        "en": "Latte macchiato",
+        "pt": "Latte macchiato",
+        "fr": "Latte macchiato",
+        "it": "Latte macchiato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr52",
+      "es": "Flat white (espresso con leche y microespuma)",
+      "translations": {
+        "en": "Flat white",
+        "pt": "Flat white",
+        "fr": "Flat white",
+        "it": "Flat white"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr53",
+      "es": "Cortado (espresso con una porción pequeña de leche)",
+      "translations": {
+        "en": "Cortado",
+        "pt": "Cortado",
+        "fr": "Cortado",
+        "it": "Cortado"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr54",
+      "es": "Café noisette (Francia: espresso con un poco de leche)",
+      "translations": {
+        "en": "Café noisette / Espresso with a splash of milk",
+        "pt": "Café noisette / Espresso com um pouco de leite",
+        "fr": "Café noisette / Noisette",
+        "it": "Café noisette / Espresso con un goccio di latte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr55",
+      "es": "Pingado (Brasil: café con leche; proporción variable)",
+      "translations": {
+        "en": "Pingado / Brazilian coffee with milk",
+        "pt": "Pingado",
+        "fr": "Pingado / Café brésilien avec du lait",
+        "it": "Pingado / Caffè brasiliano con latte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr56",
+      "es": "Moca (espresso, leche y chocolate)",
+      "translations": {
+        "en": "Mocha / Caffè mocha",
+        "pt": "Mocha / Caffè mocha",
+        "fr": "Mocha / Café au lait et au chocolat",
+        "it": "Caffè mocha / Caffè con latte e cioccolato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr57",
+      "es": "Moca de chocolate blanco",
+      "translations": {
+        "en": "White chocolate mocha / White mocha",
+        "pt": "Mocha de chocolate branco",
+        "fr": "Mocha au chocolat blanc / Mocha blanc",
+        "it": "Mocha al cioccolato bianco"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr58",
+      "es": "Espresso con crema batida",
+      "translations": {
+        "en": "Espresso con panna",
+        "pt": "Espresso com chantilly",
+        "fr": "Expresso avec de la crème fouettée",
+        "it": "Espresso con panna / Caffè con panna montata"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr59",
+      "es": "Cold brew (café infusionado en frío)",
+      "translations": {
+        "en": "Cold brew / Cold-brew coffee",
+        "pt": "Cold brew / Café extraído a frio",
+        "fr": "Cold brew / Café infusé à froid",
+        "it": "Cold brew / Caffè estratto a freddo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr60",
+      "es": "Café nitro (cold brew con nitrógeno)",
+      "translations": {
+        "en": "Nitro cold brew",
+        "pt": "Nitro cold brew / Café com nitrogênio",
+        "fr": "Nitro cold brew / Café à l'azote",
+        "it": "Nitro cold brew / Caffè all'azoto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr61",
+      "es": "Café licuado con hielo (tipo frappé)",
+      "translations": {
+        "en": "Blended iced coffee",
+        "pt": "Café batido no liquidificador com gelo",
+        "fr": "Café glacé mixé avec des glaçons",
+        "it": "Caffè frullato con ghiaccio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr62",
+      "es": "Frappuccino (nombre comercial de Starbucks)",
+      "translations": {
+        "en": "Frappuccino",
+        "pt": "Frappuccino",
+        "fr": "Frappuccino",
+        "it": "Frappuccino"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr63",
+      "es": "Café agitado con hielo (shaken espresso)",
+      "translations": {
+        "en": "Iced shaken espresso",
+        "pt": "Espresso batido com gelo na coqueteleira / Shaken espresso",
+        "fr": "Shaken espresso / Expresso secoué avec des glaçons",
+        "it": "Caffè shakerato / Espresso shakerato con ghiaccio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr64",
+      "es": "Chai latte (té especiado con leche)",
+      "translations": {
+        "en": "Chai latte / Chai tea latte",
+        "pt": "Chai latte / Chá chai com leite",
+        "fr": "Chai latte / Thé chai au lait",
+        "it": "Chai latte / Tè chai con latte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr65",
+      "es": "Matcha latte (té matcha con leche)",
+      "translations": {
+        "en": "Matcha latte",
+        "pt": "Matcha latte / Chá matcha com leite",
+        "fr": "Matcha latte / Thé matcha au lait",
+        "it": "Matcha latte / Tè matcha con latte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr66",
+      "es": "Infusión de hierbas (sin té)",
+      "translations": {
+        "en": "Herbal tea / Herbal infusion",
+        "pt": "Chá de ervas / Infusão de ervas",
+        "fr": "Tisane / Infusion de plantes",
+        "it": "Tisana / Infuso di erbe"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr67",
+      "es": "Dosis de espresso / Shot de espresso",
+      "translations": {
+        "en": "Espresso shot / Shot of espresso",
+        "pt": "Dose de espresso",
+        "fr": "Dose d'expresso / Shot d'espresso",
+        "it": "Dose di espresso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr68",
+      "es": "Dosis adicional de espresso",
+      "translations": {
+        "en": "Extra shot of espresso",
+        "pt": "Dose extra de espresso",
+        "fr": "Dose supplémentaire d'expresso",
+        "it": "Dose extra di espresso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr69",
+      "es": "Mitad café regular y mitad descafeinado",
+      "translations": {
+        "en": "Half-caf / Half regular, half decaf",
+        "pt": "Metade café normal, metade descafeinado",
+        "fr": "Moitié café normal, moitié décaféiné",
+        "it": "Metà caffè normale, metà decaffeinato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr70",
+      "es": "Sin cafeína (bebida)",
+      "translations": {
+        "en": "Caffeine-free",
+        "pt": "Sem cafeína",
+        "fr": "Sans caféine",
+        "it": "Senza caffeina"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr71",
+      "es": "Leche vaporizada",
+      "translations": {
+        "en": "Steamed milk",
+        "pt": "Leite vaporizado",
+        "fr": "Lait chauffé à la vapeur",
+        "it": "Latte scaldato a vapore"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr72",
+      "es": "Espuma de leche",
+      "translations": {
+        "en": "Milk foam",
+        "pt": "Espuma de leite",
+        "fr": "Mousse de lait",
+        "it": "Schiuma di latte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr73",
+      "es": "Espuma fría para bebida",
+      "translations": {
+        "en": "Cold foam",
+        "pt": "Espuma fria",
+        "fr": "Mousse froide",
+        "it": "Schiuma fredda"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr74",
+      "es": "Un chorrito de leche",
+      "translations": {
+        "en": "A splash of milk",
+        "pt": "Um pouquinho de leite",
+        "fr": "Un nuage de lait / Un peu de lait",
+        "it": "Un goccio di latte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr75",
+      "es": "Crema y leche mezcladas (half-and-half, EE. UU.)",
+      "translations": {
+        "en": "Half-and-half",
+        "pt": "Mistura de leite e creme de leite (half-and-half)",
+        "fr": "Mélange de lait et de crème (half-and-half)",
+        "it": "Miscela di latte e panna (half-and-half)"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr76",
+      "es": "Jarabe saborizado para café",
+      "translations": {
+        "en": "Flavored coffee syrup",
+        "pt": "Xarope aromatizado para café",
+        "fr": "Sirop aromatisé pour le café",
+        "it": "Sciroppo aromatizzato per il caffè"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr77",
+      "es": "Una dosis de jarabe (una pulsación del dispensador)",
+      "translations": {
+        "en": "One pump of syrup",
+        "pt": "Uma dose de xarope",
+        "fr": "Une dose de sirop",
+        "it": "Una dose di sciroppo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr78",
+      "es": "Jarabe de vainilla",
+      "translations": {
+        "en": "Vanilla syrup",
+        "pt": "Xarope de baunilha",
+        "fr": "Sirop de vanille",
+        "it": "Sciroppo alla vaniglia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr79",
+      "es": "Jarabe de caramelo",
+      "translations": {
+        "en": "Caramel syrup",
+        "pt": "Xarope de caramelo",
+        "fr": "Sirop de caramel",
+        "it": "Sciroppo al caramello"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr80",
+      "es": "Jarabe de avellana",
+      "translations": {
+        "en": "Hazelnut syrup",
+        "pt": "Xarope de avelã",
+        "fr": "Sirop de noisette",
+        "it": "Sciroppo alla nocciola"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr81",
+      "es": "Jarabe sin azúcar",
+      "translations": {
+        "en": "Sugar-free syrup",
+        "pt": "Xarope sem açúcar",
+        "fr": "Sirop sans sucre",
+        "it": "Sciroppo senza zucchero"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr82",
+      "es": "Un chorrito de salsa de caramelo encima",
+      "translations": {
+        "en": "Caramel drizzle",
+        "pt": "Um fio de calda de caramelo",
+        "fr": "Un filet de sauce caramel",
+        "it": "Un filo di salsa al caramello"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr83",
+      "es": "Crema batida como cobertura",
+      "translations": {
+        "en": "Whipped cream topping / Whip",
+        "pt": "Cobertura de chantilly",
+        "fr": "Garniture de crème fouettée",
+        "it": "Panna montata come guarnizione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr84",
+      "es": "Polvo de canela para espolvorear",
+      "translations": {
+        "en": "Cinnamon powder for sprinkling",
+        "pt": "Canela em pó para polvilhar",
+        "fr": "Cannelle en poudre à saupoudrer",
+        "it": "Cannella in polvere da spolverare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr85",
+      "es": "Chico/a (tamaño)",
+      "translations": {
+        "en": "Small",
+        "pt": "Pequeno/Pequena",
+        "fr": "Petit/Petite",
+        "it": "Piccolo/Piccola"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr86",
+      "es": "Mediano/a (tamaño)",
+      "translations": {
+        "en": "Medium",
+        "pt": "Médio/Média",
+        "fr": "Moyen/Moyenne",
+        "it": "Medio/Media"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr87",
+      "es": "Grande (tamaño)",
+      "translations": {
+        "en": "Large",
+        "pt": "Grande",
+        "fr": "Grand/Grande",
+        "it": "Grande"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr88",
+      "es": "Nombres comerciales de tamaños: Short, Tall, Grande, Venti y Trenta",
+      "translations": {
+        "en": "Size names: Short, Tall, Grande, Venti, and Trenta",
+        "pt": "Nomes dos tamanhos: Short, Tall, Grande, Venti e Trenta",
+        "fr": "Noms des tailles : Short, Tall, Grande, Venti et Trenta",
+        "it": "Nomi dei formati: Short, Tall, Grande, Venti e Trenta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr89",
+      "es": "Combo / Paquete de comida",
+      "translations": {
+        "en": "Meal / Combo meal / Combo",
+        "pt": "Combo",
+        "fr": "Menu / Formule",
+        "it": "Menù / Combo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr90",
+      "es": "Producto solo (sin combo)",
+      "translations": {
+        "en": "On its own / Item only / À la carte",
+        "pt": "Produto avulso / Só o produto",
+        "fr": "Produit seul / À la carte",
+        "it": "Prodotto singolo / Solo il prodotto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr91",
+      "es": "Combo infantil",
+      "translations": {
+        "en": "Kids' meal",
+        "pt": "Combo infantil",
+        "fr": "Menu enfant",
+        "it": "Menù per bambini"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr92",
+      "es": "Combo de desayuno",
+      "translations": {
+        "en": "Breakfast meal / Breakfast combo",
+        "pt": "Combo de café da manhã",
+        "fr": "Formule petit-déjeuner",
+        "it": "Menù colazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr93",
+      "es": "Aumentar el tamaño del combo",
+      "translations": {
+        "en": "Upsize the meal",
+        "pt": "Aumentar o tamanho do combo",
+        "fr": "Passer à un menu plus grand",
+        "it": "Passare al menù più grande"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr94",
+      "es": "Papas fritas (porción de acompañamiento)",
+      "translations": {
+        "en": "Fries / French fries",
+        "pt": "Batatas fritas",
+        "fr": "Frites",
+        "it": "Patatine fritte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr95",
+      "es": "Refresco (bebida del combo)",
+      "translations": {
+        "en": "Soda / Soft drink",
+        "pt": "Refrigerante / Refri",
+        "fr": "Soda / Boisson gazeuse",
+        "it": "Bibita gassata"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr96",
+      "es": "Salsa para mojar (dip)",
+      "translations": {
+        "en": "Dipping sauce / Dip",
+        "pt": "Molho para acompanhar",
+        "fr": "Sauce d'accompagnement",
+        "it": "Salsa di accompagnamento"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr97",
+      "es": "Hamburguesa doble (dos carnes)",
+      "translations": {
+        "en": "Double burger / Double patty burger",
+        "pt": "Hambúrguer duplo",
+        "fr": "Double burger / Burger avec deux steaks",
+        "it": "Hamburger doppio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr98",
+      "es": "Hamburguesa de pollo empanizado",
+      "translations": {
+        "en": "Breaded chicken sandwich / Crispy chicken sandwich",
+        "pt": "Sanduíche de frango empanado",
+        "fr": "Burger au poulet pané",
+        "it": "Panino con pollo impanato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr99",
+      "es": "Hamburguesa de pollo a la parrilla",
+      "translations": {
+        "en": "Grilled chicken sandwich",
+        "pt": "Sanduíche de frango grelhado",
+        "fr": "Burger au poulet grillé",
+        "it": "Panino con pollo alla griglia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr100",
+      "es": "Nuggets de pollo",
+      "translations": {
+        "en": "Chicken nuggets",
+        "pt": "Nuggets de frango",
+        "fr": "Nuggets de poulet",
+        "it": "Nuggets di pollo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr101",
+      "es": "Tiras de pollo empanizadas",
+      "translations": {
+        "en": "Chicken tenders / Breaded chicken strips",
+        "pt": "Tiras de frango empanadas",
+        "fr": "Aiguillettes de poulet panées",
+        "it": "Straccetti di pollo impanati"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr102",
+      "es": "Tortilla enrollada con relleno (wrap)",
+      "translations": {
+        "en": "Wrap",
+        "pt": "Wrap",
+        "fr": "Wrap",
+        "it": "Wrap / Tortilla arrotolata e farcita"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr103",
+      "es": "Hamburguesa de origen vegetal",
+      "translations": {
+        "en": "Plant-based burger",
+        "pt": "Hambúrguer à base de vegetais",
+        "fr": "Burger végétal",
+        "it": "Burger vegetale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr104",
+      "es": "Bollo para hamburguesa",
+      "translations": {
+        "en": "Burger bun",
+        "pt": "Pão de hambúrguer",
+        "fr": "Pain à burger",
+        "it": "Panino per hamburger"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr105",
+      "es": "Hamburguesa sin pan (con hojas de lechuga)",
+      "translations": {
+        "en": "Lettuce-wrapped burger / Burger in a lettuce wrap",
+        "pt": "Hambúrguer envolto em folhas de alface",
+        "fr": "Burger enveloppé dans des feuilles de laitue",
+        "it": "Hamburger avvolto in foglie di lattuga"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr106",
+      "es": "Hash brown (tortita de papa rallada)",
+      "translations": {
+        "en": "Hash brown patty",
+        "pt": "Bolinho de batata ralada / Hash brown",
+        "fr": "Galette de pommes de terre râpées / Hash brown",
+        "it": "Frittella di patate grattugiate / Hash brown"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr107",
+      "es": "English muffin (panecillo redondo, no pastelito)",
+      "translations": {
+        "en": "English muffin",
+        "pt": "Muffin inglês",
+        "fr": "Muffin anglais",
+        "it": "Muffin inglese"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr108",
+      "es": "Muffin (pastelito de cafetería)",
+      "translations": {
+        "en": "Muffin",
+        "pt": "Muffin / Bolinho tipo muffin",
+        "fr": "Muffin",
+        "it": "Muffin"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr109",
+      "es": "Brownie",
+      "translations": {
+        "en": "Brownie",
+        "pt": "Brownie",
+        "fr": "Brownie",
+        "it": "Brownie"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr110",
+      "es": "Sándwich caliente tipo panini",
+      "translations": {
+        "en": "Panini sandwich / Toasted panini",
+        "pt": "Sanduíche tipo panini",
+        "fr": "Sandwich chaud de type panini",
+        "it": "Panino caldo alla piastra"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr111",
+      "es": "Pain au chocolat (bollo hojaldrado relleno de chocolate)",
+      "translations": {
+        "en": "Pain au chocolat / Chocolate croissant",
+        "pt": "Pain au chocolat / Folhado com chocolate",
+        "fr": "Pain au chocolat / Chocolatine",
+        "it": "Pain au chocolat / Saccottino al cioccolato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr112",
+      "es": "Pan de queso brasileño (pão de queijo)",
+      "translations": {
+        "en": "Pão de queijo / Brazilian cheese bread",
+        "pt": "Pão de queijo",
+        "fr": "Pão de queijo / Petit pain brésilien au fromage",
+        "it": "Pão de queijo / Panino brasiliano al formaggio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr113",
+      "es": "Helado servido desde máquina",
+      "translations": {
+        "en": "Soft serve / Soft-serve ice cream",
+        "pt": "Sorvete expresso",
+        "fr": "Glace à l'italienne",
+        "it": "Gelato soft / Gelato alla spina"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr114",
+      "es": "Helado con salsa y coberturas (sundae)",
+      "translations": {
+        "en": "Sundae",
+        "pt": "Sundae",
+        "fr": "Sundae / Coupe de glace avec sauce et garnitures",
+        "it": "Sundae / Coppa di gelato con salsa e guarnizioni"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr115",
+      "es": "¿Aquí se hace el pedido o se recoge la comida?",
+      "translations": {
+        "en": "Is this where I order or pick up my food?",
+        "pt": "Aqui é para fazer o pedido ou retirar a comida?",
+        "fr": "C'est ici qu'on commande ou qu'on retire sa commande ?",
+        "it": "Qui si ordina o si ritira il cibo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr116",
+      "es": "¿Esta es la fila para ordenar?",
+      "translations": {
+        "en": "Is this the line to order?",
+        "pt": "Esta é a fila para fazer o pedido?",
+        "fr": "C'est la file pour commander ?",
+        "it": "Questa è la fila per ordinare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr117",
+      "es": "¿Se ordena en la caja o en la pantalla?",
+      "translations": {
+        "en": "Do I order at the register or at the kiosk?",
+        "pt": "Faço o pedido no caixa ou no totem?",
+        "fr": "Est-ce qu'on commande en caisse ou à la borne ?",
+        "it": "Si ordina alla cassa o al chiosco?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr118",
+      "es": "¿Tengo que pagar antes de recoger el café?",
+      "translations": {
+        "en": "Do I need to pay before picking up my coffee?",
+        "pt": "Preciso pagar antes de retirar o café?",
+        "fr": "Faut-il payer avant de retirer mon café ?",
+        "it": "Devo pagare prima di ritirare il caffè?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr119",
+      "es": "¿Hay servicio a la mesa o es autoservicio?",
+      "translations": {
+        "en": "Is there table service, or is it self-service?",
+        "pt": "Tem serviço de mesa ou é autoatendimento?",
+        "fr": "Y a-t-il un service à table ou est-ce en libre-service ?",
+        "it": "C'è servizio al tavolo o è self-service?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr120",
+      "es": "Todavía estoy eligiendo. Un momento, por favor.",
+      "translations": {
+        "en": "I'm still deciding. Just a moment, please.",
+        "pt": "Ainda estou escolhendo. Um momento, por favor.",
+        "fr": "Je suis encore en train de choisir. Un instant, s'il vous plaît.",
+        "it": "Sto ancora scegliendo. Un momento, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr121",
+      "es": "¿Qué bebidas pueden preparar sin café?",
+      "translations": {
+        "en": "What drinks can you make without coffee?",
+        "pt": "Quais bebidas vocês podem preparar sem café?",
+        "fr": "Quelles boissons pouvez-vous préparer sans café ?",
+        "it": "Quali bevande potete preparare senza caffè?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr122",
+      "es": "¿Qué bebida recomienda si quiero poco dulce?",
+      "translations": {
+        "en": "What drink would you recommend if I don't want it too sweet?",
+        "pt": "Que bebida você recomenda se eu não quiser algo muito doce?",
+        "fr": "Quelle boisson me conseillez-vous si je ne veux pas quelque chose de trop sucré ?",
+        "it": "Quale bevanda mi consiglia se non voglio qualcosa di troppo dolce?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr123",
+      "es": "¿Cuál es la diferencia entre un latte y un capuchino?",
+      "translations": {
+        "en": "What's the difference between a latte and a cappuccino?",
+        "pt": "Qual é a diferença entre um latte e um cappuccino?",
+        "fr": "Quelle est la différence entre un latte et un cappuccino ?",
+        "it": "Qual è la differenza tra un caffellatte e un cappuccino?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr124",
+      "es": "¿Este macchiato es espresso con un poco de leche o leche con café?",
+      "translations": {
+        "en": "Is this macchiato espresso with a little milk, or milk with coffee?",
+        "pt": "Este macchiato é espresso com um pouco de leite ou leite com café?",
+        "fr": "Ce macchiato est-il un expresso avec un peu de lait ou du lait avec du café ?",
+        "it": "Questo macchiato è un espresso con un po' di latte o latte con caffè?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr125",
+      "es": "¿El cold brew se infusiona en frío o es café caliente enfriado?",
+      "translations": {
+        "en": "Is the cold brew steeped in cold water, or is it hot-brewed coffee that's been chilled?",
+        "pt": "O cold brew é extraído a frio ou é café preparado quente e depois resfriado?",
+        "fr": "Le cold brew est-il infusé à froid ou est-ce un café préparé chaud puis refroidi ?",
+        "it": "Il cold brew è estratto a freddo o è caffè preparato caldo e poi raffreddato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr126",
+      "es": "¿Esta bebida lleva café o solo té?",
+      "translations": {
+        "en": "Does this drink contain coffee or just tea?",
+        "pt": "Esta bebida leva café ou só chá?",
+        "fr": "Cette boisson contient-elle du café ou seulement du thé ?",
+        "it": "Questa bevanda contiene caffè o solo tè?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr127",
+      "es": "¿Todavía están sirviendo desayunos?",
+      "translations": {
+        "en": "Are you still serving breakfast?",
+        "pt": "Vocês ainda estão servindo café da manhã?",
+        "fr": "Servez-vous encore le petit-déjeuner ?",
+        "it": "Servite ancora la colazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr128",
+      "es": "¿Hasta qué hora sirven desayunos?",
+      "translations": {
+        "en": "What time do you stop serving breakfast?",
+        "pt": "Até que horas vocês servem café da manhã?",
+        "fr": "Jusqu'à quelle heure servez-vous le petit-déjeuner ?",
+        "it": "Fino a che ora servite la colazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr129",
+      "es": "¿Ese producto está disponible hoy?",
+      "translations": {
+        "en": "Is that item available today?",
+        "pt": "Esse produto está disponível hoje?",
+        "fr": "Ce produit est-il disponible aujourd'hui ?",
+        "it": "Quel prodotto è disponibile oggi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr130",
+      "es": "¿Me puede dar esto, por favor? / Quisiera pedir esto.",
+      "translations": {
+        "en": "Can I get this, please? / Could I get this, please? / I'd like to order this.",
+        "pt": "Pode me dar isto, por favor? / Gostaria de pedir isto.",
+        "fr": "Je peux avoir ceci, s'il vous plaît ? / Je voudrais commander ceci.",
+        "it": "Posso avere questo, per favore? / Vorrei ordinare questo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr131",
+      "es": "Quisiera un latte mediano con bebida de avena, para llevar.",
+      "translations": {
+        "en": "I'd like a medium latte with oat milk, to go.",
+        "pt": "Gostaria de um latte médio com bebida de aveia, para viagem.",
+        "fr": "Je voudrais un latte moyen avec une boisson à l'avoine, à emporter.",
+        "it": "Vorrei un caffellatte medio con bevanda d'avena, da asporto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr132",
+      "es": "¿Puedo pedir dos bebidas con leches diferentes?",
+      "translations": {
+        "en": "Can I order two drinks with different types of milk?",
+        "pt": "Posso pedir duas bebidas com tipos de leite diferentes?",
+        "fr": "Puis-je commander deux boissons avec des types de lait différents ?",
+        "it": "Posso ordinare due bevande con tipi di latte diversi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr133",
+      "es": "Una bebida es para aquí y la otra para llevar.",
+      "translations": {
+        "en": "One drink is for here and the other is to go.",
+        "pt": "Uma bebida é para tomar aqui e a outra é para viagem.",
+        "fr": "Une boisson est à consommer sur place et l'autre est à emporter.",
+        "it": "Una bevanda è da consumare qui e l'altra è da asporto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr134",
+      "es": "También quisiera este pan dulce, por favor.",
+      "translations": {
+        "en": "I'd also like this pastry, please.",
+        "pt": "Também gostaria deste pão doce, por favor.",
+        "fr": "Je voudrais aussi cette viennoiserie, s'il vous plaît.",
+        "it": "Vorrei anche questo dolce da forno, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr135",
+      "es": "¿Puede calentarlo/a? / ¿Puede tostarlo/a?",
+      "translations": {
+        "en": "Could you warm it up? / Could you toast it?",
+        "pt": "Pode esquentar? / Pode tostar?",
+        "fr": "Pouvez-vous le/la réchauffer ? / Pouvez-vous le/la faire griller ?",
+        "it": "Può scaldarlo/a? / Può tostarlo/a?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr136",
+      "es": "El pan dulce sin calentar, gracias.",
+      "translations": {
+        "en": "No need to warm up the pastry, thanks.",
+        "pt": "O pão doce sem esquentar, obrigado/obrigada.",
+        "fr": "La viennoiserie non réchauffée, merci.",
+        "it": "Il dolce da forno senza scaldarlo, grazie."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr137",
+      "es": "¿Puede partirlo/a por la mitad?",
+      "translations": {
+        "en": "Could you cut it in half?",
+        "pt": "Pode cortar ao meio?",
+        "fr": "Pouvez-vous le/la couper en deux ?",
+        "it": "Può tagliarlo/a a metà?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr138",
+      "es": "Eso es todo, gracias.",
+      "translations": {
+        "en": "That's all, thank you.",
+        "pt": "É só isso, obrigado/obrigada.",
+        "fr": "C'est tout, merci.",
+        "it": "È tutto, grazie."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr139",
+      "es": "¿El precio es el mismo si lo tomo en la barra o en una mesa?",
+      "translations": {
+        "en": "Is the price the same if I have it at the counter or at a table?",
+        "pt": "O preço é o mesmo se eu consumir no balcão ou em uma mesa?",
+        "fr": "Le prix est-il le même si je le consomme au comptoir ou à une table ?",
+        "it": "Il prezzo è lo stesso se lo consumo al banco o a un tavolo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr140",
+      "es": "¿Cuánto tiempo debo dejar la bolsita de té en el agua?",
+      "translations": {
+        "en": "How long should I leave the tea bag in the water?",
+        "pt": "Por quanto tempo devo deixar o sachê de chá na água?",
+        "fr": "Combien de temps dois-je laisser le sachet de thé dans l'eau ?",
+        "it": "Per quanto tempo devo lasciare la bustina di tè nell'acqua?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr141",
+      "es": "¿Para aquí o para llevar? (empleado)",
+      "translations": {
+        "en": "For here or to go? / Dine-in or carry out?",
+        "pt": "Para comer aqui ou para viagem?",
+        "fr": "Sur place ou à emporter ?",
+        "it": "Da consumare qui o da asporto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr142",
+      "es": "Para aquí, por favor.",
+      "translations": {
+        "en": "For here, please. / Dine-in, please.",
+        "pt": "Para comer aqui, por favor.",
+        "fr": "Sur place, s'il vous plaît.",
+        "it": "Da consumare qui, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr143",
+      "es": "Para llevar, por favor.",
+      "translations": {
+        "en": "To go, please. / For carryout, please.",
+        "pt": "Para viagem, por favor.",
+        "fr": "À emporter, s'il vous plaît.",
+        "it": "Da asporto, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr144",
+      "es": "¿Me lo puede dar para llevar?",
+      "translations": {
+        "en": "Can I get this to go?",
+        "pt": "Pode preparar para viagem?",
+        "fr": "Puis-je avoir ceci à emporter ?",
+        "it": "Posso averlo da asporto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr145",
+      "es": "¿Me puede mostrar los tamaños de los vasos?",
+      "translations": {
+        "en": "Could you show me the cup sizes?",
+        "pt": "Pode me mostrar os tamanhos dos copos?",
+        "fr": "Pouvez-vous me montrer les tailles des gobelets ?",
+        "it": "Può mostrarmi i formati dei bicchieri?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr146",
+      "es": "¿Qué tamaños tienen para esta bebida?",
+      "translations": {
+        "en": "What sizes do you have for this drink?",
+        "pt": "Quais tamanhos vocês têm para esta bebida?",
+        "fr": "Quelles tailles proposez-vous pour cette boisson ?",
+        "it": "Quali formati avete per questa bevanda?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr147",
+      "es": "Quisiera el tamaño más pequeño. / Quisiera el más grande.",
+      "translations": {
+        "en": "I'd like the smallest size. / I'd like the largest size.",
+        "pt": "Gostaria do menor tamanho. / Gostaria do maior tamanho.",
+        "fr": "Je voudrais la plus petite taille. / Je voudrais la plus grande taille.",
+        "it": "Vorrei il formato più piccolo. / Vorrei il formato più grande."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr148",
+      "es": "¿Cuántos mililitros tiene este vaso?",
+      "translations": {
+        "en": "How many milliliters does this cup hold?",
+        "pt": "Quantos mililitros tem este copo?",
+        "fr": "Quelle est la contenance de ce gobelet en millilitres ?",
+        "it": "Quanti millilitri contiene questo bicchiere?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr149",
+      "es": "¿Cuántas onzas líquidas tiene ese tamaño?",
+      "translations": {
+        "en": "How many fluid ounces is that size?",
+        "pt": "Quantas onças líquidas tem esse tamanho?",
+        "fr": "Quelle est la contenance de cette taille en onces liquides ?",
+        "it": "Quante once liquide contiene quel formato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr150",
+      "es": "Quisiera esa bebida en tamaño Tall.",
+      "translations": {
+        "en": "I'd like that drink in a Tall.",
+        "pt": "Gostaria dessa bebida no tamanho Tall.",
+        "fr": "Je voudrais cette boisson en taille Tall.",
+        "it": "Vorrei quella bevanda nel formato Tall."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr151",
+      "es": "¿Esta bebida está disponible en tamaño Trenta?",
+      "translations": {
+        "en": "Is this drink available in a Trenta?",
+        "pt": "Esta bebida está disponível no tamanho Trenta?",
+        "fr": "Cette boisson est-elle disponible en taille Trenta ?",
+        "it": "Questa bevanda è disponibile nel formato Trenta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr152",
+      "es": "¿El vaso de este tamaño es igual para bebidas calientes y frías?",
+      "translations": {
+        "en": "Is the cup for this size the same for hot and iced drinks?",
+        "pt": "O copo desse tamanho é igual para bebidas quentes e geladas?",
+        "fr": "Le gobelet de cette taille est-il le même pour les boissons chaudes et glacées ?",
+        "it": "Il bicchiere di questo formato è uguale per le bevande calde e fredde?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr153",
+      "es": "¿Puede dejar espacio para que yo agregue leche?",
+      "translations": {
+        "en": "Could you leave room for me to add milk?",
+        "pt": "Pode deixar espaço para eu colocar leite?",
+        "fr": "Pouvez-vous laisser de la place pour que j'ajoute du lait ?",
+        "it": "Può lasciare spazio perché io aggiunga del latte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr154",
+      "es": "¿Puede usar mi vaso reutilizable?",
+      "translations": {
+        "en": "Can you use my reusable cup?",
+        "pt": "Pode usar meu copo reutilizável?",
+        "fr": "Pouvez-vous utiliser mon gobelet réutilisable ?",
+        "it": "Può usare il mio bicchiere riutilizzabile?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr155",
+      "es": "Quisiera la bebida caliente. / Quisiera la bebida con hielo.",
+      "translations": {
+        "en": "I'd like the drink hot. / I'd like the drink iced.",
+        "pt": "Gostaria da bebida quente. / Gostaria da bebida com gelo.",
+        "fr": "Je voudrais la boisson chaude. / Je voudrais la boisson avec des glaçons.",
+        "it": "Vorrei la bevanda calda. / Vorrei la bevanda con ghiaccio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr156",
+      "es": "¿La puede preparar fría, sin licuarla con hielo?",
+      "translations": {
+        "en": "Can you make it iced rather than blended?",
+        "pt": "Pode preparar gelada, sem bater com gelo?",
+        "fr": "Pouvez-vous la préparer glacée, sans la mixer avec des glaçons ?",
+        "it": "Può prepararla fredda, senza frullarla con il ghiaccio?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr157",
+      "es": "Quisiera un café descafeinado, por favor.",
+      "translations": {
+        "en": "I'd like a decaf coffee, please.",
+        "pt": "Gostaria de um café descafeinado, por favor.",
+        "fr": "Je voudrais un café décaféiné, s'il vous plaît.",
+        "it": "Vorrei un caffè decaffeinato, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr158",
+      "es": "¿Pueden prepararlo mitad regular y mitad descafeinado?",
+      "translations": {
+        "en": "Can you make it half-caf?",
+        "pt": "Podem preparar misturando partes iguais de café normal e descafeinado?",
+        "fr": "Pouvez-vous le préparer avec un mélange à parts égales de café normal et de café décaféiné ?",
+        "it": "Potete prepararlo con metà caffè normale e metà decaffeinato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr159",
+      "es": "Busco una bebida sin cafeína; ¿qué opciones tienen?",
+      "translations": {
+        "en": "I'm looking for a caffeine-free drink. What options do you have?",
+        "pt": "Procuro uma bebida sem cafeína; quais opções vocês têm?",
+        "fr": "Je cherche une boisson sans caféine ; quelles options proposez-vous ?",
+        "it": "Cerco una bevanda senza caffeina; quali opzioni avete?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr160",
+      "es": "¿Cuántas dosis de espresso lleva este tamaño?",
+      "translations": {
+        "en": "How many shots of espresso are in this size?",
+        "pt": "Quantas doses de espresso tem esse tamanho?",
+        "fr": "Combien de doses d'expresso y a-t-il dans cette taille ?",
+        "it": "Quante dosi di espresso ci sono in questo formato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr161",
+      "es": "¿Puede agregar una dosis adicional de espresso?",
+      "translations": {
+        "en": "Could you add an extra shot of espresso?",
+        "pt": "Pode adicionar uma dose extra de espresso?",
+        "fr": "Pouvez-vous ajouter une dose d'expresso supplémentaire ?",
+        "it": "Può aggiungere una dose extra di espresso?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr162",
+      "es": "¿Puede usar ristretto en lugar de espresso normal?",
+      "translations": {
+        "en": "Could you use ristretto shots instead of regular espresso shots?",
+        "pt": "Pode usar doses de ristretto em vez de espresso normal?",
+        "fr": "Pouvez-vous utiliser des doses de ristretto au lieu d'expresso classique ?",
+        "it": "Può usare il ristretto al posto dell'espresso normale?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr163",
+      "es": "Quisiera más sabor a café, sin aumentar el tamaño.",
+      "translations": {
+        "en": "I'd like a stronger coffee flavor without increasing the size.",
+        "pt": "Gostaria de um sabor de café mais forte, sem aumentar o tamanho.",
+        "fr": "Je voudrais un goût de café plus prononcé sans augmenter la taille.",
+        "it": "Vorrei un sapore di caffè più intenso senza aumentare il formato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr164",
+      "es": "Quisiera leche entera. / Quisiera leche descremada.",
+      "translations": {
+        "en": "I'd like whole milk. / I'd like nonfat milk.",
+        "pt": "Gostaria de leite integral. / Gostaria de leite desnatado.",
+        "fr": "Je voudrais du lait entier. / Je voudrais du lait écrémé.",
+        "it": "Vorrei latte intero. / Vorrei latte scremato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr165",
+      "es": "¿Tienen leche con dos por ciento de grasa?",
+      "translations": {
+        "en": "Do you have 2% milk?",
+        "pt": "Vocês têm leite com 2% de gordura?",
+        "fr": "Avez-vous du lait à 2 % de matière grasse ?",
+        "it": "Avete latte con il 2% di grassi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr166",
+      "es": "Quisiera leche sin lactosa, por favor.",
+      "translations": {
+        "en": "I'd like lactose-free milk, please.",
+        "pt": "Gostaria de leite sem lactose, por favor.",
+        "fr": "Je voudrais du lait sans lactose, s'il vous plaît.",
+        "it": "Vorrei latte senza lattosio, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr167",
+      "es": "Quisiera una bebida vegetal en lugar de leche de vaca.",
+      "translations": {
+        "en": "I'd like a plant-based milk instead of cow's milk.",
+        "pt": "Gostaria de uma bebida vegetal em vez de leite de vaca.",
+        "fr": "Je voudrais une boisson végétale à la place du lait de vache.",
+        "it": "Vorrei una bevanda vegetale al posto del latte vaccino."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr168",
+      "es": "¿Qué bebidas vegetales tienen: avena, soya, almendra o coco?",
+      "translations": {
+        "en": "What plant-based milks do you have: oat, soy, almond, or coconut?",
+        "pt": "Quais bebidas vegetais vocês têm: aveia, soja, amêndoa ou coco?",
+        "fr": "Quelles boissons végétales avez-vous : avoine, soja, amande ou coco ?",
+        "it": "Quali bevande vegetali avete: avena, soia, mandorla o cocco?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr169",
+      "es": "¿Esta bebida vegetal está endulzada?",
+      "translations": {
+        "en": "Is this plant-based milk sweetened?",
+        "pt": "Esta bebida vegetal é adoçada?",
+        "fr": "Cette boisson végétale est-elle sucrée ?",
+        "it": "Questa bevanda vegetale è zuccherata?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr170",
+      "es": "Con un chorrito de leche, sin llenar el vaso.",
+      "translations": {
+        "en": "With just a splash of milk, without filling the cup.",
+        "pt": "Só com um pouquinho de leite, sem encher o copo.",
+        "fr": "Avec juste un peu de lait, sans remplir le gobelet.",
+        "it": "Con solo un goccio di latte, senza riempire il bicchiere."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr171",
+      "es": "Quisiera la leche aparte, en un recipiente pequeño.",
+      "translations": {
+        "en": "I'd like the milk on the side, in a small container.",
+        "pt": "Gostaria do leite à parte, em um recipiente pequeno.",
+        "fr": "Je voudrais le lait à part, dans un petit récipient.",
+        "it": "Vorrei il latte a parte, in un piccolo contenitore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr172",
+      "es": "Quisiera menos espuma. / Quisiera más espuma.",
+      "translations": {
+        "en": "I'd like less foam. / I'd like extra foam.",
+        "pt": "Gostaria de menos espuma. / Gostaria de mais espuma.",
+        "fr": "Je voudrais moins de mousse. / Je voudrais plus de mousse.",
+        "it": "Vorrei meno schiuma. / Vorrei più schiuma."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr173",
+      "es": "Sin espuma de leche, por favor.",
+      "translations": {
+        "en": "No milk foam, please.",
+        "pt": "Sem espuma de leite, por favor.",
+        "fr": "Sans mousse de lait, s'il vous plaît.",
+        "it": "Senza schiuma di latte, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr174",
+      "es": "¿La puede preparar menos caliente para beberla ahora?",
+      "translations": {
+        "en": "Could you make it less hot so I can drink it now?",
+        "pt": "Pode preparar menos quente para eu beber agora?",
+        "fr": "Pouvez-vous la préparer moins chaude pour que je puisse la boire maintenant ?",
+        "it": "Può prepararla meno calda perché possa berla subito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr175",
+      "es": "Quisiera menos hielo. / Quisiera más hielo.",
+      "translations": {
+        "en": "I'd like light ice. / I'd like extra ice.",
+        "pt": "Gostaria de menos gelo. / Gostaria de mais gelo.",
+        "fr": "Je voudrais moins de glaçons. / Je voudrais plus de glaçons.",
+        "it": "Vorrei meno ghiaccio. / Vorrei più ghiaccio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr176",
+      "es": "La quiero fría, pero sin hielo dentro del vaso.",
+      "translations": {
+        "en": "I'd like it cold, but with no ice in the cup.",
+        "pt": "Quero gelada, mas sem gelo dentro do copo.",
+        "fr": "Je la voudrais froide, mais sans glaçons dans le gobelet.",
+        "it": "La vorrei fredda, ma senza ghiaccio nel bicchiere."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr177",
+      "es": "¿La base de esta bebida ya viene endulzada?",
+      "translations": {
+        "en": "Is the base of this drink already sweetened?",
+        "pt": "A base desta bebida já vem adoçada?",
+        "fr": "La base de cette boisson est-elle déjà sucrée ?",
+        "it": "La base di questa bevanda è già zuccherata?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr178",
+      "es": "Sin azúcar añadida ni jarabe, por favor.",
+      "translations": {
+        "en": "No added sugar or syrup, please.",
+        "pt": "Sem açúcar adicionado nem xarope, por favor.",
+        "fr": "Sans sucre ajouté ni sirop, s'il vous plaît.",
+        "it": "Senza zucchero aggiunto né sciroppo, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr179",
+      "es": "¿Puede poner la mitad de las dosis de jarabe habituales?",
+      "translations": {
+        "en": "Could you use half the usual number of syrup pumps?",
+        "pt": "Pode usar metade das doses de xarope que costuma colocar?",
+        "fr": "Pouvez-vous mettre la moitié du nombre habituel de doses de sirop ?",
+        "it": "Può usare metà delle dosi di sciroppo abituali?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr180",
+      "es": "Solo una dosis de jarabe de vainilla, por favor.",
+      "translations": {
+        "en": "Just one pump of vanilla syrup, please.",
+        "pt": "Só uma dose de xarope de baunilha, por favor.",
+        "fr": "Une seule dose de sirop de vanille, s'il vous plaît.",
+        "it": "Solo una dose di sciroppo alla vaniglia, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr181",
+      "es": "Quisiera cambiar el jarabe de caramelo por vainilla.",
+      "translations": {
+        "en": "I'd like to swap the caramel syrup for vanilla.",
+        "pt": "Gostaria de trocar o xarope de caramelo por baunilha.",
+        "fr": "Je voudrais remplacer le sirop de caramel par de la vanille.",
+        "it": "Vorrei sostituire lo sciroppo al caramello con quello alla vaniglia."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr182",
+      "es": "Sin crema batida. / Con poca crema batida.",
+      "translations": {
+        "en": "No whip. / Light whip.",
+        "pt": "Sem chantilly. / Com pouco chantilly.",
+        "fr": "Sans crème fouettée. / Avec un peu de crème fouettée.",
+        "it": "Senza panna montata. / Con poca panna montata."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr183",
+      "es": "¿La espuma fría lleva leche o es vegetal?",
+      "translations": {
+        "en": "Is the cold foam dairy-based or plant-based?",
+        "pt": "A espuma fria leva leite ou é vegetal?",
+        "fr": "La mousse froide est-elle à base de lait ou végétale ?",
+        "it": "La schiuma fredda contiene latte o è vegetale?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr184",
+      "es": "Sin la salsa de caramelo de encima, por favor.",
+      "translations": {
+        "en": "No caramel drizzle on top, please.",
+        "pt": "Sem a calda de caramelo por cima, por favor.",
+        "fr": "Sans le filet de sauce caramel sur le dessus, s'il vous plaît.",
+        "it": "Senza la salsa al caramello sopra, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr185",
+      "es": "¿Puede poner el azúcar en un sobre aparte?",
+      "translations": {
+        "en": "Could you give me the sugar in a packet on the side?",
+        "pt": "Pode me dar o açúcar em um sachê separado?",
+        "fr": "Pouvez-vous me donner le sucre dans un sachet à part ?",
+        "it": "Può darmi lo zucchero in una bustina a parte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr186",
+      "es": "¿Cambiar el tipo de leche tiene costo adicional?",
+      "translations": {
+        "en": "Is there an extra charge to change the milk?",
+        "pt": "Tem custo adicional para trocar o tipo de leite?",
+        "fr": "Y a-t-il un supplément pour changer le type de lait ?",
+        "it": "C'è un supplemento per cambiare il tipo di latte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr187",
+      "es": "Tengo intolerancia a la lactosa. ¿La base de la bebida también lleva leche?",
+      "translations": {
+        "en": "I'm lactose intolerant. Does the drink base contain milk too?",
+        "pt": "Tenho intolerância à lactose. A base da bebida também leva leite?",
+        "fr": "Je suis intolérant/intolérante au lactose. La base de la boisson contient-elle aussi du lait ?",
+        "it": "Sono intollerante al lattosio. Anche la base della bevanda contiene latte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr188",
+      "es": "Tengo alergia a la leche. ¿El jarabe o la cobertura contienen lácteos?",
+      "translations": {
+        "en": "I have a milk allergy. Does the syrup or topping contain dairy?",
+        "pt": "Tenho alergia ao leite. O xarope ou a cobertura contêm laticínios?",
+        "fr": "J'ai une allergie au lait. Le sirop ou la garniture contiennent-ils des produits laitiers ?",
+        "it": "Sono allergico/allergica al latte. Lo sciroppo o la guarnizione contengono latticini?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr189",
+      "es": "¿Usan la misma jarra y el mismo vaporizador para distintas leches?",
+      "translations": {
+        "en": "Do you use the same pitcher and steam wand for different types of milk?",
+        "pt": "Vocês usam a mesma jarra e o mesmo vaporizador para tipos de leite diferentes?",
+        "fr": "Utilisez-vous le même pichet et la même buse vapeur pour différents types de lait ?",
+        "it": "Usate la stessa caraffa e la stessa lancia vapore per diversi tipi di latte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr190",
+      "es": "¿La licuadora se comparte con bebidas que llevan frutos de cáscara?",
+      "translations": {
+        "en": "Is the blender shared with drinks containing tree nuts?",
+        "pt": "O liquidificador também é usado para bebidas com castanhas, nozes ou amêndoas?",
+        "fr": "Le blender est-il aussi utilisé pour des boissons contenant des fruits à coque ?",
+        "it": "Il frullatore viene usato anche per bevande che contengono frutta a guscio?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr191",
+      "es": "¿Puede mostrarme la lista de ingredientes de la base de esta bebida?",
+      "translations": {
+        "en": "Could you show me the ingredients in this drink's base?",
+        "pt": "Pode me mostrar os ingredientes da base desta bebida?",
+        "fr": "Pouvez-vous me montrer les ingrédients de la base de cette boisson ?",
+        "it": "Può mostrarmi gli ingredienti della base di questa bevanda?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr192",
+      "es": "¿El pan de queso lleva leche o huevo?",
+      "translations": {
+        "en": "Does the cheese bread contain milk or eggs?",
+        "pt": "O pão de queijo leva leite ou ovo?",
+        "fr": "Le pão de queijo contient-il du lait ou des œufs ?",
+        "it": "Il pão de queijo contiene latte o uova?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr193",
+      "es": "¿Esta hamburguesa vegetal también lleva queso o mayonesa con huevo?",
+      "translations": {
+        "en": "Does this plant-based burger also contain cheese or egg-based mayonnaise?",
+        "pt": "Este hambúrguer vegetal também leva queijo ou maionese com ovo?",
+        "fr": "Ce burger végétal contient-il aussi du fromage ou de la mayonnaise à base d'œuf ?",
+        "it": "Questo hamburger vegetale contiene anche formaggio o maionese con uova?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr194",
+      "es": "¿Lo quiere en combo o solo? (empleado)",
+      "translations": {
+        "en": "Would you like that as a meal or on its own?",
+        "pt": "Você quer no combo ou avulso?",
+        "fr": "Vous le voulez en menu ou seul ?",
+        "it": "Lo vuole nel menù o da solo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr195",
+      "es": "¿Qué incluye el combo?",
+      "translations": {
+        "en": "What's included in the meal?",
+        "pt": "O que vem no combo?",
+        "fr": "Qu'est-ce qui est compris dans le menu ?",
+        "it": "Che cosa comprende il menù?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr196",
+      "es": "¿La bebida está incluida en ese precio?",
+      "translations": {
+        "en": "Is the drink included in that price?",
+        "pt": "A bebida está incluída nesse preço?",
+        "fr": "La boisson est-elle comprise dans ce prix ?",
+        "it": "La bevanda è compresa in quel prezzo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr197",
+      "es": "Quisiera una hamburguesa en combo, con papas grandes y un refresco grande.",
+      "translations": {
+        "en": "I'd like one burger as a meal with large fries and a large soda.",
+        "pt": "Gostaria de um hambúrguer no combo, com uma porção grande de batatas fritas e um refrigerante grande.",
+        "fr": "Je voudrais un burger en menu, avec une grande portion de frites et un grand soda.",
+        "it": "Vorrei un hamburger nel menù, con una porzione grande di patatine e una bibita grande."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr198",
+      "es": "Solo la hamburguesa, sin combo, por favor.",
+      "translations": {
+        "en": "Just the burger, no meal, please.",
+        "pt": "Só o hambúrguer, sem combo, por favor.",
+        "fr": "Le burger seul, sans menu, s'il vous plaît.",
+        "it": "Solo l'hamburger, senza menù, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr199",
+      "es": "¿Puedo convertirlo en combo?",
+      "translations": {
+        "en": "Can I make that a meal?",
+        "pt": "Posso transformar isso em um combo?",
+        "fr": "Puis-je le prendre en menu ?",
+        "it": "Posso prenderlo nel menù?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr200",
+      "es": "¿Cuánto cuesta aumentar el tamaño del combo?",
+      "translations": {
+        "en": "How much does it cost to upsize the meal?",
+        "pt": "Quanto custa aumentar o tamanho do combo?",
+        "fr": "Combien coûte le passage à un menu plus grand ?",
+        "it": "Quanto costa passare al menù più grande?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr201",
+      "es": "Quisiera aumentar solo el tamaño de las papas.",
+      "translations": {
+        "en": "I'd like to upsize just the fries.",
+        "pt": "Gostaria de aumentar só o tamanho da porção de batatas fritas.",
+        "fr": "Je voudrais agrandir seulement la portion de frites.",
+        "it": "Vorrei aumentare solo la porzione di patatine."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr202",
+      "es": "Quisiera la bebida mediana y las papas chicas.",
+      "translations": {
+        "en": "I'd like a medium drink and small fries.",
+        "pt": "Gostaria de uma bebida média e uma porção pequena de batatas fritas.",
+        "fr": "Je voudrais une boisson moyenne et une petite portion de frites.",
+        "it": "Vorrei una bevanda media e una porzione piccola di patatine."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr203",
+      "es": "Quisiera el combo número [número].",
+      "translations": {
+        "en": "I'd like meal number [number].",
+        "pt": "Gostaria do combo número [número].",
+        "fr": "Je voudrais le menu numéro [nombre].",
+        "it": "Vorrei il menù numero [numero]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr204",
+      "es": "¿Puedo elegir agua en lugar de refresco?",
+      "translations": {
+        "en": "Can I choose water instead of soda?",
+        "pt": "Posso escolher água em vez de refrigerante?",
+        "fr": "Puis-je choisir de l'eau à la place du soda ?",
+        "it": "Posso scegliere l'acqua al posto della bibita gassata?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr205",
+      "es": "¿Puedo cambiar el acompañamiento del combo?",
+      "translations": {
+        "en": "Can I change the side that comes with the meal?",
+        "pt": "Posso trocar o acompanhamento do combo?",
+        "fr": "Puis-je changer l'accompagnement du menu ?",
+        "it": "Posso cambiare il contorno del menù?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr206",
+      "es": "Quisiera un combo infantil sin juguete, si es posible.",
+      "translations": {
+        "en": "I'd like a kids' meal without the toy, if possible.",
+        "pt": "Gostaria de um combo infantil sem o brinquedo, se possível.",
+        "fr": "Je voudrais un menu enfant sans le jouet, si possible.",
+        "it": "Vorrei un menù per bambini senza il giocattolo, se possibile."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr207",
+      "es": "¿Cuántas piezas trae la porción de nuggets?",
+      "translations": {
+        "en": "How many nuggets come in a portion?",
+        "pt": "Quantos nuggets vêm na porção?",
+        "fr": "Combien de nuggets y a-t-il dans une portion ?",
+        "it": "Quanti nuggets ci sono in una porzione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr208",
+      "es": "Quisiera una porción de seis nuggets.",
+      "translations": {
+        "en": "I'd like a six-piece order of nuggets.",
+        "pt": "Gostaria de uma porção de seis nuggets.",
+        "fr": "Je voudrais une portion de six nuggets.",
+        "it": "Vorrei una porzione di sei nuggets."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr209",
+      "es": "¿Qué salsas puedo elegir para acompañar los nuggets?",
+      "translations": {
+        "en": "What dipping sauces can I choose for the nuggets?",
+        "pt": "Quais molhos posso escolher para acompanhar os nuggets?",
+        "fr": "Quelles sauces puis-je choisir pour les nuggets ?",
+        "it": "Quali salse posso scegliere per accompagnare i nuggets?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr210",
+      "es": "¿Las salsas están incluidas o cuestan extra?",
+      "translations": {
+        "en": "Are the sauces included, or do they cost extra?",
+        "pt": "Os molhos estão incluídos ou custam à parte?",
+        "fr": "Les sauces sont-elles comprises ou coûtent-elles un supplément ?",
+        "it": "Le salse sono comprese o si pagano a parte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr211",
+      "es": "Quisiera la hamburguesa sin [ingrediente].",
+      "translations": {
+        "en": "I'd like the burger without [ingredient].",
+        "pt": "Gostaria do hambúrguer sem [ingrediente].",
+        "fr": "Je voudrais le burger sans [ingrédient].",
+        "it": "Vorrei l'hamburger senza [ingrediente]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr212",
+      "es": "¿Puede agregar otra carne a la hamburguesa?",
+      "translations": {
+        "en": "Could you add another patty to the burger?",
+        "pt": "Pode adicionar mais uma carne ao hambúrguer?",
+        "fr": "Pouvez-vous ajouter un steak au burger ?",
+        "it": "Può aggiungere un altro hamburger di carne al panino?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr213",
+      "es": "¿Puede poner la salsa aparte, para que el pan no se aguade?",
+      "translations": {
+        "en": "Could you put the sauce on the side so the bun doesn't get soggy?",
+        "pt": "Pode colocar o molho à parte para o pão não ficar encharcado?",
+        "fr": "Pouvez-vous mettre la sauce à part pour que le pain ne soit pas détrempé ?",
+        "it": "Può mettere la salsa a parte perché il pane non si inzuppi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr214",
+      "es": "¿Pueden servir la hamburguesa envuelta en lechuga, sin pan?",
+      "translations": {
+        "en": "Can you serve the burger in a lettuce wrap, without a bun?",
+        "pt": "Podem servir o hambúrguer envolto em alface, sem pão?",
+        "fr": "Pouvez-vous servir le burger enveloppé dans de la laitue, sans pain ?",
+        "it": "Potete servire l'hamburger avvolto nella lattuga, senza pane?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr215",
+      "es": "Quisiera las papas sin sal añadida.",
+      "translations": {
+        "en": "I'd like the fries with no added salt.",
+        "pt": "Gostaria das batatas fritas sem sal adicionado.",
+        "fr": "Je voudrais les frites sans sel ajouté.",
+        "it": "Vorrei le patatine senza sale aggiunto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr216",
+      "es": "¿Puedo pedir las papas recién hechas?",
+      "translations": {
+        "en": "Can I have freshly cooked fries?",
+        "pt": "Posso pedir batatas fritas feitas na hora?",
+        "fr": "Puis-je avoir des frites fraîchement préparées ?",
+        "it": "Posso avere delle patatine appena preparate?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr217",
+      "es": "Una hamburguesa va sin queso; la otra va como viene normalmente.",
+      "translations": {
+        "en": "One burger is without cheese; the other is as it normally comes.",
+        "pt": "Um hambúrguer é sem queijo; o outro é como vem normalmente.",
+        "fr": "Un burger est sans fromage ; l'autre est comme il est servi normalement.",
+        "it": "Un hamburger è senza formaggio; l'altro è come viene servito normalmente."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr218",
+      "es": "¿Puede marcar la envoltura de la hamburguesa sin queso?",
+      "translations": {
+        "en": "Could you mark the wrapper of the burger without cheese?",
+        "pt": "Pode marcar a embalagem do hambúrguer sem queijo?",
+        "fr": "Pouvez-vous marquer l'emballage du burger sans fromage ?",
+        "it": "Può segnare l'involucro dell'hamburger senza formaggio?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr219",
+      "es": "¿Pueden poner los dos combos en bolsas separadas?",
+      "translations": {
+        "en": "Could you put the two meals in separate bags?",
+        "pt": "Podem colocar os dois combos em sacolas separadas?",
+        "fr": "Pouvez-vous mettre les deux menus dans des sacs séparés ?",
+        "it": "Potete mettere i due menù in sacchetti separati?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr220",
+      "es": "¿La recarga de bebida es gratis o se paga aparte?",
+      "translations": {
+        "en": "Are drink refills free, or do they cost extra?",
+        "pt": "O refil da bebida é grátis ou é cobrado à parte?",
+        "fr": "La recharge de boisson est-elle gratuite ou payante ?",
+        "it": "La ricarica della bevanda è gratuita o si paga a parte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr221",
+      "es": "¿Me sirve otra bebida en el mismo vaso?",
+      "translations": {
+        "en": "Could I get a refill in the same cup?",
+        "pt": "Pode colocar mais bebida no mesmo copo?",
+        "fr": "Pouvez-vous me resservir une boisson dans le même gobelet ?",
+        "it": "Può riempirmi di nuovo lo stesso bicchiere?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr222",
+      "es": "¿Puedo usar este cupón aquí?",
+      "translations": {
+        "en": "Can I use this coupon here?",
+        "pt": "Posso usar este cupom aqui?",
+        "fr": "Puis-je utiliser ce coupon ici ?",
+        "it": "Posso usare questo buono qui?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr223",
+      "es": "¿La promoción es solo para pedidos por la aplicación?",
+      "translations": {
+        "en": "Is the offer only for app orders?",
+        "pt": "A promoção é só para pedidos pelo aplicativo?",
+        "fr": "L'offre est-elle réservée aux commandes via l'application ?",
+        "it": "La promozione vale solo per gli ordini tramite l'app?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr224",
+      "es": "¿Puedo usar mis puntos para pagar esta bebida?",
+      "translations": {
+        "en": "Can I redeem my points for this drink?",
+        "pt": "Posso usar meus pontos para pagar esta bebida?",
+        "fr": "Puis-je utiliser mes points pour cette boisson ?",
+        "it": "Posso usare i miei punti per questa bevanda?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr225",
+      "es": "¿Escanea el código antes o después de pagar?",
+      "translations": {
+        "en": "Do you scan the code before or after payment?",
+        "pt": "Você escaneia o código antes ou depois do pagamento?",
+        "fr": "Faut-il scanner le code avant ou après le paiement ?",
+        "it": "Il codice si scansiona prima o dopo il pagamento?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr226",
+      "es": "Quiero acumular puntos, no canjearlos.",
+      "translations": {
+        "en": "I want to earn points, not redeem them.",
+        "pt": "Quero acumular pontos, não resgatá-los.",
+        "fr": "Je veux cumuler des points, pas les utiliser.",
+        "it": "Voglio accumulare punti, non usarli."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr227",
+      "es": "Ya pagué por la aplicación; solo vengo a recoger.",
+      "translations": {
+        "en": "I've already paid in the app; I'm just here to pick up.",
+        "pt": "Já paguei pelo aplicativo; só vim retirar.",
+        "fr": "J'ai déjà payé via l'application ; je viens seulement retirer ma commande.",
+        "it": "Ho già pagato tramite l'app; sono qui solo per ritirare l'ordine."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr228",
+      "es": "Hice el pedido en la pantalla, pero elegí pagar en efectivo.",
+      "translations": {
+        "en": "I ordered at the kiosk, but I selected cash payment.",
+        "pt": "Fiz o pedido no totem, mas escolhi pagar em dinheiro.",
+        "fr": "J'ai commandé à la borne, mais j'ai choisi de payer en espèces.",
+        "it": "Ho ordinato al chiosco, ma ho scelto di pagare in contanti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr229",
+      "es": "¿Puedo pagar este pedido en la caja?",
+      "translations": {
+        "en": "Can I pay for this order at the register?",
+        "pt": "Posso pagar este pedido no caixa?",
+        "fr": "Puis-je payer cette commande en caisse ?",
+        "it": "Posso pagare questo ordine alla cassa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr230",
+      "es": "¿Puede darme el recibo con el número de pedido?",
+      "translations": {
+        "en": "Could you give me the receipt with the order number?",
+        "pt": "Pode me dar o comprovante com o número do pedido?",
+        "fr": "Pouvez-vous me donner le ticket avec le numéro de commande ?",
+        "it": "Può darmi lo scontrino con il numero dell'ordine?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr231",
+      "es": "¿Puedo dejar la propina en efectivo?",
+      "translations": {
+        "en": "Can I leave the tip in cash?",
+        "pt": "Posso deixar a gorjeta em dinheiro?",
+        "fr": "Puis-je laisser le pourboire en espèces ?",
+        "it": "Posso lasciare la mancia in contanti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr232",
+      "es": "¿Puede darme el total después de aplicar el descuento?",
+      "translations": {
+        "en": "Could you give me the total after applying the discount?",
+        "pt": "Pode me informar o total depois de aplicar o desconto?",
+        "fr": "Pouvez-vous me donner le total après application de la réduction ?",
+        "it": "Può dirmi il totale dopo aver applicato lo sconto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr233",
+      "es": "No tengo CPF. ¿Puede emitir el recibo sin él? (Brasil: identificación fiscal personal)",
+      "translations": {
+        "en": "I don't have a CPF. Can you issue the receipt without it?",
+        "pt": "Não tenho CPF. Pode emitir a nota sem ele?",
+        "fr": "Je n'ai pas de CPF. Pouvez-vous émettre le reçu sans ce numéro ?",
+        "it": "Non ho un CPF. Può emettere lo scontrino senza questo numero?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr234",
+      "es": "¿A nombre de quién está el pedido? (empleado)",
+      "translations": {
+        "en": "What name is the order under?",
+        "pt": "Em que nome está o pedido?",
+        "fr": "À quel nom est la commande ?",
+        "it": "A che nome è l'ordine?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr235",
+      "es": "El pedido está a nombre de [nombre].",
+      "translations": {
+        "en": "The order is under [name].",
+        "pt": "O pedido está no nome de [nome].",
+        "fr": "La commande est au nom de [nom].",
+        "it": "L'ordine è a nome di [nome]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr236",
+      "es": "Mi nombre se escribe así. Se lo puedo mostrar en el teléfono.",
+      "translations": {
+        "en": "My name is spelled like this. I can show you on my phone.",
+        "pt": "Meu nome se escreve assim. Posso mostrar no celular.",
+        "fr": "Mon nom s'écrit comme ceci. Je peux vous le montrer sur mon téléphone.",
+        "it": "Il mio nome si scrive così. Posso mostrarglielo sul telefono."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr237",
+      "es": "Vengo a recoger el pedido número [número].",
+      "translations": {
+        "en": "I'm here to pick up order number [number].",
+        "pt": "Vim retirar o pedido número [número].",
+        "fr": "Je viens retirer la commande numéro [nombre].",
+        "it": "Sono qui per ritirare l'ordine numero [numero]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr238",
+      "es": "¿Recojo la bebida en otro mostrador?",
+      "translations": {
+        "en": "Do I pick up my drink at a different counter?",
+        "pt": "Retiro a bebida em outro balcão?",
+        "fr": "Dois-je retirer ma boisson à un autre comptoir ?",
+        "it": "Ritiro la bevanda a un altro banco?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr239",
+      "es": "¿Me llamarán por mi nombre o por el número de pedido?",
+      "translations": {
+        "en": "Will you call my name or my order number?",
+        "pt": "Vão chamar meu nome ou o número do pedido?",
+        "fr": "Allez-vous appeler mon nom ou mon numéro de commande ?",
+        "it": "Mi chiamerete per nome o con il numero dell'ordine?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr240",
+      "es": "¿Tengo que esperar aquí o lo llevan a mi mesa?",
+      "translations": {
+        "en": "Should I wait here, or will you bring it to my table?",
+        "pt": "Preciso esperar aqui ou vocês levam à minha mesa?",
+        "fr": "Dois-je attendre ici ou allez-vous l'apporter à ma table ?",
+        "it": "Devo aspettare qui o lo porterete al mio tavolo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr241",
+      "es": "¿Ese pedido incluye también la comida o solo la bebida?",
+      "translations": {
+        "en": "Does that order include the food too, or just the drink?",
+        "pt": "Esse pedido inclui a comida também ou só a bebida?",
+        "fr": "Cette commande comprend-elle aussi le repas ou seulement la boisson ?",
+        "it": "Quell'ordine comprende anche il cibo o solo la bevanda?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr242",
+      "es": "¿Falta algo de mi pedido por preparar?",
+      "translations": {
+        "en": "Is anything in my order still being prepared?",
+        "pt": "Ainda falta preparar algo do meu pedido?",
+        "fr": "Reste-t-il quelque chose à préparer dans ma commande ?",
+        "it": "Manca ancora qualcosa da preparare nel mio ordine?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr243",
+      "es": "¿Puede ayudarme a cambiar el idioma de la pantalla?",
+      "translations": {
+        "en": "Could you help me change the language on the screen?",
+        "pt": "Pode me ajudar a mudar o idioma da tela?",
+        "fr": "Pouvez-vous m'aider à changer la langue sur l'écran ?",
+        "it": "Può aiutarmi a cambiare la lingua sullo schermo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr244",
+      "es": "¿Dónde agrego una modificación al pedido en la pantalla?",
+      "translations": {
+        "en": "Where do I add a modification to my order on the screen?",
+        "pt": "Onde adiciono uma alteração ao pedido na tela?",
+        "fr": "Où puis-je ajouter une modification à ma commande sur l'écran ?",
+        "it": "Dove posso aggiungere una modifica al mio ordine sullo schermo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr245",
+      "es": "La pantalla no imprimió el recibo, pero el pago se completó.",
+      "translations": {
+        "en": "The kiosk didn't print the receipt, but the payment went through.",
+        "pt": "O totem não imprimiu o comprovante, mas o pagamento foi concluído.",
+        "fr": "La borne n'a pas imprimé le ticket, mais le paiement a été effectué.",
+        "it": "Il chiosco non ha stampato lo scontrino, ma il pagamento è andato a buon fine."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr246",
+      "es": "No encuentro mi número en la pantalla de pedidos.",
+      "translations": {
+        "en": "I can't find my number on the order screen.",
+        "pt": "Não encontro meu número na tela de pedidos.",
+        "fr": "Je ne trouve pas mon numéro sur l'écran des commandes.",
+        "it": "Non trovo il mio numero sullo schermo degli ordini."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr247",
+      "es": "Hice el pedido en otra sucursal por error.",
+      "translations": {
+        "en": "I accidentally placed the order at another location.",
+        "pt": "Fiz o pedido em outra unidade por engano.",
+        "fr": "J'ai passé la commande dans un autre établissement par erreur.",
+        "it": "Ho effettuato l'ordine in un altro punto vendita per errore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr248",
+      "es": "Vengo por un pedido de la aplicación; este es el código.",
+      "translations": {
+        "en": "I'm picking up an app order; here's the code.",
+        "pt": "Vim retirar um pedido do aplicativo; este é o código.",
+        "fr": "Je viens retirer une commande de l'application ; voici le code.",
+        "it": "Sono qui per ritirare un ordine dell'app; ecco il codice."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr249",
+      "es": "Estoy en el espacio de estacionamiento número [número].",
+      "translations": {
+        "en": "I'm in parking spot number [number].",
+        "pt": "Estou na vaga número [número].",
+        "fr": "Je suis à la place de parking numéro [nombre].",
+        "it": "Sono al posto auto numero [numero]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr250",
+      "es": "No se escucha bien por el altavoz. ¿Puede repetir el total?",
+      "translations": {
+        "en": "I can't hear clearly over the speaker. Could you repeat the total?",
+        "pt": "Não consigo ouvir bem pelo alto-falante. Pode repetir o total?",
+        "fr": "J'entends mal dans le haut-parleur. Pouvez-vous répéter le total ?",
+        "it": "Non sento bene dall'altoparlante. Può ripetere il totale?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr251",
+      "es": "¿En cuál ventanilla pago y en cuál recojo?",
+      "translations": {
+        "en": "Which window do I pay at, and which one do I pick up at?",
+        "pt": "Em qual guichê eu pago e em qual retiro?",
+        "fr": "À quel guichet dois-je payer et à quel guichet dois-je retirer ma commande ?",
+        "it": "A quale sportello pago e a quale ritiro l'ordine?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr252",
+      "es": "¿Me puede dar una funda para este vaso caliente?",
+      "translations": {
+        "en": "Could I have a sleeve for this hot cup?",
+        "pt": "Pode me dar um protetor para este copo quente?",
+        "fr": "Puis-je avoir un manchon pour ce gobelet chaud ?",
+        "it": "Può darmi una fascia protettiva per questo bicchiere caldo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr253",
+      "es": "¿Me puede dar un portavasos para las bebidas?",
+      "translations": {
+        "en": "Could I have a drink carrier?",
+        "pt": "Pode me dar um suporte para as bebidas?",
+        "fr": "Puis-je avoir un porte-gobelets pour les boissons ?",
+        "it": "Può darmi un portabicchieri per le bevande?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr254",
+      "es": "¿Me puede dar un popote y un agitador?",
+      "translations": {
+        "en": "Could I have a straw and a stirrer?",
+        "pt": "Pode me dar um canudo e um mexedor?",
+        "fr": "Puis-je avoir une paille et une touillette ?",
+        "it": "Può darmi una cannuccia e una palettina?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr255",
+      "es": "¿Puede cerrar bien la tapa para que no se derrame?",
+      "translations": {
+        "en": "Could you secure the lid so it doesn't spill?",
+        "pt": "Pode fechar bem a tampa para não derramar?",
+        "fr": "Pouvez-vous bien fermer le couvercle pour éviter que ça se renverse ?",
+        "it": "Può chiudere bene il coperchio perché non si rovesci?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr256",
+      "es": "Esta tapa no encaja en el vaso.",
+      "translations": {
+        "en": "This lid doesn't fit the cup.",
+        "pt": "Esta tampa não encaixa no copo.",
+        "fr": "Ce couvercle ne s'adapte pas au gobelet.",
+        "it": "Questo coperchio non si adatta al bicchiere."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr257",
+      "es": "¿Puede empacar el sándwich por separado del pan dulce?",
+      "translations": {
+        "en": "Could you pack the sandwich separately from the pastry?",
+        "pt": "Pode embalar o sanduíche separado do pão doce?",
+        "fr": "Pouvez-vous emballer le sandwich séparément de la viennoiserie ?",
+        "it": "Può confezionare il panino separatamente dal dolce da forno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr258",
+      "es": "Sin cubiertos ni popote, por favor.",
+      "translations": {
+        "en": "No utensils or straw, please.",
+        "pt": "Sem talheres nem canudo, por favor.",
+        "fr": "Sans couverts ni paille, s'il vous plaît.",
+        "it": "Senza posate né cannuccia, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr259",
+      "es": "¿Dónde están las servilletas y las salsas?",
+      "translations": {
+        "en": "Where are the napkins and sauces?",
+        "pt": "Onde ficam os guardanapos e os molhos?",
+        "fr": "Où se trouvent les serviettes et les sauces ?",
+        "it": "Dove sono i tovaglioli e le salse?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr260",
+      "es": "¿Puedo revisar la bolsa antes de irme?",
+      "translations": {
+        "en": "Can I check the bag before I leave?",
+        "pt": "Posso conferir a sacola antes de ir embora?",
+        "fr": "Puis-je vérifier le sac avant de partir ?",
+        "it": "Posso controllare il sacchetto prima di andare via?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr261",
+      "es": "¿Este vaso es el de leche de avena o el de leche normal?",
+      "translations": {
+        "en": "Is this the oat milk drink or the regular milk one?",
+        "pt": "Este copo é o da bebida de aveia ou o de leite normal?",
+        "fr": "Ce gobelet est-il celui avec la boisson à l'avoine ou celui avec le lait normal ?",
+        "it": "Questo bicchiere è quello con la bevanda d'avena o quello con il latte normale?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr262",
+      "es": "¿Puede marcar cada vaso con el tipo de leche?",
+      "translations": {
+        "en": "Could you label each cup with the type of milk?",
+        "pt": "Pode marcar em cada copo o tipo de leite?",
+        "fr": "Pouvez-vous indiquer le type de lait sur chaque gobelet ?",
+        "it": "Può indicare il tipo di latte su ogni bicchiere?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr263",
+      "es": "¿Dónde devuelvo la bandeja cuando termine?",
+      "translations": {
+        "en": "Where should I return the tray when I'm done?",
+        "pt": "Onde devolvo a bandeja quando terminar?",
+        "fr": "Où dois-je rapporter le plateau quand j'ai terminé ?",
+        "it": "Dove devo riportare il vassoio quando ho finito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr264",
+      "es": "Pedí la bebida con hielo, pero me la dieron caliente.",
+      "translations": {
+        "en": "I ordered the drink iced, but you gave it to me hot.",
+        "pt": "Pedi a bebida com gelo, mas me deram quente.",
+        "fr": "J'ai commandé la boisson avec des glaçons, mais vous me l'avez donnée chaude.",
+        "it": "Ho ordinato la bevanda con ghiaccio, ma me l'avete data calda."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr265",
+      "es": "Pedí un café descafeinado. ¿Puede confirmar que este lo es?",
+      "translations": {
+        "en": "I ordered a decaf coffee. Could you confirm this is decaf?",
+        "pt": "Pedi um café descafeinado. Pode confirmar que este é descafeinado?",
+        "fr": "J'ai commandé un café décaféiné. Pouvez-vous confirmer que celui-ci l'est ?",
+        "it": "Ho ordinato un caffè decaffeinato. Può confermare che questo lo sia?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr266",
+      "es": "Pedí bebida de avena, pero la etiqueta dice leche de vaca.",
+      "translations": {
+        "en": "I ordered oat milk, but the label says cow's milk.",
+        "pt": "Pedi bebida de aveia, mas a etiqueta diz leite de vaca.",
+        "fr": "J'ai demandé une boisson à l'avoine, mais l'étiquette indique du lait de vache.",
+        "it": "Ho chiesto una bevanda d'avena, ma l'etichetta indica latte vaccino."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr267",
+      "es": "Pedí un tamaño mediano, pero recibí uno chico.",
+      "translations": {
+        "en": "I ordered a medium, but I got a small.",
+        "pt": "Pedi um tamanho médio, mas recebi um pequeno.",
+        "fr": "J'ai commandé une taille moyenne, mais j'ai reçu une petite.",
+        "it": "Ho ordinato un formato medio, ma ne ho ricevuto uno piccolo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr268",
+      "es": "La bebida tiene jarabe aunque la pedí sin él.",
+      "translations": {
+        "en": "The drink has syrup even though I ordered it without syrup.",
+        "pt": "A bebida tem xarope, apesar de eu ter pedido sem.",
+        "fr": "La boisson contient du sirop alors que je l'avais demandée sans.",
+        "it": "La bevanda contiene sciroppo anche se l'avevo chiesta senza."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr269",
+      "es": "La base ya era dulce y no lo sabía. ¿Hay otra opción?",
+      "translations": {
+        "en": "I didn't know the base was already sweetened. Is there another option?",
+        "pt": "Eu não sabia que a base já era adoçada. Tem outra opção?",
+        "fr": "Je ne savais pas que la base était déjà sucrée. Y a-t-il une autre option ?",
+        "it": "Non sapevo che la base fosse già zuccherata. C'è un'altra opzione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr270",
+      "es": "Faltan las papas y la salsa de mi combo.",
+      "translations": {
+        "en": "The fries and sauce are missing from my meal.",
+        "pt": "Estão faltando as batatas fritas e o molho do meu combo.",
+        "fr": "Il manque les frites et la sauce de mon menu.",
+        "it": "Mancano le patatine e la salsa del mio menù."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr271",
+      "es": "La etiqueta del vaso tiene otro nombre.",
+      "translations": {
+        "en": "The cup label has a different name.",
+        "pt": "A etiqueta do copo está com outro nome.",
+        "fr": "L'étiquette du gobelet porte un autre nom.",
+        "it": "L'etichetta del bicchiere ha un altro nome."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr272",
+      "es": "Mi pedido figura como recogido, pero no lo he recibido.",
+      "translations": {
+        "en": "My order shows as picked up, but I haven't received it.",
+        "pt": "Meu pedido aparece como retirado, mas ainda não recebi.",
+        "fr": "Ma commande apparaît comme retirée, mais je ne l'ai pas reçue.",
+        "it": "Il mio ordine risulta ritirato, ma non l'ho ricevuto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr273",
+      "es": "La tapa se soltó y la bebida se derramó.",
+      "translations": {
+        "en": "The lid came off and the drink spilled.",
+        "pt": "A tampa soltou e a bebida derramou.",
+        "fr": "Le couvercle s'est détaché et la boisson s'est renversée.",
+        "it": "Il coperchio si è staccato e la bevanda si è rovesciata."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr274",
+      "es": "¿Puede volver a preparar la bebida con el tipo de leche que pedí?",
+      "translations": {
+        "en": "Could you remake the drink with the type of milk I ordered?",
+        "pt": "Pode preparar a bebida de novo com o tipo de leite que pedi?",
+        "fr": "Pouvez-vous refaire la boisson avec le type de lait que j'ai demandé ?",
+        "it": "Può preparare di nuovo la bevanda con il tipo di latte che ho chiesto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr275",
+      "es": "¿Todavía pueden cambiar el pedido antes de prepararlo?",
+      "translations": {
+        "en": "Can you still change the order before making it?",
+        "pt": "Ainda podem mudar o pedido antes de preparar?",
+        "fr": "Pouvez-vous encore modifier la commande avant de la préparer ?",
+        "it": "Potete ancora cambiare l'ordine prima di prepararlo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr276",
+      "es": "El descuento del cupón no aparece en el recibo.",
+      "translations": {
+        "en": "The coupon discount isn't on the receipt.",
+        "pt": "O desconto do cupom não aparece no comprovante.",
+        "fr": "La réduction du coupon ne figure pas sur le ticket.",
+        "it": "Lo sconto del buono non compare sullo scontrino."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr277",
+      "es": "¿Qué le preparo? / ¿Qué va a pedir?",
+      "translations": {
+        "en": "What can I get for you? / What can I get started for you?",
+        "pt": "O que vai querer? / O que posso preparar para você?",
+        "fr": "Qu'est-ce que je vous prépare ? / Qu'est-ce que vous souhaitez commander ?",
+        "it": "Che cosa le preparo? / Che cosa desidera ordinare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr278",
+      "es": "¿A qué nombre ponemos el pedido?",
+      "translations": {
+        "en": "What name should I put on the order? / Can I get a name for the order?",
+        "pt": "Qual é o nome para o pedido?",
+        "fr": "À quel nom dois-je mettre la commande ?",
+        "it": "A che nome metto l'ordine?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr279",
+      "es": "¿Qué tamaño quiere para la bebida?",
+      "translations": {
+        "en": "What size would you like for the drink?",
+        "pt": "Qual tamanho você quer para a bebida?",
+        "fr": "Quelle taille souhaitez-vous pour la boisson ?",
+        "it": "Quale formato desidera per la bevanda?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr280",
+      "es": "¿La quiere caliente o con hielo?",
+      "translations": {
+        "en": "Would you like it hot or iced?",
+        "pt": "Você quer quente ou com gelo?",
+        "fr": "Vous la voulez chaude ou avec des glaçons ?",
+        "it": "La vuole calda o con ghiaccio?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr281",
+      "es": "¿Qué tipo de leche prefiere?",
+      "translations": {
+        "en": "What kind of milk would you like?",
+        "pt": "Que tipo de leite você prefere?",
+        "fr": "Quel type de lait préférez-vous ?",
+        "it": "Che tipo di latte preferisce?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr282",
+      "es": "¿Qué sabor prefiere?",
+      "translations": {
+        "en": "What flavor would you like?",
+        "pt": "Qual sabor você prefere?",
+        "fr": "Quel parfum préférez-vous ?",
+        "it": "Che gusto preferisce?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr283",
+      "es": "¿Café regular o descafeinado?",
+      "translations": {
+        "en": "Regular or decaf?",
+        "pt": "Café normal ou descafeinado?",
+        "fr": "Café normal ou décaféiné ?",
+        "it": "Caffè normale o decaffeinato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr284",
+      "es": "¿Quiere una dosis adicional de espresso?",
+      "translations": {
+        "en": "Would you like an extra shot of espresso?",
+        "pt": "Quer uma dose extra de espresso?",
+        "fr": "Voulez-vous une dose d'expresso supplémentaire ?",
+        "it": "Vuole una dose extra di espresso?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr285",
+      "es": "¿Lo quiere endulzado o sin endulzar?",
+      "translations": {
+        "en": "Would you like it sweetened or unsweetened?",
+        "pt": "Você quer adoçado ou sem adoçar?",
+        "fr": "Vous le voulez sucré ou non sucré ?",
+        "it": "Lo vuole zuccherato o non zuccherato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr286",
+      "es": "¿Con crema batida o sin ella?",
+      "translations": {
+        "en": "With or without whipped cream?",
+        "pt": "Com ou sem chantilly?",
+        "fr": "Avec ou sans crème fouettée ?",
+        "it": "Con o senza panna montata?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr287",
+      "es": "¿Quiere que deje espacio para la leche?",
+      "translations": {
+        "en": "Would you like room for milk?",
+        "pt": "Quer que eu deixe espaço para o leite?",
+        "fr": "Voulez-vous que je laisse de la place pour le lait ?",
+        "it": "Vuole che lasci spazio per il latte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr288",
+      "es": "¿Quiere que calentemos el pan dulce?",
+      "translations": {
+        "en": "Would you like the pastry warmed up?",
+        "pt": "Quer que eu esquente o pão doce?",
+        "fr": "Voulez-vous que je réchauffe la viennoiserie ?",
+        "it": "Vuole che scaldi il dolce da forno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr289",
+      "es": "¿Quiere algo para comer con su café?",
+      "translations": {
+        "en": "Would you like something to eat with your coffee?",
+        "pt": "Quer algo para comer com o café?",
+        "fr": "Voulez-vous quelque chose à manger avec votre café ?",
+        "it": "Vuole qualcosa da mangiare con il caffè?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr290",
+      "es": "¿Algo más? / ¿Eso sería todo?",
+      "translations": {
+        "en": "Anything else? / Will that be all?",
+        "pt": "Mais alguma coisa? / É só isso?",
+        "fr": "Autre chose ? / Ce sera tout ?",
+        "it": "Altro? / È tutto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr291",
+      "es": "¿Qué bebida quiere con el combo?",
+      "translations": {
+        "en": "What drink would you like with the meal?",
+        "pt": "Qual bebida você quer no combo?",
+        "fr": "Quelle boisson souhaitez-vous avec le menu ?",
+        "it": "Quale bevanda desidera con il menù?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr292",
+      "es": "¿Quiere aumentar el tamaño de las papas y la bebida?",
+      "translations": {
+        "en": "Would you like to upsize the fries and drink?",
+        "pt": "Quer aumentar o tamanho da porção de batatas fritas e da bebida?",
+        "fr": "Voulez-vous passer à une plus grande portion de frites et une plus grande boisson ?",
+        "it": "Vuole una porzione più grande di patatine e una bevanda più grande?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr293",
+      "es": "¿Quiere ketchup, mostaza o alguna otra salsa?",
+      "translations": {
+        "en": "Would you like ketchup, mustard, or another sauce?",
+        "pt": "Quer ketchup, mostarda ou outro molho?",
+        "fr": "Voulez-vous du ketchup, de la moutarde ou une autre sauce ?",
+        "it": "Vuole ketchup, senape o un'altra salsa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr294",
+      "es": "Esa bebida solo está disponible fría.",
+      "translations": {
+        "en": "That drink is only available cold.",
+        "pt": "Essa bebida só está disponível gelada.",
+        "fr": "Cette boisson n'est disponible que froide.",
+        "it": "Quella bevanda è disponibile solo fredda."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr295",
+      "es": "Ese tamaño no está disponible para esta bebida.",
+      "translations": {
+        "en": "That size isn't available for this drink.",
+        "pt": "Esse tamanho não está disponível para esta bebida.",
+        "fr": "Cette taille n'est pas disponible pour cette boisson.",
+        "it": "Quel formato non è disponibile per questa bevanda."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr296",
+      "es": "Se nos terminó la bebida de avena; tenemos soya o almendra.",
+      "translations": {
+        "en": "We're out of oat milk; we have soy or almond milk.",
+        "pt": "Acabou a bebida de aveia; temos soja ou amêndoa.",
+        "fr": "Nous n'avons plus de boisson à l'avoine ; nous avons du soja ou de l'amande.",
+        "it": "Abbiamo finito la bevanda d'avena; abbiamo quella di soia o di mandorla."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr297",
+      "es": "La base de esta bebida ya contiene azúcar.",
+      "translations": {
+        "en": "The base of this drink already contains sugar.",
+        "pt": "A base desta bebida já contém açúcar.",
+        "fr": "La base de cette boisson contient déjà du sucre.",
+        "it": "La base di questa bevanda contiene già zucchero."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr298",
+      "es": "Podemos omitir el jarabe, pero la base seguirá siendo dulce.",
+      "translations": {
+        "en": "We can leave out the syrup, but the base will still be sweet.",
+        "pt": "Podemos tirar o xarope da receita, mas a base continuará doce.",
+        "fr": "Nous pouvons ne pas ajouter le sirop, mais la base restera sucrée.",
+        "it": "Possiamo non aggiungere lo sciroppo, ma la base resterà dolce."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr299",
+      "es": "El jarabe sin azúcar contiene edulcorante.",
+      "translations": {
+        "en": "The sugar-free syrup contains a sweetener.",
+        "pt": "O xarope sem açúcar contém adoçante.",
+        "fr": "Le sirop sans sucre contient un édulcorant.",
+        "it": "Lo sciroppo senza zucchero contiene un dolcificante."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr300",
+      "es": "Usamos equipo compartido para preparar las bebidas.",
+      "translations": {
+        "en": "We use shared equipment to make the drinks.",
+        "pt": "Usamos equipamentos compartilhados para preparar as bebidas.",
+        "fr": "Nous utilisons du matériel partagé pour préparer les boissons.",
+        "it": "Usiamo attrezzature condivise per preparare le bevande."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr301",
+      "es": "No podemos garantizar que esta bebida esté libre de alérgenos.",
+      "translations": {
+        "en": "We can't guarantee that this drink is free of allergens.",
+        "pt": "Não podemos garantir que esta bebida esteja livre de alérgenos.",
+        "fr": "Nous ne pouvons pas garantir que cette boisson soit sans allergènes.",
+        "it": "Non possiamo garantire che questa bevanda sia priva di allergeni."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr302",
+      "es": "Ese cambio cuesta [monto] extra.",
+      "translations": {
+        "en": "That change costs an extra [amount].",
+        "pt": "Essa alteração custa [valor] a mais.",
+        "fr": "Ce changement coûte [montant] de plus.",
+        "it": "Quella modifica costa [importo] in più."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr303",
+      "es": "El cupón ya se aplicó al total.",
+      "translations": {
+        "en": "The coupon has already been applied to the total.",
+        "pt": "O cupom já foi aplicado ao total.",
+        "fr": "Le coupon a déjà été appliqué au total.",
+        "it": "Il buono è già stato applicato al totale."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr304",
+      "es": "Ese cupón no es válido en esta sucursal.",
+      "translations": {
+        "en": "That coupon isn't valid at this location.",
+        "pt": "Esse cupom não é válido nesta unidade.",
+        "fr": "Ce coupon n'est pas valable dans cet établissement.",
+        "it": "Quel buono non è valido in questo punto vendita."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr305",
+      "es": "Tiene que escanear el código antes de pagar.",
+      "translations": {
+        "en": "You need to scan the code before paying.",
+        "pt": "Precisa escanear o código antes de pagar.",
+        "fr": "Il faut scanner le code avant de payer.",
+        "it": "Deve scansionare il codice prima di pagare."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr306",
+      "es": "El total es [monto]; puede pagar aquí.",
+      "translations": {
+        "en": "Your total is [amount]; you can pay here.",
+        "pt": "O total é [valor]; pode pagar aqui.",
+        "fr": "Le total est de [montant] ; vous pouvez payer ici.",
+        "it": "Il totale è di [importo]; può pagare qui."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr307",
+      "es": "¿Quiere un recibo?",
+      "translations": {
+        "en": "Would you like a receipt?",
+        "pt": "Quer a nota fiscal? / Quer o comprovante?",
+        "fr": "Vous voulez le ticket de caisse ?",
+        "it": "Vuole lo scontrino?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr308",
+      "es": "¿Quiere incluir su CPF en el recibo? (Brasil: identificación fiscal personal)",
+      "translations": {
+        "en": "Would you like your CPF on the receipt?",
+        "pt": "CPF na nota? / Quer colocar o CPF na nota?",
+        "fr": "Souhaitez-vous faire figurer votre CPF sur le reçu ?",
+        "it": "Vuole il suo CPF sullo scontrino?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr309",
+      "es": "Este recibo tiene su número de pedido; consérvelo.",
+      "translations": {
+        "en": "Your order number is on this receipt; please keep it.",
+        "pt": "O número do seu pedido está neste comprovante; guarde-o.",
+        "fr": "Votre numéro de commande figure sur ce ticket ; conservez-le.",
+        "it": "Il numero dell'ordine è su questo scontrino; lo conservi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr310",
+      "es": "Retire la bebida en el otro extremo del mostrador.",
+      "translations": {
+        "en": "Pick up your drink at the other end of the counter.",
+        "pt": "Retire a bebida na outra ponta do balcão.",
+        "fr": "Retirez votre boisson à l'autre bout du comptoir.",
+        "it": "Ritiri la bevanda all'altra estremità del banco."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr311",
+      "es": "Le llamaremos por su nombre cuando esté lista.",
+      "translations": {
+        "en": "We'll call your name when it's ready.",
+        "pt": "Vamos chamar seu nome quando estiver pronta.",
+        "fr": "Nous appellerons votre nom quand elle sera prête.",
+        "it": "La chiameremo per nome quando sarà pronta."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr312",
+      "es": "Esté pendiente de su número en la pantalla.",
+      "translations": {
+        "en": "Watch for your number on the screen.",
+        "pt": "Fique de olho no seu número na tela.",
+        "fr": "Surveillez votre numéro sur l'écran.",
+        "it": "Controlli il suo numero sullo schermo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr313",
+      "es": "Su café está listo; la comida tardará unos minutos más.",
+      "translations": {
+        "en": "Your coffee is ready; the food will take a few more minutes.",
+        "pt": "Seu café está pronto; a comida vai demorar mais alguns minutos.",
+        "fr": "Votre café est prêt ; le repas prendra encore quelques minutes.",
+        "it": "Il suo caffè è pronto; il cibo richiederà ancora qualche minuto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr314",
+      "es": "Lleve este número a su mesa; le llevaremos el pedido.",
+      "translations": {
+        "en": "Take this number to your table; we'll bring your order to you.",
+        "pt": "Leve este número para a sua mesa; vamos levar o pedido até você.",
+        "fr": "Emportez ce numéro à votre table ; nous vous apporterons votre commande.",
+        "it": "Porti questo numero al tavolo; le porteremo l'ordine."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr315",
+      "es": "Cuando vibre el avisador, venga al mostrador y entréguelo.",
+      "translations": {
+        "en": "When the pager buzzes, come to the counter and return it.",
+        "pt": "Quando o aparelho vibrar, venha ao balcão e devolva-o.",
+        "fr": "Quand le bipeur vibre, venez au comptoir et rendez-le.",
+        "it": "Quando il cercapersone vibra, venga al banco e lo restituisca."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr316",
+      "es": "Puede llenar su vaso en la máquina de bebidas.",
+      "translations": {
+        "en": "You can fill your cup at the soda fountain.",
+        "pt": "Pode encher seu copo na máquina de refrigerante.",
+        "fr": "Vous pouvez remplir votre gobelet à la fontaine à boissons.",
+        "it": "Può riempire il bicchiere al distributore di bibite."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr317",
+      "es": "¿Puede mostrarme la confirmación del pedido en la aplicación?",
+      "translations": {
+        "en": "Could you show me your order confirmation in the app?",
+        "pt": "Pode me mostrar a confirmação do pedido no aplicativo?",
+        "fr": "Pouvez-vous me montrer la confirmation de commande dans l'application ?",
+        "it": "Può mostrarmi la conferma dell'ordine nell'app?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr318",
+      "es": "Todavía no nos ha llegado su pedido de la aplicación.",
+      "translations": {
+        "en": "We haven't received your app order yet.",
+        "pt": "Ainda não recebemos seu pedido do aplicativo.",
+        "fr": "Nous n'avons pas encore reçu votre commande de l'application.",
+        "it": "Non abbiamo ancora ricevuto il suo ordine dall'app."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr319",
+      "es": "Ese pedido corresponde a otra sucursal.",
+      "translations": {
+        "en": "That order is for another location.",
+        "pt": "Esse pedido é de outra unidade.",
+        "fr": "Cette commande concerne un autre établissement.",
+        "it": "Quell'ordine è per un altro punto vendita."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr320",
+      "es": "Pase a la primera ventanilla para pagar y a la segunda para recoger.",
+      "translations": {
+        "en": "Pull up to the first window to pay and the second to pick up.",
+        "pt": "Vá até o primeiro guichê para pagar e ao segundo para retirar.",
+        "fr": "Avancez jusqu'au premier guichet pour payer, puis au second pour retirer votre commande.",
+        "it": "Avanzi fino al primo sportello per pagare e al secondo per ritirare l'ordine."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr321",
+      "es": "Estaciónese en el espacio [número]; le llevaremos el pedido.",
+      "translations": {
+        "en": "Please park in spot [number]; we'll bring your order out.",
+        "pt": "Estacione na vaga [número]; vamos levar seu pedido.",
+        "fr": "Garez-vous à la place [nombre] ; nous vous apporterons votre commande.",
+        "it": "Parcheggi al posto [numero]; le porteremo l'ordine."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr322",
+      "es": "La bebida con la marca es la de avena.",
+      "translations": {
+        "en": "The marked drink is the oat milk one.",
+        "pt": "A bebida marcada é a de aveia.",
+        "fr": "La boisson marquée est celle à l'avoine.",
+        "it": "La bevanda contrassegnata è quella con la bevanda d'avena."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr323",
+      "es": "Vamos a preparar otra bebida con la leche que pidió.",
+      "translations": {
+        "en": "We'll remake the drink with the milk you ordered.",
+        "pt": "Vamos preparar outra bebida com o leite que você pediu.",
+        "fr": "Nous allons refaire la boisson avec le lait que vous avez demandé.",
+        "it": "Prepareremo di nuovo la bevanda con il latte che ha chiesto."
+      },
+      "image_url": ""
+    }
+  ]
+}

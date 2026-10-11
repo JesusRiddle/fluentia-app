@@ -1,0 +1,4120 @@
+{
+  "module": "Hoteles y alojamiento",
+  "level": "A2",
+  "cards": [
+    {
+      "id": "ha1",
+      "es": "Hotel",
+      "translations": {
+        "en": "Hotel",
+        "pt": "Hotel",
+        "fr": "Hôtel",
+        "it": "Hotel / Albergo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha2",
+      "es": "Motel (Estados Unidos: alojamiento para viajeros en automóvil)",
+      "translations": {
+        "en": "Motel",
+        "pt": "Motel nos Estados Unidos (hospedagem para viajantes de carro)",
+        "fr": "Motel aux États-Unis (hébergement pour les automobilistes)",
+        "it": "Motel negli Stati Uniti (alloggio per chi viaggia in auto)"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha3",
+      "es": "Albergue turístico / Hostel",
+      "translations": {
+        "en": "Hostel",
+        "pt": "Hostel / Albergue",
+        "fr": "Auberge de jeunesse",
+        "it": "Ostello"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha4",
+      "es": "Casa de huéspedes",
+      "translations": {
+        "en": "Guesthouse",
+        "pt": "Casa de hóspedes",
+        "fr": "Maison d'hôtes",
+        "it": "Affittacamere / Guest house"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha5",
+      "es": "Alojamiento con desayuno (B&B)",
+      "translations": {
+        "en": "Bed and breakfast / B&B",
+        "pt": "Bed and breakfast / B&B",
+        "fr": "Chambre d'hôtes / B&B",
+        "it": "Bed and breakfast / B&B"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha6",
+      "es": "Pousada (tipo de alojamiento en Brasil)",
+      "translations": {
+        "en": "Pousada / Brazilian inn",
+        "pt": "Pousada",
+        "fr": "Pousada / Auberge brésilienne",
+        "it": "Pousada / Locanda brasiliana"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha7",
+      "es": "Apartahotel",
+      "translations": {
+        "en": "Aparthotel / Apartment hotel",
+        "pt": "Apart-hotel",
+        "fr": "Appart'hôtel",
+        "it": "Aparthotel / Residence alberghiero"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha8",
+      "es": "Departamento vacacional",
+      "translations": {
+        "en": "Vacation rental apartment",
+        "pt": "Apartamento para temporada",
+        "fr": "Appartement de vacances",
+        "it": "Appartamento per le vacanze"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha9",
+      "es": "Complejo turístico / Resort",
+      "translations": {
+        "en": "Resort",
+        "pt": "Resort",
+        "fr": "Complexe hôtelier / Resort",
+        "it": "Resort / Villaggio turistico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha10",
+      "es": "Recepción (mostrador del hotel)",
+      "translations": {
+        "en": "Front desk / Reception desk",
+        "pt": "Recepção",
+        "fr": "Réception",
+        "it": "Reception"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha11",
+      "es": "Recepcionista",
+      "translations": {
+        "en": "Front desk agent / Receptionist",
+        "pt": "Recepcionista",
+        "fr": "Réceptionniste",
+        "it": "Addetto/Addetta alla reception"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha12",
+      "es": "Huésped (persona alojada)",
+      "translations": {
+        "en": "Guest",
+        "pt": "Hóspede",
+        "fr": "Client/Cliente de l'hôtel",
+        "it": "Ospite"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha13",
+      "es": "Anfitrión/Anfitriona (de un alojamiento)",
+      "translations": {
+        "en": "Host",
+        "pt": "Anfitrião/Anfitriã",
+        "fr": "Hôte/Hôtesse",
+        "it": "Host / Padrone/Padrona di casa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha14",
+      "es": "Gerente del hotel",
+      "translations": {
+        "en": "Hotel manager",
+        "pt": "Gerente do hotel",
+        "fr": "Directeur/Directrice de l'hôtel",
+        "it": "Direttore/Direttrice dell'hotel"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha15",
+      "es": "Botones (persona que ayuda con el equipaje)",
+      "translations": {
+        "en": "Bellhop / Bell attendant",
+        "pt": "Mensageiro / Carregador de bagagens",
+        "fr": "Bagagiste",
+        "it": "Facchino / Addetto ai bagagli"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha16",
+      "es": "Conserjería del hotel (reservas y recomendaciones)",
+      "translations": {
+        "en": "Concierge service",
+        "pt": "Serviço de concierge",
+        "fr": "Conciergerie",
+        "it": "Servizio di concierge"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha17",
+      "es": "Servicio de limpieza de habitaciones",
+      "translations": {
+        "en": "Housekeeping",
+        "pt": "Serviço de limpeza dos quartos / Arrumação dos quartos",
+        "fr": "Service de ménage",
+        "it": "Servizio di pulizia delle camere"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha18",
+      "es": "Camarista (persona que limpia las habitaciones)",
+      "translations": {
+        "en": "Room attendant / Housekeeper",
+        "pt": "Camareiro/Camareira",
+        "fr": "Valet de chambre / Femme de chambre",
+        "it": "Cameriere/Cameriera ai piani"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha19",
+      "es": "Servicio de comida a la habitación",
+      "translations": {
+        "en": "Room service",
+        "pt": "Serviço de quarto / Room service",
+        "fr": "Service en chambre / Room service",
+        "it": "Servizio in camera / Room service"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha20",
+      "es": "Mantenimiento",
+      "translations": {
+        "en": "Maintenance",
+        "pt": "Manutenção",
+        "fr": "Maintenance / Service technique",
+        "it": "Manutenzione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha21",
+      "es": "Vestíbulo / Lobby",
+      "translations": {
+        "en": "Lobby",
+        "pt": "Saguão / Lobby",
+        "fr": "Hall d'entrée / Lobby",
+        "it": "Hall / Atrio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha22",
+      "es": "Pasillo",
+      "translations": {
+        "en": "Hallway / Corridor",
+        "pt": "Corredor",
+        "fr": "Couloir",
+        "it": "Corridoio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha23",
+      "es": "Elevador / Ascensor",
+      "translations": {
+        "en": "Elevator",
+        "pt": "Elevador",
+        "fr": "Ascenseur",
+        "it": "Ascensore"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha24",
+      "es": "Escaleras",
+      "translations": {
+        "en": "Stairs",
+        "pt": "Escadas",
+        "fr": "Escaliers",
+        "it": "Scale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha25",
+      "es": "Planta baja",
+      "translations": {
+        "en": "Ground floor / First floor (US)",
+        "pt": "Térreo / Andar térreo",
+        "fr": "Rez-de-chaussée",
+        "it": "Piano terra"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha26",
+      "es": "Piso inmediatamente encima de la planta baja",
+      "translations": {
+        "en": "Second floor (US)",
+        "pt": "Primeiro andar",
+        "fr": "Premier étage",
+        "it": "Primo piano"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha27",
+      "es": "Consigna / Lugar para guardar el equipaje",
+      "translations": {
+        "en": "Luggage storage / Baggage storage",
+        "pt": "Guarda-volumes / Depósito de bagagens",
+        "fr": "Consigne à bagages / Bagagerie",
+        "it": "Deposito bagagli"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha28",
+      "es": "Objetos perdidos (servicio)",
+      "translations": {
+        "en": "Lost and found",
+        "pt": "Achados e perdidos",
+        "fr": "Service des objets trouvés",
+        "it": "Ufficio oggetti smarriti"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha29",
+      "es": "Habitación individual",
+      "translations": {
+        "en": "Single room",
+        "pt": "Quarto individual",
+        "fr": "Chambre individuelle / Chambre simple",
+        "it": "Camera singola"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha30",
+      "es": "Habitación con una cama doble",
+      "translations": {
+        "en": "Room with one double bed",
+        "pt": "Quarto com cama de casal",
+        "fr": "Chambre avec un lit double / Chambre double",
+        "it": "Camera matrimoniale / Camera con un letto matrimoniale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha31",
+      "es": "Habitación con dos camas separadas",
+      "translations": {
+        "en": "Room with two separate beds",
+        "pt": "Quarto com duas camas separadas",
+        "fr": "Chambre à lits jumeaux / Chambre avec deux lits séparés",
+        "it": "Camera doppia con letti separati"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha32",
+      "es": "Habitación familiar",
+      "translations": {
+        "en": "Family room",
+        "pt": "Quarto família / Quarto familiar",
+        "fr": "Chambre familiale",
+        "it": "Camera familiare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha33",
+      "es": "Suite",
+      "translations": {
+        "en": "Suite",
+        "pt": "Suíte",
+        "fr": "Suite",
+        "it": "Suite"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha34",
+      "es": "Habitaciones comunicadas (con puerta interior entre ellas)",
+      "translations": {
+        "en": "Connecting rooms",
+        "pt": "Quartos conjugados / Quartos comunicantes",
+        "fr": "Chambres communicantes",
+        "it": "Camere comunicanti"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha35",
+      "es": "Habitaciones contiguas (una junto a la otra)",
+      "translations": {
+        "en": "Adjacent rooms / Rooms next to each other",
+        "pt": "Quartos lado a lado / Quartos adjacentes",
+        "fr": "Chambres voisines / Chambres côte à côte",
+        "it": "Camere adiacenti"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha36",
+      "es": "Habitación adaptada para personas con movilidad reducida",
+      "translations": {
+        "en": "Mobility-accessible room",
+        "pt": "Quarto adaptado para pessoas com mobilidade reduzida",
+        "fr": "Chambre adaptée aux personnes à mobilité réduite",
+        "it": "Camera accessibile a persone con mobilità ridotta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha37",
+      "es": "Habitación para no fumadores",
+      "translations": {
+        "en": "Non-smoking room",
+        "pt": "Quarto para não fumantes",
+        "fr": "Chambre non-fumeur",
+        "it": "Camera non fumatori"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha38",
+      "es": "Habitación con balcón",
+      "translations": {
+        "en": "Room with a balcony",
+        "pt": "Quarto com varanda",
+        "fr": "Chambre avec balcon",
+        "it": "Camera con balcone"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha39",
+      "es": "Habitación con vista al mar",
+      "translations": {
+        "en": "Ocean-view room / Sea-view room",
+        "pt": "Quarto com vista para o mar",
+        "fr": "Chambre avec vue sur la mer",
+        "it": "Camera con vista mare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha40",
+      "es": "Habitación privada (en un hostel)",
+      "translations": {
+        "en": "Private room",
+        "pt": "Quarto privativo",
+        "fr": "Chambre privée",
+        "it": "Camera privata"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha41",
+      "es": "Dormitorio compartido (en un hostel)",
+      "translations": {
+        "en": "Shared dorm / Dormitory",
+        "pt": "Dormitório compartilhado",
+        "fr": "Dortoir partagé",
+        "it": "Dormitorio condiviso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha42",
+      "es": "Dormitorio mixto / Dormitorio solo para mujeres",
+      "translations": {
+        "en": "Mixed dorm / Female-only dorm",
+        "pt": "Dormitório misto / Dormitório feminino",
+        "fr": "Dortoir mixte / Dortoir réservé aux femmes",
+        "it": "Dormitorio misto / Dormitorio femminile"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha43",
+      "es": "Cama individual",
+      "translations": {
+        "en": "Single bed / Twin bed",
+        "pt": "Cama de solteiro",
+        "fr": "Lit simple / Lit une place",
+        "it": "Letto singolo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha44",
+      "es": "Cama doble / Cama matrimonial",
+      "translations": {
+        "en": "Double bed",
+        "pt": "Cama de casal",
+        "fr": "Lit double / Lit deux places",
+        "it": "Letto matrimoniale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha45",
+      "es": "Cama queen / Cama king (nombres comerciales de tamaño)",
+      "translations": {
+        "en": "Queen bed / King bed",
+        "pt": "Cama queen / Cama king",
+        "fr": "Lit queen size / Lit king size",
+        "it": "Letto queen size / Letto king size"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha46",
+      "es": "Litera",
+      "translations": {
+        "en": "Bunk bed",
+        "pt": "Beliche",
+        "fr": "Lit superposé",
+        "it": "Letto a castello"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha47",
+      "es": "Cama de arriba / Cama de abajo (de una litera)",
+      "translations": {
+        "en": "Top bunk / Bottom bunk",
+        "pt": "Cama de cima / Cama de baixo do beliche",
+        "fr": "Lit du haut / Lit du bas d'un lit superposé",
+        "it": "Letto superiore / Letto inferiore di un letto a castello"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha48",
+      "es": "Sofá cama",
+      "translations": {
+        "en": "Sofa bed / Sleeper sofa",
+        "pt": "Sofá-cama",
+        "fr": "Canapé-lit",
+        "it": "Divano letto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha49",
+      "es": "Cama adicional",
+      "translations": {
+        "en": "Extra bed / Rollaway bed",
+        "pt": "Cama extra",
+        "fr": "Lit d'appoint / Lit supplémentaire",
+        "it": "Letto aggiuntivo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha50",
+      "es": "Cuna",
+      "translations": {
+        "en": "Crib / Baby crib",
+        "pt": "Berço",
+        "fr": "Lit bébé",
+        "it": "Culla / Lettino per bambini"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha51",
+      "es": "Baño privado (de uso exclusivo)",
+      "translations": {
+        "en": "Private bathroom",
+        "pt": "Banheiro privativo",
+        "fr": "Salle de bains privative",
+        "it": "Bagno privato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha52",
+      "es": "Baño dentro de la habitación",
+      "translations": {
+        "en": "En-suite bathroom / Bathroom inside the room",
+        "pt": "Banheiro dentro do quarto",
+        "fr": "Salle de bains dans la chambre",
+        "it": "Bagno in camera"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha53",
+      "es": "Baño compartido",
+      "translations": {
+        "en": "Shared bathroom",
+        "pt": "Banheiro compartilhado",
+        "fr": "Salle de bains commune / Salle de bains partagée",
+        "it": "Bagno in comune"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha54",
+      "es": "Tarjeta llave / Tarjeta de acceso a la habitación",
+      "translations": {
+        "en": "Key card / Room key card",
+        "pt": "Cartão-chave / Cartão de acesso ao quarto",
+        "fr": "Carte-clé / Carte d'accès à la chambre",
+        "it": "Tessera della camera / Chiave elettronica"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha55",
+      "es": "Código de acceso",
+      "translations": {
+        "en": "Access code / Entry code",
+        "pt": "Código de acesso",
+        "fr": "Code d'accès",
+        "it": "Codice di accesso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha56",
+      "es": "Clóset / Armario",
+      "translations": {
+        "en": "Closet / Wardrobe",
+        "pt": "Guarda-roupa / Armário",
+        "fr": "Placard / Armoire",
+        "it": "Armadio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha57",
+      "es": "Buró / Mesa de noche",
+      "translations": {
+        "en": "Nightstand / Bedside table",
+        "pt": "Mesa de cabeceira",
+        "fr": "Table de chevet",
+        "it": "Comodino"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha58",
+      "es": "Escritorio",
+      "translations": {
+        "en": "Desk",
+        "pt": "Escrivaninha",
+        "fr": "Bureau",
+        "it": "Scrivania"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha59",
+      "es": "Espejo",
+      "translations": {
+        "en": "Mirror",
+        "pt": "Espelho",
+        "fr": "Miroir",
+        "it": "Specchio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha60",
+      "es": "Soporte para maletas",
+      "translations": {
+        "en": "Luggage rack",
+        "pt": "Suporte para malas",
+        "fr": "Porte-bagages",
+        "it": "Portavaligie"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha61",
+      "es": "Colchón",
+      "translations": {
+        "en": "Mattress",
+        "pt": "Colchão",
+        "fr": "Matelas",
+        "it": "Materasso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha62",
+      "es": "Almohada",
+      "translations": {
+        "en": "Pillow",
+        "pt": "Travesseiro",
+        "fr": "Oreiller",
+        "it": "Cuscino"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha63",
+      "es": "Funda de almohada",
+      "translations": {
+        "en": "Pillowcase",
+        "pt": "Fronha",
+        "fr": "Taie d'oreiller",
+        "it": "Federa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha64",
+      "es": "Sábanas",
+      "translations": {
+        "en": "Bedsheets / Sheets",
+        "pt": "Lençóis",
+        "fr": "Draps",
+        "it": "Lenzuola"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha65",
+      "es": "Cobija / Manta",
+      "translations": {
+        "en": "Blanket",
+        "pt": "Cobertor / Manta",
+        "fr": "Couverture",
+        "it": "Coperta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha66",
+      "es": "Edredón",
+      "translations": {
+        "en": "Duvet / Comforter",
+        "pt": "Edredom",
+        "fr": "Couette",
+        "it": "Piumone"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha67",
+      "es": "Toalla de baño / Toalla de manos",
+      "translations": {
+        "en": "Bath towel / Hand towel",
+        "pt": "Toalha de banho / Toalha de rosto",
+        "fr": "Serviette de bain / Serviette pour les mains",
+        "it": "Asciugamano da bagno / Asciugamano per le mani"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha68",
+      "es": "Bata de baño",
+      "translations": {
+        "en": "Bathrobe",
+        "pt": "Roupão",
+        "fr": "Peignoir",
+        "it": "Accappatoio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha69",
+      "es": "Pantuflas",
+      "translations": {
+        "en": "Slippers",
+        "pt": "Pantufas / Chinelos de quarto",
+        "fr": "Chaussons",
+        "it": "Pantofole"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha70",
+      "es": "Secadora de cabello",
+      "translations": {
+        "en": "Hair dryer",
+        "pt": "Secador de cabelo",
+        "fr": "Sèche-cheveux",
+        "it": "Asciugacapelli / Fon"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha71",
+      "es": "Regadera / Ducha",
+      "translations": {
+        "en": "Shower",
+        "pt": "Chuveiro / Ducha",
+        "fr": "Douche",
+        "it": "Doccia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha72",
+      "es": "Tina / Bañera",
+      "translations": {
+        "en": "Bathtub / Tub",
+        "pt": "Banheira",
+        "fr": "Baignoire",
+        "it": "Vasca da bagno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha73",
+      "es": "Tapete de baño",
+      "translations": {
+        "en": "Bath mat",
+        "pt": "Tapete de banheiro",
+        "fr": "Tapis de bain",
+        "it": "Tappetino da bagno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha74",
+      "es": "Artículos de aseo (jabón, champú, etc.)",
+      "translations": {
+        "en": "Toiletries",
+        "pt": "Produtos de higiene pessoal",
+        "fr": "Produits de toilette",
+        "it": "Prodotti da bagno / Articoli da toilette"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha75",
+      "es": "Caja fuerte",
+      "translations": {
+        "en": "Safe / In-room safe",
+        "pt": "Cofre",
+        "fr": "Coffre-fort",
+        "it": "Cassaforte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha76",
+      "es": "Minibar (bebidas y productos de la habitación)",
+      "translations": {
+        "en": "Minibar",
+        "pt": "Frigobar / Minibar",
+        "fr": "Minibar",
+        "it": "Minibar"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha77",
+      "es": "Refrigerador",
+      "translations": {
+        "en": "Refrigerator / Fridge",
+        "pt": "Geladeira",
+        "fr": "Réfrigérateur / Frigo",
+        "it": "Frigorifero / Frigo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha78",
+      "es": "Hervidor eléctrico",
+      "translations": {
+        "en": "Electric kettle",
+        "pt": "Chaleira elétrica",
+        "fr": "Bouilloire électrique",
+        "it": "Bollitore elettrico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha79",
+      "es": "Cafetera",
+      "translations": {
+        "en": "Coffee maker / Coffee machine",
+        "pt": "Cafeteira",
+        "fr": "Cafetière / Machine à café",
+        "it": "Macchina per il caffè"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha80",
+      "es": "Enchufe / Toma de corriente",
+      "translations": {
+        "en": "Electrical outlet / Power outlet",
+        "pt": "Tomada",
+        "fr": "Prise électrique",
+        "it": "Presa di corrente"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha81",
+      "es": "Adaptador de enchufe",
+      "translations": {
+        "en": "Plug adapter",
+        "pt": "Adaptador de tomada",
+        "fr": "Adaptateur de prise",
+        "it": "Adattatore per la presa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha82",
+      "es": "Aire acondicionado",
+      "translations": {
+        "en": "Air conditioning / AC",
+        "pt": "Ar-condicionado",
+        "fr": "Climatisation",
+        "it": "Aria condizionata"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha83",
+      "es": "Calefacción",
+      "translations": {
+        "en": "Heating",
+        "pt": "Aquecimento",
+        "fr": "Chauffage",
+        "it": "Riscaldamento"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha84",
+      "es": "Termostato",
+      "translations": {
+        "en": "Thermostat",
+        "pt": "Termostato",
+        "fr": "Thermostat",
+        "it": "Termostato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha85",
+      "es": "Control remoto",
+      "translations": {
+        "en": "Remote control",
+        "pt": "Controle remoto",
+        "fr": "Télécommande",
+        "it": "Telecomando"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha86",
+      "es": "Cortinas que bloquean la luz",
+      "translations": {
+        "en": "Blackout curtains",
+        "pt": "Cortinas blackout",
+        "fr": "Rideaux occultants",
+        "it": "Tende oscuranti"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha87",
+      "es": "Letrero de «No molestar»",
+      "translations": {
+        "en": "Do not disturb sign",
+        "pt": "Placa de «Não perturbe»",
+        "fr": "Pancarte «Ne pas déranger»",
+        "it": "Cartello «Non disturbare»"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha88",
+      "es": "Plancha / Tabla de planchar",
+      "translations": {
+        "en": "Iron / Ironing board",
+        "pt": "Ferro de passar / Tábua de passar",
+        "fr": "Fer à repasser / Table à repasser",
+        "it": "Ferro da stiro / Asse da stiro"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha89",
+      "es": "Reservación / Reserva",
+      "translations": {
+        "en": "Reservation / Booking",
+        "pt": "Reserva",
+        "fr": "Réservation",
+        "it": "Prenotazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha90",
+      "es": "Número de confirmación",
+      "translations": {
+        "en": "Confirmation number / Booking reference",
+        "pt": "Número de confirmação / Código da reserva",
+        "fr": "Numéro de confirmation / Référence de réservation",
+        "it": "Numero di conferma / Codice di prenotazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha91",
+      "es": "Fecha de llegada / Fecha de salida",
+      "translations": {
+        "en": "Arrival date / Departure date",
+        "pt": "Data de chegada / Data de saída",
+        "fr": "Date d'arrivée / Date de départ",
+        "it": "Data di arrivo / Data di partenza"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha92",
+      "es": "Registro de entrada / Check-in",
+      "translations": {
+        "en": "Check-in",
+        "pt": "Check-in / Registro de entrada",
+        "fr": "Enregistrement / Check-in",
+        "it": "Check-in"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha93",
+      "es": "Registro de salida / Check-out",
+      "translations": {
+        "en": "Check-out",
+        "pt": "Check-out / Registro de saída",
+        "fr": "Départ / Check-out",
+        "it": "Check-out"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha94",
+      "es": "Disponibilidad",
+      "translations": {
+        "en": "Availability",
+        "pt": "Disponibilidade",
+        "fr": "Disponibilité",
+        "it": "Disponibilità"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha95",
+      "es": "Sin habitaciones disponibles / Completo",
+      "translations": {
+        "en": "Fully booked / No rooms available",
+        "pt": "Lotado / Sem quartos disponíveis",
+        "fr": "Complet / Aucune chambre disponible",
+        "it": "Al completo / Nessuna camera disponibile"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha96",
+      "es": "Tarifa por noche",
+      "translations": {
+        "en": "Nightly rate / Room rate per night",
+        "pt": "Diária / Tarifa por noite",
+        "fr": "Tarif par nuit",
+        "it": "Tariffa per notte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha97",
+      "es": "Solo alojamiento (sin comidas)",
+      "translations": {
+        "en": "Room only",
+        "pt": "Somente hospedagem / Sem refeições",
+        "fr": "Hébergement seul / Sans repas",
+        "it": "Solo pernottamento"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha98",
+      "es": "Alojamiento con desayuno incluido",
+      "translations": {
+        "en": "Bed and breakfast rate / Breakfast included",
+        "pt": "Hospedagem com café da manhã incluído",
+        "fr": "Hébergement avec petit-déjeuner inclus",
+        "it": "Pernottamento con colazione inclusa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha99",
+      "es": "Media pensión",
+      "translations": {
+        "en": "Half board",
+        "pt": "Meia pensão",
+        "fr": "Demi-pension",
+        "it": "Mezza pensione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha100",
+      "es": "Pensión completa",
+      "translations": {
+        "en": "Full board",
+        "pt": "Pensão completa",
+        "fr": "Pension complète",
+        "it": "Pensione completa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha101",
+      "es": "Todo incluido (tipo de plan)",
+      "translations": {
+        "en": "All-inclusive",
+        "pt": "Tudo incluído / All inclusive",
+        "fr": "Tout compris / All inclusive",
+        "it": "Tutto incluso / All inclusive"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha102",
+      "es": "Tarifa reembolsable / Tarifa no reembolsable",
+      "translations": {
+        "en": "Refundable rate / Nonrefundable rate",
+        "pt": "Tarifa reembolsável / Tarifa não reembolsável",
+        "fr": "Tarif remboursable / Tarif non remboursable",
+        "it": "Tariffa rimborsabile / Tariffa non rimborsabile"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha103",
+      "es": "Política de cancelación",
+      "translations": {
+        "en": "Cancellation policy",
+        "pt": "Política de cancelamento",
+        "fr": "Conditions d'annulation / Politique d'annulation",
+        "it": "Condizioni di cancellazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha104",
+      "es": "Fecha límite para cancelar sin cargo",
+      "translations": {
+        "en": "Free cancellation deadline",
+        "pt": "Prazo para cancelamento gratuito",
+        "fr": "Date limite d'annulation sans frais",
+        "it": "Termine per la cancellazione gratuita"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha105",
+      "es": "Anticipo para la reserva",
+      "translations": {
+        "en": "Booking deposit / Advance payment",
+        "pt": "Sinal da reserva / Adiantamento",
+        "fr": "Avance pour la réservation",
+        "it": "Anticipo per la prenotazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha106",
+      "es": "Depósito de garantía (para posibles daños o cargos)",
+      "translations": {
+        "en": "Security deposit / Damage deposit",
+        "pt": "Depósito-caução / Caução",
+        "fr": "Dépôt de garantie / Caution",
+        "it": "Deposito cauzionale / Cauzione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha107",
+      "es": "Preautorización / Retención temporal en la tarjeta",
+      "translations": {
+        "en": "Preauthorization / Authorization hold",
+        "pt": "Pré-autorização / Bloqueio temporário no cartão",
+        "fr": "Préautorisation bancaire / Blocage temporaire sur la carte",
+        "it": "Preautorizzazione / Blocco temporaneo sulla carta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha108",
+      "es": "Gastos adicionales de la estancia",
+      "translations": {
+        "en": "Incidentals / Additional charges",
+        "pt": "Despesas extras da estadia",
+        "fr": "Frais supplémentaires du séjour",
+        "it": "Spese extra del soggiorno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha109",
+      "es": "Cargo adicional",
+      "translations": {
+        "en": "Extra charge / Surcharge",
+        "pt": "Cobrança adicional / Taxa extra",
+        "fr": "Supplément / Frais supplémentaires",
+        "it": "Supplemento / Costo aggiuntivo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha110",
+      "es": "Tasa de estancia (impuesto turístico)",
+      "translations": {
+        "en": "Tourist tax / City tax",
+        "pt": "Taxa turística",
+        "fr": "Taxe de séjour",
+        "it": "Imposta di soggiorno / Tassa di soggiorno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha111",
+      "es": "Cargo por servicios del hotel (resort fee, frecuente en Estados Unidos)",
+      "translations": {
+        "en": "Resort fee / Amenity fee",
+        "pt": "Taxa de serviços do hotel / Resort fee",
+        "fr": "Frais de services de l'hôtel / Resort fee",
+        "it": "Supplemento per i servizi dell'hotel / Resort fee"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha112",
+      "es": "No presentarse a una reserva / No-show",
+      "translations": {
+        "en": "No-show",
+        "pt": "Não comparecimento / No-show",
+        "fr": "Non-présentation / No-show",
+        "it": "Mancata presentazione / No-show"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha113",
+      "es": "Sobreventa de habitaciones / Overbooking",
+      "translations": {
+        "en": "Overbooking",
+        "pt": "Overbooking / Reservas acima da capacidade",
+        "fr": "Surréservation / Overbooking",
+        "it": "Overbooking / Sovraprenotazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha114",
+      "es": "Factura (documento fiscal)",
+      "translations": {
+        "en": "Invoice",
+        "pt": "Nota fiscal",
+        "fr": "Facture",
+        "it": "Fattura"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha115",
+      "es": "Recibo / Comprobante de pago",
+      "translations": {
+        "en": "Receipt / Proof of payment",
+        "pt": "Recibo / Comprovante de pagamento",
+        "fr": "Reçu / Justificatif de paiement",
+        "it": "Ricevuta / Prova di pagamento"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha116",
+      "es": "¿Tienen habitaciones disponibles con llegada el [fecha1] y salida el [fecha2]?",
+      "translations": {
+        "en": "Do you have rooms available for check-in on [date1] and check-out on [date2]?",
+        "pt": "Vocês têm quartos disponíveis com entrada em [data1] e saída em [data2]?",
+        "fr": "Avez-vous des chambres disponibles pour une arrivée le [date1] et un départ le [date2] ?",
+        "it": "Avete camere disponibili con arrivo il [data1] e partenza il [data2]?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha117",
+      "es": "Quisiera reservar una habitación para [número] noches.",
+      "translations": {
+        "en": "I'd like to book a room for [number] nights.",
+        "pt": "Gostaria de reservar um quarto por [número] noites.",
+        "fr": "Je voudrais réserver une chambre pour [nombre] nuits.",
+        "it": "Vorrei prenotare una camera per [numero] notti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha118",
+      "es": "Somos dos adultos y un niño.",
+      "translations": {
+        "en": "There are two adults and one child.",
+        "pt": "Somos dois adultos e uma criança.",
+        "fr": "Nous sommes deux adultes et un enfant.",
+        "it": "Siamo due adulti e un bambino."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha119",
+      "es": "¿La tarifa es por habitación o por persona?",
+      "translations": {
+        "en": "Is the rate per room or per person?",
+        "pt": "A tarifa é por quarto ou por pessoa?",
+        "fr": "Le tarif est-il par chambre ou par personne ?",
+        "it": "La tariffa è per camera o per persona?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha120",
+      "es": "¿Hay una estancia mínima?",
+      "translations": {
+        "en": "Is there a minimum stay?",
+        "pt": "Há um período mínimo de estadia?",
+        "fr": "Y a-t-il une durée minimale de séjour ?",
+        "it": "C'è un soggiorno minimo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha121",
+      "es": "¿Cuál es el precio total, con impuestos y todos los cargos?",
+      "translations": {
+        "en": "What is the total price, including taxes and all fees?",
+        "pt": "Qual é o valor total, com impostos e todas as taxas?",
+        "fr": "Quel est le prix total, taxes et tous les frais compris ?",
+        "it": "Qual è il prezzo totale, incluse le imposte e tutti i supplementi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha122",
+      "es": "¿El desayuno está incluido?",
+      "translations": {
+        "en": "Is breakfast included?",
+        "pt": "O café da manhã está incluído?",
+        "fr": "Le petit-déjeuner est-il inclus ?",
+        "it": "La colazione è inclusa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha123",
+      "es": "¿Cuánto cuesta agregar el desayuno?",
+      "translations": {
+        "en": "How much does it cost to add breakfast?",
+        "pt": "Quanto custa incluir o café da manhã?",
+        "fr": "Combien coûte le petit-déjeuner en supplément ?",
+        "it": "Quanto costa aggiungere la colazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha124",
+      "es": "¿La media pensión incluye comida o cena? ¿Incluye bebidas?",
+      "translations": {
+        "en": "Does half board include lunch or dinner? Are drinks included?",
+        "pt": "A meia pensão inclui almoço ou jantar? As bebidas estão incluídas?",
+        "fr": "La demi-pension comprend-elle le déjeuner ou le dîner ? Les boissons sont-elles incluses ?",
+        "it": "La mezza pensione comprende il pranzo o la cena? Le bevande sono incluse?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha125",
+      "es": "¿Qué servicios no están incluidos en el plan de todo incluido?",
+      "translations": {
+        "en": "Which services are not included in the all-inclusive package?",
+        "pt": "Quais serviços não estão incluídos no pacote all inclusive?",
+        "fr": "Quels services ne sont pas inclus dans la formule tout compris ?",
+        "it": "Quali servizi non sono inclusi nel pacchetto all inclusive?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha126",
+      "es": "¿Pueden confirmar que la habitación tiene dos camas separadas?",
+      "translations": {
+        "en": "Can you confirm that the room has two separate beds?",
+        "pt": "Podem confirmar que o quarto tem duas camas separadas?",
+        "fr": "Pouvez-vous confirmer que la chambre a deux lits séparés ?",
+        "it": "Potete confermare che la camera ha due letti separati?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha127",
+      "es": "¿Qué medidas tiene la cama?",
+      "translations": {
+        "en": "What are the bed dimensions?",
+        "pt": "Quais são as medidas da cama?",
+        "fr": "Quelles sont les dimensions du lit ?",
+        "it": "Quali sono le dimensioni del letto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha128",
+      "es": "¿El baño privado está dentro de la habitación o afuera?",
+      "translations": {
+        "en": "Is the private bathroom inside the room or outside it?",
+        "pt": "O banheiro privativo fica dentro do quarto ou fora dele?",
+        "fr": "La salle de bains privative est-elle dans la chambre ou à l'extérieur ?",
+        "it": "Il bagno privato è dentro la camera o fuori?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha129",
+      "es": "¿Esta habitación está garantizada o la asignan al llegar según disponibilidad?",
+      "translations": {
+        "en": "Is this room guaranteed, or is it assigned at check-in based on availability?",
+        "pt": "Esse quarto está garantido ou é atribuído no check-in conforme a disponibilidade?",
+        "fr": "Cette chambre est-elle garantie ou attribuée à l'arrivée selon les disponibilités ?",
+        "it": "Questa camera è garantita o viene assegnata all'arrivo in base alla disponibilità?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha130",
+      "es": "Preferiría una habitación tranquila, lejos del elevador.",
+      "translations": {
+        "en": "I'd prefer a quiet room away from the elevator.",
+        "pt": "Preferiria um quarto silencioso, longe do elevador.",
+        "fr": "Je préférerais une chambre calme, loin de l'ascenseur.",
+        "it": "Preferirei una camera tranquilla, lontano dall'ascensore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha131",
+      "es": "¿Hasta cuándo puedo cancelar sin cargo?",
+      "translations": {
+        "en": "Until when can I cancel free of charge?",
+        "pt": "Até quando posso cancelar sem custo?",
+        "fr": "Jusqu'à quand puis-je annuler sans frais ?",
+        "it": "Fino a quando posso cancellare senza costi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha132",
+      "es": "Si cancelo, ¿me devuelven el anticipo?",
+      "translations": {
+        "en": "If I cancel, will my booking deposit be refunded?",
+        "pt": "Se eu cancelar, o sinal da reserva será devolvido?",
+        "fr": "Si j'annule, l'avance sera-t-elle remboursée ?",
+        "it": "Se cancello, l'anticipo mi verrà rimborsato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha133",
+      "es": "¿Pueden enviarme la confirmación por correo electrónico?",
+      "translations": {
+        "en": "Could you email me the confirmation?",
+        "pt": "Podem me enviar a confirmação por e-mail?",
+        "fr": "Pouvez-vous m'envoyer la confirmation par e-mail ?",
+        "it": "Potete inviarmi la conferma via e-mail?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha134",
+      "es": "Reservé a través de [plataforma].",
+      "translations": {
+        "en": "I booked through [platform].",
+        "pt": "Fiz a reserva pela [plataforma].",
+        "fr": "J'ai réservé via [plateforme].",
+        "it": "Ho prenotato tramite [piattaforma]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha135",
+      "es": "¿Puedo reservar directamente con ustedes?",
+      "translations": {
+        "en": "Can I book directly with you?",
+        "pt": "Posso reservar diretamente com vocês?",
+        "fr": "Puis-je réserver directement auprès de vous ?",
+        "it": "Posso prenotare direttamente con voi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha136",
+      "es": "Mi llegada está prevista para las [hora].",
+      "translations": {
+        "en": "I expect to arrive at [time].",
+        "pt": "Minha chegada está prevista para as [horário].",
+        "fr": "Mon arrivée est prévue à [heure].",
+        "it": "Il mio arrivo è previsto alle [ora]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha137",
+      "es": "Llegaré después de medianoche; ¿qué fecha de llegada debo poner en la reserva?",
+      "translations": {
+        "en": "I'll arrive after midnight. What check-in date should I put on the reservation?",
+        "pt": "Vou chegar depois da meia-noite. Qual data de entrada devo colocar na reserva?",
+        "fr": "J'arriverai après minuit. Quelle date d'arrivée dois-je indiquer dans la réservation ?",
+        "it": "Arriverò dopo mezzanotte. Quale data di arrivo devo indicare nella prenotazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha138",
+      "es": "¿La recepción está abierta las veinticuatro horas?",
+      "translations": {
+        "en": "Is the front desk open twenty-four hours a day?",
+        "pt": "A recepção funciona vinte e quatro horas por dia?",
+        "fr": "La réception est-elle ouverte vingt-quatre heures sur vingt-quatre ?",
+        "it": "La reception è aperta ventiquattro ore su ventiquattro?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha139",
+      "es": "¿Cómo entro si llego cuando la recepción está cerrada?",
+      "translations": {
+        "en": "How do I get in if I arrive when the front desk is closed?",
+        "pt": "Como faço para entrar se chegar quando a recepção estiver fechada?",
+        "fr": "Comment puis-je entrer si j'arrive quand la réception est fermée ?",
+        "it": "Come posso entrare se arrivo quando la reception è chiusa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha140",
+      "es": "¿Pueden enviarme las instrucciones para hacer el check-in por mi cuenta?",
+      "translations": {
+        "en": "Could you send me the self-check-in instructions?",
+        "pt": "Podem me enviar as instruções para fazer o self check-in?",
+        "fr": "Pouvez-vous m'envoyer les instructions pour l'arrivée autonome ?",
+        "it": "Potete inviarmi le istruzioni per il self check-in?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha141",
+      "es": "Tengo una reservación a nombre de [nombre].",
+      "translations": {
+        "en": "I have a reservation under the name [name].",
+        "pt": "Tenho uma reserva em nome de [nome].",
+        "fr": "J'ai une réservation au nom de [nom].",
+        "it": "Ho una prenotazione a nome di [nome]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha142",
+      "es": "Este es mi número de confirmación.",
+      "translations": {
+        "en": "Here is my confirmation number.",
+        "pt": "Este é o meu número de confirmação.",
+        "fr": "Voici mon numéro de confirmation.",
+        "it": "Questo è il mio numero di conferma."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha143",
+      "es": "Quisiera hacer el check-in.",
+      "translations": {
+        "en": "I'd like to check in.",
+        "pt": "Gostaria de fazer o check-in.",
+        "fr": "Je voudrais m'enregistrer.",
+        "it": "Vorrei fare il check-in."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha144",
+      "es": "No tengo reservación; ¿tienen una habitación para esta noche?",
+      "translations": {
+        "en": "I don't have a reservation. Do you have a room for tonight?",
+        "pt": "Não tenho reserva. Vocês têm um quarto para esta noite?",
+        "fr": "Je n'ai pas de réservation. Avez-vous une chambre pour ce soir ?",
+        "it": "Non ho una prenotazione. Avete una camera per stanotte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha145",
+      "es": "Aquí tiene mi pasaporte / Mi identificación.",
+      "translations": {
+        "en": "Here is my passport / My ID.",
+        "pt": "Aqui está meu passaporte / Meu documento de identidade.",
+        "fr": "Voici mon passeport / Ma pièce d'identité.",
+        "it": "Ecco il mio passaporto / Il mio documento d'identità."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha146",
+      "es": "Mi apellido se escribe así.",
+      "translations": {
+        "en": "This is how you spell my last name.",
+        "pt": "Meu sobrenome se escreve assim.",
+        "fr": "Mon nom de famille s'écrit comme ceci.",
+        "it": "Il mio cognome si scrive così."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha147",
+      "es": "¿Necesitan la identificación de todos los huéspedes?",
+      "translations": {
+        "en": "Do you need ID from every guest?",
+        "pt": "Vocês precisam do documento de todos os hóspedes?",
+        "fr": "Avez-vous besoin de la pièce d'identité de chaque client ?",
+        "it": "Avete bisogno del documento di tutti gli ospiti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha148",
+      "es": "¿Debo llenar este formulario?",
+      "translations": {
+        "en": "Do I need to fill out this form?",
+        "pt": "Preciso preencher este formulário?",
+        "fr": "Dois-je remplir ce formulaire ?",
+        "it": "Devo compilare questo modulo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha149",
+      "es": "¿Dónde debo firmar?",
+      "translations": {
+        "en": "Where should I sign?",
+        "pt": "Onde devo assinar?",
+        "fr": "Où dois-je signer ?",
+        "it": "Dove devo firmare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha150",
+      "es": "¿A partir de qué hora puedo entrar a la habitación?",
+      "translations": {
+        "en": "What time can I access the room?",
+        "pt": "A partir de que horas posso entrar no quarto?",
+        "fr": "À partir de quelle heure puis-je accéder à la chambre ?",
+        "it": "Da che ora posso entrare in camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha151",
+      "es": "¿Es posible entrar antes de la hora habitual de check-in?",
+      "translations": {
+        "en": "Is early check-in possible?",
+        "pt": "É possível fazer o check-in antecipado?",
+        "fr": "Est-il possible de faire un enregistrement anticipé ?",
+        "it": "È possibile fare il check-in anticipato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha152",
+      "es": "¿Cuánto tiempo falta para que la habitación esté lista?",
+      "translations": {
+        "en": "How long until the room is ready?",
+        "pt": "Quanto tempo falta para o quarto ficar pronto?",
+        "fr": "Dans combien de temps la chambre sera-t-elle prête ?",
+        "it": "Quanto manca prima che la camera sia pronta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha153",
+      "es": "¿Puedo dejar las maletas mientras espero?",
+      "translations": {
+        "en": "Can I leave my bags here while I wait?",
+        "pt": "Posso deixar as malas aqui enquanto espero?",
+        "fr": "Puis-je laisser mes bagages ici pendant que j'attends ?",
+        "it": "Posso lasciare qui i bagagli mentre aspetto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha154",
+      "es": "¿Me avisan cuando la habitación esté lista?",
+      "translations": {
+        "en": "Could you let me know when the room is ready?",
+        "pt": "Podem me avisar quando o quarto estiver pronto?",
+        "fr": "Pouvez-vous me prévenir quand la chambre sera prête ?",
+        "it": "Potete avvisarmi quando la camera sarà pronta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha155",
+      "es": "La estancia ya está pagada.",
+      "translations": {
+        "en": "The stay has already been paid for.",
+        "pt": "A estadia já está paga.",
+        "fr": "Le séjour est déjà payé.",
+        "it": "Il soggiorno è già stato pagato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha156",
+      "es": "¿Debo pagar ahora o al salir?",
+      "translations": {
+        "en": "Do I pay now or at check-out?",
+        "pt": "Devo pagar agora ou no check-out?",
+        "fr": "Dois-je payer maintenant ou au départ ?",
+        "it": "Devo pagare adesso o al check-out?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha157",
+      "es": "¿Aceptan una tarjeta de débito para el depósito de garantía?",
+      "translations": {
+        "en": "Do you accept a debit card for the security deposit?",
+        "pt": "Vocês aceitam cartão de débito para a caução?",
+        "fr": "Acceptez-vous une carte de débit pour le dépôt de garantie ?",
+        "it": "Accettate una carta di debito per il deposito cauzionale?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha158",
+      "es": "¿Puedo dejar el depósito de garantía en efectivo?",
+      "translations": {
+        "en": "Can I pay the security deposit in cash?",
+        "pt": "Posso deixar a caução em dinheiro?",
+        "fr": "Puis-je verser le dépôt de garantie en espèces ?",
+        "it": "Posso lasciare il deposito cauzionale in contanti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha159",
+      "es": "¿Necesitan la tarjeta física que usé para reservar?",
+      "translations": {
+        "en": "Do you need the physical card I used to book?",
+        "pt": "Vocês precisam do cartão físico que usei para reservar?",
+        "fr": "Avez-vous besoin de la carte physique utilisée pour réserver ?",
+        "it": "Avete bisogno della carta fisica che ho usato per prenotare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha160",
+      "es": "¿Es un cobro o una retención temporal en la tarjeta?",
+      "translations": {
+        "en": "Is this a charge or a temporary hold on my card?",
+        "pt": "Isso é uma cobrança ou um bloqueio temporário no cartão?",
+        "fr": "S'agit-il d'un débit ou d'un blocage temporaire sur ma carte ?",
+        "it": "È un addebito o un blocco temporaneo sulla carta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha161",
+      "es": "¿Qué monto van a retener y cuándo solicitarán su liberación?",
+      "translations": {
+        "en": "How much will you hold, and when will you request its release?",
+        "pt": "Qual valor será bloqueado e quando vocês vão solicitar a liberação?",
+        "fr": "Quel montant allez-vous bloquer et quand demanderez-vous sa libération ?",
+        "it": "Quale importo bloccherete e quando ne richiederete lo sblocco?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha162",
+      "es": "¿Me pueden dar una segunda tarjeta llave?",
+      "translations": {
+        "en": "Could I have a second key card?",
+        "pt": "Podem me dar um segundo cartão-chave?",
+        "fr": "Pouvez-vous me donner une deuxième carte-clé ?",
+        "it": "Potete darmi una seconda tessera della camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha163",
+      "es": "¿En qué piso está mi habitación?",
+      "translations": {
+        "en": "What floor is my room on?",
+        "pt": "Em que andar fica o meu quarto?",
+        "fr": "À quel étage se trouve ma chambre ?",
+        "it": "A che piano si trova la mia camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha164",
+      "es": "¿Hay una habitación de categoría superior disponible? ¿Cuánto costaría el cambio?",
+      "translations": {
+        "en": "Is a room upgrade available? How much would it cost?",
+        "pt": "Há um quarto de categoria superior disponível? Quanto custaria o upgrade?",
+        "fr": "Un surclassement est-il possible ? Combien coûterait-il ?",
+        "it": "È disponibile una camera di categoria superiore? Quanto costerebbe l'upgrade?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha165",
+      "es": "¿A qué hora debo dejar la habitación el día de salida?",
+      "translations": {
+        "en": "What time do I need to leave the room on my check-out day?",
+        "pt": "Até que horas devo desocupar o quarto no dia da saída?",
+        "fr": "À quelle heure dois-je libérer la chambre le jour du départ ?",
+        "it": "Entro che ora devo lasciare la camera il giorno della partenza?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha166",
+      "es": "¿Cómo llego a mi habitación?",
+      "translations": {
+        "en": "How do I get to my room?",
+        "pt": "Como chego ao meu quarto?",
+        "fr": "Comment puis-je rejoindre ma chambre ?",
+        "it": "Come arrivo alla mia camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha167",
+      "es": "¿Qué botón del elevador corresponde a la planta baja?",
+      "translations": {
+        "en": "Which elevator button is for the ground floor?",
+        "pt": "Qual botão do elevador corresponde ao térreo?",
+        "fr": "Quel bouton de l'ascenseur correspond au rez-de-chaussée ?",
+        "it": "Quale pulsante dell'ascensore corrisponde al piano terra?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha168",
+      "es": "¿Hay que usar la tarjeta llave para subir en el elevador?",
+      "translations": {
+        "en": "Do I need to use my key card to go up in the elevator?",
+        "pt": "Preciso usar o cartão-chave para subir no elevador?",
+        "fr": "Faut-il utiliser la carte-clé pour monter dans l'ascenseur ?",
+        "it": "Bisogna usare la tessera della camera per salire in ascensore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha169",
+      "es": "¿Dónde y a qué hora sirven el desayuno?",
+      "translations": {
+        "en": "Where and at what time is breakfast served?",
+        "pt": "Onde e a que horas é servido o café da manhã?",
+        "fr": "Où et à quelle heure sert-on le petit-déjeuner ?",
+        "it": "Dove e a che ora viene servita la colazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha170",
+      "es": "¿El desayuno es buffet o se pide a la carta?",
+      "translations": {
+        "en": "Is breakfast a buffet or à la carte?",
+        "pt": "O café da manhã é em buffet ou à la carte?",
+        "fr": "Le petit-déjeuner est-il servi en buffet ou à la carte ?",
+        "it": "La colazione è a buffet o à la carta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha171",
+      "es": "Salgo muy temprano; ¿pueden preparar un desayuno para llevar?",
+      "translations": {
+        "en": "I'm leaving very early. Could you prepare a breakfast to go?",
+        "pt": "Vou sair muito cedo. Podem preparar um café da manhã para viagem?",
+        "fr": "Je pars très tôt. Pouvez-vous préparer un petit-déjeuner à emporter ?",
+        "it": "Parto molto presto. Potete preparare una colazione da portare via?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha172",
+      "es": "¿A qué hora cierra el restaurante del hotel?",
+      "translations": {
+        "en": "What time does the hotel restaurant close?",
+        "pt": "A que horas fecha o restaurante do hotel?",
+        "fr": "À quelle heure ferme le restaurant de l'hôtel ?",
+        "it": "A che ora chiude il ristorante dell'hotel?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha173",
+      "es": "¿Tienen servicio de comida a la habitación? ¿Hasta qué hora?",
+      "translations": {
+        "en": "Do you offer room service? Until what time?",
+        "pt": "Vocês oferecem serviço de quarto? Até que horas?",
+        "fr": "Proposez-vous un service en chambre ? Jusqu'à quelle heure ?",
+        "it": "Offrite il servizio in camera? Fino a che ora?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha174",
+      "es": "Quisiera ver el menú del servicio de comida a la habitación.",
+      "translations": {
+        "en": "I'd like to see the room service menu.",
+        "pt": "Gostaria de ver o cardápio do serviço de quarto.",
+        "fr": "Je voudrais voir le menu du service en chambre.",
+        "it": "Vorrei vedere il menù del servizio in camera."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha175",
+      "es": "¿Pueden cargarlo a mi habitación?",
+      "translations": {
+        "en": "Can you charge it to my room?",
+        "pt": "Podem lançar na conta do meu quarto?",
+        "fr": "Pouvez-vous le porter sur la note de ma chambre ?",
+        "it": "Potete addebitarlo sul conto della mia camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha176",
+      "es": "¿El uso del gimnasio y de la alberca está incluido?",
+      "translations": {
+        "en": "Are the gym and pool included in the room rate?",
+        "pt": "O uso da academia e da piscina está incluído na diária?",
+        "fr": "L'accès à la salle de sport et à la piscine est-il inclus dans le tarif ?",
+        "it": "L'uso della palestra e della piscina è incluso nella tariffa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha177",
+      "es": "¿Cuál es el horario de la alberca?",
+      "translations": {
+        "en": "What are the pool hours?",
+        "pt": "Qual é o horário de funcionamento da piscina?",
+        "fr": "Quels sont les horaires de la piscine ?",
+        "it": "Quali sono gli orari della piscina?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha178",
+      "es": "¿Dónde consigo una toalla para la alberca?",
+      "translations": {
+        "en": "Where can I get a pool towel?",
+        "pt": "Onde posso pegar uma toalha para a piscina?",
+        "fr": "Où puis-je obtenir une serviette pour la piscine ?",
+        "it": "Dove posso prendere un asciugamano per la piscina?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha179",
+      "es": "¿Hay que reservar para usar el spa?",
+      "translations": {
+        "en": "Do I need a reservation to use the spa?",
+        "pt": "Preciso reservar para usar o spa?",
+        "fr": "Faut-il réserver pour accéder au spa ?",
+        "it": "Bisogna prenotare per accedere alla spa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha180",
+      "es": "¿Cuál es la red de wifi y la contraseña?",
+      "translations": {
+        "en": "What is the Wi-Fi network name and password?",
+        "pt": "Qual é o nome da rede Wi-Fi e a senha?",
+        "fr": "Quel est le nom du réseau Wi-Fi et le mot de passe ?",
+        "it": "Qual è il nome della rete Wi-Fi e la password?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha181",
+      "es": "¿El wifi es gratuito también en las habitaciones?",
+      "translations": {
+        "en": "Is Wi-Fi free in the rooms too?",
+        "pt": "O Wi-Fi também é gratuito nos quartos?",
+        "fr": "Le Wi-Fi est-il également gratuit dans les chambres ?",
+        "it": "Il Wi-Fi è gratuito anche nelle camere?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha182",
+      "es": "¿Tengo que iniciar sesión con mi apellido y número de habitación?",
+      "translations": {
+        "en": "Do I need to log in with my last name and room number?",
+        "pt": "Preciso entrar com meu sobrenome e o número do quarto?",
+        "fr": "Dois-je me connecter avec mon nom de famille et le numéro de ma chambre ?",
+        "it": "Devo accedere con il mio cognome e il numero della camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha183",
+      "es": "¿Pueden ayudarme a subir las maletas?",
+      "translations": {
+        "en": "Could you help me take my bags up to the room?",
+        "pt": "Podem me ajudar a levar as malas para o quarto?",
+        "fr": "Pouvez-vous m'aider à monter mes bagages dans la chambre ?",
+        "it": "Potete aiutarmi a portare i bagagli in camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha184",
+      "es": "¿Tienen estacionamiento? ¿Cuánto cuesta por noche?",
+      "translations": {
+        "en": "Do you have parking? How much does it cost per night?",
+        "pt": "Vocês têm estacionamento? Quanto custa por noite?",
+        "fr": "Avez-vous un parking ? Combien coûte-t-il par nuit ?",
+        "it": "Avete un parcheggio? Quanto costa per notte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha185",
+      "es": "¿El estacionamiento es de autoservicio o con valet?",
+      "translations": {
+        "en": "Is it self-parking or valet parking?",
+        "pt": "O estacionamento é por conta própria ou tem manobrista?",
+        "fr": "Doit-on se garer soi-même ou y a-t-il un service de voiturier ?",
+        "it": "Si parcheggia da soli o c'è un servizio di parcheggiatore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha186",
+      "es": "¿Hay transporte del hotel al aeropuerto? ¿Es gratuito?",
+      "translations": {
+        "en": "Is there a hotel shuttle to the airport? Is it free?",
+        "pt": "Há transporte do hotel para o aeroporto? É gratuito?",
+        "fr": "Y a-t-il une navette de l'hôtel pour l'aéroport ? Est-elle gratuite ?",
+        "it": "C'è una navetta dell'hotel per l'aeroporto? È gratuita?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha187",
+      "es": "¿Hay que reservar el traslado al aeropuerto?",
+      "translations": {
+        "en": "Do I need to book the airport transfer?",
+        "pt": "Preciso reservar o traslado para o aeroporto?",
+        "fr": "Faut-il réserver le transfert pour l'aéroport ?",
+        "it": "Bisogna prenotare il trasferimento per l'aeroporto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha188",
+      "es": "¿De dónde sale la siguiente van del hotel y a qué hora?",
+      "translations": {
+        "en": "Where does the next hotel shuttle leave from, and at what time?",
+        "pt": "De onde sai a próxima van do hotel e a que horas?",
+        "fr": "D'où part la prochaine navette de l'hôtel et à quelle heure ?",
+        "it": "Da dove parte la prossima navetta dell'hotel e a che ora?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha189",
+      "es": "¿Pueden pedir un taxi para las [hora]?",
+      "translations": {
+        "en": "Could you book a taxi for [time]?",
+        "pt": "Podem chamar um táxi para as [horário]?",
+        "fr": "Pouvez-vous réserver un taxi pour [heure] ?",
+        "it": "Potete prenotare un taxi per le [ora]?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha190",
+      "es": "¿Cuánto se tarda en llegar al aeropuerto a esa hora?",
+      "translations": {
+        "en": "How long does it take to get to the airport at that time?",
+        "pt": "Quanto tempo leva para chegar ao aeroporto nesse horário?",
+        "fr": "Combien de temps faut-il pour aller à l'aéroport à cette heure-là ?",
+        "it": "Quanto tempo ci vuole per arrivare all'aeroporto a quell'ora?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha191",
+      "es": "¿Dónde está la parada de transporte público más cercana?",
+      "translations": {
+        "en": "Where is the nearest public transportation stop?",
+        "pt": "Onde fica o ponto de transporte público mais próximo?",
+        "fr": "Où se trouve l'arrêt de transports en commun le plus proche ?",
+        "it": "Dov'è la fermata dei mezzi pubblici più vicina?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha192",
+      "es": "¿Me pueden recomendar un restaurante cercano?",
+      "translations": {
+        "en": "Could you recommend a nearby restaurant?",
+        "pt": "Podem me recomendar um restaurante aqui perto?",
+        "fr": "Pouvez-vous me recommander un restaurant à proximité ?",
+        "it": "Potete consigliarmi un ristorante qui vicino?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha193",
+      "es": "Quisiera una llamada para despertarme a las [hora].",
+      "translations": {
+        "en": "I'd like a wake-up call at [time].",
+        "pt": "Gostaria de uma ligação para me acordar às [horário].",
+        "fr": "Je voudrais un appel de réveil à [heure].",
+        "it": "Vorrei una chiamata di sveglia alle [ora]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha194",
+      "es": "¿Puedo pedir prestado un adaptador de enchufe?",
+      "translations": {
+        "en": "Can I borrow a plug adapter?",
+        "pt": "Posso pegar um adaptador de tomada emprestado?",
+        "fr": "Puis-je emprunter un adaptateur de prise ?",
+        "it": "Posso prendere in prestito un adattatore per la presa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha195",
+      "es": "¿Pueden imprimir mi pase de abordar?",
+      "translations": {
+        "en": "Could you print my boarding pass?",
+        "pt": "Podem imprimir meu cartão de embarque?",
+        "fr": "Pouvez-vous imprimer ma carte d'embarquement ?",
+        "it": "Potete stampare la mia carta d'imbarco?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha196",
+      "es": "¿Puedo recibir un paquete aquí durante mi estancia?",
+      "translations": {
+        "en": "Can I have a package delivered here during my stay?",
+        "pt": "Posso receber uma encomenda aqui durante a minha estadia?",
+        "fr": "Puis-je me faire livrer un colis ici pendant mon séjour ?",
+        "it": "Posso ricevere un pacco qui durante il soggiorno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha197",
+      "es": "¿Cómo se abre la puerta con esta tarjeta?",
+      "translations": {
+        "en": "How do I open the door with this card?",
+        "pt": "Como abro a porta com este cartão?",
+        "fr": "Comment ouvrir la porte avec cette carte ?",
+        "it": "Come si apre la porta con questa tessera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha198",
+      "es": "¿Dónde inserto la tarjeta para encender la luz?",
+      "translations": {
+        "en": "Where do I insert the card to turn on the lights?",
+        "pt": "Onde coloco o cartão para acender as luzes?",
+        "fr": "Où dois-je insérer la carte pour allumer les lumières ?",
+        "it": "Dove devo inserire la tessera per accendere le luci?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha199",
+      "es": "¿Me puede mostrar cómo funciona la caja fuerte?",
+      "translations": {
+        "en": "Could you show me how the safe works?",
+        "pt": "Pode me mostrar como funciona o cofre?",
+        "fr": "Pouvez-vous me montrer comment fonctionne le coffre-fort ?",
+        "it": "Mi può mostrare come funziona la cassaforte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha200",
+      "es": "¿Cómo ajusto la temperatura del aire acondicionado?",
+      "translations": {
+        "en": "How do I adjust the air conditioning temperature?",
+        "pt": "Como ajusto a temperatura do ar-condicionado?",
+        "fr": "Comment régler la température de la climatisation ?",
+        "it": "Come regolo la temperatura dell'aria condizionata?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha201",
+      "es": "La habitación está demasiado caliente / Demasiado fría.",
+      "translations": {
+        "en": "The room is too hot / Too cold.",
+        "pt": "O quarto está quente demais / Frio demais.",
+        "fr": "Il fait trop chaud dans la chambre / Trop froid dans la chambre.",
+        "it": "In camera fa troppo caldo / Troppo freddo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha202",
+      "es": "¿Se puede abrir la ventana?",
+      "translations": {
+        "en": "Can the window be opened?",
+        "pt": "A janela pode ser aberta?",
+        "fr": "Peut-on ouvrir la fenêtre ?",
+        "it": "Si può aprire la finestra?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha203",
+      "es": "¿El agua embotellada de la habitación es gratuita?",
+      "translations": {
+        "en": "Is the bottled water in the room complimentary?",
+        "pt": "A água engarrafada do quarto é gratuita?",
+        "fr": "L'eau en bouteille dans la chambre est-elle offerte ?",
+        "it": "L'acqua in bottiglia in camera è gratuita?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha204",
+      "es": "¿Dónde puedo ver los precios del minibar?",
+      "translations": {
+        "en": "Where can I see the minibar prices?",
+        "pt": "Onde posso ver os preços do frigobar?",
+        "fr": "Où puis-je consulter les prix du minibar ?",
+        "it": "Dove posso vedere i prezzi del minibar?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha205",
+      "es": "¿Puedo guardar mi propia comida en el refrigerador?",
+      "translations": {
+        "en": "Can I keep my own food in the refrigerator?",
+        "pt": "Posso guardar minha própria comida na geladeira?",
+        "fr": "Puis-je conserver ma propre nourriture dans le réfrigérateur ?",
+        "it": "Posso tenere il mio cibo nel frigorifero?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha206",
+      "es": "Necesito refrigerar un medicamento; ¿tienen un lugar adecuado?",
+      "translations": {
+        "en": "I need to refrigerate some medication. Do you have a suitable place for it?",
+        "pt": "Preciso refrigerar um medicamento. Vocês têm um lugar adequado?",
+        "fr": "Je dois conserver un médicament au réfrigérateur. Avez-vous un endroit adapté ?",
+        "it": "Devo tenere un farmaco in frigorifero. Avete un posto adatto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha207",
+      "es": "¿Podrían traer toallas limpias, por favor?",
+      "translations": {
+        "en": "Could you bring some clean towels, please?",
+        "pt": "Podem trazer toalhas limpas, por favor?",
+        "fr": "Pourriez-vous apporter des serviettes propres, s'il vous plaît ?",
+        "it": "Potreste portare degli asciugamani puliti, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha208",
+      "es": "Necesito una cobija y una almohada adicionales.",
+      "translations": {
+        "en": "I need an extra blanket and pillow.",
+        "pt": "Preciso de um cobertor e de um travesseiro extras.",
+        "fr": "J'ai besoin d'une couverture et d'un oreiller supplémentaires.",
+        "it": "Ho bisogno di una coperta e di un cuscino in più."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha209",
+      "es": "¿Tienen almohadas más firmes / Más suaves?",
+      "translations": {
+        "en": "Do you have firmer pillows / Softer pillows?",
+        "pt": "Vocês têm travesseiros mais firmes / Mais macios?",
+        "fr": "Avez-vous des oreillers plus fermes / Plus moelleux ?",
+        "it": "Avete cuscini più rigidi / Più morbidi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha210",
+      "es": "¿Pueden traer más papel de baño y jabón?",
+      "translations": {
+        "en": "Could you bring more toilet paper and soap?",
+        "pt": "Podem trazer mais papel higiênico e sabonete?",
+        "fr": "Pouvez-vous apporter du papier toilette et du savon supplémentaires ?",
+        "it": "Potete portare altra carta igienica e altro sapone?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha211",
+      "es": "¿Pueden reponer el café y el té de la habitación?",
+      "translations": {
+        "en": "Could you restock the coffee and tea in the room?",
+        "pt": "Podem repor o café e o chá do quarto?",
+        "fr": "Pouvez-vous remettre du café et du thé dans la chambre ?",
+        "it": "Potete rifornire il caffè e il tè in camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha212",
+      "es": "¿Me pueden prestar una plancha y una tabla de planchar?",
+      "translations": {
+        "en": "Could I borrow an iron and an ironing board?",
+        "pt": "Podem me emprestar um ferro e uma tábua de passar?",
+        "fr": "Pouvez-vous me prêter un fer et une table à repasser ?",
+        "it": "Potete prestarmi un ferro e un asse da stiro?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha213",
+      "es": "¿Podrían traer más ganchos para colgar la ropa?",
+      "translations": {
+        "en": "Could you bring some more clothes hangers?",
+        "pt": "Podem trazer mais cabides?",
+        "fr": "Pourriez-vous apporter des cintres supplémentaires ?",
+        "it": "Potreste portare altre grucce?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha214",
+      "es": "¿Pueden agregar una cama? ¿Tiene costo adicional?",
+      "translations": {
+        "en": "Can you add an extra bed? Is there an extra charge?",
+        "pt": "Podem colocar uma cama extra? Há custo adicional?",
+        "fr": "Pouvez-vous ajouter un lit d'appoint ? Y a-t-il un supplément ?",
+        "it": "Potete aggiungere un letto? C'è un supplemento?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha215",
+      "es": "Necesitamos una cuna para nuestro bebé.",
+      "translations": {
+        "en": "We need a crib for our baby.",
+        "pt": "Precisamos de um berço para o nosso bebê.",
+        "fr": "Nous avons besoin d'un lit bébé.",
+        "it": "Abbiamo bisogno di una culla per il nostro bambino."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha216",
+      "es": "¿La cuna incluye sábanas y tiene costo adicional?",
+      "translations": {
+        "en": "Does the crib come with sheets, and is there an extra charge?",
+        "pt": "O berço inclui lençóis e tem custo adicional?",
+        "fr": "Le lit bébé comprend-il des draps et y a-t-il un supplément ?",
+        "it": "La culla include le lenzuola e ha un costo aggiuntivo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha217",
+      "es": "¿Cómo llamo a recepción desde el teléfono de la habitación?",
+      "translations": {
+        "en": "How do I call the front desk from the room phone?",
+        "pt": "Como ligo para a recepção pelo telefone do quarto?",
+        "fr": "Comment appeler la réception depuis le téléphone de la chambre ?",
+        "it": "Come chiamo la reception dal telefono della camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha218",
+      "es": "Por favor, no entren a la habitación mientras esté el letrero de «No molestar».",
+      "translations": {
+        "en": "Please don't enter the room while the do not disturb sign is up.",
+        "pt": "Por favor, não entrem no quarto enquanto a placa de «Não perturbe» estiver na porta.",
+        "fr": "Veuillez ne pas entrer dans la chambre tant que la pancarte «Ne pas déranger» est sur la porte.",
+        "it": "Per favore, non entrate in camera quando è esposto il cartello «Non disturbare»."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha219",
+      "es": "¿Puedo recibir visitas en mi habitación? ¿Hay un horario?",
+      "translations": {
+        "en": "Can I have visitors in my room? Are there visiting hours?",
+        "pt": "Posso receber visitas no meu quarto? Há um horário?",
+        "fr": "Puis-je recevoir des visiteurs dans ma chambre ? Y a-t-il des horaires de visite ?",
+        "it": "Posso ricevere visite in camera? Ci sono orari di visita?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha220",
+      "es": "¿Pueden limpiar la habitación mientras salimos?",
+      "translations": {
+        "en": "Could you clean the room while we're out?",
+        "pt": "Podem limpar o quarto enquanto estivermos fora?",
+        "fr": "Pouvez-vous faire le ménage dans la chambre pendant notre absence ?",
+        "it": "Potete pulire la camera mentre siamo fuori?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha221",
+      "es": "Ahora no es buen momento; ¿pueden volver después de las [hora]?",
+      "translations": {
+        "en": "Now isn't a good time. Could you come back after [time]?",
+        "pt": "Agora não é um bom momento. Podem voltar depois das [horário]?",
+        "fr": "Ce n'est pas le bon moment. Pouvez-vous revenir après [heure] ?",
+        "it": "Adesso non è un buon momento. Potete tornare dopo le [ora]?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha222",
+      "es": "Hoy no necesitamos limpieza.",
+      "translations": {
+        "en": "We don't need housekeeping today.",
+        "pt": "Hoje não precisamos de limpeza.",
+        "fr": "Nous n'avons pas besoin du ménage aujourd'hui.",
+        "it": "Oggi non abbiamo bisogno della pulizia della camera."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha223",
+      "es": "¿Podrían cambiar las sábanas?",
+      "translations": {
+        "en": "Could you change the bedsheets?",
+        "pt": "Podem trocar os lençóis?",
+        "fr": "Pourriez-vous changer les draps ?",
+        "it": "Potreste cambiare le lenzuola?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha224",
+      "es": "Solo necesitamos toallas limpias; no hace falta limpiar toda la habitación.",
+      "translations": {
+        "en": "We only need clean towels. There's no need to clean the whole room.",
+        "pt": "Só precisamos de toalhas limpas. Não é necessário limpar o quarto inteiro.",
+        "fr": "Nous avons seulement besoin de serviettes propres. Inutile de nettoyer toute la chambre.",
+        "it": "Abbiamo bisogno solo di asciugamani puliti. Non serve pulire tutta la camera."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha225",
+      "es": "Dejé el letrero para pedir limpieza, pero todavía no la han hecho.",
+      "translations": {
+        "en": "I put out the make-up-room sign, but the room hasn't been cleaned yet.",
+        "pt": "Coloquei a placa pedindo a limpeza, mas o quarto ainda não foi limpo.",
+        "fr": "J'ai mis la pancarte demandant le ménage, mais la chambre n'a pas encore été nettoyée.",
+        "it": "Ho esposto il cartello per richiedere la pulizia, ma la camera non è ancora stata pulita."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha226",
+      "es": "¿Tienen servicio de lavandería? ¿Dónde está la lista de precios?",
+      "translations": {
+        "en": "Do you offer laundry service? Where is the price list?",
+        "pt": "Vocês têm serviço de lavanderia? Onde está a lista de preços?",
+        "fr": "Avez-vous un service de blanchisserie ? Où est la liste des tarifs ?",
+        "it": "Avete un servizio di lavanderia? Dov'è il listino prezzi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha227",
+      "es": "¿Dónde encuentro la bolsa y el formulario para la lavandería?",
+      "translations": {
+        "en": "Where can I find the laundry bag and form?",
+        "pt": "Onde encontro o saco e o formulário para a lavanderia?",
+        "fr": "Où puis-je trouver le sac et le formulaire pour la blanchisserie ?",
+        "it": "Dove trovo il sacchetto e il modulo per la lavanderia?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha228",
+      "es": "¿Cobran por prenda o por peso?",
+      "translations": {
+        "en": "Do you charge per item or by weight?",
+        "pt": "Vocês cobram por peça ou por peso?",
+        "fr": "Facturez-vous à la pièce ou au poids ?",
+        "it": "Il prezzo è per capo o a peso?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha229",
+      "es": "¿A qué hora estará lista mi ropa?",
+      "translations": {
+        "en": "What time will my laundry be ready?",
+        "pt": "A que horas minhas roupas estarão prontas?",
+        "fr": "À quelle heure mon linge sera-t-il prêt ?",
+        "it": "A che ora saranno pronti i miei vestiti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha230",
+      "es": "Necesito la ropa antes de salir mañana.",
+      "translations": {
+        "en": "I need my laundry back before I leave tomorrow.",
+        "pt": "Preciso das roupas de volta antes de sair amanhã.",
+        "fr": "J'ai besoin de récupérer mon linge avant de partir demain.",
+        "it": "Ho bisogno di riavere i vestiti prima di partire domani."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha231",
+      "es": "Esta prenda necesita lavado en seco.",
+      "translations": {
+        "en": "This item needs dry cleaning.",
+        "pt": "Esta peça precisa de lavagem a seco.",
+        "fr": "Ce vêtement doit être nettoyé à sec.",
+        "it": "Questo capo va lavato a secco."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha232",
+      "es": "Por favor, laven esta prenda con agua fría y no la metan a la secadora.",
+      "translations": {
+        "en": "Please wash this item in cold water and don't put it in the dryer.",
+        "pt": "Por favor, lavem esta peça com água fria e não a coloquem na secadora.",
+        "fr": "Veuillez laver ce vêtement à l'eau froide et ne pas le mettre au sèche-linge.",
+        "it": "Per favore, lavate questo capo in acqua fredda e non mettetelo nell'asciugatrice."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha233",
+      "es": "¿Hay lavadora y secadora de autoservicio? ¿El detergente está incluido?",
+      "translations": {
+        "en": "Is there a self-service washer and dryer? Is detergent included?",
+        "pt": "Há lavadora e secadora de autoatendimento? O sabão está incluído?",
+        "fr": "Y a-t-il un lave-linge et un sèche-linge en libre-service ? La lessive est-elle incluse ?",
+        "it": "Ci sono una lavatrice e un'asciugatrice self-service? Il detersivo è incluso?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha234",
+      "es": "Falta una prenda en la ropa que me devolvieron.",
+      "translations": {
+        "en": "An item is missing from the laundry you returned.",
+        "pt": "Está faltando uma peça nas roupas que vocês devolveram.",
+        "fr": "Il manque un vêtement dans le linge que vous m'avez rendu.",
+        "it": "Manca un capo tra i vestiti che mi avete restituito."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha235",
+      "es": "Mi tarjeta llave dejó de funcionar.",
+      "translations": {
+        "en": "My key card stopped working.",
+        "pt": "Meu cartão-chave parou de funcionar.",
+        "fr": "Ma carte-clé ne fonctionne plus.",
+        "it": "La tessera della mia camera ha smesso di funzionare."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha236",
+      "es": "Perdí la llave y no puedo entrar a mi habitación.",
+      "translations": {
+        "en": "I lost my key and I'm locked out of my room.",
+        "pt": "Perdi a chave e não consigo entrar no meu quarto.",
+        "fr": "J'ai perdu ma clé et je ne peux pas entrer dans ma chambre.",
+        "it": "Ho perso la chiave e non riesco a entrare nella mia camera."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha237",
+      "es": "La puerta de la habitación no cierra bien.",
+      "translations": {
+        "en": "The room door doesn't close properly.",
+        "pt": "A porta do quarto não fecha direito.",
+        "fr": "La porte de la chambre ne ferme pas correctement.",
+        "it": "La porta della camera non si chiude bene."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha238",
+      "es": "Olvidé el código de la caja fuerte y no puedo abrirla.",
+      "translations": {
+        "en": "I forgot the safe code and can't open it.",
+        "pt": "Esqueci o código do cofre e não consigo abri-lo.",
+        "fr": "J'ai oublié le code du coffre-fort et je n'arrive pas à l'ouvrir.",
+        "it": "Ho dimenticato il codice della cassaforte e non riesco ad aprirla."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha239",
+      "es": "No hay agua caliente.",
+      "translations": {
+        "en": "There's no hot water.",
+        "pt": "Não há água quente.",
+        "fr": "Il n'y a pas d'eau chaude.",
+        "it": "Non c'è acqua calda."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha240",
+      "es": "El aire acondicionado / La calefacción no funciona.",
+      "translations": {
+        "en": "The air conditioning / The heating isn't working.",
+        "pt": "O ar-condicionado / O aquecimento não está funcionando.",
+        "fr": "La climatisation / Le chauffage ne fonctionne pas.",
+        "it": "L'aria condizionata / Il riscaldamento non funziona."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha241",
+      "es": "Se fue la luz en mi habitación; ¿hay electricidad en el resto del hotel?",
+      "translations": {
+        "en": "The power is out in my room. Does the rest of the hotel have electricity?",
+        "pt": "Acabou a energia no meu quarto. Há eletricidade no resto do hotel?",
+        "fr": "Il y a une coupure de courant dans ma chambre. Y a-t-il de l'électricité dans le reste de l'hôtel ?",
+        "it": "È saltata la corrente in camera. C'è elettricità nel resto dell'hotel?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha242",
+      "es": "El inodoro está tapado.",
+      "translations": {
+        "en": "The toilet is clogged.",
+        "pt": "O vaso sanitário está entupido.",
+        "fr": "Les toilettes sont bouchées.",
+        "it": "Il WC è intasato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha243",
+      "es": "Hay una fuga de agua en el baño.",
+      "translations": {
+        "en": "There's a water leak in the bathroom.",
+        "pt": "Há um vazamento de água no banheiro.",
+        "fr": "Il y a une fuite d'eau dans la salle de bains.",
+        "it": "C'è una perdita d'acqua in bagno."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha244",
+      "es": "La habitación no está limpia y las sábanas tienen manchas.",
+      "translations": {
+        "en": "The room isn't clean, and the sheets are stained.",
+        "pt": "O quarto não está limpo e os lençóis estão manchados.",
+        "fr": "La chambre n'est pas propre et les draps sont tachés.",
+        "it": "La camera non è pulita e le lenzuola sono macchiate."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha245",
+      "es": "La habitación huele a humo, aunque reservé una para no fumadores.",
+      "translations": {
+        "en": "The room smells of smoke, even though I booked a non-smoking room.",
+        "pt": "O quarto está com cheiro de fumaça, embora eu tenha reservado um quarto para não fumantes.",
+        "fr": "La chambre sent la fumée alors que j'ai réservé une chambre non-fumeur.",
+        "it": "La camera puzza di fumo, anche se ho prenotato una camera non fumatori."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha246",
+      "es": "Hay moho en la pared.",
+      "translations": {
+        "en": "There's mold on the wall.",
+        "pt": "Há mofo na parede.",
+        "fr": "Il y a de la moisissure sur le mur.",
+        "it": "C'è della muffa sulla parete."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha247",
+      "es": "Encontré insectos en la cama.",
+      "translations": {
+        "en": "I found insects in the bed.",
+        "pt": "Encontrei insetos na cama.",
+        "fr": "J'ai trouvé des insectes dans le lit.",
+        "it": "Ho trovato degli insetti nel letto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha248",
+      "es": "Hay mucho ruido en el pasillo y no puedo dormir.",
+      "translations": {
+        "en": "There's a lot of noise in the hallway, and I can't sleep.",
+        "pt": "Há muito barulho no corredor e não consigo dormir.",
+        "fr": "Il y a beaucoup de bruit dans le couloir et je n'arrive pas à dormir.",
+        "it": "C'è molto rumore nel corridoio e non riesco a dormire."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha249",
+      "es": "¿Pueden pedir a los vecinos que bajen el volumen de la música?",
+      "translations": {
+        "en": "Could you ask the guests next door to turn the music down?",
+        "pt": "Podem pedir aos hóspedes do quarto ao lado que baixem o volume da música?",
+        "fr": "Pouvez-vous demander aux clients de la chambre voisine de baisser la musique ?",
+        "it": "Potete chiedere agli ospiti della camera accanto di abbassare il volume della musica?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha250",
+      "es": "¿A qué hora terminan las obras? El ruido se escucha en la habitación.",
+      "translations": {
+        "en": "What time does the construction work end? I can hear the noise in my room.",
+        "pt": "A que horas terminam as obras? Dá para ouvir o barulho no quarto.",
+        "fr": "À quelle heure les travaux se terminent-ils ? Le bruit s'entend dans la chambre.",
+        "it": "A che ora finiscono i lavori? Il rumore si sente in camera."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha251",
+      "es": "El wifi no funciona en mi habitación.",
+      "translations": {
+        "en": "The Wi-Fi isn't working in my room.",
+        "pt": "O Wi-Fi não está funcionando no meu quarto.",
+        "fr": "Le Wi-Fi ne fonctionne pas dans ma chambre.",
+        "it": "Il Wi-Fi non funziona nella mia camera."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha252",
+      "es": "Reservé dos camas separadas, pero solo hay una cama.",
+      "translations": {
+        "en": "I booked two separate beds, but there's only one bed.",
+        "pt": "Reservei duas camas separadas, mas só há uma cama.",
+        "fr": "J'ai réservé deux lits séparés, mais il n'y a qu'un seul lit.",
+        "it": "Ho prenotato due letti separati, ma c'è un solo letto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha253",
+      "es": "No encuentran mi reserva; aquí está la confirmación.",
+      "translations": {
+        "en": "You can't find my reservation. Here is the confirmation.",
+        "pt": "Vocês não estão encontrando minha reserva. Aqui está a confirmação.",
+        "fr": "Vous ne trouvez pas ma réservation. Voici la confirmation.",
+        "it": "Non trovate la mia prenotazione. Ecco la conferma."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha254",
+      "es": "Las fechas de la reserva no coinciden con mi confirmación.",
+      "translations": {
+        "en": "The reservation dates don't match my confirmation.",
+        "pt": "As datas da reserva não coincidem com a minha confirmação.",
+        "fr": "Les dates de la réservation ne correspondent pas à ma confirmation.",
+        "it": "Le date della prenotazione non corrispondono alla mia conferma."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha255",
+      "es": "¿Puede venir alguien de mantenimiento a revisarlo?",
+      "translations": {
+        "en": "Could someone from maintenance come and take a look?",
+        "pt": "Alguém da manutenção pode vir verificar?",
+        "fr": "Quelqu'un du service technique peut-il venir vérifier ?",
+        "it": "Può venire qualcuno della manutenzione a controllare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha256",
+      "es": "¿Cuánto tardarán en resolver el problema?",
+      "translations": {
+        "en": "How long will it take to fix the problem?",
+        "pt": "Quanto tempo vai levar para resolver o problema?",
+        "fr": "Combien de temps faudra-t-il pour résoudre le problème ?",
+        "it": "Quanto tempo ci vorrà per risolvere il problema?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha257",
+      "es": "¿Podrían cambiarme a otra habitación?",
+      "translations": {
+        "en": "Could you move me to another room?",
+        "pt": "Podem me mudar para outro quarto?",
+        "fr": "Pourriez-vous me changer de chambre ?",
+        "it": "Potreste spostarmi in un'altra camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha258",
+      "es": "¿Puedo ver la otra habitación antes de cambiarme?",
+      "translations": {
+        "en": "Can I see the other room before I move?",
+        "pt": "Posso ver o outro quarto antes de mudar?",
+        "fr": "Puis-je voir l'autre chambre avant de changer ?",
+        "it": "Posso vedere l'altra camera prima di spostarmi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha259",
+      "es": "¿Pueden ayudarme a trasladar el equipaje a la nueva habitación?",
+      "translations": {
+        "en": "Could you help me move my luggage to the new room?",
+        "pt": "Podem me ajudar a levar a bagagem para o novo quarto?",
+        "fr": "Pouvez-vous m'aider à transférer mes bagages dans la nouvelle chambre ?",
+        "it": "Potete aiutarmi a portare i bagagli nella nuova camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha260",
+      "es": "Si no tienen mi habitación disponible, ¿qué alternativa ofrecen?",
+      "translations": {
+        "en": "If my room isn't available, what alternative can you offer?",
+        "pt": "Se o meu quarto não estiver disponível, que alternativa vocês oferecem?",
+        "fr": "Si ma chambre n'est pas disponible, quelle solution proposez-vous ?",
+        "it": "Se la mia camera non è disponibile, quale alternativa offrite?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha261",
+      "es": "Quisiera hablar con el gerente, por favor.",
+      "translations": {
+        "en": "I'd like to speak to the manager, please.",
+        "pt": "Gostaria de falar com o gerente, por favor.",
+        "fr": "Je voudrais parler au responsable, s'il vous plaît.",
+        "it": "Vorrei parlare con il responsabile, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha262",
+      "es": "¿Dónde está la salida de emergencia?",
+      "translations": {
+        "en": "Where is the emergency exit?",
+        "pt": "Onde fica a saída de emergência?",
+        "fr": "Où se trouve la sortie de secours ?",
+        "it": "Dov'è l'uscita di emergenza?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha263",
+      "es": "Necesito ayuda urgente; llamen a una ambulancia, por favor.",
+      "translations": {
+        "en": "I need urgent help. Please call an ambulance.",
+        "pt": "Preciso de ajuda urgente. Chamem uma ambulância, por favor.",
+        "fr": "J'ai besoin d'aide de toute urgence. Appelez une ambulance, s'il vous plaît.",
+        "it": "Ho bisogno di aiuto urgente. Chiamate un'ambulanza, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha264",
+      "es": "Me robaron el pasaporte; necesito contactar a la policía.",
+      "translations": {
+        "en": "My passport was stolen. I need to contact the police.",
+        "pt": "Roubaram meu passaporte. Preciso entrar em contato com a polícia.",
+        "fr": "On m'a volé mon passeport. Je dois contacter la police.",
+        "it": "Mi hanno rubato il passaporto. Devo contattare la polizia."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha265",
+      "es": "Quisiera quedarme una noche más.",
+      "translations": {
+        "en": "I'd like to stay one more night.",
+        "pt": "Gostaria de ficar mais uma noite.",
+        "fr": "Je voudrais rester une nuit de plus.",
+        "it": "Vorrei fermarmi una notte in più."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha266",
+      "es": "¿Puedo conservar la misma habitación?",
+      "translations": {
+        "en": "Can I keep the same room?",
+        "pt": "Posso ficar no mesmo quarto?",
+        "fr": "Puis-je garder la même chambre ?",
+        "it": "Posso tenere la stessa camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha267",
+      "es": "¿La noche adicional tiene la misma tarifa?",
+      "translations": {
+        "en": "Is the extra night at the same rate?",
+        "pt": "A noite adicional tem a mesma tarifa?",
+        "fr": "La nuit supplémentaire est-elle au même tarif ?",
+        "it": "La notte in più ha la stessa tariffa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha268",
+      "es": "Necesito salir un día antes; ¿cambia el precio total?",
+      "translations": {
+        "en": "I need to leave a day early. Will the total price change?",
+        "pt": "Preciso sair um dia antes. O valor total muda?",
+        "fr": "Je dois partir un jour plus tôt. Le prix total change-t-il ?",
+        "it": "Devo partire un giorno prima. Il prezzo totale cambia?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha269",
+      "es": "Quisiera cambiar las fechas de mi reserva.",
+      "translations": {
+        "en": "I'd like to change the dates of my reservation.",
+        "pt": "Gostaria de alterar as datas da minha reserva.",
+        "fr": "Je voudrais modifier les dates de ma réservation.",
+        "it": "Vorrei modificare le date della mia prenotazione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha270",
+      "es": "¿Hay algún cargo por cambiar la reserva?",
+      "translations": {
+        "en": "Is there a fee to change the reservation?",
+        "pt": "Há alguma taxa para alterar a reserva?",
+        "fr": "Y a-t-il des frais pour modifier la réservation ?",
+        "it": "Ci sono costi per modificare la prenotazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha271",
+      "es": "Quiero cancelar solo una de las habitaciones de la reserva.",
+      "translations": {
+        "en": "I'd like to cancel just one of the rooms on the reservation.",
+        "pt": "Quero cancelar apenas um dos quartos da reserva.",
+        "fr": "Je voudrais annuler seulement une des chambres de la réservation.",
+        "it": "Vorrei cancellare solo una delle camere della prenotazione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha272",
+      "es": "¿Debo hacer el cambio con ustedes o con la plataforma donde reservé?",
+      "translations": {
+        "en": "Should I make the change with you or with the platform I booked through?",
+        "pt": "Devo fazer a alteração com vocês ou com a plataforma pela qual reservei?",
+        "fr": "Dois-je faire la modification auprès de vous ou de la plateforme sur laquelle j'ai réservé ?",
+        "it": "Devo fare la modifica con voi o con la piattaforma tramite cui ho prenotato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha273",
+      "es": "Tengo dos reservas consecutivas; ¿pueden unirlas para que no tenga que cambiarme de habitación?",
+      "translations": {
+        "en": "I have two consecutive bookings. Can you link them so I don't have to change rooms?",
+        "pt": "Tenho duas reservas consecutivas. Podem vinculá-las para eu não precisar mudar de quarto?",
+        "fr": "J'ai deux réservations consécutives. Pouvez-vous les relier pour que je n'aie pas à changer de chambre ?",
+        "it": "Ho due prenotazioni consecutive. Potete collegarle così non devo cambiare camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha274",
+      "es": "Mi vuelo se retrasó; llegaré más tarde. Por favor, conserven mi reserva.",
+      "translations": {
+        "en": "My flight is delayed, so I'll arrive later. Please keep my reservation.",
+        "pt": "Meu voo atrasou e vou chegar mais tarde. Por favor, mantenham minha reserva.",
+        "fr": "Mon vol est retardé, donc j'arriverai plus tard. Veuillez conserver ma réservation.",
+        "it": "Il mio volo è in ritardo, quindi arriverò più tardi. Per favore, mantenete la mia prenotazione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha275",
+      "es": "¿Pueden confirmar el cambio por escrito?",
+      "translations": {
+        "en": "Could you confirm the change in writing?",
+        "pt": "Podem confirmar a alteração por escrito?",
+        "fr": "Pouvez-vous confirmer la modification par écrit ?",
+        "it": "Potete confermare la modifica per iscritto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha276",
+      "es": "¿Qué monto me van a reembolsar?",
+      "translations": {
+        "en": "How much will you refund me?",
+        "pt": "Qual valor vocês vão me reembolsar?",
+        "fr": "Quel montant allez-vous me rembourser ?",
+        "it": "Quale importo mi rimborserete?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha277",
+      "es": "¿Cuándo procesarán el reembolso?",
+      "translations": {
+        "en": "When will you process the refund?",
+        "pt": "Quando vocês vão processar o reembolso?",
+        "fr": "Quand effectuerez-vous le remboursement ?",
+        "it": "Quando elaborerete il rimborso?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha278",
+      "es": "¿El reembolso será a mi tarjeta o mediante un vale?",
+      "translations": {
+        "en": "Will the refund go to my card, or will I receive a voucher?",
+        "pt": "O reembolso será no meu cartão ou por meio de um vale?",
+        "fr": "Le remboursement sera-t-il effectué sur ma carte ou sous forme d'avoir ?",
+        "it": "Il rimborso verrà accreditato sulla carta o riceverò un buono?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha279",
+      "es": "¿Puedo dejar mi equipaje aquí después del check-out?",
+      "translations": {
+        "en": "Can I leave my luggage here after check-out?",
+        "pt": "Posso deixar minha bagagem aqui depois do check-out?",
+        "fr": "Puis-je laisser mes bagages ici après le départ ?",
+        "it": "Posso lasciare qui i bagagli dopo il check-out?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha280",
+      "es": "¿Hasta qué hora guardan el equipaje? ¿Tiene costo?",
+      "translations": {
+        "en": "Until what time can you store my luggage? Is there a charge?",
+        "pt": "Até que horas vocês guardam a bagagem? Há custo?",
+        "fr": "Jusqu'à quelle heure pouvez-vous garder mes bagages ? Est-ce payant ?",
+        "it": "Fino a che ora potete tenere i bagagli? Ha un costo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha281",
+      "es": "Volveré a recoger mis maletas a las [hora].",
+      "translations": {
+        "en": "I'll come back to pick up my bags at [time].",
+        "pt": "Vou voltar para buscar minhas malas às [horário].",
+        "fr": "Je reviendrai récupérer mes bagages à [heure].",
+        "it": "Tornerò a ritirare i bagagli alle [ora]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha282",
+      "es": "Este es mi comprobante para recoger el equipaje.",
+      "translations": {
+        "en": "Here is my luggage claim ticket.",
+        "pt": "Este é meu comprovante para retirar a bagagem.",
+        "fr": "Voici mon ticket de consigne.",
+        "it": "Questa è la mia ricevuta per ritirare i bagagli."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha283",
+      "es": "Perdí el comprobante del equipaje; ¿cómo puedo identificar mis maletas?",
+      "translations": {
+        "en": "I lost my luggage claim ticket. How can I identify my bags?",
+        "pt": "Perdi o comprovante da bagagem. Como posso identificar minhas malas?",
+        "fr": "J'ai perdu mon ticket de consigne. Comment puis-je identifier mes bagages ?",
+        "it": "Ho perso la ricevuta del deposito bagagli. Come posso identificare le mie valigie?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha284",
+      "es": "Mi maleta no está donde la dejaron; ¿pueden revisar?",
+      "translations": {
+        "en": "My suitcase isn't where it was left. Could you check?",
+        "pt": "Minha mala não está onde foi deixada. Podem verificar?",
+        "fr": "Ma valise n'est pas à l'endroit où elle a été déposée. Pouvez-vous vérifier ?",
+        "it": "La mia valigia non è dove è stata lasciata. Potete controllare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha285",
+      "es": "¿Hay una entrada sin escalones?",
+      "translations": {
+        "en": "Is there a step-free entrance?",
+        "pt": "Há uma entrada sem degraus?",
+        "fr": "Y a-t-il une entrée sans marches ?",
+        "it": "C'è un ingresso senza gradini?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha286",
+      "es": "Uso silla de ruedas; ¿cuánto miden las puertas de la habitación y del baño?",
+      "translations": {
+        "en": "I use a wheelchair. How wide are the room and bathroom doors?",
+        "pt": "Uso cadeira de rodas. Qual é a largura das portas do quarto e do banheiro?",
+        "fr": "J'utilise un fauteuil roulant. Quelle est la largeur des portes de la chambre et de la salle de bains ?",
+        "it": "Uso una sedia a rotelle. Quanto sono larghe le porte della camera e del bagno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha287",
+      "es": "¿Hay elevador hasta el piso de esa habitación?",
+      "translations": {
+        "en": "Is there an elevator to that room's floor?",
+        "pt": "Há elevador até o andar desse quarto?",
+        "fr": "Y a-t-il un ascenseur jusqu'à l'étage de cette chambre ?",
+        "it": "C'è un ascensore fino al piano di quella camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha288",
+      "es": "¿La regadera tiene entrada sin escalón y barras de apoyo?",
+      "translations": {
+        "en": "Does the shower have a step-free entrance and grab bars?",
+        "pt": "O chuveiro tem acesso sem degrau e barras de apoio?",
+        "fr": "La douche est-elle de plain-pied et équipée de barres d'appui ?",
+        "it": "La doccia ha un accesso senza gradino e maniglioni di sostegno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha289",
+      "es": "Necesito una alarma visual; ¿tienen una habitación adaptada para personas con discapacidad auditiva?",
+      "translations": {
+        "en": "I need a visual alarm. Do you have a room adapted for guests with hearing disabilities?",
+        "pt": "Preciso de um alarme visual. Vocês têm um quarto adaptado para pessoas com deficiência auditiva?",
+        "fr": "J'ai besoin d'une alarme visuelle. Avez-vous une chambre adaptée aux personnes malentendantes ?",
+        "it": "Ho bisogno di un allarme visivo. Avete una camera adattata per persone con disabilità uditive?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha290",
+      "es": "Viajo con un perro guía; ¿qué necesitan saber antes de mi llegada?",
+      "translations": {
+        "en": "I'm traveling with a guide dog. What do you need to know before I arrive?",
+        "pt": "Viajo com um cão-guia. O que vocês precisam saber antes da minha chegada?",
+        "fr": "Je voyage avec un chien guide. Qu'avez-vous besoin de savoir avant mon arrivée ?",
+        "it": "Viaggio con un cane guida. Che cosa dovete sapere prima del mio arrivo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha291",
+      "es": "¿Aceptan mascotas? ¿Hay un cargo adicional o zonas donde no pueden entrar?",
+      "translations": {
+        "en": "Do you allow pets? Is there an extra charge or any area where they aren't allowed?",
+        "pt": "Vocês aceitam animais de estimação? Há cobrança adicional ou áreas onde eles não podem entrar?",
+        "fr": "Acceptez-vous les animaux de compagnie ? Y a-t-il un supplément ou des zones où ils ne sont pas admis ?",
+        "it": "Accettate animali domestici? C'è un supplemento o ci sono zone dove non possono entrare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha292",
+      "es": "¿Los niños pagan lo mismo que los adultos?",
+      "translations": {
+        "en": "Do children pay the same rate as adults?",
+        "pt": "As crianças pagam a mesma tarifa que os adultos?",
+        "fr": "Les enfants paient-ils le même tarif que les adultes ?",
+        "it": "I bambini pagano la stessa tariffa degli adulti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha293",
+      "es": "¿Tienen una silla alta para bebé en el comedor?",
+      "translations": {
+        "en": "Do you have a high chair in the dining room?",
+        "pt": "Vocês têm cadeira de alimentação para bebê no restaurante?",
+        "fr": "Avez-vous une chaise haute dans la salle à manger ?",
+        "it": "Avete un seggiolone nella sala da pranzo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha294",
+      "es": "Tengo una alergia alimentaria; ¿con quién puedo revisar los ingredientes del desayuno?",
+      "translations": {
+        "en": "I have a food allergy. Who can I speak to about the breakfast ingredients?",
+        "pt": "Tenho uma alergia alimentar. Com quem posso conferir os ingredientes do café da manhã?",
+        "fr": "J'ai une allergie alimentaire. Avec qui puis-je vérifier les ingrédients du petit-déjeuner ?",
+        "it": "Ho un'allergia alimentare. Con chi posso verificare gli ingredienti della colazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha295",
+      "es": "Casillero / Locker",
+      "translations": {
+        "en": "Locker",
+        "pt": "Armário com chave / Locker",
+        "fr": "Casier",
+        "it": "Armadietto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha296",
+      "es": "Candado",
+      "translations": {
+        "en": "Padlock",
+        "pt": "Cadeado",
+        "fr": "Cadenas",
+        "it": "Lucchetto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha297",
+      "es": "Cocina compartida",
+      "translations": {
+        "en": "Shared kitchen",
+        "pt": "Cozinha compartilhada",
+        "fr": "Cuisine commune / Cuisine partagée",
+        "it": "Cucina in comune"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha298",
+      "es": "Sala común",
+      "translations": {
+        "en": "Common room / Shared lounge",
+        "pt": "Sala de convivência / Sala comum",
+        "fr": "Salle commune",
+        "it": "Sala comune"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha299",
+      "es": "¿Qué cama me corresponde?",
+      "translations": {
+        "en": "Which bed is mine?",
+        "pt": "Qual é a minha cama?",
+        "fr": "Quel lit m'est attribué ?",
+        "it": "Qual è il mio letto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha300",
+      "es": "Preferiría la cama de abajo de la litera.",
+      "translations": {
+        "en": "I'd prefer the bottom bunk.",
+        "pt": "Preferiria a cama de baixo do beliche.",
+        "fr": "Je préférerais le lit du bas.",
+        "it": "Preferirei il letto inferiore del letto a castello."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha301",
+      "es": "¿Las sábanas y las toallas están incluidas?",
+      "translations": {
+        "en": "Are bedsheets and towels included?",
+        "pt": "Os lençóis e as toalhas estão incluídos?",
+        "fr": "Les draps et les serviettes sont-ils inclus ?",
+        "it": "Le lenzuola e gli asciugamani sono inclusi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha302",
+      "es": "¿El casillero tiene cerradura o debo traer mi propio candado?",
+      "translations": {
+        "en": "Does the locker have a lock, or do I need to bring my own padlock?",
+        "pt": "O armário tem fechadura ou preciso trazer meu próprio cadeado?",
+        "fr": "Le casier a-t-il une serrure ou dois-je apporter mon propre cadenas ?",
+        "it": "L'armadietto ha una serratura o devo portare il mio lucchetto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha303",
+      "es": "¿Hasta qué hora se puede usar la cocina compartida?",
+      "translations": {
+        "en": "Until what time can I use the shared kitchen?",
+        "pt": "Até que horas posso usar a cozinha compartilhada?",
+        "fr": "Jusqu'à quelle heure peut-on utiliser la cuisine commune ?",
+        "it": "Fino a che ora si può usare la cucina in comune?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha304",
+      "es": "¿Debo poner mi nombre en la comida que dejo en el refrigerador?",
+      "translations": {
+        "en": "Should I label the food I leave in the refrigerator with my name?",
+        "pt": "Devo colocar meu nome na comida que deixo na geladeira?",
+        "fr": "Dois-je mettre mon nom sur la nourriture que je laisse dans le réfrigérateur ?",
+        "it": "Devo mettere il mio nome sul cibo che lascio in frigorifero?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha305",
+      "es": "¿Cuál es el horario de silencio?",
+      "translations": {
+        "en": "What are the quiet hours?",
+        "pt": "Qual é o horário de silêncio?",
+        "fr": "Quelles sont les heures de calme ?",
+        "it": "Quali sono gli orari di silenzio?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha306",
+      "es": "¿Te molesta si enciendo la luz? (a un compañero de habitación)",
+      "translations": {
+        "en": "Do you mind if I turn on the light?",
+        "pt": "Você se importa se eu acender a luz?",
+        "fr": "Ça te dérange si j'allume la lumière ?",
+        "it": "Ti dispiace se accendo la luce?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha307",
+      "es": "¿Dónde recojo las llaves del departamento?",
+      "translations": {
+        "en": "Where do I pick up the apartment keys?",
+        "pt": "Onde retiro as chaves do apartamento?",
+        "fr": "Où dois-je récupérer les clés de l'appartement ?",
+        "it": "Dove ritiro le chiavi dell'appartamento?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha308",
+      "es": "¿Cuál es el número del edificio, el piso y el departamento?",
+      "translations": {
+        "en": "What is the building number, floor, and apartment number?",
+        "pt": "Qual é o número do prédio, o andar e o número do apartamento?",
+        "fr": "Quels sont le numéro de l'immeuble, l'étage et le numéro de l'appartement ?",
+        "it": "Quali sono il numero dell'edificio, il piano e il numero dell'appartamento?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha309",
+      "es": "¿El código es para la entrada del edificio o para la puerta del departamento?",
+      "translations": {
+        "en": "Is the code for the building entrance or the apartment door?",
+        "pt": "O código é para a entrada do prédio ou para a porta do apartamento?",
+        "fr": "Le code est-il pour l'entrée de l'immeuble ou pour la porte de l'appartement ?",
+        "it": "Il codice è per l'ingresso dell'edificio o per la porta dell'appartamento?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha310",
+      "es": "¿Cómo contacto al anfitrión si necesito ayuda?",
+      "translations": {
+        "en": "How do I contact the host if I need help?",
+        "pt": "Como entro em contato com o anfitrião se precisar de ajuda?",
+        "fr": "Comment contacter l'hôte si j'ai besoin d'aide ?",
+        "it": "Come contatto l'host se ho bisogno di aiuto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha311",
+      "es": "¿El precio del departamento incluye el cargo de limpieza final?",
+      "translations": {
+        "en": "Does the apartment price include the final cleaning fee?",
+        "pt": "O preço do apartamento inclui a taxa de limpeza final?",
+        "fr": "Le prix de l'appartement comprend-il les frais de ménage de fin de séjour ?",
+        "it": "Il prezzo dell'appartamento include il costo della pulizia finale?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha312",
+      "es": "¿Dónde dejo las llaves al salir?",
+      "translations": {
+        "en": "Where should I leave the keys when I check out?",
+        "pt": "Onde deixo as chaves na saída?",
+        "fr": "Où dois-je laisser les clés au départ ?",
+        "it": "Dove devo lasciare le chiavi alla partenza?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha313",
+      "es": "¿Debo sacar la basura o lavar los platos antes de salir?",
+      "translations": {
+        "en": "Do I need to take out the trash or wash the dishes before I leave?",
+        "pt": "Preciso tirar o lixo ou lavar a louça antes de sair?",
+        "fr": "Dois-je sortir les poubelles ou faire la vaisselle avant de partir ?",
+        "it": "Devo portare fuori la spazzatura o lavare i piatti prima di partire?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha314",
+      "es": "Quisiera hacer el check-out.",
+      "translations": {
+        "en": "I'd like to check out.",
+        "pt": "Gostaria de fazer o check-out.",
+        "fr": "Je voudrais faire les formalités de départ.",
+        "it": "Vorrei fare il check-out."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha315",
+      "es": "¿Puedo dejar la habitación a las [hora]? ¿Tiene algún cargo adicional?",
+      "translations": {
+        "en": "Can I check out at [time]? Is there an extra charge?",
+        "pt": "Posso desocupar o quarto às [horário]? Há alguma cobrança adicional?",
+        "fr": "Puis-je libérer la chambre à [heure] ? Y a-t-il un supplément ?",
+        "it": "Posso lasciare la camera alle [ora]? C'è un supplemento?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha316",
+      "es": "¿Puedo seguir usando la alberca después del check-out?",
+      "translations": {
+        "en": "Can I still use the pool after check-out?",
+        "pt": "Posso continuar usando a piscina depois do check-out?",
+        "fr": "Puis-je continuer à utiliser la piscine après mon départ de la chambre ?",
+        "it": "Posso continuare a usare la piscina dopo il check-out?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha317",
+      "es": "¿Me puede dar la cuenta detallada, por favor?",
+      "translations": {
+        "en": "Could I have an itemized bill, please?",
+        "pt": "Pode me dar a conta detalhada, por favor?",
+        "fr": "Pouvez-vous me donner une note détaillée, s'il vous plaît ?",
+        "it": "Mi può dare il conto dettagliato, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha318",
+      "es": "Quisiera revisar los cargos antes de pagar.",
+      "translations": {
+        "en": "I'd like to review the charges before I pay.",
+        "pt": "Gostaria de conferir as cobranças antes de pagar.",
+        "fr": "Je voudrais vérifier les frais avant de payer.",
+        "it": "Vorrei controllare gli addebiti prima di pagare."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha319",
+      "es": "¿A qué corresponde este cargo?",
+      "translations": {
+        "en": "What is this charge for?",
+        "pt": "A que se refere esta cobrança?",
+        "fr": "À quoi correspondent ces frais ?",
+        "it": "A cosa si riferisce questo addebito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha320",
+      "es": "No consumí nada del minibar.",
+      "translations": {
+        "en": "I didn't use anything from the minibar.",
+        "pt": "Não consumi nada do frigobar.",
+        "fr": "Je n'ai rien consommé dans le minibar.",
+        "it": "Non ho consumato nulla dal minibar."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha321",
+      "es": "Me están cobrando una noche de más.",
+      "translations": {
+        "en": "You're charging me for an extra night.",
+        "pt": "Vocês estão me cobrando uma noite a mais.",
+        "fr": "Vous me facturez une nuit de trop.",
+        "it": "Mi state addebitando una notte in più."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha322",
+      "es": "Este cargo ya lo pagué al llegar.",
+      "translations": {
+        "en": "I already paid this charge when I arrived.",
+        "pt": "Já paguei esta cobrança quando cheguei.",
+        "fr": "J'ai déjà payé ces frais à mon arrivée.",
+        "it": "Ho già pagato questo importo all'arrivo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha323",
+      "es": "Me cobraron dos veces; aquí están los comprobantes.",
+      "translations": {
+        "en": "I was charged twice. Here are the receipts.",
+        "pt": "Fui cobrado/cobrada duas vezes. Aqui estão os comprovantes.",
+        "fr": "J'ai été facturé/facturée deux fois. Voici les justificatifs.",
+        "it": "Mi avete addebitato l'importo due volte. Ecco le ricevute."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha324",
+      "es": "¿Pueden emitir una factura a nombre de mi empresa?",
+      "translations": {
+        "en": "Could you issue an invoice in my company's name?",
+        "pt": "Podem emitir uma nota fiscal em nome da minha empresa?",
+        "fr": "Pouvez-vous établir une facture au nom de mon entreprise ?",
+        "it": "Potete emettere una fattura a nome della mia azienda?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha325",
+      "es": "¿Qué datos necesitan para la factura?",
+      "translations": {
+        "en": "What information do you need for the invoice?",
+        "pt": "Quais dados vocês precisam para a nota fiscal?",
+        "fr": "Quelles informations vous faut-il pour la facture ?",
+        "it": "Quali dati vi servono per la fattura?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha326",
+      "es": "¿Podemos recibir una factura separada por cada habitación?",
+      "translations": {
+        "en": "Can we get a separate invoice for each room?",
+        "pt": "Podemos receber uma nota fiscal separada para cada quarto?",
+        "fr": "Pouvons-nous avoir une facture séparée pour chaque chambre ?",
+        "it": "Possiamo avere una fattura separata per ogni camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha327",
+      "es": "¿Pueden enviarme la factura por correo electrónico?",
+      "translations": {
+        "en": "Could you email me the invoice?",
+        "pt": "Podem me enviar a nota fiscal por e-mail?",
+        "fr": "Pouvez-vous m'envoyer la facture par e-mail ?",
+        "it": "Potete inviarmi la fattura via e-mail?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha328",
+      "es": "Quisiera pagar con otra tarjeta.",
+      "translations": {
+        "en": "I'd like to pay with a different card.",
+        "pt": "Gostaria de pagar com outro cartão.",
+        "fr": "Je voudrais payer avec une autre carte.",
+        "it": "Vorrei pagare con un'altra carta."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha329",
+      "es": "¿Puedo pagar una parte en efectivo y el resto con tarjeta?",
+      "translations": {
+        "en": "Can I pay part in cash and the rest by card?",
+        "pt": "Posso pagar uma parte em dinheiro e o restante com cartão?",
+        "fr": "Puis-je payer une partie en espèces et le reste par carte ?",
+        "it": "Posso pagare una parte in contanti e il resto con la carta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha330",
+      "es": "¿Puedo pagar acercando la tarjeta o el teléfono?",
+      "translations": {
+        "en": "Can I pay by tapping my card or phone?",
+        "pt": "Posso pagar por aproximação com o cartão ou o celular?",
+        "fr": "Puis-je payer sans contact avec ma carte ou mon téléphone ?",
+        "it": "Posso pagare contactless con la carta o il telefono?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha331",
+      "es": "¿Queda algún saldo pendiente?",
+      "translations": {
+        "en": "Is there any outstanding balance?",
+        "pt": "Há algum saldo pendente?",
+        "fr": "Reste-t-il un solde à payer ?",
+        "it": "Resta qualche saldo da pagare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha332",
+      "es": "Aquí están las tarjetas llave.",
+      "translations": {
+        "en": "Here are the key cards.",
+        "pt": "Aqui estão os cartões-chave.",
+        "fr": "Voici les cartes-clés.",
+        "it": "Ecco le tessere della camera."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha333",
+      "es": "¿Pueden darme un comprobante de la devolución del depósito de garantía?",
+      "translations": {
+        "en": "Could you give me proof that the security deposit was returned?",
+        "pt": "Podem me dar um comprovante da devolução da caução?",
+        "fr": "Pouvez-vous me donner un justificatif du remboursement du dépôt de garantie ?",
+        "it": "Potete darmi una ricevuta della restituzione del deposito cauzionale?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha334",
+      "es": "¿Ya solicitaron la liberación de la retención en mi tarjeta?",
+      "translations": {
+        "en": "Have you requested the release of the hold on my card?",
+        "pt": "Já solicitaram a liberação do bloqueio no meu cartão?",
+        "fr": "Avez-vous demandé la levée du blocage sur ma carte ?",
+        "it": "Avete già richiesto lo sblocco dell'importo sulla mia carta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha335",
+      "es": "Creo que olvidé [objeto] en la habitación [número]; ¿pueden revisar?",
+      "translations": {
+        "en": "I think I left [item] in room [number]. Could you check?",
+        "pt": "Acho que esqueci [objeto] no quarto [número]. Podem verificar?",
+        "fr": "Je pense avoir oublié [objet] dans la chambre [numéro]. Pouvez-vous vérifier ?",
+        "it": "Credo di aver dimenticato [oggetto] nella camera [numero]. Potete controllare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha336",
+      "es": "¿Pueden guardar el objeto hasta que alguien lo recoja?",
+      "translations": {
+        "en": "Can you keep the item until someone picks it up?",
+        "pt": "Podem guardar o objeto até alguém buscá-lo?",
+        "fr": "Pouvez-vous garder l'objet jusqu'à ce que quelqu'un vienne le récupérer ?",
+        "it": "Potete tenere l'oggetto finché qualcuno viene a ritirarlo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha337",
+      "es": "¿Pueden enviármelo? Yo pago el envío.",
+      "translations": {
+        "en": "Could you ship it to me? I'll pay for shipping.",
+        "pt": "Podem me enviar? Eu pago o frete.",
+        "fr": "Pouvez-vous me l'expédier ? Je paierai les frais d'envoi.",
+        "it": "Potete spedirmelo? Pago io le spese di spedizione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha338",
+      "es": "¿A nombre de quién está la reserva?",
+      "translations": {
+        "en": "What name is the reservation under?",
+        "pt": "Em nome de quem está a reserva?",
+        "fr": "À quel nom est la réservation ?",
+        "it": "A che nome è la prenotazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha339",
+      "es": "¿Me permite su pasaporte o una identificación, por favor?",
+      "translations": {
+        "en": "May I see your passport or ID, please?",
+        "pt": "Pode me mostrar seu passaporte ou documento de identidade, por favor?",
+        "fr": "Puis-je voir votre passeport ou une pièce d'identité, s'il vous plaît ?",
+        "it": "Mi può mostrare il passaporto o un documento d'identità, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha340",
+      "es": "¿Cuántos adultos y cuántos niños se alojarán?",
+      "translations": {
+        "en": "How many adults and children will be staying?",
+        "pt": "Quantos adultos e quantas crianças vão se hospedar?",
+        "fr": "Combien d'adultes et d'enfants séjourneront ici ?",
+        "it": "Quanti adulti e quanti bambini soggiorneranno qui?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha341",
+      "es": "¿Cuántas noches se quedará?",
+      "translations": {
+        "en": "How many nights will you be staying?",
+        "pt": "Quantas noites vai ficar?",
+        "fr": "Combien de nuits resterez-vous ?",
+        "it": "Quante notti si fermerà?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha342",
+      "es": "¿Reservó directamente con nosotros o mediante una plataforma?",
+      "translations": {
+        "en": "Did you book directly with us or through a booking platform?",
+        "pt": "Fez a reserva diretamente conosco ou por uma plataforma?",
+        "fr": "Avez-vous réservé directement auprès de nous ou via une plateforme ?",
+        "it": "Ha prenotato direttamente con noi o tramite una piattaforma?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha343",
+      "es": "Por favor, complete el formulario con su dirección y nacionalidad.",
+      "translations": {
+        "en": "Please fill out the form with your address and nationality.",
+        "pt": "Por favor, preencha o formulário com seu endereço e sua nacionalidade.",
+        "fr": "Veuillez remplir le formulaire avec votre adresse et votre nationalité.",
+        "it": "Per favore, compili il modulo con il suo indirizzo e la sua nazionalità."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha344",
+      "es": "Firme aquí, por favor.",
+      "translations": {
+        "en": "Please sign here.",
+        "pt": "Assine aqui, por favor.",
+        "fr": "Signez ici, s'il vous plaît.",
+        "it": "Firmi qui, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha345",
+      "es": "Necesitamos una tarjeta para garantizar los gastos adicionales.",
+      "translations": {
+        "en": "We need a card to cover any incidental charges.",
+        "pt": "Precisamos de um cartão para garantir as despesas extras.",
+        "fr": "Nous avons besoin d'une carte pour garantir les frais supplémentaires.",
+        "it": "Abbiamo bisogno di una carta a garanzia delle spese extra."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha346",
+      "es": "Retendremos [monto] en su tarjeta; no es un cobro definitivo.",
+      "translations": {
+        "en": "We'll place a hold of [amount] on your card. It isn't a final charge.",
+        "pt": "Vamos bloquear [valor] no seu cartão. Não é uma cobrança definitiva.",
+        "fr": "Nous allons bloquer [montant] sur votre carte. Il ne s'agit pas d'un débit définitif.",
+        "it": "Bloccheremo [importo] sulla sua carta. Non è un addebito definitivo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha347",
+      "es": "El plazo para que desaparezca la retención depende de su banco.",
+      "translations": {
+        "en": "How long it takes for the hold to disappear depends on your bank.",
+        "pt": "O prazo para o bloqueio desaparecer depende do seu banco.",
+        "fr": "Le délai de disparition du blocage dépend de votre banque.",
+        "it": "Il tempo necessario perché il blocco scompaia dipende dalla sua banca."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha348",
+      "es": "Su habitación todavía no está lista; puede dejar el equipaje aquí.",
+      "translations": {
+        "en": "Your room isn't ready yet. You can leave your luggage here.",
+        "pt": "Seu quarto ainda não está pronto. Pode deixar a bagagem aqui.",
+        "fr": "Votre chambre n'est pas encore prête. Vous pouvez laisser vos bagages ici.",
+        "it": "La sua camera non è ancora pronta. Può lasciare qui i bagagli."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha349",
+      "es": "Su habitación es la [número]; el elevador está a la izquierda.",
+      "translations": {
+        "en": "Your room number is [number]. The elevator is on the left.",
+        "pt": "Seu quarto é o [número]. O elevador fica à esquerda.",
+        "fr": "Votre chambre est la [numéro]. L'ascenseur est à gauche.",
+        "it": "La sua camera è la [numero]. L'ascensore è a sinistra."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha350",
+      "es": "Acerque la tarjeta al lector y después abra la puerta.",
+      "translations": {
+        "en": "Hold the card up to the reader, then open the door.",
+        "pt": "Aproxime o cartão do leitor e depois abra a porta.",
+        "fr": "Approchez la carte du lecteur, puis ouvrez la porte.",
+        "it": "Avvicini la tessera al lettore, poi apra la porta."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha351",
+      "es": "La contraseña del wifi está en esta hoja.",
+      "translations": {
+        "en": "The Wi-Fi password is on this sheet.",
+        "pt": "A senha do Wi-Fi está nesta folha.",
+        "fr": "Le mot de passe du Wi-Fi est sur cette feuille.",
+        "it": "La password del Wi-Fi è su questo foglio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha352",
+      "es": "Servimos el desayuno de las [hora1] a las [hora2].",
+      "translations": {
+        "en": "We serve breakfast from [time1] to [time2].",
+        "pt": "Servimos o café da manhã das [horário1] às [horário2].",
+        "fr": "Nous servons le petit-déjeuner de [heure1] à [heure2].",
+        "it": "Serviamo la colazione dalle [ora1] alle [ora2]."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha353",
+      "es": "El desayuno no está incluido; cuesta [monto] por persona.",
+      "translations": {
+        "en": "Breakfast isn't included. It costs [amount] per person.",
+        "pt": "O café da manhã não está incluído. Custa [valor] por pessoa.",
+        "fr": "Le petit-déjeuner n'est pas inclus. Il coûte [montant] par personne.",
+        "it": "La colazione non è inclusa. Costa [importo] a persona."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha354",
+      "es": "La cama adicional tiene un cargo por noche.",
+      "translations": {
+        "en": "There is a nightly charge for the extra bed.",
+        "pt": "A cama extra tem uma cobrança por noite.",
+        "fr": "Le lit d'appoint est facturé par nuit.",
+        "it": "Il letto aggiuntivo ha un costo per notte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha355",
+      "es": "¿Puedo entrar para limpiar la habitación?",
+      "translations": {
+        "en": "May I come in to clean the room?",
+        "pt": "Posso entrar para limpar o quarto?",
+        "fr": "Puis-je entrer pour faire le ménage ?",
+        "it": "Posso entrare per pulire la camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha356",
+      "es": "¿Quiere que cambiemos las toallas o las sábanas?",
+      "translations": {
+        "en": "Would you like us to change the towels or bedsheets?",
+        "pt": "Quer que troquemos as toalhas ou os lençóis?",
+        "fr": "Souhaitez-vous que nous changions les serviettes ou les draps ?",
+        "it": "Desidera che cambiamo gli asciugamani o le lenzuola?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha357",
+      "es": "Podemos volver más tarde; ¿a qué hora le conviene?",
+      "translations": {
+        "en": "We can come back later. What time works for you?",
+        "pt": "Podemos voltar mais tarde. Qual horário é melhor para você?",
+        "fr": "Nous pouvons revenir plus tard. Quelle heure vous convient ?",
+        "it": "Possiamo tornare più tardi. Quale orario le va bene?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha358",
+      "es": "Un técnico irá a su habitación para revisar el problema.",
+      "translations": {
+        "en": "A technician will come to your room to check the problem.",
+        "pt": "Um técnico irá ao seu quarto verificar o problema.",
+        "fr": "Un technicien viendra dans votre chambre pour examiner le problème.",
+        "it": "Un tecnico verrà nella sua camera per controllare il problema."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha359",
+      "es": "¿Podemos entrar aunque usted no esté?",
+      "translations": {
+        "en": "May we enter even if you're not there?",
+        "pt": "Podemos entrar mesmo se você não estiver?",
+        "fr": "Pouvons-nous entrer même en votre absence ?",
+        "it": "Possiamo entrare anche se lei non è presente?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha360",
+      "es": "Podemos ofrecerle otra habitación; ¿quiere verla primero?",
+      "translations": {
+        "en": "We can offer you another room. Would you like to see it first?",
+        "pt": "Podemos oferecer outro quarto. Quer vê-lo primeiro?",
+        "fr": "Nous pouvons vous proposer une autre chambre. Voulez-vous la voir d'abord ?",
+        "it": "Possiamo offrirle un'altra camera. Vuole vederla prima?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha361",
+      "es": "Hubo una sobreventa; podemos ofrecerle alojamiento en otro hotel.",
+      "translations": {
+        "en": "We've overbooked. We can offer you accommodation at another hotel.",
+        "pt": "Houve overbooking. Podemos oferecer hospedagem em outro hotel.",
+        "fr": "Il y a eu une surréservation. Nous pouvons vous proposer un hébergement dans un autre hôtel.",
+        "it": "C'è stato un overbooking. Possiamo offrirle un alloggio in un altro hotel."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha362",
+      "es": "La salida tardía está sujeta a disponibilidad.",
+      "translations": {
+        "en": "Late check-out is subject to availability.",
+        "pt": "O check-out tardio está sujeito à disponibilidade.",
+        "fr": "Le départ tardif est soumis à disponibilité.",
+        "it": "Il check-out tardivo è soggetto a disponibilità."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha363",
+      "es": "Puede quedarse hasta las [hora] sin cargo adicional.",
+      "translations": {
+        "en": "You can stay until [time] at no extra charge.",
+        "pt": "Pode ficar até as [horário] sem custo adicional.",
+        "fr": "Vous pouvez rester jusqu'à [heure] sans supplément.",
+        "it": "Può rimanere fino alle [ora] senza costi aggiuntivi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha364",
+      "es": "Para modificar esta reserva, debe contactar a la plataforma donde la hizo.",
+      "translations": {
+        "en": "To change this booking, you need to contact the platform you booked through.",
+        "pt": "Para alterar esta reserva, precisa entrar em contato com a plataforma pela qual reservou.",
+        "fr": "Pour modifier cette réservation, vous devez contacter la plateforme sur laquelle vous avez réservé.",
+        "it": "Per modificare questa prenotazione, deve contattare la piattaforma tramite cui ha prenotato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha365",
+      "es": "¿Cuál es su número de habitación?",
+      "translations": {
+        "en": "What's your room number?",
+        "pt": "Qual é o número do seu quarto?",
+        "fr": "Quel est le numéro de votre chambre ?",
+        "it": "Qual è il numero della sua camera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha366",
+      "es": "¿Consumió algo del minibar?",
+      "translations": {
+        "en": "Did you use anything from the minibar?",
+        "pt": "Consumiu algo do frigobar?",
+        "fr": "Avez-vous consommé quelque chose dans le minibar ?",
+        "it": "Ha consumato qualcosa dal minibar?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha367",
+      "es": "Este es el desglose de sus cargos.",
+      "translations": {
+        "en": "Here is the breakdown of your charges.",
+        "pt": "Este é o detalhamento das suas cobranças.",
+        "fr": "Voici le détail de vos frais.",
+        "it": "Questo è il dettaglio dei suoi addebiti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha368",
+      "es": "Queda un saldo de [monto] por pagar.",
+      "translations": {
+        "en": "There is a remaining balance of [amount].",
+        "pt": "Há um saldo de [valor] a pagar.",
+        "fr": "Il reste un solde de [montant] à payer.",
+        "it": "Resta un saldo di [importo] da pagare."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha369",
+      "es": "¿Desea pagar con la tarjeta que dejó al llegar?",
+      "translations": {
+        "en": "Would you like to pay with the card you provided at check-in?",
+        "pt": "Quer pagar com o cartão que apresentou no check-in?",
+        "fr": "Souhaitez-vous payer avec la carte présentée à votre arrivée ?",
+        "it": "Desidera pagare con la carta che ha presentato all'arrivo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha370",
+      "es": "¿A nombre de quién emitimos la factura?",
+      "translations": {
+        "en": "Whose name should we put on the invoice?",
+        "pt": "Em nome de quem emitimos a nota fiscal?",
+        "fr": "À quel nom devons-nous établir la facture ?",
+        "it": "A che nome emettiamo la fattura?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha371",
+      "es": "El impuesto turístico aparece por separado en la cuenta.",
+      "translations": {
+        "en": "The tourist tax is listed separately on the bill.",
+        "pt": "A taxa turística aparece separadamente na conta.",
+        "fr": "La taxe de séjour apparaît séparément sur la facture.",
+        "it": "L'imposta di soggiorno è indicata separatamente sul conto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha372",
+      "es": "¿Puede devolver todas las tarjetas llave, por favor?",
+      "translations": {
+        "en": "Could you return all the key cards, please?",
+        "pt": "Pode devolver todos os cartões-chave, por favor?",
+        "fr": "Pouvez-vous rendre toutes les cartes-clés, s'il vous plaît ?",
+        "it": "Può restituire tutte le tessere della camera, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha373",
+      "es": "Para recoger el equipaje, presente este comprobante.",
+      "translations": {
+        "en": "Please show this claim ticket when you pick up your luggage.",
+        "pt": "Para retirar a bagagem, apresente este comprovante.",
+        "fr": "Pour récupérer vos bagages, présentez ce ticket.",
+        "it": "Per ritirare i bagagli, presenti questa ricevuta."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha374",
+      "es": "Encontramos el objeto que olvidó; podemos enviárselo.",
+      "translations": {
+        "en": "We found the item you left behind. We can ship it to you.",
+        "pt": "Encontramos o objeto que esqueceu. Podemos enviá-lo.",
+        "fr": "Nous avons retrouvé l'objet que vous avez oublié. Nous pouvons vous l'expédier.",
+        "it": "Abbiamo trovato l'oggetto che ha dimenticato. Possiamo spedirglielo."
+      },
+      "image_url": ""
+    }
+  ]
+}
