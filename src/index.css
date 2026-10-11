@@ -651,9 +651,21 @@ body {
 }
 
 @keyframes timer-ring {
-    0%, 100% { transform: rotate(0); }
-    20%, 60% { transform: rotate(-15deg); }
-    40%, 80% { transform: rotate(15deg); }
+
+    0%,
+    100% {
+        transform: rotate(0);
+    }
+
+    20%,
+    60% {
+        transform: rotate(-15deg);
+    }
+
+    40%,
+    80% {
+        transform: rotate(15deg);
+    }
 }
 
 @media (max-width: 640px) {
@@ -685,7 +697,7 @@ body {
         margin: 0;
     }
 
-    .header-actions > .icon-btn {
+    .header-actions>.icon-btn {
         flex-shrink: 0;
     }
 
@@ -701,5 +713,41 @@ body {
 @media (prefers-reduced-motion: reduce) {
     .study-timer-btn.is-ringing svg {
         animation: none;
+    }
+}
+
+.flashcard-container {
+    height: auto;
+}
+
+.flashcard-inner {
+    display: grid;
+    height: auto;
+    min-height: 280px;
+}
+
+.flashcard-front,
+.flashcard-back {
+    position: relative;
+    grid-area: 1 / 1;
+    height: auto;
+    min-width: 0;
+    padding: 20px;
+    overflow-wrap: anywhere;
+}
+
+.flashcard-front h2,
+.flashcard-back h2 {
+    margin: 0;
+}
+
+@media (max-width: 600px) {
+    .flashcard-inner {
+        min-height: 240px;
+    }
+
+    .flashcard-front h2,
+    .flashcard-back h2 {
+        font-size: 1.6rem !important;
     }
 }

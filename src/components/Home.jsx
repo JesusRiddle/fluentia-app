@@ -1,490 +1,329 @@
+import { useEffect, useState } from "react";
+import { LEVELS, CATEGORIES, MODULES } from "../data/modules";
+import "./Home.css";
+
+const PAGE_SIZE = 8;
+const STORAGE_KEY = "fluentia_home_navigation";
+
+const normalize = (text) =>
+    text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+
+function initialNavigation() {
+    try {
+        const saved = JSON.parse(sessionStorage.getItem(STORAGE_KEY));
+        return {
+            level: LEVELS.some((item) => item.id === saved?.level)
+                ? saved.level
+                : "A1",
+            category: CATEGORIES.some((item) => item.id === saved?.category)
+                ? saved.category
+                : null,
+            query: typeof saved?.query === "string" ? saved.query : "",
+            page: Number.isInteger(saved?.page) && saved.page > 0 ? saved.page : 1,
+        };
+    } catch {
+        return { level: "A1", category: null, query: "", page: 1 };
+    }
+}
+
 export default function Home({ onSelectModule }) {
+    const [navigation, setNavigation] = useState(initialNavigation);
+    const { level, category, query, page } = navigation;
+
+    useEffect(() => {
+        sessionStorage.setItem(STORAGE_KEY, JSON.stringify(navigation));
+    }, [navigation]);
+
+    const selectedLevel = LEVELS.find((item) => item.id === level);
+    const selectedCategory = CATEGORIES.find((item) => item.id === category);
+    const search = normalize(query.trim());
+    const searching = search.length > 0;
+    const showingTopics = searching || category !== null;
+
+    const levelModules = MODULES.filter((item) => item.level === level);
+
+    const visibleCategories = CATEGORIES.filter((item) =>
+        levelModules.some((module) => module.category === item.id)
+    );
+
+    const matchingModules = searching
+        ? MODULES.filter((item) => {
+            const categoryTitle = CATEGORIES.find(
+                (entry) => entry.id === item.category
+            )?.title ?? "";
+
+            return normalize(
+                `${item.title} ${item.description} ${item.level} ${categoryTitle}`
+            ).includes(search);
+        })
+        : levelModules.filter((item) => item.category === category);
+
+    const pageCount = Math.max(
+        1,
+        Math.ceil(matchingModules.length / PAGE_SIZE)
+    );
+    const currentPage = Math.min(page, pageCount);
+    const pageModules = matchingModules.slice(
+        (currentPage - 1) * PAGE_SIZE,
+        currentPage * PAGE_SIZE
+    );
+
+    function selectLevel(nextLevel) {
+        setNavigation({
+            level: nextLevel,
+            category: null,
+            query: "",
+            page: 1,
+        });
+    }
+
+    function selectCategory(nextCategory) {
+        setNavigation((current) => ({
+            ...current,
+            category: nextCategory,
+            query: "",
+            page: 1,
+        }));
+    }
+
+    function backToCategories() {
+        setNavigation((current) => ({
+            ...current,
+            category: null,
+            query: "",
+            page: 1,
+        }));
+    }
+
     return (
-        <main className="view">
+        <main className="view home-explorer">
             <div className="hero">
                 <div className="hero-text">
                     <p className="hero-kicker">APRENDIZAJE GLOBAL</p>
-                    <h2 className="hero-title">Elige tu <span>Nivel</span></h2>
-                    <p className="hero-sub">Selecciona un tema para comenzar a estudiar con flashcards.</p>
+                    <h2 className="hero-title">
+                        Explora tus <span>temas</span>
+                    </h2>
+                    <p className="hero-sub">
+                        Elige un nivel y una categoría para comenzar.
+                    </p>
                 </div>
             </div>
 
-            {/* Nivel A1 */}
-            <div style={{ marginBottom: '24px' }}>
-                <h3 style={{ fontSize: '1.1rem', fontWeight: 800, color: 'var(--primary)', marginBottom: '12px', display: 'flex', alignItems: 'center', gap: '8px' }}>
-                    <span>🟢 Nivel A1</span> — Principiante
+            <nav className="home-levels" aria-label="Nivel de aprendizaje">
+                {LEVELS.map((item) => (
+                    <button
+                        key={item.id}
+                        type="button"
+                        className="home-level"
+                        aria-pressed={level === item.id}
+                        onClick={() => selectLevel(item.id)}
+                    >
+                        {item.id}
+                    </button>
+                ))}
+            </nav>
+
+            <div className="home-search">
+                <label htmlFor="home-topic-search">Buscar tema</label>
+
+                <div className="home-search-row">
+                    <input
+                        id="home-topic-search"
+                        type="search"
+                        value={query}
+                        placeholder="Saludos, restaurante, colores…"
+                        aria-describedby="home-search-hint"
+                        onChange={(event) =>
+                            setNavigation((current) => ({
+                                ...current,
+                                query: event.target.value,
+                                page: 1,
+                            }))
+                        }
+                    />
+
+                    {query && (
+                        <button
+                            type="button"
+                            className="secondary-btn"
+                            onClick={() =>
+                                setNavigation((current) => ({
+                                    ...current,
+                                    query: "",
+                                    page: 1,
+                                }))
+                            }
+                        >
+                            Limpiar
+                        </button>
+                    )}
+                </div>
+
+                <p id="home-search-hint" className="home-muted">
+                    Busca en todos los niveles.
+                </p>
+            </div>
+
+            <div className="home-section-heading">
+                <h3>
+                    {searching
+                        ? "Resultados en todos los niveles"
+                        : `${level} — ${selectedLevel.title}`}
+                    {!searching && selectedCategory && (
+                        <span className="home-category-label">
+                            {" / "}{selectedCategory.title}
+                        </span>
+                    )}
                 </h3>
 
-                <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
-                    {/* Contenedor de Saludos y Despedidas */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>👋🏻 Saludos y Despedidas</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Formales, Informales y del día</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_saludos_despedidas.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_saludos_despedidas.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de Números */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🔢 Los Números</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Dígitos, decenas, millones y negativos</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_numeros.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_numeros.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de Colores */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🎨 Colores Básicos</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Tonos esenciales y metálicos</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_colors.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_colors.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de Comidas y Bebidas */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🍔 Comidas y Bebidas</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Frutas, verduras, despensa y más</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_comida.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_comida.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de El Tiempo y el Calendario */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🕖 El Tiempo y el Calendario</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Días, meses, frecuencia y expresiones para ubicarte en el pasado, presente y futuro</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_tiempo_calendario.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_tiempo_calendario.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de El Alfabeto y Fonética */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🔤 El Alfabeto y Fonética</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Letras, sonidos básicos y cómo deletrear tu nombre.</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_alfabeto.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_alfabeto.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de Presentaciones y Nacionalidades */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🌍 Presentaciones y Nacionalidades</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Países, idiomas, profesiones y datos personales.</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_presentaciones.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_presentaciones.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de La Familia y Relaciones */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>👨‍👩‍👧‍👦 La Familia y Relaciones</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Miembros de la familia, parentescos y estado civil.</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_familia.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_familia.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de Restaurantes y Frases en la Mesa */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🗣️ Restaurantes y Frases en la Mesa</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Objetos, personal, gustos, reservas, llegada, pedidos, restricciones básicas y pago.</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a2_restaurantes_y_mesa.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a2_restaurantes_y_mesa.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de Restaurantes: peticiones e imprevistos */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🗣️ Restaurantes: peticiones e imprevistos</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Ingredientes, preparación, restricciones detalladas, recomendaciones, modificaciones, errores y reclamaciones.</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('b1_restaurantes_peticiones_e_imprevistos.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('b1_restaurantes_peticiones_e_imprevistos.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de Descripciones Físicas y Adjetivos */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>👤 Descripciones Físicas y Adjetivos</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Apariencia, estados de ánimo y rasgos de personalidad básicos.</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_descripciones.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_descripciones.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de La Ropa y Objetos Cotidianos */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>👕 La Ropa y Objetos Cotidianos</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Prendas de vestir, calzado, accesorios y cosas de bolsillo.</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_ropa_objetos.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_ropa_objetos.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de Las Partes del Cuerpo y Salud */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🏃‍♂️ Las Partes del Cuerpo y Salud</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Anatomía básica y cómo expresar dolor o malestar físico.</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_cuerpo_salud.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_cuerpo_salud.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de La Casa y el Hogar */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🏠 La Casa y el Hogar</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Habitaciones, muebles principales y tareas domésticas sencillas.</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_casa.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_casa.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de Lugares de la Ciudad y Direcciones */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🏙️ Lugares de la Ciudad y Direcciones</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Tiendas, edificios públicos y preposiciones de lugar (cerca, lejos, enfrente).</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_ciudad.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_ciudad.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de Pasatiempos y Tiempo Libre */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🎨 Pasatiempos y Tiempo Libre</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Deportes, entretenimiento, música y actividades de fin de semana.</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_pasatiempos.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_pasatiempos.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de El Clima y las Estaciones */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🌦️ El Clima y las Estaciones</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Fenómenos meteorológicos, temperatura y las cuatro estaciones.</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_clima.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_clima.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-
-                    {/* Contenedor de Verbos de Acción y Supervivencia */}
-                    <div className="card" style={{ padding: '18px 22px' }}>
-                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
-                            <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🆘 Verbos de Acción y Supervivencia</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Verbos indispensables (querer, necesitar, poder, tener) y frases de emergencia.</p>
-                            </div>
-                        </div>
-                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_verbos.json', 'study')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>📚</span> Flashcards
-                            </button>
-                            <button
-                                className="secondary-btn"
-                                onClick={() => onSelectModule('a1_verbos.json', 'practice')}
-                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
-                            >
-                                <span>🎮</span> Práctica
-                            </button>
-                        </div>
-                    </div>
-                </div>
+                {showingTopics && (
+                    <button
+                        type="button"
+                        className="secondary-btn"
+                        onClick={backToCategories}
+                    >
+                        ← Categorías
+                    </button>
+                )}
             </div>
+
+            <p className="home-muted" role="status" aria-live="polite">
+                {showingTopics
+                    ? `${matchingModules.length} ${matchingModules.length === 1 ? "tema encontrado" : "temas encontrados"
+                    }`
+                    : `${visibleCategories.length} ${visibleCategories.length === 1 ? "categoría" : "categorías"
+                    }`}
+            </p>
+
+            {!showingTopics ? (
+                visibleCategories.length > 0 ? (
+                    <div className="home-categories">
+                        {visibleCategories.map((item) => {
+                            const topics = levelModules.filter(
+                                (module) => module.category === item.id
+                            );
+                            const availableCount = topics.filter(
+                                (module) => module.available
+                            ).length;
+
+                            return (
+                                <button
+                                    key={item.id}
+                                    type="button"
+                                    className="home-category"
+                                    onClick={() => selectCategory(item.id)}
+                                >
+                                    <span className="home-category-icon" aria-hidden="true">
+                                        {item.icon}
+                                    </span>
+                                    <strong>{item.title}</strong>
+                                    <span className="home-muted">
+                                        {topics.length} {topics.length === 1 ? "tema" : "temas"}
+                                        {" · "}{availableCount} disponibles
+                                    </span>
+                                </button>
+                            );
+                        })}
+                    </div>
+                ) : (
+                    <p className="home-empty">
+                        Todavía no hay temas registrados para este nivel.
+                    </p>
+                )
+            ) : pageModules.length > 0 ? (
+                <div className="home-topics">
+                    {pageModules.map((item) => {
+                        const categoryTitle = CATEGORIES.find(
+                            (entry) => entry.id === item.category
+                        )?.title;
+
+                        return (
+                            <article key={item.id} className="home-topic">
+                                <div className="home-topic-copy">
+                                    {searching && (
+                                        <p className="home-topic-meta">
+                                            {item.level} · {categoryTitle}
+                                        </p>
+                                    )}
+
+                                    <h4>
+                                        <span aria-hidden="true">{item.icon}</span> {item.title}
+                                    </h4>
+                                    <p className="home-muted">{item.description}</p>
+
+                                    {!item.available && (
+                                        <span className="home-pending">Próximamente</span>
+                                    )}
+                                </div>
+
+                                <div className="home-topic-actions">
+                                    <button
+                                        type="button"
+                                        className="secondary-btn"
+                                        disabled={!item.available}
+                                        aria-label={`Flashcards: ${item.title}`}
+                                        onClick={() => onSelectModule(item.file, "study")}
+                                    >
+                                        <span className="home-action-icon" aria-hidden="true">📚</span>
+                                        <span>Flashcards</span>
+                                    </button>
+
+                                    <button
+                                        type="button"
+                                        className="secondary-btn"
+                                        disabled={!item.available}
+                                        aria-label={`Práctica: ${item.title}`}
+                                        onClick={() => onSelectModule(item.file, "practice")}
+                                    >
+                                        <span className="home-action-icon" aria-hidden="true">🎮</span>
+                                        <span>Práctica</span>
+                                    </button>
+                                </div>
+                            </article>
+                        );
+                    })}
+                </div>
+            ) : (
+                <p className="home-empty">
+                    No encontramos temas. Prueba con otra palabra.
+                </p>
+            )}
+
+            {showingTopics && pageCount > 1 && (
+                <nav className="home-pagination" aria-label="Páginas de temas">
+                    <button
+                        type="button"
+                        className="secondary-btn"
+                        disabled={currentPage === 1}
+                        onClick={() =>
+                            setNavigation((current) => ({
+                                ...current,
+                                page: currentPage - 1,
+                            }))
+                        }
+                    >
+                        Anterior
+                    </button>
+
+                    <span aria-live="polite">
+                        {currentPage} / {pageCount}
+                    </span>
+
+                    <button
+                        type="button"
+                        className="secondary-btn"
+                        disabled={currentPage === pageCount}
+                        onClick={() =>
+                            setNavigation((current) => ({
+                                ...current,
+                                page: currentPage + 1,
+                            }))
+                        }
+                    >
+                        Siguiente
+                    </button>
+                </nav>
+            )}
         </main>
     );
 }

@@ -135,47 +135,105 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                     {/* Reverso (Idioma Objetivo) */}
                     <div className="flashcard-back card">
                         <h2 style={{ fontSize: '2.2rem', fontWeight: 800, color: 'var(--primary)' }}>{currentCard.translations[targetLang]}</h2>
-                        <div style={{ marginTop: '30px', width: '100%' }}>
-                            <button className="primary-btn" onClick={(e) => { e.stopPropagation(); playAudio(); }} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
-                                <span style={{ fontSize: '1.2rem' }}>▶</span> Escuchar
+                        <div
+                            style={{
+                                marginTop: "48px",
+                                width: "100%",
+                                display: "flex",
+                                justifyContent: "center",
+                            }}
+                        >
+                            <button
+                                type="button"
+                                className="primary-btn"
+                                onClick={(e) => {
+                                    e.stopPropagation();
+                                    playAudio();
+                                }}
+                                style={{
+                                    width: "calc((100% - 12px) / 2)",
+                                    height: "44px",
+                                    minHeight: "44px",
+                                    padding: "10px 14px",
+                                    display: "flex",
+                                    alignItems: "center",
+                                    justifyContent: "center",
+                                    gap: "8px",
+                                    fontSize: "0.85rem",
+                                    whiteSpace: "nowrap",
+                                }}
+                            >
+                                <span aria-hidden="true">▶</span>
+                                <span>Escuchar</span>
                             </button>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px', marginTop: '20px' }}>
-                <button
-                    className="secondary-btn"
-                    style={{ height: '60px' }}
-                    onClick={() => changeCard(Math.max(0, currentIndex - 1))}
-                    disabled={currentIndex === 0}
+            <div style={{ textAlign: "center", marginTop: "16px" }}>
+                <p
+                    style={{
+                        fontSize: "0.8rem",
+                        color: "var(--muted)",
+                        fontWeight: 700,
+                        margin: "0 0 8px",
+                    }}
                 >
-                    ⏮ Anterior
-                </button>
-                <button
-                    className="secondary-btn"
-                    style={{ height: '60px' }}
-                    onClick={() => changeCard(Math.min(totalCards - 1, currentIndex + 1))}
-                    disabled={currentIndex === totalCards - 1}
-                >
-                    Siguiente ⏭
-                </button>
-            </div>
+                    Velocidad de reproducción
+                </p>
 
-            <div style={{ textAlign: 'center', marginTop: '24px' }}>
-                <p style={{ fontSize: '0.8rem', color: 'var(--muted)', fontWeight: 700, marginBottom: '8px' }}>Velocidad de reproducción</p>
-                <div style={{ display: 'flex', justifyContent: 'center', gap: '8px' }}>
-                    {[0.3, 0.6, 1.0].map(speed => (
+                <div
+                    style={{
+                        display: "flex",
+                        justifyContent: "center",
+                        gap: "8px",
+                    }}
+                >
+                    {[0.3, 0.6, 1.0].map((speed) => (
                         <button
                             key={speed}
-                            className={`pill-btn speed-btn ${speechRate === speed ? 'active' : ''}`}
+                            type="button"
+                            className={`pill-btn speed-btn ${speechRate === speed ? "active" : ""
+                                }`}
+                            aria-pressed={speechRate === speed}
                             onClick={() => setSpeechRate(speed)}
                         >
                             {speed}x
                         </button>
                     ))}
                 </div>
+            </div>
+
+            <div
+                style={{
+                    display: "grid",
+                    gridTemplateColumns: "1fr 1fr",
+                    gap: "12px",
+                    marginTop: "16px",
+                }}
+            >
+                <button
+                    type="button"
+                    className="secondary-btn"
+                    style={{ height: "44px" }}
+                    onClick={() => changeCard(Math.max(0, currentIndex - 1))}
+                    disabled={currentIndex === 0}
+                >
+                    ⏮ Anterior
+                </button>
+
+                <button
+                    type="button"
+                    className="secondary-btn"
+                    style={{ height: "44px" }}
+                    onClick={() =>
+                        changeCard(Math.min(totalCards - 1, currentIndex + 1))
+                    }
+                    disabled={currentIndex === totalCards - 1}
+                >
+                    Siguiente ⏭
+                </button>
             </div>
         </main>
     );
