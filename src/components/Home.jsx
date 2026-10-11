@@ -224,25 +224,51 @@ export default function Home({ onSelectModule }) {
                         </div>
                     </div>
 
-                    {/* Contenedor de Preferencias y Frases en la Mesa */}
+                    {/* Contenedor de Restaurantes y Frases en la Mesa */}
                     <div className="card" style={{ padding: '18px 22px' }}>
                         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
                             <div>
-                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🗣️ Preferencias y Frases en la Mesa</h4>
-                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Expresar gustos, alergias y frases útiles para pedir en un restaurante.</p>
+                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🗣️ Restaurantes y Frases en la Mesa</h4>
+                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Objetos, personal, gustos, reservas, llegada, pedidos, restricciones básicas y pago.</p>
                             </div>
                         </div>
                         <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
                             <button
                                 className="secondary-btn"
-                                onClick={() => onSelectModule('a1_preferencias.json', 'study')}
+                                onClick={() => onSelectModule('a2_restaurantes_y_mesa.json', 'study')}
                                 style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
                             >
                                 <span>📚</span> Flashcards
                             </button>
                             <button
                                 className="secondary-btn"
-                                onClick={() => onSelectModule('a1_preferencias.json', 'practice')}
+                                onClick={() => onSelectModule('a2_restaurantes_y_mesa.json', 'practice')}
+                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
+                            >
+                                <span>🎮</span> Práctica
+                            </button>
+                        </div>
+                    </div>
+
+                    {/* Contenedor de Restaurantes: peticiones e imprevistos */}
+                    <div className="card" style={{ padding: '18px 22px' }}>
+                        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
+                            <div>
+                                <h4 style={{ margin: '0 0 4px 0', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)' }}>🗣️ Restaurantes: peticiones e imprevistos</h4>
+                                <p style={{ margin: 0, fontSize: '0.82rem', color: 'var(--muted)' }}>Ingredientes, preparación, restricciones detalladas, recomendaciones, modificaciones, errores y reclamaciones.</p>
+                            </div>
+                        </div>
+                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
+                            <button
+                                className="secondary-btn"
+                                onClick={() => onSelectModule('b1_restaurantes_peticiones_e_imprevistos.json', 'study')}
+                                style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
+                            >
+                                <span>📚</span> Flashcards
+                            </button>
+                            <button
+                                className="secondary-btn"
+                                onClick={() => onSelectModule('b1_restaurantes_peticiones_e_imprevistos.json', 'practice')}
                                 style={{ padding: '12px', fontSize: '0.85rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px', cursor: 'pointer' }}
                             >
                                 <span>🎮</span> Práctica
