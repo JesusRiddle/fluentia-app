@@ -1,0 +1,1271 @@
+{
+  "module": "Banco y operaciones de pago",
+  "level": "A2",
+  "cards": [
+    {
+      "id": "bop_001",
+      "es": "Banco y operaciones de pago",
+      "translations": {
+        "en": "Banking and payment transactions",
+        "pt": "Banco e operações de pagamento",
+        "fr": "Banque et opérations de paiement",
+        "it": "Banca e operazioni di pagamento"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_002",
+      "es": "La cuenta bancaria",
+      "translations": {
+        "en": "The bank account",
+        "pt": "A conta bancária",
+        "fr": "Le compte bancaire",
+        "it": "Il conto bancario"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_003",
+      "es": "El titular de la cuenta",
+      "translations": {
+        "en": "The account holder",
+        "pt": "O titular da conta",
+        "fr": "Le titulaire du compte",
+        "it": "Il titolare del conto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_004",
+      "es": "El saldo de la cuenta",
+      "translations": {
+        "en": "The account balance",
+        "pt": "O saldo da conta",
+        "fr": "Le solde du compte",
+        "it": "Il saldo del conto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_005",
+      "es": "El saldo disponible",
+      "translations": {
+        "en": "The available balance",
+        "pt": "O saldo disponível",
+        "fr": "Le solde disponible",
+        "it": "Il saldo disponibile"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_006",
+      "es": "Los movimientos de la cuenta",
+      "translations": {
+        "en": "Account transactions",
+        "pt": "As movimentações da conta",
+        "fr": "Les opérations du compte",
+        "it": "I movimenti del conto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_007",
+      "es": "El estado de cuenta",
+      "translations": {
+        "en": "The bank statement",
+        "pt": "O extrato bancário",
+        "fr": "Le relevé bancaire",
+        "it": "L'estratto conto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_008",
+      "es": "La comisión por una operación",
+      "translations": {
+        "en": "The transaction fee",
+        "pt": "A tarifa de uma operação",
+        "fr": "Les frais d'une opération",
+        "it": "La commissione per un'operazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_009",
+      "es": "El retiro de efectivo",
+      "translations": {
+        "en": "A cash withdrawal",
+        "pt": "O saque em dinheiro",
+        "fr": "Le retrait d'espèces",
+        "it": "Il prelievo di contanti"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_010",
+      "es": "El cajero automático",
+      "translations": {
+        "en": "The ATM",
+        "pt": "O caixa eletrônico",
+        "fr": "Le distributeur automatique de billets",
+        "it": "Il bancomat"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_011",
+      "es": "El depósito de dinero",
+      "translations": {
+        "en": "A deposit",
+        "pt": "O depósito de dinheiro",
+        "fr": "Le dépôt d'argent",
+        "it": "Il versamento di denaro"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_012",
+      "es": "La tarjeta de débito",
+      "translations": {
+        "en": "The debit card",
+        "pt": "O cartão de débito",
+        "fr": "La carte de débit",
+        "it": "La carta di debito"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_013",
+      "es": "La tarjeta de crédito",
+      "translations": {
+        "en": "The credit card",
+        "pt": "O cartão de crédito",
+        "fr": "La carte de crédit",
+        "it": "La carta di credito"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_014",
+      "es": "El NIP o PIN de la tarjeta",
+      "translations": {
+        "en": "The card PIN",
+        "pt": "A senha do cartão",
+        "fr": "Le code confidentiel de la carte",
+        "it": "Il PIN della carta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_015",
+      "es": "El tipo de cambio",
+      "translations": {
+        "en": "The exchange rate",
+        "pt": "A taxa de câmbio",
+        "fr": "Le taux de change",
+        "it": "Il tasso di cambio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_016",
+      "es": "La moneda local",
+      "translations": {
+        "en": "The local currency",
+        "pt": "A moeda local",
+        "fr": "La monnaie locale",
+        "it": "La valuta locale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_017",
+      "es": "Una transferencia bancaria",
+      "translations": {
+        "en": "A bank transfer",
+        "pt": "Uma transferência bancária",
+        "fr": "Un virement bancaire",
+        "it": "Un bonifico bancario"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_018",
+      "es": "El destinatario de la transferencia",
+      "translations": {
+        "en": "The transfer recipient",
+        "pt": "O destinatário da transferência",
+        "fr": "Le bénéficiaire du virement",
+        "it": "Il beneficiario del bonifico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_019",
+      "es": "La referencia de la operación",
+      "translations": {
+        "en": "The transaction reference",
+        "pt": "A referência da operação",
+        "fr": "La référence de l'opération",
+        "it": "Il riferimento dell'operazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_020",
+      "es": "Un pago pendiente",
+      "translations": {
+        "en": "A pending payment",
+        "pt": "Um pagamento pendente",
+        "fr": "Un paiement en attente",
+        "it": "Un pagamento in sospeso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_021",
+      "es": "Un pago rechazado",
+      "translations": {
+        "en": "A declined payment",
+        "pt": "Um pagamento recusado",
+        "fr": "Un paiement refusé",
+        "it": "Un pagamento rifiutato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_022",
+      "es": "Un cargo duplicado",
+      "translations": {
+        "en": "A duplicate charge",
+        "pt": "Uma cobrança duplicada",
+        "fr": "Un débit en double",
+        "it": "Un addebito doppio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_023",
+      "es": "El límite diario de retiro",
+      "translations": {
+        "en": "The daily withdrawal limit",
+        "pt": "O limite diário de saque",
+        "fr": "Le plafond de retrait quotidien",
+        "it": "Il limite giornaliero di prelievo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_024",
+      "es": "Quisiera retirar dinero de mi cuenta.",
+      "translations": {
+        "en": "I'd like to withdraw money from my account.",
+        "pt": "Gostaria de sacar dinheiro da minha conta.",
+        "fr": "Je voudrais retirer de l'argent de mon compte.",
+        "it": "Vorrei prelevare denaro dal mio conto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_025",
+      "es": "¿Puedo retirar efectivo aquí con una tarjeta de otro banco?",
+      "translations": {
+        "en": "Can I withdraw cash here with a card from another bank?",
+        "pt": "Posso sacar dinheiro aqui com um cartão de outro banco?",
+        "fr": "Puis-je retirer des espèces ici avec une carte d'une autre banque ?",
+        "it": "Posso prelevare contanti qui con una carta di un'altra banca?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_026",
+      "es": "¿Este cajero acepta tarjetas extranjeras?",
+      "translations": {
+        "en": "Does this ATM accept foreign cards?",
+        "pt": "Este caixa eletrônico aceita cartões estrangeiros?",
+        "fr": "Ce distributeur accepte-t-il les cartes étrangères ?",
+        "it": "Questo bancomat accetta carte estere?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_027",
+      "es": "¿Hay una comisión por usar este cajero?",
+      "translations": {
+        "en": "Is there a fee for using this ATM?",
+        "pt": "Há uma tarifa para usar este caixa eletrônico?",
+        "fr": "Y a-t-il des frais pour utiliser ce distributeur ?",
+        "it": "C'è una commissione per usare questo bancomat?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_028",
+      "es": "¿La comisión es fija o depende del importe?",
+      "translations": {
+        "en": "Is the fee fixed, or does it depend on the amount?",
+        "pt": "A tarifa é fixa ou depende do valor?",
+        "fr": "Les frais sont-ils fixes ou dépendent-ils du montant ?",
+        "it": "La commissione è fissa o dipende dall'importo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_029",
+      "es": "¿Hay un importe mínimo para retirar?",
+      "translations": {
+        "en": "Is there a minimum withdrawal amount?",
+        "pt": "Há um valor mínimo para sacar?",
+        "fr": "Y a-t-il un montant minimum de retrait ?",
+        "it": "C'è un importo minimo per il prelievo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_030",
+      "es": "¿Cuánto puedo retirar en una sola operación?",
+      "translations": {
+        "en": "How much can I withdraw in one transaction?",
+        "pt": "Quanto posso sacar em uma única operação?",
+        "fr": "Combien puis-je retirer en une seule opération ?",
+        "it": "Quanto posso prelevare in una sola operazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_031",
+      "es": "El cajero dice que superé el límite diario.",
+      "translations": {
+        "en": "The ATM says I've exceeded the daily limit.",
+        "pt": "O caixa eletrônico diz que ultrapassei o limite diário.",
+        "fr": "Le distributeur indique que j'ai dépassé le plafond quotidien.",
+        "it": "Il bancomat dice che ho superato il limite giornaliero."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_032",
+      "es": "¿Puede comprobar cuál es mi límite de retiro?",
+      "translations": {
+        "en": "Can you check my withdrawal limit?",
+        "pt": "Pode verificar qual é meu limite de saque?",
+        "fr": "Pouvez-vous vérifier mon plafond de retrait ?",
+        "it": "Può verificare qual è il mio limite di prelievo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_033",
+      "es": "¿Puedo elegir el valor de los billetes?",
+      "translations": {
+        "en": "Can I choose the bill denominations?",
+        "pt": "Posso escolher o valor das notas?",
+        "fr": "Puis-je choisir la valeur des billets ?",
+        "it": "Posso scegliere il taglio delle banconote?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_034",
+      "es": "El cajero no reconoce mi tarjeta.",
+      "translations": {
+        "en": "The ATM doesn't recognize my card.",
+        "pt": "O caixa eletrônico não reconhece meu cartão.",
+        "fr": "Le distributeur ne reconnaît pas ma carte.",
+        "it": "Il bancomat non riconosce la mia carta."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_035",
+      "es": "La tarjeta quedó dentro del cajero.",
+      "translations": {
+        "en": "My card got stuck in the ATM.",
+        "pt": "Meu cartão ficou preso no caixa eletrônico.",
+        "fr": "Ma carte est restée bloquée dans le distributeur.",
+        "it": "La mia carta è rimasta bloccata nel bancomat."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_036",
+      "es": "¿A qué número debo llamar si el cajero retiene la tarjeta?",
+      "translations": {
+        "en": "What number should I call if the ATM keeps my card?",
+        "pt": "Para qual número devo ligar se o caixa eletrônico retiver o cartão?",
+        "fr": "Quel numéro dois-je appeler si le distributeur retient ma carte ?",
+        "it": "Quale numero devo chiamare se il bancomat trattiene la carta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_037",
+      "es": "La operación terminó, pero el cajero no entregó dinero.",
+      "translations": {
+        "en": "The transaction finished, but the ATM didn't dispense any cash.",
+        "pt": "A operação terminou, mas o caixa eletrônico não entregou dinheiro.",
+        "fr": "L'opération s'est terminée, mais le distributeur n'a pas délivré d'espèces.",
+        "it": "L'operazione è terminata, ma il bancomat non ha erogato contanti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_038",
+      "es": "El retiro aparece en mi cuenta, aunque no recibí el efectivo.",
+      "translations": {
+        "en": "The withdrawal appears in my account, even though I didn't receive the cash.",
+        "pt": "O saque aparece na minha conta, embora eu não tenha recebido o dinheiro.",
+        "fr": "Le retrait apparaît sur mon compte, alors que je n'ai pas reçu les espèces.",
+        "it": "Il prelievo compare sul mio conto, anche se non ho ricevuto i contanti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_039",
+      "es": "Recibí menos dinero del que solicité.",
+      "translations": {
+        "en": "I received less money than I requested.",
+        "pt": "Recebi menos dinheiro do que solicitei.",
+        "fr": "J'ai reçu moins d'argent que le montant demandé.",
+        "it": "Ho ricevuto meno denaro di quanto avevo richiesto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_040",
+      "es": "Guardé el comprobante del cajero.",
+      "translations": {
+        "en": "I kept the ATM receipt.",
+        "pt": "Guardei o comprovante do caixa eletrônico.",
+        "fr": "J'ai conservé le reçu du distributeur.",
+        "it": "Ho conservato la ricevuta del bancomat."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_041",
+      "es": "Quiero reportar el problema con este retiro.",
+      "translations": {
+        "en": "I want to report a problem with this withdrawal.",
+        "pt": "Quero comunicar um problema com este saque.",
+        "fr": "Je veux signaler un problème avec ce retrait.",
+        "it": "Voglio segnalare un problema con questo prelievo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_042",
+      "es": "¿Qué información necesita para revisar la operación?",
+      "translations": {
+        "en": "What information do you need to review the transaction?",
+        "pt": "Quais informações precisa para verificar a operação?",
+        "fr": "De quelles informations avez-vous besoin pour vérifier l'opération ?",
+        "it": "Di quali informazioni ha bisogno per verificare l'operazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_043",
+      "es": "Quisiera cambiar dólares por moneda local.",
+      "translations": {
+        "en": "I'd like to exchange dollars for local currency.",
+        "pt": "Gostaria de trocar dólares pela moeda local.",
+        "fr": "Je voudrais échanger des dollars contre de la monnaie locale.",
+        "it": "Vorrei cambiare dollari in valuta locale."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_044",
+      "es": "¿Cuál es el tipo de cambio que aplican hoy?",
+      "translations": {
+        "en": "What exchange rate are you using today?",
+        "pt": "Qual taxa de câmbio vocês aplicam hoje?",
+        "fr": "Quel taux de change appliquez-vous aujourd'hui ?",
+        "it": "Quale tasso di cambio applicate oggi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_045",
+      "es": "¿Ese tipo de cambio es para comprar o para vender esta moneda?",
+      "translations": {
+        "en": "Is that the rate for buying or selling this currency?",
+        "pt": "Essa taxa de câmbio é para comprar ou vender esta moeda?",
+        "fr": "Ce taux de change est-il celui de l'achat ou de la vente de cette monnaie ?",
+        "it": "Questo tasso di cambio è per l'acquisto o per la vendita di questa valuta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_046",
+      "es": "¿El importe indicado ya incluye todas las comisiones?",
+      "translations": {
+        "en": "Does the amount shown include all fees?",
+        "pt": "O valor indicado já inclui todas as tarifas?",
+        "fr": "Le montant indiqué comprend-il tous les frais ?",
+        "it": "L'importo indicato comprende già tutte le commissioni?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_047",
+      "es": "Si cambio cien dólares, ¿cuánto recibiré en total?",
+      "translations": {
+        "en": "If I exchange one hundred dollars, how much will I receive in total?",
+        "pt": "Se eu trocar cem dólares, quanto vou receber no total?",
+        "fr": "Si je change cent dollars, combien vais-je recevoir au total ?",
+        "it": "Se cambio cento dollari, quanto riceverò in totale?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_048",
+      "es": "Quiero saber el importe final antes de aceptar.",
+      "translations": {
+        "en": "I want to know the final amount before accepting.",
+        "pt": "Quero saber o valor final antes de aceitar.",
+        "fr": "Je veux connaître le montant final avant d'accepter.",
+        "it": "Voglio conoscere l'importo finale prima di accettare."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_049",
+      "es": "¿Necesito presentar una identificación para cambiar dinero?",
+      "translations": {
+        "en": "Do I need to show ID to exchange money?",
+        "pt": "Preciso apresentar um documento de identificação para trocar dinheiro?",
+        "fr": "Dois-je présenter une pièce d'identité pour changer de l'argent ?",
+        "it": "Devo presentare un documento d'identità per cambiare denaro?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_050",
+      "es": "¿Aceptan esta moneda o solo algunas monedas extranjeras?",
+      "translations": {
+        "en": "Do you accept this currency, or only certain foreign currencies?",
+        "pt": "Vocês aceitam esta moeda ou só algumas moedas estrangeiras?",
+        "fr": "Acceptez-vous cette monnaie ou seulement certaines monnaies étrangères ?",
+        "it": "Accettate questa valuta o solo alcune valute estere?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_051",
+      "es": "¿Cambian también monedas metálicas o solo billetes?",
+      "translations": {
+        "en": "Do you exchange coins too, or only bills?",
+        "pt": "Vocês também trocam moedas ou só notas?",
+        "fr": "Changez-vous aussi les pièces ou seulement les billets ?",
+        "it": "Cambiate anche monete o solo banconote?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_052",
+      "es": "¿Puede darme un comprobante con el tipo de cambio aplicado?",
+      "translations": {
+        "en": "Can you give me a receipt showing the exchange rate used?",
+        "pt": "Pode me dar um comprovante com a taxa de câmbio aplicada?",
+        "fr": "Pouvez-vous me donner un reçu indiquant le taux de change appliqué ?",
+        "it": "Può darmi una ricevuta con il tasso di cambio applicato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_053",
+      "es": "Quisiera consultar el saldo disponible de mi cuenta.",
+      "translations": {
+        "en": "I'd like to check the available balance in my account.",
+        "pt": "Gostaria de consultar o saldo disponível da minha conta.",
+        "fr": "Je voudrais consulter le solde disponible de mon compte.",
+        "it": "Vorrei consultare il saldo disponibile del mio conto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_054",
+      "es": "¿Este saldo ya incluye el depósito de ayer?",
+      "translations": {
+        "en": "Does this balance include yesterday's deposit?",
+        "pt": "Este saldo já inclui o depósito de ontem?",
+        "fr": "Ce solde comprend-il le dépôt d'hier ?",
+        "it": "Questo saldo comprende già il versamento di ieri?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_055",
+      "es": "El saldo disponible es menor que el saldo total.",
+      "translations": {
+        "en": "The available balance is lower than the total balance.",
+        "pt": "O saldo disponível é menor que o saldo total.",
+        "fr": "Le solde disponible est inférieur au solde total.",
+        "it": "Il saldo disponibile è inferiore al saldo totale."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_056",
+      "es": "¿Hay algún importe retenido en mi cuenta?",
+      "translations": {
+        "en": "Is any amount being held in my account?",
+        "pt": "Há algum valor bloqueado na minha conta?",
+        "fr": "Y a-t-il un montant bloqué sur mon compte ?",
+        "it": "C'è qualche importo bloccato sul mio conto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_057",
+      "es": "¿Por qué aparece esta comisión?",
+      "translations": {
+        "en": "Why does this fee appear?",
+        "pt": "Por que aparece esta tarifa?",
+        "fr": "Pourquoi ces frais apparaissent-ils ?",
+        "it": "Perché compare questa commissione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_058",
+      "es": "No reconozco este movimiento en mi estado de cuenta.",
+      "translations": {
+        "en": "I don't recognize this transaction on my statement.",
+        "pt": "Não reconheço esta movimentação no meu extrato.",
+        "fr": "Je ne reconnais pas cette opération sur mon relevé.",
+        "it": "Non riconosco questo movimento sul mio estratto conto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_059",
+      "es": "Quisiera ver los movimientos del último mes.",
+      "translations": {
+        "en": "I'd like to see last month's transactions.",
+        "pt": "Gostaria de ver as movimentações do último mês.",
+        "fr": "Je voudrais consulter les opérations du mois dernier.",
+        "it": "Vorrei vedere i movimenti del mese scorso."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_060",
+      "es": "¿Puedo descargar un estado de cuenta en PDF?",
+      "translations": {
+        "en": "Can I download a bank statement as a PDF?",
+        "pt": "Posso baixar um extrato em PDF?",
+        "fr": "Puis-je télécharger un relevé bancaire en PDF ?",
+        "it": "Posso scaricare un estratto conto in PDF?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_061",
+      "es": "Necesito un comprobante de este depósito.",
+      "translations": {
+        "en": "I need proof of this deposit.",
+        "pt": "Preciso de um comprovante deste depósito.",
+        "fr": "J'ai besoin d'un justificatif de ce dépôt.",
+        "it": "Mi serve una ricevuta di questo versamento."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_062",
+      "es": "Quiero depositar este efectivo en mi cuenta.",
+      "translations": {
+        "en": "I want to deposit this cash into my account.",
+        "pt": "Quero depositar este dinheiro na minha conta.",
+        "fr": "Je veux déposer ces espèces sur mon compte.",
+        "it": "Voglio versare questi contanti sul mio conto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_063",
+      "es": "¿El dinero estará disponible de inmediato o después?",
+      "translations": {
+        "en": "Will the money be available immediately or later?",
+        "pt": "O dinheiro vai ficar disponível imediatamente ou depois?",
+        "fr": "L'argent sera-t-il disponible immédiatement ou plus tard ?",
+        "it": "Il denaro sarà disponibile subito o in seguito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_064",
+      "es": "¿Cómo puedo confirmar que el depósito se recibió?",
+      "translations": {
+        "en": "How can I confirm the deposit was received?",
+        "pt": "Como posso confirmar que o depósito foi recebido?",
+        "fr": "Comment puis-je confirmer que le dépôt a bien été reçu ?",
+        "it": "Come posso verificare che il versamento sia stato ricevuto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_065",
+      "es": "Quisiera hacer una transferencia a otra persona.",
+      "translations": {
+        "en": "I'd like to make a bank transfer to another person.",
+        "pt": "Gostaria de fazer uma transferência para outra pessoa.",
+        "fr": "Je voudrais faire un virement à une autre personne.",
+        "it": "Vorrei fare un bonifico a un'altra persona."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_066",
+      "es": "¿Qué datos del destinatario necesito?",
+      "translations": {
+        "en": "What details do I need from the recipient?",
+        "pt": "De quais dados do destinatário preciso?",
+        "fr": "De quelles informations sur le bénéficiaire ai-je besoin ?",
+        "it": "Quali dati del beneficiario mi servono?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_067",
+      "es": "Tengo el número de cuenta y el nombre del titular.",
+      "translations": {
+        "en": "I have the account number and the account holder's name.",
+        "pt": "Tenho o número da conta e o nome do titular.",
+        "fr": "J'ai le numéro de compte et le nom du titulaire.",
+        "it": "Ho il numero di conto e il nome del titolare."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_068",
+      "es": "¿Necesito algún código adicional para una transferencia internacional?",
+      "translations": {
+        "en": "Do I need any additional code for an international transfer?",
+        "pt": "Preciso de algum código adicional para uma transferência internacional?",
+        "fr": "Ai-je besoin d'un code supplémentaire pour un virement international ?",
+        "it": "Mi serve qualche codice aggiuntivo per un bonifico internazionale?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_069",
+      "es": "Antes de enviarla, quiero comprobar que los datos son correctos.",
+      "translations": {
+        "en": "Before sending it, I want to check that the details are correct.",
+        "pt": "Antes de enviar, quero verificar se os dados estão corretos.",
+        "fr": "Avant de l'envoyer, je veux vérifier que les informations sont correctes.",
+        "it": "Prima di inviarlo, voglio verificare che i dati siano corretti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_070",
+      "es": "El nombre no coincide con los datos de la cuenta.",
+      "translations": {
+        "en": "The name doesn't match the account details.",
+        "pt": "O nome não corresponde aos dados da conta.",
+        "fr": "Le nom ne correspond pas aux informations du compte.",
+        "it": "Il nome non corrisponde ai dati del conto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_071",
+      "es": "¿La comisión se cobra aparte o se descuenta del dinero enviado?",
+      "translations": {
+        "en": "Is the fee charged separately or deducted from the amount sent?",
+        "pt": "A tarifa é cobrada separadamente ou descontada do valor enviado?",
+        "fr": "Les frais sont-ils facturés séparément ou déduits du montant envoyé ?",
+        "it": "La commissione viene addebitata a parte o detratta dall'importo inviato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_072",
+      "es": "¿Cuánto recibirá la otra persona después de las comisiones?",
+      "translations": {
+        "en": "How much will the other person receive after fees?",
+        "pt": "Quanto a outra pessoa vai receber depois das tarifas?",
+        "fr": "Combien l'autre personne recevra-t-elle après déduction des frais ?",
+        "it": "Quanto riceverà l'altra persona dopo le commissioni?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_073",
+      "es": "¿En qué moneda recibirá el dinero?",
+      "translations": {
+        "en": "In what currency will they receive the money?",
+        "pt": "Em qual moeda a pessoa vai receber o dinheiro?",
+        "fr": "Dans quelle monnaie recevra-t-elle l'argent ?",
+        "it": "In quale valuta riceverà il denaro?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_074",
+      "es": "¿Cuánto suele tardar este tipo de transferencia?",
+      "translations": {
+        "en": "How long does this type of transfer usually take?",
+        "pt": "Quanto tempo esse tipo de transferência costuma levar?",
+        "fr": "Combien de temps ce type de virement prend-il généralement ?",
+        "it": "Quanto tempo richiede di solito questo tipo di bonifico?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_075",
+      "es": "¿Puedo programar la transferencia para otra fecha?",
+      "translations": {
+        "en": "Can I schedule the transfer for another date?",
+        "pt": "Posso agendar a transferência para outra data?",
+        "fr": "Puis-je programmer le virement pour une autre date ?",
+        "it": "Posso programmare il bonifico per un'altra data?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_076",
+      "es": "Quiero enviarla una sola vez, no todos los meses.",
+      "translations": {
+        "en": "I want to send it just once, not every month.",
+        "pt": "Quero enviar uma única vez, não todo mês.",
+        "fr": "Je veux l'envoyer une seule fois, pas tous les mois.",
+        "it": "Voglio inviarlo una volta sola, non tutti i mesi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_077",
+      "es": "La transferencia aparece como pendiente.",
+      "translations": {
+        "en": "The transfer shows as pending.",
+        "pt": "A transferência aparece como pendente.",
+        "fr": "Le virement apparaît comme étant en attente.",
+        "it": "Il bonifico risulta in sospeso."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_078",
+      "es": "El dinero salió de mi cuenta, pero la otra persona no lo ha recibido.",
+      "translations": {
+        "en": "The money left my account, but the other person hasn't received it.",
+        "pt": "O dinheiro saiu da minha conta, mas a outra pessoa ainda não recebeu.",
+        "fr": "L'argent a été débité de mon compte, mais l'autre personne ne l'a pas reçu.",
+        "it": "Il denaro è uscito dal mio conto, ma l'altra persona non l'ha ricevuto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_079",
+      "es": "Aquí está la referencia de la transferencia.",
+      "translations": {
+        "en": "Here is the transfer reference.",
+        "pt": "Aqui está a referência da transferência.",
+        "fr": "Voici la référence du virement.",
+        "it": "Ecco il riferimento del bonifico."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_080",
+      "es": "¿Puede comprobar si se completó o fue rechazada?",
+      "translations": {
+        "en": "Can you check whether it went through or was rejected?",
+        "pt": "Pode verificar se foi concluída ou recusada?",
+        "fr": "Pouvez-vous vérifier si le virement a été effectué ou rejeté ?",
+        "it": "Può verificare se il bonifico è stato completato o rifiutato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_081",
+      "es": "Creo que escribí mal un número de la cuenta.",
+      "translations": {
+        "en": "I think I entered one digit of the account number incorrectly.",
+        "pt": "Acho que digitei errado um número da conta.",
+        "fr": "Je crois que j'ai mal saisi un chiffre du numéro de compte.",
+        "it": "Credo di aver inserito male una cifra del numero di conto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_082",
+      "es": "¿Todavía es posible cancelar esta transferencia?",
+      "translations": {
+        "en": "Is it still possible to cancel this transfer?",
+        "pt": "Ainda é possível cancelar esta transferência?",
+        "fr": "Est-il encore possible d'annuler ce virement ?",
+        "it": "È ancora possibile annullare questo bonifico?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_083",
+      "es": "¿Qué opciones tengo si ya se envió?",
+      "translations": {
+        "en": "What options do I have if it has already been sent?",
+        "pt": "Quais opções tenho se já foi enviada?",
+        "fr": "Quelles sont mes options si le virement a déjà été envoyé ?",
+        "it": "Quali possibilità ho se il bonifico è già stato inviato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_084",
+      "es": "El sistema rechazó la transferencia y mostró este mensaje.",
+      "translations": {
+        "en": "The system rejected the transfer and showed this message.",
+        "pt": "O sistema recusou a transferência e mostrou esta mensagem.",
+        "fr": "Le système a rejeté le virement et affiché ce message.",
+        "it": "Il sistema ha rifiutato il bonifico e ha mostrato questo messaggio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_085",
+      "es": "No quiero repetir la operación sin saber qué pasó.",
+      "translations": {
+        "en": "I don't want to repeat the transaction without knowing what happened.",
+        "pt": "Não quero repetir a operação sem saber o que aconteceu.",
+        "fr": "Je ne veux pas refaire l'opération sans savoir ce qui s'est passé.",
+        "it": "Non voglio ripetere l'operazione senza sapere cosa è successo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_086",
+      "es": "Mi tarjeta fue rechazada al intentar pagar.",
+      "translations": {
+        "en": "My card was declined when I tried to pay.",
+        "pt": "Meu cartão foi recusado quando tentei pagar.",
+        "fr": "Ma carte a été refusée quand j'ai essayé de payer.",
+        "it": "La mia carta è stata rifiutata quando ho provato a pagare."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_087",
+      "es": "¿Puede indicarme el motivo del rechazo?",
+      "translations": {
+        "en": "Can you tell me why it was declined?",
+        "pt": "Pode me informar o motivo da recusa?",
+        "fr": "Pouvez-vous m'indiquer le motif du refus ?",
+        "it": "Può indicarmi il motivo del rifiuto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_088",
+      "es": "Tengo saldo suficiente, pero el pago no pasa.",
+      "translations": {
+        "en": "I have enough money in my account, but the payment won't go through.",
+        "pt": "Tenho saldo suficiente, mas o pagamento não passa.",
+        "fr": "Mon solde est suffisant, mais le paiement ne passe pas.",
+        "it": "Ho un saldo sufficiente, ma il pagamento non va a buon fine."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_089",
+      "es": "¿Hay algún bloqueo en mi tarjeta?",
+      "translations": {
+        "en": "Is there a block on my card?",
+        "pt": "Há algum bloqueio no meu cartão?",
+        "fr": "Ma carte fait-elle l'objet d'un blocage ?",
+        "it": "C'è un blocco sulla mia carta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_090",
+      "es": "¿La tarjeta está habilitada para pagos en el extranjero?",
+      "translations": {
+        "en": "Is the card enabled for payments abroad?",
+        "pt": "O cartão está habilitado para pagamentos no exterior?",
+        "fr": "La carte est-elle activée pour les paiements à l'étranger ?",
+        "it": "La carta è abilitata ai pagamenti all'estero?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_091",
+      "es": "¿Necesito activar los pagos por internet?",
+      "translations": {
+        "en": "Do I need to enable online payments?",
+        "pt": "Preciso ativar os pagamentos pela internet?",
+        "fr": "Dois-je activer les paiements en ligne ?",
+        "it": "Devo attivare i pagamenti online?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_092",
+      "es": "El pago sin contacto no funciona. ¿Puedo insertar la tarjeta?",
+      "translations": {
+        "en": "Contactless payment isn't working. Can I insert the card?",
+        "pt": "O pagamento por aproximação não funciona. Posso inserir o cartão?",
+        "fr": "Le paiement sans contact ne fonctionne pas. Puis-je insérer la carte ?",
+        "it": "Il pagamento contactless non funziona. Posso inserire la carta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_093",
+      "es": "La terminal me pide el PIN, pero no lo recuerdo.",
+      "translations": {
+        "en": "The payment terminal is asking for my PIN, but I don't remember it.",
+        "pt": "A maquininha pede a senha, mas não lembro.",
+        "fr": "Le terminal me demande le code confidentiel, mais je ne m'en souviens pas.",
+        "it": "Il terminale mi chiede il PIN, ma non lo ricordo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_094",
+      "es": "¿Cómo puedo solicitar un PIN nuevo?",
+      "translations": {
+        "en": "How can I request a new PIN?",
+        "pt": "Como posso solicitar uma nova senha do cartão?",
+        "fr": "Comment puis-je demander un nouveau code confidentiel ?",
+        "it": "Come posso richiedere un nuovo PIN?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_095",
+      "es": "El pago requiere una confirmación en la app del banco.",
+      "translations": {
+        "en": "The payment requires confirmation in the banking app.",
+        "pt": "O pagamento exige uma confirmação no aplicativo do banco.",
+        "fr": "Le paiement nécessite une confirmation dans l'application bancaire.",
+        "it": "Il pagamento richiede una conferma nell'app della banca."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_096",
+      "es": "No recibí la notificación para autorizar el pago.",
+      "translations": {
+        "en": "I didn't receive the notification to authorize the payment.",
+        "pt": "Não recebi a notificação para autorizar o pagamento.",
+        "fr": "Je n'ai pas reçu la notification pour autoriser le paiement.",
+        "it": "Non ho ricevuto la notifica per autorizzare il pagamento."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_097",
+      "es": "¿Puedo confirmar la operación de otra manera?",
+      "translations": {
+        "en": "Can I confirm the transaction another way?",
+        "pt": "Posso confirmar a operação de outra forma?",
+        "fr": "Puis-je confirmer l'opération d'une autre manière ?",
+        "it": "Posso confermare l'operazione in un altro modo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_098",
+      "es": "La terminal ofrece pagar en dos monedas. ¿Qué tipo de cambio aplica?",
+      "translations": {
+        "en": "The terminal offers payment in two currencies. What exchange rate does it use?",
+        "pt": "A maquininha oferece pagamento em duas moedas. Qual taxa de câmbio aplica?",
+        "fr": "Le terminal propose de payer dans deux monnaies. Quel taux de change applique-t-il ?",
+        "it": "Il terminale propone di pagare in due valute. Quale tasso di cambio applica?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_099",
+      "es": "Quiero ver el importe y la moneda antes de confirmar.",
+      "translations": {
+        "en": "I want to see the amount and the currency before confirming.",
+        "pt": "Quero ver o valor e a moeda antes de confirmar.",
+        "fr": "Je veux voir le montant et la monnaie avant de confirmer.",
+        "it": "Voglio vedere l'importo e la valuta prima di confermare."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_100",
+      "es": "El comercio dice que el pago falló, pero veo un cargo en mi cuenta.",
+      "translations": {
+        "en": "The store says the payment failed, but I see a charge in my account.",
+        "pt": "A loja diz que o pagamento falhou, mas vejo uma cobrança na minha conta.",
+        "fr": "Le magasin dit que le paiement a échoué, mais je vois un débit sur mon compte.",
+        "it": "Il negozio dice che il pagamento non è riuscito, ma vedo un addebito sul mio conto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_101",
+      "es": "¿Ese cargo está confirmado o sigue pendiente?",
+      "translations": {
+        "en": "Is that charge confirmed, or is it still pending?",
+        "pt": "Essa cobrança está confirmada ou ainda está pendente?",
+        "fr": "Ce débit est-il confirmé ou toujours en attente ?",
+        "it": "Quell'addebito è confermato o è ancora in sospeso?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_102",
+      "es": "Aparecen dos cargos por la misma compra.",
+      "translations": {
+        "en": "There are two charges for the same purchase.",
+        "pt": "Aparecem duas cobranças pela mesma compra.",
+        "fr": "Deux débits apparaissent pour le même achat.",
+        "it": "Compaiono due addebiti per lo stesso acquisto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_103",
+      "es": "Uno de los importes no coincide con el recibo.",
+      "translations": {
+        "en": "One of the amounts doesn't match the receipt.",
+        "pt": "Um dos valores não corresponde ao recibo.",
+        "fr": "L'un des montants ne correspond pas au ticket de caisse.",
+        "it": "Uno degli importi non corrisponde allo scontrino."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_104",
+      "es": "No hice esta compra y quiero reportar el cargo.",
+      "translations": {
+        "en": "I didn't make this purchase, and I want to report the charge.",
+        "pt": "Não fiz esta compra e quero comunicar a cobrança.",
+        "fr": "Je n'ai pas effectué cet achat et je veux signaler ce débit.",
+        "it": "Non ho fatto questo acquisto e voglio segnalare l'addebito."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_105",
+      "es": "Perdí mi tarjeta y quisiera bloquearla.",
+      "translations": {
+        "en": "I lost my card, and I'd like to block it.",
+        "pt": "Perdi meu cartão e gostaria de bloquear.",
+        "fr": "J'ai perdu ma carte et je voudrais la bloquer.",
+        "it": "Ho perso la carta e vorrei bloccarla."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_106",
+      "es": "¿El bloqueo será temporal o definitivo?",
+      "translations": {
+        "en": "Will the block be temporary or permanent?",
+        "pt": "O bloqueio será temporário ou definitivo?",
+        "fr": "Le blocage sera-t-il temporaire ou définitif ?",
+        "it": "Il blocco sarà temporaneo o definitivo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_107",
+      "es": "¿Cómo puedo pedir una tarjeta de reemplazo?",
+      "translations": {
+        "en": "How can I request a replacement card?",
+        "pt": "Como posso pedir um cartão substituto?",
+        "fr": "Comment puis-je demander une carte de remplacement ?",
+        "it": "Come posso richiedere una carta sostitutiva?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_108",
+      "es": "¿Debo avisar también al comercio o lo revisa el banco?",
+      "translations": {
+        "en": "Should I also notify the store, or will the bank review it?",
+        "pt": "Devo avisar a loja também ou o banco vai verificar?",
+        "fr": "Dois-je aussi prévenir le magasin ou la banque s'en charge-t-elle ?",
+        "it": "Devo avvisare anche il negozio o se ne occupa la banca?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_109",
+      "es": "¿Qué documentos necesita para revisar este cargo?",
+      "translations": {
+        "en": "What documents do you need to review this charge?",
+        "pt": "Quais documentos precisa para verificar esta cobrança?",
+        "fr": "De quels documents avez-vous besoin pour examiner ce débit ?",
+        "it": "Di quali documenti ha bisogno per verificare questo addebito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_110",
+      "es": "¿Puede darme una referencia para consultar el estado de mi solicitud?",
+      "translations": {
+        "en": "Can you give me a reference number to check the status of my request?",
+        "pt": "Pode me dar um número de protocolo para acompanhar minha solicitação?",
+        "fr": "Pouvez-vous me donner une référence pour suivre ma demande ?",
+        "it": "Può darmi un numero di riferimento per controllare lo stato della mia richiesta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_111",
+      "es": "¿Cuándo puedo esperar una respuesta del banco?",
+      "translations": {
+        "en": "When can I expect a response from the bank?",
+        "pt": "Quando posso esperar uma resposta do banco?",
+        "fr": "Dans quel délai puis-je espérer une réponse de la banque ?",
+        "it": "Quando posso aspettarmi una risposta dalla banca?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_112",
+      "es": "Prefiero recibir la confirmación por escrito.",
+      "translations": {
+        "en": "I'd prefer to receive written confirmation.",
+        "pt": "Prefiro receber a confirmação por escrito.",
+        "fr": "Je préfère recevoir une confirmation écrite.",
+        "it": "Preferisco ricevere una conferma scritta."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_113",
+      "es": "Ya veo la corrección en mi cuenta.",
+      "translations": {
+        "en": "I can now see the correction in my account.",
+        "pt": "Agora vejo a correção na minha conta.",
+        "fr": "Je vois maintenant la correction sur mon compte.",
+        "it": "Adesso vedo la correzione sul mio conto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_114",
+      "es": "La transferencia llegó y el destinatario confirmó la recepción.",
+      "translations": {
+        "en": "The transfer arrived, and the recipient confirmed receiving it.",
+        "pt": "A transferência chegou e o destinatário confirmou o recebimento.",
+        "fr": "Le virement est arrivé et le bénéficiaire a confirmé sa réception.",
+        "it": "Il bonifico è arrivato e il beneficiario ha confermato di averlo ricevuto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "bop_115",
+      "es": "El pago ya pasó; no necesito intentarlo otra vez.",
+      "translations": {
+        "en": "The payment has gone through; I don't need to try again.",
+        "pt": "O pagamento já foi aprovado; não preciso tentar de novo.",
+        "fr": "Le paiement est passé ; je n'ai pas besoin de réessayer.",
+        "it": "Il pagamento è andato a buon fine; non devo riprovare."
+      },
+      "image_url": ""
+    }
+  ]
+}

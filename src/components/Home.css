@@ -257,3 +257,27 @@
     font-size: 16px;
     line-height: 1;
 }
+
+.home-explorer .home-card-count {
+    margin: 8px 0 0;
+    color: var(--primary);
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+@media (min-width: 701px) {
+    .home-explorer .home-topic {
+        position: relative;
+    }
+
+    .home-explorer .home-card-count {
+        position: absolute;
+        top: 12px;
+        right: 18px;
+        margin: 0;
+    }
+
+    .home-explorer .home-topic-actions {
+        padding-top: 24px;
+    }
+}

@@ -1,0 +1,1601 @@
+{
+  "module": "Teléfono, mensajes y tecnología",
+  "level": "A2",
+  "cards": [
+    {
+      "id": "tmt_001",
+      "es": "Teléfono, mensajes y tecnología",
+      "translations": {
+        "en": "Phone calls, messages, and technology",
+        "pt": "Telefone, mensagens e tecnologia",
+        "fr": "Téléphone, messages et technologie",
+        "it": "Telefono, messaggi e tecnologia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_002",
+      "es": "El buzón de voz",
+      "translations": {
+        "en": "Voicemail",
+        "pt": "A caixa postal de voz",
+        "fr": "La messagerie vocale",
+        "it": "La segreteria telefonica"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_003",
+      "es": "Una llamada perdida",
+      "translations": {
+        "en": "A missed call",
+        "pt": "Uma chamada perdida",
+        "fr": "Un appel manqué",
+        "it": "Una chiamata persa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_004",
+      "es": "La extensión telefónica",
+      "translations": {
+        "en": "The phone extension",
+        "pt": "O ramal",
+        "fr": "Le poste téléphonique",
+        "it": "L'interno telefonico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_005",
+      "es": "Un mensaje de voz",
+      "translations": {
+        "en": "A voice message",
+        "pt": "Uma mensagem de voz",
+        "fr": "Un message vocal",
+        "it": "Un messaggio vocale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_006",
+      "es": "Un archivo adjunto",
+      "translations": {
+        "en": "An attachment",
+        "pt": "Um arquivo anexado",
+        "fr": "Une pièce jointe",
+        "it": "Un allegato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_007",
+      "es": "Una captura de pantalla",
+      "translations": {
+        "en": "A screenshot",
+        "pt": "Uma captura de tela",
+        "fr": "Une capture d'écran",
+        "it": "Uno screenshot"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_008",
+      "es": "La cobertura del teléfono",
+      "translations": {
+        "en": "Cell phone coverage",
+        "pt": "A cobertura de celular",
+        "fr": "La couverture du réseau mobile",
+        "it": "La copertura della rete mobile"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_009",
+      "es": "Los datos móviles",
+      "translations": {
+        "en": "Mobile data",
+        "pt": "Os dados móveis",
+        "fr": "Les données mobiles",
+        "it": "I dati mobili"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_010",
+      "es": "El modo avión",
+      "translations": {
+        "en": "Airplane mode",
+        "pt": "O modo avião",
+        "fr": "Le mode avion",
+        "it": "La modalità aereo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_011",
+      "es": "El nombre de usuario",
+      "translations": {
+        "en": "The username",
+        "pt": "O nome de usuário",
+        "fr": "Le nom d'utilisateur",
+        "it": "Il nome utente"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_012",
+      "es": "Un código de verificación",
+      "translations": {
+        "en": "A verification code",
+        "pt": "Um código de verificação",
+        "fr": "Un code de vérification",
+        "it": "Un codice di verifica"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_013",
+      "es": "Los ajustes de la app",
+      "translations": {
+        "en": "The app settings",
+        "pt": "As configurações do aplicativo",
+        "fr": "Les paramètres de l'application",
+        "it": "Le impostazioni dell'app"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_014",
+      "es": "Una copia de seguridad",
+      "translations": {
+        "en": "A backup",
+        "pt": "Uma cópia de segurança",
+        "fr": "Une sauvegarde",
+        "it": "Un backup"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_015",
+      "es": "El almacenamiento disponible",
+      "translations": {
+        "en": "Available storage",
+        "pt": "O espaço de armazenamento disponível",
+        "fr": "L'espace de stockage disponible",
+        "it": "Lo spazio di archiviazione disponibile"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_016",
+      "es": "¿Puedo hablar con Ana, por favor?",
+      "translations": {
+        "en": "May I speak to Ana, please?",
+        "pt": "Posso falar com a Ana, por favor?",
+        "fr": "Puis-je parler à Ana, s'il vous plaît ?",
+        "it": "Posso parlare con Ana, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_017",
+      "es": "¿De parte de quién?",
+      "translations": {
+        "en": "Who's calling, please?",
+        "pt": "Quem está falando, por favor?",
+        "fr": "C'est de la part de qui ?",
+        "it": "Chi parla, per favore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_018",
+      "es": "Soy Luis; llamo por el pedido de ayer.",
+      "translations": {
+        "en": "This is Luis; I'm calling about yesterday's order.",
+        "pt": "Aqui é o Luis; estou ligando sobre o pedido de ontem.",
+        "fr": "C'est Luis ; j'appelle au sujet de la commande d'hier.",
+        "it": "Sono Luis; chiamo per l'ordine di ieri."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_019",
+      "es": "Creo que marqué el número equivocado.",
+      "translations": {
+        "en": "I think I dialed the wrong number.",
+        "pt": "Acho que disquei o número errado.",
+        "fr": "Je crois que j'ai composé le mauvais numéro.",
+        "it": "Credo di aver composto il numero sbagliato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_020",
+      "es": "No, aquí no trabaja nadie con ese nombre.",
+      "translations": {
+        "en": "No, no one with that name works here.",
+        "pt": "Não, ninguém com esse nome trabalha aqui.",
+        "fr": "Non, personne de ce nom ne travaille ici.",
+        "it": "No, qui non lavora nessuno con quel nome."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_021",
+      "es": "Un momento, voy a pasarle la llamada.",
+      "translations": {
+        "en": "One moment, I'll transfer your call.",
+        "pt": "Um momento, vou transferir sua ligação.",
+        "fr": "Un instant, je vais vous passer la personne.",
+        "it": "Un momento, le passo la chiamata."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_022",
+      "es": "¿Puede comunicarme con la extensión doscientos cinco?",
+      "translations": {
+        "en": "Could you connect me to extension two-oh-five?",
+        "pt": "Pode me transferir para o ramal duzentos e cinco?",
+        "fr": "Pouvez-vous me passer le poste deux cent cinq ?",
+        "it": "Può passarmi l'interno duecentocinque?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_023",
+      "es": "La línea está ocupada. ¿Quiere esperar?",
+      "translations": {
+        "en": "The line is busy. Would you like to hold?",
+        "pt": "A linha está ocupada. Quer aguardar?",
+        "fr": "La ligne est occupée. Voulez-vous patienter ?",
+        "it": "La linea è occupata. Vuole attendere?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_024",
+      "es": "Prefiero dejar un mensaje y que me llamen después.",
+      "translations": {
+        "en": "I'd rather leave a message and have someone call me back.",
+        "pt": "Prefiro deixar um recado e que me liguem depois.",
+        "fr": "Je préfère laisser un message et qu'on me rappelle.",
+        "it": "Preferisco lasciare un messaggio e farmi richiamare."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_025",
+      "es": "¿Podría decirle que necesito confirmar la entrega?",
+      "translations": {
+        "en": "Could you tell them I need to confirm the delivery?",
+        "pt": "Pode dizer que preciso confirmar a entrega?",
+        "fr": "Pourriez-vous lui dire que je dois confirmer la livraison ?",
+        "it": "Potrebbe dire che devo confermare la consegna?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_026",
+      "es": "¿A qué número pueden devolverle la llamada?",
+      "translations": {
+        "en": "What number can they call you back at?",
+        "pt": "Para qual número podem retornar a ligação?",
+        "fr": "À quel numéro peut-on vous rappeler ?",
+        "it": "A quale numero possono richiamarla?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_027",
+      "es": "Es el mismo número desde el que estoy llamando.",
+      "translations": {
+        "en": "It's the same number I'm calling from.",
+        "pt": "É o mesmo número de onde estou ligando.",
+        "fr": "C'est le numéro depuis lequel j'appelle.",
+        "it": "È lo stesso numero da cui sto chiamando."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_028",
+      "es": "Voy a leerle el número para comprobar que lo anoté bien.",
+      "translations": {
+        "en": "I'll read the number back to make sure I wrote it down correctly.",
+        "pt": "Vou ler o número para confirmar que anotei certo.",
+        "fr": "Je vais vous relire le numéro pour vérifier que je l'ai bien noté.",
+        "it": "Le rileggo il numero per controllare di averlo annotato bene."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_029",
+      "es": "¿Cómo se escribe su apellido?",
+      "translations": {
+        "en": "How do you spell your last name?",
+        "pt": "Como se escreve seu sobrenome?",
+        "fr": "Comment s'écrit votre nom de famille ?",
+        "it": "Come si scrive il suo cognome?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_030",
+      "es": "Puede llamarme por la tarde, después de las cuatro.",
+      "translations": {
+        "en": "You can call me in the afternoon, after four.",
+        "pt": "Pode me ligar à tarde, depois das quatro.",
+        "fr": "Vous pouvez m'appeler l'après-midi, après quatre heures.",
+        "it": "Può chiamarmi nel pomeriggio, dopo le quattro."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_031",
+      "es": "Gracias; le transmitiré el mensaje.",
+      "translations": {
+        "en": "Thank you; I'll pass on the message.",
+        "pt": "Obrigado; vou passar o recado. / Obrigada; vou passar o recado.",
+        "fr": "Merci ; je lui transmettrai le message.",
+        "it": "Grazie; riferirò il messaggio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_032",
+      "es": "Hola, soy Marta. Te llamé, pero no pude comunicarme contigo.",
+      "translations": {
+        "en": "Hi, it's Marta. I called you, but I couldn't reach you.",
+        "pt": "Oi, aqui é a Marta. Te liguei, mas não consegui falar com você.",
+        "fr": "Salut, c'est Marta. Je t'ai appelé, mais je n'ai pas réussi à te joindre. / Salut, c'est Marta. Je t'ai appelée, mais je n'ai pas réussi à te joindre.",
+        "it": "Ciao, sono Marta. Ti ho chiamato, ma non sono riuscita a contattarti. / Ciao, sono Marta. Ti ho chiamata, ma non sono riuscita a contattarti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_033",
+      "es": "Cuando escuches este mensaje, llámame, por favor.",
+      "translations": {
+        "en": "Please call me when you hear this message.",
+        "pt": "Quando ouvir esta mensagem, me ligue, por favor.",
+        "fr": "Appelle-moi quand tu écouteras ce message, s'il te plaît.",
+        "it": "Chiamami quando ascolti questo messaggio, per favore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_034",
+      "es": "Vi tu llamada perdida y te estoy devolviendo la llamada.",
+      "translations": {
+        "en": "I saw your missed call, and I'm calling you back.",
+        "pt": "Vi sua chamada perdida e estou retornando a ligação.",
+        "fr": "J'ai vu ton appel manqué et je te rappelle.",
+        "it": "Ho visto la tua chiamata persa e ti richiamo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_035",
+      "es": "Ahora no puedo hablar. ¿Puedo llamarte en diez minutos?",
+      "translations": {
+        "en": "I can't talk right now. Can I call you in ten minutes?",
+        "pt": "Agora não posso falar. Posso te ligar em dez minutos?",
+        "fr": "Je ne peux pas parler maintenant. Je peux t'appeler dans dix minutes ?",
+        "it": "Adesso non posso parlare. Posso chiamarti fra dieci minuti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_036",
+      "es": "No te escucho bien; parece que hay mucho ruido.",
+      "translations": {
+        "en": "I can't hear you well; it sounds like there's a lot of noise.",
+        "pt": "Não estou te ouvindo bem; parece que tem muito barulho.",
+        "fr": "Je ne t'entends pas bien ; on dirait qu'il y a beaucoup de bruit.",
+        "it": "Non ti sento bene; sembra che ci sia molto rumore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_037",
+      "es": "La llamada se cortó antes de que terminaras.",
+      "translations": {
+        "en": "The call dropped before you finished.",
+        "pt": "A ligação caiu antes de você terminar.",
+        "fr": "L'appel a été coupé avant que tu finisses.",
+        "it": "La chiamata è caduta prima che finissi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_038",
+      "es": "Si se vuelve a cortar, te escribo por mensaje.",
+      "translations": {
+        "en": "If it drops again, I'll send you a message.",
+        "pt": "Se cair de novo, te mando uma mensagem.",
+        "fr": "Si ça coupe encore, je t'envoie un message.",
+        "it": "Se cade di nuovo, ti mando un messaggio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_039",
+      "es": "Voy a poner el teléfono en altavoz para que todos escuchen.",
+      "translations": {
+        "en": "I'll put the phone on speaker so everyone can hear.",
+        "pt": "Vou colocar o telefone no viva-voz para todo mundo ouvir.",
+        "fr": "Je vais mettre le téléphone sur haut-parleur pour que tout le monde entende.",
+        "it": "Metto il telefono in vivavoce così possono sentire tutti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_040",
+      "es": "¿Puedo enviarte un audio en lugar de llamar?",
+      "translations": {
+        "en": "Can I send you a voice message instead of calling?",
+        "pt": "Posso te mandar um áudio em vez de ligar?",
+        "fr": "Je peux t'envoyer un message vocal au lieu de t'appeler ?",
+        "it": "Posso mandarti un messaggio vocale invece di chiamarti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_041",
+      "es": "Ahora no puedo escuchar audios. ¿Puedes escribirlo?",
+      "translations": {
+        "en": "I can't listen to voice messages right now. Can you type it out?",
+        "pt": "Agora não posso ouvir áudios. Pode escrever?",
+        "fr": "Je ne peux pas écouter de messages vocaux maintenant. Tu peux l'écrire ?",
+        "it": "Adesso non posso ascoltare messaggi vocali. Puoi scriverlo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_042",
+      "es": "¿Recibiste el mensaje que te envié esta mañana?",
+      "translations": {
+        "en": "Did you get the message I sent you this morning?",
+        "pt": "Você recebeu a mensagem que te mandei hoje de manhã?",
+        "fr": "As-tu reçu le message que je t'ai envoyé ce matin ?",
+        "it": "Hai ricevuto il messaggio che ti ho mandato stamattina?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_043",
+      "es": "Me aparece como enviado, pero no como entregado.",
+      "translations": {
+        "en": "It shows as sent, but not delivered.",
+        "pt": "Aparece como enviado, mas não como entregue.",
+        "fr": "Il apparaît comme envoyé, mais pas comme distribué.",
+        "it": "Risulta inviato, ma non consegnato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_044",
+      "es": "Lo leí, pero todavía no he podido responder.",
+      "translations": {
+        "en": "I read it, but I haven't been able to reply yet.",
+        "pt": "Li, mas ainda não consegui responder.",
+        "fr": "Je l'ai lu, mais je n'ai pas encore pu répondre.",
+        "it": "L'ho letto, ma non ho ancora potuto rispondere."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_045",
+      "es": "No es urgente; responde cuando tengas tiempo.",
+      "translations": {
+        "en": "It's not urgent; reply when you have time.",
+        "pt": "Não é urgente; responda quando tiver tempo.",
+        "fr": "Ce n'est pas urgent ; réponds quand tu as le temps.",
+        "it": "Non è urgente; rispondi quando hai tempo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_046",
+      "es": "Envié el mensaje a otro contacto por error.",
+      "translations": {
+        "en": "I accidentally sent the message to another contact.",
+        "pt": "Mandei a mensagem para outro contato por engano.",
+        "fr": "J'ai envoyé le message à un autre contact par erreur.",
+        "it": "Ho mandato il messaggio a un altro contatto per errore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_047",
+      "es": "El teléfono cambió una palabra automáticamente.",
+      "translations": {
+        "en": "My phone automatically changed a word.",
+        "pt": "O celular mudou uma palavra automaticamente.",
+        "fr": "Mon téléphone a changé un mot automatiquement.",
+        "it": "Il telefono ha cambiato automaticamente una parola."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_048",
+      "es": "Quería escribir «martes», no «jueves».",
+      "translations": {
+        "en": "I meant to type “Tuesday,” not “Thursday.”",
+        "pt": "Queria escrever “terça-feira”, não “quinta-feira”.",
+        "fr": "Je voulais écrire « mardi », pas « jeudi ».",
+        "it": "Volevo scrivere «martedì», non «giovedì»."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_049",
+      "es": "¿Puedes reenviar el mensaje original sin cambiarlo?",
+      "translations": {
+        "en": "Can you forward the original message without changing it?",
+        "pt": "Pode encaminhar a mensagem original sem mudar nada?",
+        "fr": "Peux-tu transférer le message original sans le modifier ?",
+        "it": "Puoi inoltrare il messaggio originale senza modificarlo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_050",
+      "es": "Ana llamó y pidió que la contactaras antes de las seis.",
+      "translations": {
+        "en": "Ana called and asked you to contact her before six.",
+        "pt": "A Ana ligou e pediu para você falar com ela antes das seis.",
+        "fr": "Ana a appelé et a demandé que tu la contactes avant six heures.",
+        "it": "Ana ha chiamato e ha chiesto di contattarla prima delle sei."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_051",
+      "es": "Me dijo que el horario cambió, pero no me dio la nueva hora.",
+      "translations": {
+        "en": "They told me the schedule changed, but didn't give me the new time.",
+        "pt": "Me disseram que o horário mudou, mas não informaram o novo horário.",
+        "fr": "On m'a dit que l'horaire avait changé, mais on ne m'a pas donné la nouvelle heure.",
+        "it": "Mi hanno detto che l'orario è cambiato, ma non mi hanno dato quello nuovo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_052",
+      "es": "Eso es todo lo que me dijeron; no tengo más detalles.",
+      "translations": {
+        "en": "That's all they told me; I don't have any more details.",
+        "pt": "Foi só isso que me disseram; não tenho mais detalhes.",
+        "fr": "C'est tout ce qu'on m'a dit ; je n'ai pas d'autres détails.",
+        "it": "È tutto quello che mi hanno detto; non ho altri dettagli."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_053",
+      "es": "¿Puedes confirmar directamente con esa persona?",
+      "translations": {
+        "en": "Can you confirm directly with that person?",
+        "pt": "Pode confirmar diretamente com essa pessoa?",
+        "fr": "Peux-tu confirmer directement avec cette personne ?",
+        "it": "Puoi chiedere conferma direttamente a quella persona?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_054",
+      "es": "Te mando una foto del aviso para que veas el texto completo.",
+      "translations": {
+        "en": "I'll send you a photo of the notice so you can see the full text.",
+        "pt": "Vou te mandar uma foto do aviso para você ver o texto completo.",
+        "fr": "Je t'envoie une photo de l'avis pour que tu voies le texte complet.",
+        "it": "Ti mando una foto dell'avviso così puoi leggere il testo completo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_055",
+      "es": "¿La respuesta era para mí o para todo el grupo?",
+      "translations": {
+        "en": "Was the reply meant for me or for the whole group?",
+        "pt": "A resposta era para mim ou para o grupo todo?",
+        "fr": "La réponse était pour moi ou pour tout le groupe ?",
+        "it": "La risposta era per me o per tutto il gruppo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_056",
+      "es": "Voy a responder en privado para no llenar el chat.",
+      "translations": {
+        "en": "I'll reply privately so I don't fill up the group chat.",
+        "pt": "Vou responder no privado para não encher o chat do grupo.",
+        "fr": "Je vais répondre en privé pour ne pas remplir la discussion de groupe.",
+        "it": "Risponderò in privato per non riempire la chat del gruppo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_057",
+      "es": "¿Puedes añadir a Luis al grupo?",
+      "translations": {
+        "en": "Can you add Luis to the group?",
+        "pt": "Pode adicionar o Luis ao grupo?",
+        "fr": "Peux-tu ajouter Luis au groupe ?",
+        "it": "Puoi aggiungere Luis al gruppo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_058",
+      "es": "Prefiero que me preguntes antes de compartir mi número.",
+      "translations": {
+        "en": "I'd prefer you to ask me before sharing my number.",
+        "pt": "Prefiro que você me pergunte antes de compartilhar meu número.",
+        "fr": "Je préfère que tu me demandes avant de partager mon numéro.",
+        "it": "Preferisco che tu me lo chieda prima di condividere il mio numero."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_059",
+      "es": "He silenciado el grupo, pero revisaré los mensajes esta tarde.",
+      "translations": {
+        "en": "I've muted the group, but I'll check the messages this afternoon.",
+        "pt": "Silenciei o grupo, mas vou conferir as mensagens hoje à tarde.",
+        "fr": "J'ai mis le groupe en sourdine, mais je lirai les messages cet après-midi.",
+        "it": "Ho silenziato il gruppo, ma leggerò i messaggi questo pomeriggio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_060",
+      "es": "¿A qué hora puedes conectarte a la videollamada?",
+      "translations": {
+        "en": "What time can you join the video call?",
+        "pt": "A que horas você pode entrar na videochamada?",
+        "fr": "À quelle heure peux-tu te connecter à l'appel vidéo ?",
+        "it": "A che ora puoi collegarti alla videochiamata?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_061",
+      "es": "Estamos en zonas horarias distintas. ¿Qué hora es para ti?",
+      "translations": {
+        "en": "We're in different time zones. What time is it for you?",
+        "pt": "Estamos em fusos horários diferentes. Que horas são aí?",
+        "fr": "Nous sommes dans des fuseaux horaires différents. Quelle heure est-il chez toi ?",
+        "it": "Siamo in fusi orari diversi. Che ore sono da te?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_062",
+      "es": "Las siete para ti son las dos de la tarde para mí.",
+      "translations": {
+        "en": "Seven your time is two in the afternoon for me.",
+        "pt": "Sete horas aí são duas da tarde aqui.",
+        "fr": "Sept heures chez toi, c'est deux heures de l'après-midi chez moi.",
+        "it": "Le sette da te sono le due del pomeriggio da me."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_063",
+      "es": "Envíame el enlace de la llamada, no el de la página principal.",
+      "translations": {
+        "en": "Send me the link to the call, not the homepage.",
+        "pt": "Me mande o link da chamada, não o da página inicial.",
+        "fr": "Envoie-moi le lien de l'appel, pas celui de la page d'accueil.",
+        "it": "Mandami il link della chiamata, non quello della pagina iniziale."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_064",
+      "es": "Ya entré, pero estoy en la sala de espera.",
+      "translations": {
+        "en": "I've joined, but I'm in the waiting room.",
+        "pt": "Já entrei, mas estou na sala de espera.",
+        "fr": "Je me suis connecté, mais je suis dans la salle d'attente. / Je me suis connectée, mais je suis dans la salle d'attente.",
+        "it": "Ho effettuato l'accesso, ma sono nella sala d'attesa."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_065",
+      "es": "Te veo, pero no te oigo. ¿Está activado tu micrófono?",
+      "translations": {
+        "en": "I can see you, but I can't hear you. Is your microphone on?",
+        "pt": "Estou te vendo, mas não te ouço. Seu microfone está ligado?",
+        "fr": "Je te vois, mais je ne t'entends pas. Ton micro est activé ?",
+        "it": "Ti vedo, ma non ti sento. Il microfono è attivo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_066",
+      "es": "Voy a apagar la cámara para mejorar la conexión.",
+      "translations": {
+        "en": "I'm going to turn off my camera to improve the connection.",
+        "pt": "Vou desligar a câmera para melhorar a conexão.",
+        "fr": "Je vais désactiver ma caméra pour améliorer la connexion.",
+        "it": "Disattiverò la videocamera per migliorare la connessione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_067",
+      "es": "La imagen se quedó congelada.",
+      "translations": {
+        "en": "The video froze.",
+        "pt": "A imagem travou.",
+        "fr": "L'image s'est figée.",
+        "it": "L'immagine si è bloccata."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_068",
+      "es": "Voy a salir de la llamada y volver a entrar.",
+      "translations": {
+        "en": "I'm going to leave the call and rejoin.",
+        "pt": "Vou sair da chamada e entrar de novo.",
+        "fr": "Je vais quitter l'appel et me reconnecter.",
+        "it": "Uscirò dalla chiamata e rientrerò."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_069",
+      "es": "¿Puedes compartir tu pantalla para mostrarme el problema?",
+      "translations": {
+        "en": "Can you share your screen to show me the problem?",
+        "pt": "Pode compartilhar sua tela para me mostrar o problema?",
+        "fr": "Peux-tu partager ton écran pour me montrer le problème ?",
+        "it": "Puoi condividere lo schermo per mostrarmi il problema?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_070",
+      "es": "Antes de compartirla, voy a cerrar mis otras ventanas.",
+      "translations": {
+        "en": "Before sharing it, I'm going to close my other windows.",
+        "pt": "Antes de compartilhar, vou fechar as outras janelas.",
+        "fr": "Avant de le partager, je vais fermer mes autres fenêtres.",
+        "it": "Prima di condividerlo, chiuderò le altre finestre."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_071",
+      "es": "No veo tu pantalla; solo veo tu cámara.",
+      "translations": {
+        "en": "I can't see your screen; I can only see your camera.",
+        "pt": "Não vejo sua tela; só vejo sua câmera.",
+        "fr": "Je ne vois pas ton écran ; je ne vois que ta caméra.",
+        "it": "Non vedo il tuo schermo; vedo solo la tua videocamera."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_072",
+      "es": "Si no logramos conectarnos, te enviaré los detalles por escrito.",
+      "translations": {
+        "en": "If we can't connect, I'll send you the details in writing.",
+        "pt": "Se não conseguirmos nos conectar, vou te mandar os detalhes por escrito.",
+        "fr": "Si nous n'arrivons pas à nous connecter, je t'enverrai les détails par écrit.",
+        "it": "Se non riusciamo a collegarci, ti manderò i dettagli per iscritto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_073",
+      "es": "¿Cuál es el nombre de la red Wi-Fi?",
+      "translations": {
+        "en": "What's the name of the Wi-Fi network?",
+        "pt": "Qual é o nome da rede Wi-Fi?",
+        "fr": "Quel est le nom du réseau Wi-Fi ?",
+        "it": "Come si chiama la rete Wi-Fi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_074",
+      "es": "¿Dónde puedo encontrar la contraseña del Wi-Fi?",
+      "translations": {
+        "en": "Where can I find the Wi-Fi password?",
+        "pt": "Onde posso encontrar a senha do Wi-Fi?",
+        "fr": "Où puis-je trouver le mot de passe du Wi-Fi ?",
+        "it": "Dove posso trovare la password del Wi-Fi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_075",
+      "es": "Mi teléfono no encuentra esa red.",
+      "translations": {
+        "en": "My phone can't find that network.",
+        "pt": "Meu celular não encontra essa rede.",
+        "fr": "Mon téléphone ne trouve pas ce réseau.",
+        "it": "Il mio telefono non trova quella rete."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_076",
+      "es": "Estoy conectado/a al Wi-Fi, pero no tengo acceso a internet.",
+      "translations": {
+        "en": "I'm connected to Wi-Fi, but I don't have internet access.",
+        "pt": "Estou conectado ao Wi-Fi, mas não tenho acesso à internet. / Estou conectada ao Wi-Fi, mas não tenho acesso à internet.",
+        "fr": "Je suis connecté au Wi-Fi, mais je n'ai pas accès à internet. / Je suis connectée au Wi-Fi, mais je n'ai pas accès à internet.",
+        "it": "Sono connesso al Wi-Fi, ma non ho accesso a internet. / Sono connessa al Wi-Fi, ma non ho accesso a internet."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_077",
+      "es": "¿Te pasa también a ti o solo a mí?",
+      "translations": {
+        "en": "Is it happening to you too, or just to me?",
+        "pt": "Isso acontece com você também ou só comigo?",
+        "fr": "Ça t'arrive aussi ou seulement à moi ?",
+        "it": "Succede anche a te o solo a me?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_078",
+      "es": "Aquí no tengo señal; voy a buscar otro lugar.",
+      "translations": {
+        "en": "I don't have a signal here; I'm going to find another spot.",
+        "pt": "Aqui não tenho sinal; vou procurar outro lugar.",
+        "fr": "Je n'ai pas de réseau ici ; je vais chercher un autre endroit.",
+        "it": "Qui non ho segnale; cercherò un altro posto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_079",
+      "es": "La conexión va muy lenta y la página no termina de cargar.",
+      "translations": {
+        "en": "The connection is very slow, and the page won't finish loading.",
+        "pt": "A conexão está muito lenta e a página não termina de carregar.",
+        "fr": "La connexion est très lente et la page ne finit pas de charger.",
+        "it": "La connessione è molto lenta e la pagina non finisce di caricarsi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_080",
+      "es": "¿Puedo usar tus datos móviles un momento?",
+      "translations": {
+        "en": "Can I use your mobile data for a moment?",
+        "pt": "Posso usar seus dados móveis por um momento?",
+        "fr": "Puis-je utiliser tes données mobiles un instant ?",
+        "it": "Posso usare i tuoi dati mobili per un momento?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_081",
+      "es": "Voy a compartir internet desde mi teléfono.",
+      "translations": {
+        "en": "I'm going to share my phone's internet connection.",
+        "pt": "Vou compartilhar a internet do meu celular.",
+        "fr": "Je vais partager la connexion internet de mon téléphone.",
+        "it": "Condividerò la connessione internet del mio telefono."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_082",
+      "es": "Me quedan pocos datos; prefiero descargarlo con Wi-Fi.",
+      "translations": {
+        "en": "I don't have much data left; I'd rather download it over Wi-Fi.",
+        "pt": "Tenho poucos dados restantes; prefiro baixar pelo Wi-Fi.",
+        "fr": "Il me reste peu de données ; je préfère le télécharger en Wi-Fi.",
+        "it": "Mi restano pochi dati; preferisco scaricarlo tramite Wi-Fi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_083",
+      "es": "¿Esta función se puede usar sin conexión?",
+      "translations": {
+        "en": "Can this feature be used offline?",
+        "pt": "Esta função pode ser usada sem conexão?",
+        "fr": "Peut-on utiliser cette fonction hors connexion ?",
+        "it": "Questa funzione si può usare offline?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_084",
+      "es": "Descargué el mapa para consultarlo sin internet.",
+      "translations": {
+        "en": "I downloaded the map so I can use it without internet.",
+        "pt": "Baixei o mapa para consultar sem internet.",
+        "fr": "J'ai téléchargé la carte pour la consulter sans internet.",
+        "it": "Ho scaricato la mappa per consultarla senza internet."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_085",
+      "es": "No consigo conectar los audífonos por Bluetooth.",
+      "translations": {
+        "en": "I can't connect my headphones over Bluetooth.",
+        "pt": "Não consigo conectar os fones de ouvido por Bluetooth.",
+        "fr": "Je n'arrive pas à connecter mes écouteurs en Bluetooth.",
+        "it": "Non riesco a collegare le cuffie tramite Bluetooth."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_086",
+      "es": "¿Tienes activado el modo avión?",
+      "translations": {
+        "en": "Do you have airplane mode on?",
+        "pt": "O modo avião está ativado?",
+        "fr": "Le mode avion est-il activé ?",
+        "it": "Hai attivato la modalità aereo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_087",
+      "es": "Me queda poca batería. Voy a responder desde la computadora.",
+      "translations": {
+        "en": "My battery is low. I'll reply from my computer.",
+        "pt": "Minha bateria está acabando. Vou responder pelo computador.",
+        "fr": "Il me reste peu de batterie. Je vais répondre depuis l'ordinateur.",
+        "it": "Ho poca batteria. Risponderò dal computer."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_088",
+      "es": "¿Necesito crear una cuenta para usar esta función?",
+      "translations": {
+        "en": "Do I need to create an account to use this feature?",
+        "pt": "Preciso criar uma conta para usar esta função?",
+        "fr": "Dois-je créer un compte pour utiliser cette fonction ?",
+        "it": "Devo creare un account per usare questa funzione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_089",
+      "es": "Ya tengo una cuenta, pero no puedo iniciar sesión.",
+      "translations": {
+        "en": "I already have an account, but I can't log in.",
+        "pt": "Já tenho uma conta, mas não consigo entrar.",
+        "fr": "J'ai déjà un compte, mais je n'arrive pas à me connecter.",
+        "it": "Ho già un account, ma non riesco ad accedere."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_090",
+      "es": "¿Debo escribir mi correo o mi nombre de usuario?",
+      "translations": {
+        "en": "Should I enter my email address or my username?",
+        "pt": "Devo digitar meu e-mail ou meu nome de usuário?",
+        "fr": "Dois-je saisir mon adresse e-mail ou mon nom d'utilisateur ?",
+        "it": "Devo inserire la mia e-mail o il mio nome utente?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_091",
+      "es": "Me dice que la contraseña es incorrecta.",
+      "translations": {
+        "en": "It says my password is incorrect.",
+        "pt": "Aparece que a senha está incorreta.",
+        "fr": "On m'indique que le mot de passe est incorrect.",
+        "it": "Mi dice che la password è sbagliata."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_092",
+      "es": "Olvidé mi contraseña. ¿Cómo puedo restablecerla?",
+      "translations": {
+        "en": "I forgot my password. How can I reset it?",
+        "pt": "Esqueci minha senha. Como posso redefinir?",
+        "fr": "J'ai oublié mon mot de passe. Comment puis-je le réinitialiser ?",
+        "it": "Ho dimenticato la password. Come posso reimpostarla?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_093",
+      "es": "Pedí un enlace para restablecer la contraseña, pero no llegó.",
+      "translations": {
+        "en": "I requested a password reset link, but it didn't arrive.",
+        "pt": "Pedi um link para redefinir a senha, mas ele não chegou.",
+        "fr": "J'ai demandé un lien pour réinitialiser mon mot de passe, mais je ne l'ai pas reçu.",
+        "it": "Ho richiesto un link per reimpostare la password, ma non è arrivato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_094",
+      "es": "¿Revisaste la carpeta de correo no deseado?",
+      "translations": {
+        "en": "Did you check your spam folder?",
+        "pt": "Você verificou a pasta de spam?",
+        "fr": "As-tu vérifié le dossier des courriers indésirables ?",
+        "it": "Hai controllato la cartella della posta indesiderata?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_095",
+      "es": "El código de verificación ya venció.",
+      "translations": {
+        "en": "The verification code has expired.",
+        "pt": "O código de verificação expirou.",
+        "fr": "Le code de vérification a expiré.",
+        "it": "Il codice di verifica è scaduto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_096",
+      "es": "¿Puedo solicitar un código nuevo?",
+      "translations": {
+        "en": "Can I request a new code?",
+        "pt": "Posso solicitar um novo código?",
+        "fr": "Puis-je demander un nouveau code ?",
+        "it": "Posso richiedere un nuovo codice?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_097",
+      "es": "Ya no tengo acceso al correo asociado a mi cuenta.",
+      "translations": {
+        "en": "I no longer have access to the email address linked to my account.",
+        "pt": "Não tenho mais acesso ao e-mail associado à minha conta.",
+        "fr": "Je n'ai plus accès à l'adresse e-mail associée à mon compte.",
+        "it": "Non ho più accesso all'e-mail associata al mio account."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_098",
+      "es": "¿Cómo puedo cambiar mi número de teléfono en la cuenta?",
+      "translations": {
+        "en": "How can I change the phone number on my account?",
+        "pt": "Como posso mudar o número de telefone na minha conta?",
+        "fr": "Comment puis-je modifier le numéro de téléphone de mon compte ?",
+        "it": "Come posso cambiare il numero di telefono nel mio account?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_099",
+      "es": "No quiero compartir mi contraseña. Puedo describirte lo que veo.",
+      "translations": {
+        "en": "I don't want to share my password. I can describe what I see.",
+        "pt": "Não quero compartilhar minha senha. Posso descrever o que vejo.",
+        "fr": "Je ne veux pas partager mon mot de passe. Je peux te décrire ce que je vois.",
+        "it": "Non voglio condividere la mia password. Posso descriverti quello che vedo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_100",
+      "es": "Quiero cerrar sesión, no eliminar mi cuenta.",
+      "translations": {
+        "en": "I want to log out, not delete my account.",
+        "pt": "Quero sair da conta, não excluir a conta.",
+        "fr": "Je veux me déconnecter, pas supprimer mon compte.",
+        "it": "Voglio uscire dall'account, non eliminarlo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_101",
+      "es": "La app me pide iniciar sesión cada vez que la abro.",
+      "translations": {
+        "en": "The app asks me to log in every time I open it.",
+        "pt": "O aplicativo pede para eu entrar na conta toda vez que abro.",
+        "fr": "L'application me demande de me connecter chaque fois que je l'ouvre.",
+        "it": "L'app mi chiede di accedere ogni volta che la apro."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_102",
+      "es": "Estoy usando otra cuenta por error.",
+      "translations": {
+        "en": "I'm using the wrong account by mistake.",
+        "pt": "Estou usando outra conta por engano.",
+        "fr": "J'utilise un autre compte par erreur.",
+        "it": "Sto usando un altro account per errore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_103",
+      "es": "¿Dónde puedo descargar la app?",
+      "translations": {
+        "en": "Where can I download the app?",
+        "pt": "Onde posso baixar o aplicativo?",
+        "fr": "Où puis-je télécharger l'application ?",
+        "it": "Dove posso scaricare l'app?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_104",
+      "es": "¿La app funciona en mi teléfono o solo en la computadora?",
+      "translations": {
+        "en": "Does the app work on my phone or only on a computer?",
+        "pt": "O aplicativo funciona no meu celular ou só no computador?",
+        "fr": "L'application fonctionne-t-elle sur mon téléphone ou seulement sur un ordinateur ?",
+        "it": "L'app funziona sul mio telefono o solo sul computer?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_105",
+      "es": "Me aparece una actualización disponible.",
+      "translations": {
+        "en": "It shows that an update is available.",
+        "pt": "Aparece uma atualização disponível.",
+        "fr": "Une mise à jour est disponible.",
+        "it": "Mi segnala che è disponibile un aggiornamento."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_106",
+      "es": "¿Perderé mis datos si desinstalo la app?",
+      "translations": {
+        "en": "Will I lose my data if I uninstall the app?",
+        "pt": "Vou perder meus dados se desinstalar o aplicativo?",
+        "fr": "Vais-je perdre mes données si je désinstalle l'application ?",
+        "it": "Perderò i miei dati se disinstallo l'app?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_107",
+      "es": "Antes de cambiar de teléfono, quiero hacer una copia de seguridad.",
+      "translations": {
+        "en": "Before switching phones, I want to make a backup.",
+        "pt": "Antes de trocar de celular, quero fazer uma cópia de segurança.",
+        "fr": "Avant de changer de téléphone, je veux faire une sauvegarde.",
+        "it": "Prima di cambiare telefono, voglio fare un backup."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_108",
+      "es": "No tengo suficiente espacio para instalarla.",
+      "translations": {
+        "en": "I don't have enough storage to install it.",
+        "pt": "Não tenho espaço suficiente para instalar.",
+        "fr": "Je n'ai pas assez d'espace pour l'installer.",
+        "it": "Non ho abbastanza spazio per installarla."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_109",
+      "es": "¿Dónde cambio el idioma de la app?",
+      "translations": {
+        "en": "Where do I change the app's language?",
+        "pt": "Onde mudo o idioma do aplicativo?",
+        "fr": "Où puis-je changer la langue de l'application ?",
+        "it": "Dove posso cambiare la lingua dell'app?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_110",
+      "es": "Quiero aumentar el tamaño del texto.",
+      "translations": {
+        "en": "I want to increase the text size.",
+        "pt": "Quero aumentar o tamanho do texto.",
+        "fr": "Je veux augmenter la taille du texte.",
+        "it": "Voglio aumentare la dimensione del testo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_111",
+      "es": "¿Cómo desactivo las notificaciones de esta app?",
+      "translations": {
+        "en": "How do I turn off notifications for this app?",
+        "pt": "Como desativo as notificações deste aplicativo?",
+        "fr": "Comment désactiver les notifications de cette application ?",
+        "it": "Come disattivo le notifiche di questa app?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_112",
+      "es": "La app pide permiso para usar la cámara.",
+      "translations": {
+        "en": "The app is asking for permission to use the camera.",
+        "pt": "O aplicativo está pedindo permissão para usar a câmera.",
+        "fr": "L'application demande l'autorisation d'utiliser la caméra.",
+        "it": "L'app chiede il permesso di usare la fotocamera."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_113",
+      "es": "¿Para qué necesita acceso a mi ubicación?",
+      "translations": {
+        "en": "Why does it need access to my location?",
+        "pt": "Para que precisa acessar minha localização?",
+        "fr": "Pourquoi a-t-elle besoin d'accéder à ma position ?",
+        "it": "Perché ha bisogno di accedere alla mia posizione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_114",
+      "es": "Prefiero permitirlo solo mientras uso la app.",
+      "translations": {
+        "en": "I'd rather allow it only while I'm using the app.",
+        "pt": "Prefiro permitir só enquanto uso o aplicativo.",
+        "fr": "Je préfère l'autoriser seulement pendant que j'utilise l'application.",
+        "it": "Preferisco consentirlo solo mentre uso l'app."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_115",
+      "es": "¿Tengo que tocar una vez o mantener pulsado el botón?",
+      "translations": {
+        "en": "Should I tap once or press and hold the button?",
+        "pt": "Devo tocar uma vez ou manter o botão pressionado?",
+        "fr": "Dois-je appuyer une fois ou maintenir le bouton enfoncé ?",
+        "it": "Devo toccare una volta o tenere premuto il pulsante?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_116",
+      "es": "Desliza hacia abajo para ver el resto.",
+      "translations": {
+        "en": "Scroll down to see the rest.",
+        "pt": "Role para baixo para ver o restante.",
+        "fr": "Fais défiler vers le bas pour voir la suite.",
+        "it": "Scorri verso il basso per vedere il resto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_117",
+      "es": "No encuentro el botón para guardar los cambios.",
+      "translations": {
+        "en": "I can't find the button to save the changes.",
+        "pt": "Não encontro o botão para salvar as alterações.",
+        "fr": "Je ne trouve pas le bouton pour enregistrer les modifications.",
+        "it": "Non trovo il pulsante per salvare le modifiche."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_118",
+      "es": "¿Los cambios se guardan automáticamente?",
+      "translations": {
+        "en": "Are the changes saved automatically?",
+        "pt": "As alterações são salvas automaticamente?",
+        "fr": "Les modifications sont-elles enregistrées automatiquement ?",
+        "it": "Le modifiche vengono salvate automaticamente?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_119",
+      "es": "¿Puedo deshacer la última acción?",
+      "translations": {
+        "en": "Can I undo the last action?",
+        "pt": "Posso desfazer a última ação?",
+        "fr": "Puis-je annuler la dernière action ?",
+        "it": "Posso annullare l'ultima azione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_120",
+      "es": "Quiero borrar solo este archivo, no toda la carpeta.",
+      "translations": {
+        "en": "I want to delete only this file, not the whole folder.",
+        "pt": "Quero apagar só este arquivo, não a pasta inteira.",
+        "fr": "Je veux supprimer seulement ce fichier, pas tout le dossier.",
+        "it": "Voglio eliminare solo questo file, non tutta la cartella."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_121",
+      "es": "¿Cómo comparto este documento sin permitir cambios?",
+      "translations": {
+        "en": "How do I share this document without allowing changes?",
+        "pt": "Como compartilho este documento sem permitir alterações?",
+        "fr": "Comment partager ce document sans autoriser les modifications ?",
+        "it": "Come condivido questo documento senza consentire modifiche?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_122",
+      "es": "El enlace se abre, pero me pide permiso para ver el archivo.",
+      "translations": {
+        "en": "The link opens, but I need permission to view the file.",
+        "pt": "O link abre, mas pede permissão para ver o arquivo.",
+        "fr": "Le lien s'ouvre, mais une autorisation est nécessaire pour consulter le fichier.",
+        "it": "Il link si apre, ma mi serve il permesso per vedere il file."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_123",
+      "es": "¿Puedes darme acceso solo para leerlo?",
+      "translations": {
+        "en": "Can you give me read-only access?",
+        "pt": "Pode me dar acesso só para leitura?",
+        "fr": "Peux-tu me donner un accès en lecture seule ?",
+        "it": "Puoi darmi accesso in sola lettura?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_124",
+      "es": "El archivo es demasiado grande para enviarlo por mensaje.",
+      "translations": {
+        "en": "The file is too large to send in a message.",
+        "pt": "O arquivo é grande demais para enviar por mensagem.",
+        "fr": "Le fichier est trop volumineux pour être envoyé par message.",
+        "it": "Il file è troppo grande per inviarlo in un messaggio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_125",
+      "es": "¿Puedes enviarlo como enlace o en un archivo más pequeño?",
+      "translations": {
+        "en": "Can you send it as a link or as a smaller file?",
+        "pt": "Pode enviar como link ou em um arquivo menor?",
+        "fr": "Peux-tu l'envoyer sous forme de lien ou dans un fichier plus petit ?",
+        "it": "Puoi inviarlo come link o in un file più piccolo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_126",
+      "es": "La descarga se detuvo a la mitad.",
+      "translations": {
+        "en": "The download stopped halfway through.",
+        "pt": "O download parou na metade.",
+        "fr": "Le téléchargement s'est arrêté à mi-chemin.",
+        "it": "Il download si è interrotto a metà."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_127",
+      "es": "El archivo se descargó, pero no sé dónde quedó guardado.",
+      "translations": {
+        "en": "The file downloaded, but I don't know where it was saved.",
+        "pt": "O arquivo foi baixado, mas não sei onde ficou salvo.",
+        "fr": "Le fichier a été téléchargé, mais je ne sais pas où il a été enregistré.",
+        "it": "Il file è stato scaricato, ma non so dove sia stato salvato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_128",
+      "es": "¿Qué formato de archivo acepta esta app?",
+      "translations": {
+        "en": "What file formats does this app accept?",
+        "pt": "Quais formatos de arquivo este aplicativo aceita?",
+        "fr": "Quels formats de fichier cette application accepte-t-elle ?",
+        "it": "Quali formati di file accetta questa app?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_129",
+      "es": "¿Puedo buscar un mensaje por una palabra o por la fecha?",
+      "translations": {
+        "en": "Can I search for a message by a word or by date?",
+        "pt": "Posso buscar uma mensagem por uma palavra ou pela data?",
+        "fr": "Puis-je rechercher un message par mot ou par date ?",
+        "it": "Posso cercare un messaggio tramite una parola o la data?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_130",
+      "es": "La app se cierra sola cuando intento abrir una foto.",
+      "translations": {
+        "en": "The app closes by itself when I try to open a photo.",
+        "pt": "O aplicativo fecha sozinho quando tento abrir uma foto.",
+        "fr": "L'application se ferme toute seule quand j'essaie d'ouvrir une photo.",
+        "it": "L'app si chiude da sola quando provo ad aprire una foto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_131",
+      "es": "El botón aparece en gris y no puedo usarlo.",
+      "translations": {
+        "en": "The button is grayed out, and I can't use it.",
+        "pt": "O botão aparece em cinza e não consigo usar.",
+        "fr": "Le bouton est grisé et je ne peux pas l'utiliser.",
+        "it": "Il pulsante è grigio e non posso usarlo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_132",
+      "es": "En mi pantalla no aparece esa opción.",
+      "translations": {
+        "en": "That option doesn't appear on my screen.",
+        "pt": "Essa opção não aparece na minha tela.",
+        "fr": "Cette option n'apparaît pas sur mon écran.",
+        "it": "Quell'opzione non compare sul mio schermo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_133",
+      "es": "¿Dónde encuentro el número de versión de la app?",
+      "translations": {
+        "en": "Where can I find the app's version number?",
+        "pt": "Onde encontro o número da versão do aplicativo?",
+        "fr": "Où puis-je trouver le numéro de version de l'application ?",
+        "it": "Dove trovo il numero di versione dell'app?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_134",
+      "es": "El problema empezó después de la actualización.",
+      "translations": {
+        "en": "The problem started after the update.",
+        "pt": "O problema começou depois da atualização.",
+        "fr": "Le problème a commencé après la mise à jour.",
+        "it": "Il problema è cominciato dopo l'aggiornamento."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_135",
+      "es": "Ya reinicié el teléfono, pero sigue pasando lo mismo.",
+      "translations": {
+        "en": "I've restarted my phone, but the same thing is still happening.",
+        "pt": "Já reiniciei o celular, mas continua acontecendo a mesma coisa.",
+        "fr": "J'ai redémarré mon téléphone, mais le problème persiste.",
+        "it": "Ho già riavviato il telefono, ma continua a succedere la stessa cosa."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_136",
+      "es": "¿Te ocurre siempre o solo con ese archivo?",
+      "translations": {
+        "en": "Does it happen every time or only with that file?",
+        "pt": "Isso acontece sempre ou só com esse arquivo?",
+        "fr": "Cela arrive-t-il toujours ou seulement avec ce fichier ?",
+        "it": "Succede sempre o solo con quel file?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_137",
+      "es": "¿Qué estabas intentando hacer cuando apareció el error?",
+      "translations": {
+        "en": "What were you trying to do when the error appeared?",
+        "pt": "O que você estava tentando fazer quando apareceu o erro?",
+        "fr": "Qu'essayais-tu de faire quand l'erreur est apparue ?",
+        "it": "Cosa stavi cercando di fare quando è comparso l'errore?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_138",
+      "es": "Voy a copiar el texto exacto del mensaje de error.",
+      "translations": {
+        "en": "I'm going to copy the exact text of the error message.",
+        "pt": "Vou copiar o texto exato da mensagem de erro.",
+        "fr": "Je vais copier le texte exact du message d'erreur.",
+        "it": "Copierò il testo esatto del messaggio di errore."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_139",
+      "es": "Puedo enviar una captura sin mostrar mis datos personales.",
+      "translations": {
+        "en": "I can send a screenshot without showing my personal information.",
+        "pt": "Posso enviar uma captura de tela sem mostrar meus dados pessoais.",
+        "fr": "Je peux envoyer une capture d'écran sans montrer mes données personnelles.",
+        "it": "Posso inviare uno screenshot senza mostrare i miei dati personali."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_140",
+      "es": "¿Puedes indicarme qué botón tocar primero?",
+      "translations": {
+        "en": "Can you tell me which button to tap first?",
+        "pt": "Pode me dizer qual botão tocar primeiro?",
+        "fr": "Peux-tu m'indiquer sur quel bouton appuyer en premier ?",
+        "it": "Puoi indicarmi quale pulsante toccare per primo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_141",
+      "es": "Espera un momento; todavía estoy en la pantalla anterior.",
+      "translations": {
+        "en": "Wait a moment; I'm still on the previous screen.",
+        "pt": "Espere um momento; ainda estou na tela anterior.",
+        "fr": "Attends un instant ; je suis encore sur l'écran précédent.",
+        "it": "Aspetta un momento; sono ancora nella schermata precedente."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_142",
+      "es": "Ya hice ese paso. ¿Qué debería aparecer ahora?",
+      "translations": {
+        "en": "I've done that step. What should appear now?",
+        "pt": "Já fiz esse passo. O que deveria aparecer agora?",
+        "fr": "J'ai fait cette étape. Qu'est-ce qui devrait apparaître maintenant ?",
+        "it": "Ho fatto quel passaggio. Cosa dovrebbe comparire adesso?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_143",
+      "es": "Ahora funciona en la computadora, pero no en el teléfono.",
+      "translations": {
+        "en": "It works on my computer now, but not on my phone.",
+        "pt": "Agora funciona no computador, mas não no celular.",
+        "fr": "Cela fonctionne maintenant sur l'ordinateur, mais pas sur le téléphone.",
+        "it": "Adesso funziona sul computer, ma non sul telefono."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_144",
+      "es": "¿Hay otra forma de hacerlo mientras resuelven el problema?",
+      "translations": {
+        "en": "Is there another way to do it while the problem is being fixed?",
+        "pt": "Existe outra forma de fazer isso enquanto resolvem o problema?",
+        "fr": "Y a-t-il une autre façon de le faire en attendant la résolution du problème ?",
+        "it": "C'è un altro modo per farlo mentre risolvono il problema?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tmt_145",
+      "es": "Ya puedo entrar y ver mis archivos. Gracias por la ayuda.",
+      "translations": {
+        "en": "I can log in and see my files now. Thanks for your help.",
+        "pt": "Agora consigo entrar e ver meus arquivos. Obrigado pela ajuda. / Agora consigo entrar e ver meus arquivos. Obrigada pela ajuda.",
+        "fr": "Je peux maintenant me connecter et voir mes fichiers. Merci pour ton aide.",
+        "it": "Adesso riesco ad accedere e a vedere i miei file. Grazie per l'aiuto."
+      },
+      "image_url": ""
+    }
+  ]
+}

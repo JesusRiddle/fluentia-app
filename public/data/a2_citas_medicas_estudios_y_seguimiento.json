@@ -1,0 +1,1183 @@
+{
+  "module": "Citas médicas, estudios y seguimiento",
+  "level": "A2",
+  "cards": [
+    {
+      "id": "cme_001",
+      "es": "Citas médicas, estudios y seguimiento",
+      "translations": {
+        "en": "Medical appointments, tests, and follow-up",
+        "pt": "Consultas médicas, exames e acompanhamento",
+        "fr": "Rendez-vous médicaux, examens et suivi",
+        "it": "Appuntamenti medici, esami e controlli"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_002",
+      "es": "Cita de seguimiento",
+      "translations": {
+        "en": "Follow-up appointment",
+        "pt": "Consulta de acompanhamento",
+        "fr": "Rendez-vous de suivi",
+        "it": "Appuntamento di controllo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_003",
+      "es": "Solicitud de estudio (documento para realizar una prueba)",
+      "translations": {
+        "en": "Test order",
+        "pt": "Pedido de exame",
+        "fr": "Prescription d’examen",
+        "it": "Richiesta per un esame"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_004",
+      "es": "Derivación / Referencia a un especialista",
+      "translations": {
+        "en": "Referral to a specialist",
+        "pt": "Encaminhamento para um especialista",
+        "fr": "Orientation vers un spécialiste",
+        "it": "Invio a uno specialista"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_005",
+      "es": "Ayuno (no comer durante un período indicado)",
+      "translations": {
+        "en": "Fasting",
+        "pt": "Jejum",
+        "fr": "Jeûne",
+        "it": "Digiuno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_006",
+      "es": "Muestra para análisis",
+      "translations": {
+        "en": "Sample for testing",
+        "pt": "Amostra para exame",
+        "fr": "Échantillon à analyser",
+        "it": "Campione da analizzare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_007",
+      "es": "Análisis de laboratorio",
+      "translations": {
+        "en": "Lab tests",
+        "pt": "Exames laboratoriais",
+        "fr": "Analyses de laboratoire",
+        "it": "Analisi di laboratorio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_008",
+      "es": "Análisis de sangre",
+      "translations": {
+        "en": "Blood test",
+        "pt": "Exame de sangue",
+        "fr": "Analyse de sang",
+        "it": "Esame del sangue"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_009",
+      "es": "Análisis de orina",
+      "translations": {
+        "en": "Urine test",
+        "pt": "Exame de urina",
+        "fr": "Analyse d’urine",
+        "it": "Analisi delle urine"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_010",
+      "es": "Radiografía",
+      "translations": {
+        "en": "X-ray",
+        "pt": "Radiografia",
+        "fr": "Radiographie",
+        "it": "Radiografia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_011",
+      "es": "Ultrasonido / Ecografía",
+      "translations": {
+        "en": "Ultrasound",
+        "pt": "Ultrassom",
+        "fr": "Échographie",
+        "it": "Ecografia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_012",
+      "es": "Resonancia magnética",
+      "translations": {
+        "en": "MRI scan",
+        "pt": "Ressonância magnética",
+        "fr": "IRM / Imagerie par résonance magnétique",
+        "it": "Risonanza magnetica"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_013",
+      "es": "Informe de resultados",
+      "translations": {
+        "en": "Test results report",
+        "pt": "Laudo do exame",
+        "fr": "Compte rendu d’examen",
+        "it": "Referto dell’esame"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_014",
+      "es": "Consentimiento informado (aceptación después de recibir una explicación)",
+      "translations": {
+        "en": "Informed consent",
+        "pt": "Consentimento informado",
+        "fr": "Consentement éclairé",
+        "it": "Consenso informato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_015",
+      "es": "Necesito reprogramar mi cita porque no podré asistir ese día.",
+      "translations": {
+        "en": "I need to reschedule my appointment because I won’t be able to attend that day.",
+        "pt": "Preciso remarcar minha consulta porque não poderei comparecer nesse dia.",
+        "fr": "Je dois déplacer mon rendez-vous parce que je ne pourrai pas venir ce jour-là.",
+        "it": "Devo spostare il mio appuntamento perché non potrò venire quel giorno."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_016",
+      "es": "¿Hay una fecha anterior disponible con el mismo médico?",
+      "translations": {
+        "en": "Is an earlier date available with the same doctor?",
+        "pt": "Há uma data anterior disponível com o mesmo médico?",
+        "fr": "Il y a une date plus proche avec le même médecin ?",
+        "it": "C’è una data precedente disponibile con lo stesso medico?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_017",
+      "es": "¿Pueden avisarme si alguien cancela y se libera una cita?",
+      "translations": {
+        "en": "Can you let me know if someone cancels and an appointment becomes available?",
+        "pt": "Podem me avisar se alguém cancelar e surgir uma vaga?",
+        "fr": "Pouvez-vous me prévenir si quelqu’un annule et qu’un rendez-vous se libère ?",
+        "it": "Potete avvisarmi se qualcuno annulla e si libera un appuntamento?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_018",
+      "es": "Quiero cancelar solo la consulta; mantengo la cita para el estudio.",
+      "translations": {
+        "en": "I want to cancel only the consultation. I’m keeping the appointment for the test.",
+        "pt": "Quero cancelar só a consulta; mantenho o agendamento do exame.",
+        "fr": "Je veux annuler seulement la consultation ; je garde le rendez-vous pour l’examen.",
+        "it": "Voglio annullare solo la visita; mantengo l’appuntamento per l’esame."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_019",
+      "es": "¿La consulta y el estudio se realizan el mismo día?",
+      "translations": {
+        "en": "Are the consultation and the test on the same day?",
+        "pt": "A consulta e o exame são realizados no mesmo dia?",
+        "fr": "La consultation et l’examen ont lieu le même jour ?",
+        "it": "La visita e l’esame si svolgono lo stesso giorno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_020",
+      "es": "¿Debo hacerme el estudio antes de volver a ver al médico?",
+      "translations": {
+        "en": "Do I need to have the test before seeing the doctor again?",
+        "pt": "Preciso fazer o exame antes de voltar ao médico?",
+        "fr": "Je dois faire l’examen avant de revoir le médecin ?",
+        "it": "Devo fare l’esame prima di tornare dal medico?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_021",
+      "es": "¿Debo reservar la cita de seguimiento ahora o esperar los resultados?",
+      "translations": {
+        "en": "Should I book the follow-up appointment now or wait for the results?",
+        "pt": "Devo marcar a consulta de acompanhamento agora ou esperar os resultados?",
+        "fr": "Je dois prendre le rendez-vous de suivi maintenant ou attendre les résultats ?",
+        "it": "Devo prenotare adesso la visita di controllo o aspettare i risultati?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_022",
+      "es": "¿La nueva cita sustituye la anterior? No quiero tener dos reservas.",
+      "translations": {
+        "en": "Does the new appointment replace the old one? I don’t want two bookings.",
+        "pt": "A nova consulta substitui a anterior? Não quero ter dois agendamentos.",
+        "fr": "Le nouveau rendez-vous remplace l’ancien ? Je ne veux pas avoir deux réservations.",
+        "it": "Il nuovo appuntamento sostituisce quello precedente? Non voglio avere due prenotazioni."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_023",
+      "es": "¿Esta cita es presencial o por videollamada?",
+      "translations": {
+        "en": "Is this appointment in person or by video call?",
+        "pt": "Esta consulta é presencial ou por videochamada?",
+        "fr": "Ce rendez-vous est en présentiel ou en visioconférence ?",
+        "it": "Questo appuntamento è in presenza o in videochiamata?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_024",
+      "es": "¿Debo acudir a la clínica o al laboratorio para este estudio?",
+      "translations": {
+        "en": "Should I go to the clinic or the lab for this test?",
+        "pt": "Devo ir à clínica ou ao laboratório para este exame?",
+        "fr": "Je dois aller à la clinique ou au laboratoire pour cet examen ?",
+        "it": "Devo andare alla clinica o al laboratorio per questo esame?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_025",
+      "es": "¿La dirección es la misma que la de mi consulta anterior?",
+      "translations": {
+        "en": "Is the address the same as for my previous appointment?",
+        "pt": "O endereço é o mesmo da minha consulta anterior?",
+        "fr": "L’adresse est la même que pour ma consultation précédente ?",
+        "it": "L’indirizzo è lo stesso della mia visita precedente?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_026",
+      "es": "Es mi primera consulta en este centro; ¿debo registrarme antes de llegar?",
+      "translations": {
+        "en": "This is my first appointment at this center. Do I need to register before arriving?",
+        "pt": "É minha primeira consulta neste centro; preciso me cadastrar antes de chegar?",
+        "fr": "C’est ma première consultation dans ce centre ; je dois m’inscrire avant de venir ?",
+        "it": "È la mia prima visita in questo centro; devo registrarmi prima di arrivare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_027",
+      "es": "¿Con cuánto tiempo de anticipación debo llegar para completar el registro?",
+      "translations": {
+        "en": "How early should I arrive to complete registration?",
+        "pt": "Com quanto tempo de antecedência devo chegar para completar o cadastro?",
+        "fr": "Combien de temps à l’avance dois-je arriver pour compléter l’inscription ?",
+        "it": "Quanto tempo prima devo arrivare per completare la registrazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_028",
+      "es": "¿Qué documentos necesitan además de mi identificación?",
+      "translations": {
+        "en": "What documents do you need besides my ID?",
+        "pt": "Quais documentos precisam além da minha identificação?",
+        "fr": "Quels documents faut-il en plus de ma pièce d’identité ?",
+        "it": "Quali documenti servono oltre al documento d’identità?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_029",
+      "es": "Aquí está la solicitud del estudio que me dio el médico.",
+      "translations": {
+        "en": "Here is the test order my doctor gave me.",
+        "pt": "Aqui está o pedido de exame que o médico me deu.",
+        "fr": "Voici la prescription d’examen que mon médecin m’a donnée.",
+        "it": "Ecco la richiesta per l’esame che mi ha dato il medico."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_030",
+      "es": "¿Esta derivación es para un especialista o para realizar el estudio?",
+      "translations": {
+        "en": "Is this referral to a specialist or for the test?",
+        "pt": "Este encaminhamento é para um especialista ou para fazer o exame?",
+        "fr": "Cette orientation concerne un spécialiste ou un examen ?",
+        "it": "Questo invio è per uno specialista o per fare l’esame?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_031",
+      "es": "¿Necesitan que lleve los resultados de estudios anteriores?",
+      "translations": {
+        "en": "Do you need me to bring previous test results?",
+        "pt": "Precisam que eu leve os resultados de exames anteriores?",
+        "fr": "Vous avez besoin que j’apporte les résultats de mes examens précédents ?",
+        "it": "Devo portare i risultati degli esami precedenti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_032",
+      "es": "Tengo mis antecedentes y la lista de medicamentos en este documento.",
+      "translations": {
+        "en": "I have my medical history and medication list in this document.",
+        "pt": "Tenho meu histórico médico e a lista de medicamentos neste documento.",
+        "fr": "Mes antécédents médicaux et ma liste de médicaments sont dans ce document.",
+        "it": "La mia storia clinica e l’elenco dei medicinali sono in questo documento."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_033",
+      "es": "¿Mi seguro cubre esta consulta y este estudio?",
+      "translations": {
+        "en": "Does my insurance cover this consultation and this test?",
+        "pt": "Meu seguro cobre esta consulta e este exame?",
+        "fr": "Mon assurance couvre cette consultation et cet examen ?",
+        "it": "La mia assicurazione copre questa visita e questo esame?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_034",
+      "es": "¿Necesito autorización del seguro antes de realizar el estudio?",
+      "translations": {
+        "en": "Do I need authorization from my insurance before having the test?",
+        "pt": "Preciso de autorização do seguro antes de fazer o exame?",
+        "fr": "J’ai besoin d’une autorisation de mon assurance avant de faire l’examen ?",
+        "it": "Mi serve l’autorizzazione dell’assicurazione prima di fare l’esame?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_035",
+      "es": "¿Qué parte del costo debo pagar yo?",
+      "translations": {
+        "en": "Which part of the cost do I need to pay myself?",
+        "pt": "Qual parte do custo preciso pagar?",
+        "fr": "Quelle part du coût dois-je payer moi-même ?",
+        "it": "Quale parte del costo devo pagare io?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_036",
+      "es": "¿El precio incluye el informe y las imágenes del estudio?",
+      "translations": {
+        "en": "Does the price include the report and the test images?",
+        "pt": "O preço inclui o laudo e as imagens do exame?",
+        "fr": "Le prix comprend le compte rendu et les images de l’examen ?",
+        "it": "Il prezzo include il referto e le immagini dell’esame?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_037",
+      "es": "¿Se paga antes del estudio o al terminar?",
+      "translations": {
+        "en": "Do I pay before the test or afterward?",
+        "pt": "O pagamento é feito antes do exame ou no final?",
+        "fr": "Il faut payer avant l’examen ou à la fin ?",
+        "it": "Si paga prima dell’esame o alla fine?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_038",
+      "es": "Necesito un comprobante para solicitar el reembolso a mi seguro.",
+      "translations": {
+        "en": "I need a receipt to request reimbursement from my insurance.",
+        "pt": "Preciso de um comprovante para pedir o reembolso ao seguro.",
+        "fr": "J’ai besoin d’un justificatif pour demander le remboursement à mon assurance.",
+        "it": "Mi serve una ricevuta per chiedere il rimborso all’assicurazione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_039",
+      "es": "Mi apellido aparece incorrecto en el registro; ¿pueden corregirlo?",
+      "translations": {
+        "en": "My last name is incorrect in the registration record. Can you correct it?",
+        "pt": "Meu sobrenome está incorreto no cadastro; podem corrigir?",
+        "fr": "Mon nom de famille est incorrect dans le dossier ; pouvez-vous le corriger ?",
+        "it": "Il mio cognome è sbagliato nel registro; potete correggerlo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_040",
+      "es": "Este teléfono ya no es mío; quiero actualizar mis datos de contacto.",
+      "translations": {
+        "en": "This phone number is no longer mine. I’d like to update my contact details.",
+        "pt": "Este telefone não é mais meu; quero atualizar meus dados de contato.",
+        "fr": "Ce numéro de téléphone n’est plus le mien ; je veux mettre à jour mes coordonnées.",
+        "it": "Questo numero di telefono non è più mio; voglio aggiornare i miei recapiti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_041",
+      "es": "¿Debo completar el formulario de antecedentes antes de entrar a la consulta?",
+      "translations": {
+        "en": "Do I need to fill out the medical history form before the consultation?",
+        "pt": "Preciso preencher o formulário de histórico médico antes da consulta?",
+        "fr": "Je dois remplir le questionnaire sur mes antécédents avant la consultation ?",
+        "it": "Devo compilare il modulo sulla storia clinica prima della visita?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_042",
+      "es": "Hay una pregunta del formulario que no entiendo; ¿quién puede explicármela?",
+      "translations": {
+        "en": "There’s a question on the form I don’t understand. Who can explain it to me?",
+        "pt": "Há uma pergunta no formulário que não entendo; quem pode me explicar?",
+        "fr": "Il y a une question du formulaire que je ne comprends pas ; qui peut me l’expliquer ?",
+        "it": "C’è una domanda nel modulo che non capisco; chi può spiegarmela?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_043",
+      "es": "Quiero leer la explicación antes de firmar el consentimiento.",
+      "translations": {
+        "en": "I’d like to read the explanation before signing the consent form.",
+        "pt": "Quero ler a explicação antes de assinar o consentimento.",
+        "fr": "Je veux lire l’explication avant de signer le consentement.",
+        "it": "Voglio leggere la spiegazione prima di firmare il consenso."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_044",
+      "es": "¿Puedo pedir que me expliquen el procedimiento en español?",
+      "translations": {
+        "en": "Can I ask for the procedure to be explained in Spanish?",
+        "pt": "Posso pedir que me expliquem o procedimento em espanhol?",
+        "fr": "Je peux demander qu’on m’explique la procédure en espagnol ?",
+        "it": "Posso chiedere che mi spieghino la procedura in spagnolo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_045",
+      "es": "¿Puede acompañarme alguien durante el registro o la consulta?",
+      "translations": {
+        "en": "Can someone accompany me during registration or the consultation?",
+        "pt": "Alguém pode me acompanhar durante o cadastro ou a consulta?",
+        "fr": "Quelqu’un peut m’accompagner pendant l’inscription ou la consultation ?",
+        "it": "Qualcuno può accompagnarmi durante la registrazione o la visita?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_046",
+      "es": "¿Qué preparación necesita este estudio en particular?",
+      "translations": {
+        "en": "What preparation is needed for this particular test?",
+        "pt": "Qual preparação é necessária para este exame específico?",
+        "fr": "Quelle préparation faut-il pour cet examen en particulier ?",
+        "it": "Quale preparazione serve per questo esame specifico?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_047",
+      "es": "¿Necesito venir en ayunas? Si es así, ¿desde qué hora?",
+      "translations": {
+        "en": "Do I need to fast? If so, starting at what time?",
+        "pt": "Preciso vir em jejum? Se sim, a partir de que horário?",
+        "fr": "Je dois venir à jeun ? Si oui, à partir de quelle heure ?",
+        "it": "Devo venire a digiuno? Se sì, da quale ora?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_048",
+      "es": "¿Las instrucciones de ayuno incluyen el agua y otras bebidas?",
+      "translations": {
+        "en": "Do the fasting instructions include water and other drinks?",
+        "pt": "As instruções de jejum incluem água e outras bebidas?",
+        "fr": "Les consignes de jeûne concernent aussi l’eau et les autres boissons ?",
+        "it": "Le istruzioni per il digiuno riguardano anche l’acqua e le altre bevande?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_049",
+      "es": "¿Debo consultar con el médico qué hacer con mis medicamentos habituales?",
+      "translations": {
+        "en": "Should I ask the doctor what to do about my regular medications?",
+        "pt": "Devo consultar o médico sobre o que fazer com meus medicamentos habituais?",
+        "fr": "Je dois demander au médecin quoi faire pour mes médicaments habituels ?",
+        "it": "Devo chiedere al medico che cosa fare con i miei farmaci abituali?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_050",
+      "es": "No quiero cambiar mi medicación sin indicaciones; ¿quién debe confirmarlas?",
+      "translations": {
+        "en": "I don’t want to change my medication without instructions. Who should confirm them?",
+        "pt": "Não quero mudar minha medicação sem orientação; quem deve confirmar as instruções?",
+        "fr": "Je ne veux pas modifier mon traitement sans consignes ; qui doit me les confirmer ?",
+        "it": "Non voglio modificare i medicinali senza indicazioni; chi deve confermarle?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_051",
+      "es": "¿Hay algo que deba evitar antes de este estudio?",
+      "translations": {
+        "en": "Is there anything I should avoid before this test?",
+        "pt": "Há algo que devo evitar antes deste exame?",
+        "fr": "Il y a quelque chose que je dois éviter avant cet examen ?",
+        "it": "C’è qualcosa che devo evitare prima di questo esame?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_052",
+      "es": "¿Me enviarán las instrucciones de preparación con anticipación?",
+      "translations": {
+        "en": "Will you send me the preparation instructions in advance?",
+        "pt": "Vão me enviar as instruções de preparação com antecedência?",
+        "fr": "Vous m’enverrez les consignes de préparation à l’avance ?",
+        "it": "Mi invierete in anticipo le istruzioni per la preparazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_053",
+      "es": "Recibí dos instrucciones diferentes; ¿cuál corresponde al estudio que tengo reservado?",
+      "translations": {
+        "en": "I received two different sets of instructions. Which applies to the test I’ve booked?",
+        "pt": "Recebi duas orientações diferentes; qual corresponde ao exame agendado?",
+        "fr": "J’ai reçu deux consignes différentes ; laquelle correspond à l’examen que j’ai réservé ?",
+        "it": "Ho ricevuto due istruzioni diverse; quale corrisponde all’esame prenotato?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_054",
+      "es": "No seguí una parte de la preparación; ¿debo avisar antes de acudir?",
+      "translations": {
+        "en": "I didn’t follow part of the preparation. Should I let you know before coming in?",
+        "pt": "Não segui uma parte da preparação; devo avisar antes de ir?",
+        "fr": "Je n’ai pas suivi une partie de la préparation ; je dois vous prévenir avant de venir ?",
+        "it": "Non ho seguito una parte della preparazione; devo avvisare prima di venire?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_055",
+      "es": "Comí esta mañana; ¿necesitan revisar si el estudio puede hacerse hoy?",
+      "translations": {
+        "en": "I ate this morning. Do you need to check whether the test can be done today?",
+        "pt": "Comi hoje de manhã; precisam verificar se o exame pode ser feito hoje?",
+        "fr": "J’ai mangé ce matin ; vous devez vérifier si l’examen peut être fait aujourd’hui ?",
+        "it": "Ho mangiato stamattina; dovete verificare se l’esame può essere fatto oggi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_056",
+      "es": "¿Necesito llevar una muestra o la toman aquí?",
+      "translations": {
+        "en": "Do I need to bring a sample, or will it be collected here?",
+        "pt": "Preciso trazer uma amostra ou ela será coletada aqui?",
+        "fr": "Je dois apporter un échantillon ou il sera prélevé ici ?",
+        "it": "Devo portare un campione o viene raccolto qui?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_057",
+      "es": "¿Qué recipiente debo usar para la muestra?",
+      "translations": {
+        "en": "What container should I use for the sample?",
+        "pt": "Qual recipiente devo usar para a amostra?",
+        "fr": "Quel récipient dois-je utiliser pour l’échantillon ?",
+        "it": "Quale contenitore devo usare per il campione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_058",
+      "es": "¿Dónde recojo el recipiente y las instrucciones de recolección?",
+      "translations": {
+        "en": "Where can I pick up the container and collection instructions?",
+        "pt": "Onde retiro o recipiente e as instruções de coleta?",
+        "fr": "Où puis-je récupérer le récipient et les consignes de prélèvement ?",
+        "it": "Dove ritiro il contenitore e le istruzioni per la raccolta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_059",
+      "es": "¿Qué datos debo poner en la etiqueta de la muestra?",
+      "translations": {
+        "en": "What information should I put on the sample label?",
+        "pt": "Quais dados devo colocar na etiqueta da amostra?",
+        "fr": "Quelles informations dois-je mettre sur l’étiquette de l’échantillon ?",
+        "it": "Quali dati devo scrivere sull’etichetta del campione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_060",
+      "es": "¿Cuánto tiempo tengo para entregar la muestra después de recogerla?",
+      "translations": {
+        "en": "How long do I have to deliver the sample after collecting it?",
+        "pt": "Quanto tempo tenho para entregar a amostra depois de coletar?",
+        "fr": "De combien de temps dispose-je pour apporter l’échantillon après le prélèvement ?",
+        "it": "Quanto tempo ho per consegnare il campione dopo averlo raccolto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_061",
+      "es": "¿Cómo debo conservar y transportar la muestra hasta el laboratorio?",
+      "translations": {
+        "en": "How should I store and transport the sample to the lab?",
+        "pt": "Como devo conservar e transportar a amostra até o laboratório?",
+        "fr": "Comment dois-je conserver et transporter l’échantillon jusqu’au laboratoire ?",
+        "it": "Come devo conservare e trasportare il campione fino al laboratorio?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_062",
+      "es": "¿La entrega de muestras requiere cita o tiene un horario específico?",
+      "translations": {
+        "en": "Do I need an appointment to drop off samples, or is there a specific drop-off time?",
+        "pt": "A entrega de amostras exige agendamento ou tem um horário específico?",
+        "fr": "Il faut un rendez-vous pour déposer les échantillons ou il y a un horaire précis ?",
+        "it": "La consegna dei campioni richiede un appuntamento o ha un orario preciso?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_063",
+      "es": "¿Este estudio requiere que alguien me acompañe para volver a casa?",
+      "translations": {
+        "en": "Does this test require someone to accompany me home?",
+        "pt": "Este exame exige que alguém me acompanhe para voltar para casa?",
+        "fr": "Cet examen nécessite que quelqu’un m’accompagne pour rentrer chez moi ?",
+        "it": "Questo esame richiede che qualcuno mi accompagni per tornare a casa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_064",
+      "es": "¿Debo reservar tiempo después del estudio antes de irme?",
+      "translations": {
+        "en": "Do I need to allow time after the test before leaving?",
+        "pt": "Preciso reservar um tempo depois do exame antes de ir embora?",
+        "fr": "Je dois prévoir du temps après l’examen avant de partir ?",
+        "it": "Devo prevedere del tempo dopo l’esame prima di andare via?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_065",
+      "es": "¿Qué información sobre alergias o implantes deben conocer antes del estudio?",
+      "translations": {
+        "en": "What information about allergies or implants do you need before the test?",
+        "pt": "Quais informações sobre alergias ou implantes precisam saber antes do exame?",
+        "fr": "Quelles informations sur mes allergies ou mes implants devez-vous connaître avant l’examen ?",
+        "it": "Quali informazioni su allergie o impianti dovete sapere prima dell’esame?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_066",
+      "es": "Vengo al estudio que aparece en esta solicitud; ¿pueden comprobar cuál es?",
+      "translations": {
+        "en": "I’m here for the test on this order. Can you check which one it is?",
+        "pt": "Vim para o exame que aparece neste pedido; podem conferir qual é?",
+        "fr": "Je viens pour l’examen indiqué sur cette prescription ; pouvez-vous vérifier lequel c’est ?",
+        "it": "Sono qui per l’esame indicato in questa richiesta; potete controllare quale sia?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_067",
+      "es": "¿Debo esperar en recepción o pasar directamente al área de estudios?",
+      "translations": {
+        "en": "Should I wait at reception or go directly to the testing area?",
+        "pt": "Devo esperar na recepção ou ir direto para a área de exames?",
+        "fr": "Je dois attendre à l’accueil ou aller directement dans la zone des examens ?",
+        "it": "Devo aspettare alla reception o andare direttamente nell’area degli esami?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_068",
+      "es": "¿La espera actual cambia la preparación que debo seguir?",
+      "translations": {
+        "en": "Does the current wait change the preparation instructions I should follow?",
+        "pt": "A espera atual muda a preparação que devo seguir?",
+        "fr": "L’attente actuelle change les consignes de préparation à suivre ?",
+        "it": "L’attesa attuale cambia la preparazione che devo seguire?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_069",
+      "es": "¿Cuánto dura el procedimiento y cuánto tiempo estaré en el centro?",
+      "translations": {
+        "en": "How long does the procedure take, and how long will I be at the center?",
+        "pt": "Quanto dura o procedimento e quanto tempo ficarei no centro?",
+        "fr": "Combien de temps dure la procédure et combien de temps resterai-je dans le centre ?",
+        "it": "Quanto dura la procedura e quanto tempo resterò nel centro?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_070",
+      "es": "¿Puede explicarme qué pasará durante el estudio antes de empezar?",
+      "translations": {
+        "en": "Can you explain what will happen during the test before we begin?",
+        "pt": "Pode me explicar o que vai acontecer durante o exame antes de começar?",
+        "fr": "Pouvez-vous m’expliquer ce qui va se passer pendant l’examen avant de commencer ?",
+        "it": "Può spiegarmi che cosa succederà durante l’esame prima di iniziare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_071",
+      "es": "Me pone nervioso/a este procedimiento; quiero saber cómo pedir una pausa.",
+      "translations": {
+        "en": "This procedure makes me nervous. I’d like to know how to ask for a break.",
+        "pt": "Este procedimento me deixa nervoso; quero saber como pedir uma pausa. / Este procedimento me deixa nervosa; quero saber como pedir uma pausa.",
+        "fr": "Cette procédure me rend nerveux ; je voudrais savoir comment demander une pause. / Cette procédure me rend nerveuse ; je voudrais savoir comment demander une pause.",
+        "it": "Questa procedura mi rende nervoso; vorrei sapere come chiedere una pausa. / Questa procedura mi rende nervosa; vorrei sapere come chiedere una pausa."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_072",
+      "es": "¿Cómo me comunicaré con el personal durante el estudio?",
+      "translations": {
+        "en": "How will I communicate with the staff during the test?",
+        "pt": "Como vou me comunicar com a equipe durante o exame?",
+        "fr": "Comment communiquerai-je avec le personnel pendant l’examen ?",
+        "it": "Come comunicherò con il personale durante l’esame?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_073",
+      "es": "No entendí la indicación sobre cuándo moverme; ¿puede aclararla antes de continuar?",
+      "translations": {
+        "en": "I didn’t understand the instruction about when to move. Can you clarify it before we continue?",
+        "pt": "Não entendi a orientação sobre quando me mover; pode esclarecer antes de continuar?",
+        "fr": "Je n’ai pas compris la consigne sur le moment où je peux bouger ; pouvez-vous la clarifier avant de continuer ?",
+        "it": "Non ho capito l’indicazione su quando muovermi; può chiarirla prima di continuare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_074",
+      "es": "¿Necesito alguna indicación por escrito para después del estudio?",
+      "translations": {
+        "en": "Do I need any written instructions for after the test?",
+        "pt": "Preciso de alguma orientação por escrito para depois do exame?",
+        "fr": "J’ai besoin de consignes écrites pour après l’examen ?",
+        "it": "Mi servono indicazioni scritte per dopo l’esame?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_075",
+      "es": "¿A quién debo contactar si tengo una duda después de salir?",
+      "translations": {
+        "en": "Who should I contact if I have a question after leaving?",
+        "pt": "Com quem devo falar se tiver uma dúvida depois de sair?",
+        "fr": "Qui dois-je contacter si j’ai une question après mon départ ?",
+        "it": "Chi devo contattare se ho un dubbio dopo essere uscito? / Chi devo contattare se ho un dubbio dopo essere uscita?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_076",
+      "es": "¿Cuándo estará listo el informe de este estudio?",
+      "translations": {
+        "en": "When will the report for this test be ready?",
+        "pt": "Quando ficará pronto o laudo deste exame?",
+        "fr": "Quand le compte rendu de cet examen sera-t-il prêt ?",
+        "it": "Quando sarà pronto il referto di questo esame?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_077",
+      "es": "¿El plazo de entrega se cuenta en días hábiles o naturales?",
+      "translations": {
+        "en": "Is the turnaround time counted in business days or calendar days?",
+        "pt": "O prazo de entrega é contado em dias úteis ou corridos?",
+        "fr": "Le délai est compté en jours ouvrés ou en jours calendaires ?",
+        "it": "Il termine di consegna si conta in giorni lavorativi o di calendario?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_078",
+      "es": "¿Me avisarán cuando estén todos los resultados o cada uno por separado?",
+      "translations": {
+        "en": "Will you notify me when all the results are ready or separately for each one?",
+        "pt": "Vão me avisar quando todos os resultados estiverem prontos ou cada um separadamente?",
+        "fr": "Vous me préviendrez quand tous les résultats seront prêts ou pour chacun séparément ?",
+        "it": "Mi avviserete quando tutti i risultati saranno pronti o per ciascuno separatamente?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_079",
+      "es": "¿Puedo recibir los resultados por correo o en el portal del paciente?",
+      "translations": {
+        "en": "Can I receive the results by email or through the patient portal?",
+        "pt": "Posso receber os resultados por e-mail ou pelo portal do paciente?",
+        "fr": "Je peux recevoir les résultats par e-mail ou sur le portail patient ?",
+        "it": "Posso ricevere i risultati via e-mail o nel portale del paziente?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_080",
+      "es": "¿Cómo obtengo el código de acceso para consultar mis resultados?",
+      "translations": {
+        "en": "How do I get the access code to view my results?",
+        "pt": "Como obtenho o código de acesso para consultar meus resultados?",
+        "fr": "Comment obtenir le code d’accès pour consulter mes résultats ?",
+        "it": "Come ottengo il codice di accesso per consultare i risultati?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_081",
+      "es": "¿El médico recibe los resultados automáticamente o debo enviárselos?",
+      "translations": {
+        "en": "Does the doctor receive the results automatically, or do I need to send them?",
+        "pt": "O médico recebe os resultados automaticamente ou preciso enviar?",
+        "fr": "Le médecin reçoit les résultats automatiquement ou je dois les lui envoyer ?",
+        "it": "Il medico riceve i risultati automaticamente o devo inviarglieli?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_082",
+      "es": "¿Las imágenes y el informe se entregan juntos o en fechas diferentes?",
+      "translations": {
+        "en": "Are the images and report provided together or on different dates?",
+        "pt": "As imagens e o laudo são entregues juntos ou em datas diferentes?",
+        "fr": "Les images et le compte rendu sont remis ensemble ou à des dates différentes ?",
+        "it": "Le immagini e il referto vengono consegnati insieme o in date diverse?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_083",
+      "es": "¿Puedo solicitar una copia del informe para otro médico?",
+      "translations": {
+        "en": "Can I request a copy of the report for another doctor?",
+        "pt": "Posso solicitar uma cópia do laudo para outro médico?",
+        "fr": "Je peux demander une copie du compte rendu pour un autre médecin ?",
+        "it": "Posso richiedere una copia del referto per un altro medico?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_084",
+      "es": "¿Puede recoger mis resultados otra persona? ¿Qué autorización necesita?",
+      "translations": {
+        "en": "Can someone else pick up my results? What authorization do they need?",
+        "pt": "Outra pessoa pode retirar meus resultados? Qual autorização precisa?",
+        "fr": "Une autre personne peut récupérer mes résultats ? Quelle autorisation lui faut-il ?",
+        "it": "Un’altra persona può ritirare i miei risultati? Quale autorizzazione serve?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_085",
+      "es": "¿Estos resultados pertenecen a mi estudio de hoy o al anterior?",
+      "translations": {
+        "en": "Are these results from today’s test or the previous one?",
+        "pt": "Estes resultados são do exame de hoje ou do anterior?",
+        "fr": "Ces résultats sont ceux de mon examen d’aujourd’hui ou du précédent ?",
+        "it": "Questi risultati sono dell’esame di oggi o di quello precedente?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_086",
+      "es": "Hay un error en mi nombre o en mi fecha de nacimiento en el informe.",
+      "translations": {
+        "en": "There’s an error in my name or date of birth on the report.",
+        "pt": "Há um erro no meu nome ou na minha data de nascimento no laudo.",
+        "fr": "Il y a une erreur dans mon nom ou ma date de naissance sur le compte rendu.",
+        "it": "C’è un errore nel mio nome o nella mia data di nascita nel referto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_087",
+      "es": "Solo veo una parte de los resultados; ¿falta algún informe?",
+      "translations": {
+        "en": "I can only see some of the results. Is a report missing?",
+        "pt": "Só vejo uma parte dos resultados; falta algum laudo?",
+        "fr": "Je vois seulement une partie des résultats ; il manque un compte rendu ?",
+        "it": "Vedo solo una parte dei risultati; manca qualche referto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_088",
+      "es": "La fecha prometida ya pasó y el informe sigue pendiente.",
+      "translations": {
+        "en": "The promised date has passed, and the report is still pending.",
+        "pt": "A data prometida já passou e o laudo continua pendente.",
+        "fr": "La date annoncée est passée et le compte rendu est toujours en attente.",
+        "it": "La data prevista è passata e il referto è ancora in attesa."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_089",
+      "es": "Tengo la cita de seguimiento mañana; ¿pueden confirmar si el informe estará listo?",
+      "translations": {
+        "en": "My follow-up appointment is tomorrow. Can you confirm whether the report will be ready?",
+        "pt": "Tenho a consulta de acompanhamento amanhã; podem confirmar se o laudo estará pronto?",
+        "fr": "Mon rendez-vous de suivi est demain ; pouvez-vous confirmer si le compte rendu sera prêt ?",
+        "it": "Ho la visita di controllo domani; potete confermare se il referto sarà pronto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_090",
+      "es": "Si el informe no está listo, ¿debo consultar con el médico si mantengo la cita?",
+      "translations": {
+        "en": "If the report isn’t ready, should I ask the doctor whether to keep the appointment?",
+        "pt": "Se o laudo não estiver pronto, devo consultar o médico sobre manter a consulta?",
+        "fr": "Si le compte rendu n’est pas prêt, je dois demander au médecin si je garde le rendez-vous ?",
+        "it": "Se il referto non è pronto, devo chiedere al medico se mantenere l’appuntamento?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_091",
+      "es": "Recibí un mensaje que pide repetir una muestra; ¿con quién reviso las instrucciones?",
+      "translations": {
+        "en": "I received a message asking for another sample. Who can go over the instructions with me?",
+        "pt": "Recebi uma mensagem pedindo outra amostra; com quem reviso as instruções?",
+        "fr": "J’ai reçu un message demandant un nouvel échantillon ; avec qui puis-je vérifier les consignes ?",
+        "it": "Ho ricevuto un messaggio che richiede un nuovo campione; con chi posso verificare le istruzioni?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_092",
+      "es": "¿La nueva muestra requiere otra cita o puedo entregarla directamente?",
+      "translations": {
+        "en": "Does the new sample require another appointment, or can I drop it off directly?",
+        "pt": "A nova amostra exige outro agendamento ou posso entregar diretamente?",
+        "fr": "Le nouvel échantillon nécessite un autre rendez-vous ou je peux le déposer directement ?",
+        "it": "Il nuovo campione richiede un altro appuntamento o posso consegnarlo direttamente?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_093",
+      "es": "Quiero revisar los resultados con el médico antes de decidir los siguientes pasos.",
+      "translations": {
+        "en": "I’d like to review the results with the doctor before deciding on the next steps.",
+        "pt": "Quero revisar os resultados com o médico antes de decidir os próximos passos.",
+        "fr": "Je veux revoir les résultats avec le médecin avant de décider des prochaines étapes.",
+        "it": "Voglio rivedere i risultati con il medico prima di decidere i prossimi passi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_094",
+      "es": "¿La consulta de seguimiento debe ser con el mismo médico?",
+      "translations": {
+        "en": "Does the follow-up appointment need to be with the same doctor?",
+        "pt": "A consulta de acompanhamento deve ser com o mesmo médico?",
+        "fr": "Le rendez-vous de suivi doit être avec le même médecin ?",
+        "it": "La visita di controllo deve essere con lo stesso medico?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_095",
+      "es": "¿Qué documentos debo llevar para revisar los resultados?",
+      "translations": {
+        "en": "What documents should I bring to review the results?",
+        "pt": "Quais documentos devo levar para revisar os resultados?",
+        "fr": "Quels documents dois-je apporter pour examiner les résultats ?",
+        "it": "Quali documenti devo portare per rivedere i risultati?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_096",
+      "es": "¿Podemos revisar juntos qué estudios ya hice y cuáles siguen pendientes?",
+      "translations": {
+        "en": "Can we go over which tests I’ve had and which are still pending?",
+        "pt": "Podemos revisar quais exames já fiz e quais ainda estão pendentes?",
+        "fr": "Nous pouvons revoir les examens que j’ai déjà faits et ceux qui restent à faire ?",
+        "it": "Possiamo rivedere quali esami ho già fatto e quali restano da fare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_097",
+      "es": "¿Debo pedir una nueva solicitud si el médico cambia el estudio?",
+      "translations": {
+        "en": "Do I need a new test order if the doctor changes the test?",
+        "pt": "Se o médico mudar o exame, preciso de um novo pedido?",
+        "fr": "Il me faut une nouvelle prescription si le médecin change l’examen ?",
+        "it": "Se il medico cambia l’esame, mi serve una nuova prescrizione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_098",
+      "es": "¿Quién coordina la próxima cita si me derivan a otro especialista?",
+      "translations": {
+        "en": "Who arranges the next appointment if I’m referred to another specialist?",
+        "pt": "Quem organiza a próxima consulta se eu for encaminhado a outro especialista? / Quem organiza a próxima consulta se eu for encaminhada a outro especialista?",
+        "fr": "Qui organise le prochain rendez-vous si on m’oriente vers un autre spécialiste ?",
+        "it": "Chi organizza il prossimo appuntamento se vengo inviato a un altro specialista? / Chi organizza il prossimo appuntamento se vengo inviata a un altro specialista?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_099",
+      "es": "Me voy de la ciudad antes de recibir el informe; ¿podemos organizar el seguimiento a distancia?",
+      "translations": {
+        "en": "I’m leaving the city before I receive the report. Can we arrange follow-up remotely?",
+        "pt": "Vou sair da cidade antes de receber o laudo; podemos organizar o acompanhamento a distância?",
+        "fr": "Je quitte la ville avant de recevoir le compte rendu ; on peut organiser le suivi à distance ?",
+        "it": "Parto dalla città prima di ricevere il referto; possiamo organizzare il controllo a distanza?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_100",
+      "es": "¿A qué número puedo llamar para dudas sobre la preparación, y a cuál para las citas?",
+      "translations": {
+        "en": "Which number should I call with preparation questions, and which for appointments?",
+        "pt": "Para qual número ligo para dúvidas sobre a preparação e para qual ligo para consultas?",
+        "fr": "Quel numéro dois-je appeler pour la préparation et lequel pour les rendez-vous ?",
+        "it": "Quale numero devo chiamare per i dubbi sulla preparazione e quale per gli appuntamenti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_101",
+      "es": "Necesito una constancia de asistencia para entregarla en mi trabajo.",
+      "translations": {
+        "en": "I need proof of attendance to give to my employer.",
+        "pt": "Preciso de uma declaração de comparecimento para entregar no trabalho.",
+        "fr": "J’ai besoin d’une attestation de présence pour mon employeur.",
+        "it": "Mi serve un attestato di presenza da consegnare al lavoro."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_102",
+      "es": "Su cita anterior quedó cancelada y la nueva está confirmada. (recepción)",
+      "translations": {
+        "en": "Your previous appointment has been canceled, and the new one is confirmed.",
+        "pt": "Sua consulta anterior foi cancelada e a nova está confirmada.",
+        "fr": "Votre ancien rendez-vous a été annulé et le nouveau est confirmé.",
+        "it": "Il suo appuntamento precedente è stato annullato e quello nuovo è confermato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_103",
+      "es": "Falta la solicitud del estudio; necesitamos revisarla antes de continuar. (personal)",
+      "translations": {
+        "en": "The test order is missing. We need to review it before proceeding.",
+        "pt": "Falta o pedido do exame; precisamos conferir antes de continuar.",
+        "fr": "Il manque la prescription d’examen ; nous devons la vérifier avant de continuer.",
+        "it": "Manca la richiesta per l’esame; dobbiamo controllarla prima di continuare."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_104",
+      "es": "Vamos a confirmar las instrucciones con el profesional responsable. (personal)",
+      "translations": {
+        "en": "We’ll confirm the instructions with the healthcare professional in charge.",
+        "pt": "Vamos confirmar as orientações com o profissional responsável.",
+        "fr": "Nous allons confirmer les consignes avec le professionnel responsable.",
+        "it": "Confermeremo le indicazioni con il professionista responsabile."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_105",
+      "es": "El informe todavía no está disponible; le avisaremos cuando esté listo. (personal)",
+      "translations": {
+        "en": "The report isn’t available yet. We’ll let you know when it’s ready.",
+        "pt": "O laudo ainda não está disponível; vamos avisar quando estiver pronto.",
+        "fr": "Le compte rendu n’est pas encore disponible ; nous vous préviendrons quand il sera prêt.",
+        "it": "Il referto non è ancora disponibile; la avviseremo quando sarà pronto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_106",
+      "es": "Para recoger los resultados, necesitamos comprobar su identidad. (personal)",
+      "translations": {
+        "en": "To collect the results, we need to verify your identity.",
+        "pt": "Para retirar os resultados, precisamos verificar sua identidade.",
+        "fr": "Pour récupérer les résultats, nous devons vérifier votre identité.",
+        "it": "Per ritirare i risultati, dobbiamo verificare la sua identità."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cme_107",
+      "es": "El médico revisará con usted los resultados en la consulta de seguimiento. (personal)",
+      "translations": {
+        "en": "The doctor will review the results with you at the follow-up appointment.",
+        "pt": "O médico vai revisar os resultados com você na consulta de acompanhamento.",
+        "fr": "Le médecin examinera les résultats avec vous lors du rendez-vous de suivi.",
+        "it": "Il medico rivedrà i risultati con lei durante la visita di controllo."
+      },
+      "image_url": ""
+    }
+  ]
+}

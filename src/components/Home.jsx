@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { LEVELS, CATEGORIES, MODULES } from "../data/modules";
+import cardCounts from "../data/cardCounts.json";
 import "./Home.css";
 
 const PAGE_SIZE = 8;
@@ -259,6 +260,12 @@ export default function Home({ onSelectModule }) {
                                         <span aria-hidden="true">{item.icon}</span> {item.title}
                                     </h4>
                                     <p className="home-muted">{item.description}</p>
+                                    {item.available && Number.isInteger(cardCounts[item.file]) && (
+                                        <p className="home-card-count">
+                                            {cardCounts[item.file].toLocaleString("es-MX")}{" "}
+                                            {cardCounts[item.file] === 1 ? "tarjeta" : "tarjetas"}
+                                        </p>
+                                    )}
 
                                     {!item.available && (
                                         <span className="home-pending">Próximamente</span>
