@@ -91,7 +91,7 @@ export const MODULES = [
         category: "fundamentos",
         icon: "🔤",
         file: "a1_alfabeto.json",
-        available: false,
+        available: true,
     },
     {
         id: "a1_presentaciones",
@@ -101,7 +101,7 @@ export const MODULES = [
         category: "personas",
         icon: "🌍",
         file: "a1_presentaciones.json",
-        available: false,
+        available: true,
     },
     {
         id: "a1_familia",
@@ -111,7 +111,7 @@ export const MODULES = [
         category: "personas",
         icon: "👨‍👩‍👧‍👦",
         file: "a1_familia.json",
-        available: false,
+        available: true,
     },
     {
         id: "a1_descripciones",
@@ -122,7 +122,7 @@ export const MODULES = [
         category: "personas",
         icon: "👤",
         file: "a1_descripciones.json",
-        available: false,
+        available: true,
     },
     {
         id: "a1_ropa_objetos",
@@ -132,7 +132,7 @@ export const MODULES = [
         category: "vida-cotidiana",
         icon: "👕",
         file: "a1_ropa_objetos.json",
-        available: false,
+        available: true,
     },
     {
         id: "a1_cuerpo_salud",
@@ -142,7 +142,7 @@ export const MODULES = [
         category: "salud-emergencias",
         icon: "🏃‍♂️",
         file: "a1_cuerpo_salud.json",
-        available: false,
+        available: true,
     },
     {
         id: "a1_casa",
@@ -153,7 +153,7 @@ export const MODULES = [
         category: "vida-cotidiana",
         icon: "🏠",
         file: "a1_casa.json",
-        available: false,
+        available: true,
     },
     {
         id: "a1_ciudad",
@@ -164,7 +164,7 @@ export const MODULES = [
         category: "ciudad",
         icon: "🏙️",
         file: "a1_ciudad.json",
-        available: false,
+        available: true,
     },
     {
         id: "a1_pasatiempos",
@@ -175,7 +175,7 @@ export const MODULES = [
         category: "vida-cotidiana",
         icon: "🎨",
         file: "a1_pasatiempos.json",
-        available: false,
+        available: true,
     },
     {
         id: "a1_clima",
@@ -186,7 +186,17 @@ export const MODULES = [
         category: "tiempo-naturaleza",
         icon: "🌦️",
         file: "a1_clima.json",
-        available: false,
+        available: true,
+    },
+    {
+        id: "a1_animales",
+        title: "Animales y Mascotas",
+        description: "Animales domésticos, de granja y salvajes básicos.",
+        level: "A1",
+        category: "tiempo-naturaleza",
+        icon: "🐾",
+        file: "a1_animales.json",
+        available: true,
     },
     {
         id: "a1_verbos",
@@ -197,7 +207,7 @@ export const MODULES = [
         category: "salud-emergencias",
         icon: "🆘",
         file: "a1_verbos.json",
-        available: false,
+        available: true,
     },
     {
         id: "a2_restaurantes_y_mesa",
@@ -227,9 +237,20 @@ export const MODULES = [
         description:
             "Reservar, registrarse, pedir servicios y resolver imprevistos durante tu estancia.",
         level: "A2",
-        category: "comida-bebida",
+        category: "ciudad",
         icon: "🗣️",
         file: "a2_hoteles_y_alojamiento.json",
+        available: true,
+    },
+    {
+        id: "a2_transporte_publico_y_desplazamientos",
+        title: "Transporte Público y Desplazamientos",
+        description:
+            "Elegir rutas, comprar boletos, hacer transbordos y resolver imprevistos al desplazarte.",
+        level: "A2",
+        category: "ciudad",
+        icon: "🚇",
+        file: "a2_transporte_publico_y_desplazamientos.json",
         available: true,
     },
     {

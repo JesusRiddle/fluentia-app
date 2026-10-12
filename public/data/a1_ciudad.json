@@ -1,0 +1,3438 @@
+{
+  "module": "Lugares de la Ciudad y Direcciones",
+  "level": "A1",
+  "cards": [
+    {
+      "id": "ci1",
+      "es": "Ciudad",
+      "translations": {
+        "en": "City",
+        "pt": "Cidade",
+        "fr": "Ville",
+        "it": "Città"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci2",
+      "es": "Pueblo / Localidad pequeña",
+      "translations": {
+        "en": "Town / Village",
+        "pt": "Vila / Povoado",
+        "fr": "Village / Petite ville",
+        "it": "Paese / Borgo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci3",
+      "es": "Barrio / Colonia / Vecindario",
+      "translations": {
+        "en": "Neighborhood",
+        "pt": "Bairro",
+        "fr": "Quartier",
+        "it": "Quartiere"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci4",
+      "es": "Centro de la ciudad",
+      "translations": {
+        "en": "Downtown / City center",
+        "pt": "Centro da cidade",
+        "fr": "Centre-ville",
+        "it": "Centro città"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci5",
+      "es": "Centro histórico",
+      "translations": {
+        "en": "Historic center / Historic district",
+        "pt": "Centro histórico",
+        "fr": "Centre historique",
+        "it": "Centro storico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci6",
+      "es": "Afueras / Periferia de la ciudad",
+      "translations": {
+        "en": "Outskirts",
+        "pt": "Periferia / Arredores da cidade",
+        "fr": "Périphérie de la ville",
+        "it": "Periferia della città"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci7",
+      "es": "Zona / Área (parte de la ciudad)",
+      "translations": {
+        "en": "Area",
+        "pt": "Área / Zona",
+        "fr": "Zone",
+        "it": "Zona"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci8",
+      "es": "Calle",
+      "translations": {
+        "en": "Street",
+        "pt": "Rua",
+        "fr": "Rue",
+        "it": "Via / Strada"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci9",
+      "es": "Avenida",
+      "translations": {
+        "en": "Avenue",
+        "pt": "Avenida",
+        "fr": "Avenue",
+        "it": "Viale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci10",
+      "es": "Callejón",
+      "translations": {
+        "en": "Alley",
+        "pt": "Beco / Viela",
+        "fr": "Ruelle",
+        "it": "Vicolo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci11",
+      "es": "Calle peatonal",
+      "translations": {
+        "en": "Pedestrian street",
+        "pt": "Rua de pedestres",
+        "fr": "Rue piétonne",
+        "it": "Strada pedonale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci12",
+      "es": "Calle sin salida",
+      "translations": {
+        "en": "Dead-end street / Cul-de-sac",
+        "pt": "Rua sem saída",
+        "fr": "Impasse",
+        "it": "Strada senza uscita / Vicolo cieco"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci13",
+      "es": "Esquina",
+      "translations": {
+        "en": "Street corner / Corner",
+        "pt": "Esquina",
+        "fr": "Coin de rue",
+        "it": "Angolo della strada"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci14",
+      "es": "Cuadra / Manzana (bloque de edificios)",
+      "translations": {
+        "en": "Block / City block",
+        "pt": "Quarteirão",
+        "fr": "Pâté de maisons",
+        "it": "Isolato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci15",
+      "es": "Cruce / Intersección (de calles)",
+      "translations": {
+        "en": "Intersection / Junction",
+        "pt": "Cruzamento",
+        "fr": "Carrefour / Intersection",
+        "it": "Incrocio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci16",
+      "es": "Glorieta / Rotonda (cruce circular)",
+      "translations": {
+        "en": "Roundabout / Traffic circle",
+        "pt": "Rotatória",
+        "fr": "Rond-point",
+        "it": "Rotonda"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci17",
+      "es": "Banqueta / Acera",
+      "translations": {
+        "en": "Sidewalk",
+        "pt": "Calçada",
+        "fr": "Trottoir",
+        "it": "Marciapiede"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci18",
+      "es": "Paso de peatones / Cruce peatonal",
+      "translations": {
+        "en": "Crosswalk / Pedestrian crossing",
+        "pt": "Faixa de pedestres",
+        "fr": "Passage piéton",
+        "it": "Attraversamento pedonale / Strisce pedonali"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci19",
+      "es": "Semáforo",
+      "translations": {
+        "en": "Traffic light",
+        "pt": "Semáforo / Sinal de trânsito",
+        "fr": "Feu de circulation / Feu tricolore",
+        "it": "Semaforo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci20",
+      "es": "Señal de tránsito / Señal de tráfico",
+      "translations": {
+        "en": "Traffic sign / Road sign",
+        "pt": "Placa de trânsito",
+        "fr": "Panneau de signalisation",
+        "it": "Segnale stradale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci21",
+      "es": "Puente",
+      "translations": {
+        "en": "Bridge",
+        "pt": "Ponte",
+        "fr": "Pont",
+        "it": "Ponte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci22",
+      "es": "Túnel",
+      "translations": {
+        "en": "Tunnel",
+        "pt": "Túnel",
+        "fr": "Tunnel",
+        "it": "Galleria / Tunnel"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci23",
+      "es": "Paso subterráneo peatonal",
+      "translations": {
+        "en": "Pedestrian underpass",
+        "pt": "Passagem subterrânea para pedestres",
+        "fr": "Passage souterrain piéton",
+        "it": "Sottopassaggio pedonale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci24",
+      "es": "Pasarela / Puente peatonal",
+      "translations": {
+        "en": "Pedestrian bridge / Footbridge",
+        "pt": "Passarela",
+        "fr": "Passerelle piétonne",
+        "it": "Passerella pedonale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci25",
+      "es": "Carretera",
+      "translations": {
+        "en": "Highway / Road",
+        "pt": "Estrada / Rodovia",
+        "fr": "Route",
+        "it": "Strada extraurbana"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci26",
+      "es": "Autopista",
+      "translations": {
+        "en": "Freeway / Expressway",
+        "pt": "Autoestrada / Rodovia expressa",
+        "fr": "Autoroute",
+        "it": "Autostrada"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci27",
+      "es": "Edificio",
+      "translations": {
+        "en": "Building",
+        "pt": "Prédio / Edifício",
+        "fr": "Immeuble / Bâtiment",
+        "it": "Edificio / Palazzo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci28",
+      "es": "Entrada (acceso a un lugar)",
+      "translations": {
+        "en": "Entrance",
+        "pt": "Entrada",
+        "fr": "Entrée",
+        "it": "Ingresso / Entrata"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci29",
+      "es": "Salida (para salir de un lugar)",
+      "translations": {
+        "en": "Exit",
+        "pt": "Saída",
+        "fr": "Sortie",
+        "it": "Uscita"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci30",
+      "es": "Mapa / Plano de la ciudad",
+      "translations": {
+        "en": "City map / Street map",
+        "pt": "Mapa da cidade",
+        "fr": "Plan de la ville",
+        "it": "Mappa della città / Piantina della città"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci31",
+      "es": "Dirección (calle y número)",
+      "translations": {
+        "en": "Address",
+        "pt": "Endereço",
+        "fr": "Adresse",
+        "it": "Indirizzo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci32",
+      "es": "Ruta / Camino (para llegar)",
+      "translations": {
+        "en": "Route / Way",
+        "pt": "Rota / Caminho",
+        "fr": "Itinéraire / Chemin",
+        "it": "Percorso / Itinerario"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci33",
+      "es": "Punto de referencia (para orientarse)",
+      "translations": {
+        "en": "Landmark",
+        "pt": "Ponto de referência",
+        "fr": "Point de repère",
+        "it": "Punto di riferimento"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci34",
+      "es": "Banca / Banco (asiento en un lugar público)",
+      "translations": {
+        "en": "Bench / Park bench",
+        "pt": "Banco de praça",
+        "fr": "Banc",
+        "it": "Panchina"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci35",
+      "es": "Buzón de correo",
+      "translations": {
+        "en": "Mailbox / Mail collection box",
+        "pt": "Caixa de correio",
+        "fr": "Boîte aux lettres",
+        "it": "Cassetta postale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci36",
+      "es": "Teléfono público",
+      "translations": {
+        "en": "Payphone / Public telephone",
+        "pt": "Telefone público / Orelhão",
+        "fr": "Téléphone public / Publiphone",
+        "it": "Telefono pubblico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci37",
+      "es": "Tienda / Comercio",
+      "translations": {
+        "en": "Store / Shop",
+        "pt": "Loja / Comércio",
+        "fr": "Magasin / Boutique",
+        "it": "Negozio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci38",
+      "es": "Supermercado",
+      "translations": {
+        "en": "Supermarket",
+        "pt": "Supermercado",
+        "fr": "Supermarché",
+        "it": "Supermercato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci39",
+      "es": "Tienda de abarrotes / Ultramarinos",
+      "translations": {
+        "en": "Grocery store",
+        "pt": "Mercearia",
+        "fr": "Épicerie",
+        "it": "Negozio di alimentari / Alimentari"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci40",
+      "es": "Tienda de conveniencia",
+      "translations": {
+        "en": "Convenience store",
+        "pt": "Loja de conveniência",
+        "fr": "Supérette / Magasin de proximité",
+        "it": "Minimarket / Negozio di vicinato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci41",
+      "es": "Mercado",
+      "translations": {
+        "en": "Market",
+        "pt": "Mercado",
+        "fr": "Marché",
+        "it": "Mercato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci42",
+      "es": "Mercado al aire libre / Tianguis",
+      "translations": {
+        "en": "Open-air market / Street market",
+        "pt": "Feira livre / Mercado de rua",
+        "fr": "Marché en plein air",
+        "it": "Mercato all'aperto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci43",
+      "es": "Mercado de productores locales",
+      "translations": {
+        "en": "Farmers' market",
+        "pt": "Feira de produtores locais",
+        "fr": "Marché de producteurs",
+        "it": "Mercato dei produttori locali"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci44",
+      "es": "Puesto de mercado",
+      "translations": {
+        "en": "Market stall",
+        "pt": "Banca de feira",
+        "fr": "Étal de marché",
+        "it": "Bancarella del mercato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci45",
+      "es": "Carnicería",
+      "translations": {
+        "en": "Butcher shop / Meat market",
+        "pt": "Açougue",
+        "fr": "Boucherie",
+        "it": "Macelleria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci46",
+      "es": "Pollería (venta de pollo crudo)",
+      "translations": {
+        "en": "Poultry shop",
+        "pt": "Loja de aves / Açougue de aves",
+        "fr": "Volaillerie",
+        "it": "Polleria / Negozio di pollame"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci47",
+      "es": "Pescadería",
+      "translations": {
+        "en": "Fish market / Fish shop",
+        "pt": "Peixaria",
+        "fr": "Poissonnerie",
+        "it": "Pescheria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci48",
+      "es": "Frutería / Verdulería",
+      "translations": {
+        "en": "Produce store / Fruit and vegetable store",
+        "pt": "Hortifrúti / Quitanda / Sacolão",
+        "fr": "Magasin de fruits et légumes / Primeur",
+        "it": "Negozio di frutta e verdura / Ortofrutta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci49",
+      "es": "Panadería",
+      "translations": {
+        "en": "Bakery",
+        "pt": "Padaria",
+        "fr": "Boulangerie",
+        "it": "Panificio / Panetteria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci50",
+      "es": "Pastelería / Confitería",
+      "translations": {
+        "en": "Pastry shop / Cake shop",
+        "pt": "Confeitaria",
+        "fr": "Pâtisserie",
+        "it": "Pasticceria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci51",
+      "es": "Tienda de quesos / Quesería (venta)",
+      "translations": {
+        "en": "Cheese shop",
+        "pt": "Queijaria",
+        "fr": "Fromagerie",
+        "it": "Negozio di formaggi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci52",
+      "es": "Charcutería / Tienda de embutidos",
+      "translations": {
+        "en": "Deli / Delicatessen",
+        "pt": "Loja de frios e embutidos",
+        "fr": "Charcuterie",
+        "it": "Salumeria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci53",
+      "es": "Chocolatería (tienda de chocolates)",
+      "translations": {
+        "en": "Chocolate shop",
+        "pt": "Chocolateria / Loja de chocolates",
+        "fr": "Chocolaterie",
+        "it": "Cioccolateria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci54",
+      "es": "Dulcería / Tienda de dulces",
+      "translations": {
+        "en": "Candy store / Sweet shop",
+        "pt": "Loja de doces",
+        "fr": "Confiserie",
+        "it": "Negozio di dolciumi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci55",
+      "es": "Heladería / Nevería",
+      "translations": {
+        "en": "Ice cream shop / Ice cream parlor",
+        "pt": "Sorveteria",
+        "fr": "Glacier / Marchand de glaces",
+        "it": "Gelateria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci56",
+      "es": "Tienda de alimentos orgánicos",
+      "translations": {
+        "en": "Organic food store",
+        "pt": "Loja de alimentos orgânicos",
+        "fr": "Magasin bio",
+        "it": "Negozio di alimenti biologici"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci57",
+      "es": "Restaurante",
+      "translations": {
+        "en": "Restaurant",
+        "pt": "Restaurante",
+        "fr": "Restaurant",
+        "it": "Ristorante"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci58",
+      "es": "Cafetería (para tomar café)",
+      "translations": {
+        "en": "Coffee shop / Café",
+        "pt": "Cafeteria / Café",
+        "fr": "Café",
+        "it": "Caffetteria / Bar"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci59",
+      "es": "Bar / Pub",
+      "translations": {
+        "en": "Bar / Pub",
+        "pt": "Bar / Pub",
+        "fr": "Bar / Pub",
+        "it": "Bar / Pub"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci60",
+      "es": "Cervecería (bar especializado en cerveza)",
+      "translations": {
+        "en": "Beer bar",
+        "pt": "Bar de cervejas",
+        "fr": "Bar à bières",
+        "it": "Birreria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci61",
+      "es": "Cervecería (fábrica de cerveza)",
+      "translations": {
+        "en": "Brewery",
+        "pt": "Cervejaria",
+        "fr": "Brasserie",
+        "it": "Birrificio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci62",
+      "es": "Restaurante de comida rápida",
+      "translations": {
+        "en": "Fast-food restaurant",
+        "pt": "Restaurante de fast-food",
+        "fr": "Restaurant de restauration rapide / Fast-food",
+        "it": "Fast food"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci63",
+      "es": "Pizzería",
+      "translations": {
+        "en": "Pizzeria / Pizza restaurant",
+        "pt": "Pizzaria",
+        "fr": "Pizzeria",
+        "it": "Pizzeria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci64",
+      "es": "Restaurante de comida para llevar",
+      "translations": {
+        "en": "Takeout restaurant",
+        "pt": "Restaurante de comida para viagem",
+        "fr": "Restaurant de vente à emporter",
+        "it": "Ristorante da asporto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci65",
+      "es": "Camión de comida / Food truck",
+      "translations": {
+        "en": "Food truck",
+        "pt": "Food truck / Caminhão de comida",
+        "fr": "Food truck / Camion-restaurant",
+        "it": "Food truck / Camioncino del cibo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci66",
+      "es": "Patio de comidas / Zona de restaurantes",
+      "translations": {
+        "en": "Food court",
+        "pt": "Praça de alimentação",
+        "fr": "Espace de restauration",
+        "it": "Area ristorazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci67",
+      "es": "Licorería / Tienda de bebidas alcohólicas",
+      "translations": {
+        "en": "Liquor store",
+        "pt": "Loja de bebidas alcoólicas",
+        "fr": "Magasin de boissons alcoolisées",
+        "it": "Negozio di alcolici"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci68",
+      "es": "Vinoteca / Tienda de vinos",
+      "translations": {
+        "en": "Wine shop",
+        "pt": "Adega / Loja de vinhos",
+        "fr": "Cave à vins / Caviste",
+        "it": "Enoteca"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci69",
+      "es": "Centro comercial / Plaza comercial",
+      "translations": {
+        "en": "Shopping mall / Mall",
+        "pt": "Shopping / Shopping center",
+        "fr": "Centre commercial",
+        "it": "Centro commerciale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci70",
+      "es": "Tienda departamental / Grandes almacenes",
+      "translations": {
+        "en": "Department store",
+        "pt": "Loja de departamentos",
+        "fr": "Grand magasin",
+        "it": "Grande magazzino"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci71",
+      "es": "Tienda outlet (venta de excedentes o colecciones anteriores)",
+      "translations": {
+        "en": "Outlet store / Factory outlet",
+        "pt": "Loja outlet",
+        "fr": "Magasin d'usine / Magasin outlet",
+        "it": "Outlet / Spaccio aziendale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci72",
+      "es": "Tienda libre de impuestos / Duty-free",
+      "translations": {
+        "en": "Duty-free shop / Duty-free store",
+        "pt": "Loja duty-free / Loja franca",
+        "fr": "Boutique hors taxes / Duty free",
+        "it": "Negozio duty-free"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci73",
+      "es": "Tienda de ropa / Boutique de ropa",
+      "translations": {
+        "en": "Clothing store / Clothing boutique",
+        "pt": "Loja de roupas / Boutique de roupas",
+        "fr": "Magasin de vêtements / Boutique de vêtements",
+        "it": "Negozio di abbigliamento"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci74",
+      "es": "Zapatería (venta de calzado)",
+      "translations": {
+        "en": "Shoe store",
+        "pt": "Loja de calçados",
+        "fr": "Magasin de chaussures",
+        "it": "Negozio di scarpe / Negozio di calzature"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci75",
+      "es": "Tienda de ropa interior",
+      "translations": {
+        "en": "Underwear store / Lingerie store",
+        "pt": "Loja de roupas íntimas",
+        "fr": "Magasin de sous-vêtements / Boutique de lingerie",
+        "it": "Negozio di intimo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci76",
+      "es": "Tienda de artículos deportivos",
+      "translations": {
+        "en": "Sporting goods store",
+        "pt": "Loja de artigos esportivos",
+        "fr": "Magasin de sport",
+        "it": "Negozio di articoli sportivi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci77",
+      "es": "Tienda de equipaje / Maletas",
+      "translations": {
+        "en": "Luggage store",
+        "pt": "Loja de malas",
+        "fr": "Magasin de bagages",
+        "it": "Negozio di valigie"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci78",
+      "es": "Tienda de accesorios",
+      "translations": {
+        "en": "Accessories store",
+        "pt": "Loja de acessórios",
+        "fr": "Magasin d'accessoires",
+        "it": "Negozio di accessori"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci79",
+      "es": "Joyería",
+      "translations": {
+        "en": "Jewelry store",
+        "pt": "Joalheria",
+        "fr": "Bijouterie / Joaillerie",
+        "it": "Gioielleria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci80",
+      "es": "Relojería (venta y reparación de relojes)",
+      "translations": {
+        "en": "Watch shop / Watch repair shop",
+        "pt": "Relojoaria",
+        "fr": "Horlogerie",
+        "it": "Orologeria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci81",
+      "es": "Perfumería",
+      "translations": {
+        "en": "Perfume shop / Perfume store",
+        "pt": "Perfumaria",
+        "fr": "Parfumerie",
+        "it": "Profumeria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci82",
+      "es": "Tienda de cosméticos / Maquillaje",
+      "translations": {
+        "en": "Cosmetics store / Beauty store",
+        "pt": "Loja de cosméticos",
+        "fr": "Magasin de cosmétiques",
+        "it": "Negozio di cosmetici"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci83",
+      "es": "Parafarmacia (productos de higiene y cuidado personal)",
+      "translations": {
+        "en": "Health and beauty store",
+        "pt": "Loja de produtos de higiene e cuidados pessoais",
+        "fr": "Parapharmacie",
+        "it": "Parafarmacia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci84",
+      "es": "Óptica (venta de lentes)",
+      "translations": {
+        "en": "Optical store / Optician's shop",
+        "pt": "Ótica",
+        "fr": "Magasin d'optique / Opticien",
+        "it": "Negozio di ottica / Ottica"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci85",
+      "es": "Farmacia",
+      "translations": {
+        "en": "Pharmacy / Drugstore",
+        "pt": "Farmácia / Drogaria",
+        "fr": "Pharmacie",
+        "it": "Farmacia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci86",
+      "es": "Librería (venta de libros)",
+      "translations": {
+        "en": "Bookstore / Bookshop",
+        "pt": "Livraria",
+        "fr": "Librairie",
+        "it": "Libreria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci87",
+      "es": "Papelería",
+      "translations": {
+        "en": "Stationery store / Office supply store",
+        "pt": "Papelaria",
+        "fr": "Papeterie",
+        "it": "Cartoleria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci88",
+      "es": "Tienda de electrónica",
+      "translations": {
+        "en": "Electronics store",
+        "pt": "Loja de eletrônicos",
+        "fr": "Magasin d'électronique",
+        "it": "Negozio di elettronica"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci89",
+      "es": "Tienda de celulares / Telefonía móvil",
+      "translations": {
+        "en": "Cell phone store / Mobile phone store",
+        "pt": "Loja de celulares",
+        "fr": "Boutique de téléphonie mobile",
+        "it": "Negozio di telefonia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci90",
+      "es": "Tienda de computación",
+      "translations": {
+        "en": "Computer store",
+        "pt": "Loja de informática",
+        "fr": "Magasin d'informatique",
+        "it": "Negozio di informatica"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci91",
+      "es": "Tienda de fotografía / Cámaras",
+      "translations": {
+        "en": "Camera store / Photography store",
+        "pt": "Loja de fotografia",
+        "fr": "Magasin de photographie",
+        "it": "Negozio di fotografia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci92",
+      "es": "Ferretería",
+      "translations": {
+        "en": "Hardware store",
+        "pt": "Loja de ferragens",
+        "fr": "Quincaillerie",
+        "it": "Ferramenta / Negozio di ferramenta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci93",
+      "es": "Tienda de artículos para el hogar",
+      "translations": {
+        "en": "Home goods store / Housewares store",
+        "pt": "Loja de artigos para casa",
+        "fr": "Magasin d'articles ménagers",
+        "it": "Negozio di articoli per la casa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci94",
+      "es": "Tienda de muebles / Mueblería",
+      "translations": {
+        "en": "Furniture store",
+        "pt": "Loja de móveis",
+        "fr": "Magasin de meubles",
+        "it": "Negozio di mobili"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci95",
+      "es": "Tienda de electrodomésticos",
+      "translations": {
+        "en": "Appliance store",
+        "pt": "Loja de eletrodomésticos",
+        "fr": "Magasin d'électroménager",
+        "it": "Negozio di elettrodomestici"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci96",
+      "es": "Tienda de productos de limpieza",
+      "translations": {
+        "en": "Cleaning supplies store",
+        "pt": "Loja de produtos de limpeza",
+        "fr": "Droguerie",
+        "it": "Negozio di prodotti per la pulizia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci97",
+      "es": "Florería / Floristería",
+      "translations": {
+        "en": "Flower shop / Florist's shop",
+        "pt": "Floricultura",
+        "fr": "Fleuriste / Magasin de fleurs",
+        "it": "Negozio di fiori / Fiorista"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci98",
+      "es": "Tienda de regalos",
+      "translations": {
+        "en": "Gift shop",
+        "pt": "Loja de presentes",
+        "fr": "Boutique de cadeaux",
+        "it": "Negozio di articoli da regalo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci99",
+      "es": "Tienda de recuerdos / Souvenirs",
+      "translations": {
+        "en": "Souvenir shop / Souvenir store",
+        "pt": "Loja de lembranças / Loja de souvenirs",
+        "fr": "Boutique de souvenirs",
+        "it": "Negozio di souvenir"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci100",
+      "es": "Tienda de artesanías",
+      "translations": {
+        "en": "Handicraft store / Handicraft shop",
+        "pt": "Loja de artesanato",
+        "fr": "Boutique d'artisanat",
+        "it": "Negozio di artigianato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci101",
+      "es": "Juguetería",
+      "translations": {
+        "en": "Toy store",
+        "pt": "Loja de brinquedos",
+        "fr": "Magasin de jouets",
+        "it": "Negozio di giocattoli"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci102",
+      "es": "Tienda de mascotas / Artículos para mascotas",
+      "translations": {
+        "en": "Pet store / Pet supply store",
+        "pt": "Pet shop / Loja de produtos para animais",
+        "fr": "Animalerie",
+        "it": "Negozio di animali / Negozio di articoli per animali"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci103",
+      "es": "Tienda de segunda mano",
+      "translations": {
+        "en": "Secondhand store / Thrift store",
+        "pt": "Brechó / Loja de artigos usados",
+        "fr": "Magasin d'occasion",
+        "it": "Negozio dell'usato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci104",
+      "es": "Tienda de antigüedades / Anticuario",
+      "translations": {
+        "en": "Antique shop / Antique store",
+        "pt": "Antiquário / Loja de antiguidades",
+        "fr": "Magasin d'antiquités / Antiquaire",
+        "it": "Negozio di antiquariato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci105",
+      "es": "Mercado de pulgas / Rastro",
+      "translations": {
+        "en": "Flea market",
+        "pt": "Mercado de pulgas / Feira de artigos usados",
+        "fr": "Marché aux puces",
+        "it": "Mercatino delle pulci"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci106",
+      "es": "Quiosco de periódicos / Puesto de revistas",
+      "translations": {
+        "en": "Newsstand",
+        "pt": "Banca de jornais e revistas",
+        "fr": "Kiosque à journaux",
+        "it": "Edicola"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci107",
+      "es": "Estanco / Tienda de tabaco",
+      "translations": {
+        "en": "Tobacco shop / Tobacconist's shop",
+        "pt": "Tabacaria",
+        "fr": "Bureau de tabac / Tabac",
+        "it": "Tabaccheria / Tabaccaio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci108",
+      "es": "Herbolario (venta de hierbas y productos naturales)",
+      "translations": {
+        "en": "Herbal shop / Herbalist's shop",
+        "pt": "Loja de ervas e produtos naturais",
+        "fr": "Herboristerie",
+        "it": "Erboristeria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci109",
+      "es": "Banco (institución financiera)",
+      "translations": {
+        "en": "Bank",
+        "pt": "Banco",
+        "fr": "Banque",
+        "it": "Banca"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci110",
+      "es": "Cajero automático",
+      "translations": {
+        "en": "ATM / Cash machine",
+        "pt": "Caixa eletrônico",
+        "fr": "Distributeur automatique de billets",
+        "it": "Bancomat / Sportello automatico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci111",
+      "es": "Casa de cambio / Oficina de cambio",
+      "translations": {
+        "en": "Currency exchange / Exchange office",
+        "pt": "Casa de câmbio",
+        "fr": "Bureau de change",
+        "it": "Ufficio di cambio / Cambiavalute"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci112",
+      "es": "Oficina de envío de dinero / Remesas",
+      "translations": {
+        "en": "Money transfer office",
+        "pt": "Agência de transferência de dinheiro",
+        "fr": "Agence de transfert d'argent",
+        "it": "Agenzia di trasferimento di denaro"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci113",
+      "es": "Oficina de correos",
+      "translations": {
+        "en": "Post office",
+        "pt": "Agência dos Correios / Correios",
+        "fr": "Bureau de poste",
+        "it": "Ufficio postale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci114",
+      "es": "Punto de paquetería / Envío de paquetes",
+      "translations": {
+        "en": "Shipping center / Parcel service point",
+        "pt": "Agência de envio de encomendas",
+        "fr": "Point d'envoi de colis",
+        "it": "Punto spedizioni"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci115",
+      "es": "Punto de recogida de paquetes",
+      "translations": {
+        "en": "Package pickup point / Parcel pickup point",
+        "pt": "Ponto de retirada de encomendas",
+        "fr": "Point relais / Point de retrait de colis",
+        "it": "Punto di ritiro pacchi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci116",
+      "es": "Lavandería (servicio de lavado de ropa)",
+      "translations": {
+        "en": "Laundry service / Laundry shop",
+        "pt": "Lavanderia",
+        "fr": "Blanchisserie",
+        "it": "Lavanderia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci117",
+      "es": "Lavandería de autoservicio",
+      "translations": {
+        "en": "Laundromat / Self-service laundry",
+        "pt": "Lavanderia de autosserviço",
+        "fr": "Laverie automatique",
+        "it": "Lavanderia a gettoni / Lavanderia self-service"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci118",
+      "es": "Tintorería / Lavandería en seco",
+      "translations": {
+        "en": "Dry cleaner / Dry cleaner's",
+        "pt": "Lavanderia a seco / Tinturaria",
+        "fr": "Pressing / Nettoyage à sec",
+        "it": "Lavanderia a secco / Tintoria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci119",
+      "es": "Peluquería / Salón de belleza",
+      "translations": {
+        "en": "Hair salon / Beauty salon",
+        "pt": "Salão de cabeleireiro / Salão de beleza",
+        "fr": "Salon de coiffure / Salon de beauté",
+        "it": "Salone di parrucchiere / Salone di bellezza"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci120",
+      "es": "Barbería",
+      "translations": {
+        "en": "Barbershop",
+        "pt": "Barbearia",
+        "fr": "Salon de barbier",
+        "it": "Barberia / Bottega del barbiere"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci121",
+      "es": "Salón de uñas / Manicura",
+      "translations": {
+        "en": "Nail salon",
+        "pt": "Salão de manicure",
+        "fr": "Salon de manucure / Onglerie",
+        "it": "Salone per manicure / Centro unghie"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci122",
+      "es": "Sastrería / Taller de arreglos de ropa",
+      "translations": {
+        "en": "Tailor shop / Clothing alterations shop",
+        "pt": "Alfaiataria / Loja de conserto de roupas",
+        "fr": "Atelier de couture / Retoucherie",
+        "it": "Sartoria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci123",
+      "es": "Taller de reparación de calzado",
+      "translations": {
+        "en": "Shoe repair shop",
+        "pt": "Sapataria / Conserto de calçados",
+        "fr": "Cordonnerie",
+        "it": "Calzolaio / Laboratorio di riparazione scarpe"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci124",
+      "es": "Cerrajería",
+      "translations": {
+        "en": "Locksmith shop / Locksmith's shop",
+        "pt": "Chaveiro / Loja de chaves",
+        "fr": "Serrurerie",
+        "it": "Negozio di duplicazione chiavi / Laboratorio di serrature"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci125",
+      "es": "Taller de reparación de celulares",
+      "translations": {
+        "en": "Phone repair shop",
+        "pt": "Assistência técnica de celulares",
+        "fr": "Atelier de réparation de téléphones",
+        "it": "Negozio di riparazione cellulari"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci126",
+      "es": "Taller de reparación de bicicletas",
+      "translations": {
+        "en": "Bike repair shop",
+        "pt": "Oficina de bicicletas",
+        "fr": "Atelier de réparation de vélos",
+        "it": "Officina di riparazione biciclette"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci127",
+      "es": "Taller mecánico (de automóviles)",
+      "translations": {
+        "en": "Auto repair shop / Garage",
+        "pt": "Oficina mecânica",
+        "fr": "Garage automobile",
+        "it": "Autofficina"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci128",
+      "es": "Autolavado / Lavado de autos",
+      "translations": {
+        "en": "Car wash",
+        "pt": "Lava-rápido / Lava-jato",
+        "fr": "Station de lavage auto",
+        "it": "Autolavaggio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci129",
+      "es": "Servicio de fotocopias / Centro de impresión",
+      "translations": {
+        "en": "Copy shop / Print shop",
+        "pt": "Copiadora / Gráfica rápida",
+        "fr": "Centre de photocopie / Centre d'impression",
+        "it": "Copisteria / Centro stampa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci130",
+      "es": "Cibercafé / Café internet",
+      "translations": {
+        "en": "Internet café",
+        "pt": "Lan house / Cibercafé",
+        "fr": "Cybercafé",
+        "it": "Internet point / Internet café"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci131",
+      "es": "Agencia de viajes",
+      "translations": {
+        "en": "Travel agency",
+        "pt": "Agência de viagens",
+        "fr": "Agence de voyages",
+        "it": "Agenzia di viaggi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci132",
+      "es": "Oficina de información turística",
+      "translations": {
+        "en": "Tourist information office",
+        "pt": "Centro de informações turísticas",
+        "fr": "Office de tourisme / Bureau d'information touristique",
+        "it": "Ufficio informazioni turistiche"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci133",
+      "es": "Mostrador / Punto de información",
+      "translations": {
+        "en": "Information desk / Information point",
+        "pt": "Balcão de informações",
+        "fr": "Point d'information / Guichet de renseignements",
+        "it": "Banco informazioni / Punto informazioni"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci134",
+      "es": "Taquilla / Boletería (venta de entradas)",
+      "translations": {
+        "en": "Ticket office / Box office",
+        "pt": "Bilheteria",
+        "fr": "Billetterie",
+        "it": "Biglietteria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci135",
+      "es": "Centro de visitantes",
+      "translations": {
+        "en": "Visitor center",
+        "pt": "Centro de visitantes",
+        "fr": "Centre d'accueil des visiteurs",
+        "it": "Centro visitatori"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci136",
+      "es": "Oficina de objetos perdidos",
+      "translations": {
+        "en": "Lost and found office",
+        "pt": "Achados e perdidos",
+        "fr": "Bureau des objets trouvés",
+        "it": "Ufficio oggetti smarriti"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci137",
+      "es": "Consigna / Guarda de equipaje",
+      "translations": {
+        "en": "Luggage storage / Baggage storage",
+        "pt": "Guarda-volumes",
+        "fr": "Consigne à bagages",
+        "it": "Deposito bagagli"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci138",
+      "es": "Taquillas para equipaje (casilleros)",
+      "translations": {
+        "en": "Luggage lockers",
+        "pt": "Armários para bagagem",
+        "fr": "Casiers à bagages",
+        "it": "Armadietti per bagagli"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci139",
+      "es": "Baños públicos / Sanitarios públicos",
+      "translations": {
+        "en": "Public restrooms / Public bathrooms",
+        "pt": "Banheiros públicos",
+        "fr": "Toilettes publiques",
+        "it": "Bagni pubblici / Servizi igienici pubblici"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci140",
+      "es": "Fuente de agua potable / Bebedero",
+      "translations": {
+        "en": "Drinking fountain",
+        "pt": "Bebedouro",
+        "fr": "Fontaine à eau potable",
+        "it": "Fontanella di acqua potabile"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci141",
+      "es": "Punto de recarga de celular (saldo)",
+      "translations": {
+        "en": "Mobile top-up point / Prepaid phone refill point",
+        "pt": "Ponto de recarga de celular",
+        "fr": "Point de recharge téléphonique",
+        "it": "Punto di ricarica telefonica"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci142",
+      "es": "Punto de venta de lotería",
+      "translations": {
+        "en": "Lottery retailer / Lottery outlet",
+        "pt": "Casa lotérica / Lotérica",
+        "fr": "Point de vente de jeux de loterie",
+        "it": "Ricevitoria del lotto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci143",
+      "es": "Ayuntamiento / Palacio municipal",
+      "translations": {
+        "en": "City hall / Town hall",
+        "pt": "Prefeitura / Paço municipal",
+        "fr": "Mairie / Hôtel de ville",
+        "it": "Municipio / Comune"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci144",
+      "es": "Oficina de gobierno / Oficina pública",
+      "translations": {
+        "en": "Government office / Public office",
+        "pt": "Repartição pública / Órgão público",
+        "fr": "Bureau administratif / Administration publique",
+        "it": "Ufficio pubblico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci145",
+      "es": "Estación de policía / Comisaría",
+      "translations": {
+        "en": "Police station",
+        "pt": "Delegacia de polícia",
+        "fr": "Commissariat de police",
+        "it": "Commissariato di polizia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci146",
+      "es": "Estación de bomberos / Cuartel de bomberos",
+      "translations": {
+        "en": "Fire station",
+        "pt": "Quartel dos bombeiros",
+        "fr": "Caserne de pompiers",
+        "it": "Caserma dei vigili del fuoco"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci147",
+      "es": "Embajada",
+      "translations": {
+        "en": "Embassy",
+        "pt": "Embaixada",
+        "fr": "Ambassade",
+        "it": "Ambasciata"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci148",
+      "es": "Consulado",
+      "translations": {
+        "en": "Consulate",
+        "pt": "Consulado",
+        "fr": "Consulat",
+        "it": "Consolato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci149",
+      "es": "Tribunal / Juzgado (edificio)",
+      "translations": {
+        "en": "Courthouse",
+        "pt": "Fórum / Tribunal",
+        "fr": "Palais de justice / Tribunal",
+        "it": "Tribunale / Palazzo di giustizia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci150",
+      "es": "Hospital",
+      "translations": {
+        "en": "Hospital",
+        "pt": "Hospital",
+        "fr": "Hôpital",
+        "it": "Ospedale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci151",
+      "es": "Clínica / Centro de salud",
+      "translations": {
+        "en": "Clinic / Health center",
+        "pt": "Clínica / Centro de saúde",
+        "fr": "Clinique / Centre de santé",
+        "it": "Clinica / Centro medico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci152",
+      "es": "Servicio de urgencias / Emergencias (hospital)",
+      "translations": {
+        "en": "Emergency department / Emergency room",
+        "pt": "Pronto-socorro",
+        "fr": "Service des urgences",
+        "it": "Pronto soccorso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci153",
+      "es": "Consultorio médico",
+      "translations": {
+        "en": "Doctor's office",
+        "pt": "Consultório médico",
+        "fr": "Cabinet médical",
+        "it": "Studio medico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci154",
+      "es": "Clínica dental / Consultorio de dentista",
+      "translations": {
+        "en": "Dental clinic / Dentist's office",
+        "pt": "Clínica odontológica / Consultório odontológico",
+        "fr": "Cabinet dentaire",
+        "it": "Studio dentistico / Clinica dentale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci155",
+      "es": "Clínica veterinaria",
+      "translations": {
+        "en": "Veterinary clinic / Vet clinic",
+        "pt": "Clínica veterinária",
+        "fr": "Clinique vétérinaire",
+        "it": "Clinica veterinaria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci156",
+      "es": "Escuela / Colegio",
+      "translations": {
+        "en": "School",
+        "pt": "Escola",
+        "fr": "École",
+        "it": "Scuola"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci157",
+      "es": "Universidad",
+      "translations": {
+        "en": "University",
+        "pt": "Universidade",
+        "fr": "Université",
+        "it": "Università"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci158",
+      "es": "Biblioteca (para consultar o prestar libros)",
+      "translations": {
+        "en": "Library",
+        "pt": "Biblioteca",
+        "fr": "Bibliothèque",
+        "it": "Biblioteca"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci159",
+      "es": "Plaza pública",
+      "translations": {
+        "en": "Public square / Town square",
+        "pt": "Praça",
+        "fr": "Place publique",
+        "it": "Piazza"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci160",
+      "es": "Parque (urbano)",
+      "translations": {
+        "en": "Park / City park",
+        "pt": "Parque",
+        "fr": "Parc",
+        "it": "Parco"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci161",
+      "es": "Jardín público",
+      "translations": {
+        "en": "Public garden",
+        "pt": "Jardim público",
+        "fr": "Jardin public",
+        "it": "Giardino pubblico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci162",
+      "es": "Parque infantil / Área de juegos",
+      "translations": {
+        "en": "Playground",
+        "pt": "Parquinho / Parque infantil",
+        "fr": "Aire de jeux",
+        "it": "Parco giochi / Area giochi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci163",
+      "es": "Museo",
+      "translations": {
+        "en": "Museum",
+        "pt": "Museu",
+        "fr": "Musée",
+        "it": "Museo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci164",
+      "es": "Galería de arte",
+      "translations": {
+        "en": "Art gallery",
+        "pt": "Galeria de arte",
+        "fr": "Galerie d'art",
+        "it": "Galleria d'arte"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci165",
+      "es": "Teatro",
+      "translations": {
+        "en": "Theater",
+        "pt": "Teatro",
+        "fr": "Théâtre",
+        "it": "Teatro"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci166",
+      "es": "Cine",
+      "translations": {
+        "en": "Movie theater / Cinema",
+        "pt": "Cinema",
+        "fr": "Cinéma",
+        "it": "Cinema"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci167",
+      "es": "Sala de conciertos",
+      "translations": {
+        "en": "Concert hall",
+        "pt": "Sala de concertos",
+        "fr": "Salle de concert",
+        "it": "Sala da concerto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci168",
+      "es": "Centro cultural",
+      "translations": {
+        "en": "Cultural center",
+        "pt": "Centro cultural",
+        "fr": "Centre culturel",
+        "it": "Centro culturale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci169",
+      "es": "Centro de convenciones",
+      "translations": {
+        "en": "Convention center",
+        "pt": "Centro de convenções",
+        "fr": "Centre de congrès",
+        "it": "Centro congressi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci170",
+      "es": "Auditorio",
+      "translations": {
+        "en": "Auditorium",
+        "pt": "Auditório",
+        "fr": "Auditorium",
+        "it": "Auditorium"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci171",
+      "es": "Ópera (edificio de espectáculos)",
+      "translations": {
+        "en": "Opera house",
+        "pt": "Teatro de ópera",
+        "fr": "Opéra",
+        "it": "Teatro dell'opera"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci172",
+      "es": "Iglesia",
+      "translations": {
+        "en": "Church",
+        "pt": "Igreja",
+        "fr": "Église",
+        "it": "Chiesa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci173",
+      "es": "Catedral",
+      "translations": {
+        "en": "Cathedral",
+        "pt": "Catedral",
+        "fr": "Cathédrale",
+        "it": "Cattedrale / Duomo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci174",
+      "es": "Sinagoga",
+      "translations": {
+        "en": "Synagogue",
+        "pt": "Sinagoga",
+        "fr": "Synagogue",
+        "it": "Sinagoga"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci175",
+      "es": "Mezquita",
+      "translations": {
+        "en": "Mosque",
+        "pt": "Mesquita",
+        "fr": "Mosquée",
+        "it": "Moschea"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci176",
+      "es": "Castillo",
+      "translations": {
+        "en": "Castle",
+        "pt": "Castelo",
+        "fr": "Château",
+        "it": "Castello"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci177",
+      "es": "Palacio",
+      "translations": {
+        "en": "Palace",
+        "pt": "Palácio",
+        "fr": "Palais",
+        "it": "Palazzo reale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci178",
+      "es": "Monumento",
+      "translations": {
+        "en": "Monument",
+        "pt": "Monumento",
+        "fr": "Monument",
+        "it": "Monumento"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci179",
+      "es": "Estatua",
+      "translations": {
+        "en": "Statue",
+        "pt": "Estátua",
+        "fr": "Statue",
+        "it": "Statua"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci180",
+      "es": "Fuente (ornamental)",
+      "translations": {
+        "en": "Fountain",
+        "pt": "Fonte / Chafariz",
+        "fr": "Fontaine",
+        "it": "Fontana"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci181",
+      "es": "Mirador",
+      "translations": {
+        "en": "Viewpoint / Scenic overlook",
+        "pt": "Mirante",
+        "fr": "Point de vue / Belvédère",
+        "it": "Belvedere / Punto panoramico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci182",
+      "es": "Torre",
+      "translations": {
+        "en": "Tower",
+        "pt": "Torre",
+        "fr": "Tour",
+        "it": "Torre"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci183",
+      "es": "Ruinas",
+      "translations": {
+        "en": "Ruins",
+        "pt": "Ruínas",
+        "fr": "Ruines",
+        "it": "Rovine"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci184",
+      "es": "Cementerio",
+      "translations": {
+        "en": "Cemetery",
+        "pt": "Cemitério",
+        "fr": "Cimetière",
+        "it": "Cimitero"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci185",
+      "es": "Jardín botánico",
+      "translations": {
+        "en": "Botanical garden",
+        "pt": "Jardim botânico",
+        "fr": "Jardin botanique",
+        "it": "Giardino botanico / Orto botanico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci186",
+      "es": "Zoológico",
+      "translations": {
+        "en": "Zoo",
+        "pt": "Zoológico",
+        "fr": "Zoo / Parc zoologique",
+        "it": "Zoo / Giardino zoologico"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci187",
+      "es": "Acuario (atracción turística)",
+      "translations": {
+        "en": "Aquarium",
+        "pt": "Aquário",
+        "fr": "Aquarium",
+        "it": "Acquario"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci188",
+      "es": "Parque de diversiones / Parque de atracciones",
+      "translations": {
+        "en": "Amusement park / Theme park",
+        "pt": "Parque de diversões",
+        "fr": "Parc d'attractions",
+        "it": "Parco divertimenti"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci189",
+      "es": "Estadio",
+      "translations": {
+        "en": "Stadium",
+        "pt": "Estádio",
+        "fr": "Stade",
+        "it": "Stadio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci190",
+      "es": "Gimnasio",
+      "translations": {
+        "en": "Gym / Fitness center",
+        "pt": "Academia / Academia de ginástica",
+        "fr": "Salle de sport",
+        "it": "Palestra"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci191",
+      "es": "Centro deportivo / Polideportivo",
+      "translations": {
+        "en": "Sports center / Recreation center",
+        "pt": "Centro esportivo",
+        "fr": "Centre sportif",
+        "it": "Centro sportivo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci192",
+      "es": "Piscina pública / Alberca pública",
+      "translations": {
+        "en": "Public swimming pool",
+        "pt": "Piscina pública",
+        "fr": "Piscine publique",
+        "it": "Piscina pubblica"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci193",
+      "es": "Boliche / Bolera",
+      "translations": {
+        "en": "Bowling alley",
+        "pt": "Boliche",
+        "fr": "Bowling",
+        "it": "Sala da bowling"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci194",
+      "es": "Discoteca / Antro",
+      "translations": {
+        "en": "Nightclub",
+        "pt": "Boate / Casa noturna",
+        "fr": "Boîte de nuit / Discothèque",
+        "it": "Discoteca / Locale notturno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci195",
+      "es": "Spa / Centro de bienestar",
+      "translations": {
+        "en": "Spa / Wellness center",
+        "pt": "Spa / Centro de bem-estar",
+        "fr": "Spa / Centre de bien-être",
+        "it": "Spa / Centro benessere"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci196",
+      "es": "Termas / Baños termales",
+      "translations": {
+        "en": "Thermal baths / Hot spring baths",
+        "pt": "Termas / Banhos termais",
+        "fr": "Thermes / Bains thermaux",
+        "it": "Terme / Bagni termali"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci197",
+      "es": "Playa",
+      "translations": {
+        "en": "Beach",
+        "pt": "Praia",
+        "fr": "Plage",
+        "it": "Spiaggia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci198",
+      "es": "Paseo marítimo / Malecón",
+      "translations": {
+        "en": "Seafront promenade / Waterfront promenade",
+        "pt": "Calçadão à beira-mar / Orla",
+        "fr": "Promenade du bord de mer",
+        "it": "Lungomare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci199",
+      "es": "Río",
+      "translations": {
+        "en": "River",
+        "pt": "Rio",
+        "fr": "Rivière / Fleuve",
+        "it": "Fiume"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci200",
+      "es": "Lago",
+      "translations": {
+        "en": "Lake",
+        "pt": "Lago",
+        "fr": "Lac",
+        "it": "Lago"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci201",
+      "es": "Muelle (estructura para embarcar o pasear)",
+      "translations": {
+        "en": "Pier / Dock",
+        "pt": "Píer / Cais",
+        "fr": "Jetée / Quai",
+        "it": "Molo / Pontile"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci202",
+      "es": "Hotel",
+      "translations": {
+        "en": "Hotel",
+        "pt": "Hotel",
+        "fr": "Hôtel",
+        "it": "Hotel / Albergo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci203",
+      "es": "Albergue para viajeros / Hostel",
+      "translations": {
+        "en": "Hostel",
+        "pt": "Hostel / Albergue",
+        "fr": "Auberge de jeunesse",
+        "it": "Ostello"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci204",
+      "es": "Casa de huéspedes / Pensión (alojamiento)",
+      "translations": {
+        "en": "Guesthouse / Boardinghouse",
+        "pt": "Pousada / Pensão",
+        "fr": "Maison d'hôtes / Pension de famille",
+        "it": "Pensione / Affittacamere"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci205",
+      "es": "Estación de tren / Ferrocarril",
+      "translations": {
+        "en": "Train station / Railroad station",
+        "pt": "Estação de trem",
+        "fr": "Gare",
+        "it": "Stazione ferroviaria"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci206",
+      "es": "Estación de metro",
+      "translations": {
+        "en": "Subway station / Metro station",
+        "pt": "Estação de metrô",
+        "fr": "Station de métro",
+        "it": "Stazione della metropolitana"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci207",
+      "es": "Parada de autobús / Camión",
+      "translations": {
+        "en": "Bus stop",
+        "pt": "Ponto de ônibus",
+        "fr": "Arrêt de bus",
+        "it": "Fermata dell'autobus"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci208",
+      "es": "Terminal de autobuses / Central camionera",
+      "translations": {
+        "en": "Bus station / Bus terminal",
+        "pt": "Rodoviária / Terminal rodoviário",
+        "fr": "Gare routière",
+        "it": "Autostazione / Terminal degli autobus"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci209",
+      "es": "Parada de tranvía",
+      "translations": {
+        "en": "Streetcar stop / Tram stop",
+        "pt": "Parada de bonde",
+        "fr": "Arrêt de tramway",
+        "it": "Fermata del tram"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci210",
+      "es": "Sitio / Parada de taxis",
+      "translations": {
+        "en": "Taxi stand",
+        "pt": "Ponto de táxi",
+        "fr": "Station de taxis",
+        "it": "Posteggio taxi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci211",
+      "es": "Aeropuerto",
+      "translations": {
+        "en": "Airport",
+        "pt": "Aeroporto",
+        "fr": "Aéroport",
+        "it": "Aeroporto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci212",
+      "es": "Puerto",
+      "translations": {
+        "en": "Port / Harbor",
+        "pt": "Porto",
+        "fr": "Port",
+        "it": "Porto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci213",
+      "es": "Terminal de ferry",
+      "translations": {
+        "en": "Ferry terminal",
+        "pt": "Terminal de balsas",
+        "fr": "Terminal de ferry",
+        "it": "Terminal dei traghetti"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci214",
+      "es": "Estacionamiento / Aparcamiento",
+      "translations": {
+        "en": "Parking lot / Parking garage",
+        "pt": "Estacionamento",
+        "fr": "Parking",
+        "it": "Parcheggio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci215",
+      "es": "Gasolinera / Estación de servicio",
+      "translations": {
+        "en": "Gas station / Service station",
+        "pt": "Posto de gasolina / Posto de combustível",
+        "fr": "Station-service",
+        "it": "Distributore di benzina / Stazione di servizio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci216",
+      "es": "Punto de carga de vehículos eléctricos",
+      "translations": {
+        "en": "EV charging station / Electric vehicle charging station",
+        "pt": "Estação de recarga de veículos elétricos",
+        "fr": "Borne de recharge pour véhicules électriques",
+        "it": "Stazione di ricarica per veicoli elettrici"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci217",
+      "es": "Oficina de alquiler de autos",
+      "translations": {
+        "en": "Car rental office",
+        "pt": "Locadora de veículos",
+        "fr": "Agence de location de voitures",
+        "it": "Autonoleggio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci218",
+      "es": "Tienda / Punto de alquiler de bicicletas",
+      "translations": {
+        "en": "Bike rental shop / Bike rental station",
+        "pt": "Loja de aluguel de bicicletas",
+        "fr": "Point de location de vélos",
+        "it": "Noleggio biciclette"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci219",
+      "es": "Cerca de",
+      "translations": {
+        "en": "Near / Close to",
+        "pt": "Perto de",
+        "fr": "Près de",
+        "it": "Vicino a"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci220",
+      "es": "Lejos de",
+      "translations": {
+        "en": "Far from",
+        "pt": "Longe de",
+        "fr": "Loin de",
+        "it": "Lontano da"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci221",
+      "es": "Al lado de / Junto a",
+      "translations": {
+        "en": "Next to / Beside",
+        "pt": "Ao lado de",
+        "fr": "À côté de",
+        "it": "Accanto a"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci222",
+      "es": "Frente a / Enfrente de (al otro lado)",
+      "translations": {
+        "en": "Across from / Opposite",
+        "pt": "Em frente a / Do outro lado de",
+        "fr": "En face de",
+        "it": "Di fronte a"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci223",
+      "es": "Delante de (en la parte frontal)",
+      "translations": {
+        "en": "In front of",
+        "pt": "Na frente de / Diante de",
+        "fr": "Devant",
+        "it": "Davanti a"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci224",
+      "es": "Detrás de",
+      "translations": {
+        "en": "Behind",
+        "pt": "Atrás de",
+        "fr": "Derrière",
+        "it": "Dietro"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci225",
+      "es": "Entre (dos lugares)",
+      "translations": {
+        "en": "Between",
+        "pt": "Entre",
+        "fr": "Entre",
+        "it": "Tra / Fra"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci226",
+      "es": "En / Dentro de",
+      "translations": {
+        "en": "In / Inside",
+        "pt": "Em / Dentro de",
+        "fr": "Dans / À l'intérieur de",
+        "it": "In / Dentro"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci227",
+      "es": "Fuera de",
+      "translations": {
+        "en": "Outside / Outside of",
+        "pt": "Fora de",
+        "fr": "À l'extérieur de / Hors de",
+        "it": "Fuori da"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci228",
+      "es": "Sobre / Encima de (con contacto)",
+      "translations": {
+        "en": "On / On top of",
+        "pt": "Sobre / Em cima de",
+        "fr": "Sur",
+        "it": "Su / Sopra"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci229",
+      "es": "Debajo de",
+      "translations": {
+        "en": "Under / Below",
+        "pt": "Debaixo de / Abaixo de",
+        "fr": "Sous / En dessous de",
+        "it": "Sotto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci230",
+      "es": "A la derecha",
+      "translations": {
+        "en": "On the right / To the right",
+        "pt": "À direita",
+        "fr": "À droite",
+        "it": "A destra"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci231",
+      "es": "A la izquierda",
+      "translations": {
+        "en": "On the left / To the left",
+        "pt": "À esquerda",
+        "fr": "À gauche",
+        "it": "A sinistra"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci232",
+      "es": "Todo recto / Derecho (sin girar)",
+      "translations": {
+        "en": "Straight ahead",
+        "pt": "Sempre em frente / Reto",
+        "fr": "Tout droit",
+        "it": "Sempre dritto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci233",
+      "es": "Al final de / Al fondo de",
+      "translations": {
+        "en": "At the end of",
+        "pt": "No final de / No fim de",
+        "fr": "Au bout de / À la fin de",
+        "it": "In fondo a / Alla fine di"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci234",
+      "es": "Antes de (en una ruta)",
+      "translations": {
+        "en": "Before",
+        "pt": "Antes de",
+        "fr": "Avant",
+        "it": "Prima di"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci235",
+      "es": "Después de / Pasando (en una ruta)",
+      "translations": {
+        "en": "After / Past",
+        "pt": "Depois de",
+        "fr": "Après",
+        "it": "Dopo"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci236",
+      "es": "Hacia / En dirección a",
+      "translations": {
+        "en": "Toward / In the direction of",
+        "pt": "Em direção a",
+        "fr": "Vers / En direction de",
+        "it": "Verso / In direzione di"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci237",
+      "es": "Norte",
+      "translations": {
+        "en": "North",
+        "pt": "Norte",
+        "fr": "Nord",
+        "it": "Nord"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci238",
+      "es": "Sur",
+      "translations": {
+        "en": "South",
+        "pt": "Sul",
+        "fr": "Sud",
+        "it": "Sud"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci239",
+      "es": "Este (punto cardinal)",
+      "translations": {
+        "en": "East",
+        "pt": "Leste",
+        "fr": "Est",
+        "it": "Est"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci240",
+      "es": "Oeste",
+      "translations": {
+        "en": "West",
+        "pt": "Oeste",
+        "fr": "Ouest",
+        "it": "Ovest"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci241",
+      "es": "Girar / Dar vuelta",
+      "translations": {
+        "en": "To turn",
+        "pt": "Virar",
+        "fr": "Tourner",
+        "it": "Girare / Svoltare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci242",
+      "es": "Cruzar / Atravesar (una calle)",
+      "translations": {
+        "en": "To cross",
+        "pt": "Atravessar",
+        "fr": "Traverser",
+        "it": "Attraversare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci243",
+      "es": "Caminar / Ir a pie",
+      "translations": {
+        "en": "To walk / To go on foot",
+        "pt": "Caminhar / Ir a pé",
+        "fr": "Marcher / Aller à pied",
+        "it": "Camminare / Andare a piedi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci244",
+      "es": "Disculpe, ¿cómo llego al centro?",
+      "translations": {
+        "en": "Excuse me, how do I get downtown?",
+        "pt": "Com licença, como chego ao centro?",
+        "fr": "Excusez-moi, comment aller au centre-ville ?",
+        "it": "Mi scusi, come arrivo in centro?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci245",
+      "es": "¿Hay un banco cerca de aquí?",
+      "translations": {
+        "en": "Is there a bank near here?",
+        "pt": "Tem um banco perto daqui?",
+        "fr": "Il y a une banque près d'ici ?",
+        "it": "C'è una banca qui vicino?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci246",
+      "es": "Estoy buscando una frutería.",
+      "translations": {
+        "en": "I'm looking for a produce store.",
+        "pt": "Estou procurando um hortifrúti.",
+        "fr": "Je cherche un magasin de fruits et légumes.",
+        "it": "Cerco un negozio di frutta e verdura."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci247",
+      "es": "¿Dónde está la oficina de información turística?",
+      "translations": {
+        "en": "Where is the tourist information office?",
+        "pt": "Onde fica o centro de informações turísticas?",
+        "fr": "Où est l'office de tourisme ?",
+        "it": "Dov'è l'ufficio informazioni turistiche?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci248",
+      "es": "¿Por dónde se va a la estación?",
+      "translations": {
+        "en": "Which way is the station?",
+        "pt": "Por onde se vai à estação?",
+        "fr": "Par où faut-il passer pour aller à la gare ?",
+        "it": "Da che parte si va alla stazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci249",
+      "es": "¿Estoy yendo por el camino correcto?",
+      "translations": {
+        "en": "Am I going the right way?",
+        "pt": "Estou indo pelo caminho certo?",
+        "fr": "Je vais dans la bonne direction ?",
+        "it": "Sto andando nella direzione giusta?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci250",
+      "es": "¿Esta calle lleva al museo?",
+      "translations": {
+        "en": "Does this street lead to the museum?",
+        "pt": "Esta rua leva ao museu?",
+        "fr": "Cette rue mène au musée ?",
+        "it": "Questa strada porta al museo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci251",
+      "es": "¿En qué calle está?",
+      "translations": {
+        "en": "What street is it on?",
+        "pt": "Em que rua fica?",
+        "fr": "C'est dans quelle rue ?",
+        "it": "In quale via si trova?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci252",
+      "es": "¿Cuál es la dirección exacta?",
+      "translations": {
+        "en": "What's the exact address?",
+        "pt": "Qual é o endereço exato?",
+        "fr": "Quelle est l'adresse exacte ?",
+        "it": "Qual è l'indirizzo esatto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci253",
+      "es": "¿Puede mostrarme dónde estamos en el mapa?",
+      "translations": {
+        "en": "Can you show me where we are on the map?",
+        "pt": "Pode me mostrar onde estamos no mapa?",
+        "fr": "Pouvez-vous me montrer où nous sommes sur le plan ?",
+        "it": "Può mostrarmi dove siamo sulla mappa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci254",
+      "es": "¿Puede señalarme el lugar en el mapa?",
+      "translations": {
+        "en": "Can you point to the place on the map?",
+        "pt": "Pode apontar o lugar no mapa?",
+        "fr": "Pouvez-vous me montrer l'endroit sur le plan ?",
+        "it": "Può indicarmi il posto sulla mappa?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci255",
+      "es": "¿Puede escribir el nombre de la calle?",
+      "translations": {
+        "en": "Can you write down the street name?",
+        "pt": "Pode escrever o nome da rua?",
+        "fr": "Pouvez-vous écrire le nom de la rue ?",
+        "it": "Può scrivere il nome della via?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci256",
+      "es": "¿Está cerca o lejos?",
+      "translations": {
+        "en": "Is it near or far?",
+        "pt": "É perto ou longe?",
+        "fr": "C'est près ou loin ?",
+        "it": "È vicino o lontano?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci257",
+      "es": "¿A qué distancia está?",
+      "translations": {
+        "en": "How far away is it?",
+        "pt": "A que distância fica?",
+        "fr": "C'est à quelle distance ?",
+        "it": "A che distanza si trova?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci258",
+      "es": "¿Cuánto se tarda caminando?",
+      "translations": {
+        "en": "How long does it take to walk there?",
+        "pt": "Quanto tempo leva a pé?",
+        "fr": "Combien de temps faut-il pour y aller à pied ?",
+        "it": "Quanto tempo ci vuole a piedi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci259",
+      "es": "Está a diez minutos a pie.",
+      "translations": {
+        "en": "It's a ten-minute walk.",
+        "pt": "Fica a dez minutos a pé.",
+        "fr": "C'est à dix minutes à pied.",
+        "it": "È a dieci minuti a piedi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci260",
+      "es": "¿Se puede llegar a pie?",
+      "translations": {
+        "en": "Can I get there on foot?",
+        "pt": "Dá para chegar a pé?",
+        "fr": "On peut y aller à pied ?",
+        "it": "Si può arrivare a piedi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci261",
+      "es": "¿Necesito tomar un autobús?",
+      "translations": {
+        "en": "Do I need to take a bus?",
+        "pt": "Preciso pegar um ônibus?",
+        "fr": "Je dois prendre un bus ?",
+        "it": "Devo prendere un autobus?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci262",
+      "es": "¿Cuál es el camino más corto?",
+      "translations": {
+        "en": "What's the shortest way?",
+        "pt": "Qual é o caminho mais curto?",
+        "fr": "Quel est le chemin le plus court ?",
+        "it": "Qual è il percorso più breve?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci263",
+      "es": "¿Hay un camino sin escaleras?",
+      "translations": {
+        "en": "Is there a route without stairs?",
+        "pt": "Há um caminho sem escadas?",
+        "fr": "Y a-t-il un chemin sans escaliers ?",
+        "it": "C'è un percorso senza scale?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci264",
+      "es": "Sigue recto. / Siga recto.",
+      "translations": {
+        "en": "Go straight ahead.",
+        "pt": "Siga em frente.",
+        "fr": "Continue tout droit. / Continuez tout droit.",
+        "it": "Vai dritto. / Vada dritto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci265",
+      "es": "Gira a la derecha. / Gire a la derecha.",
+      "translations": {
+        "en": "Turn right.",
+        "pt": "Vire à direita.",
+        "fr": "Tourne à droite. / Tournez à droite.",
+        "it": "Gira a destra. / Giri a destra."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci266",
+      "es": "Toma la primera calle a la izquierda. / Tome la primera calle a la izquierda.",
+      "translations": {
+        "en": "Take the first street on the left.",
+        "pt": "Pegue a primeira rua à esquerda.",
+        "fr": "Prends la première rue à gauche. / Prenez la première rue à gauche.",
+        "it": "Prendi la prima strada a sinistra. / Prenda la prima strada a sinistra."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci267",
+      "es": "Sigue dos cuadras y luego gira a la derecha. / Siga dos cuadras y luego gire a la derecha.",
+      "translations": {
+        "en": "Go two blocks, then turn right.",
+        "pt": "Siga por dois quarteirões e depois vire à direita.",
+        "fr": "Avance de deux pâtés de maisons, puis tourne à droite. / Avancez de deux pâtés de maisons, puis tournez à droite.",
+        "it": "Prosegui per due isolati, poi gira a destra. / Prosegua per due isolati, poi giri a destra."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci268",
+      "es": "Cruza la calle en el paso de peatones. / Cruce la calle en el paso de peatones.",
+      "translations": {
+        "en": "Cross the street at the crosswalk.",
+        "pt": "Atravesse a rua na faixa de pedestres.",
+        "fr": "Traverse la rue au passage piéton. / Traversez la rue au passage piéton.",
+        "it": "Attraversa la strada sulle strisce pedonali. / Attraversi la strada sulle strisce pedonali."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci269",
+      "es": "Pasa el semáforo y sigue recto. / Pase el semáforo y siga recto.",
+      "translations": {
+        "en": "Go past the traffic light and keep going straight.",
+        "pt": "Passe pelo semáforo e siga em frente.",
+        "fr": "Passe le feu et continue tout droit. / Passez le feu et continuez tout droit.",
+        "it": "Supera il semaforo e prosegui dritto. / Superi il semaforo e prosegua dritto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci270",
+      "es": "Sigue hasta la plaza. / Siga hasta la plaza.",
+      "translations": {
+        "en": "Keep going until you reach the square.",
+        "pt": "Continue até a praça.",
+        "fr": "Continue jusqu'à la place. / Continuez jusqu'à la place.",
+        "it": "Continua fino alla piazza. / Continui fino alla piazza."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci271",
+      "es": "Está en la esquina.",
+      "translations": {
+        "en": "It's on the corner.",
+        "pt": "Fica na esquina.",
+        "fr": "C'est au coin de la rue.",
+        "it": "È all'angolo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci272",
+      "es": "Está del otro lado de la calle.",
+      "translations": {
+        "en": "It's across the street.",
+        "pt": "Fica do outro lado da rua.",
+        "fr": "C'est de l'autre côté de la rue.",
+        "it": "È dall'altra parte della strada."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci273",
+      "es": "El banco está enfrente del supermercado.",
+      "translations": {
+        "en": "The bank is across from the supermarket.",
+        "pt": "O banco fica em frente ao supermercado.",
+        "fr": "La banque est en face du supermarché.",
+        "it": "La banca è di fronte al supermercato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci274",
+      "es": "La farmacia está entre el banco y la panadería.",
+      "translations": {
+        "en": "The pharmacy is between the bank and the bakery.",
+        "pt": "A farmácia fica entre o banco e a padaria.",
+        "fr": "La pharmacie est entre la banque et la boulangerie.",
+        "it": "La farmacia è tra la banca e il panificio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci275",
+      "es": "La entrada está detrás del edificio.",
+      "translations": {
+        "en": "The entrance is behind the building.",
+        "pt": "A entrada fica atrás do prédio.",
+        "fr": "L'entrée est derrière le bâtiment.",
+        "it": "L'ingresso è dietro l'edificio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci276",
+      "es": "El museo está después del puente.",
+      "translations": {
+        "en": "The museum is past the bridge.",
+        "pt": "O museu fica depois da ponte.",
+        "fr": "Le musée est après le pont.",
+        "it": "Il museo è dopo il ponte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci277",
+      "es": "Ya pasaste la tienda. / Ya pasó la tienda.",
+      "translations": {
+        "en": "You've already gone past the store.",
+        "pt": "Você já passou da loja.",
+        "fr": "Tu as déjà dépassé le magasin. / Vous avez déjà dépassé le magasin.",
+        "it": "Hai già superato il negozio. / Ha già superato il negozio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci278",
+      "es": "Regresa por el mismo camino. / Regrese por el mismo camino.",
+      "translations": {
+        "en": "Go back the way you came.",
+        "pt": "Volte pelo mesmo caminho.",
+        "fr": "Reviens sur tes pas. / Revenez sur vos pas.",
+        "it": "Torna indietro per la stessa strada. / Torni indietro per la stessa strada."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci279",
+      "es": "Estoy perdido/a.",
+      "translations": {
+        "en": "I'm lost.",
+        "pt": "Estou perdido. / Estou perdida.",
+        "fr": "Je suis perdu. / Je suis perdue.",
+        "it": "Mi sono perso. / Mi sono persa."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci280",
+      "es": "No conozco esta zona.",
+      "translations": {
+        "en": "I don't know this area.",
+        "pt": "Não conheço esta região.",
+        "fr": "Je ne connais pas ce quartier.",
+        "it": "Non conosco questa zona."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci281",
+      "es": "No tengo conexión a internet.",
+      "translations": {
+        "en": "I don't have internet access.",
+        "pt": "Estou sem internet.",
+        "fr": "Je n'ai pas de connexion Internet.",
+        "it": "Non ho una connessione a Internet."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci282",
+      "es": "Quiero llegar a esta dirección.",
+      "translations": {
+        "en": "I want to get to this address.",
+        "pt": "Quero chegar a este endereço.",
+        "fr": "Je voudrais aller à cette adresse.",
+        "it": "Voglio arrivare a questo indirizzo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci283",
+      "es": "Perdón, ¿dijo a la derecha o a la izquierda?",
+      "translations": {
+        "en": "Sorry, did you say right or left?",
+        "pt": "Desculpe, você disse à direita ou à esquerda?",
+        "fr": "Pardon, vous avez dit à droite ou à gauche ?",
+        "it": "Mi scusi, ha detto a destra o a sinistra?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci284",
+      "es": "¿Giro aquí o en la siguiente calle?",
+      "translations": {
+        "en": "Do I turn here or at the next street?",
+        "pt": "Viro aqui ou na próxima rua?",
+        "fr": "Je tourne ici ou à la prochaine rue ?",
+        "it": "Giro qui o alla prossima strada?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci285",
+      "es": "Gracias, ya sé cómo llegar.",
+      "translations": {
+        "en": "Thanks, now I know how to get there.",
+        "pt": "Obrigado, agora sei como chegar. / Obrigada, agora sei como chegar.",
+        "fr": "Merci, maintenant je sais comment y aller.",
+        "it": "Grazie, ora so come arrivarci."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci286",
+      "es": "¿Dónde puedo retirar dinero?",
+      "translations": {
+        "en": "Where can I withdraw cash?",
+        "pt": "Onde posso sacar dinheiro?",
+        "fr": "Où puis-je retirer de l'argent ?",
+        "it": "Dove posso prelevare contanti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci287",
+      "es": "¿Hay una casa de cambio por aquí?",
+      "translations": {
+        "en": "Is there a currency exchange around here?",
+        "pt": "Tem uma casa de câmbio por aqui?",
+        "fr": "Il y a un bureau de change par ici ?",
+        "it": "C'è un ufficio di cambio da queste parti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci288",
+      "es": "¿Dónde puedo comprar una tarjeta SIM?",
+      "translations": {
+        "en": "Where can I buy a SIM card?",
+        "pt": "Onde posso comprar um chip de celular?",
+        "fr": "Où puis-je acheter une carte SIM ?",
+        "it": "Dove posso comprare una scheda SIM?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci289",
+      "es": "¿Dónde puedo comprar sellos postales?",
+      "translations": {
+        "en": "Where can I buy stamps?",
+        "pt": "Onde posso comprar selos?",
+        "fr": "Où puis-je acheter des timbres ?",
+        "it": "Dove posso comprare dei francobolli?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci290",
+      "es": "Necesito imprimir un documento.",
+      "translations": {
+        "en": "I need to print a document.",
+        "pt": "Preciso imprimir um documento.",
+        "fr": "J'ai besoin d'imprimer un document.",
+        "it": "Devo stampare un documento."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci291",
+      "es": "Necesito lavar mi ropa.",
+      "translations": {
+        "en": "I need to wash my clothes.",
+        "pt": "Preciso lavar minhas roupas.",
+        "fr": "J'ai besoin de laver mes vêtements.",
+        "it": "Devo lavare i miei vestiti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci292",
+      "es": "¿Dónde puedo reparar mi celular?",
+      "translations": {
+        "en": "Where can I get my phone repaired?",
+        "pt": "Onde posso consertar meu celular?",
+        "fr": "Où puis-je faire réparer mon téléphone ?",
+        "it": "Dove posso far riparare il mio cellulare?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci293",
+      "es": "¿Dónde puedo dejar mi equipaje unas horas?",
+      "translations": {
+        "en": "Where can I leave my luggage for a few hours?",
+        "pt": "Onde posso deixar minha bagagem por algumas horas?",
+        "fr": "Où puis-je laisser mes bagages pendant quelques heures ?",
+        "it": "Dove posso lasciare i miei bagagli per qualche ora?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci294",
+      "es": "¿Hay baños públicos cerca?",
+      "translations": {
+        "en": "Are there public restrooms nearby?",
+        "pt": "Tem banheiros públicos por perto?",
+        "fr": "Y a-t-il des toilettes publiques à proximité ?",
+        "it": "Ci sono bagni pubblici qui vicino?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci295",
+      "es": "¿Dónde puedo rellenar mi botella de agua?",
+      "translations": {
+        "en": "Where can I refill my water bottle?",
+        "pt": "Onde posso encher minha garrafa de água?",
+        "fr": "Où puis-je remplir ma bouteille d'eau ?",
+        "it": "Dove posso riempire la mia bottiglia d'acqua?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci296",
+      "es": "¿Venden medicamentos aquí?",
+      "translations": {
+        "en": "Do you sell medicine here?",
+        "pt": "Vocês vendem medicamentos aqui?",
+        "fr": "Vous vendez des médicaments ici ?",
+        "it": "Vendete medicinali qui?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci297",
+      "es": "¿Qué lugares se pueden visitar por aquí?",
+      "translations": {
+        "en": "What places can I visit around here?",
+        "pt": "Que lugares posso visitar por aqui?",
+        "fr": "Quels endroits peut-on visiter par ici ?",
+        "it": "Quali posti si possono visitare qui vicino?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci298",
+      "es": "¿A qué hora abre / cierra la tienda?",
+      "translations": {
+        "en": "What time does the store open? / What time does the store close?",
+        "pt": "A que horas a loja abre? / A que horas a loja fecha?",
+        "fr": "À quelle heure le magasin ouvre-t-il ? / À quelle heure le magasin ferme-t-il ?",
+        "it": "A che ora apre il negozio? / A che ora chiude il negozio?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci299",
+      "es": "¿Está abierto hoy?",
+      "translations": {
+        "en": "Is it open today?",
+        "pt": "Está aberto hoje?",
+        "fr": "C'est ouvert aujourd'hui ?",
+        "it": "È aperto oggi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci300",
+      "es": "¿Abren los domingos?",
+      "translations": {
+        "en": "Are you open on Sundays?",
+        "pt": "Vocês abrem aos domingos?",
+        "fr": "Vous ouvrez le dimanche ?",
+        "it": "Siete aperti la domenica?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci301",
+      "es": "¿La entrada es gratuita?",
+      "translations": {
+        "en": "Is admission free?",
+        "pt": "A entrada é gratuita?",
+        "fr": "L'entrée est gratuite ?",
+        "it": "L'ingresso è gratuito?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci302",
+      "es": "¿Dónde se compran las entradas?",
+      "translations": {
+        "en": "Where can I buy tickets?",
+        "pt": "Onde se compram os ingressos?",
+        "fr": "Où achète-t-on les billets ?",
+        "it": "Dove si comprano i biglietti?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci303",
+      "es": "¿Hay un acceso para sillas de ruedas?",
+      "translations": {
+        "en": "Is there a wheelchair-accessible entrance?",
+        "pt": "Há uma entrada acessível para cadeiras de rodas?",
+        "fr": "Y a-t-il une entrée accessible aux fauteuils roulants ?",
+        "it": "C'è un ingresso accessibile alle sedie a rotelle?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci304",
+      "es": "Abierto (letrero de un comercio)",
+      "translations": {
+        "en": "Open",
+        "pt": "Aberto",
+        "fr": "Ouvert",
+        "it": "Aperto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci305",
+      "es": "Cerrado (letrero de un comercio)",
+      "translations": {
+        "en": "Closed",
+        "pt": "Fechado",
+        "fr": "Fermé",
+        "it": "Chiuso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci306",
+      "es": "Horario de atención / Horario de apertura",
+      "translations": {
+        "en": "Business hours / Opening hours",
+        "pt": "Horário de funcionamento",
+        "fr": "Horaires d'ouverture",
+        "it": "Orari di apertura"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci307",
+      "es": "Entrada libre / Acceso gratuito (letrero)",
+      "translations": {
+        "en": "Free admission / Free entry",
+        "pt": "Entrada gratuita",
+        "fr": "Entrée gratuite / Entrée libre",
+        "it": "Ingresso gratuito / Ingresso libero"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci308",
+      "es": "Solo personal autorizado (letrero)",
+      "translations": {
+        "en": "Authorized personnel only / Staff only",
+        "pt": "Somente pessoal autorizado",
+        "fr": "Personnel autorisé uniquement / Réservé au personnel",
+        "it": "Solo personale autorizzato / Riservato al personale"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci309",
+      "es": "No entrar / Prohibido el paso (letrero)",
+      "translations": {
+        "en": "Do not enter / No entry",
+        "pt": "Não entre / Entrada proibida",
+        "fr": "Défense d'entrer / Accès interdit",
+        "it": "Vietato entrare / Accesso vietato"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci310",
+      "es": "Calle cerrada por obras (letrero)",
+      "translations": {
+        "en": "Street closed for construction",
+        "pt": "Rua interditada para obras",
+        "fr": "Rue fermée pour travaux",
+        "it": "Strada chiusa per lavori"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci311",
+      "es": "Desvío (en una ruta)",
+      "translations": {
+        "en": "Detour",
+        "pt": "Desvio",
+        "fr": "Déviation",
+        "it": "Deviazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ci312",
+      "es": "Zona peatonal",
+      "translations": {
+        "en": "Pedestrian zone / Pedestrian area",
+        "pt": "Área de pedestres",
+        "fr": "Zone piétonne",
+        "it": "Zona pedonale"
+      },
+      "image_url": ""
+    }
+  ]
+}
