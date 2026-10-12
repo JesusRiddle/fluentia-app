@@ -210,6 +210,28 @@ export const MODULES = [
         available: true,
     },
     {
+        id: "a1_rutina_diaria",
+        title: "La Rutina Diaria",
+        description:
+            "Acciones cotidianas, horarios, hábitos y secuencias desde que te levantas hasta que te acuestas.",
+        level: "A1",
+        category: "vida-cotidiana",
+        icon: "⏰",
+        file: "a1_rutina_diaria.json",
+        available: true,
+    },
+    {
+        id: "a1_compras_dinero",
+        title: "Compras y Dinero",
+        description:
+            "Consultar precios, pedir cantidades, comprobar disponibilidad y pagar con efectivo y cambio.",
+        level: "A1",
+        category: "vida-cotidiana",
+        icon: "💳",
+        file: "a1_compras_dinero.json",
+        available: true,
+    },
+    {
         id: "a2_restaurantes_y_mesa",
         title: "Restaurantes y Frases en la Mesa",
         description:
