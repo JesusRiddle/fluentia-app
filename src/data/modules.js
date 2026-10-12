@@ -178,6 +178,17 @@ export const MODULES = [
         available: true,
     },
     {
+        id: "a1_educacion_aprendizaje",
+        title: "Educación y Aprendizaje",
+        description:
+            "Participar en clase, comprender instrucciones, pedir ejemplos y realizar ejercicios y tareas.",
+        level: "A1",
+        category: "fundamentos",
+        icon: "📚",
+        file: "a1_educacion_aprendizaje.json",
+        available: true,
+    },
+    {
         id: "a1_clima",
         title: "El Clima y las Estaciones",
         description:
