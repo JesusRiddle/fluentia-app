@@ -1,0 +1,985 @@
+{
+  "module": "La Rutina Diaria",
+  "level": "A1",
+  "cards": [
+    {
+      "id": "rd1",
+      "es": "Rutina diaria",
+      "translations": {
+        "en": "Daily routine",
+        "pt": "Rotina diária",
+        "fr": "Routine quotidienne",
+        "it": "Routine quotidiana"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd2",
+      "es": "Hábito / Costumbre (personal)",
+      "translations": {
+        "en": "Habit",
+        "pt": "Hábito / Costume",
+        "fr": "Habitude",
+        "it": "Abitudine"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd3",
+      "es": "Lista de tareas",
+      "translations": {
+        "en": "To-do list",
+        "pt": "Lista de tarefas",
+        "fr": "Liste des choses à faire",
+        "it": "Lista delle cose da fare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd4",
+      "es": "Día de descanso / Día libre (sin trabajo)",
+      "translations": {
+        "en": "Day off",
+        "pt": "Dia de folga",
+        "fr": "Jour de congé",
+        "it": "Giorno libero"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd5",
+      "es": "Hora de acostarse",
+      "translations": {
+        "en": "Bedtime",
+        "pt": "Hora de dormir",
+        "fr": "Heure du coucher",
+        "it": "Ora di andare a letto"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd6",
+      "es": "Poner una alarma",
+      "translations": {
+        "en": "To set an alarm",
+        "pt": "Programar um alarme",
+        "fr": "Régler une alarme",
+        "it": "Impostare una sveglia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd7",
+      "es": "Prepararse / Alistarse (para salir)",
+      "translations": {
+        "en": "To get ready",
+        "pt": "Preparar-se / Se arrumar",
+        "fr": "Se préparer",
+        "it": "Prepararsi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd8",
+      "es": "Ducharse / Bañarse (en regadera)",
+      "translations": {
+        "en": "To take a shower / To shower",
+        "pt": "Tomar banho / Tomar uma ducha",
+        "fr": "Prendre une douche / Se doucher",
+        "it": "Fare la doccia"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd9",
+      "es": "Tomar un baño de tina",
+      "translations": {
+        "en": "To take a bath",
+        "pt": "Tomar banho de banheira",
+        "fr": "Prendre un bain",
+        "it": "Fare un bagno"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd10",
+      "es": "Lavarse la cara",
+      "translations": {
+        "en": "To wash your face",
+        "pt": "Lavar o rosto",
+        "fr": "Se laver le visage",
+        "it": "Lavarsi il viso"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd11",
+      "es": "Lavarse las manos",
+      "translations": {
+        "en": "To wash your hands",
+        "pt": "Lavar as mãos",
+        "fr": "Se laver les mains",
+        "it": "Lavarsi le mani"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd12",
+      "es": "Cepillarse / Lavarse los dientes",
+      "translations": {
+        "en": "To brush your teeth",
+        "pt": "Escovar os dentes",
+        "fr": "Se brosser les dents",
+        "it": "Lavarsi i denti"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd13",
+      "es": "Peinarse",
+      "translations": {
+        "en": "To comb your hair",
+        "pt": "Pentear o cabelo",
+        "fr": "Se peigner",
+        "it": "Pettinarsi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd14",
+      "es": "Afeitarse / Rasurarse",
+      "translations": {
+        "en": "To shave",
+        "pt": "Fazer a barba / Se barbear",
+        "fr": "Se raser",
+        "it": "Farsi la barba / Radersi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd15",
+      "es": "Maquillarse",
+      "translations": {
+        "en": "To put on makeup",
+        "pt": "Se maquiar / Passar maquiagem",
+        "fr": "Se maquiller",
+        "it": "Truccarsi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd16",
+      "es": "Desayunar",
+      "translations": {
+        "en": "To have breakfast",
+        "pt": "Tomar café da manhã",
+        "fr": "Prendre le petit-déjeuner",
+        "it": "Fare colazione"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd17",
+      "es": "Almorzar / Comer (comida del mediodía)",
+      "translations": {
+        "en": "To have lunch",
+        "pt": "Almoçar",
+        "fr": "Déjeuner",
+        "it": "Pranzare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd18",
+      "es": "Cenar",
+      "translations": {
+        "en": "To have dinner",
+        "pt": "Jantar",
+        "fr": "Dîner",
+        "it": "Cenare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd19",
+      "es": "Merendar (comer algo entre comidas)",
+      "translations": {
+        "en": "To have a snack",
+        "pt": "Fazer um lanche",
+        "fr": "Prendre un goûter / Prendre un en-cas",
+        "it": "Fare merenda / Fare uno spuntino"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd20",
+      "es": "Trabajar",
+      "translations": {
+        "en": "To work",
+        "pt": "Trabalhar",
+        "fr": "Travailler",
+        "it": "Lavorare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd21",
+      "es": "Estudiar",
+      "translations": {
+        "en": "To study",
+        "pt": "Estudar",
+        "fr": "Étudier",
+        "it": "Studiare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd22",
+      "es": "Empezar / Comenzar (una actividad)",
+      "translations": {
+        "en": "To start / To begin",
+        "pt": "Começar / Iniciar",
+        "fr": "Commencer",
+        "it": "Cominciare / Iniziare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd23",
+      "es": "Terminar / Acabar (una actividad)",
+      "translations": {
+        "en": "To finish",
+        "pt": "Terminar / Acabar",
+        "fr": "Finir / Terminer",
+        "it": "Finire / Terminare"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd24",
+      "es": "Salir de casa",
+      "translations": {
+        "en": "To leave the house",
+        "pt": "Sair de casa",
+        "fr": "Sortir de chez soi",
+        "it": "Uscire di casa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd25",
+      "es": "Tomar / Hacer una pausa",
+      "translations": {
+        "en": "To take a break",
+        "pt": "Fazer uma pausa",
+        "fr": "Faire une pause",
+        "it": "Fare una pausa"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd26",
+      "es": "Tomar / Dormir una siesta",
+      "translations": {
+        "en": "To take a nap",
+        "pt": "Tirar um cochilo",
+        "fr": "Faire une sieste",
+        "it": "Fare un pisolino"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd27",
+      "es": "Revisar los mensajes",
+      "translations": {
+        "en": "To check your messages",
+        "pt": "Conferir as mensagens",
+        "fr": "Consulter ses messages",
+        "it": "Controllare i messaggi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd28",
+      "es": "Acostarse / Irse a la cama",
+      "translations": {
+        "en": "To go to bed",
+        "pt": "Ir para a cama / Deitar-se",
+        "fr": "Se coucher / Aller au lit",
+        "it": "Andare a letto / Coricarsi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd29",
+      "es": "Dormirse / Quedarse dormido/a",
+      "translations": {
+        "en": "To fall asleep",
+        "pt": "Pegar no sono / Adormecer",
+        "fr": "S'endormir",
+        "it": "Addormentarsi"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd30",
+      "es": "¿A qué hora te levantas? / ¿A qué hora se levanta?",
+      "translations": {
+        "en": "What time do you get up?",
+        "pt": "Que horas você se levanta?",
+        "fr": "À quelle heure te lèves-tu ? / À quelle heure vous levez-vous ?",
+        "it": "A che ora ti alzi? / A che ora si alza?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd31",
+      "es": "Me despierto a las siete.",
+      "translations": {
+        "en": "I wake up at seven.",
+        "pt": "Acordo às sete.",
+        "fr": "Je me réveille à sept heures.",
+        "it": "Mi sveglio alle sette."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd32",
+      "es": "Me levanto a las siete y cuarto.",
+      "translations": {
+        "en": "I get up at seven fifteen.",
+        "pt": "Me levanto às sete e quinze.",
+        "fr": "Je me lève à sept heures et quart.",
+        "it": "Mi alzo alle sette e un quarto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd33",
+      "es": "Mi pareja se levanta antes que yo.",
+      "translations": {
+        "en": "My partner gets up before I do.",
+        "pt": "Meu parceiro se levanta antes de mim. / Minha parceira se levanta antes de mim.",
+        "fr": "Mon partenaire se lève avant moi. / Ma partenaire se lève avant moi.",
+        "it": "Il mio compagno si alza prima di me. / La mia compagna si alza prima di me."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd34",
+      "es": "Me ducho por la mañana.",
+      "translations": {
+        "en": "I take a shower in the morning.",
+        "pt": "Tomo banho de manhã.",
+        "fr": "Je prends une douche le matin.",
+        "it": "Faccio la doccia la mattina."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd35",
+      "es": "Me lavo los dientes después de desayunar.",
+      "translations": {
+        "en": "I brush my teeth after breakfast.",
+        "pt": "Escovo os dentes depois do café da manhã.",
+        "fr": "Je me brosse les dents après le petit-déjeuner.",
+        "it": "Mi lavo i denti dopo colazione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd36",
+      "es": "Primero me ducho y después me visto.",
+      "translations": {
+        "en": "First I take a shower, then I get dressed.",
+        "pt": "Primeiro tomo banho, depois me visto.",
+        "fr": "D'abord, je prends une douche, puis je m'habille.",
+        "it": "Prima faccio la doccia, poi mi vesto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd37",
+      "es": "Me preparo en veinte minutos.",
+      "translations": {
+        "en": "I get ready in twenty minutes.",
+        "pt": "Me arrumo em vinte minutos.",
+        "fr": "Je me prépare en vingt minutes.",
+        "it": "Mi preparo in venti minuti."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd38",
+      "es": "Antes de desayunar, me lavo las manos.",
+      "translations": {
+        "en": "I wash my hands before breakfast.",
+        "pt": "Lavo as mãos antes do café da manhã.",
+        "fr": "Je me lave les mains avant le petit-déjeuner.",
+        "it": "Mi lavo le mani prima di colazione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd39",
+      "es": "Desayuno a las ocho.",
+      "translations": {
+        "en": "I have breakfast at eight.",
+        "pt": "Tomo café da manhã às oito.",
+        "fr": "Je prends le petit-déjeuner à huit heures.",
+        "it": "Faccio colazione alle otto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd40",
+      "es": "No desayuno en casa.",
+      "translations": {
+        "en": "I don't have breakfast at home.",
+        "pt": "Não tomo café da manhã em casa.",
+        "fr": "Je ne prends pas le petit-déjeuner chez moi.",
+        "it": "Non faccio colazione a casa."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd41",
+      "es": "Normalmente tomo café con el desayuno.",
+      "translations": {
+        "en": "I usually have coffee with breakfast.",
+        "pt": "Normalmente tomo café no café da manhã.",
+        "fr": "D'habitude, je bois du café au petit-déjeuner.",
+        "it": "Di solito bevo un caffè a colazione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd42",
+      "es": "¿Qué haces después de desayunar? / ¿Qué hace después de desayunar?",
+      "translations": {
+        "en": "What do you do after breakfast?",
+        "pt": "O que você faz depois do café da manhã?",
+        "fr": "Que fais-tu après le petit-déjeuner ? / Que faites-vous après le petit-déjeuner ?",
+        "it": "Che cosa fai dopo colazione? / Che cosa fa dopo colazione?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd43",
+      "es": "Preparo mi mochila antes de salir.",
+      "translations": {
+        "en": "I pack my backpack before I leave.",
+        "pt": "Arrumo minha mochila antes de sair.",
+        "fr": "Je prépare mon sac à dos avant de sortir.",
+        "it": "Preparo lo zaino prima di uscire."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd44",
+      "es": "Salgo de casa a las ocho y media.",
+      "translations": {
+        "en": "I leave the house at eight thirty.",
+        "pt": "Saio de casa às oito e meia.",
+        "fr": "Je pars de chez moi à huit heures et demie.",
+        "it": "Esco di casa alle otto e mezza."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd45",
+      "es": "¿Cómo vas al trabajo? / ¿Cómo va al trabajo?",
+      "translations": {
+        "en": "How do you get to work?",
+        "pt": "Como você vai para o trabalho?",
+        "fr": "Comment vas-tu au travail ? / Comment allez-vous au travail ?",
+        "it": "Come vai al lavoro? / Come va al lavoro?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd46",
+      "es": "Voy al trabajo en autobús.",
+      "translations": {
+        "en": "I go to work by bus.",
+        "pt": "Vou para o trabalho de ônibus.",
+        "fr": "Je vais au travail en bus.",
+        "it": "Vado al lavoro in autobus."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd47",
+      "es": "Voy a la escuela a pie.",
+      "translations": {
+        "en": "I walk to school.",
+        "pt": "Vou para a escola a pé.",
+        "fr": "Je vais à l'école à pied.",
+        "it": "Vado a scuola a piedi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd48",
+      "es": "El trayecto dura media hora.",
+      "translations": {
+        "en": "The trip takes half an hour.",
+        "pt": "O trajeto leva meia hora.",
+        "fr": "Le trajet dure une demi-heure.",
+        "it": "Il tragitto dura mezz'ora."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd49",
+      "es": "¿Qué días trabajas? / ¿Qué días trabaja?",
+      "translations": {
+        "en": "What days do you work?",
+        "pt": "Em quais dias você trabalha?",
+        "fr": "Quels jours travailles-tu ? / Quels jours travaillez-vous ?",
+        "it": "Quali giorni lavori? / Quali giorni lavora?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd50",
+      "es": "Trabajo de lunes a viernes.",
+      "translations": {
+        "en": "I work Monday through Friday.",
+        "pt": "Trabalho de segunda a sexta-feira.",
+        "fr": "Je travaille du lundi au vendredi.",
+        "it": "Lavoro dal lunedì al venerdì."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd51",
+      "es": "Empiezo a trabajar a las nueve.",
+      "translations": {
+        "en": "I start work at nine.",
+        "pt": "Começo a trabalhar às nove.",
+        "fr": "Je commence à travailler à neuf heures.",
+        "it": "Comincio a lavorare alle nove."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd52",
+      "es": "Termino de trabajar a las seis.",
+      "translations": {
+        "en": "I finish work at six.",
+        "pt": "Termino de trabalhar às seis.",
+        "fr": "Je termine le travail à six heures.",
+        "it": "Finisco di lavorare alle sei."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd53",
+      "es": "Mi clase empieza a las diez.",
+      "translations": {
+        "en": "My class starts at ten.",
+        "pt": "Minha aula começa às dez.",
+        "fr": "Mon cours commence à dix heures.",
+        "it": "La mia lezione comincia alle dieci."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd54",
+      "es": "¿Cuántas horas trabajas al día? / ¿Cuántas horas trabaja al día?",
+      "translations": {
+        "en": "How many hours a day do you work?",
+        "pt": "Quantas horas por dia você trabalha?",
+        "fr": "Combien d'heures travailles-tu par jour ? / Combien d'heures travaillez-vous par jour ?",
+        "it": "Quante ore al giorno lavori? / Quante ore al giorno lavora?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd55",
+      "es": "Estudio una hora al día.",
+      "translations": {
+        "en": "I study for an hour a day.",
+        "pt": "Estudo uma hora por dia.",
+        "fr": "J'étudie une heure par jour.",
+        "it": "Studio un'ora al giorno."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd56",
+      "es": "Hago una pausa a media mañana.",
+      "translations": {
+        "en": "I take a break in the middle of the morning.",
+        "pt": "Faço uma pausa no meio da manhã.",
+        "fr": "Je fais une pause en milieu de matinée.",
+        "it": "Faccio una pausa a metà mattina."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd57",
+      "es": "¿A qué hora comes? / ¿A qué hora come? (comida del mediodía)",
+      "translations": {
+        "en": "What time do you have lunch?",
+        "pt": "Que horas você almoça?",
+        "fr": "À quelle heure déjeunes-tu ? / À quelle heure déjeunez-vous ?",
+        "it": "A che ora pranzi? / A che ora pranza?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd58",
+      "es": "Como con mis compañeros de trabajo.",
+      "translations": {
+        "en": "I have lunch with my coworkers.",
+        "pt": "Almoço com meus colegas de trabalho.",
+        "fr": "Je déjeune avec mes collègues.",
+        "it": "Pranzo con i miei colleghi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd59",
+      "es": "Hoy no trabajo.",
+      "translations": {
+        "en": "I'm not working today.",
+        "pt": "Hoje não trabalho.",
+        "fr": "Aujourd'hui, je ne travaille pas.",
+        "it": "Oggi non lavoro."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd60",
+      "es": "Vuelvo a casa por la tarde.",
+      "translations": {
+        "en": "I get home in the afternoon.",
+        "pt": "Volto para casa à tarde.",
+        "fr": "Je rentre chez moi l'après-midi.",
+        "it": "Torno a casa nel pomeriggio."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd61",
+      "es": "Al llegar a casa, descanso un poco.",
+      "translations": {
+        "en": "When I get home, I rest for a while.",
+        "pt": "Quando chego em casa, descanso um pouco.",
+        "fr": "Quand je rentre chez moi, je me repose un peu.",
+        "it": "Quando torno a casa, mi riposo un po'."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd62",
+      "es": "Hago la tarea después de comer.",
+      "translations": {
+        "en": "I do my homework after lunch.",
+        "pt": "Faço a lição de casa depois do almoço.",
+        "fr": "Je fais mes devoirs après le déjeuner.",
+        "it": "Faccio i compiti dopo pranzo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd63",
+      "es": "Preparo la cena para mi familia.",
+      "translations": {
+        "en": "I make dinner for my family.",
+        "pt": "Preparo o jantar para minha família.",
+        "fr": "Je prépare le dîner pour ma famille.",
+        "it": "Preparo la cena per la mia famiglia."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd64",
+      "es": "¿Qué haces por las noches? / ¿Qué hace por las noches?",
+      "translations": {
+        "en": "What do you do in the evenings?",
+        "pt": "O que você faz à noite?",
+        "fr": "Que fais-tu le soir ? / Que faites-vous le soir ?",
+        "it": "Che cosa fai la sera? / Che cosa fa la sera?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd65",
+      "es": "Cenamos juntos a las ocho.",
+      "translations": {
+        "en": "We have dinner together at eight.",
+        "pt": "Jantamos juntos às oito.",
+        "fr": "Nous dînons ensemble à huit heures.",
+        "it": "Ceniamo insieme alle otto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd66",
+      "es": "Después de cenar, leo un poco.",
+      "translations": {
+        "en": "I read for a while after dinner.",
+        "pt": "Depois do jantar, leio um pouco.",
+        "fr": "Après le dîner, je lis un peu.",
+        "it": "Dopo cena, leggo un po'."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd67",
+      "es": "Preparo la ropa para el día siguiente.",
+      "translations": {
+        "en": "I lay out my clothes for the next day.",
+        "pt": "Separo a roupa para o dia seguinte.",
+        "fr": "Je prépare mes vêtements pour le lendemain.",
+        "it": "Preparo i vestiti per il giorno dopo."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd68",
+      "es": "Antes de acostarme, me pongo la pijama.",
+      "translations": {
+        "en": "I put on my pajamas before bed.",
+        "pt": "Coloco o pijama antes de ir para a cama.",
+        "fr": "Je mets mon pyjama avant de me coucher.",
+        "it": "Metto il pigiama prima di andare a letto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd69",
+      "es": "¿A qué hora te acuestas? / ¿A qué hora se acuesta?",
+      "translations": {
+        "en": "What time do you go to bed?",
+        "pt": "Que horas você vai para a cama?",
+        "fr": "À quelle heure te couches-tu ? / À quelle heure vous couchez-vous ?",
+        "it": "A che ora vai a letto? / A che ora va a letto?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd70",
+      "es": "Me acuesto a las once.",
+      "translations": {
+        "en": "I go to bed at eleven.",
+        "pt": "Vou para a cama às onze.",
+        "fr": "Je me couche à onze heures.",
+        "it": "Vado a letto alle undici."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd71",
+      "es": "Me duermo enseguida.",
+      "translations": {
+        "en": "I fall asleep right away.",
+        "pt": "Pego no sono logo.",
+        "fr": "Je m'endors tout de suite.",
+        "it": "Mi addormento subito."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd72",
+      "es": "Duermo ocho horas por noche.",
+      "translations": {
+        "en": "I sleep eight hours a night.",
+        "pt": "Durmo oito horas por noite.",
+        "fr": "Je dors huit heures par nuit.",
+        "it": "Dormo otto ore a notte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd73",
+      "es": "¿Duermes bien? / ¿Duerme bien?",
+      "translations": {
+        "en": "Do you sleep well?",
+        "pt": "Você dorme bem?",
+        "fr": "Tu dors bien ? / Vous dormez bien ?",
+        "it": "Dormi bene? / Dorme bene?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd74",
+      "es": "A veces me despierto durante la noche.",
+      "translations": {
+        "en": "Sometimes I wake up during the night.",
+        "pt": "Às vezes acordo durante a noite.",
+        "fr": "Parfois, je me réveille pendant la nuit.",
+        "it": "A volte mi sveglio durante la notte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd75",
+      "es": "¿Cómo es un día normal para ti? / ¿Cómo es un día normal para usted?",
+      "translations": {
+        "en": "What's a typical day like for you?",
+        "pt": "Como é um dia normal para você?",
+        "fr": "Comment se passe une journée normale pour toi ? / Comment se passe une journée normale pour vous ?",
+        "it": "Com'è una giornata normale per te? / Com'è una giornata normale per Lei?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd76",
+      "es": "¿Haces lo mismo todos los días? / ¿Hace lo mismo todos los días?",
+      "translations": {
+        "en": "Do you do the same thing every day?",
+        "pt": "Você faz a mesma coisa todos os dias?",
+        "fr": "Tu fais la même chose tous les jours ? / Vous faites la même chose tous les jours ?",
+        "it": "Fai la stessa cosa ogni giorno? / Fa la stessa cosa ogni giorno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd77",
+      "es": "Todos los días sigo la misma rutina.",
+      "translations": {
+        "en": "I follow the same routine every day.",
+        "pt": "Todos os dias sigo a mesma rotina.",
+        "fr": "Je suis la même routine tous les jours.",
+        "it": "Seguo la stessa routine ogni giorno."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd78",
+      "es": "Normalmente me levanto temprano.",
+      "translations": {
+        "en": "I usually get up early.",
+        "pt": "Normalmente me levanto cedo.",
+        "fr": "D'habitude, je me lève tôt.",
+        "it": "Di solito mi alzo presto."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd79",
+      "es": "A veces tomo una siesta.",
+      "translations": {
+        "en": "I sometimes take a nap.",
+        "pt": "Às vezes tiro um cochilo.",
+        "fr": "Parfois, je fais une sieste.",
+        "it": "A volte faccio un pisolino."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd80",
+      "es": "Nunca trabajo por la noche.",
+      "translations": {
+        "en": "I never work at night.",
+        "pt": "Nunca trabalho à noite.",
+        "fr": "Je ne travaille jamais la nuit.",
+        "it": "Non lavoro mai di notte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd81",
+      "es": "Lavo la ropa una vez a la semana.",
+      "translations": {
+        "en": "I do laundry once a week.",
+        "pt": "Lavo a roupa uma vez por semana.",
+        "fr": "Je fais la lessive une fois par semaine.",
+        "it": "Faccio il bucato una volta alla settimana."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd82",
+      "es": "Limpio la casa los sábados.",
+      "translations": {
+        "en": "I clean the house on Saturdays.",
+        "pt": "Limpo a casa aos sábados.",
+        "fr": "Je fais le ménage le samedi.",
+        "it": "Pulisco la casa il sabato."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd83",
+      "es": "Voy al supermercado los domingos.",
+      "translations": {
+        "en": "I go to the supermarket on Sundays.",
+        "pt": "Vou ao supermercado aos domingos.",
+        "fr": "Je vais au supermarché le dimanche.",
+        "it": "Vado al supermercato la domenica."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd84",
+      "es": "¿Cuánto tardas en prepararte? / ¿Cuánto tarda en prepararse?",
+      "translations": {
+        "en": "How long does it take you to get ready?",
+        "pt": "Quanto tempo você leva para se arrumar?",
+        "fr": "Combien de temps te faut-il pour te préparer ? / Combien de temps vous faut-il pour vous préparer ?",
+        "it": "Quanto tempo ci metti a prepararti? / Quanto tempo ci mette a prepararsi?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd85",
+      "es": "Tardo diez minutos en desayunar.",
+      "translations": {
+        "en": "It takes me ten minutes to have breakfast.",
+        "pt": "Levo dez minutos para tomar café da manhã.",
+        "fr": "Il me faut dix minutes pour prendre le petit-déjeuner.",
+        "it": "Ci metto dieci minuti a fare colazione."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd86",
+      "es": "Antes de trabajar, reviso mis mensajes.",
+      "translations": {
+        "en": "I check my messages before work.",
+        "pt": "Antes de trabalhar, confiro minhas mensagens.",
+        "fr": "Avant de travailler, je consulte mes messages.",
+        "it": "Prima di lavorare, controllo i messaggi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd87",
+      "es": "Los fines de semana me levanto más tarde.",
+      "translations": {
+        "en": "I get up later on weekends.",
+        "pt": "Nos fins de semana, me levanto mais tarde.",
+        "fr": "Le week-end, je me lève plus tard.",
+        "it": "Nel fine settimana mi alzo più tardi."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd88",
+      "es": "Los domingos descanso y paso tiempo con mi familia.",
+      "translations": {
+        "en": "On Sundays, I rest and spend time with my family.",
+        "pt": "Aos domingos, descanso e passo tempo com minha família.",
+        "fr": "Le dimanche, je me repose et je passe du temps avec ma famille.",
+        "it": "La domenica mi riposo e passo del tempo con la mia famiglia."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rd89",
+      "es": "Por la mañana trabajo y por la tarde estudio.",
+      "translations": {
+        "en": "I work in the morning and study in the afternoon.",
+        "pt": "De manhã trabalho e à tarde estudo.",
+        "fr": "Je travaille le matin et j'étudie l'après-midi.",
+        "it": "La mattina lavoro e il pomeriggio studio."
+      },
+      "image_url": ""
+    }
+  ]
+}
