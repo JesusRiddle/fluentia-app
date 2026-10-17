@@ -8,7 +8,7 @@
       "translations": {
         "en": "Greetings and goodbyes",
         "fr": "Salutations et formules d’au revoir",
-        "it": "Saluti e congedi",
+        "it": "Saluti e formule di commiato / Congedi / Addii",
         "pt": "Saudações e despedidas"
       },
       "image_url": ""
@@ -37,7 +37,7 @@
     },
     {
       "id": "sd_004",
-      "es": "Hola",
+      "es": "Hola (formal)",
       "translations": {
         "en": "Hello",
         "fr": "Bonjour",
@@ -48,9 +48,9 @@
     },
     {
       "id": "sd_005",
-      "es": "Hola / Buenas (informal)",
+      "es": "Hola (informal)",
       "translations": {
-        "en": "Hi /Hi there",
+        "en": "Hi / Hi there",
         "fr": "Salut",
         "it": "Ciao",
         "pt": "Oi"
@@ -58,7 +58,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_007",
+      "id": "sd_006",
       "es": "Hola a todos",
       "translations": {
         "en": "Hello everyone",
@@ -69,7 +69,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_008",
+      "id": "sd_007",
       "es": "Hola de nuevo",
       "translations": {
         "en": "Hello again",
@@ -80,7 +80,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_009",
+      "id": "sd_008",
       "es": "Buenos días",
       "translations": {
         "en": "Good morning",
@@ -91,19 +91,19 @@
       "image_url": ""
     },
     {
-      "id": "sd_010",
+      "id": "sd_009",
       "es": "Buenas tardes",
       "translations": {
         "en": "Good afternoon",
         "fr": "Bonjour",
-        "it": "Buon pomeriggio",
+        "it": "Buon pomeriggio / Buonasera",
         "pt": "Boa tarde"
       },
       "image_url": ""
     },
     {
-      "id": "sd_011",
-      "es": "Buenas noches (al llegar)",
+      "id": "sd_010",
+      "es": "Buenas noches (saludo)",
       "translations": {
         "en": "Good evening",
         "fr": "Bonsoir",
@@ -113,7 +113,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_012",
+      "id": "sd_011",
       "es": "Buenas noches (antes de dormir)",
       "translations": {
         "en": "Good night",
@@ -124,7 +124,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_013",
+      "id": "sd_012",
       "es": "Señor",
       "translations": {
         "en": "Sir",
@@ -135,7 +135,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_014",
+      "id": "sd_013",
       "es": "Señora",
       "translations": {
         "en": "Ma’am",
@@ -146,7 +146,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_015",
+      "id": "sd_014",
       "es": "¿Cómo estás? / ¿Cómo está usted",
       "translations": {
         "en": "How are you?",
@@ -157,18 +157,18 @@
       "image_url": ""
     },
     {
-      "id": "sd_027",
+      "id": "sd_015",
       "es": "¿Cómo estás? (otra forma)",
       "translations": {
-        "en": "How are you doing?",
+        "en": "How are you doing? / How’s it going?",
         "fr": "Comment ça va ? / Ça va ?",
-        "it": "Come stai?",
-        "pt": "Como você está?"
+        "it": "Come va?",
+        "pt": "Como você está? / Tudo bem?"
       },
       "image_url": ""
     },
     {
-      "id": "sd_017",
+      "id": "sd_016",
       "es": "¿Cómo están?",
       "translations": {
         "en": "How are you all?",
@@ -179,51 +179,40 @@
       "image_url": ""
     },
     {
-      "id": "sd_028",
+      "id": "sd_017",
       "es": "¿Cómo has estado?",
       "translations": {
         "en": "How have you been?",
         "fr": "Comment vas-tu ces derniers temps ?",
-        "it": "Come stai ultimamente?",
+        "it": "Come te la sei passata? / Come stai ultimamente?",
         "pt": "Como você tem passado?"
       },
       "image_url": ""
     },
     {
       "id": "sd_018",
-      "es": "¿Qué tal?",
+      "es": "¿Cómo van las cosas?",
       "translations": {
-        "en": "How’s it going?",
-        "fr": "Comment ça va ?",
-        "it": "Come va?",
-        "pt": "Tudo bem?"
+        "en": "How are things going?",
+        "fr": "Comment ça se passe ?",
+        "it": "Come vanno le cose?",
+        "pt": "Como vão as coisas? / Como estão as coisas?"
       },
       "image_url": ""
     },
     {
       "id": "sd_019",
-      "es": "¿Cómo te va?",
-      "translations": {
-        "en": "How’s it going?",
-        "fr": "Comment ça se passe ?",
-        "it": "Come va?",
-        "pt": "Como vão as coisas?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_020",
       "es": "¿Cómo va todo?",
       "translations": {
-        "en": "How’s everything?",
-        "fr": "Comment ça va ?",
+        "en": "How’s everything? / How's everything going?",
+        "fr": "Comment vont les choses ?",
         "it": "Come va tutto?",
         "pt": "Como vai tudo?"
       },
       "image_url": ""
     },
     {
-      "id": "sd_021",
+      "id": "sd_020",
       "es": "¿Todo bien?",
       "translations": {
         "en": "All good?",
@@ -234,7 +223,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_022",
+      "id": "sd_021",
       "es": "¿Qué hay de nuevo?",
       "translations": {
         "en": "What’s new?",
@@ -245,18 +234,18 @@
       "image_url": ""
     },
     {
-      "id": "sd_023",
+      "id": "sd_022",
       "es": "¿Qué pasa? / ¿Qué onda? (saludo informal)",
       "translations": {
         "en": "What’s up?",
         "fr": "Quoi de neuf ? / Ça roule ?",
-        "it": "Come va?",
+        "it": "Che si dice? / Come butta?",
         "pt": "E aí?"
       },
       "image_url": ""
     },
     {
-      "id": "sd_025",
+      "id": "sd_023",
       "es": "¿Qué tal tu día?",
       "translations": {
         "en": "How’s your day going?",
@@ -267,7 +256,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_026",
+      "id": "sd_024",
       "es": "¡Cuánto tiempo!",
       "translations": {
         "en": "Long time no see!",
@@ -278,18 +267,18 @@
       "image_url": ""
     },
     {
-      "id": "sd_029",
+      "id": "sd_025",
       "es": "¿En qué andas?",
       "translations": {
         "en": "What are you up to?",
         "fr": "Tu fais quoi en ce moment ?",
-        "it": "Che cosa stai facendo ultimamente?",
+        "it": "Che fai di bello? / Che combini?",
         "pt": "O que você anda fazendo?"
       },
       "image_url": ""
     },
     {
-      "id": "sd_030",
+      "id": "sd_026",
       "es": "¡Qué sorpresa!",
       "translations": {
         "en": "What a surprise!",
@@ -300,7 +289,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_031",
+      "id": "sd_027",
       "es": "¡Qué gusto verte!",
       "translations": {
         "en": "It’s great to see you!",
@@ -311,18 +300,18 @@
       "image_url": ""
     },
     {
-      "id": "sd_032",
+      "id": "sd_028",
       "es": "¡Qué gusto verlo /verla! (formal)",
       "translations": {
         "en": "It’s a pleasure to see you!",
         "fr": "Quel plaisir de vous voir !",
-        "it": "Che piacere vederla!",
+        "it": "Che piacere vederLa!",
         "pt": "Que prazer vê-lo /vê-la!"
       },
       "image_url": ""
     },
     {
-      "id": "sd_034",
+      "id": "sd_029",
       "es": "¡Qué gusto volver a verte!",
       "translations": {
         "en": "It’s good to see you again!",
@@ -333,7 +322,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_035",
+      "id": "sd_030",
       "es": "Mucho gusto / Encantado/a",
       "translations": {
         "en": "Nice to meet you",
@@ -344,7 +333,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_037",
+      "id": "sd_031",
       "es": "Es un placer conocerte (informal)",
       "translations": {
         "en": "It’s a pleasure to meet you / Great to meet you",
@@ -355,7 +344,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_038",
+      "id": "sd_032",
       "es": "Es un placer conocerlo /la (formal)",
       "translations": {
         "en": "It’s a pleasure to meet you",
@@ -366,7 +355,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_039",
+      "id": "sd_033",
       "es": "El placer es mío",
       "translations": {
         "en": "The pleasure is mine",
@@ -377,7 +366,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_040",
+      "id": "sd_034",
       "es": "Igualmente",
       "translations": {
         "en": "Likewise",
@@ -388,40 +377,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_041",
-      "es": "Bienvenido /a",
-      "translations": {
-        "en": "Welcome",
-        "fr": "Bienvenue",
-        "it": "Benvenuto /Benvenuta",
-        "pt": "Bem-vindo /Bem-vinda"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_042",
-      "es": "Bienvenidos /as",
-      "translations": {
-        "en": "Welcome",
-        "fr": "Bienvenue",
-        "it": "Benvenuti /e",
-        "pt": "Bem-vindos /Bem-vindas"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_043",
-      "es": "Bienvenido /a de nuevo",
-      "translations": {
-        "en": "Welcome back",
-        "fr": "Bon retour parmi nous !",
-        "it": "Bentornato /Bentornata",
-        "pt": "Bem-vindo de volta /Bem-vinda de volta"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_044",
+      "id": "sd_035",
       "es": "Muy Bien, gracias",
       "translations": {
         "en": "Very well /Fine, thank you",
@@ -432,7 +388,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_045",
+      "id": "sd_036",
       "es": "Todo bien",
       "translations": {
         "en": "All good",
@@ -443,7 +399,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_046",
+      "id": "sd_037",
       "es": "Más o menos",
       "translations": {
         "en": "So-so",
@@ -454,7 +410,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_047",
+      "id": "sd_038",
       "es": "No muy bien",
       "translations": {
         "en": "Not very well",
@@ -465,7 +421,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_048",
+      "id": "sd_039",
       "es": "Estoy bien, gracias. ¿Y tú? / ¿Y usted?",
       "translations": {
         "en": "I’m fine, thanks. And you?",
@@ -476,29 +432,51 @@
       "image_url": ""
     },
     {
-      "id": "sd_050",
+      "id": "sd_040",
+      "es": "Bienvenido /a",
+      "translations": {
+        "en": "Welcome",
+        "fr": "Bienvenue",
+        "it": "Benvenuto /Benvenuta",
+        "pt": "Bem-vindo /Bem-vinda"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "sd_041",
+      "es": "Bienvenidos /as",
+      "translations": {
+        "en": "Welcome",
+        "fr": "Bienvenue",
+        "it": "Benvenuti /e",
+        "pt": "Bem-vindos /Bem-vindas"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "sd_042",
+      "es": "Bienvenido /a de nuevo",
+      "translations": {
+        "en": "Welcome back",
+        "fr": "Bon retour parmi nous !",
+        "it": "Bentornato /Bentornata",
+        "pt": "Bem-vindo de volta /Bem-vinda de volta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "sd_043",
       "es": "Adiós",
       "translations": {
         "en": "Goodbye",
         "fr": "Au revoir",
-        "it": "Arrivederci",
+        "it": "Arrivederci / ArrivederLa",
         "pt": "Tchau"
       },
       "image_url": ""
     },
     {
-      "id": "sd_051",
-      "es": "Adiós (formal)",
-      "translations": {
-        "en": "Goodbye",
-        "fr": "Au revoir",
-        "it": "Arrivederla",
-        "pt": "Até logo"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_052",
+      "id": "sd_044",
       "es": "Chao",
       "translations": {
         "en": "Bye",
@@ -509,7 +487,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_053",
+      "id": "sd_045",
       "es": "Hasta luego",
       "translations": {
         "en": "See you later",
@@ -520,7 +498,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_060",
+      "id": "sd_046",
       "es": "Nos vemos luego",
       "translations": {
         "en": "See you later",
@@ -531,7 +509,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_054",
+      "id": "sd_047",
       "es": "Hasta pronto",
       "translations": {
         "en": "See you soon",
@@ -542,7 +520,18 @@
       "image_url": ""
     },
     {
-      "id": "sd_055",
+      "id": "sd_048",
+      "es": "Adiós (definitivo)",
+      "translations": {
+        "en": "Farewell",
+        "fr": "Adieu",
+        "it": "Addio",
+        "pt": "Adeus"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "sd_049",
       "es": "Hasta mañana / Nos vemos mañana",
       "translations": {
         "en": "See you tomorrow",
@@ -553,7 +542,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_056",
+      "id": "sd_050",
       "es": "Nos vemos en un momento",
       "translations": {
         "en": "See you in a moment",
@@ -564,7 +553,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_057",
+      "id": "sd_051",
       "es": "Hasta dentro de un rato",
       "translations": {
         "en": "See you in a while",
@@ -575,7 +564,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_058",
+      "id": "sd_052",
       "es": "Hasta la próxima",
       "translations": {
         "en": "Until next time",
@@ -586,7 +575,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_059",
+      "id": "sd_053",
       "es": "Nos vemos",
       "translations": {
         "en": "See you",
@@ -597,7 +586,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_061",
+      "id": "sd_054",
       "es": "Nos vemos pronto",
       "translations": {
         "en": "See you soon",
@@ -608,7 +597,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_063",
+      "id": "sd_055",
       "es": "Nos vemos esta tarde",
       "translations": {
         "en": "See you this afternoon",
@@ -619,7 +608,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_064",
+      "id": "sd_056",
       "es": "Nos vemos esta noche",
       "translations": {
         "en": "See you tonight",
@@ -630,7 +619,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_065",
+      "id": "sd_057",
       "es": "Hasta mañana por la mañana",
       "translations": {
         "en": "See you tomorrow morning",
@@ -641,7 +630,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_066",
+      "id": "sd_058",
       "es": "Hasta el lunes",
       "translations": {
         "en": "See you on Monday",
@@ -652,40 +641,40 @@
       "image_url": ""
     },
     {
-      "id": "sd_067",
+      "id": "sd_059",
       "es": "Hasta la semana que viene",
       "translations": {
         "en": "See you next week",
         "fr": "À la semaine prochaine",
-        "it": "Alla prossima settimana",
+        "it": "Ci vediamo la settimana prossima",
         "pt": "Até a semana que vem"
       },
       "image_url": ""
     },
     {
-      "id": "sd_068",
+      "id": "sd_060",
       "es": "Hasta el mes que viene",
       "translations": {
         "en": "See you next month",
         "fr": "Au mois prochain",
-        "it": "Al mese prossimo",
+        "it": "Ci vediamo il mese prossimo",
         "pt": "Até o mês que vem"
       },
       "image_url": ""
     },
     {
-      "id": "sd_069",
+      "id": "sd_061",
       "es": "Hasta el año que viene",
       "translations": {
         "en": "See you next year",
         "fr": "À l’année prochaine",
-        "it": "All’anno prossimo",
+        "it": "Ci vediamo l’anno prossimo",
         "pt": "Até o ano que vem"
       },
       "image_url": ""
     },
     {
-      "id": "sd_070",
+      "id": "sd_062",
       "es": "Hablamos luego",
       "translations": {
         "en": "Talk to you later",
@@ -696,7 +685,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_071",
+      "id": "sd_063",
       "es": "Hablamos pronto",
       "translations": {
         "en": "Talk to you soon",
@@ -707,7 +696,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_072",
+      "id": "sd_064",
       "es": "Seguimos en contacto",
       "translations": {
         "en": "Let’s keep in touch",
@@ -718,18 +707,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_073",
-      "es": "Hasta siempre (despedida definitiva)",
-      "translations": {
-        "en": "Farewell",
-        "fr": "Adieu",
-        "it": "Addio",
-        "pt": "Adeus"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_074",
+      "id": "sd_065",
       "es": "Me voy",
       "translations": {
         "en": "I’m leaving",
@@ -740,7 +718,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_075",
+      "id": "sd_066",
       "es": "Me tengo que ir",
       "translations": {
         "en": "I have to go",
@@ -751,7 +729,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_076",
+      "id": "sd_067",
       "es": "Debo marcharme (formal)",
       "translations": {
         "en": "I must leave",
@@ -762,7 +740,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_077",
+      "id": "sd_068",
       "es": "Fue un placer conocerte",
       "translations": {
         "en": "It was nice to meet you",
@@ -773,7 +751,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_078",
+      "id": "sd_069",
       "es": "Que tengas un buen día",
       "translations": {
         "en": "Have a nice day",
@@ -784,18 +762,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_079",
-      "es": "Que pases una buena noche (antes de dormir)",
-      "translations": {
-        "en": "Have a good night",
-        "fr": "Bonne nuit",
-        "it": "Buonanotte",
-        "pt": "Tenha uma boa noite"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "sd_080",
+      "id": "sd_070",
       "es": "Que pases una buena noche (antes de una actividad)",
       "translations": {
         "en": "Have a nice evening",
@@ -806,7 +773,18 @@
       "image_url": ""
     },
     {
-      "id": "sd_081",
+      "id": "sd_071",
+      "es": "Que pases una buena noche (antes de dormir)",
+      "translations": {
+        "en": "Have a good night",
+        "fr": "Bonne nuit",
+        "it": "Buonanotte",
+        "pt": "Tenha uma boa noite"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "sd_072",
       "es": "Buen fin de semana",
       "translations": {
         "en": "Have a nice weekend",
@@ -817,7 +795,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_082",
+      "id": "sd_073",
       "es": "Buena semana",
       "translations": {
         "en": "Have a good week",
@@ -828,7 +806,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_083",
+      "id": "sd_074",
       "es": "Buen viaje",
       "translations": {
         "en": "Have a good trip",
@@ -839,29 +817,29 @@
       "image_url": ""
     },
     {
-      "id": "sd_084",
+      "id": "sd_075",
       "es": "Que te vaya bien",
       "translations": {
         "en": "Take care",
         "fr": "Bonne continuation",
-        "it": "Stammi bene",
+        "it": "Buona continuazione!",
         "pt": "Fique bem"
       },
       "image_url": ""
     },
     {
-      "id": "sd_085",
+      "id": "sd_076",
       "es": "Cuídate / Cuídese",
       "translations": {
         "en": "Take care",
         "fr": "Prends soin de toi / vous",
-        "it": "Abbi cura di te / sé",
+        "it": "Stammi bene! / Si riguardi!",
         "pt": "Cuide-se"
       },
       "image_url": ""
     },
     {
-      "id": "sd_087",
+      "id": "sd_077",
       "es": "Descansa",
       "translations": {
         "en": "Get some rest",
@@ -872,18 +850,18 @@
       "image_url": ""
     },
     {
-      "id": "sd_088",
+      "id": "sd_078",
       "es": "Que descanses / Que descanse (formal)",
       "translations": {
         "en": "Have a good rest",
         "fr": "Repose-toi bien / Reposez-vous bien",
-        "it": "Riposa bene / Riposi bene",
+        "it": "Riposati bene! / Si riposi bene!",
         "pt": "Bom descanso"
       },
       "image_url": ""
     },
     {
-      "id": "sd_090",
+      "id": "sd_079",
       "es": "Duerme bien",
       "translations": {
         "en": "Sleep well / Sleep tight",
@@ -894,7 +872,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_091",
+      "id": "sd_080",
       "es": "Dulces sueños",
       "translations": {
         "en": "Sweet dreams",
@@ -905,7 +883,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_092",
+      "id": "sd_081",
       "es": "¿Bueno? (al contestar el teléfono, México)",
       "translations": {
         "en": "Hello?",
@@ -916,7 +894,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_093",
+      "id": "sd_082",
       "es": "¿Quién habla? (por teléfono)",
       "translations": {
         "en": "Who’s speaking?",
@@ -927,7 +905,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_094",
+      "id": "sd_083",
       "es": "Te llamo luego",
       "translations": {
         "en": "I’ll call you later",
@@ -938,7 +916,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_095",
+      "id": "sd_084",
       "es": "Estimado señor (por escrito)",
       "translations": {
         "en": "Dear Sir",
@@ -949,7 +927,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_096",
+      "id": "sd_085",
       "es": "Estimada señora (por escrito)",
       "translations": {
         "en": "Dear Madam",
@@ -960,7 +938,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_097",
+      "id": "sd_086",
       "es": "Saludos (al cerrar un mensaje)",
       "translations": {
         "en": "Regards",
@@ -971,7 +949,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_098",
+      "id": "sd_087",
       "es": "Saludos cordiales",
       "translations": {
         "en": "Kind regards",
@@ -982,7 +960,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_099",
+      "id": "sd_088",
       "es": "Atentamente",
       "translations": {
         "en": "Sincerely",
@@ -993,7 +971,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_100",
+      "id": "sd_089",
       "es": "Con cariño",
       "translations": {
         "en": "With love",
@@ -1004,7 +982,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_101",
+      "id": "sd_090",
       "es": "Un abrazo",
       "translations": {
         "en": "Hugs",
@@ -1015,18 +993,18 @@
       "image_url": ""
     },
     {
-      "id": "sd_102",
+      "id": "sd_091",
       "es": "Un abrazo fuerte",
       "translations": {
         "en": "A big hug",
         "fr": "Je t’embrasse fort",
-        "it": "Un forte abbraccio",
+        "it": "Un abbraccio forte",
         "pt": "Um grande abraço"
       },
       "image_url": ""
     },
     {
-      "id": "sd_103",
+      "id": "sd_092",
       "es": "Besos",
       "translations": {
         "en": "Kisses",
@@ -1037,7 +1015,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_104",
+      "id": "sd_093",
       "es": "Besos y abrazos",
       "translations": {
         "en": "Hugs and kisses",
@@ -1048,7 +1026,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_105",
+      "id": "sd_094",
       "es": "Mis saludos a tu familia",
       "translations": {
         "en": "Say hello to your family for me",
@@ -1059,7 +1037,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_106",
+      "id": "sd_095",
       "es": "Feliz cumpleaños",
       "translations": {
         "en": "Happy birthday",
@@ -1070,7 +1048,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_107",
+      "id": "sd_096",
       "es": "Feliz Navidad",
       "translations": {
         "en": "Merry Christmas",
@@ -1081,7 +1059,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_108",
+      "id": "sd_097",
       "es": "Feliz Año Nuevo",
       "translations": {
         "en": "Happy New Year",
@@ -1092,7 +1070,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_109",
+      "id": "sd_098",
       "es": "Felices fiestas",
       "translations": {
         "en": "Happy holidays",
@@ -1103,7 +1081,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_110",
+      "id": "sd_099",
       "es": "Felices vacaciones",
       "translations": {
         "en": "Enjoy your vacation",
@@ -1114,29 +1092,29 @@
       "image_url": ""
     },
     {
-      "id": "sd_112",
-      "es": "Es un placer conocerte",
+      "id": "sd_100",
+      "es": "¡Buena suerte!",
       "translations": {
-        "en": "It’s a pleasure to meet you",
-        "fr": "C’est un plaisir de faire ta connaissance",
-        "it": "È un piacere conoscerti",
-        "pt": "É um prazer conhecer você"
+        "en": "Good luck!",
+        "fr": "Bonne chance !",
+        "it": "In bocca al lupo! / Buona fortuna!",
+       "pt": "Boa sorte!"
       },
       "image_url": ""
     },
     {
-      "id": "sd_113",
+      "id": "sd_101",
       "es": "Igualmente (al conocer a alguien)",
       "translations": {
         "en": "Nice to meet you too",
         "fr": "Moi de même",
-        "it": "Piacere mio",
+        "it": "Altrettanto! / Piacere mio!",
         "pt": "O prazer é meu"
       },
       "image_url": ""
     },
     {
-      "id": "sd_116",
+      "id": "sd_102",
       "es": "Me alegra verte",
       "translations": {
         "en": "I’m glad to see you",
@@ -1147,7 +1125,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_117",
+      "id": "sd_103",
       "es": "Un placer verte",
       "translations": {
         "en": "It’s a pleasure to see you",
@@ -1158,7 +1136,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_118",
+      "id": "sd_104",
       "es": "Ha sido un placer",
       "translations": {
         "en": "It’s been a pleasure",
@@ -1169,7 +1147,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_119",
+      "id": "sd_105",
       "es": "Tiempo sin verte",
       "translations": {
         "en": "It’s been a while since I saw you",
@@ -1180,7 +1158,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_120",
+      "id": "sd_106",
       "es": "Saludos a todos",
       "translations": {
         "en": "Greetings to everyone",
@@ -1190,9 +1168,8 @@
       },
       "image_url": ""
     },
-
     {
-      "id": "sd_122",
+      "id": "sd_107",
       "es": "Nada mal",
       "translations": {
         "en": "Not bad",
@@ -1203,7 +1180,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_123",
+      "id": "sd_108",
       "es": "Hasta ahora, todo bien",
       "translations": {
         "en": "So far, so good",
@@ -1214,7 +1191,7 @@
       "image_url": ""
     },
     {
-      "id": "sd_124",
+      "id": "sd_109",
       "es": "Habla Ana (por teléfono)",
       "translations": {
         "en": "Ana speaking",
