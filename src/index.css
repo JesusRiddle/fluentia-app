@@ -1,6 +1,7 @@
 /* ============================================================
    FLUENTIA — Estilos basados en Shadowing App
 ============================================================ */
+
 :root {
     --bg: #F7F7FA;
     --card-bg: #FFFFFF;
@@ -45,8 +46,7 @@
     box-sizing: border-box;
 }
 
-html,
-body {
+html, body {
     margin: 0;
     font-family: var(--font);
     background: var(--bg);
@@ -57,6 +57,7 @@ body {
 }
 
 /* ---------- Header ---------- */
+
 .app-header {
     display: flex;
     align-items: center;
@@ -141,6 +142,7 @@ body {
 }
 
 /* ---------- Layout ---------- */
+
 .view {
     width: 100%;
     max-width: 850px;
@@ -188,9 +190,8 @@ body {
 }
 
 /* ---------- Botones Exactos ---------- */
-.primary-btn,
-.secondary-btn,
-.ghost-btn {
+
+.primary-btn, .secondary-btn, .ghost-btn {
     border: none;
     border-radius: var(--radius-sm);
     padding: 14px 18px;
@@ -248,8 +249,7 @@ body {
     margin: 24px 0 16px;
 }
 
-.divider::before,
-.divider::after {
+.divider::before, .divider::after {
     content: "";
     flex: 1;
     height: 1px;
@@ -268,6 +268,7 @@ body {
 }
 
 /* ---------- Motor Flashcard 3D ---------- */
+
 .card {
     background: var(--card-bg);
     border: 1px solid var(--card-border);
@@ -277,34 +278,56 @@ body {
 
 .flashcard-container {
     width: 100%;
-    height: 380px;
     perspective: 1000px;
     cursor: pointer;
+    height: auto;
 }
 
 .flashcard-inner {
     width: 100%;
-    height: 100%;
     position: relative;
     transition: transform 0.6s;
     transform-style: preserve-3d;
+    display: grid;
+    height: auto;
+    min-height: 280px;
 }
 
 .flashcard-inner.is-flipped {
     transform: rotateY(180deg);
 }
 
-.flashcard-front,
-.flashcard-back {
+.flashcard-front, .flashcard-back {
     width: 100%;
-    height: 100%;
-    position: absolute;
     backface-visibility: hidden;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 28px 30px;
+    text-align: center;
+    position: relative;
+    grid-area: 1 / 1;
+    height: auto;
+    min-width: 0;
+    padding: 20px;
+    overflow-wrap: anywhere;
+}
+
+.flashcard-front {
+    padding-top: 10px;
+}
+
+.flashcard-front .flip-hint {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--muted);
+    opacity: 0.7;
+    pointer-events: none;
+    position: absolute;
+    bottom: 16px;
+    left: 0;
+    right: 0;
+    margin: 0;
     text-align: center;
 }
 
@@ -312,20 +335,23 @@ body {
     transform: rotateY(180deg);
     border: 2px solid var(--primary);
     background: var(--primary-soft);
+    padding: 68px 24px 18px;
+    justify-content: flex-start;
 }
 
 /* ---------- Barra de Progreso Desplazadora ---------- */
+
 .progress-top {
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
     align-items: center;
-    margin-bottom: 6px;
+    margin-bottom: 10px;
 }
 
 .progress-count {
     font-weight: 800;
     color: var(--muted);
-    font-size: 0.85rem;
+    font-size: 0.9rem;
 }
 
 .progress-track-wrap {
@@ -354,6 +380,7 @@ body {
 }
 
 /* ---------- Estilo para botones de temas en Home ---------- */
+
 .theme-card-btn {
     transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
     background: var(--card-bg);
@@ -386,19 +413,6 @@ body {
     text-decoration: underline;
 }
 
-.progress-top {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
-}
-
-.progress-count {
-    font-weight: 800;
-    color: var(--muted);
-    font-size: 0.9rem;
-}
-
 .progress-percent {
     text-align: right;
     font-size: 0.78rem;
@@ -407,6 +421,7 @@ body {
 }
 
 /* ---------- Botón de Pastilla (Pill Button) ---------- */
+
 .pill-btn {
     background: var(--card-bg);
     border: 1px solid var(--card-border);
@@ -432,11 +447,12 @@ body {
 }
 
 /* ---------- Estilos del Modo Práctica (Burbujas) ---------- */
+
 .bubble-option {
     background: var(--card-bg);
     border: 2px solid var(--card-border);
     border-radius: var(--radius);
-    padding: 18px 20px;
+    padding: 16px 10px;
     font-size: 1.25rem;
     font-weight: 800;
     color: var(--text);
@@ -444,6 +460,7 @@ body {
     text-align: center;
     transition: all 0.15s ease;
     box-shadow: var(--shadow-sm);
+    width: 100%;
 }
 
 .bubble-option:hover {
@@ -467,9 +484,7 @@ body {
 }
 
 @keyframes shake {
-
-    0%,
-    100% {
+    0%, 100% {
         transform: translateX(0);
     }
 
@@ -483,6 +498,7 @@ body {
 }
 
 /* ---------- Cuadrícula del Modo Práctica (2 filas x 2 columnas) ---------- */
+
 #bubbles-container {
     display: grid !important;
     grid-template-columns: repeat(2, 1fr) !important;
@@ -490,23 +506,8 @@ body {
     margin-bottom: 20px !important;
 }
 
-.bubble-option {
-    background: var(--card-bg);
-    border: 2px solid var(--card-border);
-    border-radius: var(--radius);
-    padding: 16px 10px;
-    font-size: 1.25rem;
-    font-weight: 800;
-    color: var(--text);
-    cursor: pointer;
-    text-align: center;
-    transition: all 0.15s ease;
-    box-shadow: var(--shadow-sm);
-    width: 100%;
-    /* Asegura que abarque su celda de la cuadrícula */
-}
-
 /* ---------- Botones de Velocidad ---------- */
+
 .speed-btn.active {
     background: var(--primary) !important;
     color: #ffffff !important;
@@ -515,8 +516,10 @@ body {
 }
 
 /* ---------- Filtros y temporizador ---------- */
+
 .header-language {
     padding: 6px 12px;
+    min-width: 110px;
 }
 
 .auto-play-toggle {
@@ -546,8 +549,7 @@ body {
     -webkit-touch-callout: none;
 }
 
-.study-timer-btn.is-running,
-.study-timer-btn.is-ringing {
+.study-timer-btn.is-running, .study-timer-btn.is-ringing {
     color: var(--primary);
     background: var(--primary-soft);
 }
@@ -643,61 +645,106 @@ body {
     padding: 6px 12px;
 }
 
-.icon-btn:focus-visible,
-.timer-dialog button:focus-visible,
-.number-range-filter:focus-visible {
+.icon-btn:focus-visible, .timer-dialog button:focus-visible, .number-range-filter:focus-visible {
     outline: 2px solid var(--primary);
     outline-offset: 3px;
 }
 
 @keyframes timer-ring {
-
-    0%,
-    100% {
+    0%, 100% {
         transform: rotate(0);
     }
 
-    20%,
-    60% {
+    20%, 60% {
         transform: rotate(-15deg);
     }
 
-    40%,
-    80% {
+    40%, 80% {
         transform: rotate(15deg);
     }
 }
 
+@media (prefers-reduced-motion: reduce) {
+    .study-timer-btn.is-ringing svg {
+        animation: none;
+    }
+}
+
+.flashcard-front h2, .flashcard-back h2 {
+    margin: 0;
+}
+
+/* ==========================================
+   FLUENTIA — Header compacto para móvil
+   ========================================== */
+
 @media (max-width: 640px) {
     .app-header {
-        padding: 12px 14px;
-        flex-wrap: wrap;
-        gap: 10px;
+        flex-wrap: nowrap;
+        min-height: 58px;
+        padding: 8px 10px;
+        gap: 6px;
+    }
+
+    .brand {
+        flex: 0 0 auto;
+        min-width: 0;
+        gap: 5px;
+    }
+
+    .brand-mark {
+        width: 23px;
+        height: 23px;
+    }
+
+    .brand h1 {
+        font-size: 0.76rem;
+        line-height: 1.1;
+        white-space: normal;
     }
 
     .header-actions {
-        width: 100%;
-        gap: 6px;
+        flex: 0 1 auto;
+        width: auto;
+        min-width: 0;
+        gap: 3px;
         justify-content: flex-end;
     }
 
     .header-language {
-        flex: 1;
-        min-width: 0;
-        padding: 6px 8px;
-        font-size: 0.75rem;
+        flex: 0 1 102px;
+        width: 102px;
+        max-width: 102px;
+        padding: 6px 3px;
+        font-size: 0.73rem;
     }
 
     .auto-play-toggle {
         font-size: 0.75rem;
         gap: 3px;
+        flex: 0 0 auto;
+        margin: 0;
+        padding: 7px 3px;
+    }
+
+    .auto-play-toggle span {
+        display: none;
     }
 
     .auto-play-toggle input {
+        width: 16px;
+        height: 16px;
         margin: 0;
     }
 
-    .header-actions>.icon-btn {
+    .header-actions > .icon-btn, .study-timer-btn {
+        width: 34px;
+        min-width: 34px;
+        height: 36px;
+        padding: 0;
+    }
+
+    .header-actions > .icon-btn {
         flex-shrink: 0;
     }
 
@@ -710,224 +757,85 @@ body {
     }
 }
 
-@media (prefers-reduced-motion: reduce) {
-    .study-timer-btn.is-ringing svg {
-        animation: none;
-    }
-}
+/* Móviles especialmente estrechos */
 
-.flashcard-container {
-    height: auto;
-}
-
-.flashcard-inner {
-    display: grid;
-    height: auto;
-    min-height: 280px;
-}
-
-.flashcard-front,
-.flashcard-back {
-    position: relative;
-    grid-area: 1 / 1;
-    height: auto;
-    min-width: 0;
-    padding: 20px;
-    overflow-wrap: anywhere;
-}
-
-.flashcard-front h2,
-.flashcard-back h2 {
-    margin: 0;
-}
-
-@media (max-width: 600px) {
-    .flashcard-inner {
-        min-height: 240px;
+@media (max-width: 350px) {
+    .app-header {
+        padding-inline: 6px;
+        gap: 3px;
     }
 
-    .flashcard-front h2,
-    .flashcard-back h2 {
-        font-size: 1.6rem !important;
+    .brand-mark {
+        width: 20px;
+        height: 20px;
     }
-}
-
-
-/* ==========================================
-   FLUENTIA — Header compacto para móvil
-   ========================================== */
-
-@media (max-width: 640px) {
-
-  .app-header {
-    flex-wrap: nowrap;
-    min-height: 58px;
-    padding: 8px 10px;
-    gap: 6px;
-  }
-
-  .brand {
-    flex: 0 0 auto;
-    min-width: 0;
-    gap: 5px;
-  }
-
-  .brand-mark {
-    width: 23px;
-    height: 23px;
-  }
 
     .brand h1 {
-    font-size: 0.76rem;
-    line-height: 1.1;
-    white-space: normal;
+        font-size: 0.68rem;
     }
 
-  .header-actions {
-    flex: 0 1 auto;
-    width: auto;
-    min-width: 0;
-    gap: 3px;
-    justify-content: flex-end;
-  }
+    .header-language {
+        flex-basis: 88px;
+        width: 88px;
+        max-width: 88px;
+        font-size: 0.69rem;
+    }
 
-  .header-language {
-    flex: 0 1 102px;
-    width: 102px;
-    min-width: 0;
-    max-width: 102px;
-    padding: 6px 3px;
-    font-size: 0.73rem;
-  }
+    .header-actions {
+        gap: 1px;
+    }
 
-  .auto-play-toggle {
-    flex: 0 0 auto;
-    margin: 0;
-    padding: 7px 3px;
-  }
-
-  .auto-play-toggle span {
-    display: none;
-  }
-
-  .auto-play-toggle input {
-    width: 16px;
-    height: 16px;
-    margin: 0;
-  }
-
-  .header-actions > .icon-btn,
-  .study-timer-btn {
-    width: 34px;
-    min-width: 34px;
-    height: 36px;
-    padding: 0;
-  }
+    .header-actions > .icon-btn, .study-timer-btn {
+        width: 32px;
+        min-width: 32px;
+    }
 }
-
-/* Móviles especialmente estrechos */
-@media (max-width: 350px) {
-  .app-header {
-    padding-inline: 6px;
-    gap: 3px;
-  }
-
-  .brand-mark {
-    width: 20px;
-    height: 20px;
-  }
-
-  .brand h1 {
-    font-size: 0.68rem;
-  }
-
-  .header-language {
-    flex-basis: 88px;
-    width: 88px;
-    max-width: 88px;
-    font-size: 0.69rem;
-  }
-
-  .header-actions {
-    gap: 1px;
-  }
-
-  .header-actions > .icon-btn,
-  .study-timer-btn {
-    width: 32px;
-    min-width: 32px;
-  }
-}
-
-
 
 /* ==========================================
    FLUENTIA — Barra inferior fija: Práctica
    ========================================== */
 
 .practice-view {
-  padding-bottom: 110px;
+    padding-bottom: 110px;
 }
 
 .practice-bottom-bar {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  z-index: 30;
-
-  background: var(--card-bg);
-  border-top: 1px solid var(--card-border);
-  box-shadow: 0 -6px 24px rgba(0, 0, 0, 0.06);
-
-  padding: 12px 16px;
-  padding-bottom: max(12px, env(safe-area-inset-bottom));
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 30;
+    background: var(--card-bg);
+    border-top: 1px solid var(--card-border);
+    box-shadow: 0 -6px 24px rgba(0, 0, 0, 0.06);
+    padding: 12px 16px;
+    padding-bottom: max(12px, env(safe-area-inset-bottom));
 }
 
 .practice-bottom-actions {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 10px;
-
-  max-width: 786px;
-  margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    max-width: 786px;
+    margin: 0 auto;
 }
 
 .practice-bottom-actions button {
-  width: 100%;
-  min-width: 0;
-  min-height: 44px;
-  padding: 10px 8px;
-  font-size: 0.85rem;
-  white-space: nowrap;
+    width: 100%;
+    min-width: 0;
+    min-height: 44px;
+    padding: 10px 8px;
+    font-size: 0.85rem;
+    white-space: nowrap;
 }
 
 .practice-bottom-actions button:disabled {
-  opacity: 0.4;
-  cursor: not-allowed;
-}
-
-@media (max-width: 480px) {
-  .practice-view {
-    padding-bottom: 105px;
-  }
-
-  .practice-bottom-bar {
-    padding: 10px 12px;
-    padding-bottom: max(10px, env(safe-area-inset-bottom));
-  }
-
-  .practice-bottom-actions {
-    gap: 6px;
-  }
-
-  .practice-bottom-actions button {
-    font-size: 0.75rem;
-    padding: 10px 4px;
-  }
+    opacity: 0.4;
+    cursor: not-allowed;
 }
 
 /* Flashcards: selección persistente de tarjetas para repasar */
+
 .review-toolbar {
     display: flex;
     align-items: center;
@@ -939,39 +847,89 @@ body {
     font-size: 0.83rem;
     font-weight: 700;
 }
-.review-filter { display: inline-flex; align-items: center; gap: 7px; cursor: pointer; }
-.review-filter input { width: 17px; height: 17px; accent-color: var(--primary); cursor: pointer; }
-.review-card-shell { position: relative; }
+
+.review-filter {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    cursor: pointer;
+}
+
+.review-filter input {
+    width: 17px;
+    height: 17px;
+    accent-color: var(--primary);
+    cursor: pointer;
+}
+
+.review-card-shell {
+    position: relative;
+}
+
 .review-star {
     position: absolute;
     z-index: 5;
-    top: 13px;
-    right: 13px;
-    width: 44px;
-    height: 44px;
     border: 1px solid var(--card-border);
     background: var(--card-bg);
     color: var(--muted);
     border-radius: 50%;
-    font-size: 1.65rem;
     line-height: 1;
     cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
     box-shadow: var(--shadow-sm);
+    width: 38px;
+    height: 38px;
+    top: 12px;
+    right: 12px;
+    font-size: 1.35rem;
 }
-.review-star.is-marked { color: #C98914; background: var(--card-bg); }
+
+.review-star.is-marked {
+    color: #C98914;
+    background: var(--card-bg);
+}
+
 .review-star:focus-visible, .review-filter input:focus-visible {
     outline: 3px solid var(--primary);
     outline-offset: 3px;
 }
-.review-empty { padding: 30px 20px; text-align: center; color: var(--muted); }
-.review-empty .pill-btn { margin-top: 12px; }
-@media (max-width: 480px) {
-    .review-toolbar { font-size: 0.76rem; gap: 6px; }
+
+.review-empty {
+    padding: 30px 20px;
+    text-align: center;
+    color: var(--muted);
 }
 
+.review-empty .pill-btn {
+    margin-top: 12px;
+}
+
+@media (max-width: 480px) {
+    .practice-view {
+        padding-bottom: 105px;
+    }
+
+    .practice-bottom-bar {
+        padding: 10px 12px;
+        padding-bottom: max(10px, env(safe-area-inset-bottom));
+    }
+
+    .practice-bottom-actions {
+        gap: 6px;
+    }
+
+    .practice-bottom-actions button {
+        font-size: 0.75rem;
+        padding: 10px 4px;
+    }
+
+    .review-toolbar {
+        font-size: 0.76rem;
+        gap: 6px;
+    }
+}
 
 /* FLUENTIA — Notas opcionales por idioma */
 
@@ -1007,56 +965,8 @@ body {
     overflow-wrap: anywhere;
 }
 
-@media (max-width: 600px) {
-    .flashcard-note {
-        font-size: 0.85rem;
-        line-height: 1.5;
-    }
-
-    .practice-answer-note {
-        font-size: 0.85rem;
-    }
-}
-
-
-/* Instrucción discreta al pie de la flashcard */
-
-.flashcard-front {
-    padding-bottom: 52px;
-}
-
-.flashcard-front .flip-hint {
-    position: absolute;
-    bottom: 18px;
-    left: 0;
-    right: 0;
-
-    margin: 0;
-    text-align: center;
-    font-size: 0.75rem;
-    font-weight: 500;
-    color: var(--muted);
-    opacity: 0.7;
-    pointer-events: none;
-}
-
-
-/* Estrella más compacta */
-.review-star {
-    width: 38px;
-    height: 38px;
-    top: 12px;
-    right: 12px;
-    font-size: 1.35rem;
-}
-
-/* Reverso: espacio reservado para la estrella */
-.flashcard-back {
-    padding: 68px 24px 18px;
-    justify-content: flex-start;
-}
-
 /* Zona central: traducción y explicación */
+
 .flashcard-back-content {
     width: 100%;
     min-width: 0;
@@ -1074,6 +984,7 @@ body {
 }
 
 /* Control de audio al pie de la tarjeta */
+
 .flashcard-audio-footer {
     width: 100%;
     display: flex;
@@ -1105,4 +1016,76 @@ body {
 .flashcard-audio-btn:focus-visible {
     outline: 3px solid var(--primary);
     outline-offset: 3px;
+}
+
+/* FLUENTIA — Práctica compacta */
+
+.practice-audio-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    padding: 16px;
+    margin-bottom: 12px;
+    text-align: center;
+    height: auto;
+    min-height: 0;
+}
+
+/* Optimización para celulares */
+
+@media (max-width: 600px) {
+    .flashcard-inner {
+        min-height: 240px;
+    }
+
+    .flashcard-front h2, .flashcard-back h2 {
+        font-size: 1.6rem !important;
+    }
+
+    .flashcard-note {
+        font-size: 0.85rem;
+        line-height: 1.5;
+    }
+
+    .practice-answer-note {
+        font-size: 0.85rem;
+    }
+
+    .practice-view .hero-title {
+        font-size: clamp(1.4rem, 5vw, 1.7rem) !important;
+        line-height: 1.12;
+        margin-bottom: 5px;
+    }
+
+    .practice-view .hero-kicker {
+        margin-bottom: 6px;
+    }
+
+    .practice-view .hero .hint {
+        margin-top: 4px;
+        margin-bottom: 0;
+    }
+
+    .practice-view .progress-percent {
+        margin-bottom: 10px;
+    }
+
+    .practice-audio-card {
+        padding: 14px 12px;
+        gap: 6px;
+    }
+
+    #bubbles-container .bubble-option {
+        font-size: clamp(0.9rem, 3.8vw, 1.05rem);
+        font-weight: 750;
+        line-height: 1.3;
+        padding: 12px 8px;
+        min-height: 62px;
+        overflow-wrap: anywhere;
+    }
+
+    #bubbles-container {
+        gap: 8px !important;
+    }
 }

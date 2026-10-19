@@ -4,18 +4,25 @@
   "cards": [
     {
       "id": "va1",
-      "es": "Ser / Estar (la traducción depende del contexto)",
+      "es": "Ser / Estar",
       "translations": {
         "en": "To be",
         "pt": "Ser / Estar",
         "fr": "Être",
         "it": "Essere / Stare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "En español se distinguen identidad o características («ser») y estados o ubicación («estar»); las correspondencias dependen de cada lengua.",
+        "en": "«To be» puede traducir tanto «ser» como «estar»; el contexto determina el sentido.",
+        "fr": "«Être» equivale normalmente tanto a «ser» como a «estar».",
+        "it": "«Essere» es la opción general; «stare» se usa en contextos como «stare bene» (estar bien) o «stare fermo» (quedarse quieto), pero no sustituye siempre a «essere».",
+        "pt": "Como en español, «ser» y «estar» expresan contrastes de identidad/característica frente a estado/ubicación, con excepciones de uso."
+      }
     },
     {
       "id": "va2",
-      "es": "Tener (posesión)",
+      "es": "Tener",
       "translations": {
         "en": "To have",
         "pt": "Ter",
@@ -26,14 +33,20 @@
     },
     {
       "id": "va3",
-      "es": "Haber (existencia: «hay»)",
+      "es": "Haber (hay)",
       "translations": {
         "en": "There is / There are",
         "pt": "Há / Tem",
         "fr": "Il y a",
         "it": "C'è / Ci sono"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí se estudia la existencia («hay»), no el auxiliar «haber» de «he comido».",
+        "en": "«There is» (singular) y «there are» (plural) expresan existencia; no equivalen al verbo auxiliar «to have» de otros contextos.",
+        "pt": "«Há» es estándar; «tem» con sentido de «hay» es muy frecuente en portugués brasileño informal.",
+        "it": "«C’è» se usa con singular y «ci sono» con plural."
+      }
     },
     {
       "id": "va4",
@@ -44,11 +57,14 @@
         "fr": "Faire",
         "it": "Fare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "«To do» suele emplearse para acciones o tareas; «to make» para crear, producir o preparar algo. No son intercambiables."
+      }
     },
     {
       "id": "va5",
-      "es": "Querer (desear algo)",
+      "es": "Querer",
       "translations": {
         "en": "To want",
         "pt": "Querer",
@@ -66,117 +82,168 @@
         "fr": "Avoir besoin de",
         "it": "Avere bisogno di / Necessitare di"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "«Avoir besoin de» requiere «de»: «J’ai besoin d’aide» (necesito ayuda).",
+        "it": "«Avere bisogno di» es la forma habitual; «necessitare di» es más formal."
+      }
     },
     {
       "id": "va7",
-      "es": "Poder (posibilidad, capacidad o permiso)",
+      "es": "Poder",
       "translations": {
         "en": "Can / To be able to",
         "pt": "Poder",
         "fr": "Pouvoir",
         "it": "Potere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Puede indicar capacidad, posibilidad o permiso; el sentido depende del contexto.",
+        "en": "«Can» no tiene infinitivo propio en uso común; para «poder hacer» como infinitivo se usa «to be able to»."
+      }
     },
     {
       "id": "va8",
-      "es": "Deber / Tener que (obligación)",
+      "es": "Deber / Tener que",
       "translations": {
         "en": "Must / To have to",
         "pt": "Dever / Ter que / Ter de",
         "fr": "Devoir",
         "it": "Dovere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí indican obligación; «deber» también puede expresar probabilidad en otros contextos.",
+        "en": "«Must» suele expresar necesidad u obligación fuerte; «have to» puede indicar una obligación externa. En negativo, «must not» prohíbe, mientras «don’t have to» indica que no es necesario."
+      }
     },
     {
       "id": "va9",
-      "es": "Saber (información o habilidad aprendida)",
+      "es": "Saber",
       "translations": {
         "en": "To know / To know how to",
         "pt": "Saber",
         "fr": "Savoir",
         "it": "Sapere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa para información, hechos o habilidades aprendidas, como «sé nadar».",
+        "en": "«To know» puede ser tanto «saber» como «conocer»; para una habilidad se dice «to know how to».",
+        "fr": "«Savoir» se usa para datos, respuestas o saber hacer algo, frente a «connaître» para personas o lugares.",
+        "it": "«Sapere» expresa conocimiento de hechos o cómo hacer algo; «conoscere» se emplea para personas, lugares y familiaridad."
+      }
     },
     {
       "id": "va10",
-      "es": "Conocer (personas o lugares)",
+      "es": "Conocer",
       "translations": {
         "en": "To know / To be familiar with",
         "pt": "Conhecer",
         "fr": "Connaître",
         "it": "Conoscere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa con personas y lugares, o para indicar familiaridad, no para decir que sabes una respuesta.",
+        "en": "«To know» también significa «saber». Aquí expresa conocer a alguien o estar familiarizado con algo.",
+        "fr": "«Connaître» se usa para personas, lugares y familiaridad; para saber información concreta suele usarse «savoir».",
+        "it": "«Conoscere» se usa para personas, lugares o familiaridad, frente a «sapere» para datos o habilidades."
+      }
     },
     {
       "id": "va11",
-      "es": "Lograr / Conseguir (hacer algo)",
+      "es": "Lograr / Conseguir hacer algo",
       "translations": {
         "en": "To manage to / To succeed in",
         "pt": "Conseguir",
         "fr": "Réussir à / Arriver à",
         "it": "Riuscire a"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se refiere a lograr una acción; «conseguir una cosa» (obtenerla) es otra tarjeta.",
+        "it": "«Riuscire a» va seguido de infinitivo: «Riesco a farlo» (logro hacerlo)."
+      }
     },
     {
       "id": "va12",
-      "es": "Intentar / Tratar de (hacer algo)",
+      "es": "Intentar / Tratar de",
       "translations": {
         "en": "To try / To attempt",
         "pt": "Tentar",
         "fr": "Essayer de / Tenter de",
         "it": "Provare a / Cercare di"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "«Provare a» y «cercare di» van seguidos de infinitivo; «cercare» sin «di» también puede significar «buscar»."
+      }
     },
     {
       "id": "va13",
-      "es": "Pedir / Solicitar (algo)",
+      "es": "Pedir / Solicitar",
       "translations": {
         "en": "To ask for / To request",
         "pt": "Pedir / Solicitar",
         "fr": "Demander",
         "it": "Chiedere / Richiedere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Solicitar algo (ayuda, un favor, un objeto), no formular una pregunta.",
+        "en": "«To ask for» es pedir algo; «to ask» sin «for» suele ser preguntar.",
+        "fr": "«Demander» significa tanto «pedir» como «preguntar»; lo diferencia el complemento.",
+        "it": "«Chiedere» sirve tanto para pedir algo como para preguntar; el contexto aclara el significado."
+      }
     },
     {
       "id": "va14",
-      "es": "Preguntar (pedir información)",
+      "es": "Preguntar",
       "translations": {
         "en": "To ask / To ask a question",
         "pt": "Perguntar",
         "fr": "Demander / Poser une question",
         "it": "Chiedere / Fare una domanda"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Formular una pregunta para obtener información.",
+        "en": "«To ask» es preguntar; «to ask for» equivale a pedir algo.",
+        "fr": "«Demander» también significa «pedir»; «poser une question» especifica que se formula una pregunta.",
+        "it": "«Chiedere» también significa «pedir»; «fare una domanda» indica explícitamente «hacer una pregunta»."
+      }
     },
     {
       "id": "va15",
-      "es": "Obtener / Conseguir (una cosa)",
+      "es": "Obtener / Conseguir",
       "translations": {
         "en": "To get / To obtain",
         "pt": "Obter / Conseguir",
         "fr": "Obtenir / Se procurer",
         "it": "Ottenere / Procurarsi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Adquirir o recibir algo; distinto de «lograr hacer algo».",
+        "fr": "«Obtenir» expresa conseguir un resultado u objeto; «se procurer» enfatiza procurárselo o conseguirlo por medios propios."
+      }
     },
     {
       "id": "va16",
-      "es": "Permitir / Dejar (dar permiso)",
+      "es": "Permitir / Dejar",
       "translations": {
         "en": "To allow / To let",
         "pt": "Permitir / Deixar",
         "fr": "Permettre / Laisser",
         "it": "Permettere / Lasciare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "«Dejar» aquí significa autorizar algo, no abandonar o colocar un objeto.",
+        "en": "«To let» puede ir seguido de objeto + verbo sin «to»: «Let me go» (déjame ir)."
+      }
     },
     {
       "id": "va17",
@@ -224,14 +291,17 @@
     },
     {
       "id": "va21",
-      "es": "Salir (ir al exterior)",
+      "es": "Salir",
       "translations": {
         "en": "To go out / To exit",
         "pt": "Sair",
         "fr": "Sortir",
         "it": "Uscire"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Salir de un lugar hacia el exterior; no «irse definitivamente» ni «salir con alguien»."
+      }
     },
     {
       "id": "va22",
@@ -242,18 +312,24 @@
         "fr": "Partir / S'en aller",
         "it": "Andarsene / Partire"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Abandonar un lugar o alejarse de él; no necesariamente «salir al exterior»."
+      }
     },
     {
       "id": "va23",
       "es": "Volver / Regresar",
       "translations": {
-        "en": "To return / To come back",
+        "en": "To come back / To return",
         "pt": "Voltar / Regressar",
         "fr": "Revenir / Retourner",
         "it": "Tornare / Ritornare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "«Revenir» suele indicar volver hacia el lugar de referencia; «retourner» suele expresar regresar a otro lugar. Depende del punto de vista."
+      }
     },
     {
       "id": "va24",
@@ -268,29 +344,37 @@
     },
     {
       "id": "va25",
-      "es": "Esperar (aguardar)",
+      "es": "Esperar",
       "translations": {
         "en": "To wait",
         "pt": "Esperar / Aguardar",
         "fr": "Attendre",
         "it": "Aspettare / Attendere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí significa aguardar a una persona o un acontecimiento; no «tener esperanza».",
+        "en": "«To wait» significa aguardar; «to hope» es esperar que algo deseado ocurra."
+      }
     },
     {
       "id": "va26",
-      "es": "Esperar (tener esperanza)",
+      "es": "Esperar / Tener esperanza",
       "translations": {
         "en": "To hope",
         "pt": "Esperar / Ter esperança",
         "fr": "Espérer",
         "it": "Sperare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Desear o confiar en que algo suceda; distinto de aguardar a alguien.",
+        "en": "«To hope» expresa esperanza; «to wait» es aguardar."
+      }
     },
     {
       "id": "va27",
-      "es": "Seguir (a alguien)",
+      "es": "Seguir a alguien",
       "translations": {
         "en": "To follow",
         "pt": "Seguir",
@@ -301,7 +385,7 @@
     },
     {
       "id": "va28",
-      "es": "Continuar / Seguir (una acción)",
+      "es": "Continuar / Seguir haciendo algo",
       "translations": {
         "en": "To continue / To keep going",
         "pt": "Continuar",
@@ -323,29 +407,35 @@
     },
     {
       "id": "va30",
-      "es": "Subir (ir hacia arriba)",
+      "es": "Subir",
       "translations": {
         "en": "To go up",
         "pt": "Subir",
         "fr": "Monter",
         "it": "Salire"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Desplazarse hacia arriba (por ejemplo, por unas escaleras); «subir algo» puede requerir otra construcción."
+      }
     },
     {
       "id": "va31",
-      "es": "Bajar (ir hacia abajo)",
+      "es": "Bajar",
       "translations": {
         "en": "To go down",
         "pt": "Descer",
         "fr": "Descendre",
         "it": "Scendere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Desplazarse hacia abajo; «bajar algo» puede requerir una construcción distinta."
+      }
     },
     {
       "id": "va32",
-      "es": "Pasar (atravesar o ir por un lugar)",
+      "es": "Pasar por / Atravesar",
       "translations": {
         "en": "To pass / To go through",
         "pt": "Passar",
@@ -356,9 +446,9 @@
     },
     {
       "id": "va33",
-      "es": "Mover / Desplazar (un objeto)",
+      "es": "Mover / Desplazar un objeto",
       "translations": {
-        "en": "To move something",
+        "en": "To move something / To shift something",
         "pt": "Mover / Deslocar",
         "fr": "Déplacer / Bouger",
         "it": "Spostare / Muovere"
@@ -396,7 +486,12 @@
         "fr": "Se lever",
         "it": "Alzarsi / Mettersi in piedi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "«To stand up» es ponerse de pie; «to get up» también puede significar levantarse de la cama.",
+        "fr": "«Se lever» puede significar ponerse de pie o levantarse de la cama, según el contexto.",
+        "it": "«Alzarsi» puede significar levantarse de una silla o de la cama."
+      }
     },
     {
       "id": "va37",
@@ -444,14 +539,18 @@
     },
     {
       "id": "va41",
-      "es": "Tomar / Agarrar (una cosa)",
+      "es": "Tomar / Agarrar",
       "translations": {
         "en": "To take / To pick up",
-        "pt": "Pegar / Apanhar",
+        "pt": "Pegar / Agarrar",
         "fr": "Prendre",
         "it": "Prendere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí significa sujetar o recoger una cosa, no beber algo.",
+        "pt": "En portugués de Brasil, «pegar» es habitual para agarrar o recoger algo. «Apanhar» puede entenderse como recibir golpes y es menos adecuado como traducción principal."
+      }
     },
     {
       "id": "va42",
@@ -488,29 +587,38 @@
     },
     {
       "id": "va45",
-      "es": "Llevar (transportar hacia otro lugar)",
+      "es": "Llevar / Transportar",
       "translations": {
         "en": "To take / To carry",
         "pt": "Levar",
         "fr": "Emporter / Porter",
         "it": "Portare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Transportar un objeto hacia otro lugar, no «llevar puesto».",
+        "fr": "«Emporter» es llevarse una cosa; «porter» es cargarla o sostenerla. Para llevar a una persona a otro lugar suele emplearse «emmener»."
+      }
     },
     {
       "id": "va46",
-      "es": "Traer (hasta aquí)",
+      "es": "Traer",
       "translations": {
         "en": "To bring",
         "pt": "Trazer",
         "fr": "Apporter",
         "it": "Portare qui"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Transportar algo hacia quien habla o hacia el lugar de referencia.",
+        "fr": "«Apporter» es traer una cosa; para traer o acompañar a una persona suele usarse «amener».",
+        "it": "«Portare» puede significar «llevar» o «traer»; «portare qui» aclara la dirección hacia aquí."
+      }
     },
     {
       "id": "va47",
-      "es": "Dejar (un objeto en un lugar)",
+      "es": "Dejar algo en un lugar",
       "translations": {
         "en": "To leave something",
         "pt": "Deixar algo",
@@ -521,11 +629,11 @@
     },
     {
       "id": "va48",
-      "es": "Sacar (poner algo fuera)",
+      "es": "Sacar / Poner algo fuera",
       "translations": {
         "en": "To take out",
         "pt": "Tirar para fora",
-        "fr": "Sortir quelque chose",
+        "fr": "Sortir / Retirer quelque chose",
         "it": "Tirare fuori"
       },
       "image_url": ""
@@ -548,9 +656,12 @@
         "en": "To put / To place",
         "pt": "Pôr / Colocar",
         "fr": "Mettre / Poser",
-        "it": "Mettere / Posare"
+        "it": "Mettere / Collocare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "«Posare» significa más precisamente posar o dejar algo sobre una superficie; «mettere» y «collocare» se acercan al sentido general de colocar."
+      }
     },
     {
       "id": "va51",
@@ -609,25 +720,31 @@
     },
     {
       "id": "va56",
-      "es": "Cambiar (sustituir o modificar)",
+      "es": "Cambiar / Sustituir / Modificar",
       "translations": {
         "en": "To change / To switch",
         "pt": "Mudar / Trocar",
         "fr": "Changer",
         "it": "Cambiare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Trocar» suele usarse para intercambiar o sustituir; «mudar» se usa mucho para modificar o cambiar de estado, lugar o situación."
+      }
     },
     {
       "id": "va57",
-      "es": "Devolver (un objeto)",
+      "es": "Devolver algo",
       "translations": {
         "en": "To return something / To give back",
         "pt": "Devolver",
-        "fr": "Rendre / Retourner quelque chose",
+        "fr": "Rendre / Retourner un article",
         "it": "Restituire / Rendere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "«Rendre» es devolver a su dueño; «retourner un article» puede usarse para devolver un producto a una tienda."
+      }
     },
     {
       "id": "va58",
@@ -664,25 +781,33 @@
     },
     {
       "id": "va61",
-      "es": "Cobrar (un precio)",
+      "es": "Cobrar",
       "translations": {
         "en": "To charge",
         "pt": "Cobrar",
         "fr": "Faire payer / Facturer",
         "it": "Far pagare / Addebitare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí significa exigir o recibir el pago de un precio; no «cobrar el sueldo».",
+        "it": "«Far pagare» es cobrar un precio; «addebitare» indica cargar un importe a una cuenta o tarjeta."
+      }
     },
     {
       "id": "va62",
-      "es": "Reservar (un servicio o lugar)",
+      "es": "Reservar",
       "translations": {
         "en": "To book / To reserve",
         "pt": "Reservar",
         "fr": "Réserver",
         "it": "Prenotare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Apartar un lugar, servicio o fecha; no «guardar algo para después».",
+        "en": "«To book» es muy habitual para hoteles, viajes o citas; «to reserve» también se usa en reservas formales."
+      }
     },
     {
       "id": "va63",
@@ -704,33 +829,43 @@
         "fr": "Annuler",
         "it": "Annullare / Cancellare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "«Annullare» es cancelar una cita o reserva; «cancellare» también puede significar borrar o eliminar información."
+      }
     },
     {
       "id": "va65",
-      "es": "Funcionar (aparato o servicio)",
+      "es": "Funcionar",
       "translations": {
         "en": "To work / To function",
         "pt": "Funcionar",
         "fr": "Fonctionner",
         "it": "Funzionare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí se refiere a aparatos y servicios, no a «trabajar» como empleo.",
+        "en": "«To work» también significa «trabajar»; en este contexto es «funcionar»."
+      }
     },
     {
       "id": "va66",
-      "es": "Reparar / Arreglar (una avería)",
+      "es": "Reparar / Arreglar",
       "translations": {
         "en": "To repair / To fix",
         "pt": "Consertar / Reparar",
         "fr": "Réparer",
         "it": "Riparare / Aggiustare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Reparar una avería o un objeto dañado, no «arreglarse» personalmente."
+      }
     },
     {
       "id": "va67",
-      "es": "Romper (un objeto)",
+      "es": "Romper algo",
       "translations": {
         "en": "To break something",
         "pt": "Quebrar / Romper",
@@ -752,40 +887,51 @@
     },
     {
       "id": "va69",
-      "es": "Jalar / Tirar de (hacia uno mismo)",
+      "es": "Jalar / Tirar de algo",
       "translations": {
         "en": "To pull",
         "pt": "Puxar",
         "fr": "Tirer",
         "it": "Tirare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "«Tirare» significa «jalar» o «tirar de»; no corresponde a todos los usos de «tirar» en español (por ejemplo, «tirar a la basura»)."
+      }
     },
     {
       "id": "va70",
-      "es": "Encender / Prender (un aparato)",
+      "es": "Encender / Prender",
       "translations": {
         "en": "To turn on / To switch on",
         "pt": "Ligar",
         "fr": "Allumer",
         "it": "Accendere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí significa poner en funcionamiento un aparato.",
+        "pt": "«Ligar» puede significar encender, llamar por teléfono o conectar, según el contexto."
+      }
     },
     {
       "id": "va71",
-      "es": "Apagar (un aparato)",
+      "es": "Apagar",
       "translations": {
         "en": "To turn off / To switch off",
         "pt": "Desligar",
         "fr": "Éteindre",
         "it": "Spegnere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí es apagar un aparato, no borrar un archivo.",
+        "pt": "«Desligar» es apagar o desconectar; «apagar» en portugués suele significar borrar, aunque también se usa para apagar luces o fuego."
+      }
     },
     {
       "id": "va72",
-      "es": "Cargar (la batería)",
+      "es": "Cargar una batería",
       "translations": {
         "en": "To charge a battery",
         "pt": "Carregar a bateria",
@@ -814,11 +960,14 @@
         "fr": "Dire",
         "it": "Dire"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "«To say» enfatiza lo que se dice; «to tell» normalmente introduce a quién se le dice algo («tell me»)."
+      }
     },
     {
       "id": "va75",
-      "es": "Contar / Relatar (una historia)",
+      "es": "Contar / Relatar una historia",
       "translations": {
         "en": "To tell a story / To recount",
         "pt": "Contar uma história / Relatar",
@@ -829,7 +978,7 @@
     },
     {
       "id": "va76",
-      "es": "Contar (números o cantidades)",
+      "es": "Contar números / Cantidades",
       "translations": {
         "en": "To count",
         "pt": "Contar",
@@ -884,69 +1033,89 @@
     },
     {
       "id": "va81",
-      "es": "Oír (percibir un sonido)",
+      "es": "Oír",
       "translations": {
         "en": "To hear",
         "pt": "Ouvir",
         "fr": "Entendre",
         "it": "Sentire"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Percibir un sonido sin necesidad de prestar atención; «escuchar» implica atención intencional.",
+        "fr": "«Entendre» es oír, pero también puede significar entender en ciertos contextos; «écouter» implica escuchar con atención.",
+        "it": "«Sentire» se usa para oír y también para sentir; para escuchar atentamente se utiliza «ascoltare»."
+      }
     },
     {
       "id": "va82",
-      "es": "Escuchar (prestar atención)",
+      "es": "Escuchar",
       "translations": {
         "en": "To listen / To listen to",
         "pt": "Escutar / Ouvir com atenção",
         "fr": "Écouter",
         "it": "Ascoltare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Prestar atención voluntariamente a un sonido, a diferencia de simplemente «oír»."
+      }
     },
     {
       "id": "va83",
-      "es": "Ver (percibir con la vista)",
+      "es": "Ver",
       "translations": {
         "en": "To see",
         "pt": "Ver",
         "fr": "Voir",
         "it": "Vedere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Percibir con la vista; distinto de «mirar» con atención deliberada."
+      }
     },
     {
       "id": "va84",
-      "es": "Mirar (dirigir la vista)",
+      "es": "Mirar",
       "translations": {
         "en": "To look / To look at",
         "pt": "Olhar",
         "fr": "Regarder",
         "it": "Guardare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Dirigir la mirada hacia algo o alguien; distinto de «ver» como percepción."
+      }
     },
     {
       "id": "va85",
-      "es": "Mostrar / Enseñar (para que alguien vea)",
+      "es": "Mostrar / Enseñar algo",
       "translations": {
         "en": "To show",
         "pt": "Mostrar",
         "fr": "Montrer",
         "it": "Mostrare / Far vedere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí «enseñar» significa mostrar para que alguien vea, no impartir una lección."
+      }
     },
     {
       "id": "va86",
-      "es": "Llamar (por teléfono)",
+      "es": "Llamar por teléfono",
       "translations": {
         "en": "To call / To phone",
         "pt": "Ligar / Telefonar",
         "fr": "Appeler / Téléphoner",
         "it": "Chiamare / Telefonare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "En portugués brasileño «ligar» es llamar por teléfono y también encender aparatos."
+      }
     },
     {
       "id": "va87",
@@ -983,14 +1152,19 @@
     },
     {
       "id": "va90",
-      "es": "Creer / Pensar (tener una opinión)",
+      "es": "Creer / Pensar / Opinar",
       "translations": {
         "en": "To think / To believe",
         "pt": "Achar / Pensar / Acreditar",
         "fr": "Penser / Croire",
         "it": "Pensare / Credere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí expresa una opinión o creencia («creo que...»), no pensar en silencio ni confiar en alguien.",
+        "en": "«To think» suele introducir una opinión; «to believe» puede expresar una creencia o convicción más firme.",
+        "pt": "«Achar» es muy frecuente en Brasil para opiniones: «Acho que sim» (creo que sí)."
+      }
     },
     {
       "id": "va91",
@@ -1005,14 +1179,18 @@
     },
     {
       "id": "va92",
-      "es": "Enseñar (ayudar a aprender)",
+      "es": "Enseñar",
       "translations": {
         "en": "To teach",
         "pt": "Ensinar",
         "fr": "Enseigner / Apprendre à quelqu'un",
         "it": "Insegnare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Ayudar a alguien a aprender; diferente de «enseñar» en el sentido de «mostrar».",
+        "fr": "«Apprendre à quelqu’un» también puede significar enseñar algo a alguien, mientras «apprendre» a secas suele significar aprender. «Enseigner» es la opción inequívoca."
+      }
     },
     {
       "id": "va93",
@@ -1027,14 +1205,17 @@
     },
     {
       "id": "va94",
-      "es": "Beber / Tomar (una bebida)",
+      "es": "Beber / Tomar una bebida",
       "translations": {
         "en": "To drink",
-        "pt": "Beber / Tomar uma bebida",
+        "pt": "Beber / Tomar",
         "fr": "Boire",
         "it": "Bere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí «tomar» equivale a beber, no a agarrar o recoger algo."
+      }
     },
     {
       "id": "va95",
@@ -1063,7 +1244,7 @@
       "es": "Despertar a alguien",
       "translations": {
         "en": "To wake someone up",
-        "pt": "Acordar alguém",
+        "pt": "Acordar alguém / Despertar alguém",
         "fr": "Réveiller quelqu'un",
         "it": "Svegliare qualcuno"
       },
@@ -1071,18 +1252,23 @@
     },
     {
       "id": "va98",
-      "es": "Sentir (sensaciones o emociones)",
+      "es": "Sentir",
       "translations": {
         "en": "To feel",
         "pt": "Sentir",
         "fr": "Sentir / Ressentir",
         "it": "Sentire / Provare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí se refiere a emociones o sensaciones físicas; no al sentido italiano de «oír».",
+        "fr": "«Ressentir» suele expresar emociones o sensaciones vividas; «sentir» también puede referirse a olores.",
+        "it": "«Sentire» puede significar sentir, oír o percibir; «provare» es frecuente para experimentar una emoción."
+      }
     },
     {
       "id": "va99",
-      "es": "Cuidar (a una persona)",
+      "es": "Cuidar de alguien",
       "translations": {
         "en": "To take care of / To look after",
         "pt": "Cuidar de",
@@ -1115,7 +1301,7 @@
     },
     {
       "id": "va102",
-      "es": "Avisar / Advertir (de un peligro)",
+      "es": "Avisar / Advertir de un peligro",
       "translations": {
         "en": "To warn / To alert",
         "pt": "Avisar / Alertar",
@@ -1137,14 +1323,18 @@
     },
     {
       "id": "va104",
-      "es": "Robar (quitar algo sin autorización)",
+      "es": "Robar",
       "translations": {
         "en": "To steal",
         "pt": "Roubar / Furtar",
         "fr": "Voler",
         "it": "Rubare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "«To steal» suele llevar como objeto lo robado («steal a wallet»); «to rob» suele llevar como objeto a la persona o lugar («rob a bank»).",
+        "pt": "En portugués de Brasil, «roubar» es la palabra corriente; «furtar» suele ser más técnica o jurídica y alude a sustraer sin violencia o amenaza."
+      }
     },
     {
       "id": "va105",
@@ -1207,7 +1397,7 @@
       "translations": {
         "en": "I need to charge my phone.",
         "pt": "Preciso carregar meu celular.",
-        "fr": "J'ai besoin de recharger mon téléphone.",
+        "fr": "Je dois recharger mon téléphone.",
         "it": "Ho bisogno di caricare il cellulare."
       },
       "image_url": ""
@@ -1241,7 +1431,7 @@
         "en": "We need to leave now.",
         "pt": "Precisamos sair agora.",
         "fr": "Nous devons partir maintenant.",
-        "it": "Dobbiamo uscire adesso."
+        "it": "Dobbiamo andare via adesso."
       },
       "image_url": ""
     },
@@ -1313,14 +1503,20 @@
     },
     {
       "id": "va120",
-      "es": "No tengo que ir hoy. (no es necesario)",
+      "es": "No tengo que ir hoy.",
       "translations": {
         "en": "I don't have to go today. / I don't need to go today.",
         "pt": "Não preciso ir hoje.",
         "fr": "Je ne suis pas obligé d'y aller aujourd'hui. / Je ne suis pas obligée d'y aller aujourd'hui.",
         "it": "Non sono obbligato ad andare oggi. / Non sono obbligata ad andare oggi."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Significa que no es necesario ir; NO expresa prohibición.",
+        "en": "«Don’t have to» = no es necesario. «Must not» = está prohibido.",
+        "fr": "«Ne pas être obligé de» = no estar obligado; «ne pas devoir» puede resultar ambiguo según el contexto.",
+        "it": "«Non essere obbligato a» indica ausencia de obligación, no prohibición."
+      }
     },
     {
       "id": "va121",
@@ -1335,25 +1531,33 @@
     },
     {
       "id": "va122",
-      "es": "No se puede entrar. (no está permitido)",
+      "es": "No se puede entrar.",
       "translations": {
         "en": "You can't enter. / Entry is not allowed.",
         "pt": "Não é permitido entrar.",
         "fr": "Il est interdit d'entrer.",
         "it": "Non è permesso entrare. / È vietato entrare."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí «no se puede» indica prohibición, no incapacidad física.",
+        "en": "«You can’t enter» puede sonar a prohibición o imposibilidad; «Entry is not allowed» deja explícita la prohibición."
+      }
     },
     {
       "id": "va123",
-      "es": "No puedo abrir esta puerta. (no lo consigo)",
+      "es": "No puedo abrir esta puerta.",
       "translations": {
         "en": "I can't open this door.",
         "pt": "Não consigo abrir esta porta.",
         "fr": "Je n'arrive pas à ouvrir cette porte.",
         "it": "Non riesco ad aprire questa porta."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "No lo consigo (por ejemplo, está atascada); no significa «no tengo permiso».",
+        "en": "«I can’t open...» puede indicar incapacidad o falta de permiso; aquí es incapacidad."
+      }
     },
     {
       "id": "va124",
@@ -1467,14 +1671,17 @@
     },
     {
       "id": "va134",
-      "es": "No funciona. (un aparato)",
+      "es": "No funciona.",
       "translations": {
         "en": "It doesn't work. / It's not working.",
         "pt": "Não funciona. / Não está funcionando.",
         "fr": "Ça ne fonctionne pas. / Ça ne marche pas.",
         "it": "Non funziona."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se refiere a un aparato o servicio, no al desempeño de una persona."
+      }
     },
     {
       "id": "va135",
@@ -1722,12 +1929,15 @@
       "id": "va157",
       "es": "¿Debo esperar aquí?",
       "translations": {
-        "en": "Should I wait here?",
+        "en": "Should I wait here? / Do I have to wait here?",
         "pt": "Devo esperar aqui?",
         "fr": "Je dois attendre ici ?",
         "it": "Devo aspettare qui?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "«Should I…?» pide consejo o confirmación; «Do I have to…?» pregunta si existe obligación."
+      }
     },
     {
       "id": "va158",
@@ -1797,7 +2007,7 @@
     },
     {
       "id": "va164",
-      "es": "¡Socorro! / ¡Auxilio! (emergencia)",
+      "es": "¡Socorro! / ¡Auxilio!",
       "translations": {
         "en": "Help!",
         "pt": "Socorro!",
@@ -1819,14 +2029,17 @@
     },
     {
       "id": "va166",
-      "es": "¡Cuidado! / ¡Atención! (advertencia de peligro)",
+      "es": "¡Cuidado! / ¡Atención!",
       "translations": {
         "en": "Watch out! / Look out!",
         "pt": "Cuidado! / Atenção!",
         "fr": "Attention ! / Fais attention !",
         "it": "Attenzione! / Attento! / Attenta!"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Advertencia inmediata ante un peligro, no un saludo ni una petición genérica de atención."
+      }
     },
     {
       "id": "va167",
@@ -2017,14 +2230,18 @@
     },
     {
       "id": "va184",
-      "es": "Mi hijo/a está desaparecido/a. (no lo encuentro)",
+      "es": "Mi hijo/a está desaparecido/a.",
       "translations": {
         "en": "My child is missing.",
         "pt": "Meu filho está desaparecido. / Minha filha está desaparecida.",
         "fr": "Mon enfant a disparu.",
         "it": "Mio figlio è scomparso. / Mia figlia è scomparsa."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa cuando no sabes dónde está tu hijo/a y necesitas ayuda para localizarlo; es una situación urgente.",
+        "en": "«Missing» indica paradero desconocido; no implica necesariamente que se haya confirmado un delito."
+      }
     },
     {
       "id": "va185",
@@ -2090,7 +2307,10 @@
         "fr": "Je suis un étage au-dessus du rez-de-chaussée.",
         "it": "Sono un piano sopra il piano terra."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "En inglés estadounidense la planta baja suele llamarse «first floor» y el piso de arriba «second floor»; en inglés británico se usa «ground floor» y luego «first floor». La frase principal evita esa ambigüedad."
+      }
     },
     {
       "id": "va191",
@@ -2230,7 +2450,7 @@
       "translations": {
         "en": "I understand. I'll do it.",
         "pt": "Entendi. Vou fazer isso.",
-        "fr": "Je comprends. Je vais le faire.",
+        "fr": "J'ai compris. Je vais le faire.",
         "it": "Ho capito. Lo farò."
       },
       "image_url": ""

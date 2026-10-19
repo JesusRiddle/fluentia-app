@@ -222,10 +222,6 @@ export default function PracticeMode({
                         </span>
                     </h2>
 
-                    <p className="hero-sub">
-                        Pregunta {totalCards ? currentIndex + 1 : 0} / {totalCards}
-                    </p>
-
                     <p className="hint">
                         Aciertos: {score}
                     </p>
@@ -239,90 +235,105 @@ export default function PracticeMode({
                 </p>
             ) : (
                 <>
-                    {/* Reproductor y respuesta revelada */}
+                    {/* Reproductor compacto y respuesta revelada */}
                     <div
-                        className="card"
+                        className="card practice-audio-card"
                         style={{
-                            padding: '25px',
-                            textAlign: 'center',
-                            marginBottom: '20px',
+                            height: 'auto',
+                            minHeight: 0,
+                            padding: '14px 12px',
+                            marginBottom: '12px',
                             display: 'flex',
                             flexDirection: 'column',
                             alignItems: 'center',
-                            gap: '10px'
+                            justifyContent: 'flex-start',
+                            gap: '6px',
+                            textAlign: 'center'
                         }}
                     >
                         <button
                             type="button"
-                            className="primary-btn"
                             onClick={() => playAudio()}
                             aria-label="Repetir pronunciación"
+                            title="Repetir pronunciación"
                             style={{
-                                width: '65px',
-                                height: '65px',
+                                width: '52px',
+                                height: '52px',
+                                minWidth: '52px',
+                                minHeight: '52px',
+                                flex: '0 0 52px',
+                                padding: 0,
+                                border: 0,
                                 borderRadius: '50%',
+                                background: 'var(--primary)',
+                                color: '#fff',
                                 display: 'flex',
                                 alignItems: 'center',
                                 justifyContent: 'center',
-                                fontSize: '1.6rem',
-                                padding: 0,
-                                boxShadow: 'var(--shadow-md)'
+                                fontSize: '1.45rem',
+                                lineHeight: 1,
+                                cursor: 'pointer'
                             }}
                         >
-                            🔊
+                            <span aria-hidden="true">🔊</span>
                         </button>
 
-                        <p className="hint" style={{ margin: 0 }}>
+                        <p className="hint" style={{ margin: 0, lineHeight: 1.3 }}>
                             Presiona para repetir el audio
                         </p>
 
-                        <div
-                            style={{
-                                fontSize: '1.3rem',
-                                fontWeight: 800,
-                                color: 'var(--primary)',
-                                marginTop: '8px',
-                                minHeight: '30px',
-                                display: hasAnswered ? 'block' : 'none'
-                            }}
-                        >
-                            {currentCorrectCard?.es} ={' '}
-                            {currentCorrectCard?.translations?.[targetLang]}
-                        </div>
-
                         {hasAnswered && (
-                            <div className="practice-answer-notes">
-                                {currentCorrectCard?.notes?.es && (
-                                    <p className="practice-answer-note">
-                                        {currentCorrectCard.notes.es}
-                                    </p>
-                                )}
-
-                                {currentCorrectCard?.notes?.[targetLang] && (
-                                    <p className="practice-answer-note">
-                                        {currentCorrectCard.notes[targetLang]}
-                                    </p>
-                                )}
+                            <div
+                                style={{
+                                    width: '100%',
+                                    fontSize:
+                                        (
+                                            (currentCorrectCard?.es?.length ?? 0) +
+                                            (currentCorrectCard?.translations?.[targetLang]?.length ?? 0)
+                                        ) > 90
+                                            ? 'clamp(0.9rem, 3.2vw, 1rem)'
+                                            : 'clamp(1rem, 3.8vw, 1.2rem)',
+                                    fontWeight: 800,
+                                    lineHeight: 1.3,
+                                    color: 'var(--primary)',
+                                    margin: '2px 0 0',
+                                    minHeight: 0,
+                                    overflowWrap: 'anywhere'
+                                }}
+                            >
+                                {currentCorrectCard?.es} ={' '}
+                                {currentCorrectCard?.translations?.[targetLang]}
                             </div>
                         )}
 
+                        {hasAnswered &&
+                            (currentCorrectCard?.notes?.es || currentCorrectCard?.notes?.[targetLang]) && (
+                                <div
+                                    className="practice-answer-notes"
+                                    style={{ marginTop: 0, gap: '4px' }}
+                                >
+                                    {currentCorrectCard?.notes?.es && (
+                                        <p className="practice-answer-note">
+                                            {currentCorrectCard.notes.es}
+                                        </p>
+                                    )}
+                                    {currentCorrectCard?.notes?.[targetLang] && (
+                                        <p className="practice-answer-note">
+                                            {currentCorrectCard.notes[targetLang]}
+                                        </p>
+                                    )}
+                                </div>
+                            )}
 
-                        {/* Control de velocidad */}
+                        {/* Velocidad: sin espacios o alturas artificiales */}
                         <div
                             style={{
                                 textAlign: 'center',
-                                marginTop: '15px',
-                                width: '100%'
+                                width: '100%',
+                                marginTop: '12px'
                             }}
                         >
-                            <p style={{
-                                fontSize: '0.8rem',
-                                color: 'var(--muted)',
-                                fontWeight: 700,
-                                marginBottom: '8px'
-                            }}>
-                                Velocidad de reproducción
-                            </p>
+
 
                             <div style={{
                                 display: 'flex',
@@ -333,8 +344,7 @@ export default function PracticeMode({
                                     <button
                                         key={speed}
                                         type="button"
-                                        className={`pill-btn speed-btn ${speechRate === speed ? 'active' : ''
-                                            }`}
+                                        className={`pill-btn speed-btn ${speechRate === speed ? 'active' : ''}`}
                                         aria-pressed={speechRate === speed}
                                         onClick={() => setSpeechRate(speed)}
                                     >
@@ -342,6 +352,15 @@ export default function PracticeMode({
                                     </button>
                                 ))}
                             </div>
+                            <p style={{
+                                fontSize: '0.8rem',
+                                color: 'var(--muted)',
+                                fontWeight: 700,
+                                margin: '5px 0 1px',
+                                lineHeight: 1.3
+                            }}>
+                                Velocidad de reproducción
+                            </p>
                         </div>
                     </div>
 
