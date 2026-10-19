@@ -15,12 +15,16 @@
     },
     {
       "id": "fa2",
-      "es": "Pariente / Familiar (persona)",
+      "es": "Pariente / Familiar",
       "translations": {
         "en": "Relative / Family member",
         "pt": "Parente / Familiar",
         "fr": "Membre de la famille",
         "it": "Parente / Familiare"
+      },
+      "notes": {
+        "es": "Persona de la familia; «familiar» aquí es sustantivo, no adjetivo.",
+        "en": "En inglés, familiar suele significar «conocido», no «pariente»."
       },
       "image_url": ""
     },
@@ -59,23 +63,30 @@
     },
     {
       "id": "fa6",
-      "es": "Papá / Mamá (trato familiar)",
+      "es": "Papá / Mamá",
       "translations": {
         "en": "Dad / Mom / Daddy / Mommy",
         "pt": "Papai / Mamãe",
         "fr": "Papa / Maman",
         "it": "Papà / Mamma"
       },
+      "notes": {
+        "es": "Formas familiares o cariñosas de decir «padre» y «madre».",
+        "en": "Daddy / Mommy son formas más infantiles o afectuosas que Dad / Mom."
+      },
       "image_url": ""
     },
     {
       "id": "fa7",
-      "es": "Padres (madre y padre, o quienes cumplen esos roles)",
+      "es": "Padres",
       "translations": {
         "en": "Parents",
         "pt": "Pais",
         "fr": "Parents",
         "it": "Genitori"
+      },
+      "notes": {
+        "es": "Se refiere a quienes ejercen el papel de padre o madre, sin exigir que sean progenitores biológicos."
       },
       "image_url": ""
     },
@@ -92,12 +103,15 @@
     },
     {
       "id": "fa9",
-      "es": "Hermanos/as (como grupo; ambos sexos)",
+      "es": "Hermanos/as",
       "translations": {
         "en": "Siblings / Brothers and sisters",
         "pt": "Irmãos e irmãs",
         "fr": "Frères et sœurs",
         "it": "Fratelli e sorelle"
+      },
+      "notes": {
+        "es": "Grupo de hermanos y hermanas, sin limitarse a un solo género."
       },
       "image_url": ""
     },
@@ -114,12 +128,17 @@
     },
     {
       "id": "fa11",
-      "es": "Hijos/as (descendientes, como grupo)",
+      "es": "Hijos/as",
       "translations": {
         "en": "Children / Kids",
         "pt": "Filhos / Filhas",
         "fr": "Enfants",
         "it": "Figli / Figlie"
+      },
+      "notes": {
+        "es": "Se refiere a los hijos de una persona, aunque ya sean adultos.",
+        "en": "Children puede significar «hijos» de cualquier edad; kids es más informal.",
+        "fr": "Enfants puede significar «hijos» o «niños», según el contexto."
       },
       "image_url": ""
     },
@@ -131,6 +150,11 @@
         "pt": "Avô / Avó / Vovô / Vovó",
         "fr": "Grand-père / Grand-mère / Papy / Mamie",
         "it": "Nonno / Nonna"
+      },
+      "notes": {
+        "en": "Grandpa / Grandma son formas familiares; Grandfather / Grandmother son neutras.",
+        "pt": "Vovô / Vovó son formas cariñosas; avô / avó son más neutras.",
+        "fr": "Papy / Mamie son formas familiares; grand-père / grand-mère son neutras."
       },
       "image_url": ""
     },
@@ -147,23 +171,31 @@
     },
     {
       "id": "fa14",
-      "es": "Nieto/a (hijo/a de un hijo o una hija)",
+      "es": "Nieto/a",
       "translations": {
         "en": "Grandson / Granddaughter",
         "pt": "Neto / Neta",
         "fr": "Petit-fils / Petite-fille",
-        "it": "Nipote, figlio o figlia di un figlio o di una figlia."
+        "it": "Nipote"
+      },
+      "notes": {
+        "es": "Hijo o hija de uno de tus hijos.",
+        "it": "Nipote también significa «sobrino/a»; el parentesco se aclara por contexto."
       },
       "image_url": ""
     },
     {
       "id": "fa15",
-      "es": "Nietos/as (descendientes, como grupo)",
+      "es": "Nietos/as",
       "translations": {
         "en": "Grandchildren / Grandkids",
         "pt": "Netos / Netas",
         "fr": "Petits-enfants",
-        "it": "Nipoti, figli dei propri figli."
+        "it": "Nipoti"
+      },
+      "notes": {
+        "es": "Hijos e hijas de tus hijos, en conjunto.",
+        "it": "Nipoti puede referirse tanto a «nietos» como a «sobrinos»."
       },
       "image_url": ""
     },
@@ -191,12 +223,16 @@
     },
     {
       "id": "fa18",
-      "es": "Sobrino/a (hijo/a de un hermano o una hermana)",
+      "es": "Sobrino/a",
       "translations": {
         "en": "Nephew / Niece",
         "pt": "Sobrinho / Sobrinha",
         "fr": "Neveu / Nièce",
-        "it": "Nipote, figlio o figlia di un fratello o di una sorella."
+        "it": "Nipote"
+      },
+      "notes": {
+        "es": "Hijo o hija de un hermano o una hermana.",
+        "it": "Nipote también significa «nieto/a»; es el parentesco el que lo distingue."
       },
       "image_url": ""
     },
@@ -218,29 +254,39 @@
         "en": "Great-grandson / Great-granddaughter",
         "pt": "Bisneto / Bisneta",
         "fr": "Arrière-petit-fils / Arrière-petite-fille",
-        "it": "Pronipote, rispetto a un bisnonno o a una bisnonna."
+        "it": "Pronipote"
+      },
+      "notes": {
+        "it": "Pronipote también puede designar un sobrino nieto; aquí significa bisnieto/a."
       },
       "image_url": ""
     },
     {
       "id": "fa21",
-      "es": "Tío/a abuelo/a (hermano/a de un abuelo/a)",
+      "es": "Tío/a abuelo/a",
       "translations": {
         "en": "Great-uncle / Great-aunt",
         "pt": "Tio-avô / Tia-avó",
         "fr": "Grand-oncle / Grand-tante",
         "it": "Prozio / Prozia"
       },
+      "notes": {
+        "es": "Hermano o hermana de uno de tus abuelos."
+      },
       "image_url": ""
     },
     {
       "id": "fa22",
-      "es": "Sobrino/a nieto/a (hijo/a de un sobrino/a)",
+      "es": "Sobrino/a nieto/a",
       "translations": {
         "en": "Great-nephew / Great-niece",
         "pt": "Sobrinho-neto / Sobrinha-neta",
         "fr": "Petit-neveu / Petite-nièce",
-        "it": "Pronipote: per esempio, il figlio del figlio di mia sorella."
+        "it": "Pronipote"
+      },
+      "notes": {
+        "es": "Hijo o hija de un sobrino o una sobrina.",
+        "it": "Pronipote también puede significar bisnieto/a; aquí es hijo/a de un sobrino/a."
       },
       "image_url": ""
     },
@@ -282,7 +328,7 @@
       "es": "Mellizo/a (gemelo no idéntico)",
       "translations": {
         "en": "Fraternal twin / Non-identical twin",
-        "pt": "Gêmeo fraterno / Gêmea fraterna",
+        "pt": "Gêmeo não idêntico / Gêmea não idêntica",
         "fr": "Faux jumeau / Fausse jumelle",
         "it": "Gemello non identico / Gemella non identica"
       },
@@ -290,78 +336,106 @@
     },
     {
       "id": "fa27",
-      "es": "Esposo/a / Marido / Mujer (pareja casada)",
+      "es": "Esposo/a / Marido / Mujer",
       "translations": {
         "en": "Husband / Wife",
         "pt": "Marido / Esposo / Esposa / Mulher",
         "fr": "Mari / Femme / Époux / Épouse",
         "it": "Marito / Moglie"
       },
+      "notes": {
+        "es": "«Mujer» se usa aquí como sinónimo de esposa, no como «persona de sexo femenino».",
+        "pt": "Mulher también significa «mujer» en general; aquí se usa como «esposa».",
+        "fr": "Femme también significa «mujer»; «ma femme» equivale a «mi esposa»."
+      },
       "image_url": ""
     },
     {
       "id": "fa28",
-      "es": "Cónyuge (persona con quien se está casado/a)",
+      "es": "Cónyuge",
       "translations": {
         "en": "Spouse",
         "pt": "Cônjuge",
         "fr": "Conjoint / Conjointe",
         "it": "Coniuge"
       },
+      "notes": {
+        "es": "Forma formal o jurídica de referirse a esposo o esposa."
+      },
       "image_url": ""
     },
     {
       "id": "fa29",
-      "es": "Pareja (la persona con quien tienes una relación sentimental)",
+      "es": "Pareja",
       "translations": {
         "en": "Partner / Romantic partner",
         "pt": "Companheiro / Companheira / Parceiro / Parceira",
         "fr": "Compagnon / Compagne / Partenaire",
         "it": "Compagno / Compagna / Partner"
       },
+      "notes": {
+        "es": "Una persona con quien se mantiene una relación sentimental; no necesariamente hay matrimonio.",
+        "it": "Compagno/a también puede significar «compañero/a» en otros contextos; aquí es pareja sentimental."
+      },
       "image_url": ""
     },
     {
       "id": "fa30",
-      "es": "Pareja (las dos personas, como conjunto)",
+      "es": "Pareja (dos personas)",
       "translations": {
         "en": "Couple",
         "pt": "Casal",
         "fr": "Couple",
         "it": "Coppia"
       },
+      "notes": {
+        "es": "Las dos personas consideradas como unidad; distinto de «mi pareja» (una persona)."
+      },
       "image_url": ""
     },
     {
       "id": "fa31",
-      "es": "Novio/a (relación de pareja; sin implicar compromiso de boda)",
+      "es": "Novio/a",
       "translations": {
         "en": "Boyfriend / Girlfriend",
         "pt": "Namorado / Namorada",
         "fr": "Petit ami / Petite amie / Copain / Copine",
         "it": "Fidanzato / Fidanzata / Ragazzo / Ragazza"
       },
+      "notes": {
+        "es": "Relación sentimental sin implicar una promesa de matrimonio.",
+        "fr": "Copain / copine también significa «amigo/a»; petit ami / petite amie deja más clara la relación sentimental.",
+        "it": "Fidanzato/a puede significar «novio/a» o «prometido/a», según el contexto."
+      },
       "image_url": ""
     },
     {
       "id": "fa32",
-      "es": "Prometido/a (compromiso de casarse)",
+      "es": "Prometido/a",
       "translations": {
         "en": "Fiancé / Fiancée",
         "pt": "Noivo / Noiva",
         "fr": "Fiancé / Fiancée",
         "it": "Promesso sposo / Promessa sposa"
       },
+      "notes": {
+        "es": "Persona con la que se ha acordado casarse.",
+        "it": "Fidanzato/a también puede usarse para «prometido/a», pero no siempre implica boda; promesso sposo/a es más explícito."
+      },
       "image_url": ""
     },
     {
       "id": "fa33",
-      "es": "Novio/a (el día de la boda)",
+      "es": "Novio/a (en la boda)",
       "translations": {
         "en": "Groom / Bride",
-        "pt": "Noivo / Noiva, no dia do casamento.",
+        "pt": "Noivo / Noiva",
         "fr": "Le marié / La mariée",
         "it": "Sposo / Sposa"
+      },
+      "notes": {
+        "es": "Persona que se casa en la ceremonia; distinto de «novio/a» como pareja sentimental.",
+        "pt": "Noivo / noiva sirve también para «prometido/a»; aquí se refiere a quien se casa."
       },
       "image_url": ""
     },
@@ -378,100 +452,136 @@
     },
     {
       "id": "fa35",
-      "es": "Suegro/a (padre o madre de tu cónyuge)",
+      "es": "Suegro/a",
       "translations": {
         "en": "Father-in-law / Mother-in-law",
         "pt": "Sogro / Sogra",
-        "fr": "Beau-père / Belle-mère, les parents du conjoint ou de la conjointe.",
+        "fr": "Beau-père / Belle-mère",
         "it": "Suocero / Suocera"
+      },
+      "notes": {
+        "es": "Padre o madre de la persona con la que estás casado/a.",
+        "fr": "Beau-père / belle-mère también pueden significar «padrastro / madrastra»."
       },
       "image_url": ""
     },
     {
       "id": "fa36",
-      "es": "Suegros (como grupo)",
+      "es": "Suegros",
       "translations": {
         "en": "Parents-in-law / In-laws",
         "pt": "Sogros",
-        "fr": "Beaux-parents, les parents du conjoint ou de la conjointe.",
+        "fr": "Beaux-parents",
         "it": "Suoceri"
+      },
+      "notes": {
+        "es": "Padres de tu cónyuge, considerados como grupo.",
+        "fr": "Beaux-parents puede referirse a los suegros o a los padrastros según el contexto."
       },
       "image_url": ""
     },
     {
       "id": "fa37",
-      "es": "Cuñado/a (hermano/a de tu cónyuge o cónyuge de tu hermano/a)",
+      "es": "Cuñado/a",
       "translations": {
         "en": "Brother-in-law / Sister-in-law",
         "pt": "Cunhado / Cunhada",
         "fr": "Beau-frère / Belle-sœur",
         "it": "Cognato / Cognata"
       },
+      "notes": {
+        "es": "Hermano/a de tu cónyuge o cónyuge de tu hermano/a."
+      },
       "image_url": ""
     },
     {
       "id": "fa38",
-      "es": "Yerno / Nuera (cónyuge de un hijo/a)",
+      "es": "Yerno / Nuera",
       "translations": {
         "en": "Son-in-law / Daughter-in-law",
         "pt": "Genro / Nora",
-        "fr": "Gendre / Belle-fille, le conjoint ou la conjointe d'un enfant.",
+        "fr": "Gendre / Belle-fille",
         "it": "Genero / Nuora"
+      },
+      "notes": {
+        "es": "Cónyuge de tu hijo o hija.",
+        "fr": "Belle-fille también significa «hijastra»; aquí se usa como «nuera»."
       },
       "image_url": ""
     },
     {
       "id": "fa39",
-      "es": "Familia política (familia del cónyuge)",
+      "es": "Familia política",
       "translations": {
         "en": "My spouse's family / My in-laws",
         "pt": "Família do cônjuge",
         "fr": "Belle-famille",
         "it": "Famiglia del coniuge"
       },
+      "notes": {
+        "es": "Parientes adquiridos por matrimonio; no significa que exista parentesco biológico."
+      },
       "image_url": ""
     },
     {
       "id": "fa40",
-      "es": "Padrastro / Madrastra (pareja de uno de tus padres)",
+      "es": "Padrastro / Madrastra",
       "translations": {
         "en": "Stepfather / Stepmother",
         "pt": "Padrasto / Madrasta",
-        "fr": "Beau-père / Belle-mère, dans une famille recomposée.",
+        "fr": "Beau-père / Belle-mère",
         "it": "Patrigno / Matrigna"
+      },
+      "notes": {
+        "es": "Nueva pareja de uno de tus padres, sin ser necesariamente tu progenitor biológico.",
+        "fr": "Beau-père / belle-mère también significan «suegro / suegra»; aquí son padrastro / madrastra."
       },
       "image_url": ""
     },
     {
       "id": "fa41",
-      "es": "Hijastro/a (hijo/a de tu pareja, de una relación anterior)",
+      "es": "Hijastro/a",
       "translations": {
         "en": "Stepson / Stepdaughter",
         "pt": "Enteado / Enteada",
-        "fr": "Beau-fils / Belle-fille, dans une famille recomposée.",
+        "fr": "Beau-fils / Belle-fille",
         "it": "Figliastro / Figliastra"
+      },
+      "notes": {
+        "es": "Hijo o hija que tu pareja tuvo en una relación anterior.",
+        "fr": "Beau-fils / belle-fille también pueden significar «yerno / nuera»."
       },
       "image_url": ""
     },
     {
       "id": "fa42",
-      "es": "Medio hermano/a (se comparte un solo progenitor)",
+      "es": "Medio hermano/a",
       "translations": {
         "en": "Half-brother / Half-sister",
         "pt": "Meio-irmão / Meia-irmã",
         "fr": "Demi-frère / Demi-sœur",
-        "it": "Fratellastro / Sorellastra, con un solo genitore in comune."
+        "it": "Fratellastro / Sorellastra"
+      },
+      "notes": {
+        "es": "Hermano/a con quien compartes un solo progenitor biológico.",
+        "it": "Fratellastro / sorellastra suele usarse para medio hermano/a; también puede ser ambiguo con hermanastro/a."
       },
       "image_url": ""
     },
     {
       "id": "fa43",
-      "es": "Hermanastro/a (hijo/a del padrastro o madrastra, sin progenitores en común)",
+      "es": "Hermanastro/a",
       "translations": {
         "en": "Stepbrother / Stepsister",
-        "pt": "Filho ou filha do meu padrasto ou da minha madrasta, sem pai ou mãe em comum.",
-        "fr": "Fils ou fille de mon beau-père ou de ma belle-mère, sans parent en commun.",
-        "it": "Figlio o figlia del mio patrigno o della mia matrigna, senza genitori in comune."
+        "pt": "Filho / Filha do padrasto ou da madrasta",
+        "fr": "Fils / Fille du beau-père ou de la belle-mère",
+        "it": "Figlio / Figlia del patrigno o della matrigna"
+      },
+      "notes": {
+        "es": "Hijo/a del padrastro o de la madrastra, sin padres biológicos en común.",
+        "pt": "Meio-irmão / meia-irmã indica que comparten un progenitor; no equivale necesariamente a hermanastro/a.",
+        "fr": "Demi-frère / demi-sœur indica que comparten un progenitor; para hermanastro/a sin parentesco biológico suele explicarse la relación.",
+        "it": "Fratellastro / sorellastra puede usarse también para medio hermano/a; conviene aclarar que aquí no comparten progenitores."
       },
       "image_url": ""
     },
@@ -510,34 +620,45 @@
     },
     {
       "id": "fa47",
-      "es": "Familia reconstituida (pareja con hijos de relaciones anteriores)",
+      "es": "Familia reconstituida",
       "translations": {
         "en": "Blended family / Stepfamily",
         "pt": "Família reconstituída",
         "fr": "Famille recomposée",
-        "it": "Famiglia ricostituita / Famiglia allargata"
+        "it": "Famiglia ricostituita"
+      },
+      "notes": {
+        "es": "Familia formada, por ejemplo, por una pareja en la que uno o ambos ya tienen hijos de otras relaciones.",
+        "it": "Famiglia allargata tiene un sentido más amplio; famiglia ricostituita es más preciso para esta situación."
       },
       "image_url": ""
     },
     {
       "id": "fa48",
-      "es": "Familia monoparental (un solo padre o madre a cargo)",
+      "es": "Familia monoparental",
       "translations": {
         "en": "Single-parent family",
         "pt": "Família monoparental",
         "fr": "Famille monoparentale",
         "it": "Famiglia monogenitoriale"
       },
+      "notes": {
+        "es": "Unidad familiar en la que solo un progenitor está a cargo de los hijos."
+      },
       "image_url": ""
     },
     {
       "id": "fa49",
-      "es": "Familia homoparental (con dos madres o dos padres)",
+      "es": "Familia homoparental",
       "translations": {
-        "en": "Family with two mothers or two fathers",
+        "en": "Family with same-sex parents",
         "pt": "Família homoparental",
         "fr": "Famille homoparentale",
         "it": "Famiglia omogenitoriale"
+      },
+      "notes": {
+        "es": "Familia en la que los hijos tienen dos madres o dos padres.",
+        "en": "Family with same-sex parents es una descripción habitual; no se limita a padres biológicos."
       },
       "image_url": ""
     },
@@ -550,38 +671,50 @@
         "fr": "Père qui élève seul ses enfants / Mère qui élève seule ses enfants",
         "it": "Padre che cresce i figli da solo / Madre che cresce i figli da sola"
       },
+      "notes": {
+        "es": "Padre o madre que cría sin pareja; no implica que el otro progenitor haya fallecido."
+      },
       "image_url": ""
     },
     {
       "id": "fa51",
-      "es": "Familia de acogida (distinta de la familia adoptiva)",
+      "es": "Familia de acogida",
       "translations": {
         "en": "Foster family",
         "pt": "Família acolhedora",
         "fr": "Famille d'accueil",
         "it": "Famiglia affidataria"
       },
+      "notes": {
+        "es": "Acogimiento de un menor; no es lo mismo que adopción, que establece otro vínculo legal."
+      },
       "image_url": ""
     },
     {
       "id": "fa52",
-      "es": "Tutor/a legal (persona responsable de un menor)",
+      "es": "Tutor/a legal",
       "translations": {
         "en": "Legal guardian",
         "pt": "Tutor legal / Tutora legal",
         "fr": "Tuteur légal / Tutrice légale",
         "it": "Tutore legale / Tutrice legale"
       },
+      "notes": {
+        "es": "Persona autorizada legalmente para representar o proteger a un menor."
+      },
       "image_url": ""
     },
     {
       "id": "fa53",
-      "es": "Padrino / Madrina (de un niño/a)",
+      "es": "Padrino / Madrina",
       "translations": {
         "en": "Godfather / Godmother",
         "pt": "Padrinho / Madrinha",
         "fr": "Parrain / Marraine",
         "it": "Padrino / Madrina"
+      },
+      "notes": {
+        "es": "Persona que apadrina a un niño/a, por ejemplo en un bautizo; no es aquí «padrino de boda»."
       },
       "image_url": ""
     },
@@ -631,12 +764,15 @@
     },
     {
       "id": "fa58",
-      "es": "Conocido/a (persona que conoces, sin ser necesariamente amigo/a)",
+      "es": "Conocido/a",
       "translations": {
         "en": "Acquaintance",
         "pt": "Conhecido / Conhecida",
         "fr": "Connaissance",
         "it": "Conoscente"
+      },
+      "notes": {
+        "es": "Persona a la que conoces, pero que no necesariamente consideras amiga."
       },
       "image_url": ""
     },
@@ -648,6 +784,9 @@
         "pt": "Vizinho / Vizinha",
         "fr": "Voisin / Voisine",
         "it": "Vicino / Vicina"
+      },
+      "notes": {
+        "it": "Vicino / vicina también puede significar «cercano/a» como adjetivo; aquí es una persona vecina."
       },
       "image_url": ""
     },
@@ -664,12 +803,16 @@
     },
     {
       "id": "fa61",
-      "es": "Compañero/a de piso o de vivienda",
+      "es": "Compañero/a de vivienda",
       "translations": {
         "en": "Roommate / Housemate",
         "pt": "Colega de apartamento / Colega de casa",
         "fr": "Colocataire",
         "it": "Coinquilino / Coinquilina"
+      },
+      "notes": {
+        "es": "Persona con la que compartes vivienda, aunque no necesariamente la misma habitación.",
+        "en": "En EE. UU., roommate también se usa para compartir vivienda sin compartir cuarto; housemate suele compartir casa."
       },
       "image_url": ""
     },
@@ -708,12 +851,18 @@
     },
     {
       "id": "fa65",
-      "es": "Boda (celebración) / Matrimonio (vínculo)",
+      "es": "Boda / Matrimonio",
       "translations": {
         "en": "Wedding / Marriage",
-        "pt": "Casamento: a cerimônia ou a união.",
-        "fr": "Mariage : la cérémonie ou l'union.",
-        "it": "Matrimonio: la cerimonia o l'unione."
+        "pt": "Casamento",
+        "fr": "Mariage",
+        "it": "Matrimonio"
+      },
+      "notes": {
+        "es": "Boda = ceremonia o celebración; matrimonio = unión o vínculo de casados.",
+        "pt": "Casamento se usa tanto para la boda como para el vínculo matrimonial.",
+        "fr": "Mariage puede referirse a la ceremonia o al vínculo matrimonial.",
+        "it": "Matrimonio se refiere tanto a la boda como al vínculo matrimonial."
       },
       "image_url": ""
     },
@@ -741,12 +890,16 @@
     },
     {
       "id": "fa68",
-      "es": "Separarse (de la pareja)",
+      "es": "Separarse",
       "translations": {
         "en": "To separate / To split up",
         "pt": "Separar-se",
         "fr": "Se séparer",
         "it": "Separarsi"
+      },
+      "notes": {
+        "es": "La separación no implica necesariamente un divorcio legal.",
+        "en": "To split up suele referirse al fin de una relación; to separate es habitual al hablar de un matrimonio."
       },
       "image_url": ""
     },
@@ -1093,23 +1246,30 @@
     },
     {
       "id": "fa100",
-      "es": "Soy soltero/a (estado civil: nunca me he casado).",
+      "es": "Soy soltero/a.",
       "translations": {
         "en": "I'm single and have never been married.",
         "pt": "Sou solteiro e nunca me casei. / Sou solteira e nunca me casei.",
         "fr": "Je suis célibataire et je ne me suis jamais marié. / Je suis célibataire et je ne me suis jamais mariée.",
-        "it": "Sono celibe e non mi sono mai sposato. / Sono nubile e non mi sono mai sposata."
+        "it": "Sono celibe. / Sono nubile."
+      },
+      "notes": {
+        "es": "Aquí «soltero/a» se entiende como estado civil de quien nunca se ha casado, no solo de quien está sin pareja."
       },
       "image_url": ""
     },
     {
       "id": "fa101",
-      "es": "No tengo pareja. / Estoy soltero/a (sin pareja).",
+      "es": "No tengo pareja. / Estoy soltero/a.",
       "translations": {
         "en": "I'm single. / I'm not in a relationship.",
         "pt": "Estou sem namorado ou namorada. / Não estou em um relacionamento.",
         "fr": "Je suis célibataire. / Je ne suis pas en couple.",
         "it": "Sono single. / Non ho una relazione sentimentale."
+      },
+      "notes": {
+        "es": "No tener pareja no define por sí solo el estado civil: también puede ocurrir tras un divorcio.",
+        "fr": "Célibataire se usa tanto para «sin pareja» como para el estado civil, según el contexto."
       },
       "image_url": ""
     },
@@ -1126,12 +1286,15 @@
     },
     {
       "id": "fa103",
-      "es": "Estoy separado/a (sin afirmar que haya divorcio).",
+      "es": "Estoy separado/a.",
       "translations": {
         "en": "I'm separated.",
         "pt": "Sou separado. / Sou separada.",
         "fr": "Je suis séparé. / Je suis séparée.",
         "it": "Sono separato. / Sono separata."
+      },
+      "notes": {
+        "es": "«Separado/a» no afirma que haya un divorcio legal."
       },
       "image_url": ""
     },
