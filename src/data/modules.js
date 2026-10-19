@@ -872,6 +872,28 @@ export const MODULES = [
         file: "b2_medio_ambiente_ciencia_y_responsabilidad.json",
         available: false,
     },
+    {
+        id: "b2_jerga_lgbtq_y_encuentros",
+        title: "Cultura lgbtq, ligue y encuentros",
+        description: "Jerga LGBTQ+, perfiles, roles, cuerpos, apps de citas, encuentros casuales, seguridad, consentimiento y expresiones íntimas coloquiales.",
+        level: "B2",
+        category: "personas",
+        icon: "🏳️‍🌈",
+        file: "b2_jerga_lgbtq_y_encuentros.json",
+        available: true,
+    },
+    {
+        id: "b2_lenguaje_fuerte",
+        title: "Expresiones coloquiales y lenguaje fuerte",
+        description: "Groserías, insultos, exclamaciones, sarcasmo, expresiones vulgares, confrontaciones, respuestas, límites y alternativas educadas.",
+        level: "B2",
+        category: "personas",
+        icon: "🗯️",
+        file: "b2_lenguaje_fuerte.json",
+        available: true,
+    },
+
+
 ];
 
 export default MODULES;

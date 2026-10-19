@@ -971,3 +971,138 @@ body {
 @media (max-width: 480px) {
     .review-toolbar { font-size: 0.76rem; gap: 6px; }
 }
+
+
+/* FLUENTIA — Notas opcionales por idioma */
+
+.flashcard-note {
+    width: 100%;
+    max-width: 580px;
+    margin: 12px 0 0;
+    color: var(--muted);
+    font-size: 0.95rem;
+    font-weight: 500;
+    line-height: 1.6;
+    text-align: center;
+    overflow-wrap: anywhere;
+}
+
+.practice-answer-notes {
+    width: 100%;
+    max-width: 580px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.practice-answer-note {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-weight: 500;
+    line-height: 1.55;
+    text-align: center;
+    overflow-wrap: anywhere;
+}
+
+@media (max-width: 600px) {
+    .flashcard-note {
+        font-size: 0.85rem;
+        line-height: 1.5;
+    }
+
+    .practice-answer-note {
+        font-size: 0.85rem;
+    }
+}
+
+
+/* Instrucción discreta al pie de la flashcard */
+
+.flashcard-front {
+    padding-bottom: 52px;
+}
+
+.flashcard-front .flip-hint {
+    position: absolute;
+    bottom: 18px;
+    left: 0;
+    right: 0;
+
+    margin: 0;
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--muted);
+    opacity: 0.7;
+    pointer-events: none;
+}
+
+
+/* Estrella más compacta */
+.review-star {
+    width: 38px;
+    height: 38px;
+    top: 12px;
+    right: 12px;
+    font-size: 1.35rem;
+}
+
+/* Reverso: espacio reservado para la estrella */
+.flashcard-back {
+    padding: 68px 24px 18px;
+    justify-content: flex-start;
+}
+
+/* Zona central: traducción y explicación */
+.flashcard-back-content {
+    width: 100%;
+    min-width: 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    overflow-wrap: anywhere;
+}
+
+.flashcard-back-content h2 {
+    margin: 0;
+}
+
+/* Control de audio al pie de la tarjeta */
+.flashcard-audio-footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 18px;
+    flex-shrink: 0;
+}
+
+.flashcard-audio-btn {
+    width: 44px;
+    height: 44px;
+    min-width: 44px;
+    border: 0;
+    border-radius: 50%;
+    background: var(--primary);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    cursor: pointer;
+    box-shadow: var(--shadow-sm);
+}
+
+.flashcard-audio-btn:hover {
+    background: var(--primary-dark);
+}
+
+.flashcard-audio-btn:focus-visible {
+    outline: 3px solid var(--primary);
+    outline-offset: 3px;
+}

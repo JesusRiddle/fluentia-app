@@ -290,6 +290,23 @@ export default function PracticeMode({
                             {currentCorrectCard?.translations?.[targetLang]}
                         </div>
 
+                        {hasAnswered && (
+                            <div className="practice-answer-notes">
+                                {currentCorrectCard?.notes?.es && (
+                                    <p className="practice-answer-note">
+                                        {currentCorrectCard.notes.es}
+                                    </p>
+                                )}
+
+                                {currentCorrectCard?.notes?.[targetLang] && (
+                                    <p className="practice-answer-note">
+                                        {currentCorrectCard.notes[targetLang]}
+                                    </p>
+                                )}
+                            </div>
+                        )}
+
+
                         {/* Control de velocidad */}
                         <div
                             style={{

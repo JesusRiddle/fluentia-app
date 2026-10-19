@@ -22,6 +22,10 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
     const [reviews, setReviews] = useState(loadReviews);
     const originalIndexRef = useRef(0);
     const audioTimeoutRef = useRef(null);
+    const [isSpeaking, setIsSpeaking] = useState(false);
+    const [isPaused, setIsPaused] = useState(false);
+    const speechIdRef = useRef(0);
+
 
     useEffect(() => () => {
         window.clearTimeout(audioTimeoutRef.current);
@@ -57,10 +61,15 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
     const isMarked = currentCard ? markedSet.has(String(currentCard.id)) : false;
     const markedInRange = allCards.filter(card => markedSet.has(String(card.id))).length;
 
+
     const cancelAudio = () => {
+        speechIdRef.current += 1;
         window.clearTimeout(audioTimeoutRef.current);
         window.speechSynthesis.cancel();
+        setIsSpeaking(false);
+        setIsPaused(false);
     };
+
 
     const changeRange = newRange => {
         cancelAudio();
@@ -111,16 +120,64 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
     const ttsVoices = {
         en: 'en-US', fr: 'fr-FR', it: 'it-IT', pt: 'pt-BR'
     };
+
     const playAudio = () => {
         if (!currentCard) return;
-        window.speechSynthesis.cancel();
+
         const text = currentCard.translations?.[targetLang];
         if (!text) return;
+
+        cancelAudio();
+        const speechId = speechIdRef.current;
+
         const utterance = new SpeechSynthesisUtterance(text);
         utterance.lang = ttsVoices[targetLang] || 'en-US';
         utterance.rate = speechRate;
+
+        utterance.onstart = () => {
+            if (speechId === speechIdRef.current) {
+                setIsSpeaking(true);
+                setIsPaused(false);
+            }
+        };
+
+        utterance.onpause = () => {
+            if (speechId === speechIdRef.current) {
+                setIsPaused(true);
+            }
+        };
+
+        utterance.onresume = () => {
+            if (speechId === speechIdRef.current) {
+                setIsPaused(false);
+            }
+        };
+
+        const finish = () => {
+            if (speechId === speechIdRef.current) {
+                setIsSpeaking(false);
+                setIsPaused(false);
+            }
+        };
+
+        utterance.onend = finish;
+        utterance.onerror = finish;
+
         window.speechSynthesis.speak(utterance);
     };
+
+    const toggleAudio = () => {
+        if (!isSpeaking) {
+            playAudio();
+        } else if (isPaused) {
+            window.speechSynthesis.resume();
+            setIsPaused(false);
+        } else {
+            window.speechSynthesis.pause();
+            setIsPaused(true);
+        }
+    };
+
     const handleFlip = () => {
         const next = !isFlipped;
         cancelAudio();
@@ -216,21 +273,61 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                                         <div style={{ height: '140px', width: '100%', borderRadius: '12px', marginBottom: '15px', border: '2px solid var(--border)', backgroundColor: currentCard.hex }} />
                                     )}
                                     <h2 style={{ fontSize: '2.2rem', fontWeight: 800, color: 'var(--text)' }}>{currentCard.es}</h2>
-                                    <p className="hint">Toca para voltear</p>
+
+                                    {currentCard.notes?.es && (
+                                        <p className="flashcard-note">
+                                            {currentCard.notes.es}
+                                        </p>
+                                    )}
+                                    <p className="hint flip-hint">Toca para voltear</p>
                                 </div>
+
                                 <div className="flashcard-back card">
-                                    <h2 style={{ fontSize: '2.2rem', fontWeight: 800, color: 'var(--primary)' }}>
-                                        {currentCard.translations?.[targetLang]}
-                                    </h2>
-                                    <div style={{ marginTop: '48px', width: '100%', display: 'flex', justifyContent: 'center' }}>
+
+                                    <div className="flashcard-back-content">
+                                        <h2
+                                            style={{
+                                                fontSize: '2.2rem',
+                                                fontWeight: 800,
+                                                color: 'var(--primary)'
+                                            }}
+                                        >
+                                            {currentCard.translations?.[targetLang]}
+                                        </h2>
+
+                                        {currentCard.notes?.[targetLang] && (
+                                            <p className="flashcard-note">
+                                                {currentCard.notes[targetLang]}
+                                            </p>
+                                        )}
+                                    </div>
+
+                                    <div className="flashcard-audio-footer">
                                         <button
                                             type="button"
-                                            className="primary-btn"
-                                            onClick={event => { event.stopPropagation(); playAudio(); }}
-                                            style={{ width: 'calc((100% - 12px) / 2)', height: '44px', minHeight: '44px', padding: '10px 14px', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px', fontSize: '0.85rem', whiteSpace: 'nowrap' }}
+                                            className="flashcard-audio-btn"
+                                            onClick={(event) => {
+                                                event.stopPropagation();
+                                                toggleAudio();
+                                            }}
+                                            aria-label={
+                                                !isSpeaking
+                                                    ? 'Escuchar pronunciación'
+                                                    : isPaused
+                                                        ? 'Reanudar audio'
+                                                        : 'Pausar audio'
+                                            }
+                                            title={
+                                                !isSpeaking
+                                                    ? 'Escuchar'
+                                                    : isPaused
+                                                        ? 'Reanudar'
+                                                        : 'Pausar'
+                                            }
                                         >
-                                            <span aria-hidden="true">▶</span>
-                                            <span>Escuchar</span>
+                                            <span aria-hidden="true">
+                                                {!isSpeaking ? '🔊' : isPaused ? '▶' : '⏸'}
+                                            </span>
                                         </button>
                                     </div>
                                 </div>
