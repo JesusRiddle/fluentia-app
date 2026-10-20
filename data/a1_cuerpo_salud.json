@@ -1,1040 +1,1546 @@
 {
   "module": "Las Partes del Cuerpo y Salud",
   "level": "A1",
+  "revisado": "true",
   "cards": [
     {
       "id": "cs1",
-      "es": "Cuerpo",
+      "es": "El cuerpo",
       "translations": {
-        "en": "Body",
-        "pt": "Corpo",
-        "fr": "Corps",
-        "it": "Corpo"
+        "en": "The body",
+        "pt": "o corpo",
+        "fr": "le corps",
+        "it": "il corpo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os corpos",
+        "fr": "Plural: les corps",
+        "it": "Plural: i corpi",
+        "en": "Plural: bodies"
+      }
     },
     {
       "id": "cs2",
-      "es": "Cabeza",
+      "es": "La cabeza",
       "translations": {
-        "en": "Head",
-        "pt": "Cabeça",
-        "fr": "Tête",
-        "it": "Testa"
+        "en": "The head",
+        "pt": "a cabeça",
+        "fr": "la tête",
+        "it": "la testa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as cabeças",
+        "fr": "Plural: les têtes",
+        "it": "Plural: le teste",
+        "en": "Plural: heads"
+      }
     },
     {
       "id": "cs3",
-      "es": "Cara / Rostro",
+      "es": "La cara",
       "translations": {
-        "en": "Face",
-        "pt": "Rosto",
-        "fr": "Visage",
-        "it": "Viso / Faccia"
+        "en": "The face",
+        "pt": "o rosto",
+        "fr": "le visage",
+        "it": "il viso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os rostos",
+        "fr": "Plural: les visages",
+        "it": "Plural: i visi",
+        "es": "También: rostro.",
+        "en": "Plural: faces"
+      }
     },
     {
       "id": "cs4",
-      "es": "Frente (parte de la cara)",
+      "es": "La frente",
       "translations": {
-        "en": "Forehead",
-        "pt": "Testa",
-        "fr": "Front",
-        "it": "Fronte"
+        "en": "The forehead",
+        "pt": "a testa",
+        "fr": "le front",
+        "it": "la fronte"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as testas",
+        "fr": "Plural: les fronts",
+        "it": "Plural: le fronti",
+        "en": "Plural: foreheads"
+      }
     },
     {
       "id": "cs5",
-      "es": "Ojo / Ojos",
+      "es": "El ojo",
       "translations": {
-        "en": "Eye / Eyes",
-        "pt": "Olho / Olhos",
-        "fr": "Œil / Yeux",
-        "it": "Occhio / Occhi"
+        "en": "The eye",
+        "pt": "o olho",
+        "fr": "L’œil",
+        "it": "l’occhio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os olhos",
+        "fr": "Plural: les yeux",
+        "it": "Plural: gli occhi",
+        "en": "Plural: eyes"
+      }
     },
     {
       "id": "cs6",
-      "es": "Oreja (parte externa)",
+      "es": "La oreja",
       "translations": {
-        "en": "Outer ear",
-        "pt": "Orelha",
-        "fr": "Oreille externe",
-        "it": "Orecchio esterno"
+        "en": "The outer ear",
+        "pt": "a orelha",
+        "fr": "Le pavillon de l’oreille",
+        "it": "Il padiglione auricolare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as orelhas",
+        "fr": "Plural: les pavillons de l’oreille",
+        "it": "Plural: i padiglioni auricolari",
+        "es": "Parte visible y externa del oído; en inglés también se dice ear.",
+        "en": "Plural: outer ears"
+      }
     },
     {
       "id": "cs7",
-      "es": "Oído (órgano de la audición)",
+      "es": "El oído",
       "translations": {
-        "en": "Ear",
-        "pt": "Ouvido",
-        "fr": "Oreille",
-        "it": "Orecchio"
+        "en": "The ear",
+        "pt": "o ouvido",
+        "fr": "L’oreille",
+        "it": "L’orecchio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: ears",
+        "pt": "Plural: os ouvidos",
+        "fr": "Plural: les oreilles",
+        "it": "Plural: gli orecchi",
+        "es": "Oído: órgano de la audición; inglés ear, francés oreille e italiano orecchio pueden referirse también a la oreja. Los términos inner ear / oreille interne / orecchio interno designan específicamente el oído interno."
+      }
     },
     {
       "id": "cs8",
-      "es": "Nariz",
+      "es": "La nariz",
       "translations": {
-        "en": "Nose",
-        "pt": "Nariz",
-        "fr": "Nez",
-        "it": "Naso"
+        "en": "The nose",
+        "pt": "o nariz",
+        "fr": "le nez",
+        "it": "il naso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os narizes",
+        "fr": "Plural: les nez",
+        "it": "Plural: i nasi",
+        "en": "Plural: noses"
+      }
     },
     {
       "id": "cs9",
-      "es": "Boca",
+      "es": "La boca",
       "translations": {
-        "en": "Mouth",
-        "pt": "Boca",
-        "fr": "Bouche",
-        "it": "Bocca"
+        "en": "The mouth",
+        "pt": "a boca",
+        "fr": "la bouche",
+        "it": "la bocca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as bocas",
+        "fr": "Plural: les bouches",
+        "it": "Plural: le bocche",
+        "en": "Plural: mouths"
+      }
     },
     {
       "id": "cs10",
-      "es": "Labio / Labios",
+      "es": "El labio",
       "translations": {
-        "en": "Lip / Lips",
-        "pt": "Lábio / Lábios",
-        "fr": "Lèvre / Lèvres",
-        "it": "Labbro / Labbra"
+        "en": "The lip",
+        "pt": "o lábio",
+        "fr": "la lèvre",
+        "it": "il labbro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os lábios",
+        "fr": "Plural: les lèvres",
+        "it": "Plural: le labbra",
+        "en": "Plural: lips"
+      }
     },
     {
       "id": "cs11",
-      "es": "Lengua (órgano)",
+      "es": "La lengua",
       "translations": {
-        "en": "Tongue",
-        "pt": "Língua",
-        "fr": "Langue",
-        "it": "Lingua"
+        "en": "The tongue",
+        "pt": "a língua",
+        "fr": "la langue",
+        "it": "la lingua"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as línguas",
+        "fr": "Plural: les langues",
+        "it": "Plural: le lingue",
+        "es": "Órgano de la boca; también puede significar idioma.",
+        "en": "Plural: tongues"
+      }
     },
     {
       "id": "cs12",
-      "es": "Diente / Dientes",
+      "es": "El diente",
       "translations": {
-        "en": "Tooth / Teeth",
-        "pt": "Dente / Dentes",
-        "fr": "Dent / Dents",
-        "it": "Dente / Denti"
+        "en": "The tooth",
+        "pt": "o dente",
+        "fr": "la dent",
+        "it": "il dente"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os dentes",
+        "fr": "Plural: les dents",
+        "it": "Plural: i denti",
+        "en": "Plural: teeth"
+      }
     },
     {
       "id": "cs13",
-      "es": "Muela (diente posterior)",
+      "es": "La muela",
       "translations": {
-        "en": "Molar / Back tooth",
-        "pt": "Dente molar",
-        "fr": "Molaire",
-        "it": "Dente molare"
+        "en": "The molar",
+        "pt": "o dente molar",
+        "fr": "la molaire",
+        "it": "il dente molare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os dentes molares",
+        "fr": "Plural: les molaires",
+        "it": "Plural: i denti molari",
+        "es": "Diente posterior.",
+        "en": "Plural: molars"
+      }
     },
     {
       "id": "cs14",
-      "es": "Encía / Encías",
+      "es": "La encía",
       "translations": {
-        "en": "Gum / Gums",
-        "pt": "Gengiva / Gengivas",
-        "fr": "Gencive / Gencives",
-        "it": "Gengiva / Gengive"
+        "en": "The gum",
+        "pt": "a gengiva",
+        "fr": "la gencive",
+        "it": "la gengiva"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as gengivas",
+        "fr": "Plural: les gencives",
+        "it": "Plural: le gengive",
+        "en": "Plural: gums"
+      }
     },
     {
       "id": "cs15",
-      "es": "Mandíbula",
+      "es": "La mandíbula",
       "translations": {
-        "en": "Jaw",
-        "pt": "Mandíbula",
-        "fr": "Mâchoire",
-        "it": "Mandibola"
+        "en": "The jaw",
+        "pt": "a mandíbula",
+        "fr": "la mâchoire",
+        "it": "la mandibola"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as mandíbulas",
+        "fr": "Plural: les mâchoires",
+        "it": "Plural: le mandibole",
+        "en": "Plural: jaws"
+      }
     },
     {
       "id": "cs16",
-      "es": "Mejilla / Cachete",
+      "es": "La mejilla",
       "translations": {
-        "en": "Cheek",
-        "pt": "Bochecha",
-        "fr": "Joue",
-        "it": "Guancia"
+        "en": "The cheek",
+        "pt": "a bochecha",
+        "fr": "la joue",
+        "it": "la guancia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as bochechas",
+        "fr": "Plural: les joues",
+        "it": "Plural: le guance",
+        "es": "También: cachete.",
+        "en": "Plural: cheeks"
+      }
     },
     {
       "id": "cs17",
-      "es": "Barbilla / Mentón",
+      "es": "La barbilla",
       "translations": {
-        "en": "Chin",
-        "pt": "Queixo",
-        "fr": "Menton",
-        "it": "Mento"
+        "en": "The chin",
+        "pt": "o queixo",
+        "fr": "le menton",
+        "it": "il mento"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os queixos",
+        "fr": "Plural: les mentons",
+        "it": "Plural: i menti",
+        "es": "También: mentón.",
+        "en": "Plural: chins"
+      }
     },
     {
       "id": "cs18",
-      "es": "Cuello (parte del cuerpo)",
+      "es": "El cuello",
       "translations": {
-        "en": "Neck",
-        "pt": "Pescoço",
-        "fr": "Cou",
-        "it": "Collo"
+        "en": "The neck",
+        "pt": "o pescoço",
+        "fr": "le cou",
+        "it": "il collo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os pescoços",
+        "fr": "Plural: les cous",
+        "it": "Plural: i colli",
+        "en": "Plural: necks"
+      }
     },
     {
       "id": "cs19",
-      "es": "Nuca",
+      "es": "La nuca",
       "translations": {
-        "en": "Back of the neck",
-        "pt": "Nuca",
-        "fr": "Nuque",
-        "it": "Nuca"
+        "en": "The back of the neck",
+        "pt": "a nuca",
+        "fr": "la nuque",
+        "it": "la nuca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: backs of the neck",
+        "pt": "Plural: as nucas",
+        "fr": "Plural: les nuques",
+        "it": "Plural: le nuche"
+      }
     },
     {
       "id": "cs20",
-      "es": "Garganta",
+      "es": "La garganta",
       "translations": {
-        "en": "Throat",
-        "pt": "Garganta",
-        "fr": "Gorge",
-        "it": "Gola"
+        "en": "The throat",
+        "pt": "a garganta",
+        "fr": "la gorge",
+        "it": "la gola"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as gargantas",
+        "fr": "Plural: les gorges",
+        "it": "Plural: le gole",
+        "en": "Plural: throats"
+      }
     },
     {
       "id": "cs21",
-      "es": "Hombro",
+      "es": "El hombro",
       "translations": {
-        "en": "Shoulder",
-        "pt": "Ombro",
-        "fr": "Épaule",
-        "it": "Spalla"
+        "en": "The shoulder",
+        "pt": "o ombro",
+        "fr": "l’épaule",
+        "it": "la spalla"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os ombros",
+        "fr": "Plural: les épaules",
+        "it": "Plural: le spalle",
+        "en": "Plural: shoulders"
+      }
     },
     {
       "id": "cs22",
-      "es": "Pecho (parte delantera del tórax)",
+      "es": "El pecho",
       "translations": {
-        "en": "Chest",
-        "pt": "Peito",
-        "fr": "Poitrine / Thorax",
-        "it": "Petto / Torace"
+        "en": "The chest",
+        "pt": "o peito",
+        "fr": "la poitrine",
+        "it": "il petto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os peitos",
+        "fr": "Plural: les poitrines",
+        "it": "Plural: i petti",
+        "es": "Parte delantera del tórax; no confundir con seno.",
+        "en": "Plural: chests"
+      }
     },
     {
       "id": "cs23",
-      "es": "Seno / Mama (anatomía)",
+      "es": "El seno",
       "translations": {
-        "en": "Breast",
-        "pt": "Seio / Mama",
-        "fr": "Sein",
-        "it": "Seno / Mammella"
+        "en": "The breast",
+        "pt": "o seio",
+        "fr": "le sein",
+        "it": "il seno"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os seios",
+        "fr": "Plural: les seins",
+        "it": "Plural: i seni",
+        "es": "También: mama, especialmente en anatomía.",
+        "en": "Plural: breasts"
+      }
     },
     {
       "id": "cs24",
-      "es": "Espalda",
+      "es": "La espalda",
       "translations": {
-        "en": "Back",
-        "pt": "Costas",
-        "fr": "Dos",
-        "it": "Schiena"
+        "en": "The back",
+        "pt": "As costas",
+        "fr": "Le dos",
+        "it": "La schiena"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les dos",
+        "it": "Plural: le schiene",
+        "en": "Plural: backs"
+      }
     },
     {
       "id": "cs25",
-      "es": "Cintura",
+      "es": "La cintura",
       "translations": {
-        "en": "Waist",
-        "pt": "Cintura",
-        "fr": "Taille",
-        "it": "Vita"
+        "en": "The waist",
+        "pt": "a cintura",
+        "fr": "la taille",
+        "it": "la vita"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as cinturas",
+        "fr": "Plural: les tailles",
+        "it": "Plural: le vite",
+        "en": "Plural: waists"
+      }
     },
     {
       "id": "cs26",
-      "es": "Abdomen / Vientre / Barriga",
+      "es": "La barriga",
       "translations": {
-        "en": "Abdomen / Belly",
-        "pt": "Abdômen / Barriga",
-        "fr": "Abdomen / Ventre",
-        "it": "Addome / Pancia"
+        "en": "The belly",
+        "pt": "a barriga",
+        "fr": "le ventre",
+        "it": "la pancia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as barrigas",
+        "fr": "Plural: les ventres",
+        "it": "Plural: le pance",
+        "es": "Abdomen y vientre son alternativas de registro más anatómico.",
+        "en": "Plural: bellies"
+      }
     },
     {
       "id": "cs27",
-      "es": "Ombligo",
+      "es": "El ombligo",
       "translations": {
-        "en": "Belly button / Navel",
-        "pt": "Umbigo",
-        "fr": "Nombril",
-        "it": "Ombelico"
+        "en": "The belly button",
+        "pt": "o umbigo",
+        "fr": "le nombril",
+        "it": "l’ombelico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os umbigos",
+        "fr": "Plural: les nombrils",
+        "it": "Plural: gli ombelici",
+        "en": "Plural: belly buttons"
+      }
     },
     {
       "id": "cs28",
-      "es": "Cadera",
+      "es": "La cadera",
       "translations": {
-        "en": "Hip",
-        "pt": "Quadril",
-        "fr": "Hanche",
-        "it": "Anca"
+        "en": "The hip",
+        "pt": "o quadril",
+        "fr": "l’hanche",
+        "it": "l’anca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os quadris",
+        "fr": "Plural: les hanches",
+        "it": "Plural: le anche",
+        "en": "Plural: hips"
+      }
     },
     {
       "id": "cs29",
-      "es": "Glúteos / Nalgas",
+      "es": "Las nalgas",
       "translations": {
-        "en": "Buttocks",
-        "pt": "Nádegas / Glúteos",
-        "fr": "Fesses",
-        "it": "Glutei / Natiche"
+        "en": "The buttocks",
+        "pt": "As nádegas",
+        "fr": "Les fesses",
+        "it": "Le natiche"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Uso habitual en plural."
+      }
     },
     {
       "id": "cs30",
-      "es": "Brazo",
+      "es": "El brazo",
       "translations": {
-        "en": "Arm",
-        "pt": "Braço",
-        "fr": "Bras",
-        "it": "Braccio"
+        "en": "The arm",
+        "pt": "o braço",
+        "fr": "le bras",
+        "it": "il braccio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os braços",
+        "fr": "Plural: les bras",
+        "it": "Plural: le braccia",
+        "en": "Plural: arms"
+      }
     },
     {
       "id": "cs31",
-      "es": "Codo",
+      "es": "El codo",
       "translations": {
-        "en": "Elbow",
-        "pt": "Cotovelo",
-        "fr": "Coude",
-        "it": "Gomito"
+        "en": "The elbow",
+        "pt": "o cotovelo",
+        "fr": "le coude",
+        "it": "il gomito"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os cotovelos",
+        "fr": "Plural: les coudes",
+        "it": "Plural: i gomiti",
+        "en": "Plural: elbows"
+      }
     },
     {
       "id": "cs32",
-      "es": "Muñeca (articulación)",
+      "es": "La muñeca",
       "translations": {
-        "en": "Wrist",
-        "pt": "Punho",
-        "fr": "Poignet",
-        "it": "Polso"
+        "en": "The wrist",
+        "pt": "o punho",
+        "fr": "le poignet",
+        "it": "il polso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os punhos",
+        "fr": "Plural: les poignets",
+        "it": "Plural: i polsi",
+        "es": "Articulación de la mano.",
+        "en": "Plural: wrists"
+      }
     },
     {
       "id": "cs33",
-      "es": "Mano / Manos",
+      "es": "La mano",
       "translations": {
-        "en": "Hand / Hands",
-        "pt": "Mão / Mãos",
-        "fr": "Main / Mains",
-        "it": "Mano / Mani"
+        "en": "The hand",
+        "pt": "a mão",
+        "fr": "la main",
+        "it": "la mano"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as mãos",
+        "fr": "Plural: les mains",
+        "it": "Plural: le mani",
+        "en": "Plural: hands"
+      }
     },
     {
       "id": "cs34",
-      "es": "Palma de la mano",
+      "es": "La palma de la mano",
       "translations": {
-        "en": "Palm of the hand",
-        "pt": "Palma da mão",
-        "fr": "Paume de la main",
-        "it": "Palmo della mano"
+        "en": "The palm",
+        "pt": "a palma da mão",
+        "fr": "la paume",
+        "it": "Il palmo della mano"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as palmas das mãos",
+        "fr": "Plural: les paumes",
+        "it": "Plural: i palmi delle mani",
+        "en": "Plural: palms"
+      }
     },
     {
       "id": "cs35",
-      "es": "Dedo de la mano / Dedos de la mano",
+      "es": "El dedo de la mano",
       "translations": {
-        "en": "Finger / Fingers",
-        "pt": "Dedo da mão / Dedos da mão",
-        "fr": "Doigt / Doigts",
-        "it": "Dito della mano / Dita della mano"
+        "en": "The finger",
+        "pt": "o dedo da mão",
+        "fr": "le doigt",
+        "it": "il dito della mano"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os dedos da mão",
+        "fr": "Plural: les doigts",
+        "it": "Plural: le dita delle mani",
+        "en": "Plural: fingers"
+      }
     },
     {
       "id": "cs36",
-      "es": "Pulgar",
+      "es": "El pulgar",
       "translations": {
-        "en": "Thumb",
-        "pt": "Polegar",
-        "fr": "Pouce",
-        "it": "Pollice"
+        "en": "The thumb",
+        "pt": "o polegar",
+        "fr": "le pouce",
+        "it": "il pollice"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os polegares",
+        "fr": "Plural: les pouces",
+        "it": "Plural: i pollici",
+        "en": "Plural: thumbs"
+      }
     },
     {
       "id": "cs37",
-      "es": "Uña",
+      "es": "La uña",
       "translations": {
-        "en": "Nail",
-        "pt": "Unha",
-        "fr": "Ongle",
-        "it": "Unghia"
+        "en": "The nail",
+        "pt": "a unha",
+        "fr": "l’ongle",
+        "it": "l’unghia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as unhas",
+        "fr": "Plural: les ongles",
+        "it": "Plural: le unghie",
+        "en": "Plural: nails"
+      }
     },
     {
       "id": "cs38",
-      "es": "Pierna",
+      "es": "La pierna",
       "translations": {
-        "en": "Leg",
-        "pt": "Perna",
-        "fr": "Jambe",
-        "it": "Gamba"
+        "en": "The leg",
+        "pt": "a perna",
+        "fr": "la jambe",
+        "it": "la gamba"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as pernas",
+        "fr": "Plural: les jambes",
+        "it": "Plural: le gambe",
+        "en": "Plural: legs"
+      }
     },
     {
       "id": "cs39",
-      "es": "Muslo",
+      "es": "El muslo",
       "translations": {
-        "en": "Thigh",
-        "pt": "Coxa",
-        "fr": "Cuisse",
-        "it": "Coscia"
+        "en": "The thigh",
+        "pt": "a coxa",
+        "fr": "la cuisse",
+        "it": "la coscia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as coxas",
+        "fr": "Plural: les cuisses",
+        "it": "Plural: le cosce",
+        "en": "Plural: thighs"
+      }
     },
     {
       "id": "cs40",
-      "es": "Rodilla",
+      "es": "La rodilla",
       "translations": {
-        "en": "Knee",
-        "pt": "Joelho",
-        "fr": "Genou",
-        "it": "Ginocchio"
+        "en": "The knee",
+        "pt": "o joelho",
+        "fr": "le genou",
+        "it": "il ginocchio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os joelhos",
+        "fr": "Plural: les genoux",
+        "it": "Plural: le ginocchia",
+        "en": "Plural: knees"
+      }
     },
     {
       "id": "cs41",
-      "es": "Pantorrilla",
+      "es": "La pantorrilla",
       "translations": {
-        "en": "Calf",
-        "pt": "Panturrilha",
-        "fr": "Mollet",
-        "it": "Polpaccio"
+        "en": "The calf",
+        "pt": "a panturrilha",
+        "fr": "le mollet",
+        "it": "il polpaccio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as panturrilhas",
+        "fr": "Plural: les mollets",
+        "it": "Plural: i polpacci",
+        "en": "Plural: calves"
+      }
     },
     {
       "id": "cs42",
-      "es": "Tobillo",
+      "es": "El tobillo",
       "translations": {
-        "en": "Ankle",
-        "pt": "Tornozelo",
-        "fr": "Cheville",
-        "it": "Caviglia"
+        "en": "The ankle",
+        "pt": "o tornozelo",
+        "fr": "la cheville",
+        "it": "la caviglia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os tornozelos",
+        "fr": "Plural: les chevilles",
+        "it": "Plural: le caviglie",
+        "en": "Plural: ankles"
+      }
     },
     {
       "id": "cs43",
-      "es": "Pie / Pies",
+      "es": "El pie",
       "translations": {
-        "en": "Foot / Feet",
-        "pt": "Pé / Pés",
-        "fr": "Pied / Pieds",
-        "it": "Piede / Piedi"
+        "en": "The foot",
+        "pt": "o pé",
+        "fr": "le pied",
+        "it": "il piede"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os pés",
+        "fr": "Plural: les pieds",
+        "it": "Plural: i piedi",
+        "en": "Plural: feet"
+      }
     },
     {
       "id": "cs44",
-      "es": "Talón (parte del pie)",
+      "es": "El talón",
       "translations": {
-        "en": "Heel",
-        "pt": "Calcanhar",
-        "fr": "Talon",
-        "it": "Tallone"
+        "en": "The heel",
+        "pt": "o calcanhar",
+        "fr": "le talon",
+        "it": "il tallone"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os calcanhares",
+        "fr": "Plural: les talons",
+        "it": "Plural: i talloni",
+        "en": "Plural: heels"
+      }
     },
     {
       "id": "cs45",
-      "es": "Dedo del pie / Dedos del pie",
+      "es": "El dedo del pie",
       "translations": {
-        "en": "Toe / Toes",
-        "pt": "Dedo do pé / Dedos do pé",
-        "fr": "Orteil / Orteils",
-        "it": "Dito del piede / Dita del piede"
+        "en": "The toe",
+        "pt": "o dedo do pé",
+        "fr": "l’orteil",
+        "it": "il dito del piede"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os dedos dos pés",
+        "fr": "Plural: les orteils",
+        "it": "Plural: le dita dei piedi",
+        "en": "Plural: toes"
+      }
     },
     {
       "id": "cs46",
-      "es": "Piel",
+      "es": "La piel",
       "translations": {
-        "en": "Skin",
-        "pt": "Pele",
-        "fr": "Peau",
-        "it": "Pelle"
+        "en": "The skin",
+        "pt": "A pele",
+        "fr": "La peau",
+        "it": "La pelle"
       },
       "image_url": ""
     },
     {
       "id": "cs47",
-      "es": "Hueso",
+      "es": "El hueso",
       "translations": {
-        "en": "Bone",
-        "pt": "Osso",
-        "fr": "Os",
-        "it": "Osso"
+        "en": "The bone",
+        "pt": "o osso",
+        "fr": "l’os",
+        "it": "l’osso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os ossos",
+        "fr": "Plural: les os",
+        "it": "Plural: le ossa",
+        "en": "Plural: bones"
+      }
     },
     {
       "id": "cs48",
-      "es": "Músculo",
+      "es": "El músculo",
       "translations": {
-        "en": "Muscle",
-        "pt": "Músculo",
-        "fr": "Muscle",
-        "it": "Muscolo"
+        "en": "The muscle",
+        "pt": "o músculo",
+        "fr": "le muscle",
+        "it": "il muscolo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os músculos",
+        "fr": "Plural: les muscles",
+        "it": "Plural: i muscoli",
+        "en": "Plural: muscles"
+      }
     },
     {
       "id": "cs49",
-      "es": "Articulación",
+      "es": "La articulación",
       "translations": {
-        "en": "Joint",
-        "pt": "Articulação",
-        "fr": "Articulation",
-        "it": "Articolazione"
+        "en": "The joint",
+        "pt": "a articulação",
+        "fr": "l’articulation",
+        "it": "l’articolazione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as articulações",
+        "fr": "Plural: les articulations",
+        "it": "Plural: le articolazioni",
+        "en": "Plural: joints"
+      }
     },
     {
       "id": "cs50",
-      "es": "Sangre",
+      "es": "La sangre",
       "translations": {
-        "en": "Blood",
-        "pt": "Sangue",
-        "fr": "Sang",
-        "it": "Sangue"
+        "en": "The blood",
+        "pt": "O sangue",
+        "fr": "Le sang",
+        "it": "Il sangue"
       },
       "image_url": ""
     },
     {
       "id": "cs51",
-      "es": "Corazón",
+      "es": "El corazón",
       "translations": {
-        "en": "Heart",
-        "pt": "Coração",
-        "fr": "Cœur",
-        "it": "Cuore"
+        "en": "The heart",
+        "pt": "o coração",
+        "fr": "le cœur",
+        "it": "il cuore"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os corações",
+        "fr": "Plural: les cœurs",
+        "it": "Plural: i cuori",
+        "en": "Plural: hearts"
+      }
     },
     {
       "id": "cs52",
-      "es": "Pulmón / Pulmones",
+      "es": "El pulmón",
       "translations": {
-        "en": "Lung / Lungs",
-        "pt": "Pulmão / Pulmões",
-        "fr": "Poumon / Poumons",
-        "it": "Polmone / Polmoni"
+        "en": "The lung",
+        "pt": "o pulmão",
+        "fr": "le poumon",
+        "it": "il polmone"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os pulmões",
+        "fr": "Plural: les poumons",
+        "it": "Plural: i polmoni",
+        "en": "Plural: lungs"
+      }
     },
     {
       "id": "cs53",
-      "es": "Estómago (órgano)",
+      "es": "El estómago",
       "translations": {
-        "en": "Stomach",
-        "pt": "Estômago",
-        "fr": "Estomac",
-        "it": "Stomaco"
+        "en": "The stomach",
+        "pt": "o estômago",
+        "fr": "l’estomac",
+        "it": "lo stomaco"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os estômagos",
+        "fr": "Plural: les estomacs",
+        "it": "Plural: gli stomaci",
+        "en": "Plural: stomachs"
+      }
     },
     {
       "id": "cs54",
-      "es": "Intestino",
+      "es": "El intestino",
       "translations": {
-        "en": "Intestine",
-        "pt": "Intestino",
-        "fr": "Intestin",
-        "it": "Intestino"
+        "en": "The intestine",
+        "pt": "o intestino",
+        "fr": "l’intestin",
+        "it": "l’intestino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os intestinos",
+        "fr": "Plural: les intestins",
+        "it": "Plural: gli intestini",
+        "en": "Plural: intestines"
+      }
     },
     {
       "id": "cs55",
-      "es": "Riñón / Riñones",
+      "es": "El riñón",
       "translations": {
-        "en": "Kidney / Kidneys",
-        "pt": "Rim / Rins",
-        "fr": "Rein / Reins",
-        "it": "Rene / Reni"
+        "en": "The kidney",
+        "pt": "o rim",
+        "fr": "le rein",
+        "it": "il rene"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os rins",
+        "fr": "Plural: les reins",
+        "it": "Plural: i reni",
+        "en": "Plural: kidneys"
+      }
     },
     {
       "id": "cs56",
-      "es": "Cerebro",
+      "es": "El cerebro",
       "translations": {
-        "en": "Brain",
-        "pt": "Cérebro",
-        "fr": "Cerveau",
-        "it": "Cervello"
+        "en": "The brain",
+        "pt": "o cérebro",
+        "fr": "le cerveau",
+        "it": "il cervello"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os cérebros",
+        "fr": "Plural: les cerveaux",
+        "it": "Plural: i cervelli",
+        "en": "Plural: brains"
+      }
     },
     {
       "id": "cs57",
-      "es": "Genitales (anatomía)",
+      "es": "Los genitales",
       "translations": {
-        "en": "Genitals",
-        "pt": "Genitais",
-        "fr": "Organes génitaux",
-        "it": "Genitali"
+        "en": "The genitals",
+        "pt": "Os genitais",
+        "fr": "Les organes génitaux",
+        "it": "I genitali"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {}
     },
     {
       "id": "cs58",
-      "es": "Salud",
+      "es": "La salud",
       "translations": {
-        "en": "Health",
-        "pt": "Saúde",
-        "fr": "Santé",
-        "it": "Salute"
+        "en": "The health",
+        "pt": "A saúde",
+        "fr": "La santé",
+        "it": "La salute"
       },
       "image_url": ""
     },
     {
       "id": "cs59",
-      "es": "Enfermedad",
+      "es": "La enfermedad",
       "translations": {
-        "en": "Illness / Disease",
-        "pt": "Doença",
-        "fr": "Maladie",
-        "it": "Malattia"
+        "en": "The illness",
+        "pt": "a doença",
+        "fr": "la maladie",
+        "it": "la malattia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as doenças",
+        "fr": "Plural: les maladies",
+        "it": "Plural: le malattie",
+        "en": "Plural: illnesses"
+      }
     },
     {
       "id": "cs60",
-      "es": "Síntoma",
+      "es": "El síntoma",
       "translations": {
-        "en": "Symptom",
-        "pt": "Sintoma",
-        "fr": "Symptôme",
-        "it": "Sintomo"
+        "en": "The symptom",
+        "pt": "o sintoma",
+        "fr": "le symptôme",
+        "it": "il sintomo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os sintomas",
+        "fr": "Plural: les symptômes",
+        "it": "Plural: i sintomi",
+        "en": "Plural: symptoms"
+      }
     },
     {
       "id": "cs61",
-      "es": "Dolor",
+      "es": "El dolor",
       "translations": {
-        "en": "Pain",
-        "pt": "Dor",
-        "fr": "Douleur",
-        "it": "Dolore"
+        "en": "The pain",
+        "pt": "A dor",
+        "fr": "La douleur",
+        "it": "Il dolore"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as dores",
+        "fr": "Plural: les douleurs",
+        "it": "Plural: i dolori"
+      }
     },
     {
       "id": "cs62",
-      "es": "Fiebre",
+      "es": "La fiebre",
       "translations": {
-        "en": "Fever",
-        "pt": "Febre",
-        "fr": "Fièvre",
-        "it": "Febbre"
+        "en": "The fever",
+        "pt": "A febre",
+        "fr": "La fièvre",
+        "it": "La febbre"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: fevers",
+        "pt": "Plural: as febres",
+        "fr": "Plural: les fièvres",
+        "it": "Plural: le febbri"
+      }
     },
     {
       "id": "cs63",
-      "es": "Tos",
+      "es": "La tos",
       "translations": {
-        "en": "Cough",
-        "pt": "Tosse",
-        "fr": "Toux",
-        "it": "Tosse"
+        "en": "The cough",
+        "pt": "A tosse",
+        "fr": "La toux",
+        "it": "La tosse"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: coughs",
+        "pt": "Plural: as tosses",
+        "fr": "Plural: les toux",
+        "it": "Plural: le tossi"
+      }
     },
     {
       "id": "cs64",
-      "es": "Estornudo",
+      "es": "El estornudo",
       "translations": {
-        "en": "Sneeze",
-        "pt": "Espirro",
-        "fr": "Éternuement",
-        "it": "Starnuto"
+        "en": "The sneeze",
+        "pt": "o espirro",
+        "fr": "l’éternuement",
+        "it": "lo starnuto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os espirros",
+        "fr": "Plural: les éternuements",
+        "it": "Plural: gli starnuti",
+        "en": "Plural: sneezes"
+      }
     },
     {
       "id": "cs65",
-      "es": "Resfriado / Catarro",
+      "es": "El resfriado",
       "translations": {
-        "en": "Cold / Common cold",
-        "pt": "Resfriado",
-        "fr": "Rhume",
-        "it": "Raffreddore"
+        "en": "The cold",
+        "pt": "o resfriado",
+        "fr": "le rhume",
+        "it": "il raffreddore"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os resfriados",
+        "fr": "Plural: les rhumes",
+        "it": "Plural: i raffreddori",
+        "es": "También: catarro.",
+        "en": "Plural: colds"
+      }
     },
     {
       "id": "cs66",
-      "es": "Gripe",
+      "es": "La gripe",
       "translations": {
-        "en": "Flu / Influenza",
-        "pt": "Gripe",
-        "fr": "Grippe",
-        "it": "Influenza"
+        "en": "The flu",
+        "pt": "a gripe",
+        "fr": "la grippe",
+        "it": "l’influenza"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as gripes",
+        "fr": "Plural: les grippes",
+        "it": "Plural: le influenze"
+      }
     },
     {
       "id": "cs67",
-      "es": "Dolor de cabeza",
+      "es": "El dolor de cabeza",
       "translations": {
-        "en": "Headache",
-        "pt": "Dor de cabeça",
-        "fr": "Mal de tête",
-        "it": "Mal di testa"
+        "en": "The headache",
+        "pt": "a dor de cabeça",
+        "fr": "le mal de tête",
+        "it": "il mal di testa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as dores de cabeça",
+        "fr": "Plural: les maux de tête",
+        "it": "Plural: i mal di testa",
+        "en": "Plural: headaches"
+      }
     },
     {
       "id": "cs68",
-      "es": "Dolor de muela / Dolor de dientes",
+      "es": "El dolor de muela",
       "translations": {
-        "en": "Toothache",
-        "pt": "Dor de dente",
-        "fr": "Mal de dents",
-        "it": "Mal di denti"
+        "en": "The toothache",
+        "pt": "A dor de dente",
+        "fr": "Le mal de dents",
+        "it": "Il mal di denti"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: toothaches",
+        "pt": "Plural: as dores de dente",
+        "fr": "Plural: les maux de dents",
+        "it": "Plural: i mal di denti",
+        "es": "También: dolor de dientes."
+      }
     },
     {
       "id": "cs69",
-      "es": "Dolor de garganta",
+      "es": "El dolor de garganta",
       "translations": {
-        "en": "Sore throat",
-        "pt": "Dor de garganta",
-        "fr": "Mal de gorge",
-        "it": "Mal di gola"
+        "en": "The sore throat",
+        "pt": "A dor de garganta",
+        "fr": "Le mal de gorge",
+        "it": "Il mal di gola"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: sore throats",
+        "pt": "Plural: as dores de garganta",
+        "fr": "Plural: les maux de gorge",
+        "it": "Plural: i mal di gola"
+      }
     },
     {
       "id": "cs70",
-      "es": "Mareo (sensación de inestabilidad)",
+      "es": "El mareo",
       "translations": {
-        "en": "Dizziness",
-        "pt": "Tontura",
-        "fr": "Étourdissements",
-        "it": "Capogiri"
+        "en": "The dizziness",
+        "pt": "a tontura",
+        "fr": "L’étourdissement",
+        "it": "il capogiro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as tonturas",
+        "it": "Plural: i capogiri",
+        "es": "Sensación de inestabilidad; no siempre implica vértigo.",
+        "fr": "Plural: les étourdissements"
+      }
     },
     {
       "id": "cs71",
-      "es": "Náuseas",
+      "es": "Las náuseas",
       "translations": {
-        "en": "Nausea",
-        "pt": "Náusea / Enjoo",
-        "fr": "Nausées",
-        "it": "Nausea"
+        "en": "The nausea",
+        "pt": "A náusea",
+        "fr": "Les nausées",
+        "it": "La nausea"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as náuseas",
+        "es": "En español es habitual el plural; en inglés e italiano, suele emplearse el singular."
+      }
     },
     {
       "id": "cs72",
-      "es": "Vómito",
+      "es": "El vómito",
       "translations": {
-        "en": "Vomit / Vomiting",
-        "pt": "Vômito",
-        "fr": "Vomissement",
-        "it": "Vomito"
+        "en": "Vomiting",
+        "pt": "o vômito",
+        "fr": "le vomissement",
+        "it": "il vomito"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os vômitos",
+        "fr": "Plural: les vomissements",
+        "it": "Plural: i vomiti"
+      }
     },
     {
       "id": "cs73",
-      "es": "Diarrea",
+      "es": "La diarrea",
       "translations": {
-        "en": "Diarrhea",
-        "pt": "Diarreia",
-        "fr": "Diarrhée",
-        "it": "Diarrea"
+        "en": "The diarrhea",
+        "pt": "A diarreia",
+        "fr": "La diarrhée",
+        "it": "La diarrea"
       },
       "image_url": ""
     },
     {
       "id": "cs74",
-      "es": "Estreñimiento",
+      "es": "El estreñimiento",
       "translations": {
-        "en": "Constipation",
-        "pt": "Prisão de ventre / Constipação intestinal",
-        "fr": "Constipation",
-        "it": "Stitichezza / Stipsi"
+        "en": "The constipation",
+        "pt": "A prisão de ventre",
+        "fr": "La constipation",
+        "it": "La stitichezza"
       },
       "image_url": ""
     },
     {
       "id": "cs75",
-      "es": "Indigestión",
+      "es": "La indigestión",
       "translations": {
-        "en": "Indigestion",
-        "pt": "Indigestão",
-        "fr": "Indigestion",
-        "it": "Indigestione"
+        "en": "The indigestion",
+        "pt": "a indigestão",
+        "fr": "l’indigestion",
+        "it": "l’indigestione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as indigestões",
+        "fr": "Plural: les indigestions",
+        "it": "Plural: le indigestioni"
+      }
     },
     {
       "id": "cs76",
-      "es": "Acidez / Ardor de estómago",
+      "es": "La acidez",
       "translations": {
-        "en": "Heartburn",
-        "pt": "Azia",
-        "fr": "Brûlures d'estomac",
-        "it": "Bruciore di stomaco"
+        "en": "The heartburn",
+        "pt": "A azia",
+        "fr": "La brûlure d’estomac",
+        "it": "Il bruciore di stomaco"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les brûlures d’estomac",
+        "it": "Plural: i bruciori di stomaco",
+        "es": "También: ardor de estómago."
+      }
     },
     {
       "id": "cs77",
-      "es": "Escalofríos",
+      "es": "Los escalofríos",
       "translations": {
-        "en": "Chills",
-        "pt": "Calafrios",
-        "fr": "Frissons",
-        "it": "Brividi"
+        "en": "The chills",
+        "pt": "Os calafrios",
+        "fr": "Les frissons",
+        "it": "I brividi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {}
     },
     {
       "id": "cs78",
-      "es": "Sudor",
+      "es": "El sudor",
       "translations": {
-        "en": "Sweat",
-        "pt": "Suor",
-        "fr": "Sueur",
-        "it": "Sudore"
+        "en": "The sweat",
+        "pt": "O suor",
+        "fr": "La sueur",
+        "it": "Il sudore"
       },
       "image_url": ""
     },
     {
       "id": "cs79",
-      "es": "Picazón / Comezón",
+      "es": "La comezón",
       "translations": {
-        "en": "Itching / Itch",
-        "pt": "Coceira",
-        "fr": "Démangeaisons",
-        "it": "Prurito"
+        "en": "The itching",
+        "pt": "A coceira",
+        "fr": "La démangeaison",
+        "it": "Il prurito"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as coceiras",
+        "fr": "Plural: les démangeaisons",
+        "es": "También: picazón."
+      }
     },
     {
       "id": "cs80",
-      "es": "Sarpullido / Erupción en la piel",
+      "es": "El sarpullido",
       "translations": {
-        "en": "Rash / Skin rash",
-        "pt": "Erupção cutânea",
-        "fr": "Éruption cutanée",
-        "it": "Eruzione cutanea"
+        "en": "The rash",
+        "pt": "a erupção cutânea",
+        "fr": "L’éruption cutanée",
+        "it": "l’eruzione cutanea"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as erupções cutâneas",
+        "it": "Plural: le eruzioni cutanee",
+        "es": "También: erupción cutánea.",
+        "en": "Plural: rashes",
+        "fr": "Plural: les éruptions cutanées"
+      }
     },
     {
       "id": "cs81",
-      "es": "Hinchazón (aumento de volumen)",
+      "es": "La hinchazón",
       "translations": {
-        "en": "Swelling",
-        "pt": "Inchaço",
-        "fr": "Gonflement",
-        "it": "Gonfiore"
+        "en": "The swelling",
+        "pt": "o inchaço",
+        "fr": "le gonflement",
+        "it": "il gonfiore"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os inchaços",
+        "fr": "Plural: les gonflements",
+        "it": "Plural: i gonfiori",
+        "en": "Plural: swellings"
+      }
     },
     {
       "id": "cs82",
-      "es": "Herida",
+      "es": "La herida",
       "translations": {
-        "en": "Wound",
-        "pt": "Ferida",
-        "fr": "Plaie / Blessure",
-        "it": "Ferita"
+        "en": "The wound",
+        "pt": "a ferida",
+        "fr": "la plaie",
+        "it": "la ferita"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as feridas",
+        "fr": "Plural: les plaies",
+        "it": "Plural: le ferite",
+        "en": "Plural: wounds"
+      }
     },
     {
       "id": "cs83",
-      "es": "Cortada / Corte (herida)",
+      "es": "La cortada",
       "translations": {
-        "en": "Cut",
-        "pt": "Corte",
-        "fr": "Coupure",
-        "it": "Taglio"
+        "en": "The cut",
+        "pt": "o corte",
+        "fr": "la coupure",
+        "it": "il taglio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os cortes",
+        "fr": "Plural: les coupures",
+        "it": "Plural: i tagli",
+        "es": "También: corte, como herida.",
+        "en": "Plural: cuts"
+      }
     },
     {
       "id": "cs84",
-      "es": "Moretón / Hematoma",
+      "es": "El moretón",
       "translations": {
-        "en": "Bruise",
-        "pt": "Hematoma / Mancha roxa",
-        "fr": "Bleu / Hématome",
-        "it": "Livido / Ematoma"
+        "en": "The bruise",
+        "pt": "O hematoma",
+        "fr": "le bleu",
+        "it": "il livido"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os hematomas; Coloquial: o roxo.",
+        "fr": "Plural: les bleus",
+        "it": "Plural: i lividi",
+        "es": "También: hematoma.",
+        "en": "Plural: bruises"
+      }
     },
     {
       "id": "cs85",
-      "es": "Quemadura",
+      "es": "La quemadura",
       "translations": {
-        "en": "Burn",
-        "pt": "Queimadura",
-        "fr": "Brûlure",
-        "it": "Ustione / Bruciatura"
+        "en": "The burn",
+        "pt": "a queimadura",
+        "fr": "la brûlure",
+        "it": "l’ustione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as queimaduras",
+        "fr": "Plural: les brûlures",
+        "it": "Plural: le ustioni",
+        "en": "Plural: burns"
+      }
     },
     {
       "id": "cs86",
-      "es": "Ampolla (en la piel)",
+      "es": "La ampolla",
       "translations": {
-        "en": "Blister",
-        "pt": "Bolha",
-        "fr": "Ampoule",
-        "it": "Vescica"
+        "en": "The blister",
+        "pt": "a bolha",
+        "fr": "l’ampoule",
+        "it": "la vescica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as bolhas",
+        "fr": "Plural: les ampoules",
+        "it": "Plural: le vesciche",
+        "es": "Lesión de la piel.",
+        "en": "Plural: blisters"
+      }
     },
     {
       "id": "cs87",
-      "es": "Picadura de insecto",
+      "es": "La picadura de insecto",
       "translations": {
-        "en": "Insect bite / Insect sting",
-        "pt": "Picada de inseto",
-        "fr": "Piqûre d'insecte",
-        "it": "Puntura d'insetto"
+        "en": "The insect bite",
+        "pt": "a picada de inseto",
+        "fr": "La piqûre d’insecte",
+        "it": "la puntura d’insetto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as picadas de inseto",
+        "it": "Plural: le punture d’insetto",
+        "en": "Plural: insect bites",
+        "fr": "Plural: les piqûres d’insectes"
+      }
     },
     {
       "id": "cs88",
-      "es": "Sangrado / Hemorragia",
+      "es": "El sangrado",
       "translations": {
-        "en": "Bleeding",
-        "pt": "Sangramento / Hemorragia",
-        "fr": "Saignement / Hémorragie",
-        "it": "Sanguinamento / Emorragia"
+        "en": "The bleeding",
+        "pt": "O sangramento",
+        "fr": "Le saignement",
+        "it": "Il sanguinamento"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os sangramentos",
+        "fr": "Plural: les saignements",
+        "it": "Plural: i sanguinamenti",
+        "es": "Hemorragia se usa especialmente para un sangrado abundante o clínicamente significativo."
+      }
     },
     {
       "id": "cs89",
-      "es": "Infección",
+      "es": "La infección",
       "translations": {
-        "en": "Infection",
-        "pt": "Infecção",
-        "fr": "Infection",
-        "it": "Infezione"
+        "en": "The infection",
+        "pt": "a infecção",
+        "fr": "l’infection",
+        "it": "l’infezione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as infecções",
+        "fr": "Plural: les infections",
+        "it": "Plural: le infezioni",
+        "en": "Plural: infections"
+      }
     },
     {
       "id": "cs90",
-      "es": "Alergia",
+      "es": "La alergia",
       "translations": {
-        "en": "Allergy",
-        "pt": "Alergia",
-        "fr": "Allergie",
-        "it": "Allergia"
+        "en": "The allergy",
+        "pt": "a alergia",
+        "fr": "l’allergie",
+        "it": "l’allergia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as alergias",
+        "fr": "Plural: les allergies",
+        "it": "Plural: le allergie",
+        "en": "Plural: allergies"
+      }
     },
     {
       "id": "cs91",
-      "es": "Asma",
+      "es": "El asma",
       "translations": {
-        "en": "Asthma",
-        "pt": "Asma",
-        "fr": "Asthme",
-        "it": "Asma"
+        "en": "The asthma",
+        "pt": "A asma",
+        "fr": "L’asthme",
+        "it": "L’asma"
       },
       "image_url": ""
     },
     {
       "id": "cs92",
-      "es": "Diabetes",
+      "es": "La diabetes",
       "translations": {
-        "en": "Diabetes",
-        "pt": "Diabetes",
-        "fr": "Diabète",
-        "it": "Diabete"
+        "en": "The diabetes",
+        "pt": "O diabetes",
+        "fr": "Le diabète",
+        "it": "Il diabete"
       },
       "image_url": ""
     },
     {
       "id": "cs93",
-      "es": "Presión arterial / Tensión arterial",
+      "es": "La presión arterial",
       "translations": {
-        "en": "Blood pressure",
-        "pt": "Pressão arterial",
-        "fr": "Tension artérielle",
-        "it": "Pressione sanguigna / Pressione arteriosa"
+        "en": "The blood pressure",
+        "pt": "A pressão arterial",
+        "fr": "La tension artérielle",
+        "it": "La pressione arteriosa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "También: tensión arterial."
+      }
     },
     {
       "id": "cs94",
       "es": "Doler",
       "translations": {
-        "en": "To hurt / To ache",
+        "en": "To hurt",
         "pt": "Doer",
         "fr": "Faire mal",
         "it": "Fare male"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "To ache se aplica normalmente a un dolor persistente."
+      }
     },
     {
       "id": "cs95",
@@ -1073,12 +1579,15 @@
       "id": "cs98",
       "es": "Vomitar",
       "translations": {
-        "en": "To vomit / To throw up",
+        "en": "To vomit",
         "pt": "Vomitar",
         "fr": "Vomir",
         "it": "Vomitare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "To throw up es más coloquial."
+      }
     },
     {
       "id": "cs99",
@@ -1087,9 +1596,12 @@
         "en": "To swallow",
         "pt": "Engolir",
         "fr": "Avaler",
-        "it": "Deglutire / Ingoiare"
+        "it": "Ingoiare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "Deglutire es más técnico."
+      }
     },
     {
       "id": "cs100",
@@ -1104,25 +1616,32 @@
     },
     {
       "id": "cs101",
-      "es": "Lastimarse / Hacerse daño",
+      "es": "Lastimarse",
       "translations": {
-        "en": "To get hurt / To injure oneself",
+        "en": "To get hurt",
         "pt": "Machucar-se",
         "fr": "Se blesser",
         "it": "Farsi male"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "También: hacerse daño.",
+        "en": "To injure oneself es más formal."
+      }
     },
     {
       "id": "cs102",
       "es": "Desmayarse",
       "translations": {
-        "en": "To faint / To pass out",
+        "en": "To faint",
         "pt": "Desmaiar",
         "fr": "S'évanouir",
         "it": "Svenire"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "To pass out es informal."
+      }
     },
     {
       "id": "cs103",
@@ -1148,289 +1667,440 @@
     },
     {
       "id": "cs105",
-      "es": "Hospital",
+      "es": "El hospital",
       "translations": {
-        "en": "Hospital",
-        "pt": "Hospital",
-        "fr": "Hôpital",
-        "it": "Ospedale"
+        "en": "The hospital",
+        "pt": "o hospital",
+        "fr": "l’hôpital",
+        "it": "l’ospedale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os hospitais",
+        "fr": "Plural: les hôpitaux",
+        "it": "Plural: gli ospedali",
+        "en": "Plural: hospitals"
+      }
     },
     {
       "id": "cs106",
-      "es": "Clínica / Centro de salud",
+      "es": "La clínica",
       "translations": {
-        "en": "Clinic / Health center",
-        "pt": "Clínica / Centro de saúde",
-        "fr": "Clinique / Centre de santé",
-        "it": "Clinica / Centro medico"
+        "en": "The clinic",
+        "pt": "a clínica",
+        "fr": "la clinique",
+        "it": "la clinica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as clínicas",
+        "fr": "Plural: les cliniques",
+        "it": "Plural: le cliniche",
+        "es": "Un centro de salud puede prestar servicios diferentes a los de una clínica.",
+        "en": "Plural: clinics"
+      }
     },
     {
       "id": "cs107",
-      "es": "Consultorio médico",
+      "es": "El consultorio médico",
       "translations": {
-        "en": "Doctor's office",
-        "pt": "Consultório médico",
-        "fr": "Cabinet médical",
-        "it": "Studio medico"
+        "en": "The doctor's office",
+        "pt": "o consultório médico",
+        "fr": "le cabinet médical",
+        "it": "lo studio medico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os consultórios médicos",
+        "fr": "Plural: les cabinets médicaux",
+        "it": "Plural: gli studi medici",
+        "en": "Plural: doctor's offices"
+      }
     },
     {
       "id": "cs108",
-      "es": "Farmacia",
+      "es": "La farmacia",
       "translations": {
-        "en": "Pharmacy / Drugstore",
-        "pt": "Farmácia",
-        "fr": "Pharmacie",
-        "it": "Farmacia"
+        "en": "The pharmacy",
+        "pt": "a farmácia",
+        "fr": "la pharmacie",
+        "it": "la farmacia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as farmácias",
+        "fr": "Plural: les pharmacies",
+        "it": "Plural: le farmacie",
+        "en": "Plural: pharmacies"
+      }
     },
     {
       "id": "cs109",
-      "es": "Urgencias (servicio hospitalario)",
+      "es": "Las urgencias",
       "translations": {
-        "en": "Emergency department / Emergency room",
-        "pt": "Pronto-socorro",
-        "fr": "Service des urgences / Urgences",
-        "it": "Pronto soccorso"
+        "en": "The emergency department",
+        "pt": "O pronto-socorro",
+        "fr": "Les urgences",
+        "it": "Il pronto soccorso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: emergency departments",
+        "pt": "Plural: os prontos-socorros",
+        "it": "Plural: i pronto soccorso",
+        "es": "Servicio hospitalario."
+      }
     },
     {
       "id": "cs110",
-      "es": "Ambulancia",
+      "es": "La ambulancia",
       "translations": {
-        "en": "Ambulance",
-        "pt": "Ambulância",
-        "fr": "Ambulance",
-        "it": "Ambulanza"
+        "en": "The ambulance",
+        "pt": "a ambulância",
+        "fr": "l’ambulance",
+        "it": "l’ambulanza"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as ambulâncias",
+        "fr": "Plural: les ambulances",
+        "it": "Plural: le ambulanze",
+        "en": "Plural: ambulances"
+      }
     },
     {
       "id": "cs111",
-      "es": "Paciente (persona que recibe atención)",
+      "es": "El paciente",
       "translations": {
-        "en": "Patient",
-        "pt": "Paciente",
-        "fr": "Patient / Patiente",
-        "it": "Paziente"
+        "en": "The patient",
+        "pt": "o paciente",
+        "fr": "le patient",
+        "it": "il paziente"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os pacientes; Femenino: a paciente (pl. as pacientes)",
+        "fr": "Plural: les patients; Femenino: la patiente (pl. les patientes)",
+        "it": "Plural: i pazienti; Femenino: la paziente (pl. le pazienti)",
+        "en": "Plural: patients"
+      }
     },
     {
       "id": "cs112",
-      "es": "Cita médica",
+      "es": "La cita médica",
       "translations": {
-        "en": "Medical appointment / Doctor's appointment",
-        "pt": "Consulta médica",
-        "fr": "Rendez-vous médical",
-        "it": "Appuntamento medico"
+        "en": "The doctor's appointment",
+        "pt": "a consulta médica",
+        "fr": "le rendez-vous médical",
+        "it": "l’appuntamento medico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as consultas médicas",
+        "fr": "Plural: les rendez-vous médicaux",
+        "it": "Plural: gli appuntamenti medici",
+        "en": "Plural: doctor's appointments"
+      }
     },
     {
       "id": "cs113",
-      "es": "Seguro médico / Seguro de salud",
+      "es": "El seguro médico",
       "translations": {
         "en": "Health insurance",
-        "pt": "Plano de saúde / Seguro-saúde",
-        "fr": "Assurance maladie / Assurance santé",
-        "it": "Assicurazione sanitaria"
+        "pt": "O seguro-saúde",
+        "fr": "L’assurance santé",
+        "it": "L’assicurazione sanitaria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os seguros-saúde; Plano de saúde no siempre equivale a seguro médico.",
+        "fr": "Plural: les assurances santé",
+        "it": "Plural: le assicurazioni sanitarie",
+        "es": "También: seguro de salud."
+      }
     },
     {
       "id": "cs114",
-      "es": "Receta médica",
+      "es": "La receta médica",
       "translations": {
-        "en": "Prescription",
-        "pt": "Receita médica",
-        "fr": "Ordonnance",
-        "it": "Ricetta medica"
+        "en": "The prescription",
+        "pt": "a receita médica",
+        "fr": "l’ordonnance",
+        "it": "la ricetta medica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as receitas médicas",
+        "fr": "Plural: les ordonnances",
+        "it": "Plural: le ricette mediche",
+        "en": "Plural: prescriptions"
+      }
     },
     {
       "id": "cs115",
-      "es": "Medicamento / Medicina",
+      "es": "El medicamento",
       "translations": {
-        "en": "Medicine / Medication",
-        "pt": "Medicamento / Remédio",
-        "fr": "Médicament",
-        "it": "Medicinale / Farmaco"
+        "en": "The medication",
+        "pt": "O medicamento",
+        "fr": "Le médicament",
+        "it": "Il farmaco"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: medications",
+        "pt": "Plural: os medicamentos",
+        "fr": "Plural: les médicaments",
+        "it": "Plural: i farmaci",
+        "es": "También: medicina."
+      }
     },
     {
       "id": "cs116",
-      "es": "Pastilla / Comprimido (medicamento)",
+      "es": "La pastilla",
       "translations": {
-        "en": "Pill / Tablet",
-        "pt": "Comprimido",
-        "fr": "Comprimé",
-        "it": "Compressa / Pastiglia"
+        "en": "The pill",
+        "pt": "o comprimido",
+        "fr": "le comprimé",
+        "it": "la compressa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os comprimidos",
+        "fr": "Plural: les comprimés",
+        "it": "Plural: le compresse",
+        "es": "También: comprimido; la pastilla puede referirse a distintas formas sólidas.",
+        "en": "Plural: pills"
+      }
     },
     {
       "id": "cs117",
-      "es": "Cápsula (medicamento)",
+      "es": "La cápsula",
       "translations": {
-        "en": "Capsule",
-        "pt": "Cápsula",
-        "fr": "Gélule",
-        "it": "Capsula"
+        "en": "The capsule",
+        "pt": "a cápsula",
+        "fr": "la gélule",
+        "it": "la capsula"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as cápsulas",
+        "fr": "Plural: les gélules",
+        "it": "Plural: le capsule",
+        "en": "Plural: capsules"
+      }
     },
     {
       "id": "cs118",
-      "es": "Jarabe (medicamento)",
+      "es": "El jarabe",
       "translations": {
-        "en": "Syrup",
-        "pt": "Xarope",
-        "fr": "Sirop",
-        "it": "Sciroppo"
+        "en": "The syrup",
+        "pt": "o xarope",
+        "fr": "le sirop",
+        "it": "lo sciroppo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os xaropes",
+        "fr": "Plural: les sirops",
+        "it": "Plural: gli sciroppi",
+        "en": "Plural: syrups"
+      }
     },
     {
       "id": "cs119",
-      "es": "Gotas para los ojos",
+      "es": "Las gotas para los ojos",
       "translations": {
-        "en": "Eye drops",
-        "pt": "Colírio",
-        "fr": "Collyre / Gouttes pour les yeux",
-        "it": "Collirio"
+        "en": "The eye drops",
+        "pt": "As gotas para os olhos",
+        "fr": "Les gouttes pour les yeux",
+        "it": "Le gocce per gli occhi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "También: colirio.",
+        "en": "Forma de uso plural habitual.",
+        "pt": "Forma de uso plural habitual.",
+        "fr": "Forma de uso plural habitual.",
+        "it": "Forma de uso plural habitual."
+      }
     },
     {
       "id": "cs120",
-      "es": "Inhalador",
+      "es": "El inhalador",
       "translations": {
-        "en": "Inhaler",
-        "pt": "Inalador",
-        "fr": "Inhalateur",
-        "it": "Inalatore"
+        "en": "The inhaler",
+        "pt": "o inalador",
+        "fr": "l’inhalateur",
+        "it": "l’inalatore"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os inaladores",
+        "fr": "Plural: les inhalateurs",
+        "it": "Plural: gli inalatori",
+        "en": "Plural: inhalers"
+      }
     },
     {
       "id": "cs121",
-      "es": "Termómetro",
+      "es": "El termómetro",
       "translations": {
-        "en": "Thermometer",
-        "pt": "Termômetro",
-        "fr": "Thermomètre",
-        "it": "Termometro"
+        "en": "The thermometer",
+        "pt": "o termômetro",
+        "fr": "le thermomètre",
+        "it": "il termometro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os termômetros",
+        "fr": "Plural: les thermomètres",
+        "it": "Plural: i termometri",
+        "en": "Plural: thermometers"
+      }
     },
     {
       "id": "cs122",
-      "es": "Curita / Tirita (apósito adhesivo pequeño)",
+      "es": "La curita",
       "translations": {
-        "en": "Adhesive bandage / Band-Aid",
-        "pt": "Curativo adesivo",
-        "fr": "Pansement adhésif",
-        "it": "Cerotto"
+        "en": "The adhesive bandage",
+        "pt": "o curativo adesivo",
+        "fr": "le pansement adhésif",
+        "it": "il cerotto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os curativos adesivos",
+        "fr": "Plural: les pansements adhésifs",
+        "it": "Plural: i cerotti",
+        "es": "Apósito adhesivo pequeño; tirita es más usual en España.",
+        "en": "Plural: adhesive bandages"
+      }
     },
     {
       "id": "cs123",
-      "es": "Venda",
+      "es": "La venda",
       "translations": {
-        "en": "Bandage",
-        "pt": "Atadura",
-        "fr": "Bande",
-        "it": "Benda"
+        "en": "The bandage",
+        "pt": "a atadura",
+        "fr": "la bande",
+        "it": "la benda"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as ataduras",
+        "fr": "Plural: les bandes",
+        "it": "Plural: le bende",
+        "en": "Plural: bandages"
+      }
     },
     {
       "id": "cs124",
-      "es": "Gasa",
+      "es": "La gasa",
       "translations": {
-        "en": "Gauze",
-        "pt": "Gaze",
-        "fr": "Gaze",
-        "it": "Garza"
+        "en": "The gauze",
+        "pt": "a gaze",
+        "fr": "la gaze",
+        "it": "la garza"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as gazes",
+        "fr": "Plural: les gazes",
+        "it": "Plural: le garze"
+      }
     },
     {
       "id": "cs125",
-      "es": "Muletas",
+      "es": "Las muletas",
       "translations": {
-        "en": "Crutches",
-        "pt": "Muletas",
-        "fr": "Béquilles",
-        "it": "Stampelle"
+        "en": "The crutches",
+        "pt": "As muletas",
+        "fr": "Les béquilles",
+        "it": "Le stampelle"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Singular: the crutch",
+        "pt": "Singular: a muleta",
+        "fr": "Singular: la béquille",
+        "it": "Singular: la stampella"
+      }
     },
     {
       "id": "cs126",
-      "es": "Silla de ruedas",
+      "es": "La silla de ruedas",
       "translations": {
-        "en": "Wheelchair",
-        "pt": "Cadeira de rodas",
-        "fr": "Fauteuil roulant",
-        "it": "Sedia a rotelle"
+        "en": "The wheelchair",
+        "pt": "a cadeira de rodas",
+        "fr": "le fauteuil roulant",
+        "it": "la sedia a rotelle"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as cadeiras de rodas",
+        "fr": "Plural: les fauteuils roulants",
+        "it": "Plural: le sedie a rotelle",
+        "en": "Plural: wheelchairs"
+      }
     },
     {
       "id": "cs127",
-      "es": "No me siento bien. / Me siento mal.",
+      "es": "No me siento bien.",
       "translations": {
-        "en": "I don't feel well. / I feel unwell.",
-        "pt": "Não estou me sentindo bem. / Estou me sentindo mal.",
-        "fr": "Je ne me sens pas bien. / Je me sens mal.",
-        "it": "Non mi sento bene. / Mi sento male."
+        "en": "I don't feel well.",
+        "pt": "Não estou me sentindo bem.",
+        "fr": "Je ne me sens pas bien.",
+        "it": "Non mi sento bene."
       },
       "image_url": ""
     },
     {
       "id": "cs128",
-      "es": "Estoy enfermo/a.",
+      "es": "Estoy enfermo.",
       "translations": {
-        "en": "I'm sick. / I'm ill.",
+        "en": "I'm sick.",
         "pt": "Estou doente.",
         "fr": "Je suis malade.",
-        "it": "Sono malato. / Sono malata."
+        "it": "Sono malato."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Si habla una mujer: Estoy enferma.",
+        "it": "Si habla una mujer: Sono malata.",
+        "en": "También: I’m ill."
+      }
     },
     {
       "id": "cs129",
-      "es": "Estoy resfriado/a. / Tengo un resfriado.",
+      "es": "Tengo un resfriado.",
       "translations": {
         "en": "I have a cold.",
-        "pt": "Estou resfriado. / Estou resfriada.",
-        "fr": "Je suis enrhumé. / Je suis enrhumée.",
-        "it": "Sono raffreddato. / Sono raffreddata."
+        "pt": "Estou resfriado.",
+        "fr": "Je suis enrhumé.",
+        "it": "Sono raffreddato."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Si habla una mujer: Estou resfriada.",
+        "fr": "Si habla una mujer: Je suis enrhumée.",
+        "it": "Si habla una mujer: Sono raffreddata."
+      }
     },
     {
       "id": "cs130",
-      "es": "¿Dónde te duele? / ¿Dónde le duele?",
+      "es": "¿Dónde te duele?",
       "translations": {
         "en": "Where does it hurt?",
         "pt": "Onde dói?",
-        "fr": "Où as-tu mal ? / Où avez-vous mal ?",
-        "it": "Dove ti fa male? / Dove le fa male?"
+        "fr": "Où as-tu mal ?",
+        "it": "Dove ti fa male?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Forma de usted: ¿Dónde le duele?",
+        "fr": "Forma formal: Où avez-vous mal ?",
+        "it": "Forma formal: Dove Le fa male?"
+      }
     },
     {
       "id": "cs131",
@@ -1458,10 +2128,10 @@
       "id": "cs133",
       "es": "Me duele la espalda.",
       "translations": {
-        "en": "My back hurts. / I have back pain.",
+        "en": "My back hurts.",
         "pt": "Estou com dor nas costas.",
         "fr": "J'ai mal au dos.",
-        "it": "Mi fa male la schiena. / Ho mal di schiena."
+        "it": "Mi fa male la schiena."
       },
       "image_url": ""
     },
@@ -1478,58 +2148,83 @@
     },
     {
       "id": "cs135",
-      "es": "Me duele el abdomen / la barriga.",
+      "es": "Me duele la barriga.",
       "translations": {
-        "en": "My belly hurts. / I have abdominal pain.",
-        "pt": "Estou com dor na barriga / no abdômen.",
+        "en": "My belly hurts.",
+        "pt": "Estou com dor na barriga.",
         "fr": "J'ai mal au ventre.",
-        "it": "Mi fa male la pancia. / Ho dolore all'addome."
+        "it": "Mi fa male la pancia."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "También: Me duele el abdomen.",
+        "en": "I have abdominal pain es más clínico.",
+        "pt": "También: Estou com dor no abdômen.",
+        "it": "También: Ho dolore all'addome."
+      }
     },
     {
       "id": "cs136",
-      "es": "Me duele del lado derecho / izquierdo.",
+      "es": "Me duele del lado derecho.",
       "translations": {
-        "en": "It hurts on the right side / left side.",
-        "pt": "Dói do lado direito / esquerdo.",
-        "fr": "J'ai mal du côté droit / du côté gauche.",
-        "it": "Mi fa male sul lato destro / sul lato sinistro."
+        "en": "It hurts on the right side.",
+        "pt": "Dói do lado direito.",
+        "fr": "J’ai mal du côté droit.",
+        "it": "Mi fa male sul lato destro."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Para el lado izquierdo: Me duele del lado izquierdo.",
+        "en": "Lado izquierdo: It hurts on the left side.",
+        "pt": "Lado izquierdo: Dói do lado esquerdo.",
+        "fr": "Lado izquierdo: J’ai mal du côté gauche.",
+        "it": "Lado izquierdo: Mi fa male sul lato sinistro."
+      }
     },
     {
       "id": "cs137",
-      "es": "Me duele un poco / mucho.",
+      "es": "Me duele mucho.",
       "translations": {
-        "en": "It hurts a little. / It hurts a lot.",
-        "pt": "Dói um pouco. / Dói muito.",
-        "fr": "J'ai un peu mal. / J'ai très mal.",
-        "it": "Mi fa un po' male. / Mi fa molto male."
+        "en": "It hurts a lot.",
+        "pt": "Dói muito.",
+        "fr": "J'ai très mal.",
+        "it": "Mi fa molto male."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Para menor intensidad: Me duele un poco.",
+        "en": "Menor intensidad: It hurts a little.",
+        "pt": "Menor intensidad: Dói um pouco.",
+        "fr": "Menor intensidad: J'ai un peu mal.",
+        "it": "Menor intensidad: Mi fa un po' male."
+      }
     },
     {
       "id": "cs138",
-      "es": "Siento ardor aquí. / Me arde aquí.",
+      "es": "Me arde aquí.",
       "translations": {
-        "en": "I feel a burning sensation here. / It burns here.",
-        "pt": "Sinto uma queimação aqui. / Está ardendo aqui.",
-        "fr": "J'ai une sensation de brûlure ici. / Ça me brûle ici.",
-        "it": "Sento un bruciore qui. / Qui mi brucia."
+        "en": "It burns here.",
+        "pt": "Está ardendo aqui.",
+        "fr": "Ça me brûle ici.",
+        "it": "Qui mi brucia."
       },
       "image_url": ""
     },
     {
       "id": "cs139",
-      "es": "¿Cuánto te duele, de cero a diez? / ¿Cuánto le duele, de cero a diez?",
+      "es": "¿Qué tanto te duele, del cero al diez?",
       "translations": {
         "en": "How bad is the pain, from zero to ten?",
         "pt": "Quanto dói, de zero a dez?",
         "fr": "Sur une échelle de zéro à dix, à combien évaluez-vous la douleur ?",
-        "it": "Quanto ti fa male, da zero a dieci? / Quanto le fa male, da zero a dieci?"
+        "it": "Quanto ti fa male, da zero a dieci?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Forma de usted: ¿Qué tanto le duele, del cero al diez?",
+        "it": "Forma formal: Quanto Le fa male, da zero a dieci?",
+        "fr": "La forma existente utiliza vous formal."
+      }
     },
     {
       "id": "cs140",
@@ -1566,14 +2261,21 @@
     },
     {
       "id": "cs143",
-      "es": "Me duele al caminar / al moverme.",
+      "es": "Me duele al caminar.",
       "translations": {
-        "en": "It hurts when I walk. / It hurts when I move.",
-        "pt": "Dói quando eu ando. / Dói quando me mexo.",
-        "fr": "J'ai mal quand je marche. / J'ai mal quand je bouge.",
-        "it": "Mi fa male quando cammino. / Mi fa male quando mi muovo."
+        "en": "It hurts when I walk.",
+        "pt": "Dói quando eu ando.",
+        "fr": "J’ai mal quand je marche.",
+        "it": "Mi fa male quando cammino."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Alternativa: Me duele al moverme.",
+        "en": "Al moverse: It hurts when I move.",
+        "pt": "Al moverse: Dói quando me mexo.",
+        "fr": "Al moverse: J’ai mal quand je bouge.",
+        "it": "Al moverse: Mi fa male quando mi muovo."
+      }
     },
     {
       "id": "cs144",
@@ -1601,12 +2303,18 @@
       "id": "cs146",
       "es": "Me duele al orinar.",
       "translations": {
-        "en": "It hurts when I urinate. / It hurts when I pee.",
-        "pt": "Dói quando eu urino. / Dói quando faço xixi.",
-        "fr": "J'ai mal quand j'urine. / J'ai mal quand je fais pipi.",
-        "it": "Mi fa male quando urino. / Mi fa male quando faccio pipì."
+        "en": "It hurts when I pee.",
+        "pt": "Dói quando faço xixi.",
+        "fr": "J'ai mal quand j'urine.",
+        "it": "Mi fa male quando urino."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "To urinate es más clínico.",
+        "pt": "Urinar es más clínico.",
+        "fr": "Faire pipi es informal.",
+        "it": "Fare pipì es informal."
+      }
     },
     {
       "id": "cs147",
@@ -1621,14 +2329,18 @@
     },
     {
       "id": "cs148",
-      "es": "Tengo treinta y ocho grados de temperatura (Celsius).",
+      "es": "Tengo 38 grados de temperatura.",
       "translations": {
         "en": "My temperature is thirty-eight degrees Celsius.",
         "pt": "Minha temperatura está em trinta e oito graus Celsius.",
         "fr": "Ma température est de trente-huit degrés Celsius.",
         "it": "Ho una temperatura di trentotto gradi Celsius."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Temperatura en grados Celsius; en EE. UU. suele usarse Fahrenheit.",
+        "en": "Se refiere a 38 °C, equivalentes aproximadamente a 100.4 °F."
+      }
     },
     {
       "id": "cs149",
@@ -1643,47 +2355,63 @@
     },
     {
       "id": "cs150",
-      "es": "Tengo la nariz tapada / congestionada.",
+      "es": "Tengo la nariz tapada.",
       "translations": {
-        "en": "My nose is stuffed up. / I have a stuffy nose.",
+        "en": "I have a stuffy nose.",
         "pt": "Estou com o nariz entupido.",
         "fr": "J'ai le nez bouché.",
         "it": "Ho il naso chiuso."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "También: tengo la nariz congestionada.",
+        "en": "También: My nose is stuffed up."
+      }
     },
     {
       "id": "cs151",
-      "es": "Me gotea la nariz. / Tengo escurrimiento nasal.",
+      "es": "Me escurre la nariz.",
       "translations": {
         "en": "I have a runny nose.",
-        "pt": "Estou com o nariz escorrendo. / Estou com coriza.",
+        "pt": "Estou com o nariz escorrendo.",
         "fr": "J'ai le nez qui coule.",
         "it": "Mi cola il naso."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "También: tengo escurrimiento nasal.",
+        "pt": "También: estou com coriza."
+      }
     },
     {
       "id": "cs152",
       "es": "Me sangra la nariz.",
       "translations": {
-        "en": "I have a nosebleed. / My nose is bleeding.",
+        "en": "My nose is bleeding.",
         "pt": "Meu nariz está sangrando.",
         "fr": "Je saigne du nez.",
         "it": "Mi sanguina il naso."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "También: I have a nosebleed."
+      }
     },
     {
       "id": "cs153",
-      "es": "Estoy mareado/a.",
+      "es": "Estoy mareado.",
       "translations": {
         "en": "I feel dizzy.",
         "pt": "Estou com tontura.",
-        "fr": "J'ai des étourdissements. / J'ai la tête qui tourne.",
-        "it": "Ho dei capogiri. / Mi gira la testa."
+        "fr": "J'ai la tête qui tourne.",
+        "it": "Mi gira la testa."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Si habla una mujer: Estoy mareada.",
+        "fr": "También: J’ai des étourdissements.",
+        "it": "También: Ho dei capogiri."
+      }
     },
     {
       "id": "cs154",
@@ -1768,10 +2496,14 @@
       "translations": {
         "en": "I've fallen.",
         "pt": "Eu caí.",
-        "fr": "Je suis tombé. / Je suis tombée.",
-        "it": "Sono caduto. / Sono caduta."
+        "fr": "Je suis tombé.",
+        "it": "Sono caduto."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Variante: Je suis tombée.",
+        "it": "Variante: Sono caduta."
+      }
     },
     {
       "id": "cs162",
@@ -1780,9 +2512,12 @@
         "en": "I cut my finger.",
         "pt": "Cortei o dedo da mão.",
         "fr": "Je me suis coupé le doigt.",
-        "it": "Mi sono tagliato un dito della mano. / Mi sono tagliata un dito della mano."
+        "it": "Mi sono tagliato un dito della mano."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "Variante: Mi sono tagliata un dito della mano."
+      }
     },
     {
       "id": "cs163",
@@ -1791,9 +2526,12 @@
         "en": "I burned my hand.",
         "pt": "Queimei a mão.",
         "fr": "Je me suis brûlé la main.",
-        "it": "Mi sono bruciato la mano. / Mi sono bruciata la mano."
+        "it": "Mi sono bruciato la mano."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "Variante: Mi sono bruciata la mano."
+      }
     },
     {
       "id": "cs164",
@@ -1802,42 +2540,60 @@
         "en": "I twisted my ankle.",
         "pt": "Torci o tornozelo.",
         "fr": "Je me suis tordu la cheville.",
-        "it": "Mi sono storto la caviglia. / Mi sono storta la caviglia."
+        "it": "Mi sono storto la caviglia."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "Variante: Mi sono storta la caviglia."
+      }
     },
     {
       "id": "cs165",
       "es": "Me picó un insecto.",
       "translations": {
-        "en": "An insect bit me. / An insect stung me.",
+        "en": "An insect bit me.",
         "pt": "Um inseto me picou.",
-        "fr": "Un insecte m'a piqué. / Un insecte m'a piquée.",
+        "fr": "Un insecte m'a piqué.",
         "it": "Mi ha punto un insetto."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Variante: An insect stung me.",
+        "fr": "Variante: Un insecte m'a piquée."
+      }
     },
     {
       "id": "cs166",
-      "es": "¿Desde cuándo te pasa? / ¿Desde cuándo le pasa?",
+      "es": "¿Desde cuándo te pasa?",
       "translations": {
         "en": "How long has this been happening?",
         "pt": "Há quanto tempo isso acontece?",
         "fr": "Depuis quand ça vous arrive ?",
-        "it": "Da quanto tempo ti succede? / Da quanto tempo le succede?"
+        "it": "Da quanto tempo ti succede?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "Variante: Da quanto tempo le succede?",
+        "es": "Variante: ¿Desde cuándo le pasa?"
+      }
     },
     {
       "id": "cs167",
-      "es": "Empezó esta mañana / ayer.",
+      "es": "Empezó esta mañana",
       "translations": {
-        "en": "It started this morning. / It started yesterday.",
-        "pt": "Começou hoje de manhã. / Começou ontem.",
-        "fr": "Ça a commencé ce matin. / Ça a commencé hier.",
-        "it": "È iniziato stamattina. / È iniziato ieri."
+        "en": "It started this morning.",
+        "pt": "Começou hoje de manhã.",
+        "fr": "Ça a commencé ce matin.",
+        "it": "È iniziato stamattina."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Variante: It started yesterday.",
+        "pt": "Variante: Começou ontem.",
+        "fr": "Variante: Ça a commencé hier.",
+        "it": "Variante: È iniziato ieri.",
+        "es": "Variante: ayer."
+      }
     },
     {
       "id": "cs168",
@@ -1907,14 +2663,18 @@
     },
     {
       "id": "cs174",
-      "es": "Soy alérgico/a a la penicilina.",
+      "es": "Soy alérgico a la penicilina.",
       "translations": {
         "en": "I'm allergic to penicillin.",
         "pt": "Tenho alergia à penicilina.",
         "fr": "Je suis allergique à la pénicilline.",
-        "it": "Sono allergico alla penicillina. / Sono allergica alla penicillina."
+        "it": "Sono allergico alla penicillina."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Si habla una mujer: Soy alérgica a la penicilina.",
+        "it": "Si habla una mujer: Sono allergica alla penicillina."
+      }
     },
     {
       "id": "cs175",
@@ -1984,25 +2744,39 @@
     },
     {
       "id": "cs181",
-      "es": "Tengo asma / diabetes.",
+      "es": "Tengo asma.",
       "translations": {
-        "en": "I have asthma. / I have diabetes.",
-        "pt": "Tenho asma. / Tenho diabetes.",
-        "fr": "J'ai de l'asthme. / J'ai du diabète.",
-        "it": "Ho l'asma. / Ho il diabete."
+        "en": "I have asthma.",
+        "pt": "Tenho asma.",
+        "fr": "J'ai de l'asthme.",
+        "it": "Ho l'asma."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Para diabetes: Tengo diabetes.",
+        "en": "Para diabetes: I have diabetes.",
+        "pt": "Para diabetes: Tenho diabetes.",
+        "fr": "Para diabetes: J’ai du diabète.",
+        "it": "Para diabetes: Ho il diabete."
+      }
     },
     {
       "id": "cs182",
-      "es": "Tengo la presión alta / baja.",
+      "es": "Tengo la presión alta.",
       "translations": {
-        "en": "I have high blood pressure. / I have low blood pressure.",
-        "pt": "Tenho pressão alta. / Tenho pressão baixa.",
-        "fr": "J'ai une tension élevée. / J'ai une tension basse.",
-        "it": "Ho la pressione alta. / Ho la pressione bassa."
+        "en": "I have high blood pressure.",
+        "pt": "Tenho pressão alta.",
+        "fr": "J’ai de l’hypertension.",
+        "it": "Ho la pressione alta."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Para presión baja: Tengo la presión baja.",
+        "en": "Para presión baja: I have low blood pressure.",
+        "pt": "Para presión baja: Tenho pressão baixa.",
+        "fr": "Para presión baja: J’ai une tension basse.",
+        "it": "Para presión baja: Ho la pressione bassa."
+      }
     },
     {
       "id": "cs183",
@@ -2185,11 +2959,14 @@
       "es": "No tengo seguro médico.",
       "translations": {
         "en": "I don't have health insurance.",
-        "pt": "Não tenho plano de saúde / seguro-saúde.",
+        "pt": "Não tenho plano de saúde.",
         "fr": "Je n'ai pas d'assurance maladie.",
         "it": "Non ho un'assicurazione sanitaria."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "También: Não tenho seguro-saúde, según la cobertura."
+      }
     },
     {
       "id": "cs200",
@@ -2292,14 +3069,21 @@
     },
     {
       "id": "cs209",
-      "es": "Me cuesta respirar. / Me falta el aire.",
+      "es": "Me cuesta respirar.",
       "translations": {
-        "en": "I'm having trouble breathing. / I'm short of breath.",
-        "pt": "Estou com dificuldade para respirar. / Estou com falta de ar.",
-        "fr": "J'ai du mal à respirer. / Je manque d'air.",
-        "it": "Faccio fatica a respirare. / Mi manca l'aria."
+        "en": "I'm having trouble breathing.",
+        "pt": "Estou com dificuldade para respirar.",
+        "fr": "J'ai du mal à respirer.",
+        "it": "Faccio fatica a respirare."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "También: me falta el aire.",
+        "en": "También: I'm short of breath.",
+        "pt": "También: Estou com falta de ar.",
+        "fr": "También: Je manque d'air.",
+        "it": "También: Mi manca l'aria."
+      }
     },
     {
       "id": "cs210",
@@ -2366,6 +3150,412 @@
         "it": "Ho una reazione allergica."
       },
       "image_url": ""
+    },
+    {
+      "id": "cs216",
+      "es": "El cabello",
+      "translations": {
+        "en": "Hair",
+        "fr": "Les cheveux",
+        "it": "I capelli",
+        "pt": "O cabelo"
+      },
+      "image_url": "",
+      "notes": {
+        "fr": "Singular: le cheveu",
+        "it": "Singular: il capello"
+      }
+    },
+    {
+      "id": "cs217",
+      "es": "La ceja",
+      "translations": {
+        "en": "The eyebrow",
+        "fr": "le sourcil",
+        "it": "il sopracciglio",
+        "pt": "a sobrancelha"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as sobrancelhas",
+        "fr": "Plural: les sourcils",
+        "it": "Plural: le sopracciglia",
+        "en": "Plural: eyebrows"
+      }
+    },
+    {
+      "id": "cs218",
+      "es": "La pestaña",
+      "translations": {
+        "en": "The eyelash",
+        "fr": "le cil",
+        "it": "il ciglio",
+        "pt": "o cílio"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os cílios",
+        "fr": "Plural: les cils",
+        "it": "Plural: le ciglia",
+        "en": "Plural: eyelashes"
+      }
+    },
+    {
+      "id": "cs219",
+      "es": "El hígado",
+      "translations": {
+        "en": "The liver",
+        "fr": "le foie",
+        "it": "il fegato",
+        "pt": "o fígado"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os fígados",
+        "fr": "Plural: les foies",
+        "it": "Plural: i fegati",
+        "en": "Plural: livers"
+      }
+    },
+    {
+      "id": "cs220",
+      "es": "El médico",
+      "translations": {
+        "en": "The doctor",
+        "fr": "Le médecin",
+        "it": "Il medico",
+        "pt": "O médico"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os médicos; Femenino: a médica (pl. as médicas)",
+        "fr": "Plural: les médecins; Femenino: la médecin (pl. les médecins)",
+        "it": "Plural: i medici; Femenino: la medica (pl. le mediche)",
+        "en": "Plural: doctors"
+      }
+    },
+    {
+      "id": "cs221",
+      "es": "El enfermero",
+      "translations": {
+        "en": "The nurse",
+        "fr": "L’infirmier",
+        "it": "L’infermiere",
+        "pt": "O enfermeiro"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os enfermeiros; Femenino: a enfermeira (pl. as enfermeiras)",
+        "fr": "Plural: les infirmiers; Femenino: l’infirmière (pl. les infirmières)",
+        "it": "Plural: gli infermieri; Femenino: l’infermiera (pl. le infermiere)",
+        "en": "Plural: nurses"
+      }
+    },
+    {
+      "id": "cs222",
+      "es": "El dolor de oído",
+      "translations": {
+        "en": "The earache",
+        "fr": "Le mal d’oreille",
+        "it": "Il mal d’orecchio",
+        "pt": "A dor de ouvido"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: earaches",
+        "pt": "Plural: as dores de ouvido",
+        "fr": "Plural: les maux d’oreille",
+        "it": "Plural: i mal d’orecchio"
+      }
+    },
+    {
+      "id": "cs223",
+      "es": "La vacuna",
+      "translations": {
+        "en": "The vaccine",
+        "fr": "le vaccin",
+        "it": "il vaccino",
+        "pt": "a vacina"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as vacinas",
+        "fr": "Plural: les vaccins",
+        "it": "Plural: i vaccini",
+        "en": "Plural: vaccines"
+      }
+    },
+    {
+      "id": "cs224",
+      "es": "La fractura",
+      "translations": {
+        "en": "The fracture",
+        "fr": "la fracture",
+        "it": "la frattura",
+        "pt": "a fratura"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as fraturas",
+        "fr": "Plural: les fractures",
+        "it": "Plural: le fratture",
+        "en": "Plural: fractures"
+      }
+    },
+    {
+      "id": "cs225",
+      "es": "La vejiga",
+      "translations": {
+        "en": "The bladder",
+        "pt": "A bexiga",
+        "fr": "La vessie",
+        "it": "La vescica"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: bladders",
+        "pt": "Plural: as bexigas",
+        "fr": "Plural: les vessies",
+        "it": "Plural: le vesciche"
+      }
+    },
+    {
+      "id": "cs226",
+      "es": "La costilla",
+      "translations": {
+        "en": "The rib",
+        "pt": "A costela",
+        "fr": "La côte",
+        "it": "La costola"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: ribs",
+        "pt": "Plural: as costelas",
+        "fr": "Plural: les côtes",
+        "it": "Plural: le costole"
+      }
+    },
+    {
+      "id": "cs227",
+      "es": "El antebrazo",
+      "translations": {
+        "en": "The forearm",
+        "pt": "O antebraço",
+        "fr": "L’avant-bras",
+        "it": "L’avambraccio"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: forearms",
+        "pt": "Plural: os antebraços",
+        "fr": "Plural: les avant-bras",
+        "it": "Plural: gli avambracci"
+      }
+    },
+    {
+      "id": "cs228",
+      "es": "El dedo índice",
+      "translations": {
+        "en": "The index finger",
+        "pt": "O dedo indicador",
+        "fr": "L’index",
+        "it": "Il dito indice"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: index fingers",
+        "pt": "Plural: os dedos indicadores",
+        "fr": "Plural: les index",
+        "it": "Plural: le dita indice"
+      }
+    },
+    {
+      "id": "cs229",
+      "es": "La axila",
+      "translations": {
+        "en": "The armpit",
+        "pt": "A axila",
+        "fr": "L’aisselle",
+        "it": "L’ascella"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: armpits",
+        "pt": "Plural: as axilas",
+        "fr": "Plural: les aisselles",
+        "it": "Plural: le ascelle"
+      }
+    },
+    {
+      "id": "cs230",
+      "es": "La orina",
+      "translations": {
+        "en": "Urine",
+        "pt": "A urina",
+        "fr": "L’urine",
+        "it": "L’urina"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: urines",
+        "pt": "Plural: as urinas",
+        "fr": "Plural: les urines",
+        "it": "Plural: le urine"
+      }
+    },
+    {
+      "id": "cs231",
+      "es": "La gripe estomacal",
+      "translations": {
+        "en": "The stomach bug",
+        "pt": "A gastroenterite",
+        "fr": "La gastro-entérite",
+        "it": "La gastroenterite"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as gastroenterites",
+        "fr": "Plural: les gastro-entérites",
+        "it": "Plural: le gastroenteriti",
+        "en": "Plural: stomach bugs"
+      }
+    },
+    {
+      "id": "cs232",
+      "es": "El dolor de estómago",
+      "translations": {
+        "en": "A stomachache",
+        "pt": "A dor de estômago",
+        "fr": "Le mal d’estomac",
+        "it": "Il mal di stomaco"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: stomachaches",
+        "pt": "Plural: as dores de estômago",
+        "fr": "Plural: les maux d’estomac",
+        "it": "Plural: i mal di stomaco"
+      }
+    },
+    {
+      "id": "cs233",
+      "es": "La torcedura",
+      "translations": {
+        "en": "The sprain",
+        "pt": "A entorse",
+        "fr": "L’entorse",
+        "it": "La distorsione"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: sprains",
+        "pt": "Plural: as entorses",
+        "fr": "Plural: les entorses",
+        "it": "Plural: le distorsioni"
+      }
+    },
+    {
+      "id": "cs234",
+      "es": "La infección de garganta",
+      "translations": {
+        "en": "The throat infection",
+        "pt": "A infecção de garganta",
+        "fr": "L’infection de la gorge",
+        "it": "L’infezione alla gola"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: throat infections",
+        "pt": "Plural: as infecções de garganta",
+        "fr": "Plural: les infections de la gorge",
+        "it": "Plural: le infezioni alla gola"
+      }
+    },
+    {
+      "id": "cs235",
+      "es": "La jeringa",
+      "translations": {
+        "en": "The syringe",
+        "pt": "A seringa",
+        "fr": "La seringue",
+        "it": "La siringa"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: syringes",
+        "pt": "Plural: as seringas",
+        "fr": "Plural: les seringues",
+        "it": "Plural: le siringhe"
+      }
+    },
+    {
+      "id": "cs236",
+      "es": "El cubrebocas",
+      "translations": {
+        "en": "The face mask",
+        "pt": "A máscara facial",
+        "fr": "Le masque",
+        "it": "La mascherina"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: face masks",
+        "pt": "Plural: as máscaras faciais",
+        "fr": "Plural: les masques",
+        "it": "Plural: le mascherine"
+      }
+    },
+    {
+      "id": "cs237",
+      "es": "La inyección",
+      "translations": {
+        "en": "The injection",
+        "pt": "A injeção",
+        "fr": "L’injection",
+        "it": "L’iniezione"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: injections",
+        "pt": "Plural: as injeções",
+        "fr": "Plural: les injections",
+        "it": "Plural: le iniezioni"
+      }
+    },
+    {
+      "id": "cs238",
+      "es": "La menstruación",
+      "translations": {
+        "en": "Menstruation",
+        "pt": "A menstruação",
+        "fr": "Les règles",
+        "it": "Le mestruazioni"
+      },
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les règles; Uso habitual en plural.",
+        "it": "Plural: le mestruazioni; Uso habitual en plural.",
+        "en": "Plural: menstruations",
+        "pt": "Plural: as menstruaçãos"
+      }
+    },
+    {
+      "id": "cs239",
+      "es": "La prueba de embarazo",
+      "translations": {
+        "en": "The pregnancy test",
+        "pt": "O teste de gravidez",
+        "fr": "Le test de grossesse",
+        "it": "Il test di gravidanza"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: pregnancy tests",
+        "pt": "Plural: os testes de gravidez",
+        "fr": "Plural: les tests de grossesse",
+        "it": "Plural: i test di gravidanza"
+      }
     }
   ]
 }

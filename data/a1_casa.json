@@ -1,1742 +1,2678 @@
 {
   "module": "La Casa y el Hogar",
   "level": "A1",
+  "revisado": "true",
   "cards": [
     {
       "id": "ca1",
-      "es": "Casa / Hogar",
+      "es": "La casa",
       "translations": {
-        "en": "House / Home",
-        "pt": "Casa / Lar",
-        "fr": "Maison / Chez-soi",
-        "it": "Casa"
+        "en": "The house",
+        "fr": "La maison",
+        "it": "La casa",
+        "pt": "A casa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Casa designa la vivienda; hogar también expresa pertenencia y vínculo afectivo.",
+        "en": "Plural: the houses",
+        "fr": "Plural: les maisons",
+        "it": "Plural: le case",
+        "pt": "Plural: as casas"
+      }
     },
     {
       "id": "ca2",
-      "es": "Departamento / Apartamento / Piso (vivienda)",
+      "es": "El departamento",
       "translations": {
-        "en": "Apartment",
-        "pt": "Apartamento",
-        "fr": "Appartement",
-        "it": "Appartamento"
+        "en": "The apartment",
+        "fr": "L’appartement",
+        "it": "L’appartamento",
+        "pt": "O apartamento"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "En México, departamento; también se dice apartamento en otras regiones.",
+        "en": "Plural: the apartments",
+        "fr": "Plural: les appartements",
+        "it": "Plural: gli appartamenti",
+        "pt": "Plural: os apartamentos"
+      }
     },
     {
       "id": "ca3",
-      "es": "Edificio de departamentos",
+      "es": "El edificio de departamentos",
       "translations": {
-        "en": "Apartment building",
-        "pt": "Prédio de apartamentos",
-        "fr": "Immeuble d'habitation",
-        "it": "Palazzo di appartamenti"
+        "en": "The apartment building",
+        "fr": "L’immeuble d'habitation",
+        "it": "Il condominio",
+        "pt": "O prédio de apartamentos"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the apartment buildings",
+        "fr": "Plural: les immeubles d'habitation",
+        "it": "Plural: i condomìni",
+        "pt": "Plural: os prédios de apartamentos"
+      }
     },
     {
       "id": "ca4",
-      "es": "Habitación / Cuarto (espacio de la casa)",
+      "es": "El cuarto",
       "translations": {
-        "en": "Room",
-        "pt": "Cômodo",
-        "fr": "Pièce",
-        "it": "Stanza"
+        "en": "The room",
+        "fr": "La pièce",
+        "it": "La stanza",
+        "pt": "O cômodo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Espacio o habitación en general; para dormir, recámara.",
+        "en": "Plural: the rooms",
+        "fr": "Plural: les pièces",
+        "it": "Plural: le stanze",
+        "pt": "Plural: os cômodos"
+      }
     },
     {
       "id": "ca5",
-      "es": "Dormitorio / Recámara",
+      "es": "La recámara",
       "translations": {
-        "en": "Bedroom",
-        "pt": "Quarto / Dormitório",
-        "fr": "Chambre",
-        "it": "Camera da letto"
+        "en": "The bedroom",
+        "fr": "La chambre",
+        "it": "La camera da letto",
+        "pt": "O quarto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bedrooms",
+        "fr": "Plural: les chambres",
+        "it": "Plural: le camere da letto",
+        "pt": "Plural: os quartos"
+      }
     },
     {
       "id": "ca6",
-      "es": "Sala / Salón / Sala de estar",
+      "es": "La sala",
       "translations": {
-        "en": "Living room",
-        "pt": "Sala de estar",
-        "fr": "Salon / Séjour",
-        "it": "Soggiorno / Salotto"
+        "en": "The living room",
+        "fr": "Le salon",
+        "it": "Il soggiorno",
+        "pt": "A sala de estar"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the living rooms",
+        "fr": "Plural: les salons",
+        "it": "Plural: i soggiorni",
+        "pt": "Plural: as salas de estar"
+      }
     },
     {
       "id": "ca7",
-      "es": "Comedor (habitación)",
+      "es": "El comedor",
       "translations": {
-        "en": "Dining room",
-        "pt": "Sala de jantar",
-        "fr": "Salle à manger",
-        "it": "Sala da pranzo"
+        "en": "The dining room",
+        "fr": "La salle à manger",
+        "it": "La sala da pranzo",
+        "pt": "A sala de jantar"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dining rooms",
+        "fr": "Plural: les salles à manger",
+        "it": "Plural: le sale da pranzo",
+        "pt": "Plural: as salas de jantar"
+      }
     },
     {
       "id": "ca8",
-      "es": "Cocina (habitación)",
+      "es": "La cocina",
       "translations": {
-        "en": "Kitchen",
-        "pt": "Cozinha",
-        "fr": "Cuisine",
-        "it": "Cucina"
+        "en": "The kitchen",
+        "fr": "La cuisine",
+        "it": "La cucina",
+        "pt": "A cozinha"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the kitchens",
+        "fr": "Plural: les cuisines",
+        "it": "Plural: le cucine",
+        "pt": "Plural: as cozinhas"
+      }
     },
     {
       "id": "ca9",
-      "es": "Baño / Cuarto de baño",
+      "es": "El baño",
       "translations": {
-        "en": "Bathroom",
-        "pt": "Banheiro",
-        "fr": "Salle de bains",
-        "it": "Bagno"
+        "en": "The bathroom",
+        "fr": "La salle de bains",
+        "it": "Il bagno",
+        "pt": "O banheiro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bathrooms",
+        "fr": "Plural: les salles de bains",
+        "it": "Plural: i bagni",
+        "pt": "Plural: os banheiros"
+      }
     },
     {
       "id": "ca10",
-      "es": "Medio baño (con inodoro y lavabo, sin ducha ni bañera)",
+      "es": "El medio baño",
       "translations": {
-        "en": "Half bathroom / Half bath",
-        "pt": "Lavabo",
-        "fr": "Toilettes avec lavabo",
-        "it": "Bagno con WC e lavabo, senza doccia né vasca"
+        "en": "The half bathroom",
+        "fr": "Les toilettes avec lavabo",
+        "it": "Il bagno di servizio",
+        "pt": "O lavabo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Baño con inodoro y lavabo, generalmente sin ducha ni tina.",
+        "en": "Plural: the half bathrooms",
+        "it": "Plural: i bagni di servizio",
+        "pt": "Plural: os lavabos"
+      }
     },
     {
       "id": "ca11",
-      "es": "Estudio / Despacho (habitación de trabajo)",
+      "es": "El estudio",
       "translations": {
-        "en": "Study / Home office",
-        "pt": "Escritório",
-        "fr": "Bureau",
-        "it": "Studio"
+        "en": "The study",
+        "fr": "Le bureau",
+        "it": "Lo studio",
+        "pt": "O escritório"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the studies",
+        "fr": "Plural: les bureaux",
+        "it": "Plural: gli studi",
+        "pt": "Plural: os escritórios"
+      }
     },
     {
       "id": "ca12",
-      "es": "Cuarto de lavado / Lavandería (en casa)",
+      "es": "El cuarto de lavado",
       "translations": {
-        "en": "Laundry room",
-        "pt": "Lavanderia / Área de serviço",
-        "fr": "Buanderie",
-        "it": "Locale lavanderia"
+        "en": "The laundry room",
+        "fr": "La buanderie",
+        "it": "La lavanderia",
+        "pt": "A lavanderia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the laundry rooms",
+        "fr": "Plural: les buanderies",
+        "it": "Plural: le lavanderie",
+        "pt": "Plural: as lavanderias"
+      }
     },
     {
       "id": "ca13",
-      "es": "Pasillo",
+      "es": "El pasillo",
       "translations": {
-        "en": "Hallway / Corridor",
-        "pt": "Corredor",
-        "fr": "Couloir",
-        "it": "Corridoio"
+        "en": "The hallway",
+        "fr": "Le couloir",
+        "it": "Il corridoio",
+        "pt": "O corredor"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hallways",
+        "fr": "Plural: les couloirs",
+        "it": "Plural: i corridoi",
+        "pt": "Plural: os corredores"
+      }
     },
     {
       "id": "ca14",
-      "es": "Entrada / Recibidor",
+      "es": "El recibidor",
       "translations": {
-        "en": "Entryway / Entrance hall",
-        "pt": "Entrada / Hall de entrada",
-        "fr": "Entrée / Vestibule",
-        "it": "Ingresso"
+        "en": "The entryway",
+        "fr": "L’entrée",
+        "it": "L’ingresso",
+        "pt": "O hall de entrada"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the entryways",
+        "fr": "Plural: les entrées",
+        "it": "Plural: gli ingressi",
+        "pt": "Plural: os halls de entrada"
+      }
     },
     {
       "id": "ca15",
-      "es": "Cochera / Garaje",
+      "es": "La cochera",
       "translations": {
-        "en": "Garage",
-        "pt": "Garagem",
-        "fr": "Garage",
-        "it": "Garage / Autorimessa"
+        "en": "The garage",
+        "fr": "Le garage",
+        "it": "Il garage",
+        "pt": "A garagem"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the garages",
+        "fr": "Plural: les garages",
+        "it": "Plural: i garage",
+        "pt": "Plural: as garagens"
+      }
     },
     {
       "id": "ca16",
-      "es": "Sótano",
+      "es": "El sótano",
       "translations": {
-        "en": "Basement",
-        "pt": "Porão",
-        "fr": "Sous-sol",
-        "it": "Scantinato"
+        "en": "The basement",
+        "fr": "Le sous-sol",
+        "it": "Lo scantinato",
+        "pt": "O porão"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the basements",
+        "fr": "Plural: les sous-sols",
+        "it": "Plural: gli scantinati",
+        "pt": "Plural: os porões"
+      }
     },
     {
       "id": "ca17",
-      "es": "Desván / Buhardilla (espacio bajo el tejado)",
+      "es": "El ático",
       "translations": {
-        "en": "Attic",
-        "pt": "Sótão",
-        "fr": "Grenier / Combles",
-        "it": "Soffitta"
+        "en": "The attic",
+        "fr": "Le grenier",
+        "it": "La soffitta",
+        "pt": "O sótão"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se refiere al desván bajo el tejado, no a un departamento de lujo.",
+        "en": "Plural: the attics",
+        "fr": "Plural: les greniers",
+        "it": "Plural: le soffitte",
+        "pt": "Plural: os sótãos"
+      }
     },
     {
       "id": "ca18",
-      "es": "Despensa (espacio para guardar alimentos)",
+      "es": "La despensa",
       "translations": {
-        "en": "Pantry",
-        "pt": "Despensa",
-        "fr": "Garde-manger",
-        "it": "Dispensa"
+        "en": "The pantry",
+        "fr": "Le garde-manger",
+        "it": "La dispensa",
+        "pt": "A despensa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pantries",
+        "fr": "Plural: les garde-mangers",
+        "it": "Plural: le dispense",
+        "pt": "Plural: as despensas"
+      }
     },
     {
       "id": "ca19",
-      "es": "Bodega / Cuarto de almacenamiento (en casa)",
+      "es": "La bodega",
       "translations": {
-        "en": "Storage room",
-        "pt": "Depósito / Quarto de depósito",
-        "fr": "Débarras",
-        "it": "Ripostiglio"
+        "en": "The storage room",
+        "fr": "Le débarras",
+        "it": "Il ripostiglio",
+        "pt": "O depósito"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the storage rooms",
+        "fr": "Plural: les débarras",
+        "it": "Plural: i ripostigli",
+        "pt": "Plural: os depósitos"
+      }
     },
     {
       "id": "ca20",
-      "es": "Jardín",
+      "es": "El jardín",
       "translations": {
-        "en": "Garden",
-        "pt": "Jardim",
-        "fr": "Jardin",
-        "it": "Giardino"
+        "en": "The garden",
+        "fr": "Le jardin",
+        "it": "Il giardino",
+        "pt": "O jardim"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the gardens",
+        "fr": "Plural: les jardins",
+        "it": "Plural: i giardini",
+        "pt": "Plural: os jardins"
+      }
     },
     {
       "id": "ca21",
-      "es": "Patio (espacio exterior de la casa)",
+      "es": "El patio",
       "translations": {
-        "en": "Patio / Courtyard",
-        "pt": "Pátio",
-        "fr": "Cour / Patio",
-        "it": "Cortile / Patio"
+        "en": "The courtyard",
+        "fr": "La cour",
+        "it": "Il cortile",
+        "pt": "O pátio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Patio interior o espacio descubierto de la vivienda.",
+        "en": "Plural: the courtyards",
+        "fr": "Plural: les cours",
+        "it": "Plural: i cortili",
+        "pt": "Plural: os pátios"
+      }
     },
     {
       "id": "ca22",
-      "es": "Patio trasero",
+      "es": "El patio trasero",
       "translations": {
-        "en": "Backyard",
-        "pt": "Quintal",
-        "fr": "Cour arrière",
-        "it": "Cortile sul retro"
+        "en": "The backyard",
+        "fr": "La cour arrière",
+        "it": "Il cortile sul retro",
+        "pt": "O quintal"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Espacio exterior posterior de una casa.",
+        "en": "Plural: the backyards",
+        "fr": "Plural: les cours arrière",
+        "it": "Plural: i cortili sul retro",
+        "pt": "Plural: os quintais"
+      }
     },
     {
       "id": "ca23",
-      "es": "Balcón",
+      "es": "El balcón",
       "translations": {
-        "en": "Balcony",
-        "pt": "Sacada / Varanda",
-        "fr": "Balcon",
-        "it": "Balcone"
+        "en": "The balcony",
+        "fr": "Le balcon",
+        "it": "Il balcone",
+        "pt": "A sacada"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the balconies",
+        "fr": "Plural: les balcons",
+        "it": "Plural: i balconi",
+        "pt": "Plural: as sacadas",
+        "es": "La sacada suele sobresalir de la fachada."
+      }
     },
     {
       "id": "ca24",
-      "es": "Terraza",
+      "es": "La terraza",
       "translations": {
-        "en": "Terrace",
-        "pt": "Terraço",
-        "fr": "Terrasse",
-        "it": "Terrazza"
+        "en": "The terrace",
+        "fr": "La terrasse",
+        "it": "La terrazza",
+        "pt": "O terraço"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the terraces",
+        "fr": "Plural: les terrasses",
+        "it": "Plural: le terrazze",
+        "pt": "Plural: os terraços"
+      }
     },
     {
       "id": "ca25",
-      "es": "Alberca / Piscina",
+      "es": "La alberca",
       "translations": {
-        "en": "Swimming pool / Pool",
-        "pt": "Piscina",
-        "fr": "Piscine",
-        "it": "Piscina"
+        "en": "The swimming pool",
+        "fr": "La piscine",
+        "it": "La piscina",
+        "pt": "A piscina"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the swimming pools",
+        "fr": "Plural: les piscines",
+        "it": "Plural: le piscine",
+        "pt": "Plural: as piscinas"
+      }
     },
     {
       "id": "ca26",
-      "es": "Puerta",
+      "es": "La puerta",
       "translations": {
-        "en": "Door",
-        "pt": "Porta",
-        "fr": "Porte",
-        "it": "Porta"
+        "en": "The door",
+        "fr": "La porte",
+        "it": "La porta",
+        "pt": "A porta"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the doors",
+        "fr": "Plural: les portes",
+        "it": "Plural: le porte",
+        "pt": "Plural: as portas"
+      }
     },
     {
       "id": "ca27",
-      "es": "Ventana",
+      "es": "La ventana",
       "translations": {
-        "en": "Window",
-        "pt": "Janela",
-        "fr": "Fenêtre",
-        "it": "Finestra"
+        "en": "The window",
+        "fr": "La fenêtre",
+        "it": "La finestra",
+        "pt": "A janela"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the windows",
+        "fr": "Plural: les fenêtres",
+        "it": "Plural: le finestre",
+        "pt": "Plural: as janelas"
+      }
     },
     {
       "id": "ca28",
-      "es": "Pared / Muro",
+      "es": "La pared",
       "translations": {
-        "en": "Wall",
-        "pt": "Parede",
-        "fr": "Mur",
-        "it": "Parete / Muro"
+        "en": "The wall",
+        "fr": "Le mur",
+        "it": "La parete",
+        "pt": "A parede"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the walls",
+        "fr": "Plural: les murs",
+        "it": "Plural: le pareti",
+        "pt": "Plural: as paredes"
+      }
     },
     {
       "id": "ca29",
-      "es": "Piso / Suelo (superficie que pisamos)",
+      "es": "El piso",
       "translations": {
-        "en": "Floor",
-        "pt": "Chão / Piso",
-        "fr": "Sol",
-        "it": "Pavimento"
+        "en": "The floor",
+        "fr": "Le sol",
+        "it": "Il pavimento",
+        "pt": "O chão"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Superficie sobre la que se camina, no nivel del edificio.",
+        "en": "Plural: the floors",
+        "fr": "Plural: les sols",
+        "it": "Plural: i pavimenti",
+        "pt": "Plural: os chãos"
+      }
     },
     {
       "id": "ca30",
-      "es": "Techo interior / Cielo raso",
+      "es": "El techo interior",
       "translations": {
-        "en": "Ceiling",
-        "pt": "Teto",
-        "fr": "Plafond",
-        "it": "Soffitto"
+        "en": "The ceiling",
+        "fr": "Le plafond",
+        "it": "Il soffitto",
+        "pt": "O teto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Superficie interior superior de una habitación; para la cubierta exterior, véase tejado.",
+        "en": "Plural: the ceilings",
+        "fr": "Plural: les plafonds",
+        "it": "Plural: i soffitti",
+        "pt": "Plural: os tetos"
+      }
     },
     {
       "id": "ca31",
-      "es": "Tejado / Techo exterior",
+      "es": "El tejado",
       "translations": {
-        "en": "Roof",
-        "pt": "Telhado",
-        "fr": "Toit",
-        "it": "Tetto"
+        "en": "The roof",
+        "fr": "Le toit",
+        "it": "Il tetto",
+        "pt": "O telhado"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the roofs",
+        "fr": "Plural: les toits",
+        "it": "Plural: i tetti",
+        "pt": "Plural: os telhados"
+      }
     },
     {
       "id": "ca32",
-      "es": "Piso / Planta (nivel de un edificio)",
+      "es": "El piso del edificio",
       "translations": {
-        "en": "Floor / Story",
-        "pt": "Andar / Pavimento",
-        "fr": "Étage / Niveau",
-        "it": "Piano"
+        "en": "The floor",
+        "fr": "L’étage",
+        "it": "Il piano",
+        "pt": "O andar"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Nivel de un edificio, no superficie sobre la que se camina.",
+        "en": "Plural: the floors",
+        "fr": "Plural: les étages",
+        "it": "Plural: i piani",
+        "pt": "Plural: os andares"
+      }
     },
     {
       "id": "ca33",
-      "es": "Planta baja (nivel de la calle)",
+      "es": "La planta baja",
       "translations": {
-        "en": "Ground floor / First floor",
-        "pt": "Térreo",
-        "fr": "Rez-de-chaussée",
-        "it": "Piano terra"
+        "en": "The first floor",
+        "fr": "Le rez-de-chaussée",
+        "it": "Il piano terra",
+        "pt": "O térreo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "En inglés estadounidense, first floor corresponde a la planta baja.",
+        "en": "Plural: the first floors",
+        "fr": "Plural: les rez-de-chaussée",
+        "it": "Plural: i piani terra",
+        "pt": "Plural: os térreos"
+      }
     },
     {
       "id": "ca34",
-      "es": "Primer piso (un nivel por encima de la planta baja)",
+      "es": "El primer piso",
       "translations": {
-        "en": "Second floor",
-        "pt": "Primeiro andar",
-        "fr": "Premier étage",
-        "it": "Primo piano"
+        "en": "The second floor",
+        "fr": "Le premier étage",
+        "it": "Il primo piano",
+        "pt": "O primeiro andar"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "En inglés estadounidense, second floor es el nivel sobre la planta baja.",
+        "en": "Plural: the second floors",
+        "fr": "Plural: les premiers étages",
+        "it": "Plural: i primi piani",
+        "pt": "Plural: os primeiros andares"
+      }
     },
     {
       "id": "ca35",
-      "es": "Escaleras",
+      "es": "Las escaleras",
       "translations": {
-        "en": "Stairs / Staircase",
-        "pt": "Escada",
-        "fr": "Escalier",
-        "it": "Scale / Scala"
+        "en": "The stairs",
+        "fr": "L’escalier",
+        "it": "Le scale",
+        "pt": "A escada"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Stairs es la forma habitual para el conjunto de escalones.",
+        "fr": "Plural: les escaliers",
+        "it": "Scale es la forma habitual para este conjunto.",
+        "pt": "Plural: as escadas"
+      }
     },
     {
       "id": "ca36",
-      "es": "Ascensor / Elevador",
+      "es": "El elevador",
       "translations": {
-        "en": "Elevator",
-        "pt": "Elevador",
-        "fr": "Ascenseur",
-        "it": "Ascensore"
+        "en": "The elevator",
+        "fr": "L’ascenseur",
+        "it": "L’ascensore",
+        "pt": "O elevador"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the elevators",
+        "fr": "Plural: les ascenseurs",
+        "it": "Plural: gli ascensori",
+        "pt": "Plural: os elevadores"
+      }
     },
     {
       "id": "ca37",
-      "es": "Barandal / Pasamanos",
+      "es": "El pasamanos",
       "translations": {
-        "en": "Railing / Handrail",
-        "pt": "Corrimão",
-        "fr": "Rampe / Main courante",
-        "it": "Ringhiera / Corrimano"
+        "en": "The handrail",
+        "fr": "La main courante",
+        "it": "Il corrimano",
+        "pt": "O corrimão"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Parte que se sujeta con la mano; no equivale a toda la barandilla.",
+        "en": "Plural: the handrails",
+        "fr": "Plural: les mains courantes",
+        "it": "Plural: i corrimano",
+        "pt": "Plural: os corrimãos"
+      }
     },
     {
       "id": "ca38",
-      "es": "Timbre (de la puerta)",
+      "es": "El timbre",
       "translations": {
-        "en": "Doorbell",
-        "pt": "Campainha",
-        "fr": "Sonnette",
-        "it": "Campanello"
+        "en": "The doorbell",
+        "fr": "La sonnette",
+        "it": "Il campanello",
+        "pt": "A campainha"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the doorbells",
+        "fr": "Plural: les sonnettes",
+        "it": "Plural: i campanelli",
+        "pt": "Plural: as campainhas"
+      }
     },
     {
       "id": "ca39",
-      "es": "Cerradura",
+      "es": "La cerradura",
       "translations": {
-        "en": "Lock",
-        "pt": "Fechadura",
-        "fr": "Serrure",
-        "it": "Serratura"
+        "en": "The lock",
+        "fr": "La serrure",
+        "it": "La serratura",
+        "pt": "A fechadura"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the locks",
+        "fr": "Plural: les serrures",
+        "it": "Plural: le serrature",
+        "pt": "Plural: as fechaduras"
+      }
     },
     {
       "id": "ca40",
-      "es": "Manija / Picaporte (de la puerta)",
+      "es": "La manija",
       "translations": {
-        "en": "Door handle / Doorknob",
-        "pt": "Maçaneta",
-        "fr": "Poignée de porte",
-        "it": "Maniglia della porta"
+        "en": "The door handle",
+        "fr": "La poignée de porte",
+        "it": "La maniglia della porta",
+        "pt": "A maçaneta"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the door handles",
+        "fr": "Plural: les poignées de porte",
+        "it": "Plural: le maniglie della porta",
+        "pt": "Plural: as maçanetas"
+      }
     },
     {
       "id": "ca41",
-      "es": "Enchufe / Tomacorriente (en la pared)",
+      "es": "El contacto eléctrico",
       "translations": {
-        "en": "Electrical outlet / Wall socket",
-        "pt": "Tomada",
-        "fr": "Prise de courant",
-        "it": "Presa elettrica"
+        "en": "The electrical outlet",
+        "fr": "La prise de courant",
+        "it": "La presa elettrica",
+        "pt": "A tomada"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the electrical outlets",
+        "fr": "Plural: les prises de courant",
+        "it": "Plural: le prese elettriche",
+        "pt": "Plural: as tomadas"
+      }
     },
     {
       "id": "ca42",
-      "es": "Interruptor (de la luz)",
+      "es": "El interruptor de luz",
       "translations": {
-        "en": "Light switch",
-        "pt": "Interruptor",
-        "fr": "Interrupteur",
-        "it": "Interruttore della luce"
+        "en": "The light switch",
+        "fr": "L’interrupteur",
+        "it": "L’interruttore della luce",
+        "pt": "O interruptor"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the light switches",
+        "fr": "Plural: les interrupteurs",
+        "it": "Plural: gli interruttori della luce",
+        "pt": "Plural: os interruptores"
+      }
     },
     {
       "id": "ca43",
-      "es": "Foco / Bombilla",
+      "es": "El foco",
       "translations": {
-        "en": "Light bulb",
-        "pt": "Lâmpada",
-        "fr": "Ampoule",
-        "it": "Lampadina"
+        "en": "The light bulb",
+        "fr": "L’ampoule",
+        "it": "La lampadina",
+        "pt": "A lâmpada"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the light bulbs",
+        "fr": "Plural: les ampoules",
+        "it": "Plural: le lampadine",
+        "pt": "Plural: as lâmpadas"
+      }
     },
     {
       "id": "ca44",
-      "es": "Grifo / Llave del agua",
+      "es": "La llave de agua",
       "translations": {
-        "en": "Faucet / Tap",
-        "pt": "Torneira",
-        "fr": "Robinet",
-        "it": "Rubinetto"
+        "en": "The faucet",
+        "fr": "Le robinet",
+        "it": "Il rubinetto",
+        "pt": "A torneira"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the faucets",
+        "fr": "Plural: les robinets",
+        "it": "Plural: i rubinetti",
+        "pt": "Plural: as torneiras"
+      }
     },
     {
       "id": "ca45",
-      "es": "Calefacción (sistema para calentar la casa)",
+      "es": "La calefacción",
       "translations": {
-        "en": "Heating / Central heating",
-        "pt": "Aquecimento",
-        "fr": "Chauffage",
-        "it": "Riscaldamento"
+        "en": "The heating",
+        "fr": "Le chauffage",
+        "it": "Il riscaldamento",
+        "pt": "O aquecimento"
       },
       "image_url": ""
     },
     {
       "id": "ca46",
-      "es": "Aire acondicionado",
+      "es": "El aire acondicionado",
       "translations": {
-        "en": "Air conditioning / Air conditioner",
-        "pt": "Ar-condicionado",
-        "fr": "Climatisation / Climatiseur",
-        "it": "Aria condizionata / Condizionatore"
+        "en": "The air conditioning",
+        "fr": "La climatisation",
+        "it": "L’aria condizionata",
+        "pt": "O ar-condicionado"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Designa el sistema de enfriamiento; no necesariamente el aparato individual.",
+        "en": "Air conditioning designa el sistema; air conditioner, el aparato."
+      }
     },
     {
       "id": "ca47",
-      "es": "Calentador de agua / Boiler",
+      "es": "El calentador de agua",
       "translations": {
-        "en": "Water heater",
-        "pt": "Aquecedor de água",
-        "fr": "Chauffe-eau",
-        "it": "Scaldabagno"
+        "en": "The water heater",
+        "fr": "Le chauffe-eau",
+        "it": "Lo scaldabagno",
+        "pt": "O aquecedor de água"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the water heaters",
+        "fr": "Plural: les chauffe-eau",
+        "it": "Plural: gli scaldabagni",
+        "pt": "Plural: os aquecedores de água"
+      }
     },
     {
       "id": "ca48",
-      "es": "Chimenea (para hacer fuego en casa)",
+      "es": "La chimenea",
       "translations": {
-        "en": "Fireplace",
-        "pt": "Lareira",
-        "fr": "Cheminée",
-        "it": "Camino"
+        "en": "The fireplace",
+        "fr": "La cheminée",
+        "it": "Il camino",
+        "pt": "A lareira"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the fireplaces",
+        "fr": "Plural: les cheminées",
+        "it": "Plural: i camini",
+        "pt": "Plural: as lareiras"
+      }
     },
     {
       "id": "ca49",
-      "es": "Muebles / Mobiliario",
+      "es": "Los muebles",
       "translations": {
-        "en": "Furniture",
-        "pt": "Móveis / Mobília",
-        "fr": "Meubles / Mobilier",
-        "it": "Mobili / Arredamento"
+        "en": "The furniture",
+        "fr": "Les meubles",
+        "it": "I mobili",
+        "pt": "Os móveis"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Grupo de objetos de mobiliario; se enseña como conjunto.",
+        "en": "Furniture es incontable; para piezas individuales se usa piece of furniture.",
+        "fr": "Singular válido: le meuble.",
+        "it": "Singular válido: il mobile.",
+        "pt": "Singular válido: o móvel."
+      }
     },
     {
       "id": "ca50",
-      "es": "Mesa",
+      "es": "La mesa",
       "translations": {
-        "en": "Table",
-        "pt": "Mesa",
-        "fr": "Table",
-        "it": "Tavolo"
+        "en": "The table",
+        "fr": "La table",
+        "it": "Il tavolo",
+        "pt": "A mesa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the tables",
+        "fr": "Plural: les tables",
+        "it": "Plural: i tavoli",
+        "pt": "Plural: as mesas"
+      }
     },
     {
       "id": "ca51",
-      "es": "Silla",
+      "es": "La silla",
       "translations": {
-        "en": "Chair",
-        "pt": "Cadeira",
-        "fr": "Chaise",
-        "it": "Sedia"
+        "en": "The chair",
+        "fr": "La chaise",
+        "it": "La sedia",
+        "pt": "A cadeira"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the chairs",
+        "fr": "Plural: les chaises",
+        "it": "Plural: le sedie",
+        "pt": "Plural: as cadeiras"
+      }
     },
     {
       "id": "ca52",
-      "es": "Sofá",
+      "es": "El sofá",
       "translations": {
-        "en": "Sofa / Couch",
-        "pt": "Sofá",
-        "fr": "Canapé",
-        "it": "Divano"
+        "en": "The couch",
+        "fr": "Le canapé",
+        "it": "Il divano",
+        "pt": "O sofá"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the couches",
+        "fr": "Plural: les canapés",
+        "it": "Plural: i divani",
+        "pt": "Plural: os sofás"
+      }
     },
     {
       "id": "ca53",
-      "es": "Sillón / Butaca (para una persona)",
+      "es": "El sillón",
       "translations": {
-        "en": "Armchair",
-        "pt": "Poltrona",
-        "fr": "Fauteuil",
-        "it": "Poltrona"
+        "en": "The armchair",
+        "fr": "Le fauteuil",
+        "it": "La poltrona",
+        "pt": "A poltrona"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the armchairs",
+        "fr": "Plural: les fauteuils",
+        "it": "Plural: le poltrone",
+        "pt": "Plural: as poltronas"
+      }
     },
     {
       "id": "ca54",
-      "es": "Sofá cama",
+      "es": "El sofá cama",
       "translations": {
-        "en": "Sofa bed / Sleeper sofa",
-        "pt": "Sofá-cama",
-        "fr": "Canapé-lit",
-        "it": "Divano letto"
+        "en": "The sofa bed",
+        "fr": "Le canapé-lit",
+        "it": "Il divano letto",
+        "pt": "O sofá-cama"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sofa beds",
+        "fr": "Plural: les canapés-lits",
+        "it": "Plural: i divani letto",
+        "pt": "Plural: os sofás-cama"
+      }
     },
     {
       "id": "ca55",
-      "es": "Mesa de centro",
+      "es": "La mesa de centro",
       "translations": {
-        "en": "Coffee table",
-        "pt": "Mesa de centro",
-        "fr": "Table basse",
-        "it": "Tavolino da salotto"
+        "en": "The coffee table",
+        "fr": "La table basse",
+        "it": "Il tavolino da salotto",
+        "pt": "A mesa de centro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the coffee tables",
+        "fr": "Plural: les tables basses",
+        "it": "Plural: i tavolini da salotto",
+        "pt": "Plural: as mesas de centro"
+      }
     },
     {
       "id": "ca56",
-      "es": "Mesa de comedor",
+      "es": "La mesa de comedor",
       "translations": {
-        "en": "Dining table",
-        "pt": "Mesa de jantar",
-        "fr": "Table à manger",
-        "it": "Tavolo da pranzo"
+        "en": "The dining table",
+        "fr": "La table à manger",
+        "it": "Il tavolo da pranzo",
+        "pt": "A mesa de jantar"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dining tables",
+        "fr": "Plural: les tables à manger",
+        "it": "Plural: i tavoli da pranzo",
+        "pt": "Plural: as mesas de jantar"
+      }
     },
     {
       "id": "ca57",
-      "es": "Escritorio (mueble)",
+      "es": "El escritorio",
       "translations": {
-        "en": "Desk",
-        "pt": "Escrivaninha / Mesa de trabalho",
-        "fr": "Bureau",
-        "it": "Scrivania"
+        "en": "The desk",
+        "fr": "Le bureau",
+        "it": "La scrivania",
+        "pt": "A escrivaninha"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the desks",
+        "fr": "Plural: les bureaux",
+        "it": "Plural: le scrivanie",
+        "pt": "Plural: as escrivaninhas"
+      }
     },
     {
       "id": "ca58",
-      "es": "Librero / Estantería para libros",
+      "es": "El librero",
       "translations": {
-        "en": "Bookcase / Bookshelf",
-        "pt": "Estante de livros",
-        "fr": "Bibliothèque",
-        "it": "Libreria"
+        "en": "The bookcase",
+        "fr": "La bibliothèque",
+        "it": "La libreria",
+        "pt": "A estante de livros"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bookcases",
+        "fr": "Plural: les bibliothèques",
+        "it": "Plural: le librerie",
+        "pt": "Plural: as estantes de livros"
+      }
     },
     {
       "id": "ca59",
-      "es": "Repisa / Estante (una superficie para colocar cosas)",
+      "es": "La repisa",
       "translations": {
-        "en": "Shelf",
-        "pt": "Prateleira",
-        "fr": "Étagère",
-        "it": "Ripiano / Mensola"
+        "en": "The shelf",
+        "fr": "L’étagère",
+        "it": "La mensola",
+        "pt": "A prateleira"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the shelves",
+        "fr": "Plural: les étagères",
+        "it": "Plural: le mensole",
+        "pt": "Plural: as prateleiras"
+      }
     },
     {
       "id": "ca60",
-      "es": "Cajón (de un mueble)",
+      "es": "El cajón",
       "translations": {
-        "en": "Drawer",
-        "pt": "Gaveta",
-        "fr": "Tiroir",
-        "it": "Cassetto"
+        "en": "The drawer",
+        "fr": "Le tiroir",
+        "it": "Il cassetto",
+        "pt": "A gaveta"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the drawers",
+        "fr": "Plural: les tiroirs",
+        "it": "Plural: i cassetti",
+        "pt": "Plural: as gavetas"
+      }
     },
     {
       "id": "ca61",
-      "es": "Cómoda / Cajonera",
+      "es": "La cómoda",
       "translations": {
-        "en": "Dresser / Chest of drawers",
-        "pt": "Cômoda / Gaveteiro",
-        "fr": "Commode",
-        "it": "Cassettiera / Comò"
+        "en": "The dresser",
+        "fr": "La commode",
+        "it": "La cassettiera",
+        "pt": "A cômoda"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dressers",
+        "fr": "Plural: les commodes",
+        "it": "Plural: le cassettiere",
+        "pt": "Plural: as cômodas"
+      }
     },
     {
       "id": "ca62",
-      "es": "Armario / Ropero (mueble para guardar ropa)",
+      "es": "El ropero",
       "translations": {
-        "en": "Wardrobe",
-        "pt": "Guarda-roupa / Roupeiro",
-        "fr": "Armoire / Penderie",
-        "it": "Armadio"
+        "en": "The wardrobe",
+        "fr": "L’armoire",
+        "it": "L’armadio",
+        "pt": "O guarda-roupa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the wardrobes",
+        "fr": "Plural: les armoires",
+        "it": "Plural: gli armadi",
+        "pt": "Plural: os guarda-roupas"
+      }
     },
     {
       "id": "ca63",
-      "es": "Clóset empotrado (para guardar ropa)",
+      "es": "El clóset empotrado",
       "translations": {
-        "en": "Built-in closet",
-        "pt": "Armário embutido",
-        "fr": "Placard intégré",
-        "it": "Armadio a muro"
+        "en": "The built-in closet",
+        "fr": "Le placard intégré",
+        "it": "L’armadio a muro",
+        "pt": "O armário embutido"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the built-in closets",
+        "fr": "Plural: les placards intégrés",
+        "it": "Plural: gli armadi a muro",
+        "pt": "Plural: os armários embutidos"
+      }
     },
     {
       "id": "ca64",
-      "es": "Cama",
+      "es": "La cama",
       "translations": {
-        "en": "Bed",
-        "pt": "Cama",
-        "fr": "Lit",
-        "it": "Letto"
+        "en": "The bed",
+        "fr": "Le lit",
+        "it": "Il letto",
+        "pt": "A cama"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the beds",
+        "fr": "Plural: les lits",
+        "it": "Plural: i letti",
+        "pt": "Plural: as camas"
+      }
     },
     {
       "id": "ca65",
-      "es": "Cama individual",
+      "es": "La cama individual",
       "translations": {
-        "en": "Twin bed / Single bed",
-        "pt": "Cama de solteiro",
-        "fr": "Lit une place",
-        "it": "Letto singolo"
+        "en": "The twin bed",
+        "fr": "Le lit une place",
+        "it": "Il letto singolo",
+        "pt": "A cama de solteiro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the twin beds",
+        "fr": "Plural: les lits une place",
+        "it": "Plural: i letti singoli",
+        "pt": "Plural: as camas de solteiro"
+      }
     },
     {
       "id": "ca66",
-      "es": "Cama matrimonial / Doble",
+      "es": "La cama matrimonial",
       "translations": {
-        "en": "Double bed",
-        "pt": "Cama de casal",
-        "fr": "Lit double",
-        "it": "Letto matrimoniale"
+        "en": "The double bed",
+        "fr": "Le lit double",
+        "it": "Il letto matrimoniale",
+        "pt": "A cama de casal"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the double beds",
+        "fr": "Plural: les lits doubles",
+        "it": "Plural: i letti matrimoniali",
+        "pt": "Plural: as camas de casal"
+      }
     },
     {
       "id": "ca67",
-      "es": "Litera",
+      "es": "La litera",
       "translations": {
-        "en": "Bunk bed",
-        "pt": "Beliche",
-        "fr": "Lit superposé",
-        "it": "Letto a castello"
+        "en": "The bunk bed",
+        "fr": "Le lit superposé",
+        "it": "Il letto a castello",
+        "pt": "O beliche"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bunk beds",
+        "fr": "Plural: les lits superposés",
+        "it": "Plural: i letti a castello",
+        "pt": "Plural: os beliches"
+      }
     },
     {
       "id": "ca68",
-      "es": "Cuna",
+      "es": "La cuna",
       "translations": {
-        "en": "Crib",
-        "pt": "Berço",
-        "fr": "Berceau / Lit de bébé",
-        "it": "Culla"
+        "en": "The crib",
+        "fr": "Le lit de bébé",
+        "it": "Il lettino da neonato",
+        "pt": "O berço"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Cuna para bebé, distinta del moisés.",
+        "en": "Plural: the cribs",
+        "fr": "Plural: les lits de bébé",
+        "it": "Plural: i lettini da neonato",
+        "pt": "Plural: os berços"
+      }
     },
     {
       "id": "ca69",
-      "es": "Buró / Mesita de noche",
+      "es": "El buró",
       "translations": {
-        "en": "Nightstand / Bedside table",
-        "pt": "Mesa de cabeceira / Criado-mudo",
-        "fr": "Table de nuit",
-        "it": "Comodino"
+        "en": "The nightstand",
+        "fr": "La table de nuit",
+        "it": "Il comodino",
+        "pt": "A mesa de cabeceira"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the nightstands",
+        "fr": "Plural: les tables de nuit",
+        "it": "Plural: i comodini",
+        "pt": "Plural: as mesas de cabeceira"
+      }
     },
     {
       "id": "ca70",
-      "es": "Colchón",
+      "es": "El colchón",
       "translations": {
-        "en": "Mattress",
-        "pt": "Colchão",
-        "fr": "Matelas",
-        "it": "Materasso"
+        "en": "The mattress",
+        "fr": "Le matelas",
+        "it": "Il materasso",
+        "pt": "O colchão"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mattresses",
+        "fr": "Plural: les matelas",
+        "it": "Plural: i materassi",
+        "pt": "Plural: os colchões"
+      }
     },
     {
       "id": "ca71",
-      "es": "Almohada",
+      "es": "La almohada",
       "translations": {
-        "en": "Pillow",
-        "pt": "Travesseiro",
-        "fr": "Oreiller",
-        "it": "Cuscino per dormire / Guanciale"
+        "en": "The pillow",
+        "fr": "L’oreiller",
+        "it": "Il guanciale",
+        "pt": "O travesseiro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Almohada para dormir; el cojín decorativo se enseña aparte.",
+        "en": "Plural: the pillows",
+        "fr": "Plural: les oreillers",
+        "it": "Plural: i guanciali",
+        "pt": "Plural: os travesseiros"
+      }
     },
     {
       "id": "ca72",
-      "es": "Cojín (decorativo o del sofá)",
+      "es": "El cojín",
       "translations": {
-        "en": "Cushion / Throw pillow",
-        "pt": "Almofada",
-        "fr": "Coussin",
-        "it": "Cuscino"
+        "en": "The throw pillow",
+        "fr": "La coussin",
+        "it": "Il cuscino",
+        "pt": "A almofada"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Cojín de sofá o decoración, no almohada para dormir.",
+        "en": "Plural: the throw pillows",
+        "fr": "Plural: les coussins",
+        "it": "Plural: i cuscini",
+        "pt": "Plural: as almofadas"
+      }
     },
     {
       "id": "ca73",
-      "es": "Sábana / Sábanas",
+      "es": "La sábana",
       "translations": {
-        "en": "Sheet / Bed sheets",
-        "pt": "Lençol / Lençóis",
-        "fr": "Drap / Draps",
-        "it": "Lenzuolo / Lenzuola"
+        "en": "The bed sheet",
+        "fr": "Le drap",
+        "it": "Il lenzuolo",
+        "pt": "O lençol"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bed sheets",
+        "fr": "Plural: les draps",
+        "it": "Plural: le lenzuola",
+        "pt": "Plural: os lençóis"
+      }
     },
     {
       "id": "ca74",
-      "es": "Funda de almohada",
+      "es": "La funda de almohada",
       "translations": {
-        "en": "Pillowcase",
-        "pt": "Fronha",
-        "fr": "Taie d'oreiller",
-        "it": "Federa"
+        "en": "The pillowcase",
+        "fr": "La taie d'oreiller",
+        "it": "La federa",
+        "pt": "A fronha"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pillowcases",
+        "fr": "Plural: les taies d'oreiller",
+        "it": "Plural: le federe",
+        "pt": "Plural: as fronhas"
+      }
     },
     {
       "id": "ca75",
-      "es": "Cobija / Manta / Frazada",
+      "es": "La cobija",
       "translations": {
-        "en": "Blanket",
-        "pt": "Cobertor / Manta",
-        "fr": "Couverture",
-        "it": "Coperta"
+        "en": "The blanket",
+        "fr": "La couverture",
+        "it": "La coperta",
+        "pt": "O cobertor"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the blankets",
+        "fr": "Plural: les couvertures",
+        "it": "Plural: le coperte",
+        "pt": "Plural: os cobertores"
+      }
     },
     {
       "id": "ca76",
-      "es": "Edredón",
+      "es": "El edredón",
       "translations": {
-        "en": "Comforter / Duvet",
-        "pt": "Edredom",
-        "fr": "Couette",
-        "it": "Piumone"
+        "en": "The comforter",
+        "fr": "La couette",
+        "it": "Il piumone",
+        "pt": "O edredom"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the comforters",
+        "fr": "Plural: les couettes",
+        "it": "Plural: i piumoni",
+        "pt": "Plural: os edredons"
+      }
     },
     {
       "id": "ca77",
-      "es": "Colcha / Cubrecama",
+      "es": "La colcha",
       "translations": {
-        "en": "Bedspread",
-        "pt": "Colcha",
-        "fr": "Couvre-lit",
-        "it": "Copriletto"
+        "en": "The bedspread",
+        "fr": "Le couvre-lit",
+        "it": "Il copriletto",
+        "pt": "A colcha"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bedspreads",
+        "fr": "Plural: les couvre-lits",
+        "it": "Plural: i copriletti",
+        "pt": "Plural: as colchas"
+      }
     },
     {
       "id": "ca78",
-      "es": "Cortina / Cortinas",
+      "es": "La cortina",
       "translations": {
-        "en": "Curtain / Curtains",
-        "pt": "Cortina / Cortinas",
-        "fr": "Rideau / Rideaux",
-        "it": "Tenda / Tende"
+        "en": "The curtain",
+        "fr": "Le rideau",
+        "it": "La tenda",
+        "pt": "A cortina"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the curtains",
+        "fr": "Plural: les rideaux",
+        "it": "Plural: le tende",
+        "pt": "Plural: as cortinas"
+      }
     },
     {
       "id": "ca79",
-      "es": "Persiana (de interior)",
+      "es": "La persiana",
       "translations": {
-        "en": "Window blind / Blinds",
-        "pt": "Persiana",
-        "fr": "Store",
-        "it": "Tenda a veneziana / Veneziana"
+        "en": "The window blind",
+        "fr": "Le store",
+        "it": "La veneziana",
+        "pt": "A persiana"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Persiana interior de lamas; en francés, store también puede designar otros tipos.",
+        "en": "Plural: the window blinds",
+        "fr": "Plural: les stores",
+        "it": "Plural: le veneziane",
+        "pt": "Plural: as persianas"
+      }
     },
     {
       "id": "ca80",
-      "es": "Tapete / Alfombra pequeña (pieza que se puede mover)",
+      "es": "El tapete",
       "translations": {
-        "en": "Rug",
-        "pt": "Tapete",
-        "fr": "Tapis",
-        "it": "Tappeto"
+        "en": "The rug",
+        "fr": "Le tapis",
+        "it": "Il tappeto",
+        "pt": "O tapete"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Tapete suelto, no alfombra fija.",
+        "en": "Plural: the rugs",
+        "fr": "Plural: les tapis",
+        "it": "Plural: i tappeti",
+        "pt": "Plural: os tapetes"
+      }
     },
     {
       "id": "ca81",
-      "es": "Alfombra fija / Moqueta (de pared a pared)",
+      "es": "La alfombra de pared a pared",
       "translations": {
-        "en": "Wall-to-wall carpet / Carpeting",
-        "pt": "Carpete",
-        "fr": "Moquette",
-        "it": "Moquette"
+        "en": "The wall-to-wall carpet",
+        "fr": "La moquette",
+        "it": "La moquette",
+        "pt": "O carpete"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Revestimiento textil fijo del piso, no tapete suelto.",
+        "en": "Plural: the wall-to-wall carpets",
+        "it": "Plural: le moquette",
+        "pt": "Plural: os carpetes"
+      }
     },
     {
       "id": "ca82",
-      "es": "Lámpara",
+      "es": "La lámpara",
       "translations": {
-        "en": "Lamp",
-        "pt": "Luminária / Abajur",
-        "fr": "Lampe",
-        "it": "Lampada"
+        "en": "The lamp",
+        "fr": "La lampe",
+        "it": "La lampada",
+        "pt": "A luminária"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lamps",
+        "fr": "Plural: les lampes",
+        "it": "Plural: le lampade",
+        "pt": "Plural: as luminárias"
+      }
     },
     {
       "id": "ca83",
-      "es": "Espejo",
+      "es": "El espejo",
       "translations": {
-        "en": "Mirror",
-        "pt": "Espelho",
-        "fr": "Miroir",
-        "it": "Specchio"
+        "en": "The mirror",
+        "fr": "Le miroir",
+        "it": "Lo specchio",
+        "pt": "O espelho"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mirrors",
+        "fr": "Plural: les miroirs",
+        "it": "Plural: gli specchi",
+        "pt": "Plural: os espelhos"
+      }
     },
     {
       "id": "ca84",
-      "es": "Cuadro (decoración en la pared)",
+      "es": "El cuadro",
       "translations": {
-        "en": "Picture / Painting",
-        "pt": "Quadro",
-        "fr": "Tableau",
-        "it": "Quadro"
+        "en": "The picture",
+        "fr": "La tableau",
+        "it": "Il quadro",
+        "pt": "O quadro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pictures",
+        "fr": "Plural: les tableaux",
+        "it": "Plural: i quadri",
+        "pt": "Plural: os quadros"
+      }
     },
     {
       "id": "ca85",
-      "es": "Marco (de un cuadro o una foto)",
+      "es": "El marco",
       "translations": {
-        "en": "Frame / Picture frame",
-        "pt": "Moldura",
-        "fr": "Cadre",
-        "it": "Cornice"
+        "en": "The picture frame",
+        "fr": "Le cadre",
+        "it": "La cornice",
+        "pt": "A moldura"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the picture frames",
+        "fr": "Plural: les cadres",
+        "it": "Plural: le cornici",
+        "pt": "Plural: as molduras"
+      }
     },
     {
       "id": "ca86",
-      "es": "Reloj de pared",
+      "es": "El reloj de pared",
       "translations": {
-        "en": "Wall clock",
-        "pt": "Relógio de parede",
-        "fr": "Horloge murale",
-        "it": "Orologio da parete"
+        "en": "The wall clock",
+        "fr": "L’horloge murale",
+        "it": "L’orologio da parete",
+        "pt": "O relógio de parede"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the wall clocks",
+        "fr": "Plural: les horloges murale",
+        "it": "Plural: gli orologi da parete",
+        "pt": "Plural: os relógios de parede"
+      }
     },
     {
       "id": "ca87",
-      "es": "Planta de interior",
+      "es": "La planta de interior",
       "translations": {
-        "en": "Houseplant / Indoor plant",
-        "pt": "Planta de interior",
-        "fr": "Plante d'intérieur",
-        "it": "Pianta da appartamento"
+        "en": "The houseplant",
+        "fr": "La plante d'intérieur",
+        "it": "La pianta da appartamento",
+        "pt": "A planta de interior"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the houseplants",
+        "fr": "Plural: les plantes d'intérieur",
+        "it": "Plural: le piante da appartamento",
+        "pt": "Plural: as plantas de interior"
+      }
     },
     {
       "id": "ca88",
-      "es": "Maceta",
+      "es": "La maceta",
       "translations": {
-        "en": "Flowerpot / Plant pot",
-        "pt": "Vaso de planta",
-        "fr": "Pot de fleurs",
-        "it": "Vaso per piante"
+        "en": "The plant pot",
+        "fr": "Le pot de fleurs",
+        "it": "Il vaso per piante",
+        "pt": "O vaso de planta"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the plant pots",
+        "fr": "Plural: les pots de fleurs",
+        "it": "Plural: i vasi per piante",
+        "pt": "Plural: os vasos de planta"
+      }
     },
     {
       "id": "ca89",
-      "es": "Florero / Jarrón",
+      "es": "El florero",
       "translations": {
-        "en": "Vase",
-        "pt": "Vaso de flores",
-        "fr": "Vase",
-        "it": "Vaso da fiori"
+        "en": "The vase",
+        "fr": "Le vase",
+        "it": "Il vaso da fiori",
+        "pt": "O vaso de flores"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the vases",
+        "fr": "Plural: les vases",
+        "it": "Plural: i vasi da fiori",
+        "pt": "Plural: os vasos de flores"
+      }
     },
     {
       "id": "ca90",
-      "es": "Electrodoméstico",
+      "es": "El electrodoméstico",
       "translations": {
-        "en": "Home appliance / Household appliance",
-        "pt": "Eletrodoméstico",
-        "fr": "Appareil électroménager",
-        "it": "Elettrodomestico"
+        "en": "The home appliance",
+        "fr": "L’appareil électroménager",
+        "it": "L’elettrodomestico",
+        "pt": "O eletrodoméstico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the home appliances",
+        "fr": "Plural: les appareils électroménagers",
+        "it": "Plural: gli elettrodomestici",
+        "pt": "Plural: os eletrodomésticos"
+      }
     },
     {
       "id": "ca91",
-      "es": "Refrigerador / Nevera / Frigorífico",
+      "es": "El refrigerador",
       "translations": {
-        "en": "Refrigerator / Fridge",
-        "pt": "Geladeira / Refrigerador",
-        "fr": "Réfrigérateur / Frigo",
-        "it": "Frigorifero / Frigo"
+        "en": "The fridge",
+        "fr": "Le réfrigérateur",
+        "it": "Il frigorifero",
+        "pt": "A geladeira"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the fridges",
+        "fr": "Plural: les réfrigérateurs",
+        "it": "Plural: i frigoriferi",
+        "pt": "Plural: as geladeiras"
+      }
     },
     {
       "id": "ca92",
-      "es": "Congelador",
+      "es": "El congelador",
       "translations": {
-        "en": "Freezer",
-        "pt": "Freezer / Congelador",
-        "fr": "Congélateur",
-        "it": "Congelatore / Freezer"
+        "en": "The freezer",
+        "fr": "Le congélateur",
+        "it": "Il congelatore",
+        "pt": "O freezer"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the freezers",
+        "fr": "Plural: les congélateurs",
+        "it": "Plural: i congelatori",
+        "pt": "Plural: os freezeres"
+      }
     },
     {
       "id": "ca93",
-      "es": "Estufa / Cocina (aparato para cocinar)",
+      "es": "La estufa",
       "translations": {
-        "en": "Stove",
-        "pt": "Fogão",
-        "fr": "Cuisinière",
-        "it": "Cucina"
+        "en": "The stove",
+        "fr": "La cuisinière",
+        "it": "La cucina",
+        "pt": "O fogão"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aparato para cocinar con quemadores; no confundir con el espacio de la cocina.",
+        "en": "Plural: the stoves",
+        "fr": "Plural: les cuisinières",
+        "it": "Plural: le cucine",
+        "pt": "Plural: os fogões"
+      }
     },
     {
       "id": "ca94",
-      "es": "Quemador / Hornilla (de la estufa)",
+      "es": "El quemador",
       "translations": {
-        "en": "Burner",
-        "pt": "Boca do fogão",
-        "fr": "Feu de cuisson",
-        "it": "Fornello"
+        "en": "The burner",
+        "fr": "Le brûleur",
+        "it": "Il fornello",
+        "pt": "O boca do fogão"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Parte de la estufa donde se produce el calor.",
+        "en": "Plural: the burners",
+        "fr": "Plural: les brûleurs",
+        "it": "Plural: i fornelli",
+        "pt": "Plural: os bocas do fogão"
+      }
     },
     {
       "id": "ca95",
-      "es": "Horno",
+      "es": "El horno",
       "translations": {
-        "en": "Oven",
-        "pt": "Forno",
-        "fr": "Four",
-        "it": "Forno"
+        "en": "The oven",
+        "fr": "Le four",
+        "it": "Il forno",
+        "pt": "O forno"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ovens",
+        "fr": "Plural: les fours",
+        "it": "Plural: i forni",
+        "pt": "Plural: os fornos"
+      }
     },
     {
       "id": "ca96",
-      "es": "Microondas",
+      "es": "El microondas",
       "translations": {
-        "en": "Microwave / Microwave oven",
-        "pt": "Micro-ondas",
-        "fr": "Micro-ondes",
-        "it": "Microonde / Forno a microonde"
+        "en": "The microwave",
+        "fr": "Le micro-ondes",
+        "it": "Il forno a microonde",
+        "pt": "O micro-ondas"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the microwaves",
+        "fr": "Plural: les micro-ondes",
+        "it": "Plural: i forni a microonde",
+        "pt": "Plural: os micro-ondas"
+      }
     },
     {
       "id": "ca97",
-      "es": "Tostadora",
+      "es": "La tostadora",
       "translations": {
-        "en": "Toaster",
-        "pt": "Torradeira",
-        "fr": "Grille-pain",
-        "it": "Tostapane"
+        "en": "The toaster",
+        "fr": "Le grille-pain",
+        "it": "Il tostapane",
+        "pt": "A torradeira"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the toasters",
+        "fr": "Plural: les grille-pains",
+        "it": "Plural: i tostapane",
+        "pt": "Plural: as torradeiras"
+      }
     },
     {
       "id": "ca98",
-      "es": "Licuadora / Batidora de vaso",
+      "es": "La licuadora",
       "translations": {
-        "en": "Blender",
-        "pt": "Liquidificador",
-        "fr": "Blender / Mixeur",
-        "it": "Frullatore"
+        "en": "The blender",
+        "fr": "Le mixeur",
+        "it": "Il frullatore",
+        "pt": "O liquidificador"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the blenders",
+        "fr": "Plural: les mixeurs",
+        "it": "Plural: i frullatori",
+        "pt": "Plural: os liquidificadores"
+      }
     },
     {
       "id": "ca99",
-      "es": "Cafetera eléctrica (para café de filtro)",
+      "es": "La cafetera de filtro",
       "translations": {
-        "en": "Coffee maker / Drip coffee maker",
-        "pt": "Cafeteira elétrica",
-        "fr": "Cafetière électrique",
-        "it": "Macchina per caffè americano"
+        "en": "The drip coffee maker",
+        "fr": "La cafetière filtre",
+        "it": "La macchina per caffè americano",
+        "pt": "A cafeteira elétrica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the drip coffee makers",
+        "fr": "Plural: les cafetières filtre",
+        "it": "Plural: le macchine per caffè americano",
+        "pt": "Plural: as cafeteiras elétricas"
+      }
     },
     {
       "id": "ca100",
-      "es": "Hervidor eléctrico",
+      "es": "El hervidor eléctrico",
       "translations": {
-        "en": "Electric kettle",
-        "pt": "Chaleira elétrica",
-        "fr": "Bouilloire électrique",
-        "it": "Bollitore elettrico"
+        "en": "The electric kettle",
+        "fr": "La bouilloire électrique",
+        "it": "Il bollitore elettrico",
+        "pt": "A chaleira elétrica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the electric kettles",
+        "fr": "Plural: les bouilloires électriques",
+        "it": "Plural: i bollitori elettrici",
+        "pt": "Plural: as chaleiras elétricas"
+      }
     },
     {
       "id": "ca101",
-      "es": "Lavavajillas (aparato)",
+      "es": "El lavavajillas",
       "translations": {
-        "en": "Dishwasher",
-        "pt": "Lava-louças / Máquina de lavar louça",
-        "fr": "Lave-vaisselle",
-        "it": "Lavastoviglie"
+        "en": "The dishwasher",
+        "fr": "Le lave-vaisselle",
+        "it": "La lavastoviglie",
+        "pt": "A máquina de lavar louça"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dishwashers",
+        "fr": "Plural: les lave-vaisselle",
+        "it": "Plural: le lavastoviglie",
+        "pt": "Plural: as máquinas de lavar louça"
+      }
     },
     {
       "id": "ca102",
-      "es": "Lavadora de ropa",
+      "es": "La lavadora",
       "translations": {
-        "en": "Washing machine / Washer",
-        "pt": "Máquina de lavar roupa / Lavadora",
-        "fr": "Lave-linge / Machine à laver",
-        "it": "Lavatrice"
+        "en": "The washing machine",
+        "fr": "Le lave-linge",
+        "it": "La lavatrice",
+        "pt": "A máquina de lavar roupa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the washing machines",
+        "fr": "Plural: les lave-linge",
+        "it": "Plural: le lavatrici",
+        "pt": "Plural: as máquinas de lavar roupa"
+      }
     },
     {
       "id": "ca103",
-      "es": "Secadora de ropa",
+      "es": "La secadora",
       "translations": {
-        "en": "Clothes dryer / Dryer",
-        "pt": "Secadora de roupas",
-        "fr": "Sèche-linge",
-        "it": "Asciugatrice"
+        "en": "The dryer",
+        "fr": "Le sèche-linge",
+        "it": "L’asciugatrice",
+        "pt": "A secadora de roupas"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dryers",
+        "fr": "Plural: les sèche-linge",
+        "it": "Plural: le asciugatrici",
+        "pt": "Plural: as secadoras de roupas"
+      }
     },
     {
       "id": "ca104",
-      "es": "Plancha (para ropa)",
+      "es": "La plancha",
       "translations": {
-        "en": "Iron",
-        "pt": "Ferro de passar",
-        "fr": "Fer à repasser",
-        "it": "Ferro da stiro"
+        "en": "The iron",
+        "fr": "Le fer à repasser",
+        "it": "Il ferro da stiro",
+        "pt": "O ferro de passar"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the irons",
+        "fr": "Plural: les fers à repasser",
+        "it": "Plural: i ferri da stiro",
+        "pt": "Plural: os ferros de passar"
+      }
     },
     {
       "id": "ca105",
-      "es": "Tabla de planchar",
+      "es": "La tabla de planchar",
       "translations": {
-        "en": "Ironing board",
-        "pt": "Tábua de passar",
-        "fr": "Table à repasser",
-        "it": "Asse da stiro"
+        "en": "The ironing board",
+        "fr": "La table à repasser",
+        "it": "L’asse da stiro",
+        "pt": "A tábua de passar"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ironing boards",
+        "fr": "Plural: les tables à repasser",
+        "it": "Plural: le assi da stiro",
+        "pt": "Plural: as tábuas de passar"
+      }
     },
     {
       "id": "ca106",
-      "es": "Aspiradora",
+      "es": "La aspiradora",
       "translations": {
-        "en": "Vacuum cleaner / Vacuum",
-        "pt": "Aspirador de pó",
-        "fr": "Aspirateur",
-        "it": "Aspirapolvere"
+        "en": "The vacuum cleaner",
+        "fr": "L’aspirateur",
+        "it": "L’aspirapolvere",
+        "pt": "O aspirador de pó"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the vacuum cleaners",
+        "fr": "Plural: les aspirateurs",
+        "it": "Plural: gli aspirapolvere",
+        "pt": "Plural: os aspiradores de pó"
+      }
     },
     {
       "id": "ca107",
-      "es": "Ventilador",
+      "es": "El ventilador",
       "translations": {
-        "en": "Fan",
-        "pt": "Ventilador",
-        "fr": "Ventilateur",
-        "it": "Ventilatore"
+        "en": "The fan",
+        "fr": "Le ventilateur",
+        "it": "Il ventilatore",
+        "pt": "O ventilador"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the fans",
+        "fr": "Plural: les ventilateurs",
+        "it": "Plural: i ventilatori",
+        "pt": "Plural: os ventiladores"
+      }
     },
     {
       "id": "ca108",
-      "es": "Televisor / Televisión (aparato)",
+      "es": "El televisor",
       "translations": {
-        "en": "TV / Television",
-        "pt": "Televisor / Televisão",
-        "fr": "Téléviseur / Télévision",
-        "it": "Televisore / Televisione"
+        "en": "The TV",
+        "fr": "Le téléviseur",
+        "it": "Il televisore",
+        "pt": "O televisor"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the TVs",
+        "fr": "Plural: les téléviseurs",
+        "it": "Plural: i televisori",
+        "pt": "Plural: os televisores"
+      }
     },
     {
       "id": "ca109",
-      "es": "Control remoto / Mando a distancia",
+      "es": "El control remoto",
       "translations": {
-        "en": "Remote control / Remote",
-        "pt": "Controle remoto",
-        "fr": "Télécommande",
-        "it": "Telecomando"
+        "en": "The remote control",
+        "fr": "La télécommande",
+        "it": "Il telecomando",
+        "pt": "O controle remoto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the remote controls",
+        "fr": "Plural: les télécommandes",
+        "it": "Plural: i telecomandi",
+        "pt": "Plural: os controles remotos"
+      }
     },
     {
       "id": "ca110",
-      "es": "Fregadero / Tarja / Lavaplatos (de la cocina)",
+      "es": "La tarja",
       "translations": {
-        "en": "Kitchen sink",
-        "pt": "Pia da cozinha",
-        "fr": "Évier",
-        "it": "Lavello"
+        "en": "The kitchen sink",
+        "fr": "L’évier",
+        "it": "Il lavello",
+        "pt": "A pia da cozinha"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Fregadero de la cocina, no lavabo del baño.",
+        "en": "Plural: the kitchen sinks",
+        "fr": "Plural: les éviers",
+        "it": "Plural: i lavelli",
+        "pt": "Plural: as pias da cozinha"
+      }
     },
     {
       "id": "ca111",
-      "es": "Encimera / Mesada (superficie de trabajo de la cocina)",
+      "es": "La cubierta de cocina",
       "translations": {
-        "en": "Countertop / Kitchen counter",
-        "pt": "Bancada da cozinha",
-        "fr": "Plan de travail",
-        "it": "Piano di lavoro"
+        "en": "The countertop",
+        "fr": "Le plan de travail",
+        "it": "Il piano di lavoro",
+        "pt": "A bancada da cozinha"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the countertops",
+        "fr": "Plural: les plans de travail",
+        "it": "Plural: i piani di lavoro",
+        "pt": "Plural: as bancadas da cozinha"
+      }
     },
     {
       "id": "ca112",
-      "es": "Alacena / Armario de cocina (mueble)",
+      "es": "La alacena",
       "translations": {
-        "en": "Kitchen cabinet / Cupboard",
-        "pt": "Armário de cozinha",
-        "fr": "Placard de cuisine",
-        "it": "Pensile / Armadietto da cucina"
+        "en": "The kitchen cabinet",
+        "fr": "Le placard de cuisine",
+        "it": "L’armadietto da cucina",
+        "pt": "O armário de cozinha"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the kitchen cabinets",
+        "fr": "Plural: les placards de cuisine",
+        "it": "Plural: gli armadietti da cucina",
+        "pt": "Plural: os armários de cozinha"
+      }
     },
     {
       "id": "ca113",
-      "es": "Sartén",
+      "es": "La sartén",
       "translations": {
-        "en": "Frying pan / Skillet",
-        "pt": "Frigideira",
-        "fr": "Poêle",
-        "it": "Padella"
+        "en": "The frying pan",
+        "fr": "La poêle",
+        "it": "La padella",
+        "pt": "A frigideira"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the frying pans",
+        "fr": "Plural: les poêles",
+        "it": "Plural: le padelle",
+        "pt": "Plural: as frigideiras"
+      }
     },
     {
       "id": "ca114",
-      "es": "Olla",
+      "es": "La olla",
       "translations": {
-        "en": "Pot / Cooking pot",
-        "pt": "Panela",
-        "fr": "Marmite",
-        "it": "Pentola"
+        "en": "The cooking pot",
+        "fr": "La marmite",
+        "it": "La pentola",
+        "pt": "A panela"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cooking pots",
+        "fr": "Plural: les marmites",
+        "it": "Plural: le pentole",
+        "pt": "Plural: as panelas"
+      }
     },
     {
       "id": "ca115",
-      "es": "Cazo (recipiente pequeño con mango)",
+      "es": "La cacerola con mango",
       "translations": {
-        "en": "Saucepan",
-        "pt": "Panela pequena com cabo",
-        "fr": "Casserole",
-        "it": "Pentolino"
+        "en": "The saucepan",
+        "fr": "La casserole",
+        "it": "Il pentolino",
+        "pt": "A panela com cabo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the saucepans",
+        "fr": "Plural: les casseroles",
+        "it": "Plural: i pentolini",
+        "pt": "Plural: as panelas com cabo"
+      }
     },
     {
       "id": "ca116",
-      "es": "Tapa (de una olla)",
+      "es": "La tapa de olla",
       "translations": {
-        "en": "Pot lid",
-        "pt": "Tampa de panela",
-        "fr": "Couvercle de casserole",
-        "it": "Coperchio della pentola"
+        "en": "The pot lid",
+        "fr": "Le couvercle de casserole",
+        "it": "Il coperchio della pentola",
+        "pt": "A tampa de panela"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pot lids",
+        "fr": "Plural: les couvercles de casserole",
+        "it": "Plural: i coperchi della pentola",
+        "pt": "Plural: as tampas de panela"
+      }
     },
     {
       "id": "ca117",
-      "es": "Tabla para cortar / Tabla de picar",
+      "es": "La tabla de picar",
       "translations": {
-        "en": "Cutting board",
-        "pt": "Tábua de cortar",
-        "fr": "Planche à découper",
-        "it": "Tagliere"
+        "en": "The cutting board",
+        "fr": "La planche à découper",
+        "it": "Il tagliere",
+        "pt": "A tábua de cortar"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cutting boards",
+        "fr": "Plural: les planches à découper",
+        "it": "Plural: i taglieri",
+        "pt": "Plural: as tábuas de cortar"
+      }
     },
     {
       "id": "ca118",
-      "es": "Espátula (utensilio de cocina)",
+      "es": "La espátula",
       "translations": {
-        "en": "Spatula",
-        "pt": "Espátula",
-        "fr": "Spatule",
-        "it": "Spatola"
+        "en": "The spatula",
+        "fr": "La spatule",
+        "it": "La spatola",
+        "pt": "A espátula"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the spatulas",
+        "fr": "Plural: les spatules",
+        "it": "Plural: le spatole",
+        "pt": "Plural: as espátulas"
+      }
     },
     {
       "id": "ca119",
-      "es": "Cuchara de madera",
+      "es": "La cuchara de madera",
       "translations": {
-        "en": "Wooden spoon",
-        "pt": "Colher de pau / Colher de madeira",
-        "fr": "Cuillère en bois",
-        "it": "Cucchiaio di legno"
+        "en": "The wooden spoon",
+        "fr": "La cuillère en bois",
+        "it": "Il cucchiaio di legno",
+        "pt": "A colher de pau"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the wooden spoons",
+        "fr": "Plural: les cuillères en bois",
+        "it": "Plural: i cucchiai di legno",
+        "pt": "Plural: as colheres de pau"
+      }
     },
     {
       "id": "ca120",
-      "es": "Colador",
+      "es": "El colador",
       "translations": {
-        "en": "Strainer / Colander",
-        "pt": "Coador / Escorredor",
-        "fr": "Passoire",
-        "it": "Colino / Scolapasta"
+        "en": "The strainer",
+        "fr": "La passoire",
+        "it": "Il colino",
+        "pt": "O coador"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the strainers",
+        "fr": "Plural: les passoires",
+        "it": "Plural: i colini",
+        "pt": "Plural: os coadores"
+      }
     },
     {
       "id": "ca121",
-      "es": "Rallador",
+      "es": "El rallador",
       "translations": {
-        "en": "Grater",
-        "pt": "Ralador",
-        "fr": "Râpe",
-        "it": "Grattugia"
+        "en": "The grater",
+        "fr": "La râpe",
+        "it": "La grattugia",
+        "pt": "O ralador"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the graters",
+        "fr": "Plural: les râpes",
+        "it": "Plural: le grattugie",
+        "pt": "Plural: os raladores"
+      }
     },
     {
       "id": "ca122",
-      "es": "Abrelatas",
+      "es": "El abrelatas",
       "translations": {
-        "en": "Can opener",
-        "pt": "Abridor de latas",
-        "fr": "Ouvre-boîte",
-        "it": "Apriscatole"
+        "en": "The can opener",
+        "fr": "L’ouvre-boîte",
+        "it": "L’apriscatole",
+        "pt": "O abridor de latas"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the can openers",
+        "fr": "Plural: les ouvre-boîtes",
+        "it": "Plural: gli apriscatole",
+        "pt": "Plural: os abridores de latas"
+      }
     },
     {
       "id": "ca123",
-      "es": "Vajilla",
+      "es": "La vajilla",
       "translations": {
-        "en": "Dishes / Dinnerware",
-        "pt": "Louça",
-        "fr": "Vaisselle",
-        "it": "Stoviglie"
+        "en": "The dinnerware",
+        "fr": "La vaisselle",
+        "it": "Le stoviglie",
+        "pt": "A louça"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Conjunto de platos y otras piezas para servir la mesa.",
+        "it": "Singular válido: la stoviglia."
+      }
     },
     {
       "id": "ca124",
-      "es": "Inodoro / Excusado / WC (aparato sanitario)",
+      "es": "El inodoro",
       "translations": {
-        "en": "Toilet",
-        "pt": "Vaso sanitário / Privada",
-        "fr": "Cuvette des toilettes / WC",
-        "it": "Water / WC"
+        "en": "The toilet",
+        "fr": "La cuvette des toilettes",
+        "it": "Il water",
+        "pt": "O vaso sanitário"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Sanitario, no el cuarto del baño.",
+        "en": "Plural: the toilets",
+        "fr": "Plural: les cuvettes des toilettes",
+        "it": "Plural: i water",
+        "pt": "Plural: os vasos sanitários"
+      }
     },
     {
       "id": "ca125",
-      "es": "Lavabo / Lavamanos (del baño)",
+      "es": "El lavabo",
       "translations": {
-        "en": "Bathroom sink / Washbasin",
-        "pt": "Pia do banheiro / Lavatório",
-        "fr": "Lavabo",
-        "it": "Lavandino / Lavabo"
+        "en": "The bathroom sink",
+        "fr": "Le lavabo",
+        "it": "Il lavandino",
+        "pt": "A pia do banheiro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Lavamanos del baño.",
+        "en": "Plural: the bathroom sinks",
+        "fr": "Plural: les lavabos",
+        "it": "Plural: i lavandini",
+        "pt": "Plural: as pias do banheiro"
+      }
     },
     {
       "id": "ca126",
-      "es": "Regadera / Ducha",
+      "es": "La regadera",
       "translations": {
-        "en": "Shower",
-        "pt": "Chuveiro / Ducha",
-        "fr": "Douche",
-        "it": "Doccia"
+        "en": "The shower",
+        "fr": "La douche",
+        "it": "La doccia",
+        "pt": "O chuveiro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the showers",
+        "fr": "Plural: les douches",
+        "it": "Plural: le docce",
+        "pt": "Plural: os chuveiros"
+      }
     },
     {
       "id": "ca228",
-      "es": "Desagüe / Coladera",
+      "es": "La coladera",
       "translations": {
-        "en": "Drain / Shower drain",
-        "pt": "Ralo / Ralo do chuveiro",
-        "fr": "Siphon / Évacuation",
-        "it": "Scarico / Scarico della doccia"
+        "en": "The drain",
+        "fr": "La bonde de douche",
+        "it": "Lo scarico della doccia",
+        "pt": "O ralo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Desagüe en el piso de una ducha o baño.",
+        "en": "Plural: the drains",
+        "fr": "Plural: les bondes de douche",
+        "it": "Plural: gli scarichi della doccia",
+        "pt": "Plural: os ralos"
+      }
     },
     {
       "id": "ca127",
-      "es": "Tina / Bañera",
+      "es": "La tina",
       "translations": {
-        "en": "Bathtub / Tub",
-        "pt": "Banheira",
-        "fr": "Baignoire",
-        "it": "Vasca da bagno"
+        "en": "The bathtub",
+        "fr": "La baignoire",
+        "it": "La vasca da bagno",
+        "pt": "A banheira"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bathtubs",
+        "fr": "Plural: les baignoires",
+        "it": "Plural: le vasche da bagno",
+        "pt": "Plural: as banheiras"
+      }
     },
     {
       "id": "ca128",
-      "es": "Toalla",
+      "es": "La toalla",
       "translations": {
-        "en": "Towel",
-        "pt": "Toalha",
-        "fr": "Serviette de toilette",
-        "it": "Asciugamano"
+        "en": "The towel",
+        "fr": "La serviette de toilette",
+        "it": "L’asciugamano",
+        "pt": "A toalha"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the towels",
+        "fr": "Plural: les serviettes de toilette",
+        "it": "Plural: gli asciugamani",
+        "pt": "Plural: as toalhas"
+      }
     },
     {
       "id": "ca129",
-      "es": "Toallero",
+      "es": "El toallero",
       "translations": {
-        "en": "Towel rack / Towel rail",
-        "pt": "Toalheiro",
-        "fr": "Porte-serviettes",
-        "it": "Portasciugamani"
+        "en": "The towel rack",
+        "fr": "Le porte-serviettes",
+        "it": "Il portasciugamani",
+        "pt": "O toalheiro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the towel racks",
+        "fr": "Plural: les porte-serviettes",
+        "it": "Plural: i portasciugamani",
+        "pt": "Plural: os toalheiros"
+      }
     },
     {
       "id": "ca130",
-      "es": "Papel higiénico",
+      "es": "El papel higiénico",
       "translations": {
-        "en": "Toilet paper",
-        "pt": "Papel higiênico",
-        "fr": "Papier toilette",
-        "it": "Carta igienica"
+        "en": "The toilet paper",
+        "fr": "Le papier toilette",
+        "it": "La carta igienica",
+        "pt": "O papel higiênico"
       },
       "image_url": ""
     },
     {
       "id": "ca131",
-      "es": "Jabón",
+      "es": "El jabón",
       "translations": {
-        "en": "Soap",
-        "pt": "Sabão / Sabonete",
-        "fr": "Savon",
-        "it": "Sapone"
+        "en": "The soap",
+        "fr": "Le savon",
+        "it": "Il sapone",
+        "pt": "O sabonete"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Jabón sólido, habitualmente de higiene personal.",
+        "fr": "Plural: les savons",
+        "it": "Plural: i saponi",
+        "pt": "Plural: os sabonetes"
+      }
     },
     {
       "id": "ca132",
-      "es": "Jabón líquido",
+      "es": "El jabón líquido",
       "translations": {
-        "en": "Liquid soap",
-        "pt": "Sabonete líquido",
-        "fr": "Savon liquide",
-        "it": "Sapone liquido"
+        "en": "The liquid soap",
+        "fr": "Le savon liquide",
+        "it": "Il sapone liquido",
+        "pt": "O sabonete líquido"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les savons liquides",
+        "it": "Plural: i saponi liquidi",
+        "pt": "Plural: os sabonetes líquidos"
+      }
     },
     {
       "id": "ca133",
-      "es": "Champú / Shampoo",
+      "es": "El champú",
       "translations": {
-        "en": "Shampoo",
-        "pt": "Xampu / Shampoo",
-        "fr": "Shampooing",
-        "it": "Shampoo"
+        "en": "The shampoo",
+        "fr": "Le shampooing",
+        "it": "Lo shampoo",
+        "pt": "O xampu"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les shampooings",
+        "it": "Plural: gli shampoo",
+        "pt": "Plural: os xampus"
+      }
     },
     {
       "id": "ca134",
-      "es": "Cepillo de dientes",
+      "es": "El cepillo de dientes",
       "translations": {
-        "en": "Toothbrush",
-        "pt": "Escova de dentes",
-        "fr": "Brosse à dents",
-        "it": "Spazzolino da denti"
+        "en": "The toothbrush",
+        "fr": "La brosse à dents",
+        "it": "Lo spazzolino da denti",
+        "pt": "A escova de dentes"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the toothbrushes",
+        "fr": "Plural: les brosses à dents",
+        "it": "Plural: gli spazzolini da denti",
+        "pt": "Plural: as escovas de dentes"
+      }
     },
     {
       "id": "ca135",
-      "es": "Pasta de dientes / Dentífrico",
+      "es": "La pasta de dientes",
       "translations": {
-        "en": "Toothpaste",
-        "pt": "Pasta de dente / Creme dental",
-        "fr": "Dentifrice",
-        "it": "Dentifricio"
+        "en": "The toothpaste",
+        "fr": "Le dentifrice",
+        "it": "Il dentifricio",
+        "pt": "O creme dental"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "Plural: i dentifrici",
+        "pt": "Plural: os cremes dentais"
+      }
     },
     {
       "id": "ca136",
-      "es": "Secadora de cabello / Secador de pelo",
+      "es": "La secadora de cabello",
       "translations": {
-        "en": "Hair dryer",
-        "pt": "Secador de cabelo",
-        "fr": "Sèche-cheveux",
-        "it": "Asciugacapelli / Phon"
+        "en": "The hair dryer",
+        "fr": "Le sèche-cheveux",
+        "it": "L’asciugacapelli",
+        "pt": "O secador de cabelo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hair dryers",
+        "fr": "Plural: les sèche-cheveux",
+        "it": "Plural: gli asciugacapelli",
+        "pt": "Plural: os secadores de cabelo"
+      }
     },
     {
       "id": "ca137",
-      "es": "Cesto de ropa sucia",
+      "es": "El cesto de ropa sucia",
       "translations": {
-        "en": "Laundry basket / Laundry hamper",
-        "pt": "Cesto de roupa suja",
-        "fr": "Panier à linge sale",
-        "it": "Cesto della biancheria sporca"
+        "en": "The laundry hamper",
+        "fr": "Le panier à linge sale",
+        "it": "Il cesto della biancheria sporca",
+        "pt": "O cesto de roupa suja"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the laundry hampers",
+        "fr": "Plural: les paniers à linge sale",
+        "it": "Plural: i cesti della biancheria sporca",
+        "pt": "Plural: os cestos de roupa suja"
+      }
     },
     {
       "id": "ca138",
-      "es": "Tendedero (para secar ropa)",
+      "es": "El tendedero",
       "translations": {
-        "en": "Clothesline / Drying rack",
-        "pt": "Varal",
-        "fr": "Étendoir à linge / Fil à linge",
-        "it": "Stendibiancheria / Filo per stendere"
+        "en": "The drying rack",
+        "fr": "L’étendoir à linge",
+        "it": "Lo stendibiancheria",
+        "pt": "O varal"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the drying racks",
+        "fr": "Plural: les étendoirs à linge",
+        "it": "Plural: gli stendibiancheria",
+        "pt": "Plural: os varais"
+      }
     },
     {
       "id": "ca139",
-      "es": "Pinza para tender ropa",
+      "es": "La pinza para tender ropa",
       "translations": {
-        "en": "Clothespin",
-        "pt": "Pregador de roupa",
-        "fr": "Pince à linge",
-        "it": "Molletta da bucato"
+        "en": "The clothespin",
+        "fr": "La pince à linge",
+        "it": "La molletta da bucato",
+        "pt": "O pregador de roupa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the clothespins",
+        "fr": "Plural: les pinces à linge",
+        "it": "Plural: le mollette da bucato",
+        "pt": "Plural: os pregadores de roupa"
+      }
     },
     {
       "id": "ca140",
-      "es": "Detergente para ropa",
+      "es": "El detergente para ropa",
       "translations": {
-        "en": "Laundry detergent",
-        "pt": "Sabão para lavar roupa",
-        "fr": "Lessive",
-        "it": "Detersivo per bucato"
+        "en": "The laundry detergent",
+        "fr": "La lessive",
+        "it": "Il detersivo per bucato",
+        "pt": "O sabão para lavar roupa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "Plural: i detersivi per bucato",
+        "pt": "Plural: os sabões para lavar roupa"
+      }
     },
     {
       "id": "ca141",
-      "es": "Suavizante de ropa",
+      "es": "El suavizante de ropa",
       "translations": {
-        "en": "Fabric softener",
-        "pt": "Amaciante de roupas",
-        "fr": "Adoucissant",
-        "it": "Ammorbidente"
+        "en": "The fabric softener",
+        "fr": "L’adoucissant",
+        "it": "L’ammorbidente",
+        "pt": "O amaciante de roupas"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les adoucissants",
+        "it": "Plural: gli ammorbidenti",
+        "pt": "Plural: os amaciantes de roupas"
+      }
     },
     {
       "id": "ca142",
-      "es": "Detergente para trastes / Lavavajillas (producto)",
+      "es": "El jabón para trastes",
       "translations": {
-        "en": "Dish soap / Dishwashing liquid",
-        "pt": "Detergente para louça",
-        "fr": "Liquide vaisselle",
-        "it": "Detersivo per piatti"
+        "en": "The dish soap",
+        "fr": "Le liquide vaisselle",
+        "it": "Il detersivo per piatti",
+        "pt": "O detergente para louça"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les liquides vaisselle",
+        "it": "Plural: i detersivi per piatti",
+        "pt": "Plural: os detergentes para louça"
+      }
     },
     {
       "id": "ca143",
-      "es": "Esponja",
+      "es": "La esponja",
       "translations": {
-        "en": "Sponge",
-        "pt": "Esponja",
-        "fr": "Éponge",
-        "it": "Spugna"
+        "en": "The sponge",
+        "fr": "L’éponge",
+        "it": "La spugna",
+        "pt": "A esponja"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sponges",
+        "fr": "Plural: les éponges",
+        "it": "Plural: le spugne",
+        "pt": "Plural: as esponjas"
+      }
     },
     {
       "id": "ca144",
-      "es": "Trapo / Paño de limpieza",
+      "es": "El trapo de limpieza",
       "translations": {
-        "en": "Cleaning cloth / Rag",
-        "pt": "Pano de limpeza",
-        "fr": "Chiffon",
-        "it": "Panno per pulire / Straccio"
+        "en": "The cleaning cloth",
+        "fr": "Le chiffon",
+        "it": "Il panno per pulire",
+        "pt": "O pano de limpeza"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cleaning cloths",
+        "fr": "Plural: les chiffons",
+        "it": "Plural: i panni per pulire",
+        "pt": "Plural: os panos de limpeza"
+      }
     },
     {
       "id": "ca145",
-      "es": "Escoba",
+      "es": "La escoba",
       "translations": {
-        "en": "Broom",
-        "pt": "Vassoura",
-        "fr": "Balai",
-        "it": "Scopa"
+        "en": "The broom",
+        "fr": "Le balai",
+        "it": "La scopa",
+        "pt": "A vassoura"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the brooms",
+        "fr": "Plural: les balais",
+        "it": "Plural: le scope",
+        "pt": "Plural: as vassouras"
+      }
     },
     {
       "id": "ca146",
-      "es": "Recogedor (para barrer)",
+      "es": "El recogedor",
       "translations": {
-        "en": "Dustpan",
-        "pt": "Pá de lixo",
-        "fr": "Pelle à poussière",
-        "it": "Paletta"
+        "en": "The dustpan",
+        "fr": "La pelle à poussière",
+        "it": "La paletta",
+        "pt": "A pá de lixo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dustpans",
+        "fr": "Plural: les pelles à poussière",
+        "it": "Plural: le palette",
+        "pt": "Plural: as pás de lixo"
+      }
     },
     {
       "id": "ca147",
-      "es": "Trapeador / Fregona",
+      "es": "El trapeador",
       "translations": {
-        "en": "Mop",
-        "pt": "Mop / Esfregão",
-        "fr": "Balai à franges",
-        "it": "Mocio"
+        "en": "The mop",
+        "fr": "Le balai à franges",
+        "it": "Il mocio",
+        "pt": "O esfregão"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mops",
+        "fr": "Plural: les balais à franges",
+        "it": "Plural: i moci",
+        "pt": "Plural: os esfregões"
+      }
     },
     {
       "id": "ca148",
-      "es": "Cubeta / Cubo / Balde",
+      "es": "La cubeta",
       "translations": {
-        "en": "Bucket",
-        "pt": "Balde",
-        "fr": "Seau",
-        "it": "Secchio"
+        "en": "The bucket",
+        "fr": "Le seau",
+        "it": "Il secchio",
+        "pt": "O balde"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the buckets",
+        "fr": "Plural: les seaux",
+        "it": "Plural: i secchi",
+        "pt": "Plural: os baldes"
+      }
     },
     {
       "id": "ca149",
-      "es": "Basura",
+      "es": "La basura",
       "translations": {
-        "en": "Trash / Garbage",
-        "pt": "Lixo",
-        "fr": "Déchets / Ordures",
-        "it": "Spazzatura / Rifiuti"
+        "en": "The trash",
+        "fr": "Les ordures",
+        "it": "La spazzatura",
+        "pt": "O lixo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Trash es incontable.",
+        "fr": "Singular poco habitual: une ordure.",
+        "it": "Spazzatura es un sustantivo colectivo incontable.",
+        "pt": "Lixo es colectivo; no se usa normalmente en plural."
+      }
     },
     {
       "id": "ca150",
-      "es": "Bote de basura / Papelera / Basurero (recipiente)",
+      "es": "El bote de basura",
       "translations": {
-        "en": "Trash can / Garbage can",
-        "pt": "Lixeira",
-        "fr": "Poubelle",
-        "it": "Pattumiera / Cestino dei rifiuti"
+        "en": "The trash can",
+        "fr": "La poubelle",
+        "it": "La pattumiera",
+        "pt": "A lixeira"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the trash cans",
+        "fr": "Plural: les poubelles",
+        "it": "Plural: le pattumiere",
+        "pt": "Plural: as lixeiras"
+      }
     },
     {
       "id": "ca151",
-      "es": "Bolsa de basura",
+      "es": "La bolsa de basura",
       "translations": {
-        "en": "Trash bag / Garbage bag",
-        "pt": "Saco de lixo",
-        "fr": "Sac-poubelle",
-        "it": "Sacco della spazzatura"
+        "en": "The trash bag",
+        "fr": "Le sac-poubelle",
+        "it": "Il sacco della spazzatura",
+        "pt": "O saco de lixo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the trash bags",
+        "fr": "Plural: les sac-poubelles",
+        "it": "Plural: i sacchi della spazzatura",
+        "pt": "Plural: os sacos de lixo"
+      }
     },
     {
       "id": "ca152",
-      "es": "Polvo (en muebles o superficies)",
+      "es": "El polvo",
       "translations": {
-        "en": "Dust",
-        "pt": "Poeira / Pó",
-        "fr": "Poussière",
-        "it": "Polvere"
+        "en": "The dust",
+        "fr": "La poussière",
+        "it": "La polvere",
+        "pt": "A poeira"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Dust es incontable en este sentido.",
+        "fr": "Poussière es incontable en este sentido.",
+        "it": "Polvere es incontable en este sentido.",
+        "pt": "Poeira es incontable en este sentido."
+      }
     },
     {
       "id": "ca153",
-      "es": "Mancha",
+      "es": "La mancha",
       "translations": {
-        "en": "Stain",
-        "pt": "Mancha",
-        "fr": "Tache",
-        "it": "Macchia"
+        "en": "The stain",
+        "fr": "La tache",
+        "it": "La macchia",
+        "pt": "A mancha"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the stains",
+        "fr": "Plural: les taches",
+        "it": "Plural: le macchie",
+        "pt": "Plural: as manchas"
+      }
     },
     {
       "id": "ca154",
-      "es": "Tareas domésticas / Quehaceres de la casa",
+      "es": "Los quehaceres domésticos",
       "translations": {
-        "en": "Housework / Household chores",
-        "pt": "Tarefas domésticas / Afazeres domésticos",
-        "fr": "Tâches ménagères / Travaux ménagers",
-        "it": "Faccende domestiche / Lavori domestici"
+        "en": "The household chores",
+        "fr": "Les tâches ménagères",
+        "it": "Le faccende domestiche",
+        "pt": "As tarefas domésticas"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Tareas del hogar consideradas en conjunto.",
+        "en": "Singular: the household chore.",
+        "fr": "Singular: la tâche ménagère.",
+        "it": "Singular: la faccenda domestica.",
+        "pt": "Singular: a tarefa doméstica."
+      }
     },
     {
       "id": "ca155",
       "es": "Limpiar la casa",
       "translations": {
         "en": "To clean the house",
-        "pt": "Limpar a casa",
         "fr": "Nettoyer la maison",
-        "it": "Pulire la casa"
+        "it": "Pulire la casa",
+        "pt": "Limpar a casa"
       },
       "image_url": ""
     },
     {
       "id": "ca156",
-      "es": "Ordenar / Poner en orden",
+      "es": "Ordenar",
       "translations": {
-        "en": "To tidy up / To straighten up",
-        "pt": "Arrumar / Organizar",
-        "fr": "Ranger / Mettre en ordre",
-        "it": "Riordinare / Mettere in ordine"
+        "en": "To tidy up",
+        "fr": "Ranger",
+        "it": "Riordinare",
+        "pt": "Arrumar"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: Poner en orden."
+      }
     },
     {
       "id": "ca157",
       "es": "Guardar las cosas en su lugar",
       "translations": {
         "en": "To put things away",
-        "pt": "Guardar as coisas no lugar",
         "fr": "Ranger les affaires à leur place",
-        "it": "Mettere le cose a posto"
+        "it": "Mettere le cose a posto",
+        "pt": "Guardar as coisas no lugar"
       },
       "image_url": ""
     },
@@ -1745,64 +2681,76 @@
       "es": "Barrer",
       "translations": {
         "en": "To sweep",
-        "pt": "Varrer",
         "fr": "Balayer",
-        "it": "Spazzare"
+        "it": "Spazzare",
+        "pt": "Varrer"
       },
       "image_url": ""
     },
     {
       "id": "ca159",
-      "es": "Trapear / Fregar el piso",
+      "es": "Trapear",
       "translations": {
         "en": "To mop the floor",
-        "pt": "Passar pano no chão",
         "fr": "Passer la serpillière",
-        "it": "Lavare il pavimento"
+        "it": "Lavare il pavimento",
+        "pt": "Passar pano no chão"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: Fregar el piso."
+      }
     },
     {
       "id": "ca160",
-      "es": "Pasar la aspiradora / Aspirar",
+      "es": "Aspirar",
       "translations": {
         "en": "To vacuum",
-        "pt": "Passar o aspirador de pó",
-        "fr": "Passer l'aspirateur",
-        "it": "Passare l'aspirapolvere"
+        "fr": "Passer l’aspirateur",
+        "it": "Passare l’aspirapolvere",
+        "pt": "Passar o aspirador de pó"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: Pasar la aspiradora."
+      }
     },
     {
       "id": "ca161",
-      "es": "Quitar el polvo / Sacudir los muebles",
+      "es": "Sacudir los muebles",
       "translations": {
-        "en": "To dust / To dust the furniture",
-        "pt": "Tirar o pó / Tirar o pó dos móveis",
-        "fr": "Faire la poussière / Dépoussiérer les meubles",
-        "it": "Spolverare / Spolverare i mobili"
+        "en": "To dust the furniture",
+        "fr": "Dépoussiérer les meubles",
+        "it": "Spolverare i mobili",
+        "pt": "Tirar o pó dos móveis"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: Quitar el polvo."
+      }
     },
     {
       "id": "ca162",
-      "es": "Lavar los trastes / Lavar los platos",
+      "es": "Lavar los trastes",
       "translations": {
-        "en": "To wash the dishes / To do the dishes",
-        "pt": "Lavar a louça",
+        "en": "To do the dishes",
         "fr": "Faire la vaisselle",
-        "it": "Lavare i piatti"
+        "it": "Lavare i piatti",
+        "pt": "Lavar a louça"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: Lavar los platos."
+      }
     },
     {
       "id": "ca163",
       "es": "Secar los platos",
       "translations": {
         "en": "To dry the dishes",
-        "pt": "Secar a louça",
         "fr": "Essuyer la vaisselle",
-        "it": "Asciugare i piatti"
+        "it": "Asciugare i piatti",
+        "pt": "Secar a louça"
       },
       "image_url": ""
     },
@@ -1811,53 +2759,59 @@
       "es": "Poner la mesa",
       "translations": {
         "en": "To set the table",
-        "pt": "Pôr a mesa",
         "fr": "Mettre la table",
-        "it": "Apparecchiare la tavola"
+        "it": "Apparecchiare la tavola",
+        "pt": "Pôr a mesa"
       },
       "image_url": ""
     },
     {
       "id": "ca165",
-      "es": "Quitar / Recoger la mesa (después de comer)",
+      "es": "Recoger la mesa",
       "translations": {
         "en": "To clear the table",
-        "pt": "Tirar a mesa",
         "fr": "Débarrasser la table",
-        "it": "Sparecchiare la tavola"
+        "it": "Sparecchiare la tavola",
+        "pt": "Tirar a mesa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: Quitar."
+      }
     },
     {
       "id": "ca166",
       "es": "Cocinar",
       "translations": {
         "en": "To cook",
-        "pt": "Cozinhar",
         "fr": "Cuisiner",
-        "it": "Cucinare"
+        "it": "Cucinare",
+        "pt": "Cozinhar"
       },
       "image_url": ""
     },
     {
       "id": "ca167",
-      "es": "Hacer / Tender la cama",
+      "es": "Tender la cama",
       "translations": {
         "en": "To make the bed",
-        "pt": "Arrumar a cama",
         "fr": "Faire le lit",
-        "it": "Fare il letto"
+        "it": "Fare il letto",
+        "pt": "Arrumar a cama"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: Hacer."
+      }
     },
     {
       "id": "ca168",
       "es": "Cambiar las sábanas",
       "translations": {
         "en": "To change the sheets",
-        "pt": "Trocar os lençóis",
         "fr": "Changer les draps",
-        "it": "Cambiare le lenzuola"
+        "it": "Cambiare le lenzuola",
+        "pt": "Trocar os lençóis"
       },
       "image_url": ""
     },
@@ -1865,21 +2819,21 @@
       "id": "ca169",
       "es": "Lavar la ropa",
       "translations": {
-        "en": "To do the laundry / To wash clothes",
-        "pt": "Lavar a roupa",
-        "fr": "Faire la lessive / Laver le linge",
-        "it": "Fare il bucato / Lavare i vestiti"
+        "en": "To do the laundry",
+        "fr": "Faire la lessive",
+        "it": "Fare il bucato",
+        "pt": "Lavar a roupa"
       },
       "image_url": ""
     },
     {
       "id": "ca170",
-      "es": "Tender la ropa (para secarla)",
+      "es": "Tender la ropa",
       "translations": {
-        "en": "To hang out the laundry / To hang up clothes to dry",
-        "pt": "Estender a roupa",
+        "en": "To hang clothes out to dry",
         "fr": "Étendre le linge",
-        "it": "Stendere il bucato"
+        "it": "Stendere il bucato",
+        "pt": "Estender a roupa"
       },
       "image_url": ""
     },
@@ -1888,9 +2842,9 @@
       "es": "Doblar la ropa",
       "translations": {
         "en": "To fold clothes",
-        "pt": "Dobrar a roupa",
         "fr": "Plier le linge",
-        "it": "Piegare i vestiti"
+        "it": "Piegare i vestiti",
+        "pt": "Dobrar a roupa"
       },
       "image_url": ""
     },
@@ -1899,9 +2853,9 @@
       "es": "Planchar la ropa",
       "translations": {
         "en": "To iron clothes",
-        "pt": "Passar roupa",
         "fr": "Repasser le linge",
-        "it": "Stirare i vestiti"
+        "it": "Stirare i vestiti",
+        "pt": "Passar roupa"
       },
       "image_url": ""
     },
@@ -1910,31 +2864,34 @@
       "es": "Sacar la basura",
       "translations": {
         "en": "To take out the trash",
-        "pt": "Levar o lixo para fora",
         "fr": "Sortir les poubelles",
-        "it": "Portare fuori la spazzatura"
+        "it": "Portare fuori la spazzatura",
+        "pt": "Levar o lixo para fora"
       },
       "image_url": ""
     },
     {
       "id": "ca174",
-      "es": "Separar la basura / Clasificar los residuos",
+      "es": "Separar la basura",
       "translations": {
-        "en": "To sort the trash / To sort waste",
-        "pt": "Separar o lixo",
+        "en": "To sort the trash",
         "fr": "Trier les déchets",
-        "it": "Fare la raccolta differenziata"
+        "it": "Fare la raccolta differenziata",
+        "pt": "Separar o lixo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: Clasificar los residuos."
+      }
     },
     {
       "id": "ca175",
       "es": "Regar las plantas",
       "translations": {
         "en": "To water the plants",
-        "pt": "Regar as plantas",
         "fr": "Arroser les plantes",
-        "it": "Annaffiare le piante"
+        "it": "Annaffiare le piante",
+        "pt": "Regar as plantas"
       },
       "image_url": ""
     },
@@ -1943,53 +2900,60 @@
       "es": "Limpiar el baño",
       "translations": {
         "en": "To clean the bathroom",
-        "pt": "Limpar o banheiro",
         "fr": "Nettoyer la salle de bains",
-        "it": "Pulire il bagno"
+        "it": "Pulire il bagno",
+        "pt": "Limpar o banheiro"
       },
       "image_url": ""
     },
     {
       "id": "ca177",
-      "es": "Lavar / Limpiar las ventanas",
+      "es": "Limpiar las ventanas",
       "translations": {
-        "en": "To clean the windows / To wash the windows",
-        "pt": "Limpar as janelas",
+        "en": "To clean the windows",
         "fr": "Nettoyer les vitres",
-        "it": "Pulire i vetri"
+        "it": "Pulire i vetri",
+        "pt": "Limpar as janelas"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: Lavar."
+      }
     },
     {
       "id": "ca178",
       "es": "Ventilar la casa",
       "translations": {
         "en": "To air out the house",
-        "pt": "Arejar a casa",
         "fr": "Aérer la maison",
-        "it": "Arieggiare la casa"
+        "it": "Arieggiare la casa",
+        "pt": "Arejar a casa"
       },
       "image_url": ""
     },
     {
       "id": "ca179",
-      "es": "¿Vives en una casa o en un departamento? / ¿Vive en una casa o en un departamento?",
+      "es": "¿Vives en una casa o en un departamento?",
       "translations": {
         "en": "Do you live in a house or an apartment?",
-        "pt": "Você mora em uma casa ou em um apartamento?",
-        "fr": "Tu habites dans une maison ou dans un appartement ? / Vous habitez dans une maison ou dans un appartement ?",
-        "it": "Vivi in una casa o in un appartamento? / Vive in una casa o in un appartamento?"
+        "fr": "Tu habites dans une maison ou dans un appartement ?",
+        "it": "Vivi in una casa o in un appartamento?",
+        "pt": "Você mora em uma casa ou em um apartamento?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Tratamiento informal; formal: Vous habitez dans une maison ou dans un appartement ?",
+        "it": "Tratamiento informal; formal: Vive in una casa o in un appartamento?"
+      }
     },
     {
       "id": "ca180",
       "es": "Vivo en un departamento.",
       "translations": {
         "en": "I live in an apartment.",
-        "pt": "Moro em um apartamento.",
         "fr": "J'habite dans un appartement.",
-        "it": "Vivo in un appartamento."
+        "it": "Vivo in un appartamento.",
+        "pt": "Moro em um apartamento."
       },
       "image_url": ""
     },
@@ -1998,9 +2962,9 @@
       "es": "Mi casa tiene tres dormitorios y dos baños.",
       "translations": {
         "en": "My house has three bedrooms and two bathrooms.",
-        "pt": "Minha casa tem três quartos e dois banheiros.",
         "fr": "Ma maison a trois chambres et deux salles de bains.",
-        "it": "La mia casa ha tre camere da letto e due bagni."
+        "it": "La mia casa ha tre camere da letto e due bagni.",
+        "pt": "Minha casa tem três quartos e dois banheiros."
       },
       "image_url": ""
     },
@@ -2009,9 +2973,9 @@
       "es": "La cocina está abierta a la sala.",
       "translations": {
         "en": "The kitchen opens onto the living room.",
-        "pt": "A cozinha é aberta para a sala.",
         "fr": "La cuisine est ouverte sur le salon.",
-        "it": "La cucina è aperta sul soggiorno."
+        "it": "La cucina è aperta sul soggiorno.",
+        "pt": "A cozinha é aberta para a sala."
       },
       "image_url": ""
     },
@@ -2020,9 +2984,9 @@
       "es": "Hay un sofá en la sala.",
       "translations": {
         "en": "There's a sofa in the living room.",
-        "pt": "Há um sofá na sala.",
         "fr": "Il y a un canapé dans le salon.",
-        "it": "C'è un divano in soggiorno."
+        "it": "C'è un divano in soggiorno.",
+        "pt": "Há um sofá na sala."
       },
       "image_url": ""
     },
@@ -2031,9 +2995,9 @@
       "es": "No hay ascensor.",
       "translations": {
         "en": "There's no elevator.",
-        "pt": "Não há elevador.",
         "fr": "Il n'y a pas d'ascenseur.",
-        "it": "Non c'è l'ascensore."
+        "it": "Non c'è l'ascensore.",
+        "pt": "Não há elevador."
       },
       "image_url": ""
     },
@@ -2042,9 +3006,9 @@
       "es": "El baño está al fondo del pasillo.",
       "translations": {
         "en": "The bathroom is at the end of the hallway.",
-        "pt": "O banheiro fica no fim do corredor.",
         "fr": "La salle de bains est au bout du couloir.",
-        "it": "Il bagno è in fondo al corridoio."
+        "it": "Il bagno è in fondo al corridoio.",
+        "pt": "O banheiro fica no fim do corredor."
       },
       "image_url": ""
     },
@@ -2053,9 +3017,9 @@
       "es": "Mi dormitorio está arriba.",
       "translations": {
         "en": "My bedroom is upstairs.",
-        "pt": "Meu quarto fica no andar de cima.",
         "fr": "Ma chambre est à l'étage.",
-        "it": "La mia camera da letto è al piano di sopra."
+        "it": "La mia camera da letto è al piano di sopra.",
+        "pt": "Meu quarto fica no andar de cima."
       },
       "image_url": ""
     },
@@ -2064,9 +3028,9 @@
       "es": "La cocina está abajo.",
       "translations": {
         "en": "The kitchen is downstairs.",
-        "pt": "A cozinha fica no andar de baixo.",
         "fr": "La cuisine est à l'étage du dessous.",
-        "it": "La cucina è al piano di sotto."
+        "it": "La cucina è al piano di sotto.",
+        "pt": "A cozinha fica no andar de baixo."
       },
       "image_url": ""
     },
@@ -2075,9 +3039,9 @@
       "es": "El control remoto está sobre la mesa.",
       "translations": {
         "en": "The remote is on the table.",
-        "pt": "O controle remoto está em cima da mesa.",
         "fr": "La télécommande est sur la table.",
-        "it": "Il telecomando è sul tavolo."
+        "it": "Il telecomando è sul tavolo.",
+        "pt": "O controle remoto está em cima da mesa."
       },
       "image_url": ""
     },
@@ -2086,9 +3050,9 @@
       "es": "La caja está debajo de la cama.",
       "translations": {
         "en": "The box is under the bed.",
-        "pt": "A caixa está debaixo da cama.",
         "fr": "La boîte est sous le lit.",
-        "it": "La scatola è sotto il letto."
+        "it": "La scatola è sotto il letto.",
+        "pt": "A caixa está debaixo da cama."
       },
       "image_url": ""
     },
@@ -2097,9 +3061,9 @@
       "es": "El baño está al lado de la cocina.",
       "translations": {
         "en": "The bathroom is next to the kitchen.",
-        "pt": "O banheiro fica ao lado da cozinha.",
         "fr": "La salle de bains est à côté de la cuisine.",
-        "it": "Il bagno è accanto alla cucina."
+        "it": "Il bagno è accanto alla cucina.",
+        "pt": "O banheiro fica ao lado da cozinha."
       },
       "image_url": ""
     },
@@ -2108,9 +3072,9 @@
       "es": "La lámpara está entre la cama y el escritorio.",
       "translations": {
         "en": "The lamp is between the bed and the desk.",
-        "pt": "A luminária está entre a cama e a escrivaninha.",
         "fr": "La lampe est entre le lit et le bureau.",
-        "it": "La lampada è tra il letto e la scrivania."
+        "it": "La lampada è tra il letto e la scrivania.",
+        "pt": "A luminária está entre a cama e a escrivaninha."
       },
       "image_url": ""
     },
@@ -2119,9 +3083,9 @@
       "es": "El sofá está frente al televisor.",
       "translations": {
         "en": "The sofa is across from the TV.",
-        "pt": "O sofá está em frente à televisão.",
         "fr": "Le canapé est en face de la télévision.",
-        "it": "Il divano è di fronte al televisore."
+        "it": "Il divano è di fronte al televisore.",
+        "pt": "O sofá está em frente à televisão."
       },
       "image_url": ""
     },
@@ -2130,9 +3094,9 @@
       "es": "La escoba está detrás de la puerta.",
       "translations": {
         "en": "The broom is behind the door.",
-        "pt": "A vassoura está atrás da porta.",
         "fr": "Le balai est derrière la porte.",
-        "it": "La scopa è dietro la porta."
+        "it": "La scopa è dietro la porta.",
+        "pt": "A vassoura está atrás da porta."
       },
       "image_url": ""
     },
@@ -2141,9 +3105,9 @@
       "es": "Las sábanas están dentro del armario.",
       "translations": {
         "en": "The sheets are inside the wardrobe.",
-        "pt": "Os lençóis estão dentro do guarda-roupa.",
         "fr": "Les draps sont dans l'armoire.",
-        "it": "Le lenzuola sono nell'armadio."
+        "it": "Le lenzuola sono nell'armadio.",
+        "pt": "Os lençóis estão dentro do guarda-roupa."
       },
       "image_url": ""
     },
@@ -2152,9 +3116,9 @@
       "es": "Las toallas están en el cajón de arriba.",
       "translations": {
         "en": "The towels are in the top drawer.",
-        "pt": "As toalhas estão na gaveta de cima.",
         "fr": "Les serviettes sont dans le tiroir du haut.",
-        "it": "Gli asciugamani sono nel cassetto in alto."
+        "it": "Gli asciugamani sono nel cassetto in alto.",
+        "pt": "As toalhas estão na gaveta de cima."
       },
       "image_url": ""
     },
@@ -2163,20 +3127,20 @@
       "es": "La basura está afuera.",
       "translations": {
         "en": "The trash is outside.",
-        "pt": "O lixo está lá fora.",
         "fr": "Les ordures sont dehors.",
-        "it": "La spazzatura è fuori."
+        "it": "La spazzatura è fuori.",
+        "pt": "O lixo está lá fora."
       },
       "image_url": ""
     },
     {
       "id": "ca197",
-      "es": "¿Dónde guardas los productos de limpieza? / ¿Dónde guarda los productos de limpieza?",
+      "es": "¿Dónde guardas los productos de limpieza?",
       "translations": {
         "en": "Where do you keep the cleaning supplies?",
-        "pt": "Onde você guarda os produtos de limpeza?",
-        "fr": "Où ranges-tu les produits de nettoyage ? / Où rangez-vous les produits de nettoyage ?",
-        "it": "Dove tieni i prodotti per la pulizia? / Dove tiene i prodotti per la pulizia?"
+        "fr": "Où ranges-tu les produits de nettoyage ?",
+        "it": "Dove tieni i prodotti per la pulizia?",
+        "pt": "Onde você guarda os produtos de limpeza?"
       },
       "image_url": ""
     },
@@ -2185,20 +3149,20 @@
       "es": "El dormitorio está desordenado.",
       "translations": {
         "en": "The bedroom is messy.",
-        "pt": "O quarto está bagunçado.",
         "fr": "La chambre est en désordre.",
-        "it": "La camera da letto è in disordine."
+        "it": "La camera da letto è in disordine.",
+        "pt": "O quarto está bagunçado."
       },
       "image_url": ""
     },
     {
       "id": "ca199",
-      "es": "El baño está ocupado / libre.",
+      "es": "El baño está ocupado.",
       "translations": {
-        "en": "The bathroom is occupied. / The bathroom is available.",
-        "pt": "O banheiro está ocupado. / O banheiro está livre.",
-        "fr": "La salle de bains est occupée. / La salle de bains est libre.",
-        "it": "Il bagno è occupato. / Il bagno è libero."
+        "en": "The bathroom is occupied.",
+        "fr": "La salle de bains est occupée.",
+        "it": "Il bagno è occupato.",
+        "pt": "O banheiro está ocupado."
       },
       "image_url": ""
     },
@@ -2206,10 +3170,10 @@
       "id": "ca200",
       "es": "Estoy en casa.",
       "translations": {
-        "en": "I'm at home. / I'm home.",
-        "pt": "Estou em casa.",
-        "fr": "Je suis à la maison. / Je suis chez moi.",
-        "it": "Sono a casa."
+        "en": "I'm at home.",
+        "fr": "Je suis chez moi.",
+        "it": "Sono a casa.",
+        "pt": "Estou em casa."
       },
       "image_url": ""
     },
@@ -2218,130 +3182,154 @@
       "es": "Voy a casa.",
       "translations": {
         "en": "I'm going home.",
-        "pt": "Vou para casa.",
-        "fr": "Je rentre à la maison. / Je rentre chez moi.",
-        "it": "Vado a casa."
+        "fr": "Je rentre chez moi.",
+        "it": "Vado a casa.",
+        "pt": "Vou para casa."
       },
       "image_url": ""
     },
     {
       "id": "ca202",
-      "es": "Pasa, por favor. / Pase, por favor. (al invitar a entrar)",
+      "es": "Pasa, por favor.",
       "translations": {
         "en": "Come in, please.",
-        "pt": "Entre, por favor.",
-        "fr": "Entre, s'il te plaît. / Entrez, s'il vous plaît.",
-        "it": "Entra, per favore. / Entri, per favore."
+        "fr": "Entre, s'il te plaît.",
+        "it": "Entra, per favore.",
+        "pt": "Entre, por favor."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Tratamiento informal; formal: Entrez, s’il vous plaît.",
+        "it": "Tratamiento informal; formal: Entri, per favore."
+      }
     },
     {
       "id": "ca203",
-      "es": "Siéntate, por favor. / Siéntese, por favor.",
+      "es": "Siéntate, por favor.",
       "translations": {
         "en": "Have a seat, please.",
-        "pt": "Sente-se, por favor.",
-        "fr": "Assieds-toi, s'il te plaît. / Asseyez-vous, s'il vous plaît.",
-        "it": "Siediti, per favore. / Si sieda, per favore."
+        "fr": "Assieds-toi, s'il te plaît.",
+        "it": "Siediti, per favore.",
+        "pt": "Sente-se, por favor."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Tratamiento informal; formal: Asseyez-vous, s’il vous plaît.",
+        "it": "Tratamiento informal; formal: Si accomodi, per favore."
+      }
     },
     {
       "id": "ca204",
-      "es": "Ponte cómodo/a. / Póngase cómodo/a.",
+      "es": "Ponte cómodo.",
       "translations": {
         "en": "Make yourself comfortable.",
-        "pt": "Fique à vontade.",
-        "fr": "Mets-toi à l'aise. / Mettez-vous à l'aise.",
-        "it": "Mettiti comodo. / Mettiti comoda. / Si metta comodo. / Si metta comoda."
+        "fr": "Mets-toi à l'aise.",
+        "it": "Mettiti comodo.",
+        "pt": "Fique à vontade."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Tratamiento informal; formal: Mettez-vous à l’aise.",
+        "it": "Tratamiento informal; femenino: Mettiti comoda."
+      }
     },
     {
       "id": "ca205",
-      "es": "¿Puedes quitarte los zapatos al entrar? / ¿Puede quitarse los zapatos al entrar?",
+      "es": "¿Puedes quitarte los zapatos al entrar?",
       "translations": {
         "en": "Could you take off your shoes when you come in?",
-        "pt": "Pode tirar os sapatos ao entrar?",
-        "fr": "Tu peux enlever tes chaussures en entrant ? / Pouvez-vous enlever vos chaussures en entrant ?",
-        "it": "Puoi toglierti le scarpe quando entri? / Può togliersi le scarpe quando entra?"
+        "fr": "Tu peux enlever tes chaussures en entrant ?",
+        "it": "Puoi toglierti le scarpe quando entri?",
+        "pt": "Pode tirar os sapatos ao entrar?"
       },
       "image_url": ""
     },
     {
       "id": "ca206",
-      "es": "¿Puedes abrir la ventana? / ¿Puede abrir la ventana?",
+      "es": "¿Puedes abrir la ventana?",
       "translations": {
         "en": "Could you open the window?",
-        "pt": "Pode abrir a janela?",
-        "fr": "Tu peux ouvrir la fenêtre ? / Pouvez-vous ouvrir la fenêtre ?",
-        "it": "Puoi aprire la finestra? / Può aprire la finestra?"
+        "fr": "Tu peux ouvrir la fenêtre ?",
+        "it": "Puoi aprire la finestra?",
+        "pt": "Pode abrir a janela?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: ¿Puede abrir la ventana?. Formal: ¿Puede abrir la ventana?."
+      }
     },
     {
       "id": "ca207",
-      "es": "¿Puedes cerrar la puerta? / ¿Puede cerrar la puerta?",
+      "es": "¿Puedes cerrar la puerta?",
       "translations": {
         "en": "Could you close the door?",
-        "pt": "Pode fechar a porta?",
-        "fr": "Tu peux fermer la porte ? / Pouvez-vous fermer la porte ?",
-        "it": "Puoi chiudere la porta? / Può chiudere la porta?"
+        "fr": "Tu peux fermer la porte ?",
+        "it": "Puoi chiudere la porta?",
+        "pt": "Pode fechar a porta?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: ¿Puede cerrar la puerta?. Formal: ¿Puede cerrar la puerta?."
+      }
     },
     {
       "id": "ca208",
-      "es": "Enciende / Apaga la luz, por favor.",
+      "es": "Enciende la luz, por favor.",
       "translations": {
-        "en": "Turn the light on, please. / Turn the light off, please.",
-        "pt": "Acenda a luz, por favor. / Apague a luz, por favor.",
-        "fr": "Allume la lumière, s'il te plaît. / Éteins la lumière, s'il te plaît.",
-        "it": "Accendi la luce, per favore. / Spegni la luce, per favore."
+        "en": "Turn on the light, please.",
+        "fr": "Allume la lumière, s'il te plaît.",
+        "it": "Accendi la luce, per favore.",
+        "pt": "Acenda a luz, por favor."
       },
       "image_url": ""
     },
     {
       "id": "ca209",
-      "es": "¿Puedes bajar el volumen de la televisión? / ¿Puede bajar el volumen de la televisión?",
+      "es": "¿Puedes bajar el volumen de la televisión?",
       "translations": {
         "en": "Could you turn down the TV?",
-        "pt": "Pode baixar o volume da televisão?",
-        "fr": "Tu peux baisser le volume de la télévision ? / Pouvez-vous baisser le volume de la télévision ?",
-        "it": "Puoi abbassare il volume della televisione? / Può abbassare il volume della televisione?"
+        "fr": "Tu peux baisser le volume de la télévision ?",
+        "it": "Puoi abbassare il volume della televisione?",
+        "pt": "Pode baixar o volume da televisão?"
       },
       "image_url": ""
     },
     {
       "id": "ca210",
-      "es": "Por favor, no hagas ruido. / Por favor, no haga ruido.",
+      "es": "Por favor, no hagas ruido.",
       "translations": {
         "en": "Please don't make noise.",
-        "pt": "Por favor, não faça barulho.",
-        "fr": "Ne fais pas de bruit, s'il te plaît. / Ne faites pas de bruit, s'il vous plaît.",
-        "it": "Per favore, non fare rumore. / Per favore, non faccia rumore."
+        "fr": "Ne fais pas de bruit, s'il te plaît.",
+        "it": "Per favore, non fare rumore.",
+        "pt": "Por favor, não faça barulho."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: Por favor, no haga ruido.. Formal: Por favor, no haga ruido."
+      }
     },
     {
       "id": "ca211",
-      "es": "¿Te toca limpiar hoy? / ¿Le toca limpiar hoy?",
+      "es": "¿Te toca limpiar hoy?",
       "translations": {
         "en": "Is it your turn to clean today?",
-        "pt": "É sua vez de limpar hoje?",
-        "fr": "C'est à toi de nettoyer aujourd'hui ? / C'est à vous de nettoyer aujourd'hui ?",
-        "it": "Tocca a te pulire oggi? / Tocca a lei pulire oggi?"
+        "fr": "C'est à toi de nettoyer aujourd'hui ?",
+        "it": "Tocca a te pulire oggi?",
+        "pt": "É sua vez de limpar hoje?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: ¿Le toca limpiar hoy?. Formal: ¿Le toca limpiar hoy?."
+      }
     },
     {
       "id": "ca212",
       "es": "Hoy me toca lavar los platos.",
       "translations": {
         "en": "It's my turn to wash the dishes today.",
-        "pt": "Hoje é minha vez de lavar a louça.",
         "fr": "Aujourd'hui, c'est à moi de faire la vaisselle.",
-        "it": "Oggi tocca a me lavare i piatti."
+        "it": "Oggi tocca a me lavare i piatti.",
+        "pt": "Hoje é minha vez de lavar a louça."
       },
       "image_url": ""
     },
@@ -2350,31 +3338,34 @@
       "es": "Yo cocino y tú lavas los platos.",
       "translations": {
         "en": "I'll cook, and you wash the dishes.",
-        "pt": "Eu cozinho e você lava a louça.",
         "fr": "Je cuisine et tu fais la vaisselle.",
-        "it": "Io cucino e tu lavi i piatti."
+        "it": "Io cucino e tu lavi i piatti.",
+        "pt": "Eu cozinho e você lava a louça."
       },
       "image_url": ""
     },
     {
       "id": "ca214",
-      "es": "¿Me ayudas a mover esta mesa? / ¿Me ayuda a mover esta mesa?",
+      "es": "¿Me ayudas a mover esta mesa?",
       "translations": {
         "en": "Can you help me move this table?",
-        "pt": "Pode me ajudar a mover esta mesa?",
-        "fr": "Tu peux m'aider à déplacer cette table ? / Pouvez-vous m'aider à déplacer cette table ?",
-        "it": "Mi aiuti a spostare questo tavolo? / Mi aiuta a spostare questo tavolo?"
+        "fr": "Tu peux m'aider à déplacer cette table ?",
+        "it": "Mi aiuti a spostare questo tavolo?",
+        "pt": "Pode me ajudar a mover esta mesa?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: ¿Me ayuda a mover esta mesa?. Formal: ¿Me ayuda a mover esta mesa?."
+      }
     },
     {
       "id": "ca215",
       "es": "Hay que sacar la basura.",
       "translations": {
         "en": "We need to take out the trash.",
-        "pt": "Precisamos levar o lixo para fora.",
         "fr": "Il faut sortir les poubelles.",
-        "it": "Bisogna portare fuori la spazzatura."
+        "it": "Bisogna portare fuori la spazzatura.",
+        "pt": "Precisamos levar o lixo para fora."
       },
       "image_url": ""
     },
@@ -2383,9 +3374,9 @@
       "es": "La ropa todavía está mojada.",
       "translations": {
         "en": "The clothes are still wet.",
-        "pt": "A roupa ainda está molhada.",
         "fr": "Le linge est encore mouillé.",
-        "it": "I vestiti sono ancora bagnati."
+        "it": "I vestiti sono ancora bagnati.",
+        "pt": "A roupa ainda está molhada."
       },
       "image_url": ""
     },
@@ -2394,9 +3385,9 @@
       "es": "Esta ropa ya está seca.",
       "translations": {
         "en": "These clothes are dry now.",
-        "pt": "Esta roupa já está seca.",
         "fr": "Ce linge est sec maintenant.",
-        "it": "Questi vestiti sono già asciutti."
+        "it": "Questi vestiti sono già asciutti.",
+        "pt": "Esta roupa já está seca."
       },
       "image_url": ""
     },
@@ -2405,9 +3396,9 @@
       "es": "No hay papel higiénico.",
       "translations": {
         "en": "There's no toilet paper.",
-        "pt": "Não tem papel higiênico.",
         "fr": "Il n'y a pas de papier toilette.",
-        "it": "Non c'è carta igienica."
+        "it": "Non c'è carta igienica.",
+        "pt": "Não tem papel higiênico."
       },
       "image_url": ""
     },
@@ -2416,9 +3407,9 @@
       "es": "El refrigerador está vacío.",
       "translations": {
         "en": "The fridge is empty.",
-        "pt": "A geladeira está vazia.",
         "fr": "Le frigo est vide.",
-        "it": "Il frigorifero è vuoto."
+        "it": "Il frigorifero è vuoto.",
+        "pt": "A geladeira está vazia."
       },
       "image_url": ""
     },
@@ -2427,9 +3418,9 @@
       "es": "El lavavajillas está lleno.",
       "translations": {
         "en": "The dishwasher is full.",
-        "pt": "A máquina de lavar louça está cheia.",
         "fr": "Le lave-vaisselle est plein.",
-        "it": "La lavastoviglie è piena."
+        "it": "La lavastoviglie è piena.",
+        "pt": "A máquina de lavar louça está cheia."
       },
       "image_url": ""
     },
@@ -2438,9 +3429,9 @@
       "es": "La lavadora no funciona.",
       "translations": {
         "en": "The washing machine isn't working.",
-        "pt": "A máquina de lavar roupa não está funcionando.",
         "fr": "Le lave-linge ne fonctionne pas.",
-        "it": "La lavatrice non funziona."
+        "it": "La lavatrice non funziona.",
+        "pt": "A máquina de lavar roupa não está funcionando."
       },
       "image_url": ""
     },
@@ -2449,9 +3440,9 @@
       "es": "No hay agua caliente.",
       "translations": {
         "en": "There's no hot water.",
-        "pt": "Não tem água quente.",
         "fr": "Il n'y a pas d'eau chaude.",
-        "it": "Non c'è acqua calda."
+        "it": "Non c'è acqua calda.",
+        "pt": "Não tem água quente."
       },
       "image_url": ""
     },
@@ -2460,31 +3451,34 @@
       "es": "El grifo gotea.",
       "translations": {
         "en": "The faucet is dripping.",
-        "pt": "A torneira está pingando.",
         "fr": "Le robinet goutte.",
-        "it": "Il rubinetto gocciola."
+        "it": "Il rubinetto gocciola.",
+        "pt": "A torneira está pingando."
       },
       "image_url": ""
     },
     {
       "id": "ca224",
-      "es": "El fregadero está tapado / atascado.",
+      "es": "La tarja está tapada.",
       "translations": {
         "en": "The kitchen sink is clogged.",
-        "pt": "A pia da cozinha está entupida.",
         "fr": "L'évier est bouché.",
-        "it": "Il lavello è intasato."
+        "it": "Il lavello è intasato.",
+        "pt": "A pia da cozinha está entupida."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Variante: El fregadero está tapado, atascado."
+      }
     },
     {
       "id": "ca225",
-      "es": "Se fue la luz. / Hay un corte de electricidad.",
+      "es": "Se fue la luz.",
       "translations": {
-        "en": "The power went out. / There's a power outage.",
-        "pt": "Acabou a luz. / Faltou energia.",
+        "en": "The power went out.",
         "fr": "Il y a une coupure de courant.",
-        "it": "È andata via la corrente. / C'è un'interruzione di corrente."
+        "it": "È andata via la corrente.",
+        "pt": "Acabou a luz."
       },
       "image_url": ""
     },
@@ -2493,9 +3487,9 @@
       "es": "La puerta está cerrada con llave.",
       "translations": {
         "en": "The door is locked.",
-        "pt": "A porta está trancada.",
         "fr": "La porte est fermée à clé.",
-        "it": "La porta è chiusa a chiave."
+        "it": "La porta è chiusa a chiave.",
+        "pt": "A porta está trancada."
       },
       "image_url": ""
     },
@@ -2504,11 +3498,424 @@
       "es": "Me quedé afuera sin llaves.",
       "translations": {
         "en": "I'm locked out.",
-        "pt": "Fiquei do lado de fora sem as chaves.",
         "fr": "Je suis dehors sans mes clés.",
-        "it": "Sono rimasto fuori senza chiavi. / Sono rimasta fuori senza chiavi."
+        "it": "Sono rimasto fuori senza chiavi.",
+        "pt": "Fiquei do lado de fora sem as chaves."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "La forma rimasto corresponde a un hablante masculino; femenino: rimasta."
+      }
+    },
+    {
+      "id": "ca229",
+      "es": "La llave",
+      "translations": {
+        "en": "The key",
+        "fr": "La clé",
+        "it": "La chiave",
+        "pt": "A chave"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the keys",
+        "fr": "Plural: les clés",
+        "it": "Plural: le chiavi",
+        "pt": "Plural: as chaves"
+      }
+    },
+    {
+      "id": "ca230",
+      "es": "El tapete de entrada",
+      "translations": {
+        "en": "The doormat",
+        "fr": "Le paillasson",
+        "it": "Lo zerbino",
+        "pt": "O capacho"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the doormats",
+        "fr": "Plural: les paillassons",
+        "it": "Plural: gli zerbini",
+        "pt": "Plural: os capachos"
+      }
+    },
+    {
+      "id": "ca231",
+      "es": "El cerrojo",
+      "translations": {
+        "en": "The deadbolt",
+        "fr": "Le verrou",
+        "it": "Il catenaccio",
+        "pt": "O ferrolho"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Cerrojo adicional para asegurar puertas; su mecanismo varía.",
+        "en": "Plural: the deadbolts",
+        "fr": "Plural: les verrous",
+        "it": "Plural: i catenacci",
+        "pt": "Plural: os ferrolhos"
+      }
+    },
+    {
+      "id": "ca232",
+      "es": "El mosquitero",
+      "translations": {
+        "en": "The window screen",
+        "fr": "La moustiquaire",
+        "it": "La zanzariera",
+        "pt": "A tela mosquiteira"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the window screens",
+        "fr": "Plural: les moustiquaires",
+        "it": "Plural: le zanzariere",
+        "pt": "Plural: as telas mosquiteiras"
+      }
+    },
+    {
+      "id": "ca233",
+      "es": "La funda de edredón",
+      "translations": {
+        "en": "The duvet cover",
+        "fr": "L’housse de couette",
+        "it": "Il copripiumino",
+        "pt": "A capa de edredom"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the duvet covers",
+        "fr": "Plural: les housses de couette",
+        "it": "Plural: i copripiumini",
+        "pt": "Plural: as capas de edredom"
+      }
+    },
+    {
+      "id": "ca234",
+      "es": "La cobija ligera",
+      "translations": {
+        "en": "The throw blanket",
+        "fr": "Le plaid",
+        "it": "Il plaid",
+        "pt": "A manta para sofá"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Cobija ligera para usar sobre el sofá o como complemento.",
+        "en": "Plural: the throw blankets",
+        "fr": "Plural: les plaids",
+        "it": "Plural: i plaid",
+        "pt": "Plural: as mantas para sofá"
+      }
+    },
+    {
+      "id": "ca235",
+      "es": "La jarra",
+      "translations": {
+        "en": "The pitcher",
+        "fr": "Le pichet",
+        "it": "La brocca",
+        "pt": "A jarra"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pitchers",
+        "fr": "Plural: les pichets",
+        "it": "Plural: le brocche",
+        "pt": "Plural: as jarras"
+      }
+    },
+    {
+      "id": "ca236",
+      "es": "El escurridor de platos",
+      "translations": {
+        "en": "The dish rack",
+        "fr": "L’égouttoir à vaisselle",
+        "it": "Lo scolapiatti",
+        "pt": "O escorredor de louça"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dish racks",
+        "fr": "Plural: les égouttoirs à vaisselle",
+        "it": "Plural: gli scolapiatti",
+        "pt": "Plural: os escorredores de louça"
+      }
+    },
+    {
+      "id": "ca237",
+      "es": "El sacacorchos",
+      "translations": {
+        "en": "The corkscrew",
+        "fr": "Le tire-bouchon",
+        "it": "Il cavatappi",
+        "pt": "O saca-rolhas"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the corkscrews",
+        "fr": "Plural: les tire-bouchons",
+        "it": "Plural: i cavatappi",
+        "pt": "Plural: os saca-rolhas"
+      }
+    },
+    {
+      "id": "ca238",
+      "es": "El escurridor de pasta",
+      "translations": {
+        "en": "The colander",
+        "fr": "La passoire à pâtes",
+        "it": "Lo scolapasta",
+        "pt": "O escorredor de macarrão"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the colanders",
+        "fr": "Plural: les passoires à pâtes",
+        "it": "Plural: gli scolapasta",
+        "pt": "Plural: os escorredores de macarrão"
+      }
+    },
+    {
+      "id": "ca239",
+      "es": "La jaladera",
+      "translations": {
+        "en": "The drawer pull",
+        "fr": "La poignée de tiroir",
+        "it": "La maniglia del cassetto",
+        "pt": "O puxador de gaveta"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the drawer pulls",
+        "fr": "Plural: les poignées de tiroir",
+        "it": "Plural: le maniglie del cassetto",
+        "pt": "Plural: os puxadores de gaveta"
+      }
+    },
+    {
+      "id": "ca240",
+      "es": "El gancho para ropa",
+      "translations": {
+        "en": "The clothes hanger",
+        "fr": "Le cintre",
+        "it": "La gruccia",
+        "pt": "O cabide"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the clothes hangers",
+        "fr": "Plural: les cintres",
+        "it": "Plural: le grucce",
+        "pt": "Plural: os cabides"
+      }
+    },
+    {
+      "id": "ca241",
+      "es": "El desinfectante",
+      "translations": {
+        "en": "The disinfectant",
+        "fr": "Le désinfectant",
+        "it": "Il disinfettante",
+        "pt": "O desinfetante"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Producto para desinfectar superficies.",
+        "fr": "Plural: les désinfectants",
+        "it": "Plural: i disinfettanti",
+        "pt": "Plural: os desinfetantes"
+      }
+    },
+    {
+      "id": "ca242",
+      "es": "El plato",
+      "translations": {
+        "en": "The plate",
+        "fr": "L’assiette",
+        "it": "Il piatto",
+        "pt": "O prato"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the plates",
+        "fr": "Plural: les assiettes",
+        "it": "Plural: i piatti",
+        "pt": "Plural: os pratos"
+      }
+    },
+    {
+      "id": "ca243",
+      "es": "El vaso",
+      "translations": {
+        "en": "The drinking glass",
+        "fr": "Le verre",
+        "it": "Il bicchiere",
+        "pt": "O copo"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the drinking glasses",
+        "fr": "Plural: les verres",
+        "it": "Plural: i bicchieri",
+        "pt": "Plural: os copos"
+      }
+    },
+    {
+      "id": "ca244",
+      "es": "La taza",
+      "translations": {
+        "en": "The cup",
+        "fr": "La tasse",
+        "it": "La tazza",
+        "pt": "A xícara"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cups",
+        "fr": "Plural: les tasses",
+        "it": "Plural: le tazze",
+        "pt": "Plural: as xícaras"
+      }
+    },
+    {
+      "id": "ca245",
+      "es": "El tenedor",
+      "translations": {
+        "en": "The fork",
+        "fr": "La fourchette",
+        "it": "La forchetta",
+        "pt": "O garfo"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the forks",
+        "fr": "Plural: les fourchettes",
+        "it": "Plural: le forchette",
+        "pt": "Plural: os garfos"
+      }
+    },
+    {
+      "id": "ca246",
+      "es": "El cuchillo",
+      "translations": {
+        "en": "The knife",
+        "fr": "Le couteau",
+        "it": "Il coltello",
+        "pt": "A faca"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the knives",
+        "fr": "Plural: les couteaux",
+        "it": "Plural: i coltelli",
+        "pt": "Plural: as facas"
+      }
+    },
+    {
+      "id": "ca247",
+      "es": "La cuchara",
+      "translations": {
+        "en": "The spoon",
+        "fr": "La cuillère",
+        "it": "Il cucchiaio",
+        "pt": "A colher"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the spoons",
+        "fr": "Plural: les cuillères",
+        "it": "Plural: i cucchiai",
+        "pt": "Plural: as colheres"
+      }
+    },
+    {
+      "id": "ca248",
+      "es": "El cepillo para el inodoro",
+      "translations": {
+        "en": "The toilet brush",
+        "fr": "La brosse WC",
+        "it": "Lo scopino per WC",
+        "pt": "A escova sanitária"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the toilet brushes",
+        "fr": "Plural: les brosses WC",
+        "it": "Plural: gli scopini per WC",
+        "pt": "Plural: as escovas sanitárias"
+      }
+    },
+    {
+      "id": "ca249",
+      "es": "La llave de paso",
+      "translations": {
+        "en": "The shutoff valve",
+        "fr": "Le robinet d’arrêt",
+        "it": "La valvola di intercettazione",
+        "pt": "O registro de água"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the shutoff valves",
+        "fr": "Plural: les robinets d’arrêt",
+        "it": "Plural: le valvole di intercettazione",
+        "pt": "Plural: os registros de água"
+      }
+    },
+    {
+      "id": "ca250",
+      "es": "El extintor",
+      "translations": {
+        "en": "The fire extinguisher",
+        "fr": "L’extincteur",
+        "it": "L’estintore",
+        "pt": "O extintor de incêndio"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the fire extinguishers",
+        "fr": "Plural: les extincteurs",
+        "it": "Plural: gli estintori",
+        "pt": "Plural: os extintores de incêndio"
+      }
+    },
+    {
+      "id": "ca251",
+      "es": "El detector de humo",
+      "translations": {
+        "en": "The smoke detector",
+        "fr": "Le détecteur de fumée",
+        "it": "Il rilevatore di fumo",
+        "pt": "O detector de fumaça"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the smoke detectors",
+        "fr": "Plural: les détecteurs de fumée",
+        "it": "Plural: i rilevatori di fumo",
+        "pt": "Plural: os detectores de fumaça"
+      }
+    },
+    {
+      "id": "ca252",
+      "es": "El escalón",
+      "translations": {
+        "en": "The step",
+        "fr": "La marche",
+        "it": "Il gradino",
+        "pt": "O degrau"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the steps",
+        "fr": "Plural: les marches",
+        "it": "Plural: i gradini",
+        "pt": "Plural: os degraus"
+      }
     }
   ]
 }

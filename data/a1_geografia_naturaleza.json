@@ -1,0 +1,894 @@
+{
+  "module": "Geografía y Naturaleza",
+  "level": "A1",
+  "revisado": "true",
+  "cards": [
+    {
+      "id": "geo1",
+      "es": "El continente",
+      "translations": {
+        "en": "The continent",
+        "pt": "O continente",
+        "fr": "Le continent",
+        "it": "Il continente"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the continents",
+        "pt": "Plural: os continentes",
+        "fr": "Plural: les continents",
+        "it": "Plural: i continenti"
+      }
+    },
+    {
+      "id": "geo2",
+      "es": "El océano",
+      "translations": {
+        "en": "The ocean",
+        "pt": "O oceano",
+        "fr": "L’océan",
+        "it": "L’oceano"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the oceans",
+        "pt": "Plural: os oceanos",
+        "fr": "Plural: les océans",
+        "it": "Plural: gli oceani"
+      }
+    },
+    {
+      "id": "geo3",
+      "es": "El mar",
+      "translations": {
+        "en": "The sea",
+        "pt": "O mar",
+        "fr": "La mer",
+        "it": "Il mare"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the seas",
+        "pt": "Plural: os mares",
+        "fr": "Plural: les mers",
+        "it": "Plural: i mari"
+      }
+    },
+    {
+      "id": "geo4",
+      "es": "La isla",
+      "translations": {
+        "en": "The island",
+        "pt": "A ilha",
+        "fr": "L’île",
+        "it": "L’isola"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the islands",
+        "pt": "Plural: as ilhas",
+        "fr": "Plural: les îles",
+        "it": "Plural: le isole"
+      }
+    },
+    {
+      "id": "geo5",
+      "es": "La península",
+      "translations": {
+        "en": "The peninsula",
+        "pt": "A península",
+        "fr": "La péninsule",
+        "it": "La penisola"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the peninsulas",
+        "pt": "Plural: as penínsulas",
+        "fr": "Plural: les péninsules",
+        "it": "Plural: le penisole"
+      }
+    },
+    {
+      "id": "geo6",
+      "es": "La costa",
+      "translations": {
+        "en": "The coast",
+        "pt": "A costa",
+        "fr": "La côte",
+        "it": "La costa"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the coasts",
+        "pt": "Plural: as costas",
+        "fr": "Plural: les côtes",
+        "it": "Plural: le coste"
+      }
+    },
+    {
+      "id": "geo7",
+      "es": "La bahía",
+      "translations": {
+        "en": "The bay",
+        "pt": "A baía",
+        "fr": "La baie",
+        "it": "La baia"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bays",
+        "pt": "Plural: as baías",
+        "fr": "Plural: les baies",
+        "it": "Plural: le baie"
+      }
+    },
+    {
+      "id": "geo8",
+      "es": "El golfo",
+      "translations": {
+        "en": "The gulf",
+        "pt": "O golfo",
+        "fr": "Le golfe",
+        "it": "Il golfo"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the gulfs",
+        "pt": "Plural: os golfos",
+        "fr": "Plural: les golfes",
+        "it": "Plural: i golfi"
+      }
+    },
+    {
+      "id": "geo9",
+      "es": "El estrecho",
+      "translations": {
+        "en": "The strait",
+        "pt": "O estreito",
+        "fr": "Le détroit",
+        "it": "Lo stretto"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the straits",
+        "pt": "Plural: os estreitos",
+        "fr": "Plural: les détroits",
+        "it": "Plural: gli stretti"
+      }
+    },
+    {
+      "id": "geo10",
+      "es": "El arrecife de coral",
+      "translations": {
+        "en": "The coral reef",
+        "pt": "O recife de coral",
+        "fr": "Le récif corallien",
+        "it": "La scogliera corallina"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the coral reefs",
+        "pt": "Plural: os recifes de coral",
+        "fr": "Plural: les récifs coralliens",
+        "it": "Plural: le scogliere coralline"
+      }
+    },
+    {
+      "id": "geo11",
+      "es": "La montaña",
+      "translations": {
+        "en": "The mountain",
+        "pt": "A montanha",
+        "fr": "La montagne",
+        "it": "La montagna"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mountains",
+        "pt": "Plural: as montanhas",
+        "fr": "Plural: les montagnes",
+        "it": "Plural: le montagne"
+      }
+    },
+    {
+      "id": "geo12",
+      "es": "La cordillera",
+      "translations": {
+        "en": "The mountain range",
+        "pt": "A cordilheira",
+        "fr": "La chaîne de montagnes",
+        "it": "La catena montuosa"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mountain ranges",
+        "pt": "Plural: as cordilheiras",
+        "fr": "Plural: les chaînes de montagnes",
+        "it": "Plural: le catene montuose"
+      }
+    },
+    {
+      "id": "geo13",
+      "es": "La colina",
+      "translations": {
+        "en": "The hill",
+        "pt": "A colina",
+        "fr": "La colline",
+        "it": "La collina"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hills",
+        "pt": "Plural: as colinas",
+        "fr": "Plural: les collines",
+        "it": "Plural: le colline"
+      }
+    },
+    {
+      "id": "geo14",
+      "es": "El valle",
+      "translations": {
+        "en": "The valley",
+        "pt": "O vale",
+        "fr": "La vallée",
+        "it": "La valle"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the valleys",
+        "pt": "Plural: os vales",
+        "fr": "Plural: les vallées",
+        "it": "Plural: le valli"
+      }
+    },
+    {
+      "id": "geo15",
+      "es": "La llanura",
+      "translations": {
+        "en": "The plain",
+        "pt": "A planície",
+        "fr": "La plaine",
+        "it": "La pianura"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the plains",
+        "pt": "Plural: as planícies",
+        "fr": "Plural: les plaines",
+        "it": "Plural: le pianure"
+      }
+    },
+    {
+      "id": "geo16",
+      "es": "La meseta",
+      "translations": {
+        "en": "The plateau",
+        "pt": "O planalto",
+        "fr": "Le plateau",
+        "it": "L’altopiano"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the plateaus",
+        "pt": "Plural: os planaltos",
+        "fr": "Plural: les plateaux",
+        "it": "Plural: gli altopiani"
+      }
+    },
+    {
+      "id": "geo17",
+      "es": "La cima",
+      "translations": {
+        "en": "The summit",
+        "pt": "O cume",
+        "fr": "Le sommet",
+        "it": "La cima"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the summits",
+        "pt": "Plural: os cumes",
+        "fr": "Plural: les sommets",
+        "it": "Plural: le cime"
+      }
+    },
+    {
+      "id": "geo18",
+      "es": "El acantilado",
+      "translations": {
+        "en": "The cliff",
+        "pt": "A falésia",
+        "fr": "La falaise",
+        "it": "La falesia"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cliffs",
+        "pt": "Plural: as falésias",
+        "fr": "Plural: les falaises",
+        "it": "Plural: le falesie; se refiere a una pared rocosa escarpada, a menudo junto al mar."
+      }
+    },
+    {
+      "id": "geo19",
+      "es": "El volcán",
+      "translations": {
+        "en": "The volcano",
+        "pt": "O vulcão",
+        "fr": "Le volcan",
+        "it": "Il vulcano"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the volcanoes",
+        "pt": "Plural: os vulcões",
+        "fr": "Plural: les volcans",
+        "it": "Plural: i vulcani"
+      }
+    },
+    {
+      "id": "geo20",
+      "es": "El cráter",
+      "translations": {
+        "en": "The crater",
+        "pt": "A cratera",
+        "fr": "Le cratère",
+        "it": "Il cratere"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the craters",
+        "pt": "Plural: as crateras",
+        "fr": "Plural: les cratères",
+        "it": "Plural: i crateri"
+      }
+    },
+    {
+      "id": "geo21",
+      "es": "La cueva",
+      "translations": {
+        "en": "The cave",
+        "pt": "A caverna",
+        "fr": "La grotte",
+        "it": "La grotta"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the caves",
+        "pt": "Plural: as cavernas",
+        "fr": "Plural: les grottes",
+        "it": "Plural: le grotte"
+      }
+    },
+    {
+      "id": "geo22",
+      "es": "El cañón",
+      "translations": {
+        "en": "The canyon",
+        "pt": "O cânion",
+        "fr": "Le canyon",
+        "it": "Il canyon"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the canyons",
+        "pt": "Plural: os cânions",
+        "fr": "Plural: les canyons",
+        "it": "Plural: i canyon"
+      }
+    },
+    {
+      "id": "geo23",
+      "es": "La cascada",
+      "translations": {
+        "en": "The waterfall",
+        "pt": "A cachoeira",
+        "fr": "La cascade",
+        "it": "La cascata"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the waterfalls",
+        "pt": "Plural: as cachoeiras",
+        "fr": "Plural: les cascades",
+        "it": "Plural: le cascate"
+      }
+    },
+    {
+      "id": "geo24",
+      "es": "El arroyo",
+      "translations": {
+        "en": "The stream",
+        "pt": "O riacho",
+        "fr": "Le ruisseau",
+        "it": "Il ruscello"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the streams",
+        "pt": "Plural: os riachos",
+        "fr": "Plural: les ruisseaux",
+        "it": "Plural: i ruscelli"
+      }
+    },
+    {
+      "id": "geo25",
+      "es": "El manantial",
+      "translations": {
+        "en": "The spring",
+        "pt": "A nascente",
+        "fr": "La source",
+        "it": "La sorgente"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the springs",
+        "pt": "Plural: as nascentes",
+        "fr": "Plural: les sources",
+        "it": "Plural: le sorgenti"
+      }
+    },
+    {
+      "id": "geo26",
+      "es": "El delta",
+      "translations": {
+        "en": "The river delta",
+        "pt": "O delta fluvial",
+        "fr": "Le delta",
+        "it": "Il delta fluviale"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the river deltas",
+        "pt": "Plural: os deltas fluviais",
+        "fr": "Plural: les deltas",
+        "it": "Plural: i delta fluviali",
+        "es": "Desembocadura de un río con acumulación de sedimentos."
+      }
+    },
+    {
+      "id": "geo27",
+      "es": "El glaciar",
+      "translations": {
+        "en": "The glacier",
+        "pt": "A geleira",
+        "fr": "Le glacier",
+        "it": "Il ghiacciaio"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the glaciers",
+        "pt": "Plural: as geleiras",
+        "fr": "Plural: les glaciers",
+        "it": "Plural: i ghiacciai"
+      }
+    },
+    {
+      "id": "geo28",
+      "es": "El iceberg",
+      "translations": {
+        "en": "The iceberg",
+        "pt": "O iceberg",
+        "fr": "L’iceberg",
+        "it": "L’iceberg"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the icebergs",
+        "pt": "Plural: os icebergs",
+        "fr": "Plural: les icebergs",
+        "it": "Plural: gli iceberg"
+      }
+    },
+    {
+      "id": "geo29",
+      "es": "El bosque",
+      "translations": {
+        "en": "The forest",
+        "pt": "A floresta",
+        "fr": "La forêt",
+        "it": "Il bosco"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the forests",
+        "pt": "Plural: as florestas",
+        "fr": "Plural: les forêts",
+        "it": "Plural: i boschi; «Foresta» suele referirse a un bosque extenso o denso."
+      }
+    },
+    {
+      "id": "geo30",
+      "es": "La selva tropical",
+      "translations": {
+        "en": "The tropical rainforest",
+        "pt": "A floresta tropical úmida",
+        "fr": "La forêt tropicale humide",
+        "it": "La foresta pluviale tropicale"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the tropical rainforests",
+        "pt": "Plural: as florestas tropicais úmidas",
+        "fr": "Plural: les forêts tropicales humides",
+        "it": "Plural: le foreste pluviali tropicali"
+      }
+    },
+    {
+      "id": "geo31",
+      "es": "El desierto",
+      "translations": {
+        "en": "The desert",
+        "pt": "O deserto",
+        "fr": "Le désert",
+        "it": "Il deserto"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the deserts",
+        "pt": "Plural: os desertos",
+        "fr": "Plural: les déserts",
+        "it": "Plural: i deserti"
+      }
+    },
+    {
+      "id": "geo32",
+      "es": "La duna",
+      "translations": {
+        "en": "The dune",
+        "pt": "A duna",
+        "fr": "La dune",
+        "it": "La duna"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dunes",
+        "pt": "Plural: as dunas",
+        "fr": "Plural: les dunes",
+        "it": "Plural: le dune"
+      }
+    },
+    {
+      "id": "geo33",
+      "es": "La sabana",
+      "translations": {
+        "en": "The savanna",
+        "pt": "A savana",
+        "fr": "La savane",
+        "it": "La savana"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the savannas",
+        "pt": "Plural: as savanas",
+        "fr": "Plural: les savanes",
+        "it": "Plural: le savane"
+      }
+    },
+    {
+      "id": "geo34",
+      "es": "La pradera",
+      "translations": {
+        "en": "The prairie",
+        "pt": "A pradaria",
+        "fr": "La prairie",
+        "it": "La prateria"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the prairies; «Grassland» es un término más amplio para los pastizales.",
+        "pt": "Plural: as pradarias",
+        "fr": "Plural: les prairies",
+        "it": "Plural: le praterie"
+      }
+    },
+    {
+      "id": "geo35",
+      "es": "La estepa",
+      "translations": {
+        "en": "The steppe",
+        "pt": "A estepe",
+        "fr": "La steppe",
+        "it": "La steppa"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the steppes",
+        "pt": "Plural: as estepes",
+        "fr": "Plural: les steppes",
+        "it": "Plural: le steppe"
+      }
+    },
+    {
+      "id": "geo36",
+      "es": "La tundra",
+      "translations": {
+        "en": "The tundra",
+        "pt": "A tundra",
+        "fr": "La toundra",
+        "it": "La tundra"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the tundras. Como bioma suele ser incontable; el plural se usa para regiones diferenciadas.",
+        "pt": "Plural: as tundras",
+        "fr": "Plural: les toundras",
+        "it": "Plural: le tundre"
+      }
+    },
+    {
+      "id": "geo37",
+      "es": "El pantano",
+      "translations": {
+        "en": "The swamp",
+        "pt": "O pântano",
+        "fr": "Le marécage",
+        "it": "La palude"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the swamps",
+        "pt": "Plural: os pântanos",
+        "fr": "Plural: les marécages",
+        "it": "Plural: le paludi"
+      }
+    },
+    {
+      "id": "geo38",
+      "es": "El humedal",
+      "translations": {
+        "en": "The wetland",
+        "pt": "A área úmida",
+        "fr": "La zone humide",
+        "it": "La zona umida"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the wetlands",
+        "pt": "Plural: as áreas úmidas",
+        "fr": "Plural: les zones humides",
+        "it": "Plural: le zone umide"
+      }
+    },
+    {
+      "id": "geo39",
+      "es": "El oasis",
+      "translations": {
+        "en": "The oasis",
+        "pt": "O oásis",
+        "fr": "L’oasis",
+        "it": "L’oasi"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the oases",
+        "pt": "Plural: os oásis",
+        "fr": "Plural: les oasis",
+        "it": "Plural: le oasi"
+      }
+    },
+    {
+      "id": "geo40",
+      "es": "El manglar",
+      "translations": {
+        "en": "The mangrove forest",
+        "pt": "O manguezal",
+        "fr": "La mangrove",
+        "it": "La foresta di mangrovie"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mangrove forests",
+        "pt": "Plural: os manguezais",
+        "fr": "Plural: les mangroves",
+        "it": "Plural: le foreste di mangrovie"
+      }
+    },
+    {
+      "id": "geo41",
+      "es": "El río",
+      "translations": {
+        "en": "The river",
+        "pt": "O rio",
+        "fr": "La rivière",
+        "it": "Il fiume"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the rivers",
+        "pt": "Plural: os rios",
+        "fr": "Plural: les rivières; «Fleuve» se usa para un río que desemboca en el mar;; «rivière» es el término general para otros ríos.",
+        "it": "Plural: i fiumi"
+      }
+    },
+    {
+      "id": "geo42",
+      "es": "El lago",
+      "translations": {
+        "en": "The lake",
+        "pt": "O lago",
+        "fr": "Le lac",
+        "it": "Il lago"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lakes",
+        "pt": "Plural: os lagos",
+        "fr": "Plural: les lacs",
+        "it": "Plural: i laghi"
+      }
+    },
+    {
+      "id": "geo43",
+      "es": "La playa",
+      "translations": {
+        "en": "The beach",
+        "pt": "A praia",
+        "fr": "La plage",
+        "it": "La spiaggia"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the beaches",
+        "pt": "Plural: as praias",
+        "fr": "Plural: les plages",
+        "it": "Plural: le spiagge"
+      }
+    },
+    {
+      "id": "geo44",
+      "es": "La naturaleza",
+      "translations": {
+        "en": "The nature",
+        "pt": "A natureza",
+        "fr": "La nature",
+        "it": "La natura"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "En sentido general, se usa normalmente «nature» sin artículo; «the nature» requiere un contexto específico."
+      }
+    },
+    {
+      "id": "geo45",
+      "es": "El paisaje",
+      "translations": {
+        "en": "The landscape",
+        "pt": "A paisagem",
+        "fr": "Le paysage",
+        "it": "Il paesaggio"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the landscapes",
+        "pt": "Plural: as paisagens",
+        "fr": "Plural: les paysages",
+        "it": "Plural: i paesaggi"
+      }
+    },
+    {
+      "id": "geo46",
+      "es": "El árbol",
+      "translations": {
+        "en": "The tree",
+        "pt": "A árvore",
+        "fr": "L’arbre",
+        "it": "L’albero"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the trees",
+        "pt": "Plural: as árvores",
+        "fr": "Plural: les arbres",
+        "it": "Plural: gli alberi"
+      }
+    },
+    {
+      "id": "geo47",
+      "es": "La planta",
+      "translations": {
+        "en": "The plant",
+        "pt": "A planta",
+        "fr": "La plante",
+        "it": "La pianta"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the plants",
+        "pt": "Plural: as plantas",
+        "fr": "Plural: les plantes",
+        "it": "Plural: le piante"
+      }
+    },
+    {
+      "id": "geo48",
+      "es": "La flor",
+      "translations": {
+        "en": "The flower",
+        "pt": "A flor",
+        "fr": "La fleur",
+        "it": "Il fiore"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the flowers",
+        "pt": "Plural: as flores",
+        "fr": "Plural: les fleurs",
+        "it": "Plural: i fiori"
+      }
+    },
+    {
+      "id": "geo49",
+      "es": "La roca",
+      "translations": {
+        "en": "The rock",
+        "pt": "A rocha",
+        "fr": "La roche",
+        "it": "La roccia"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the rocks",
+        "pt": "Plural: as rochas",
+        "fr": "Plural: les roches; «Pierre» designa habitualmente una piedra suelta;; «roche» se refiere a roca como material o formación.",
+        "it": "Plural: le rocce"
+      }
+    },
+    {
+      "id": "geo50",
+      "es": "La arena",
+      "translations": {
+        "en": "The sand",
+        "pt": "A areia",
+        "fr": "Le sable",
+        "it": "La sabbia"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "En sentido general, «sand» suele utilizarse sin artículo en inglés."
+      }
+    },
+    {
+      "id": "geo51",
+      "es": "La tierra",
+      "translations": {
+        "en": "The soil",
+        "pt": "O solo",
+        "fr": "La terre",
+        "it": "Il suolo"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "En sentido general, «soil» suele utilizarse sin artículo en inglés."
+      }
+    },
+    {
+      "id": "geo52",
+      "es": "El agua",
+      "translations": {
+        "en": "The water",
+        "pt": "A água",
+        "fr": "L’eau",
+        "it": "L’acqua"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "En sentido general, «water» suele utilizarse sin artículo en inglés."
+      }
+    },
+    {
+      "id": "geo53",
+      "es": "El campo",
+      "translations": {
+        "en": "The countryside",
+        "pt": "O campo",
+        "fr": "La campagne",
+        "it": "La campagna"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "El entorno rural, no un campo deportivo."
+      }
+    }
+  ]
+}

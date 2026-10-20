@@ -1,2041 +1,3111 @@
 {
   "module": "Animales y Mascotas",
   "level": "A1",
+  "revisado": "true",
   "cards": [
     {
       "id": "an1",
-      "es": "Animal",
+      "es": "El animal",
       "translations": {
-        "en": "Animal",
-        "pt": "Animal",
-        "fr": "Animal",
-        "it": "Animale"
+        "en": "The animal",
+        "pt": "O animal",
+        "fr": "L’animal",
+        "it": "L’animale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the animals",
+        "pt": "Plural: os animais",
+        "fr": "Plural: les animaux",
+        "it": "Plural: gli animali"
+      }
     },
     {
       "id": "an2",
-      "es": "Mascota / Animal de compañía",
+      "es": "La mascota",
       "translations": {
-        "en": "Pet",
-        "pt": "Animal de estimação",
-        "fr": "Animal de compagnie",
-        "it": "Animale da compagnia"
+        "en": "The pet",
+        "pt": "O animal de estimação",
+        "fr": "L’animal de compagnie",
+        "it": "L’animale da compagnia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pets",
+        "pt": "Plural: os animais de estimação",
+        "fr": "Plural: les animaux de compagnie",
+        "it": "Plural: gli animali da compagnia",
+        "es": "También: animal de compañía."
+      }
     },
     {
       "id": "an3",
-      "es": "Animal doméstico",
+      "es": "El animal doméstico",
       "translations": {
-        "en": "Domestic animal",
-        "pt": "Animal doméstico",
-        "fr": "Animal domestique",
-        "it": "Animale domestico"
+        "en": "The domestic animal",
+        "pt": "O animal doméstico",
+        "fr": "L’animal domestique",
+        "it": "L’animale domestico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the domestic animals",
+        "pt": "Plural: os animais domésticos",
+        "fr": "Plural: les animaux domestiques",
+        "it": "Plural: gli animali domestici"
+      }
     },
     {
       "id": "an4",
-      "es": "Animal de granja",
+      "es": "El animal de granja",
       "translations": {
-        "en": "Farm animal",
-        "pt": "Animal de fazenda",
-        "fr": "Animal de ferme",
-        "it": "Animale da fattoria"
+        "en": "The farm animal",
+        "pt": "O animal de fazenda",
+        "fr": "L’animal de ferme",
+        "it": "L’animale da fattoria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the farm animals",
+        "pt": "Plural: os animais de fazenda",
+        "fr": "Plural: les animaux de ferme",
+        "it": "Plural: gli animali da fattoria"
+      }
     },
     {
       "id": "an5",
-      "es": "Animal salvaje",
+      "es": "El animal salvaje",
       "translations": {
-        "en": "Wild animal",
-        "pt": "Animal selvagem",
-        "fr": "Animal sauvage",
-        "it": "Animale selvatico"
+        "en": "The wild animal",
+        "pt": "O animal selvagem",
+        "fr": "L’animal sauvage",
+        "it": "L’animale selvatico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the wild animals",
+        "pt": "Plural: os animais selvagens",
+        "fr": "Plural: les animaux sauvages",
+        "it": "Plural: gli animali selvatici"
+      }
     },
     {
       "id": "an6",
-      "es": "Mamífero",
+      "es": "El mamífero",
       "translations": {
-        "en": "Mammal",
-        "pt": "Mamífero",
-        "fr": "Mammifère",
-        "it": "Mammifero"
+        "en": "The mammal",
+        "pt": "O mamífero",
+        "fr": "Le mammifère",
+        "it": "Il mammifero"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mammals",
+        "pt": "Plural: os mamíferos",
+        "fr": "Plural: les mammifères",
+        "it": "Plural: i mammiferi"
+      }
     },
     {
       "id": "an7",
-      "es": "Ave / Pájaro",
+      "es": "El pájaro",
       "translations": {
-        "en": "Bird",
-        "pt": "Ave / Pássaro",
-        "fr": "Oiseau",
-        "it": "Uccello"
+        "en": "The bird",
+        "pt": "O pássaro",
+        "fr": "L’oiseau",
+        "it": "L’uccello"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the birds",
+        "pt": "Plural: os pássaros",
+        "fr": "Plural: les oiseaux",
+        "it": "Plural: gli uccelli",
+        "es": "«Ave» es el término zoológico general."
+      }
     },
     {
       "id": "an8",
-      "es": "Pez (animal vivo)",
+      "es": "El pez",
       "translations": {
-        "en": "Fish",
-        "pt": "Peixe",
-        "fr": "Poisson",
-        "it": "Pesce"
+        "en": "The fish",
+        "pt": "O peixe",
+        "fr": "Le poisson",
+        "it": "Il pesce"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the fish",
+        "pt": "Plural: os peixes",
+        "fr": "Plural: les poissons",
+        "it": "Plural: i pesci"
+      }
     },
     {
       "id": "an9",
-      "es": "Reptil",
+      "es": "El reptil",
       "translations": {
-        "en": "Reptile",
-        "pt": "Réptil",
-        "fr": "Reptile",
-        "it": "Rettile"
+        "en": "The reptile",
+        "pt": "O réptil",
+        "fr": "Le reptile",
+        "it": "Il rettile"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the reptiles",
+        "pt": "Plural: os répteis",
+        "fr": "Plural: les reptiles",
+        "it": "Plural: i rettili"
+      }
     },
     {
       "id": "an10",
-      "es": "Insecto",
+      "es": "El insecto",
       "translations": {
-        "en": "Insect",
-        "pt": "Inseto",
-        "fr": "Insecte",
-        "it": "Insetto"
+        "en": "The insect",
+        "pt": "O inseto",
+        "fr": "L’insecte",
+        "it": "L’insetto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the insects",
+        "pt": "Plural: os insetos",
+        "fr": "Plural: les insectes",
+        "it": "Plural: gli insetti"
+      }
     },
     {
       "id": "an11",
-      "es": "Macho (animal)",
+      "es": "El macho",
       "translations": {
-        "en": "Male",
-        "pt": "Macho",
-        "fr": "Mâle",
-        "it": "Maschio"
+        "en": "The male",
+        "pt": "O macho",
+        "fr": "Le mâle",
+        "it": "Il maschio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the males",
+        "pt": "Plural: os machos",
+        "fr": "Plural: les mâles",
+        "it": "Plural: i maschi"
+      }
     },
     {
       "id": "an12",
-      "es": "Hembra (animal)",
+      "es": "La hembra",
       "translations": {
-        "en": "Female",
-        "pt": "Fêmea",
-        "fr": "Femelle",
-        "it": "Femmina"
+        "en": "The female",
+        "pt": "A fêmea",
+        "fr": "La femelle",
+        "it": "La femmina"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the females",
+        "pt": "Plural: as fêmeas",
+        "fr": "Plural: les femelles",
+        "it": "Plural: le femmine"
+      }
     },
     {
       "id": "an13",
-      "es": "Cría (animal joven)",
+      "es": "La cría",
       "translations": {
-        "en": "Young animal / Baby animal",
-        "pt": "Filhote",
-        "fr": "Petit d'un animal",
-        "it": "Piccolo di un animale / Cucciolo"
+        "en": "The baby animal",
+        "pt": "O filhote",
+        "fr": "Le petit",
+        "it": "Il cucciolo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the baby animals",
+        "pt": "Plural: os filhotes",
+        "fr": "Plural: les petits",
+        "it": "Plural: i cuccioli"
+      }
     },
     {
       "id": "an14",
-      "es": "Especie (de animal)",
+      "es": "La especie",
       "translations": {
-        "en": "Species",
-        "pt": "Espécie",
-        "fr": "Espèce",
-        "it": "Specie"
+        "en": "The species",
+        "pt": "A espécie",
+        "fr": "L’espèce",
+        "it": "La specie"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the species",
+        "pt": "Plural: as espécies",
+        "fr": "Plural: les espèces",
+        "it": "Plural: le specie"
+      }
     },
     {
       "id": "an15",
-      "es": "Raza (de una mascota)",
+      "es": "La raza",
       "translations": {
-        "en": "Breed",
-        "pt": "Raça",
-        "fr": "Race",
-        "it": "Razza"
+        "en": "The breed",
+        "pt": "A raça",
+        "fr": "La race",
+        "it": "La razza"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the breeds",
+        "pt": "Plural: as raças",
+        "fr": "Plural: les races",
+        "it": "Plural: le razze"
+      }
     },
     {
       "id": "an16",
-      "es": "Perro/a",
+      "es": "El perro",
       "translations": {
-        "en": "Dog / Female dog",
-        "pt": "Cachorro / Cachorra / Cão / Cadela",
-        "fr": "Chien / Chienne",
-        "it": "Cane / Cagna"
+        "en": "The dog",
+        "pt": "O cachorro",
+        "fr": "Le chien",
+        "it": "Il cane"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dogs",
+        "pt": "Plural: os cachorros. Femenino: a cachorra (pl. as cachorras).",
+        "fr": "Plural: les chiens. Femenino: la chienne (pl. les chiennes).",
+        "it": "Plural: i cani. Femenino: la cagna (pl. le cagne)."
+      }
     },
     {
       "id": "an17",
-      "es": "Cachorro (cría de perro)",
+      "es": "El cachorro",
       "translations": {
-        "en": "Puppy",
-        "pt": "Filhote de cachorro",
-        "fr": "Chiot",
-        "it": "Cucciolo di cane"
+        "en": "The puppy",
+        "pt": "O filhote de cachorro",
+        "fr": "Le chiot",
+        "it": "Il cucciolo di cane"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the puppies",
+        "pt": "Plural: os filhotes de cachorro",
+        "fr": "Plural: les chiots",
+        "it": "Plural: i cuccioli di cane"
+      }
     },
     {
       "id": "an18",
-      "es": "Gato/a",
+      "es": "El gato",
       "translations": {
-        "en": "Cat",
-        "pt": "Gato / Gata",
-        "fr": "Chat / Chatte",
-        "it": "Gatto / Gatta"
+        "en": "The cat",
+        "pt": "O gato",
+        "fr": "Le chat",
+        "it": "Il gatto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cats",
+        "pt": "Plural: os gatos. Femenino: a gata (pl. as gatas).",
+        "fr": "Plural: les chats. Femenino: la chatte (pl. les chattes).",
+        "it": "Plural: i gatti. Femenino: la gatta (pl. le gatte)."
+      }
     },
     {
       "id": "an19",
-      "es": "Gatito/a (cría de gato)",
+      "es": "El gatito",
       "translations": {
-        "en": "Kitten",
-        "pt": "Filhote de gato",
-        "fr": "Chaton",
-        "it": "Gattino / Gattina"
+        "en": "The kitten",
+        "pt": "O filhote de gato",
+        "fr": "Le chaton",
+        "it": "Il gattino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the kittens",
+        "pt": "Plural: os filhotes de gato",
+        "fr": "Plural: les chatons. Femenino: la chatonne (pl. les chatonnes).",
+        "it": "Plural: i gattini. Femenino: la gattina (pl. le gattine)."
+      }
     },
     {
       "id": "an20",
-      "es": "Conejo/a",
+      "es": "El conejo",
       "translations": {
-        "en": "Rabbit",
-        "pt": "Coelho / Coelha",
-        "fr": "Lapin / Lapine",
-        "it": "Coniglio / Coniglia"
+        "en": "The rabbit",
+        "pt": "O coelho",
+        "fr": "Le lapin",
+        "it": "Il coniglio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the rabbits",
+        "pt": "Plural: os coelhos. Femenino: a coelha (pl. as coelhas).",
+        "fr": "Plural: les lapins. Femenino: la lapine (pl. les lapines).",
+        "it": "Plural: i conigli. Femenino: la coniglia (pl. le coniglie)."
+      }
     },
     {
       "id": "an21",
-      "es": "Hámster",
+      "es": "El hámster",
       "translations": {
-        "en": "Hamster",
-        "pt": "Hamster",
-        "fr": "Hamster",
-        "it": "Criceto"
+        "en": "The hamster",
+        "pt": "O hamster",
+        "fr": "Le hamster",
+        "it": "Il criceto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hamsters",
+        "pt": "Plural: os hamsters",
+        "fr": "Plural: les hamsters",
+        "it": "Plural: i criceti. Femenino: la criceta (pl. le cricete)."
+      }
     },
     {
       "id": "an22",
-      "es": "Conejillo de Indias / Cobaya / Cuyo",
+      "es": "El cuyo",
       "translations": {
-        "en": "Guinea pig",
-        "pt": "Porquinho-da-índia / Cobaia",
-        "fr": "Cochon d'Inde / Cobaye",
-        "it": "Porcellino d'India / Cavia"
+        "en": "The guinea pig",
+        "pt": "O porquinho-da-índia",
+        "fr": "Le cochon d’Inde",
+        "it": "Il porcellino d’India"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the guinea pigs",
+        "pt": "Plural: os porquinhos-da-índia",
+        "fr": "Plural: les cochons d’Inde",
+        "it": "Plural: i porcellini d’India",
+        "es": "También: conejillo de Indias o cobaya."
+      }
     },
     {
       "id": "an23",
-      "es": "Hurón",
+      "es": "El hurón",
       "translations": {
-        "en": "Ferret",
-        "pt": "Furão",
-        "fr": "Furet",
-        "it": "Furetto"
+        "en": "The ferret",
+        "pt": "O furão",
+        "fr": "Le furet",
+        "it": "Il furetto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ferrets",
+        "pt": "Plural: os furões. Femenino: a furona (pl. as furonas).",
+        "fr": "Plural: les furets. Femenino: la furette (pl. les furettes).",
+        "it": "Plural: i furetti. Femenino: la furetta (pl. le furette)."
+      }
     },
     {
       "id": "an24",
-      "es": "Loro / Papagayo",
+      "es": "El loro",
       "translations": {
-        "en": "Parrot",
-        "pt": "Papagaio",
-        "fr": "Perroquet",
-        "it": "Pappagallo"
+        "en": "The parrot",
+        "pt": "O papagaio",
+        "fr": "Le perroquet",
+        "it": "Il pappagallo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the parrots",
+        "pt": "Plural: os papagaios",
+        "fr": "Plural: les perroquets",
+        "it": "Plural: i pappagalli. Femenino: la pappagalla (pl. le pappagalle)."
+      }
     },
     {
       "id": "an25",
-      "es": "Perico / Periquito (ave)",
+      "es": "El perico",
       "translations": {
-        "en": "Parakeet",
-        "pt": "Periquito",
-        "fr": "Perruche",
-        "it": "Pappagallino"
+        "en": "The parakeet",
+        "pt": "O periquito",
+        "fr": "La perruche",
+        "it": "Il pappagallino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the parakeets",
+        "pt": "Plural: os periquitos",
+        "fr": "Plural: les perruches",
+        "it": "Plural: i pappagallini"
+      }
     },
     {
       "id": "an26",
-      "es": "Canario",
+      "es": "El canario",
       "translations": {
-        "en": "Canary",
-        "pt": "Canário",
-        "fr": "Canari",
-        "it": "Canarino"
+        "en": "The canary",
+        "pt": "O canário",
+        "fr": "Le canari",
+        "it": "Il canarino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the canaries",
+        "pt": "Plural: os canários. Femenino: a canária (pl. as canárias).",
+        "fr": "Plural: les canaris",
+        "it": "Plural: i canarini. Femenino: la canarina (pl. le canarine)."
+      }
     },
     {
       "id": "an27",
-      "es": "Pez dorado (pez de acuario)",
+      "es": "El pez dorado",
       "translations": {
-        "en": "Goldfish",
-        "pt": "Peixe-dourado / Peixinho-dourado",
-        "fr": "Poisson rouge",
-        "it": "Pesce rosso"
+        "en": "The goldfish",
+        "pt": "O peixe-dourado",
+        "fr": "Le poisson rouge",
+        "it": "Il pesce rosso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the goldfish",
+        "pt": "Plural: os peixes-dourados",
+        "fr": "Plural: les poissons rouges",
+        "it": "Plural: i pesci rossi"
+      }
     },
     {
       "id": "an28",
-      "es": "Tortuga terrestre",
+      "es": "La tortuga terrestre",
       "translations": {
-        "en": "Tortoise",
-        "pt": "Tartaruga terrestre / Jabuti",
-        "fr": "Tortue terrestre",
-        "it": "Tartaruga terrestre / Testuggine"
+        "en": "The tortoise",
+        "pt": "O jabuti",
+        "fr": "La tortue terrestre",
+        "it": "La tartaruga terrestre"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the tortoises",
+        "pt": "Plural: os jabutis. «Jabuti» se refiere a la tortuga terrestre brasileña.",
+        "fr": "Plural: les tortues terrestres",
+        "it": "Plural: le tartarughe terrestri"
+      }
     },
     {
       "id": "an29",
-      "es": "Tortuga de agua dulce",
+      "es": "La tortuga de agua dulce",
       "translations": {
-        "en": "Freshwater turtle",
-        "pt": "Tartaruga de água doce",
-        "fr": "Tortue d'eau douce",
-        "it": "Tartaruga d'acqua dolce"
+        "en": "The freshwater turtle",
+        "pt": "A tartaruga de água doce",
+        "fr": "La tortue d'eau douce",
+        "it": "La tartaruga d'acqua dolce"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the freshwater turtles",
+        "pt": "Plural: as tartarugas de água doce",
+        "fr": "Plural: les tortues d’eau douce",
+        "it": "Plural: le tartarughe d’acqua dolce"
+      }
     },
     {
       "id": "an30",
-      "es": "Caballo / Yegua",
+      "es": "El caballo",
       "translations": {
-        "en": "Horse / Mare",
-        "pt": "Cavalo / Égua",
-        "fr": "Cheval / Jument",
-        "it": "Cavallo / Cavalla"
+        "en": "The horse",
+        "pt": "O cavalo",
+        "fr": "Le cheval",
+        "it": "Il cavallo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the horses. Femenino: the mare (pl. the mares).",
+        "pt": "Plural: os cavalos. Femenino: a égua (pl. as éguas).",
+        "fr": "Plural: les chevaux",
+        "it": "Plural: i cavalli. Femenino: la cavalla (pl. le cavalle)."
+      }
     },
     {
       "id": "an31",
-      "es": "Potro/a (cría de caballo)",
+      "es": "El potro",
       "translations": {
-        "en": "Foal",
-        "pt": "Potro / Potra",
-        "fr": "Poulain / Pouliche",
-        "it": "Puledro / Puledra"
+        "en": "The foal",
+        "pt": "O potro",
+        "fr": "Le poulain",
+        "it": "Il puledro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the foals",
+        "pt": "Plural: os potros. Femenino: a potra (pl. as potras).",
+        "fr": "Plural: les poulains. Femenino: la pouliche (pl. les pouliches).",
+        "it": "Plural: i puledri. Femenino: la puledra (pl. le puledre)."
+      }
     },
     {
       "id": "an32",
-      "es": "Poni (caballo de pequeño tamaño, no una cría)",
+      "es": "El poni",
       "translations": {
-        "en": "Pony",
-        "pt": "Pônei",
-        "fr": "Poney",
-        "it": "Pony"
+        "en": "The pony",
+        "pt": "O pônei",
+        "fr": "Le poney",
+        "it": "Il pony"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ponies",
+        "pt": "Plural: os pôneis",
+        "fr": "Plural: les poneys",
+        "it": "Plural: i pony"
+      }
     },
     {
       "id": "an33",
-      "es": "Burro/a / Asno/a",
+      "es": "El burro",
       "translations": {
-        "en": "Donkey",
-        "pt": "Burro / Burra / Asno / Asna",
-        "fr": "Âne / Ânesse",
-        "it": "Asino / Asina"
+        "en": "The donkey",
+        "pt": "O burro",
+        "fr": "L’âne",
+        "it": "L’asino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the donkeys",
+        "pt": "Plural: os burros. Femenino: a burra (pl. as burras).",
+        "fr": "Plural: les ânes. Femenino: l’ânesse (pl. les ânesses).",
+        "it": "Plural: gli asini. Femenino: l’asina (pl. le asine).",
+        "es": "También: asno."
+      }
     },
     {
       "id": "an34",
-      "es": "Mula / Mulo",
+      "es": "El mulo",
       "translations": {
-        "en": "Mule",
-        "pt": "Mula / Mulo",
-        "fr": "Mule / Mulet",
-        "it": "Mula / Mulo"
+        "en": "The mule",
+        "pt": "O mulo",
+        "fr": "Le mulet",
+        "it": "Il mulo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mules",
+        "pt": "Plural: os mulos. Femenino: a mula (pl. as mulas).",
+        "fr": "Plural: les mulets. «Mule» designa la hembra;. «mulet», el macho. Femenino: la mule (pl. les mules).",
+        "it": "Plural: i muli. Femenino: la mula (pl. le mule)."
+      }
     },
     {
       "id": "an35",
-      "es": "Vaca",
+      "es": "La vaca",
       "translations": {
-        "en": "Cow",
-        "pt": "Vaca",
-        "fr": "Vache",
-        "it": "Mucca / Vacca"
+        "en": "The cow",
+        "pt": "A vaca",
+        "fr": "La vache",
+        "it": "La mucca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cows",
+        "pt": "Plural: as vacas",
+        "fr": "Plural: les vaches",
+        "it": "Plural: le mucche"
+      }
     },
     {
       "id": "an36",
-      "es": "Toro",
+      "es": "El toro",
       "translations": {
-        "en": "Bull",
-        "pt": "Touro",
-        "fr": "Taureau",
-        "it": "Toro"
+        "en": "The bull",
+        "pt": "O touro",
+        "fr": "Le taureau",
+        "it": "Il toro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bulls",
+        "pt": "Plural: os touros",
+        "fr": "Plural: les taureaux",
+        "it": "Plural: i tori"
+      }
     },
     {
       "id": "an37",
-      "es": "Buey",
+      "es": "El buey",
       "translations": {
-        "en": "Ox",
-        "pt": "Boi",
-        "fr": "Bœuf",
-        "it": "Bue"
+        "en": "The ox",
+        "pt": "O boi",
+        "fr": "Le bœuf",
+        "it": "Il bue"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the oxen",
+        "pt": "Plural: os bois",
+        "fr": "Plural: les bœufs",
+        "it": "Plural: i buoi"
+      }
     },
     {
       "id": "an38",
-      "es": "Ternero/a / Becerro/a",
+      "es": "El ternero",
       "translations": {
-        "en": "Calf",
-        "pt": "Bezerro / Bezerra",
-        "fr": "Veau",
-        "it": "Vitello / Vitella"
+        "en": "The calf",
+        "pt": "O bezerro",
+        "fr": "Le veau",
+        "it": "Il vitello"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the calfs",
+        "pt": "Plural: os bezerros. Femenino: a bezerra (pl. as bezerras).",
+        "fr": "Plural: les veaux. Femenino: la velle (pl. les velles).",
+        "it": "Plural: i vitelli. Femenino: la vitella (pl. le vitelle)."
+      }
     },
     {
       "id": "an39",
-      "es": "Cerdo / Puerco / Cochino (animal)",
+      "es": "El cerdo",
       "translations": {
-        "en": "Pig",
-        "pt": "Porco",
-        "fr": "Cochon / Porc",
-        "it": "Maiale / Porco"
+        "en": "The pig",
+        "pt": "O porco",
+        "fr": "Le cochon",
+        "it": "Il maiale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pigs",
+        "pt": "Plural: os porcos",
+        "fr": "Plural: les cochons",
+        "it": "Plural: i maiali"
+      }
     },
     {
       "id": "an40",
-      "es": "Lechón (cría de cerdo)",
+      "es": "El lechón",
       "translations": {
-        "en": "Piglet",
-        "pt": "Leitão",
-        "fr": "Porcelet",
-        "it": "Maialino"
+        "en": "The piglet",
+        "pt": "O leitão",
+        "fr": "Le porcelet",
+        "it": "Il maialino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the piglets",
+        "pt": "Plural: os leitões",
+        "fr": "Plural: les porcelets",
+        "it": "Plural: i maialini"
+      }
     },
     {
       "id": "an41",
-      "es": "Oveja",
+      "es": "La oveja",
       "translations": {
-        "en": "Sheep / Ewe",
-        "pt": "Ovelha",
-        "fr": "Mouton / Brebis",
-        "it": "Pecora"
+        "en": "The ewe",
+        "pt": "A ovelha",
+        "fr": "La brebis",
+        "it": "La pecora"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ewes. «Ewe» designa a la hembra; «sheep» a la especie en general.",
+        "pt": "Plural: as ovelhas",
+        "fr": "Plural: les brebis. «Brebis» es la hembra;. «mouton» es un término general.",
+        "it": "Plural: le pecore"
+      }
     },
     {
       "id": "an42",
-      "es": "Carnero (macho de la oveja)",
+      "es": "El carnero",
       "translations": {
-        "en": "Ram",
-        "pt": "Carneiro",
-        "fr": "Bélier",
-        "it": "Montone / Ariete"
+        "en": "The ram",
+        "pt": "O carneiro",
+        "fr": "Le bélier",
+        "it": "Il montone"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the rams",
+        "pt": "Plural: os carneiros",
+        "fr": "Plural: les béliers",
+        "it": "Plural: i montoni"
+      }
     },
     {
       "id": "an43",
-      "es": "Cordero/a (cría de oveja)",
+      "es": "El cordero",
       "translations": {
-        "en": "Lamb",
-        "pt": "Cordeiro / Cordeira",
-        "fr": "Agneau / Agnelle",
-        "it": "Agnello / Agnella"
+        "en": "The lamb",
+        "pt": "O cordeiro",
+        "fr": "L’agneau",
+        "it": "L’agnello"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lambs",
+        "pt": "Plural: os cordeiros. Femenino: a cordeira (pl. as cordeiras).",
+        "fr": "Plural: les agneaux. Femenino: l’agnelle (pl. les agnelles).",
+        "it": "Plural: gli agnelli. Femenino: l’agnella (pl. le agnelle)."
+      }
     },
     {
       "id": "an44",
-      "es": "Cabra",
+      "es": "La cabra",
       "translations": {
-        "en": "Goat",
-        "pt": "Cabra",
-        "fr": "Chèvre",
-        "it": "Capra"
+        "en": "The goat",
+        "pt": "A cabra",
+        "fr": "La chèvre",
+        "it": "La capra"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the goats",
+        "pt": "Plural: as cabras",
+        "fr": "Plural: les chèvres",
+        "it": "Plural: le capre"
+      }
     },
     {
       "id": "an45",
-      "es": "Chivo (macho de la cabra)",
+      "es": "El chivo",
       "translations": {
-        "en": "Billy goat / Male goat",
-        "pt": "Bode",
-        "fr": "Bouc",
-        "it": "Caprone / Becco"
+        "en": "The billy goat",
+        "pt": "O bode",
+        "fr": "Le bouc",
+        "it": "Il caprone"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the billies goat",
+        "pt": "Plural: os bodes",
+        "fr": "Plural: les boucs",
+        "it": "Plural: i caproni"
+      }
     },
     {
       "id": "an46",
-      "es": "Cabrito/a (cría de cabra)",
+      "es": "El cabrito",
       "translations": {
-        "en": "Kid / Baby goat",
-        "pt": "Cabrito / Cabrita",
-        "fr": "Chevreau / Chevrette",
-        "it": "Capretto / Capretta"
+        "en": "The kid",
+        "pt": "O cabrito",
+        "fr": "Le chevreau",
+        "it": "Il capretto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the kids",
+        "pt": "Plural: os cabritos. Femenino: a cabrita (pl. as cabritas).",
+        "fr": "Plural: les chevreaux. Femenino: la chevrette (pl. les chevrettes).",
+        "it": "Plural: i capretti. Femenino: la capretta (pl. le caprette)."
+      }
     },
     {
       "id": "an47",
-      "es": "Gallina",
+      "es": "La gallina",
       "translations": {
-        "en": "Hen",
-        "pt": "Galinha",
-        "fr": "Poule",
-        "it": "Gallina"
+        "en": "The hen",
+        "pt": "A galinha",
+        "fr": "La poule",
+        "it": "La gallina"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hens",
+        "pt": "Plural: as galinhas",
+        "fr": "Plural: les poules",
+        "it": "Plural: le galline"
+      }
     },
     {
       "id": "an48",
-      "es": "Gallo",
+      "es": "El gallo",
       "translations": {
-        "en": "Rooster",
-        "pt": "Galo",
-        "fr": "Coq",
-        "it": "Gallo"
+        "en": "The rooster",
+        "pt": "O galo",
+        "fr": "Le coq",
+        "it": "Il gallo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the roosters",
+        "pt": "Plural: os galos",
+        "fr": "Plural: les coqs",
+        "it": "Plural: i galli"
+      }
     },
     {
       "id": "an49",
-      "es": "Pollito (cría de gallina)",
+      "es": "El pollito",
       "translations": {
-        "en": "Chick",
-        "pt": "Pintinho / Pinto",
-        "fr": "Poussin",
-        "it": "Pulcino"
+        "en": "The chick",
+        "pt": "O pintinho",
+        "fr": "Le poussin",
+        "it": "Il pulcino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the chicks",
+        "pt": "Plural: os pintinhos",
+        "fr": "Plural: les poussins",
+        "it": "Plural: i pulcini"
+      }
     },
     {
       "id": "an50",
-      "es": "Pato/a",
+      "es": "El pato",
       "translations": {
-        "en": "Duck",
-        "pt": "Pato / Pata",
-        "fr": "Canard / Cane",
-        "it": "Anatra"
+        "en": "The duck",
+        "pt": "O pato",
+        "fr": "Le canard",
+        "it": "L’anatra"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ducks",
+        "pt": "Plural: os patos",
+        "fr": "Plural: les canards",
+        "it": "Plural: le anatre"
+      }
     },
     {
       "id": "an51",
-      "es": "Ganso / Oca",
+      "es": "El ganso",
       "translations": {
-        "en": "Goose",
-        "pt": "Ganso / Gansa",
-        "fr": "Oie",
-        "it": "Oca"
+        "en": "The goose",
+        "pt": "O ganso",
+        "fr": "L’oie",
+        "it": "L’oca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the geese",
+        "pt": "Plural: os gansos",
+        "fr": "Plural: les oies",
+        "it": "Plural: le oche"
+      }
     },
     {
       "id": "an52",
-      "es": "Pavo/a / Guajolote/a (animal)",
+      "es": "El pavo",
       "translations": {
-        "en": "Turkey",
-        "pt": "Peru / Perua",
-        "fr": "Dindon / Dinde",
-        "it": "Tacchino / Tacchina"
+        "en": "The turkey",
+        "pt": "O peru",
+        "fr": "Le dindon",
+        "it": "Il tacchino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the turkeys",
+        "pt": "Plural: os perus. Femenino: a perua (pl. as peruas).",
+        "fr": "Plural: les dindons. Femenino: la dinde (pl. les dindes).",
+        "it": "Plural: i tacchini. Femenino: la tacchina (pl. le tacchine)."
+      }
     },
     {
       "id": "an53",
-      "es": "León / Leona",
+      "es": "El león",
       "translations": {
-        "en": "Lion / Lioness",
-        "pt": "Leão / Leoa",
-        "fr": "Lion / Lionne",
-        "it": "Leone / Leonessa"
+        "en": "The lion",
+        "pt": "O leão",
+        "fr": "Le lion",
+        "it": "Il leone"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lions. Femenino: the lioness (pl. the lionesses).",
+        "pt": "Plural: os leões. Femenino: a leoa (pl. as leoas).",
+        "fr": "Plural: les lions. Femenino: la lionne (pl. les lionnes).",
+        "it": "Plural: i leoni. Femenino: la leonessa (pl. le leonesse)."
+      }
     },
     {
       "id": "an54",
-      "es": "Tigre / Tigresa",
+      "es": "El tigre",
       "translations": {
-        "en": "Tiger / Tigress",
-        "pt": "Tigre / Tigresa",
-        "fr": "Tigre / Tigresse",
-        "it": "Tigre"
+        "en": "The tiger",
+        "pt": "O tigre",
+        "fr": "Le tigre",
+        "it": "La tigre"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the tigers. Femenino: the tigress (pl. the tigresses).",
+        "pt": "Plural: os tigres. Femenino: a tigresa (pl. as tigresas).",
+        "fr": "Plural: les tigres. Femenino: la tigresse (pl. les tigresses).",
+        "it": "Plural: le tigri"
+      }
     },
     {
       "id": "an55",
-      "es": "Elefante",
+      "es": "El elefante",
       "translations": {
-        "en": "Elephant",
-        "pt": "Elefante",
-        "fr": "Éléphant",
-        "it": "Elefante"
+        "en": "The elephant",
+        "pt": "O elefante",
+        "fr": "L’éléphant",
+        "it": "L’elefante"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the elephants",
+        "pt": "Plural: os elefantes",
+        "fr": "Plural: les éléphants",
+        "it": "Plural: gli elefanti"
+      }
     },
     {
       "id": "an56",
-      "es": "Jirafa",
+      "es": "La jirafa",
       "translations": {
-        "en": "Giraffe",
-        "pt": "Girafa",
-        "fr": "Girafe",
-        "it": "Giraffa"
+        "en": "The giraffe",
+        "pt": "A girafa",
+        "fr": "La girafe",
+        "it": "La giraffa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the giraffes",
+        "pt": "Plural: as girafas",
+        "fr": "Plural: les girafes",
+        "it": "Plural: le giraffe"
+      }
     },
     {
       "id": "an57",
-      "es": "Cebra",
+      "es": "La cebra",
       "translations": {
-        "en": "Zebra",
-        "pt": "Zebra",
-        "fr": "Zèbre",
-        "it": "Zebra"
+        "en": "The zebra",
+        "pt": "A zebra",
+        "fr": "Le zèbre",
+        "it": "La zebra"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the zebras",
+        "pt": "Plural: as zebras",
+        "fr": "Plural: les zèbres",
+        "it": "Plural: le zebre"
+      }
     },
     {
       "id": "an58",
-      "es": "Rinoceronte",
+      "es": "El rinoceronte",
       "translations": {
-        "en": "Rhinoceros / Rhino",
-        "pt": "Rinoceronte",
-        "fr": "Rhinocéros",
-        "it": "Rinoceronte"
+        "en": "The rhinoceros",
+        "pt": "O rinoceronte",
+        "fr": "Le rhinocéros",
+        "it": "Il rinoceronte"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the rhinoceroses",
+        "pt": "Plural: os rinocerontes",
+        "fr": "Plural: les rhinocéros",
+        "it": "Plural: i rinoceronti"
+      }
     },
     {
       "id": "an59",
-      "es": "Hipopótamo",
+      "es": "El hipopótamo",
       "translations": {
-        "en": "Hippopotamus / Hippo",
-        "pt": "Hipopótamo",
-        "fr": "Hippopotame",
-        "it": "Ippopotamo"
+        "en": "The hippopotamus",
+        "pt": "O hipopótamo",
+        "fr": "L’hippopotame",
+        "it": "L’ippopotamo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hippopotamuses",
+        "pt": "Plural: os hipopótamos",
+        "fr": "Plural: les hippopotames",
+        "it": "Plural: gli ippopotami"
+      }
     },
     {
       "id": "an60",
-      "es": "Búfalo",
+      "es": "El búfalo",
       "translations": {
-        "en": "Buffalo",
-        "pt": "Búfalo",
-        "fr": "Buffle",
-        "it": "Bufalo"
+        "en": "The buffalo",
+        "pt": "O búfalo",
+        "fr": "Le buffle",
+        "it": "Il bufalo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the buffalos",
+        "pt": "Plural: os búfalos. Femenino: a búfala (pl. as búfalas).",
+        "fr": "Plural: les buffles",
+        "it": "Plural: i bufali. Femenino: la bufala (pl. le bufale)."
+      }
     },
     {
       "id": "an61",
-      "es": "Camello",
+      "es": "El camello",
       "translations": {
-        "en": "Camel",
-        "pt": "Camelo",
-        "fr": "Chameau",
-        "it": "Cammello"
+        "en": "The camel",
+        "pt": "O camelo",
+        "fr": "Le chameau",
+        "it": "Il cammello"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the camels",
+        "pt": "Plural: os camelos",
+        "fr": "Plural: les chameaux",
+        "it": "Plural: i cammelli"
+      }
     },
     {
       "id": "an62",
-      "es": "Dromedario (camello de una joroba)",
+      "es": "El dromedario",
       "translations": {
-        "en": "Dromedary / One-humped camel",
-        "pt": "Dromedário",
-        "fr": "Dromadaire",
-        "it": "Dromedario"
+        "en": "The dromedary",
+        "pt": "O dromedário",
+        "fr": "Le dromadaire",
+        "it": "Il dromedario"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dromedaries",
+        "pt": "Plural: os dromedários",
+        "fr": "Plural: les dromadaires",
+        "it": "Plural: i dromedari"
+      }
     },
     {
       "id": "an63",
-      "es": "Llama (animal)",
+      "es": "La llama",
       "translations": {
-        "en": "Llama",
-        "pt": "Lhama",
-        "fr": "Lama",
-        "it": "Lama"
+        "en": "The llama",
+        "pt": "A lhama",
+        "fr": "Le lama",
+        "it": "Il lama"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the llamas",
+        "pt": "Plural: as lhamas",
+        "fr": "Plural: les lamas",
+        "it": "Plural: i lama",
+        "es": "Se refiere al camélido sudamericano, no al fuego."
+      }
     },
     {
       "id": "an64",
-      "es": "Alpaca",
+      "es": "La alpaca",
       "translations": {
-        "en": "Alpaca",
-        "pt": "Alpaca",
-        "fr": "Alpaga",
-        "it": "Alpaca"
+        "en": "The alpaca",
+        "pt": "A alpaca",
+        "fr": "L’alpaga",
+        "it": "L’alpaca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the alpacas",
+        "pt": "Plural: as alpacas",
+        "fr": "Plural: les alpagas",
+        "it": "Plural: le alpache"
+      }
     },
     {
       "id": "an65",
-      "es": "Mono",
+      "es": "El mono",
       "translations": {
-        "en": "Monkey",
-        "pt": "Macaco",
-        "fr": "Singe",
-        "it": "Scimmia"
+        "en": "The monkey",
+        "pt": "O macaco",
+        "fr": "Le singe",
+        "it": "La scimmia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the monkeys",
+        "pt": "Plural: os macacos",
+        "fr": "Plural: les singes",
+        "it": "Plural: le scimmie"
+      }
     },
     {
       "id": "an66",
-      "es": "Chimpancé",
+      "es": "El chimpancé",
       "translations": {
-        "en": "Chimpanzee / Chimp",
-        "pt": "Chimpanzé",
-        "fr": "Chimpanzé",
-        "it": "Scimpanzé"
+        "en": "The chimpanzee",
+        "pt": "O chimpanzé",
+        "fr": "Le chimpanzé",
+        "it": "Lo scimpanzé"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the chimpanzees",
+        "pt": "Plural: os chimpanzés",
+        "fr": "Plural: les chimpanzés",
+        "it": "Plural: gli scimpanzé"
+      }
     },
     {
       "id": "an67",
-      "es": "Gorila",
+      "es": "El gorila",
       "translations": {
-        "en": "Gorilla",
-        "pt": "Gorila",
-        "fr": "Gorille",
-        "it": "Gorilla"
+        "en": "The gorilla",
+        "pt": "O gorila",
+        "fr": "Le gorille",
+        "it": "Il gorilla"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the gorillas",
+        "pt": "Plural: os gorilas",
+        "fr": "Plural: les gorilles",
+        "it": "Plural: i gorilla"
+      }
     },
     {
       "id": "an68",
-      "es": "Oso",
+      "es": "El oso",
       "translations": {
-        "en": "Bear",
-        "pt": "Urso",
-        "fr": "Ours",
-        "it": "Orso"
+        "en": "The bear",
+        "pt": "O urso",
+        "fr": "L’ours",
+        "it": "L’orso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bears",
+        "pt": "Plural: os ursos. Femenino: a ursa (pl. as ursas).",
+        "fr": "Plural: les ours",
+        "it": "Plural: gli orsi. Femenino: l’orsa (pl. le orse)."
+      }
     },
     {
       "id": "an69",
-      "es": "Oso polar",
+      "es": "El oso polar",
       "translations": {
-        "en": "Polar bear",
-        "pt": "Urso-polar",
-        "fr": "Ours polaire",
-        "it": "Orso polare"
+        "en": "The polar bear",
+        "pt": "O urso-polar",
+        "fr": "L’ours polaire",
+        "it": "L’orso polare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the polar bears",
+        "pt": "Plural: os ursos-polares",
+        "fr": "Plural: les ours polaires",
+        "it": "Plural: gli orsi polari"
+      }
     },
     {
       "id": "an70",
-      "es": "Oso panda",
+      "es": "El oso panda",
       "translations": {
-        "en": "Panda / Giant panda",
-        "pt": "Panda / Panda-gigante",
-        "fr": "Panda / Panda géant",
-        "it": "Panda / Panda gigante"
+        "en": "The giant panda",
+        "pt": "O panda-gigante",
+        "fr": "Le panda géant",
+        "it": "Il panda gigante"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the giant pandas",
+        "pt": "Plural: os pandas-gigantes",
+        "fr": "Plural: les pandas géants",
+        "it": "Plural: i panda giganti"
+      }
     },
     {
       "id": "an71",
-      "es": "Lobo/a",
+      "es": "El lobo",
       "translations": {
-        "en": "Wolf",
-        "pt": "Lobo / Loba",
-        "fr": "Loup / Louve",
-        "it": "Lupo / Lupa"
+        "en": "The wolf",
+        "pt": "O lobo",
+        "fr": "Le loup",
+        "it": "Il lupo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the wolfs",
+        "pt": "Plural: os lobos. Femenino: a loba (pl. as lobas).",
+        "fr": "Plural: les loups. Femenino: la louve (pl. les louves).",
+        "it": "Plural: i lupi. Femenino: la lupa (pl. le lupe)."
+      }
     },
     {
       "id": "an72",
-      "es": "Zorro/a",
+      "es": "El zorro",
       "translations": {
-        "en": "Fox",
-        "pt": "Raposa",
-        "fr": "Renard / Renarde",
-        "it": "Volpe"
+        "en": "The fox",
+        "pt": "A raposa",
+        "fr": "Le renard",
+        "it": "La volpe"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the foxes",
+        "pt": "Plural: as raposas",
+        "fr": "Plural: les renards",
+        "it": "Plural: le volpi"
+      }
     },
     {
       "id": "an73",
-      "es": "Ciervo / Venado",
+      "es": "El ciervo",
       "translations": {
-        "en": "Deer",
-        "pt": "Veado / Cervo",
-        "fr": "Cerf",
-        "it": "Cervo"
+        "en": "The deer",
+        "pt": "O veado",
+        "fr": "Le cerf",
+        "it": "Il cervo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the deer",
+        "pt": "Plural: os veados",
+        "fr": "Plural: les cerfs. Femenino: la biche (pl. les biches).",
+        "it": "Plural: i cervi. Femenino: la cerva (pl. le cerve)."
+      }
     },
     {
       "id": "an74",
-      "es": "Alce",
+      "es": "El alce",
       "translations": {
-        "en": "Moose",
-        "pt": "Alce",
-        "fr": "Élan",
-        "it": "Alce"
+        "en": "The moose",
+        "pt": "O alce",
+        "fr": "L’élan",
+        "it": "L’alce"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the moose",
+        "pt": "Plural: os alces",
+        "fr": "Plural: les élans",
+        "it": "Plural: gli alci"
+      }
     },
     {
       "id": "an75",
-      "es": "Ardilla",
+      "es": "La ardilla",
       "translations": {
-        "en": "Squirrel",
-        "pt": "Esquilo",
-        "fr": "Écureuil",
-        "it": "Scoiattolo"
+        "en": "The squirrel",
+        "pt": "O esquilo",
+        "fr": "L’écureuil",
+        "it": "Lo scoiattolo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the squirrels",
+        "pt": "Plural: os esquilos",
+        "fr": "Plural: les écureuils",
+        "it": "Plural: gli scoiattoli. Femenino: la scoiattola (pl. le scoiattole)."
+      }
     },
     {
       "id": "an76",
-      "es": "Erizo",
+      "es": "El erizo",
       "translations": {
-        "en": "Hedgehog",
-        "pt": "Ouriço",
-        "fr": "Hérisson",
-        "it": "Riccio"
+        "en": "The hedgehog",
+        "pt": "O ouriço",
+        "fr": "Le hérisson",
+        "it": "Il riccio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hedgehogs",
+        "pt": "Plural: os ouriços",
+        "fr": "Plural: les hérissons",
+        "it": "Plural: i ricci"
+      }
     },
     {
       "id": "an77",
-      "es": "Ratón",
+      "es": "El ratón",
       "translations": {
-        "en": "Mouse",
-        "pt": "Camundongo",
-        "fr": "Souris",
-        "it": "Topo"
+        "en": "The mouse",
+        "pt": "O camundongo",
+        "fr": "La souris",
+        "it": "Il topo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mice",
+        "pt": "Plural: os camundongos",
+        "fr": "Plural: les souris",
+        "it": "Plural: i topi. «Topolina» es un diminutivo femenino, no el equivalente gramatical directo de. «topo»."
+      }
     },
     {
       "id": "an78",
-      "es": "Rata",
+      "es": "La rata",
       "translations": {
-        "en": "Rat",
-        "pt": "Rato / Ratazana",
-        "fr": "Rat",
-        "it": "Ratto"
+        "en": "The rat",
+        "pt": "A ratazana",
+        "fr": "Le rat",
+        "it": "Il ratto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the rats",
+        "pt": "Plural: as ratazanas",
+        "fr": "Plural: les rats",
+        "it": "Plural: i ratti"
+      }
     },
     {
       "id": "an79",
-      "es": "Murciélago",
+      "es": "El murciélago",
       "translations": {
-        "en": "Bat",
-        "pt": "Morcego",
-        "fr": "Chauve-souris",
-        "it": "Pipistrello"
+        "en": "The bat",
+        "pt": "O morcego",
+        "fr": "La chauve-souris",
+        "it": "Il pipistrello"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bats",
+        "pt": "Plural: os morcegos",
+        "fr": "Plural: les chauves-souris",
+        "it": "Plural: i pipistrelli"
+      }
     },
     {
       "id": "an80",
-      "es": "Mapache",
+      "es": "El mapache",
       "translations": {
-        "en": "Raccoon",
-        "pt": "Guaxinim",
-        "fr": "Raton laveur",
-        "it": "Procione"
+        "en": "The raccoon",
+        "pt": "O guaxinim",
+        "fr": "Le raton laveur",
+        "it": "Il procione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the raccoons",
+        "pt": "Plural: os guaxinins",
+        "fr": "Plural: les ratons laveurs",
+        "it": "Plural: i procioni"
+      }
     },
     {
       "id": "an81",
-      "es": "Zorrillo / Mofeta",
+      "es": "El zorrillo",
       "translations": {
-        "en": "Skunk",
-        "pt": "Cangambá / Jaritataca",
-        "fr": "Mouffette",
-        "it": "Moffetta"
+        "en": "The skunk",
+        "pt": "O cangambá",
+        "fr": "La mouffette",
+        "it": "La moffetta"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the skunks",
+        "pt": "Plural: as cangambás",
+        "fr": "Plural: les mouffettes",
+        "it": "Plural: le moffette"
+      }
     },
     {
       "id": "an82",
-      "es": "Tlacuache / Zarigüeya",
+      "es": "El tlacuache",
       "translations": {
-        "en": "Opossum",
-        "pt": "Gambá",
-        "fr": "Opossum",
-        "it": "Opossum"
+        "en": "The opossum",
+        "pt": "O gambá",
+        "fr": "L’opossum",
+        "it": "L’opossum"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the opossums",
+        "pt": "Plural: as gambás",
+        "fr": "Plural: les opossums",
+        "it": "Plural: gli opossum"
+      }
     },
     {
       "id": "an83",
-      "es": "Jaguar / Yaguar",
+      "es": "El jaguar",
       "translations": {
-        "en": "Jaguar",
-        "pt": "Onça-pintada / Jaguar",
-        "fr": "Jaguar",
-        "it": "Giaguaro"
+        "en": "The jaguar",
+        "pt": "A onça-pintada",
+        "fr": "Le jaguar",
+        "it": "Il giaguaro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the jaguars",
+        "pt": "Plural: as onças-pintadas",
+        "fr": "Plural: les jaguars",
+        "it": "Plural: i giaguari"
+      }
     },
     {
       "id": "an84",
-      "es": "Puma",
+      "es": "El puma",
       "translations": {
-        "en": "Cougar / Mountain lion / Puma",
-        "pt": "Onça-parda / Puma / Suçuarana",
-        "fr": "Puma / Couguar",
-        "it": "Puma"
+        "en": "The cougar",
+        "pt": "A onça-parda",
+        "fr": "Le puma",
+        "it": "Il puma"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cougars",
+        "pt": "Plural: as onça-pardas",
+        "fr": "Plural: les pumas",
+        "it": "Plural: i puma"
+      }
     },
     {
       "id": "an85",
-      "es": "Canguro",
+      "es": "El canguro",
       "translations": {
-        "en": "Kangaroo",
-        "pt": "Canguru",
-        "fr": "Kangourou",
-        "it": "Canguro"
+        "en": "The kangaroo",
+        "pt": "O canguru",
+        "fr": "Le kangourou",
+        "it": "Il canguro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the kangaroos",
+        "pt": "Plural: os cangurus",
+        "fr": "Plural: les kangourous",
+        "it": "Plural: i canguri. Femenino: la cangura (pl. le cangure)."
+      }
     },
     {
       "id": "an86",
-      "es": "Koala",
+      "es": "El koala",
       "translations": {
-        "en": "Koala",
-        "pt": "Coala",
-        "fr": "Koala",
-        "it": "Koala"
+        "en": "The koala",
+        "pt": "O coala",
+        "fr": "Le koala",
+        "it": "Il koala"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the koalas",
+        "pt": "Plural: os coalas",
+        "fr": "Plural: les koalas",
+        "it": "Plural: i koala"
+      }
     },
     {
       "id": "an87",
-      "es": "Perezoso (animal)",
+      "es": "El perezoso",
       "translations": {
-        "en": "Sloth",
-        "pt": "Bicho-preguiça",
-        "fr": "Paresseux",
-        "it": "Bradipo"
+        "en": "The sloth",
+        "pt": "O bicho-preguiça",
+        "fr": "Le paresseux",
+        "it": "Il bradipo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sloths",
+        "pt": "Plural: os bichos-preguiça",
+        "fr": "Plural: les paresseux",
+        "it": "Plural: i bradipi"
+      }
     },
     {
       "id": "an88",
-      "es": "Capibara / Carpincho",
+      "es": "El capibara",
       "translations": {
-        "en": "Capybara",
-        "pt": "Capivara",
-        "fr": "Capybara",
-        "it": "Capibara"
+        "en": "The capybara",
+        "pt": "O capivara",
+        "fr": "Le capybara",
+        "it": "Il capibara"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the capybaras",
+        "pt": "Plural: os capivaras",
+        "fr": "Plural: les capybaras",
+        "it": "Plural: i capibara",
+        "es": "También: carpincho."
+      }
     },
     {
       "id": "an89",
-      "es": "Nutria",
+      "es": "La nutria",
       "translations": {
-        "en": "Otter",
-        "pt": "Lontra",
-        "fr": "Loutre",
-        "it": "Lontra"
+        "en": "The otter",
+        "pt": "A lontra",
+        "fr": "La loutre",
+        "it": "La lontra"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the otters",
+        "pt": "Plural: as lontras",
+        "fr": "Plural: les loutres",
+        "it": "Plural: le lontre"
+      }
     },
     {
       "id": "an90",
-      "es": "Castor",
+      "es": "El castor",
       "translations": {
-        "en": "Beaver",
-        "pt": "Castor",
-        "fr": "Castor",
-        "it": "Castoro"
+        "en": "The beaver",
+        "pt": "O castor",
+        "fr": "Le castor",
+        "it": "Il castoro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the beavers",
+        "pt": "Plural: os castores",
+        "fr": "Plural: les castors",
+        "it": "Plural: i castori"
+      }
     },
     {
       "id": "an91",
-      "es": "Cocodrilo",
+      "es": "El cocodrilo",
       "translations": {
-        "en": "Crocodile",
-        "pt": "Crocodilo",
-        "fr": "Crocodile",
-        "it": "Coccodrillo"
+        "en": "The crocodile",
+        "pt": "O crocodilo",
+        "fr": "Le crocodile",
+        "it": "Il coccodrillo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the crocodiles",
+        "pt": "Plural: os crocodilos",
+        "fr": "Plural: les crocodiles",
+        "it": "Plural: i coccodrilli"
+      }
     },
     {
       "id": "an92",
-      "es": "Caimán",
+      "es": "El caimán",
       "translations": {
-        "en": "Caiman",
-        "pt": "Jacaré / Caimão",
-        "fr": "Caïman",
-        "it": "Caimano"
+        "en": "The caiman",
+        "pt": "O jacaré",
+        "fr": "Le caïman",
+        "it": "Il caimano"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the caimans",
+        "pt": "Plural: os jacarés",
+        "fr": "Plural: les caïmans",
+        "it": "Plural: i caimani"
+      }
     },
     {
       "id": "an93",
-      "es": "Serpiente / Culebra",
+      "es": "La serpiente",
       "translations": {
-        "en": "Snake",
-        "pt": "Cobra / Serpente",
-        "fr": "Serpent",
-        "it": "Serpente"
+        "en": "The snake",
+        "pt": "O cobra",
+        "fr": "Le serpent",
+        "it": "Il serpente"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the snakes",
+        "pt": "Plural: os cobras",
+        "fr": "Plural: les serpents",
+        "it": "Plural: i serpenti",
+        "es": "«Culebra» también se usa para muchas serpientes no venenosas."
+      }
     },
     {
       "id": "an94",
-      "es": "Lagartija",
+      "es": "La lagartija",
       "translations": {
-        "en": "Small lizard",
-        "pt": "Lagartixa",
-        "fr": "Petit lézard",
-        "it": "Lucertola"
+        "en": "The lizard",
+        "pt": "A lagartixa",
+        "fr": "Le lézard",
+        "it": "La lucertola"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lizards",
+        "pt": "Plural: as lagartixas",
+        "fr": "Plural: les lézards",
+        "it": "Plural: le lucertole"
+      }
     },
     {
       "id": "an95",
-      "es": "Iguana",
+      "es": "La iguana",
       "translations": {
-        "en": "Iguana",
-        "pt": "Iguana",
-        "fr": "Iguane",
-        "it": "Iguana"
+        "en": "The iguana",
+        "pt": "A iguana",
+        "fr": "L’iguane",
+        "it": "L’iguana"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the iguanas",
+        "pt": "Plural: as iguanas",
+        "fr": "Plural: les iguanes",
+        "it": "Plural: le iguane"
+      }
     },
     {
       "id": "an96",
-      "es": "Rana",
+      "es": "La rana",
       "translations": {
-        "en": "Frog",
-        "pt": "Rã",
-        "fr": "Grenouille",
-        "it": "Rana"
+        "en": "The frog",
+        "pt": "A rã",
+        "fr": "La grenouille",
+        "it": "La rana"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the frogs",
+        "pt": "Plural: as rãs",
+        "fr": "Plural: les grenouilles",
+        "it": "Plural: le rane"
+      }
     },
     {
       "id": "an97",
-      "es": "Sapo",
+      "es": "El sapo",
       "translations": {
-        "en": "Toad",
-        "pt": "Sapo",
-        "fr": "Crapaud",
-        "it": "Rospo"
+        "en": "The toad",
+        "pt": "O sapo",
+        "fr": "Le crapaud",
+        "it": "Il rospo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the toads",
+        "pt": "Plural: os sapos",
+        "fr": "Plural: les crapauds",
+        "it": "Plural: i rospi"
+      }
     },
     {
       "id": "an98",
-      "es": "Paloma",
+      "es": "La paloma",
       "translations": {
-        "en": "Pigeon / Dove",
-        "pt": "Pombo / Pomba",
-        "fr": "Pigeon / Colombe",
-        "it": "Piccione / Colomba"
+        "en": "The pigeon",
+        "pt": "O pombo",
+        "fr": "Le pigeon",
+        "it": "Il piccione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pigeons. «Dove» suele utilizarse para palomas de simbolismo pacífico.",
+        "pt": "Plural: os pombos. Femenino: a pomba (pl. as pombas).",
+        "fr": "Plural: les pigeons. Femenino: la pigeonne (pl. les pigeonnes).",
+        "it": "Plural: i piccioni"
+      }
     },
     {
       "id": "an99",
-      "es": "Gorrión",
+      "es": "El gorrión",
       "translations": {
-        "en": "Sparrow",
-        "pt": "Pardal",
-        "fr": "Moineau",
-        "it": "Passero"
+        "en": "The sparrow",
+        "pt": "O pardal",
+        "fr": "Le moineau",
+        "it": "Il passero"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sparrows",
+        "pt": "Plural: os pardais",
+        "fr": "Plural: les moineaux",
+        "it": "Plural: i passeri. Femenino: la passera (pl. le passere)."
+      }
     },
     {
       "id": "an100",
-      "es": "Colibrí",
+      "es": "El colibrí",
       "translations": {
-        "en": "Hummingbird",
-        "pt": "Beija-flor",
-        "fr": "Colibri",
-        "it": "Colibrì"
+        "en": "The hummingbird",
+        "pt": "O beija-flor",
+        "fr": "Le colibri",
+        "it": "Il colibrì"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hummingbirds",
+        "pt": "Plural: os beija-flores",
+        "fr": "Plural: les colibris",
+        "it": "Plural: i colibrì"
+      }
     },
     {
       "id": "an101",
-      "es": "Gaviota",
+      "es": "La gaviota",
       "translations": {
-        "en": "Seagull / Gull",
-        "pt": "Gaivota",
-        "fr": "Mouette / Goéland",
-        "it": "Gabbiano"
+        "en": "The gull",
+        "pt": "A gaivota",
+        "fr": "La mouette",
+        "it": "Il gabbiano"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the gulls",
+        "pt": "Plural: as gaivotas",
+        "fr": "Plural: les mouettes. «Goéland» designa generalmente una gaviota de mayor tamaño.",
+        "it": "Plural: i gabbiani. Femenino: la gabbiana (pl. le gabbiane)."
+      }
     },
     {
       "id": "an102",
-      "es": "Águila",
+      "es": "El águila",
       "translations": {
-        "en": "Eagle",
-        "pt": "Águia",
-        "fr": "Aigle",
-        "it": "Aquila"
+        "en": "The eagle",
+        "pt": "A águia",
+        "fr": "L’aigle",
+        "it": "L’aquila"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the eagles",
+        "pt": "Plural: as águias",
+        "fr": "Plural: les aigles",
+        "it": "Plural: le aquile"
+      }
     },
     {
       "id": "an103",
-      "es": "Halcón",
+      "es": "El halcón",
       "translations": {
-        "en": "Falcon",
-        "pt": "Falcão",
-        "fr": "Faucon",
-        "it": "Falco"
+        "en": "The falcon",
+        "pt": "O falcão",
+        "fr": "Le faucon",
+        "it": "Il falco"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the falcons",
+        "pt": "Plural: os falcões",
+        "fr": "Plural: les faucons",
+        "it": "Plural: i falchi"
+      }
     },
     {
       "id": "an104",
-      "es": "Búho",
+      "es": "El búho",
       "translations": {
-        "en": "Owl",
-        "pt": "Coruja",
-        "fr": "Hibou",
-        "it": "Gufo"
+        "en": "The owl",
+        "pt": "A coruja",
+        "fr": "Le hibou",
+        "it": "Il gufo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the owls",
+        "pt": "Plural: as corujas",
+        "fr": "Plural: les hiboux",
+        "it": "Plural: i gufi"
+      }
     },
     {
       "id": "an105",
-      "es": "Cuervo",
+      "es": "El cuervo",
       "translations": {
-        "en": "Raven",
-        "pt": "Corvo",
-        "fr": "Corbeau",
-        "it": "Corvo"
+        "en": "The raven",
+        "pt": "O corvo",
+        "fr": "Le corbeau",
+        "it": "Il corvo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ravens",
+        "pt": "Plural: os corvos",
+        "fr": "Plural: les corbeaux",
+        "it": "Plural: i corvi"
+      }
     },
     {
       "id": "an106",
-      "es": "Flamenco (ave)",
+      "es": "El flamenco",
       "translations": {
-        "en": "Flamingo",
-        "pt": "Flamingo",
-        "fr": "Flamant rose",
-        "it": "Fenicottero"
+        "en": "The flamingo",
+        "pt": "O flamingo",
+        "fr": "Le flamant rose",
+        "it": "Il fenicottero"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the flamingos",
+        "pt": "Plural: os flamingos",
+        "fr": "Plural: les flamants roses",
+        "it": "Plural: i fenicotteri"
+      }
     },
     {
       "id": "an107",
-      "es": "Cisne",
+      "es": "El cisne",
       "translations": {
-        "en": "Swan",
-        "pt": "Cisne",
-        "fr": "Cygne",
-        "it": "Cigno"
+        "en": "The swan",
+        "pt": "O cisne",
+        "fr": "Le cygne",
+        "it": "Il cigno"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the swans",
+        "pt": "Plural: os cisnes",
+        "fr": "Plural: les cygnes",
+        "it": "Plural: i cigni"
+      }
     },
     {
       "id": "an108",
-      "es": "Pelícano",
+      "es": "El pelícano",
       "translations": {
-        "en": "Pelican",
-        "pt": "Pelicano",
-        "fr": "Pélican",
-        "it": "Pellicano"
+        "en": "The pelican",
+        "pt": "O pelicano",
+        "fr": "Le pélican",
+        "it": "Il pellicano"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pelicans",
+        "pt": "Plural: os pelicanos",
+        "fr": "Plural: les pélicans",
+        "it": "Plural: i pellicani"
+      }
     },
     {
       "id": "an109",
-      "es": "Avestruz",
+      "es": "El avestruz",
       "translations": {
-        "en": "Ostrich",
-        "pt": "Avestruz",
-        "fr": "Autruche",
-        "it": "Struzzo"
+        "en": "The ostrich",
+        "pt": "O avestruz",
+        "fr": "L’autruche",
+        "it": "Lo struzzo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ostriches",
+        "pt": "Plural: os avestruzes",
+        "fr": "Plural: les autruches",
+        "it": "Plural: gli struzzi"
+      }
     },
     {
       "id": "an110",
-      "es": "Pavo real",
+      "es": "El pavo real",
       "translations": {
-        "en": "Peacock",
-        "pt": "Pavão",
-        "fr": "Paon",
-        "it": "Pavone"
+        "en": "The peacock",
+        "pt": "O pavão",
+        "fr": "Le paon",
+        "it": "Il pavone"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the peacocks",
+        "pt": "Plural: os pavões",
+        "fr": "Plural: les paons",
+        "it": "Plural: i pavoni"
+      }
     },
     {
       "id": "an111",
-      "es": "Pingüino",
+      "es": "El pingüino",
       "translations": {
-        "en": "Penguin",
-        "pt": "Pinguim",
-        "fr": "Manchot",
-        "it": "Pinguino"
+        "en": "The penguin",
+        "pt": "O pinguim",
+        "fr": "Le manchot",
+        "it": "Il pinguino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the penguins",
+        "pt": "Plural: os pinguins",
+        "fr": "Plural: les manchots. «Pingouin» se refiere a otra ave en francés.",
+        "it": "Plural: i pinguini"
+      }
     },
     {
       "id": "an112",
-      "es": "Delfín",
+      "es": "El delfín",
       "translations": {
-        "en": "Dolphin",
-        "pt": "Golfinho",
-        "fr": "Dauphin",
-        "it": "Delfino"
+        "en": "The dolphin",
+        "pt": "O golfinho",
+        "fr": "Le dauphin",
+        "it": "Il delfino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dolphins",
+        "pt": "Plural: os golfinhos",
+        "fr": "Plural: les dauphins",
+        "it": "Plural: i delfini"
+      }
     },
     {
       "id": "an113",
-      "es": "Ballena",
+      "es": "La ballena",
       "translations": {
-        "en": "Whale",
-        "pt": "Baleia",
-        "fr": "Baleine",
-        "it": "Balena"
+        "en": "The whale",
+        "pt": "A baleia",
+        "fr": "La baleine",
+        "it": "La balena"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the whales",
+        "pt": "Plural: as baleias",
+        "fr": "Plural: les baleines",
+        "it": "Plural: le balene"
+      }
     },
     {
       "id": "an114",
-      "es": "Orca",
+      "es": "La orca",
       "translations": {
-        "en": "Orca / Killer whale",
-        "pt": "Orca",
-        "fr": "Orque",
-        "it": "Orca"
+        "en": "The orca",
+        "pt": "A orca",
+        "fr": "L’orque",
+        "it": "L’orca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the orcas",
+        "pt": "Plural: as orcas",
+        "fr": "Plural: les orques",
+        "it": "Plural: le orche"
+      }
     },
     {
       "id": "an115",
-      "es": "Tiburón",
+      "es": "El tiburón",
       "translations": {
-        "en": "Shark",
-        "pt": "Tubarão",
-        "fr": "Requin",
-        "it": "Squalo"
+        "en": "The shark",
+        "pt": "O tubarão",
+        "fr": "Le requin",
+        "it": "Lo squalo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sharks",
+        "pt": "Plural: os tubarões",
+        "fr": "Plural: les requins",
+        "it": "Plural: gli squali"
+      }
     },
     {
       "id": "an116",
-      "es": "Foca",
+      "es": "La foca",
       "translations": {
-        "en": "Seal",
-        "pt": "Foca",
-        "fr": "Phoque",
-        "it": "Foca"
+        "en": "The seal",
+        "pt": "A foca",
+        "fr": "Le phoque",
+        "it": "La foca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the seals",
+        "pt": "Plural: as focas",
+        "fr": "Plural: les phoques",
+        "it": "Plural: le foche"
+      }
     },
     {
       "id": "an117",
-      "es": "Lobo marino",
+      "es": "El lobo marino",
       "translations": {
-        "en": "Sea lion",
-        "pt": "Leão-marinho",
-        "fr": "Otarie",
-        "it": "Leone marino"
+        "en": "The sea lion",
+        "pt": "O leão-marinho",
+        "fr": "L’otarie",
+        "it": "Il leone marino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sea lions",
+        "pt": "Plural: os leões-marinhos",
+        "fr": "Plural: les otaries",
+        "it": "Plural: i leoni marini"
+      }
     },
     {
       "id": "an118",
-      "es": "Tortuga marina",
+      "es": "La tortuga marina",
       "translations": {
-        "en": "Sea turtle",
-        "pt": "Tartaruga marinha",
-        "fr": "Tortue marine",
-        "it": "Tartaruga marina"
+        "en": "The sea turtle",
+        "pt": "A tartaruga marinha",
+        "fr": "La tortue marine",
+        "it": "La tartaruga marina"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sea turtles",
+        "pt": "Plural: as tartarugas marinhas",
+        "fr": "Plural: les tortues marines",
+        "it": "Plural: le tartarughe marine"
+      }
     },
     {
       "id": "an119",
-      "es": "Pulpo",
+      "es": "El pulpo",
       "translations": {
-        "en": "Octopus",
-        "pt": "Polvo",
-        "fr": "Poulpe / Pieuvre",
-        "it": "Polpo"
+        "en": "The octopus",
+        "pt": "O polvo",
+        "fr": "Le poulpe",
+        "it": "Il polpo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the octopuses",
+        "pt": "Plural: os polvos",
+        "fr": "Plural: les poulpes",
+        "it": "Plural: i polpi"
+      }
     },
     {
       "id": "an120",
-      "es": "Calamar",
+      "es": "El calamar",
       "translations": {
-        "en": "Squid",
-        "pt": "Lula",
-        "fr": "Calmar",
-        "it": "Calamaro"
+        "en": "The squid",
+        "pt": "A lula",
+        "fr": "Le calmar",
+        "it": "Il calamaro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the squids",
+        "pt": "Plural: as lulas",
+        "fr": "Plural: les calmars",
+        "it": "Plural: i calamari"
+      }
     },
     {
       "id": "an121",
-      "es": "Medusa / Aguamala (animal marino)",
+      "es": "La medusa",
       "translations": {
-        "en": "Jellyfish",
-        "pt": "Água-viva",
-        "fr": "Méduse",
-        "it": "Medusa"
+        "en": "The jellyfish",
+        "pt": "A água-viva",
+        "fr": "La méduse",
+        "it": "La medusa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the jellyfish",
+        "pt": "Plural: as água-vivas",
+        "fr": "Plural: les méduses",
+        "it": "Plural: le meduse"
+      }
     },
     {
       "id": "an122",
-      "es": "Estrella de mar",
+      "es": "La estrella de mar",
       "translations": {
-        "en": "Starfish / Sea star",
-        "pt": "Estrela-do-mar",
-        "fr": "Étoile de mer",
-        "it": "Stella marina"
+        "en": "The starfish",
+        "pt": "A estrela-do-mar",
+        "fr": "L’étoile de mer",
+        "it": "La stella marina"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the starfish",
+        "pt": "Plural: as estrelas-do-mar",
+        "fr": "Plural: les étoiles de mer",
+        "it": "Plural: le stelle marine"
+      }
     },
     {
       "id": "an123",
-      "es": "Caballito de mar",
+      "es": "El caballito de mar",
       "translations": {
-        "en": "Seahorse",
-        "pt": "Cavalo-marinho",
-        "fr": "Hippocampe",
-        "it": "Cavalluccio marino"
+        "en": "The seahorse",
+        "pt": "O cavalo-marinho",
+        "fr": "L’hippocampe",
+        "it": "Il cavalluccio marino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the seahorses",
+        "pt": "Plural: os cavalos-marinhos",
+        "fr": "Plural: les hippocampes",
+        "it": "Plural: i cavallucci marini"
+      }
     },
     {
       "id": "an124",
-      "es": "Cangrejo",
+      "es": "El cangrejo",
       "translations": {
-        "en": "Crab",
-        "pt": "Caranguejo",
-        "fr": "Crabe",
-        "it": "Granchio"
+        "en": "The crab",
+        "pt": "O caranguejo",
+        "fr": "Le crabe",
+        "it": "Il granchio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the crabs",
+        "pt": "Plural: os caranguejos",
+        "fr": "Plural: les crabes",
+        "it": "Plural: i granchi"
+      }
     },
     {
       "id": "an125",
-      "es": "Mosquito",
+      "es": "El mosquito",
       "translations": {
-        "en": "Mosquito",
-        "pt": "Mosquito / Pernilongo / Muriçoca",
-        "fr": "Moustique",
-        "it": "Zanzara"
+        "en": "The mosquito",
+        "pt": "O mosquito",
+        "fr": "Le moustique",
+        "it": "La zanzara"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mosquitos",
+        "pt": "Plural: os mosquitos. En Brasil también se dice «pernilongo».",
+        "fr": "Plural: les moustiques",
+        "it": "Plural: le zanzare"
+      }
     },
     {
       "id": "an126",
-      "es": "Mosca",
+      "es": "La mosca",
       "translations": {
-        "en": "Fly",
-        "pt": "Mosca",
-        "fr": "Mouche",
-        "it": "Mosca"
+        "en": "The fly",
+        "pt": "A mosca",
+        "fr": "La mouche",
+        "it": "La mosca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the flies",
+        "pt": "Plural: as moscas",
+        "fr": "Plural: les mouches",
+        "it": "Plural: le mosche"
+      }
     },
     {
       "id": "an127",
-      "es": "Abeja",
+      "es": "La abeja",
       "translations": {
-        "en": "Bee",
-        "pt": "Abelha",
-        "fr": "Abeille",
-        "it": "Ape"
+        "en": "The bee",
+        "pt": "A abelha",
+        "fr": "L’abeille",
+        "it": "L’ape"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bees",
+        "pt": "Plural: as abelhas",
+        "fr": "Plural: les abeilles",
+        "it": "Plural: le api"
+      }
     },
     {
       "id": "an128",
-      "es": "Avispa",
+      "es": "La avispa",
       "translations": {
-        "en": "Wasp",
-        "pt": "Vespa / Marimbondo",
-        "fr": "Guêpe",
-        "it": "Vespa"
+        "en": "The wasp",
+        "pt": "A vespa",
+        "fr": "La guêpe",
+        "it": "La vespa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the wasps",
+        "pt": "Plural: as vespas",
+        "fr": "Plural: les guêpes",
+        "it": "Plural: le vespe"
+      }
     },
     {
       "id": "an129",
-      "es": "Hormiga",
+      "es": "La hormiga",
       "translations": {
-        "en": "Ant",
-        "pt": "Formiga",
-        "fr": "Fourmi",
-        "it": "Formica"
+        "en": "The ant",
+        "pt": "A formiga",
+        "fr": "La fourmi",
+        "it": "La formica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ants",
+        "pt": "Plural: as formigas",
+        "fr": "Plural: les fourmis",
+        "it": "Plural: le formiche"
+      }
     },
     {
       "id": "an130",
-      "es": "Mariposa",
+      "es": "La mariposa",
       "translations": {
-        "en": "Butterfly",
-        "pt": "Borboleta",
-        "fr": "Papillon",
-        "it": "Farfalla"
+        "en": "The butterfly",
+        "pt": "A borboleta",
+        "fr": "Le papillon",
+        "it": "La farfalla"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the butterflies",
+        "pt": "Plural: as borboletas",
+        "fr": "Plural: les papillons",
+        "it": "Plural: le farfalle"
+      }
     },
     {
       "id": "an131",
-      "es": "Polilla (mariposa nocturna)",
+      "es": "La polilla",
       "translations": {
-        "en": "Moth",
-        "pt": "Mariposa",
-        "fr": "Papillon de nuit",
-        "it": "Falena"
+        "en": "The moth",
+        "pt": "A mariposa",
+        "fr": "Le papillon de nuit",
+        "it": "La falena"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the moths",
+        "pt": "Plural: as mariposas",
+        "fr": "Plural: les papillons de nuit",
+        "it": "Plural: le falene"
+      }
     },
     {
       "id": "an132",
-      "es": "Cucaracha",
+      "es": "La cucaracha",
       "translations": {
-        "en": "Cockroach",
-        "pt": "Barata",
-        "fr": "Cafard / Blatte",
-        "it": "Scarafaggio / Blatta"
+        "en": "The cockroach",
+        "pt": "A barata",
+        "fr": "Le cafard",
+        "it": "Lo scarafaggio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cockroaches",
+        "pt": "Plural: as baratas",
+        "fr": "Plural: les cafards",
+        "it": "Plural: gli scarafaggi"
+      }
     },
     {
       "id": "an133",
-      "es": "Escarabajo",
+      "es": "El escarabajo",
       "translations": {
-        "en": "Beetle",
-        "pt": "Besouro",
-        "fr": "Scarabée / Coléoptère",
-        "it": "Coleottero"
+        "en": "The beetle",
+        "pt": "O besouro",
+        "fr": "Le scarabée",
+        "it": "Lo scarabeo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the beetles",
+        "pt": "Plural: os besouros",
+        "fr": "Plural: les scarabées",
+        "it": "Plural: gli scarabei"
+      }
     },
     {
       "id": "an134",
-      "es": "Grillo",
+      "es": "El grillo",
       "translations": {
-        "en": "Cricket",
-        "pt": "Grilo",
-        "fr": "Grillon",
-        "it": "Grillo"
+        "en": "The cricket",
+        "pt": "O grilo",
+        "fr": "Le grillon",
+        "it": "Il grillo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the crickets",
+        "pt": "Plural: os grilos",
+        "fr": "Plural: les grillons",
+        "it": "Plural: i grilli"
+      }
     },
     {
       "id": "an135",
-      "es": "Saltamontes",
+      "es": "El saltamontes",
       "translations": {
-        "en": "Grasshopper",
-        "pt": "Gafanhoto",
-        "fr": "Sauterelle",
-        "it": "Cavalletta"
+        "en": "The grasshopper",
+        "pt": "O gafanhoto",
+        "fr": "La sauterelle",
+        "it": "La cavalletta"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the grasshoppers",
+        "pt": "Plural: os gafanhotos",
+        "fr": "Plural: les sauterelles",
+        "it": "Plural: le cavallette"
+      }
     },
     {
       "id": "an136",
-      "es": "Araña",
+      "es": "La araña",
       "translations": {
-        "en": "Spider",
-        "pt": "Aranha",
-        "fr": "Araignée",
-        "it": "Ragno"
+        "en": "The spider",
+        "pt": "A aranha",
+        "fr": "L’araignée",
+        "it": "Il ragno"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the spiders",
+        "pt": "Plural: as aranhas",
+        "fr": "Plural: les araignées",
+        "it": "Plural: i ragni"
+      }
     },
     {
       "id": "an137",
-      "es": "Escorpión / Alacrán",
+      "es": "El escorpión",
       "translations": {
-        "en": "Scorpion",
-        "pt": "Escorpião",
-        "fr": "Scorpion",
-        "it": "Scorpione"
+        "en": "The scorpion",
+        "pt": "O escorpião",
+        "fr": "Le scorpion",
+        "it": "Lo scorpione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the scorpions",
+        "pt": "Plural: os escorpiões",
+        "fr": "Plural: les scorpions",
+        "it": "Plural: gli scorpioni"
+      }
     },
     {
       "id": "an138",
-      "es": "Caracol",
+      "es": "El caracol",
       "translations": {
-        "en": "Snail",
-        "pt": "Caracol",
-        "fr": "Escargot",
-        "it": "Chiocciola / Lumaca"
+        "en": "The snail",
+        "pt": "O caracol",
+        "fr": "L’escargot",
+        "it": "La chiocciola"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the snails",
+        "pt": "Plural: os caracois",
+        "fr": "Plural: les escargots",
+        "it": "Plural: le chiocciole"
+      }
     },
     {
       "id": "an139",
-      "es": "Lombriz de tierra",
+      "es": "La lombriz de tierra",
       "translations": {
-        "en": "Earthworm",
-        "pt": "Minhoca",
-        "fr": "Ver de terre",
-        "it": "Lombrico"
+        "en": "The earthworm",
+        "pt": "A minhoca",
+        "fr": "Le ver de terre",
+        "it": "Il lombrico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the earthworms",
+        "pt": "Plural: as minhocas",
+        "fr": "Plural: les vers de terre",
+        "it": "Plural: i lombrichi"
+      }
     },
     {
       "id": "an140",
-      "es": "Pulga",
+      "es": "La pulga",
       "translations": {
-        "en": "Flea",
-        "pt": "Pulga",
-        "fr": "Puce",
-        "it": "Pulce"
+        "en": "The flea",
+        "pt": "A pulga",
+        "fr": "La puce",
+        "it": "La pulce"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the fleas",
+        "pt": "Plural: as pulgas",
+        "fr": "Plural: les puces",
+        "it": "Plural: le pulci"
+      }
     },
     {
       "id": "an141",
-      "es": "Garrapata",
+      "es": "La garrapata",
       "translations": {
-        "en": "Tick",
-        "pt": "Carrapato",
-        "fr": "Tique",
-        "it": "Zecca"
+        "en": "The tick",
+        "pt": "O carrapato",
+        "fr": "La tique",
+        "it": "La zecca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ticks",
+        "pt": "Plural: os carrapatos",
+        "fr": "Plural: les tiques",
+        "it": "Plural: le zecche"
+      }
     },
     {
       "id": "an142",
-      "es": "Chinche de cama",
+      "es": "La chinche de cama",
       "translations": {
-        "en": "Bedbug",
-        "pt": "Percevejo-de-cama",
-        "fr": "Punaise de lit",
-        "it": "Cimice dei letti"
+        "en": "The bedbug",
+        "pt": "O percevejo-de-cama",
+        "fr": "La punaise de lit",
+        "it": "La cimice dei letti"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bedbugs",
+        "pt": "Plural: os percevejos-de-cama",
+        "fr": "Plural: les punaises de lit",
+        "it": "Plural: le cimici dei letti"
+      }
     },
     {
       "id": "an143",
-      "es": "Pata (extremidad de un animal)",
+      "es": "La pata",
       "translations": {
-        "en": "Leg / Paw",
-        "pt": "Pata",
-        "fr": "Patte",
-        "it": "Zampa"
+        "en": "The paw",
+        "pt": "A pata",
+        "fr": "La patte",
+        "it": "La zampa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the paws",
+        "pt": "Plural: as patas",
+        "fr": "Plural: les pattes",
+        "it": "Plural: le zampe"
+      }
     },
     {
       "id": "an144",
-      "es": "Cola (de un animal)",
+      "es": "La cola",
       "translations": {
-        "en": "Tail",
-        "pt": "Cauda / Rabo",
-        "fr": "Queue",
-        "it": "Coda"
+        "en": "The tail",
+        "pt": "A cauda",
+        "fr": "La queue",
+        "it": "La coda"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the tails",
+        "pt": "Plural: as caudas",
+        "fr": "Plural: les queues",
+        "it": "Plural: le code"
+      }
     },
     {
       "id": "an145",
-      "es": "Pelaje / Pelo (de un animal)",
+      "es": "El pelaje",
       "translations": {
-        "en": "Fur / Coat",
-        "pt": "Pelagem / Pelo",
-        "fr": "Pelage / Poil",
-        "it": "Pelliccia / Pelo"
+        "en": "The fur",
+        "pt": "A pelagem",
+        "fr": "Le pelage",
+        "it": "Il pelo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Pelaje de un animal, no cabello humano."
+      }
     },
     {
       "id": "an146",
-      "es": "Pluma (de un ave)",
+      "es": "La pluma",
       "translations": {
-        "en": "Feather",
-        "pt": "Pena",
-        "fr": "Plume",
-        "it": "Piuma"
+        "en": "The feather",
+        "pt": "A pena",
+        "fr": "La plume",
+        "it": "La piuma"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the feathers",
+        "pt": "Plural: as penas",
+        "fr": "Plural: les plumes",
+        "it": "Plural: le piume"
+      }
     },
     {
       "id": "an147",
-      "es": "Ala",
+      "es": "El ala",
       "translations": {
-        "en": "Wing",
-        "pt": "Asa",
-        "fr": "Aile",
-        "it": "Ala"
+        "en": "The wing",
+        "pt": "A asa",
+        "fr": "L’aile",
+        "it": "L’ala"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the wings",
+        "pt": "Plural: as asas",
+        "fr": "Plural: les ailes",
+        "it": "Plural: le ali"
+      }
     },
     {
       "id": "an148",
-      "es": "Pico (de un ave)",
+      "es": "El pico",
       "translations": {
-        "en": "Beak",
-        "pt": "Bico",
-        "fr": "Bec",
-        "it": "Becco"
+        "en": "The beak",
+        "pt": "O bico",
+        "fr": "Le bec",
+        "it": "Il becco"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the beaks",
+        "pt": "Plural: os bicos",
+        "fr": "Plural: les becs",
+        "it": "Plural: i becchi"
+      }
     },
     {
       "id": "an149",
-      "es": "Garra",
+      "es": "La garra",
       "translations": {
-        "en": "Claw",
-        "pt": "Garra",
-        "fr": "Griffe",
-        "it": "Artiglio"
+        "en": "The claw",
+        "pt": "A garra",
+        "fr": "La griffe",
+        "it": "L’artiglio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the claws",
+        "pt": "Plural: as garras",
+        "fr": "Plural: les griffes",
+        "it": "Plural: gli artigli"
+      }
     },
     {
       "id": "an150",
-      "es": "Pezuña",
+      "es": "La pezuña",
       "translations": {
-        "en": "Hoof",
-        "pt": "Casco",
-        "fr": "Sabot",
-        "it": "Zoccolo"
+        "en": "The hoof",
+        "pt": "O casco",
+        "fr": "Le sabot",
+        "it": "Lo zoccolo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hoofs",
+        "pt": "Plural: os cascos",
+        "fr": "Plural: les sabots",
+        "it": "Plural: gli zoccoli"
+      }
     },
     {
       "id": "an151",
-      "es": "Cuerno",
+      "es": "El cuerno",
       "translations": {
-        "en": "Horn",
-        "pt": "Chifre",
-        "fr": "Corne",
-        "it": "Corno"
+        "en": "The horn",
+        "pt": "O chifre",
+        "fr": "La corne",
+        "it": "Il corno"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the horns",
+        "pt": "Plural: os chifres",
+        "fr": "Plural: les cornes",
+        "it": "Plural: le corna"
+      }
     },
     {
       "id": "an152",
-      "es": "Aleta",
+      "es": "La aleta",
       "translations": {
-        "en": "Fin",
-        "pt": "Nadadeira / Barbatana",
-        "fr": "Nageoire",
-        "it": "Pinna"
+        "en": "The fin",
+        "pt": "A nadadeira",
+        "fr": "La nageoire",
+        "it": "La pinna"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the fins",
+        "pt": "Plural: as nadadeiras",
+        "fr": "Plural: les nageoires",
+        "it": "Plural: le pinne"
+      }
     },
     {
       "id": "an153",
-      "es": "Caparazón (de una tortuga)",
+      "es": "El caparazón",
       "translations": {
-        "en": "Shell / Turtle shell",
-        "pt": "Casco / Carapaça",
-        "fr": "Carapace",
-        "it": "Guscio / Carapace"
+        "en": "The shell",
+        "pt": "A carapaça",
+        "fr": "La carapace",
+        "it": "La corazza"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the shells",
+        "pt": "Plural: as carapaças",
+        "fr": "Plural: les carapaces",
+        "it": "Plural: le corazze"
+      }
     },
     {
       "id": "an154",
-      "es": "Hocico",
+      "es": "El hocico",
       "translations": {
-        "en": "Snout / Muzzle",
-        "pt": "Focinho",
-        "fr": "Museau",
-        "it": "Muso"
+        "en": "The snout",
+        "pt": "O focinho",
+        "fr": "Le museau",
+        "it": "Il muso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the snouts",
+        "pt": "Plural: os focinhos",
+        "fr": "Plural: les museaux",
+        "it": "Plural: i musi"
+      }
     },
     {
       "id": "an155",
-      "es": "Bigotes (de un gato)",
+      "es": "Los bigotes",
       "translations": {
-        "en": "Whiskers",
-        "pt": "Bigodes",
-        "fr": "Moustaches / Vibrisses",
-        "it": "Baffi / Vibrisse"
+        "en": "The whiskers",
+        "pt": "Os bigodes",
+        "fr": "Les moustaches",
+        "it": "I baffi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Vibrisas sensoriales de mamíferos."
+      }
     },
     {
       "id": "an156",
-      "es": "Nido",
+      "es": "El nido",
       "translations": {
-        "en": "Nest",
-        "pt": "Ninho",
-        "fr": "Nid",
-        "it": "Nido"
+        "en": "The nest",
+        "pt": "O ninho",
+        "fr": "Le nid",
+        "it": "Il nido"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the nests",
+        "pt": "Plural: os ninhos",
+        "fr": "Plural: les nids",
+        "it": "Plural: i nidi"
+      }
     },
     {
       "id": "an157",
-      "es": "Madriguera",
+      "es": "La madriguera",
       "translations": {
-        "en": "Burrow",
-        "pt": "Toca",
-        "fr": "Terrier",
-        "it": "Tana"
+        "en": "The burrow",
+        "pt": "A toca",
+        "fr": "Le terrier",
+        "it": "La tana"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the burrows",
+        "pt": "Plural: as tocas",
+        "fr": "Plural: les terriers",
+        "it": "Plural: le tane"
+      }
     },
     {
       "id": "an158",
-      "es": "Manso/a / Dócil (animal)",
+      "es": "Manso / Dócil",
       "translations": {
-        "en": "Gentle / Docile",
-        "pt": "Manso / Mansa / Dócil",
+        "en": "Gentle",
+        "pt": "Manso",
         "fr": "Docile",
-        "it": "Mansueto / Mansueta / Docile"
+        "it": "Mansueto"
       },
       "image_url": ""
     },
     {
       "id": "an159",
-      "es": "Agresivo/a (animal)",
+      "es": "Agresivo",
       "translations": {
         "en": "Aggressive",
-        "pt": "Agressivo / Agressiva",
-        "fr": "Agressif / Agressive",
-        "it": "Aggressivo / Aggressiva"
+        "pt": "Agressivo",
+        "fr": "Agressif",
+        "it": "Aggressivo"
       },
       "image_url": ""
     },
     {
       "id": "an160",
-      "es": "Collar (para un animal)",
+      "es": "El collar",
       "translations": {
-        "en": "Collar",
-        "pt": "Coleira",
-        "fr": "Collier",
-        "it": "Collare"
+        "en": "The collar",
+        "pt": "A coleira",
+        "fr": "Le collier",
+        "it": "Il collare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the collars",
+        "pt": "Plural: as coleiras",
+        "fr": "Plural: les colliers",
+        "it": "Plural: i collari"
+      }
     },
     {
       "id": "an161",
-      "es": "Correa (para pasear a un animal)",
+      "es": "La correa",
       "translations": {
-        "en": "Leash",
-        "pt": "Guia / Coleira de passeio",
-        "fr": "Laisse",
-        "it": "Guinzaglio"
+        "en": "The leash",
+        "pt": "A guia",
+        "fr": "La laisse",
+        "it": "Il guinzaglio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the leashes",
+        "pt": "Plural: as guias",
+        "fr": "Plural: les laisses",
+        "it": "Plural: i guinzagli"
+      }
     },
     {
       "id": "an162",
-      "es": "Arnés (para un animal)",
+      "es": "El arnés",
       "translations": {
-        "en": "Harness",
-        "pt": "Peitoral",
-        "fr": "Harnais",
-        "it": "Pettorina"
+        "en": "The harness",
+        "pt": "O peitoral",
+        "fr": "Le harnais",
+        "it": "La pettorina"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the harnesses",
+        "pt": "Plural: os peitorais",
+        "fr": "Plural: les harnais",
+        "it": "Plural: le pettorine"
+      }
     },
     {
       "id": "an163",
-      "es": "Bozal",
+      "es": "El bozal",
       "translations": {
-        "en": "Muzzle",
-        "pt": "Focinheira",
-        "fr": "Muselière",
-        "it": "Museruola"
+        "en": "The muzzle",
+        "pt": "A focinheira",
+        "fr": "La muselière",
+        "it": "La museruola"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the muzzles",
+        "pt": "Plural: as focinheiras",
+        "fr": "Plural: les muselières",
+        "it": "Plural: le museruole"
+      }
     },
     {
       "id": "an164",
-      "es": "Transportadora / Transportín (para mascotas)",
+      "es": "La transportadora",
       "translations": {
-        "en": "Pet carrier",
-        "pt": "Caixa de transporte",
-        "fr": "Caisse de transport",
-        "it": "Trasportino"
+        "en": "The pet carrier",
+        "pt": "A caixa de transporte",
+        "fr": "La caisse de transport",
+        "it": "Il trasportino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pet carriers",
+        "pt": "Plural: as caixas de transporte",
+        "fr": "Plural: les caisses de transport",
+        "it": "Plural: i trasportini"
+      }
     },
     {
       "id": "an165",
-      "es": "Jaula",
+      "es": "La jaula",
       "translations": {
-        "en": "Cage",
-        "pt": "Gaiola",
-        "fr": "Cage",
-        "it": "Gabbia"
+        "en": "The cage",
+        "pt": "A gaiola",
+        "fr": "La cage",
+        "it": "La gabbia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cages",
+        "pt": "Plural: as gaiolas",
+        "fr": "Plural: les cages",
+        "it": "Plural: le gabbie"
+      }
     },
     {
       "id": "an166",
-      "es": "Pecera / Acuario (recipiente para peces)",
+      "es": "El acuario",
       "translations": {
-        "en": "Fish tank / Aquarium",
-        "pt": "Aquário",
-        "fr": "Aquarium",
-        "it": "Acquario"
+        "en": "The aquarium",
+        "pt": "O aquário",
+        "fr": "L’aquarium",
+        "it": "L’acquario"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the aquariums",
+        "pt": "Plural: os aquários",
+        "fr": "Plural: les aquariums",
+        "it": "Plural: gli acquari",
+        "es": "También: pecera."
+      }
     },
     {
       "id": "an167",
-      "es": "Comedero (para mascotas)",
+      "es": "El comedero",
       "translations": {
-        "en": "Food bowl",
-        "pt": "Comedouro / Pote de comida",
-        "fr": "Gamelle / Écuelle",
-        "it": "Ciotola per il cibo"
+        "en": "The food bowl",
+        "pt": "O comedouro",
+        "fr": "La gamelle",
+        "it": "La ciotola per il cibo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the food bowls",
+        "pt": "Plural: os comedouros",
+        "fr": "Plural: les gamelles",
+        "it": "Plural: le ciotole per il cibo"
+      }
     },
     {
       "id": "an168",
-      "es": "Bebedero (para mascotas)",
+      "es": "El bebedero",
       "translations": {
-        "en": "Water bowl",
-        "pt": "Bebedouro / Pote de água",
-        "fr": "Gamelle d'eau",
-        "it": "Ciotola per l'acqua"
+        "en": "The water bowl",
+        "pt": "O bebedouro",
+        "fr": "La gamelle d’eau",
+        "it": "La ciotola per l’acqua"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the water bowls",
+        "pt": "Plural: os bebedouros",
+        "fr": "Plural: les gamelles d’eau",
+        "it": "Plural: le ciotole per l’acqua"
+      }
     },
     {
       "id": "an169",
-      "es": "Comida para mascotas",
+      "es": "La comida para mascotas",
       "translations": {
-        "en": "Pet food",
-        "pt": "Ração para animais de estimação",
-        "fr": "Nourriture pour animaux",
-        "it": "Cibo per animali"
+        "en": "The pet food",
+        "pt": "A ração para animais de estimação",
+        "fr": "La nourriture pour animaux",
+        "it": "Il cibo per animali"
       },
       "image_url": ""
     },
     {
       "id": "an170",
-      "es": "Croquetas (alimento seco para mascotas)",
+      "es": "Las croquetas",
       "translations": {
-        "en": "Dry pet food / Kibble",
-        "pt": "Ração seca",
-        "fr": "Croquettes",
-        "it": "Crocchette"
+        "en": "The kibble",
+        "pt": "A ração seca",
+        "fr": "Les croquettes",
+        "it": "Le crocchette"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Alimento seco para perros y gatos."
+      }
     },
     {
       "id": "an171",
-      "es": "Alimento húmedo (para mascotas)",
+      "es": "El alimento húmedo",
       "translations": {
-        "en": "Wet pet food",
-        "pt": "Ração úmida",
-        "fr": "Pâtée / Nourriture humide",
-        "it": "Cibo umido per animali"
+        "en": "The wet pet food",
+        "pt": "A ração úmida",
+        "fr": "La pâtée",
+        "it": "Il cibo umido per animali"
       },
       "image_url": ""
     },
     {
       "id": "an172",
-      "es": "Premio / Golosina (para mascotas)",
+      "es": "El premio",
       "translations": {
-        "en": "Pet treat",
-        "pt": "Petisco para animais",
-        "fr": "Friandise pour animaux",
-        "it": "Bocconcino premio per animali"
+        "en": "The pet treat",
+        "pt": "O petisco",
+        "fr": "La friandise",
+        "it": "Il premio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pets treat",
+        "pt": "Plural: os petiscos",
+        "fr": "Plural: les friandises",
+        "it": "Plural: i premi",
+        "es": "Golosina o recompensa para mascotas."
+      }
     },
     {
       "id": "an173",
-      "es": "Cama para mascotas",
+      "es": "La cama para mascotas",
       "translations": {
-        "en": "Pet bed",
-        "pt": "Caminha para animais",
-        "fr": "Panier pour animaux",
-        "it": "Cuccia"
+        "en": "The pet bed",
+        "pt": "A cama para animais",
+        "fr": "Le panier pour animaux",
+        "it": "La cuccia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pet beds",
+        "pt": "Plural: as camas para animais",
+        "fr": "Plural: les paniers pour animaux",
+        "it": "Plural: le cucce"
+      }
     },
     {
       "id": "an174",
-      "es": "Caseta / Casa para perro",
+      "es": "La caseta",
       "translations": {
-        "en": "Doghouse",
-        "pt": "Casinha de cachorro",
-        "fr": "Niche",
-        "it": "Casetta per cani / Cuccia da esterno"
+        "en": "The doghouse",
+        "pt": "A casinha de cachorro",
+        "fr": "La niche",
+        "it": "La casetta per cani"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the doghouses",
+        "pt": "Plural: as casinhas de cachorro",
+        "fr": "Plural: les niches",
+        "it": "Plural: le casette per cani"
+      }
     },
     {
       "id": "an175",
-      "es": "Rascador (para gatos)",
+      "es": "El rascador",
       "translations": {
-        "en": "Scratching post",
-        "pt": "Arranhador",
-        "fr": "Griffoir",
-        "it": "Tiragraffi"
+        "en": "The scratching post",
+        "pt": "O arranhador",
+        "fr": "Le griffoir",
+        "it": "Il tiragraffi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the scratching posts",
+        "pt": "Plural: os arranhadores",
+        "fr": "Plural: les griffoirs",
+        "it": "Plural: i tiragraffi"
+      }
     },
     {
       "id": "an176",
-      "es": "Arenero (para gatos)",
+      "es": "El arenero",
       "translations": {
-        "en": "Litter box",
-        "pt": "Caixa de areia",
-        "fr": "Bac à litière",
-        "it": "Lettiera / Cassetta igienica"
+        "en": "The litter box",
+        "pt": "A caixa de areia",
+        "fr": "Le bac à litière",
+        "it": "La lettiera"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the litter boxes",
+        "pt": "Plural: as caixas de areia",
+        "fr": "Plural: les bacs à litière",
+        "it": "Plural: le lettiere"
+      }
     },
     {
       "id": "an177",
-      "es": "Arena para gatos",
+      "es": "La arena para gatos",
       "translations": {
-        "en": "Cat litter",
-        "pt": "Areia para gatos",
-        "fr": "Litière pour chats",
-        "it": "Sabbia per gatti"
+        "en": "The cat litter",
+        "pt": "A areia para gatos",
+        "fr": "La litière pour chats",
+        "it": "La lettiera per gatti"
       },
       "image_url": ""
     },
     {
       "id": "an178",
-      "es": "Bolsas para recoger heces",
+      "es": "Las bolsas para recoger heces",
       "translations": {
-        "en": "Poop bags / Pet waste bags",
-        "pt": "Saquinhos para recolher fezes",
-        "fr": "Sacs à déjections",
-        "it": "Sacchetti per raccogliere le feci"
+        "en": "The poop bags",
+        "pt": "Os saquinhos para recolher fezes",
+        "fr": "Les sacs à déjections",
+        "it": "I sacchetti per raccogliere le feci"
       },
       "image_url": ""
     },
     {
       "id": "an179",
-      "es": "Veterinario/a",
+      "es": "El veterinario",
       "translations": {
-        "en": "Veterinarian / Vet",
-        "pt": "Veterinário / Veterinária",
-        "fr": "Vétérinaire",
-        "it": "Veterinario / Veterinaria"
+        "en": "The veterinarian",
+        "pt": "O veterinário",
+        "fr": "Le vétérinaire",
+        "it": "Il veterinario"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the veterinarians",
+        "pt": "Plural: os veterinários. Femenino: a veterinária (pl. as veterinárias).",
+        "fr": "Plural: les vétérinaires. Femenino: la vétérinaire (pl. les vétérinaires).",
+        "it": "Plural: i veterinari. Femenino: la veterinaria (pl. le veterinarie).",
+        "es": "Profesión; el femenino es. «la veterinaria»."
+      }
     },
     {
       "id": "an180",
-      "es": "Clínica veterinaria",
+      "es": "La clínica veterinaria",
       "translations": {
-        "en": "Veterinary clinic / Vet clinic",
-        "pt": "Clínica veterinária",
-        "fr": "Clinique vétérinaire",
-        "it": "Clinica veterinaria"
+        "en": "The veterinary clinic",
+        "pt": "A clínica veterinária",
+        "fr": "La clinique vétérinaire",
+        "it": "La clinica veterinaria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the veterinary clinics",
+        "pt": "Plural: as clínicas veterinárias",
+        "fr": "Plural: les cliniques vétérinaires",
+        "it": "Plural: le cliniche veterinarie"
+      }
     },
     {
       "id": "an181",
-      "es": "Refugio de animales",
+      "es": "El refugio de animales",
       "translations": {
-        "en": "Animal shelter",
-        "pt": "Abrigo de animais",
-        "fr": "Refuge pour animaux",
-        "it": "Rifugio per animali"
+        "en": "The animal shelter",
+        "pt": "O abrigo de animais",
+        "fr": "Le refuge pour animaux",
+        "it": "Il rifugio per animali"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the animal shelters",
+        "pt": "Plural: os abrigos de animais",
+        "fr": "Plural: les refuges pour animaux",
+        "it": "Plural: i rifugi per animali"
+      }
     },
     {
       "id": "an182",
-      "es": "Tienda de mascotas",
+      "es": "La tienda de mascotas",
       "translations": {
-        "en": "Pet store",
-        "pt": "Pet shop / Loja de animais",
-        "fr": "Animalerie",
-        "it": "Negozio per animali"
+        "en": "The pet store",
+        "pt": "A loja de animais",
+        "fr": "L’animalerie",
+        "it": "Il negozio per animali"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pet stores",
+        "pt": "Plural: as lojas de animais",
+        "fr": "Plural: les animaleries",
+        "it": "Plural: i negozi per animali"
+      }
     },
     {
       "id": "an183",
-      "es": "Vacunación (de una mascota)",
+      "es": "La vacunación",
       "translations": {
-        "en": "Vaccination",
-        "pt": "Vacinação",
-        "fr": "Vaccination",
-        "it": "Vaccinazione"
+        "en": "The vaccination",
+        "pt": "A vacinação",
+        "fr": "La vaccination",
+        "it": "La vaccinazione"
       },
       "image_url": ""
     },
     {
       "id": "an184",
-      "es": "Cartilla de vacunación (de una mascota)",
+      "es": "La cartilla de vacunación",
       "translations": {
-        "en": "Pet vaccination record",
-        "pt": "Carteira de vacinação do animal",
-        "fr": "Carnet de vaccination de l'animal",
-        "it": "Libretto delle vaccinazioni dell'animale"
+        "en": "The vaccination record",
+        "pt": "A carteira de vacinação",
+        "fr": "Le carnet de vaccination",
+        "it": "Il libretto delle vaccinazioni"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the vaccination records",
+        "pt": "Plural: as carteiras de vacinação",
+        "fr": "Plural: les carnets de vaccination",
+        "it": "Plural: i libretti delle vaccinazioni"
+      }
     },
     {
       "id": "an185",
-      "es": "Microchip (de identificación de una mascota)",
+      "es": "El microchip",
       "translations": {
-        "en": "Pet microchip",
-        "pt": "Microchip de identificação",
-        "fr": "Puce électronique",
-        "it": "Microchip identificativo"
+        "en": "The microchip",
+        "pt": "O microchip",
+        "fr": "La puce électronique",
+        "it": "Il microchip"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the microchips",
+        "pt": "Plural: os microchips",
+        "fr": "Plural: les puces électroniques",
+        "it": "Plural: i microchip"
+      }
     },
     {
       "id": "an186",
@@ -2119,7 +3189,7 @@
       "es": "Poner huevos",
       "translations": {
         "en": "To lay eggs",
-        "pt": "Botar ovos / Pôr ovos",
+        "pt": "Botar ovos",
         "fr": "Pondre des œufs",
         "it": "Deporre le uova"
       },
@@ -2127,7 +3197,7 @@
     },
     {
       "id": "an194",
-      "es": "Adoptar (una mascota)",
+      "es": "Adoptar",
       "translations": {
         "en": "To adopt a pet",
         "pt": "Adotar um animal",
@@ -2138,10 +3208,10 @@
     },
     {
       "id": "an195",
-      "es": "Acariciar (a un animal)",
+      "es": "Acariciar",
       "translations": {
-        "en": "To pet / To stroke",
-        "pt": "Fazer carinho / Acariciar",
+        "en": "To pet",
+        "pt": "Fazer carinho",
         "fr": "Caresser",
         "it": "Accarezzare"
       },
@@ -2149,10 +3219,10 @@
     },
     {
       "id": "an196",
-      "es": "Dar de comer (a un animal)",
+      "es": "Dar de comer",
       "translations": {
         "en": "To feed an animal",
-        "pt": "Alimentar um animal / Dar comida a um animal",
+        "pt": "Alimentar um animal",
         "fr": "Nourrir un animal",
         "it": "Dare da mangiare a un animale"
       },
@@ -2162,8 +3232,8 @@
       "id": "an197",
       "es": "Sacar a pasear al perro",
       "translations": {
-        "en": "To walk the dog / To take the dog for a walk",
-        "pt": "Passear com o cachorro / Levar o cachorro para passear",
+        "en": "To walk the dog",
+        "pt": "Passear com o cachorro",
         "fr": "Promener le chien",
         "it": "Portare a spasso il cane"
       },
@@ -2171,7 +3241,7 @@
     },
     {
       "id": "an198",
-      "es": "Cepillar (a una mascota)",
+      "es": "Cepillar",
       "translations": {
         "en": "To brush a pet",
         "pt": "Escovar um animal",
@@ -2193,14 +3263,17 @@
     },
     {
       "id": "an200",
-      "es": "¿Tienes mascotas? / ¿Tiene mascotas?",
+      "es": "¿Tienes mascotas?",
       "translations": {
         "en": "Do you have any pets?",
         "pt": "Você tem algum animal de estimação?",
-        "fr": "Tu as des animaux de compagnie ? / Vous avez des animaux de compagnie ?",
-        "it": "Hai animali domestici? / Ha animali domestici?"
+        "fr": "Tu as des animaux de compagnie ?",
+        "it": "Hai animali domestici?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Variante: Vous avez des animaux de compagnie ?."
+      }
     },
     {
       "id": "an201",
@@ -2226,25 +3299,31 @@
     },
     {
       "id": "an203",
-      "es": "¿Cuál es tu animal favorito? / ¿Cuál es su animal favorito?",
+      "es": "¿Cuál es tu animal favorito?",
       "translations": {
         "en": "What's your favorite animal?",
         "pt": "Qual é seu animal favorito?",
-        "fr": "Quel est ton animal préféré ? / Quel est votre animal préféré ?",
-        "it": "Qual è il tuo animale preferito? / Qual è il suo animale preferito?"
+        "fr": "Quel est ton animal préféré ?",
+        "it": "Qual è il tuo animale preferito?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Variante: Quel est votre animal préféré ?."
+      }
     },
     {
       "id": "an204",
-      "es": "¿Cómo se llama tu mascota? / ¿Cómo se llama su mascota?",
+      "es": "¿Cómo se llama tu mascota?",
       "translations": {
         "en": "What's your pet's name?",
         "pt": "Como se chama seu animal de estimação?",
-        "fr": "Comment s'appelle ton animal ? / Comment s'appelle votre animal ?",
-        "it": "Come si chiama il tuo animale? / Come si chiama il suo animale?"
+        "fr": "Comment s'appelle ton animal ?",
+        "it": "Come si chiama il tuo animale?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Variante: Comment s'appelle votre animal ?."
+      }
     },
     {
       "id": "an205",
@@ -2262,11 +3341,15 @@
       "es": "¿Qué edad tiene?",
       "translations": {
         "en": "How old is it?",
-        "pt": "Quantos anos ele tem? / Quantos anos ela tem?",
-        "fr": "Quel âge a-t-il ? / Quel âge a-t-elle ?",
+        "pt": "Quantos anos ele tem?",
+        "fr": "Quel âge a-t-il ?",
         "it": "Quanti anni ha?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Variante: Quantos anos ela tem?.",
+        "fr": "Variante: Quel âge a-t-elle ?."
+      }
     },
     {
       "id": "an207",
@@ -2274,10 +3357,13 @@
       "translations": {
         "en": "It's two years old.",
         "pt": "Tem dois anos.",
-        "fr": "Il a deux ans. / Elle a deux ans.",
+        "fr": "Il a deux ans.",
         "it": "Ha due anni."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Variante: Elle a deux ans.."
+      }
     },
     {
       "id": "an208",
@@ -2296,17 +3382,17 @@
       "translations": {
         "en": "What breed is it?",
         "pt": "De que raça é?",
-        "fr": "De quelle race est-il ? / De quelle race est-elle ?",
+        "fr": "De quelle race est-il ?",
         "it": "Di che razza è?"
       },
       "image_url": ""
     },
     {
       "id": "an210",
-      "es": "Es un perro mestizo. (sin una raza única)",
+      "es": "Es un perro mestizo.",
       "translations": {
         "en": "It's a mixed-breed dog.",
-        "pt": "É um cachorro sem raça definida. / É um vira-lata.",
+        "pt": "É um cachorro sem raça definida.",
         "fr": "C'est un chien croisé.",
         "it": "È un cane meticcio."
       },
@@ -2325,12 +3411,12 @@
     },
     {
       "id": "an212",
-      "es": "¿Puedo acariciar a tu perro? / ¿Puedo acariciar a su perro?",
+      "es": "¿Puedo acariciar a tu perro?",
       "translations": {
         "en": "Can I pet your dog?",
         "pt": "Posso fazer carinho no seu cachorro?",
-        "fr": "Je peux caresser ton chien ? / Puis-je caresser votre chien ?",
-        "it": "Posso accarezzare il tuo cane? / Posso accarezzare il suo cane?"
+        "fr": "Je peux caresser ton chien ?",
+        "it": "Posso accarezzare il tuo cane?"
       },
       "image_url": ""
     },
@@ -2340,21 +3426,28 @@
       "translations": {
         "en": "It's very gentle.",
         "pt": "É muito dócil.",
-        "fr": "Il est très docile. / Elle est très docile.",
+        "fr": "Il est très docile.",
         "it": "È molto docile."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Variante: Elle est très docile.."
+      }
     },
     {
       "id": "an214",
       "es": "¿Muerde?",
       "translations": {
         "en": "Does it bite?",
-        "pt": "Ele morde? / Ela morde?",
-        "fr": "Il mord ? / Elle mord ?",
+        "pt": "Ele morde?",
+        "fr": "Il mord ?",
         "it": "Morde?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Variante: Ela morde?.",
+        "fr": "Variante: Elle mord ?."
+      }
     },
     {
       "id": "an215",
@@ -2362,19 +3455,22 @@
       "translations": {
         "en": "It doesn't bite, but it's scared.",
         "pt": "Não morde, mas está com medo.",
-        "fr": "Il ne mord pas, mais il a peur. / Elle ne mord pas, mais elle a peur.",
+        "fr": "Il ne mord pas, mais il a peur.",
         "it": "Non morde, ma ha paura."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Variante: Elle ne mord pas, mais elle a peur.."
+      }
     },
     {
       "id": "an216",
       "es": "No le dé comida, por favor.",
       "translations": {
         "en": "Please don't feed it.",
-        "pt": "Não dê comida a ele, por favor. / Não dê comida a ela, por favor.",
+        "pt": "Não dê comida a ele, por favor.",
         "fr": "Ne lui donnez pas à manger, s'il vous plaît.",
-        "it": "Non gli dia da mangiare, per favore. / Non le dia da mangiare, per favore."
+        "it": "Non gli dia da mangiare, per favore."
       },
       "image_url": ""
     },
@@ -2394,9 +3490,9 @@
       "es": "¿Cuántas veces al día hay que darle de comer?",
       "translations": {
         "en": "How many times a day should I feed it?",
-        "pt": "Quantas vezes por dia devo dar comida a ele? / Quantas vezes por dia devo dar comida a ela?",
+        "pt": "Quantas vezes por dia devo dar comida a ele?",
         "fr": "Combien de fois par jour faut-il lui donner à manger ?",
-        "it": "Quante volte al giorno devo dargli da mangiare? / Quante volte al giorno devo darle da mangiare?"
+        "it": "Quante volte al giorno bisogna dargli da mangiare?"
       },
       "image_url": ""
     },
@@ -2461,10 +3557,13 @@
       "translations": {
         "en": "It's wearing a red collar.",
         "pt": "Está usando uma coleira vermelha.",
-        "fr": "Il porte un collier rouge. / Elle porte un collier rouge.",
+        "fr": "Il porte un collier rouge.",
         "it": "Ha un collare rosso."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Variante: Elle porte un collier rouge.."
+      }
     },
     {
       "id": "an225",
@@ -2515,11 +3614,14 @@
       "es": "Aquí está su cartilla de vacunación.",
       "translations": {
         "en": "Here's its vaccination record.",
-        "pt": "Aqui está a carteira de vacinação dele. / Aqui está a carteira de vacinação dela.",
+        "pt": "Aqui está a carteira de vacinação dele.",
         "fr": "Voici son carnet de vaccination.",
         "it": "Ecco il suo libretto delle vaccinazioni."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Variante: Aqui está a carteira de vacinação dela.."
+      }
     },
     {
       "id": "an230",
@@ -2527,10 +3629,13 @@
       "translations": {
         "en": "It's microchipped.",
         "pt": "Tem microchip.",
-        "fr": "Il a une puce électronique. / Elle a une puce électronique.",
+        "fr": "Il a une puce électronique.",
         "it": "Ha il microchip."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Variante: Elle a une puce électronique.."
+      }
     },
     {
       "id": "an231",
@@ -2542,6 +3647,142 @@
         "it": "Non tocchi gli animali."
       },
       "image_url": ""
+    },
+    {
+      "id": "an232",
+      "es": "La gallina de Guinea",
+      "translations": {
+        "en": "The guinea fowl",
+        "pt": "A galinha-d’angola",
+        "fr": "La pintade",
+        "it": "La faraona"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the guinea fowl",
+        "pt": "Plural: as galinhas-d’angola",
+        "fr": "Plural: les pintades",
+        "it": "Plural: le faraone"
+      }
+    },
+    {
+      "id": "an233",
+      "es": "El hámster enano",
+      "translations": {
+        "en": "The dwarf hamster",
+        "pt": "O hamster-anão",
+        "fr": "Le hamster nain",
+        "it": "Il criceto nano"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dwarf hamsters",
+        "pt": "Plural: os hamsters-anões",
+        "fr": "Plural: les hamsters nains",
+        "it": "Plural: i criceti nani"
+      }
+    },
+    {
+      "id": "an234",
+      "es": "El lagarto",
+      "translations": {
+        "en": "The lizard",
+        "pt": "O lagarto",
+        "fr": "Le lézard",
+        "it": "La lucertola"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lizards",
+        "pt": "Plural: os lagartos",
+        "fr": "Plural: les lézards",
+        "it": "Plural: le lucertole"
+      }
+    },
+    {
+      "id": "an235",
+      "es": "La tortuga",
+      "translations": {
+        "en": "The turtle",
+        "pt": "A tartaruga",
+        "fr": "La tortue",
+        "it": "La tartaruga"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the turtles",
+        "pt": "Plural: as tartarugas",
+        "fr": "Plural: les tortues",
+        "it": "Plural: le tartarughe"
+      }
+    },
+    {
+      "id": "an236",
+      "es": "El perro guía",
+      "translations": {
+        "en": "The guide dog",
+        "pt": "O cão-guia",
+        "fr": "Le chien-guide",
+        "it": "Il cane guida"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the guide dogs",
+        "pt": "Plural: os cães-guia",
+        "fr": "Plural: les chiens-guides",
+        "it": "Plural: i cani guida"
+      }
+    },
+    {
+      "id": "an237",
+      "es": "La mascota perdida",
+      "translations": {
+        "en": "The lost pet",
+        "pt": "O animal de estimação perdido",
+        "fr": "L’animal de compagnie perdu",
+        "it": "L’animale da compagnia smarrito"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lost pets",
+        "pt": "Plural: os animais de estimação perdidos",
+        "fr": "Plural: les animaux de compagnie perdus",
+        "it": "Plural: gli animali da compagnia smarriti"
+      }
+    },
+    {
+      "id": "an238",
+      "es": "El parque para perros",
+      "translations": {
+        "en": "The dog park",
+        "pt": "O parque para cães",
+        "fr": "Le parc canin",
+        "it": "L’area cani"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dog parks",
+        "pt": "Plural: os parques para cães",
+        "fr": "Plural: les parcs canins",
+        "it": "Plural: le aree cani"
+      }
+    },
+    {
+      "id": "an239",
+      "es": "El huevo",
+      "translations": {
+        "en": "The egg",
+        "pt": "O ovo",
+        "fr": "L’œuf",
+        "it": "L’uovo"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the eggs",
+        "pt": "Plural: os ovos",
+        "fr": "Plural: les œufs",
+        "it": "Plural: le uova"
+      }
     }
   ]
 }
