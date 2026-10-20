@@ -1,2410 +1,3724 @@
 {
   "module": "Lugares de la Ciudad y Direcciones",
   "level": "A1",
+  "revisado": "true",
   "cards": [
     {
       "id": "ci1",
-      "es": "Ciudad",
+      "es": "La ciudad",
       "translations": {
-        "en": "City",
-        "pt": "Cidade",
-        "fr": "Ville",
-        "it": "Città"
+        "en": "The city",
+        "pt": "A cidade",
+        "fr": "La ville",
+        "it": "La città"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cities",
+        "fr": "Plural: les villes",
+        "it": "Plural: le città",
+        "pt": "Plural: as cidades"
+      }
     },
     {
       "id": "ci2",
-      "es": "Pueblo / Localidad pequeña",
+      "es": "El pueblo",
       "translations": {
-        "en": "Town / Village",
-        "pt": "Vila / Povoado",
-        "fr": "Village / Petite ville",
-        "it": "Paese / Borgo"
+        "en": "The town",
+        "pt": "A vila",
+        "fr": "La petite ville",
+        "it": "Il paese"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the towns «Village» corresponde mejor a aldea.",
+        "fr": "Plural: les petites villes",
+        "it": "Plural: i paesi",
+        "pt": "Plural: as vilas",
+        "es": "Población pequeña; no equivale necesariamente a una aldea."
+      }
     },
     {
       "id": "ci3",
-      "es": "Barrio / Colonia / Vecindario",
+      "es": "El barrio",
       "translations": {
-        "en": "Neighborhood",
-        "pt": "Bairro",
-        "fr": "Quartier",
-        "it": "Quartiere"
+        "en": "The neighborhood",
+        "pt": "O bairro",
+        "fr": "Le quartier",
+        "it": "Il quartiere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the neighborhoods",
+        "fr": "Plural: les quartiers",
+        "it": "Plural: i quartieri",
+        "pt": "Plural: os bairros"
+      }
     },
     {
       "id": "ci4",
-      "es": "Centro de la ciudad",
+      "es": "El centro de la ciudad",
       "translations": {
-        "en": "Downtown / City center",
-        "pt": "Centro da cidade",
-        "fr": "Centre-ville",
-        "it": "Centro città"
+        "en": "The downtown area",
+        "pt": "O centro da cidade",
+        "fr": "Le centre-ville",
+        "it": "Il centro città"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the downtown areas Para distinguir distintas zonas céntricas: «downtown areas».",
+        "fr": "Plural: les centres-villes",
+        "it": "Plural: i centri città",
+        "pt": "Plural: os centros da cidade"
+      }
     },
     {
       "id": "ci5",
-      "es": "Centro histórico",
+      "es": "El centro histórico",
       "translations": {
-        "en": "Historic center / Historic district",
-        "pt": "Centro histórico",
-        "fr": "Centre historique",
-        "it": "Centro storico"
+        "en": "The historic center",
+        "pt": "O centro histórico",
+        "fr": "Le centre historique",
+        "it": "Il centro storico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the historic centers",
+        "fr": "Plural: les centres historiques",
+        "it": "Plural: i centri storici",
+        "pt": "Plural: os centros históricos"
+      }
     },
     {
       "id": "ci6",
-      "es": "Afueras / Periferia de la ciudad",
+      "es": "Las afueras",
       "translations": {
-        "en": "Outskirts",
-        "pt": "Periferia / Arredores da cidade",
-        "fr": "Périphérie de la ville",
-        "it": "Periferia della città"
+        "en": "The outskirts",
+        "pt": "Os arredores da cidade",
+        "fr": "La périphérie de la ville",
+        "it": "La periferia della città"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les périphéries des villes",
+        "it": "Plural: le periferie delle città",
+        "es": "Zona situada en los límites exteriores de una ciudad."
+      }
     },
     {
       "id": "ci7",
-      "es": "Zona / Área (parte de la ciudad)",
+      "es": "La zona",
       "translations": {
-        "en": "Area",
-        "pt": "Área / Zona",
-        "fr": "Zone",
-        "it": "Zona"
+        "en": "The area",
+        "pt": "A área",
+        "fr": "La zone",
+        "it": "La zona"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the areas",
+        "fr": "Plural: les zones",
+        "it": "Plural: le zone",
+        "pt": "Plural: as áreas"
+      }
     },
     {
       "id": "ci8",
-      "es": "Calle",
+      "es": "La calle",
       "translations": {
-        "en": "Street",
-        "pt": "Rua",
-        "fr": "Rue",
-        "it": "Via / Strada"
+        "en": "The street",
+        "pt": "A rua",
+        "fr": "La rue",
+        "it": "La via"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the streets",
+        "fr": "Plural: les rues",
+        "it": "Plural: le vie",
+        "pt": "Plural: as ruas"
+      }
     },
     {
       "id": "ci9",
-      "es": "Avenida",
+      "es": "La avenida",
       "translations": {
-        "en": "Avenue",
-        "pt": "Avenida",
-        "fr": "Avenue",
-        "it": "Viale"
+        "en": "The avenue",
+        "pt": "A avenida",
+        "fr": "L'avenue",
+        "it": "Il viale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the avenues",
+        "fr": "Plural: les avenues",
+        "it": "Plural: i viali",
+        "pt": "Plural: as avenidas"
+      }
     },
     {
       "id": "ci10",
-      "es": "Callejón",
+      "es": "El callejón",
       "translations": {
-        "en": "Alley",
-        "pt": "Beco / Viela",
-        "fr": "Ruelle",
-        "it": "Vicolo"
+        "en": "The alley",
+        "pt": "O beco",
+        "fr": "La ruelle",
+        "it": "Il vicolo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the alleys",
+        "fr": "Plural: les ruelles",
+        "it": "Plural: i vicoli",
+        "pt": "Plural: os becos"
+      }
     },
     {
       "id": "ci11",
-      "es": "Calle peatonal",
+      "es": "La calle peatonal",
       "translations": {
-        "en": "Pedestrian street",
-        "pt": "Rua de pedestres",
-        "fr": "Rue piétonne",
-        "it": "Strada pedonale"
+        "en": "The pedestrian street",
+        "pt": "A rua de pedestres",
+        "fr": "La rue piétonne",
+        "it": "La strada pedonale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pedestrian streets",
+        "fr": "Plural: les rues piétonnes",
+        "it": "Plural: le strade pedonali",
+        "pt": "Plural: as ruas de pedestres"
+      }
     },
     {
       "id": "ci12",
-      "es": "Calle sin salida",
+      "es": "La calle sin salida",
       "translations": {
-        "en": "Dead-end street / Cul-de-sac",
-        "pt": "Rua sem saída",
-        "fr": "Impasse",
-        "it": "Strada senza uscita / Vicolo cieco"
+        "en": "The dead-end street",
+        "pt": "A rua sem saída",
+        "fr": "L'impasse",
+        "it": "La strada senza uscita"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dead-end streets",
+        "fr": "Plural: les impasses",
+        "it": "Plural: le strade senza uscita",
+        "pt": "Plural: as ruas sem saída"
+      }
     },
     {
       "id": "ci13",
-      "es": "Esquina",
+      "es": "La esquina",
       "translations": {
-        "en": "Street corner / Corner",
-        "pt": "Esquina",
-        "fr": "Coin de rue",
-        "it": "Angolo della strada"
+        "en": "The street corner",
+        "pt": "A esquina",
+        "fr": "Le coin de rue",
+        "it": "L'angolo della strada"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the street corners",
+        "fr": "Plural: les coins de rue",
+        "it": "Plural: gli angoli della strada",
+        "pt": "Plural: as esquinas"
+      }
     },
     {
       "id": "ci14",
-      "es": "Cuadra / Manzana (bloque de edificios)",
+      "es": "La manzana",
       "translations": {
-        "en": "Block / City block",
-        "pt": "Quarteirão",
-        "fr": "Pâté de maisons",
-        "it": "Isolato"
+        "en": "The city block",
+        "pt": "O quarteirão",
+        "fr": "Le pâté de maisons",
+        "it": "L'isolato"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the city blocks",
+        "fr": "Plural: les pâtés de maisons",
+        "it": "Plural: gli isolati",
+        "pt": "Plural: os quarteirões",
+        "es": "Bloque urbano rodeado de calles; no medida universal de distancia."
+      }
     },
     {
       "id": "ci15",
-      "es": "Cruce / Intersección (de calles)",
+      "es": "El cruce de calles",
       "translations": {
-        "en": "Intersection / Junction",
-        "pt": "Cruzamento",
-        "fr": "Carrefour / Intersection",
-        "it": "Incrocio"
+        "en": "The intersection",
+        "pt": "O cruzamento",
+        "fr": "Le carrefour",
+        "it": "L'incrocio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the intersections",
+        "fr": "Plural: les carrefours",
+        "it": "Plural: gli incroci",
+        "pt": "Plural: os cruzamentos"
+      }
     },
     {
       "id": "ci16",
-      "es": "Glorieta / Rotonda (cruce circular)",
+      "es": "La glorieta",
       "translations": {
-        "en": "Roundabout / Traffic circle",
-        "pt": "Rotatória",
-        "fr": "Rond-point",
-        "it": "Rotonda"
+        "en": "The roundabout",
+        "pt": "A rotatória",
+        "fr": "Le rond-point",
+        "it": "La rotonda"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the roundabouts",
+        "fr": "Plural: les ronds-points",
+        "it": "Plural: le rotonde",
+        "pt": "Plural: as rotatórias"
+      }
     },
     {
       "id": "ci17",
-      "es": "Banqueta / Acera",
+      "es": "La banqueta",
       "translations": {
-        "en": "Sidewalk",
-        "pt": "Calçada",
-        "fr": "Trottoir",
-        "it": "Marciapiede"
+        "en": "The sidewalk",
+        "pt": "A calçada",
+        "fr": "Le trottoir",
+        "it": "Il marciapiede"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sidewalks",
+        "fr": "Plural: les trottoirs",
+        "it": "Plural: i marciapiedi",
+        "pt": "Plural: as calçadas"
+      }
     },
     {
       "id": "ci18",
-      "es": "Paso de peatones / Cruce peatonal",
+      "es": "El cruce peatonal",
       "translations": {
-        "en": "Crosswalk / Pedestrian crossing",
-        "pt": "Faixa de pedestres",
-        "fr": "Passage piéton",
-        "it": "Attraversamento pedonale / Strisce pedonali"
+        "en": "The crosswalk",
+        "pt": "A faixa de pedestres",
+        "fr": "Le passage piéton",
+        "it": "L'attraversamento pedonale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the crosswalks",
+        "fr": "Plural: les passages piétons",
+        "it": "Plural: gli attraversamenti pedonali",
+        "pt": "Plural: as faixas de pedestres"
+      }
     },
     {
       "id": "ci19",
-      "es": "Semáforo",
+      "es": "El semáforo",
       "translations": {
-        "en": "Traffic light",
-        "pt": "Semáforo / Sinal de trânsito",
-        "fr": "Feu de circulation / Feu tricolore",
-        "it": "Semaforo"
+        "en": "The traffic light",
+        "pt": "O semáforo",
+        "fr": "Le feu de circulation",
+        "it": "Il semaforo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the traffic lights",
+        "fr": "Plural: les feux de circulation",
+        "it": "Plural: i semafori",
+        "pt": "Plural: os semáforos"
+      }
     },
     {
       "id": "ci20",
-      "es": "Señal de tránsito / Señal de tráfico",
+      "es": "La señal de tránsito",
       "translations": {
-        "en": "Traffic sign / Road sign",
-        "pt": "Placa de trânsito",
-        "fr": "Panneau de signalisation",
-        "it": "Segnale stradale"
+        "en": "The traffic sign",
+        "pt": "A placa de trânsito",
+        "fr": "Le panneau de signalisation",
+        "it": "Il segnale stradale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the traffic signs",
+        "fr": "Plural: les panneaux de signalisation",
+        "it": "Plural: i segnali stradali",
+        "pt": "Plural: as placas de trânsito"
+      }
     },
     {
       "id": "ci21",
-      "es": "Puente",
+      "es": "El puente",
       "translations": {
-        "en": "Bridge",
-        "pt": "Ponte",
-        "fr": "Pont",
-        "it": "Ponte"
+        "en": "The bridge",
+        "pt": "A ponte",
+        "fr": "Le pont",
+        "it": "Il ponte"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bridges",
+        "fr": "Plural: les ponts",
+        "it": "Plural: i ponti",
+        "pt": "Plural: as pontes"
+      }
     },
     {
       "id": "ci22",
-      "es": "Túnel",
+      "es": "El túnel",
       "translations": {
-        "en": "Tunnel",
-        "pt": "Túnel",
-        "fr": "Tunnel",
-        "it": "Galleria / Tunnel"
+        "en": "The tunnel",
+        "pt": "O túnel",
+        "fr": "Le tunnel",
+        "it": "La galleria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the tunnels",
+        "fr": "Plural: les tunnels",
+        "it": "Plural: le gallerie",
+        "pt": "Plural: os túneis",
+        "es": "Paso subterráneo para vehículos; en italiano «galleria» también significa galería."
+      }
     },
     {
       "id": "ci23",
-      "es": "Paso subterráneo peatonal",
+      "es": "El paso subterráneo peatonal",
       "translations": {
-        "en": "Pedestrian underpass",
-        "pt": "Passagem subterrânea para pedestres",
-        "fr": "Passage souterrain piéton",
-        "it": "Sottopassaggio pedonale"
+        "en": "The pedestrian underpass",
+        "pt": "A passagem subterrânea para pedestres",
+        "fr": "Le passage souterrain piéton",
+        "it": "Il sottopassaggio pedonale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pedestrian underpasses",
+        "fr": "Plural: les passages souterrains piétons",
+        "it": "Plural: i sottopassaggi pedonali",
+        "pt": "Plural: as passagens subterrâneas para pedestres"
+      }
     },
     {
       "id": "ci24",
-      "es": "Pasarela / Puente peatonal",
+      "es": "El puente peatonal",
       "translations": {
-        "en": "Pedestrian bridge / Footbridge",
-        "pt": "Passarela",
-        "fr": "Passerelle piétonne",
-        "it": "Passerella pedonale"
+        "en": "The pedestrian bridge",
+        "pt": "A passarela",
+        "fr": "La passerelle piétonne",
+        "it": "La passerella pedonale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pedestrian bridges",
+        "fr": "Plural: les passerelles piétonnes",
+        "it": "Plural: le passerelle pedonali",
+        "pt": "Plural: as passarelas"
+      }
     },
     {
       "id": "ci25",
-      "es": "Carretera",
+      "es": "La carretera",
       "translations": {
-        "en": "Highway / Road",
-        "pt": "Estrada / Rodovia",
-        "fr": "Route",
-        "it": "Strada extraurbana"
+        "en": "The road",
+        "pt": "A estrada",
+        "fr": "La route",
+        "it": "La strada extraurbana"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the roads",
+        "fr": "Plural: les routes",
+        "it": "Plural: le strade extraurbane",
+        "pt": "Plural: as estradas"
+      }
     },
     {
       "id": "ci26",
-      "es": "Autopista",
+      "es": "La autopista",
       "translations": {
-        "en": "Freeway / Expressway",
-        "pt": "Autoestrada / Rodovia expressa",
-        "fr": "Autoroute",
-        "it": "Autostrada"
+        "en": "The freeway",
+        "pt": "A rodovia expressa",
+        "fr": "L'autoroute",
+        "it": "L'autostrada"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the freeways",
+        "fr": "Plural: les autoroutes",
+        "it": "Plural: le autostrade",
+        "pt": "Plural: as rodovias expressas"
+      }
     },
     {
       "id": "ci27",
-      "es": "Edificio",
+      "es": "El edificio",
       "translations": {
-        "en": "Building",
-        "pt": "Prédio / Edifício",
-        "fr": "Immeuble / Bâtiment",
-        "it": "Edificio / Palazzo"
+        "en": "The building",
+        "pt": "O prédio",
+        "fr": "Le bâtiment",
+        "it": "L'edificio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the buildings",
+        "fr": "Plural: les bâtiments",
+        "it": "Plural: gli edifici",
+        "pt": "Plural: os prédios"
+      }
     },
     {
       "id": "ci28",
-      "es": "Entrada (acceso a un lugar)",
+      "es": "La entrada",
       "translations": {
-        "en": "Entrance",
-        "pt": "Entrada",
-        "fr": "Entrée",
-        "it": "Ingresso / Entrata"
+        "en": "The entrance",
+        "pt": "A entrada",
+        "fr": "L'entrée",
+        "it": "L'ingresso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the entrances",
+        "fr": "Plural: les entrées",
+        "it": "Plural: gli ingressi",
+        "pt": "Plural: as entradas"
+      }
     },
     {
       "id": "ci29",
-      "es": "Salida (para salir de un lugar)",
+      "es": "La salida",
       "translations": {
-        "en": "Exit",
-        "pt": "Saída",
-        "fr": "Sortie",
-        "it": "Uscita"
+        "en": "The exit",
+        "pt": "A saída",
+        "fr": "La sortie",
+        "it": "L'uscita"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the exits",
+        "fr": "Plural: les sorties",
+        "it": "Plural: le uscite",
+        "pt": "Plural: as saídas"
+      }
     },
     {
       "id": "ci30",
-      "es": "Mapa / Plano de la ciudad",
+      "es": "El mapa de la ciudad",
       "translations": {
-        "en": "City map / Street map",
-        "pt": "Mapa da cidade",
-        "fr": "Plan de la ville",
-        "it": "Mappa della città / Piantina della città"
+        "en": "The city map",
+        "pt": "O mapa da cidade",
+        "fr": "Le plan de la ville",
+        "it": "La mappa della città"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the city maps",
+        "fr": "Plural: les plans de la ville",
+        "it": "Plural: le mappe della città",
+        "pt": "Plural: os mapas da cidade"
+      }
     },
     {
       "id": "ci31",
-      "es": "Dirección (calle y número)",
+      "es": "La dirección",
       "translations": {
-        "en": "Address",
-        "pt": "Endereço",
-        "fr": "Adresse",
-        "it": "Indirizzo"
+        "en": "The address",
+        "pt": "O endereço",
+        "fr": "L'adresse",
+        "it": "L'indirizzo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the addresses",
+        "fr": "Plural: les adresses",
+        "it": "Plural: gli indirizzi",
+        "pt": "Plural: os endereços"
+      }
     },
     {
       "id": "ci32",
-      "es": "Ruta / Camino (para llegar)",
+      "es": "La ruta",
       "translations": {
-        "en": "Route / Way",
-        "pt": "Rota / Caminho",
-        "fr": "Itinéraire / Chemin",
-        "it": "Percorso / Itinerario"
+        "en": "The route",
+        "pt": "A rota",
+        "fr": "L'itinéraire",
+        "it": "Il percorso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the routes",
+        "fr": "Plural: les itinéraires",
+        "it": "Plural: i percorsi",
+        "pt": "Plural: as rotas"
+      }
     },
     {
       "id": "ci33",
-      "es": "Punto de referencia (para orientarse)",
+      "es": "El punto de referencia",
       "translations": {
-        "en": "Landmark",
-        "pt": "Ponto de referência",
-        "fr": "Point de repère",
-        "it": "Punto di riferimento"
+        "en": "The landmark",
+        "pt": "O ponto de referência",
+        "fr": "Le point de repère",
+        "it": "Il punto di riferimento"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the landmarks",
+        "fr": "Plural: les points de repère",
+        "it": "Plural: i punti di riferimento",
+        "pt": "Plural: os pontos de referência"
+      }
     },
     {
       "id": "ci34",
-      "es": "Banca / Banco (asiento en un lugar público)",
+      "es": "La banca",
       "translations": {
-        "en": "Bench / Park bench",
-        "pt": "Banco de praça",
-        "fr": "Banc",
-        "it": "Panchina"
+        "en": "The bench",
+        "pt": "O banco de praça",
+        "fr": "Le banc",
+        "it": "La panchina"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the benches",
+        "fr": "Plural: les bancs",
+        "it": "Plural: le panchine",
+        "pt": "Plural: os bancos de praça",
+        "es": "Asiento público; no confundir con una institución financiera."
+      }
     },
     {
       "id": "ci35",
-      "es": "Buzón de correo",
+      "es": "El buzón de correo",
       "translations": {
-        "en": "Mailbox / Mail collection box",
-        "pt": "Caixa de correio",
-        "fr": "Boîte aux lettres",
-        "it": "Cassetta postale"
+        "en": "The public mailbox",
+        "pt": "A caixa de coleta de cartas",
+        "fr": "La boîte aux lettres de rue",
+        "it": "La cassetta postale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the public mailboxes",
+        "fr": "Plural: les boîtes aux lettres de rue «Boîte postale» suele referirse a un apartado postal.",
+        "it": "Plural: le cassette postali",
+        "pt": "Plural: as caixas de coleta de cartas",
+        "es": "Buzón público para depositar correspondencia. Buzón público para depositar correspondencia."
+      }
     },
     {
       "id": "ci36",
-      "es": "Teléfono público",
+      "es": "El teléfono público",
       "translations": {
-        "en": "Payphone / Public telephone",
-        "pt": "Telefone público / Orelhão",
-        "fr": "Téléphone public / Publiphone",
-        "it": "Telefono pubblico"
+        "en": "The payphone",
+        "pt": "O telefone público",
+        "fr": "Le téléphone public",
+        "it": "Il telefono pubblico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the payphones",
+        "fr": "Plural: les téléphones publics",
+        "it": "Plural: i telefoni pubblici",
+        "pt": "Plural: os telefones públicos"
+      }
     },
     {
       "id": "ci37",
-      "es": "Tienda / Comercio",
+      "es": "La tienda",
       "translations": {
-        "en": "Store / Shop",
-        "pt": "Loja / Comércio",
-        "fr": "Magasin / Boutique",
-        "it": "Negozio"
+        "en": "The store",
+        "pt": "A loja",
+        "fr": "Le magasin",
+        "it": "Il negozio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the stores",
+        "fr": "Plural: les magasins",
+        "it": "Plural: i negozi",
+        "pt": "Plural: as lojas"
+      }
     },
     {
       "id": "ci38",
-      "es": "Supermercado",
+      "es": "El supermercado",
       "translations": {
-        "en": "Supermarket",
-        "pt": "Supermercado",
-        "fr": "Supermarché",
-        "it": "Supermercato"
+        "en": "The supermarket",
+        "pt": "O supermercado",
+        "fr": "Le supermarché",
+        "it": "Il supermercato"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the supermarkets",
+        "fr": "Plural: les supermarchés",
+        "it": "Plural: i supermercati",
+        "pt": "Plural: os supermercados"
+      }
     },
     {
       "id": "ci39",
-      "es": "Tienda de abarrotes / Ultramarinos",
+      "es": "La tienda de abarrotes",
       "translations": {
-        "en": "Grocery store",
-        "pt": "Mercearia",
-        "fr": "Épicerie",
-        "it": "Negozio di alimentari / Alimentari"
+        "en": "The grocery store",
+        "pt": "A mercearia",
+        "fr": "L'épicerie",
+        "it": "Il negozio di alimentari"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the grocery stores",
+        "fr": "Plural: les épiceries",
+        "it": "Plural: i negozi di alimentari",
+        "pt": "Plural: as mercearias"
+      }
     },
     {
       "id": "ci40",
-      "es": "Tienda de conveniencia",
+      "es": "La tienda de conveniencia",
       "translations": {
-        "en": "Convenience store",
-        "pt": "Loja de conveniência",
-        "fr": "Supérette / Magasin de proximité",
-        "it": "Minimarket / Negozio di vicinato"
+        "en": "The convenience store",
+        "pt": "A loja de conveniência",
+        "fr": "La supérette",
+        "it": "Il minimarket"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the convenience stores",
+        "fr": "Plural: les supérettes",
+        "it": "Plural: i minimarket",
+        "pt": "Plural: as lojas de conveniência"
+      }
     },
     {
       "id": "ci41",
-      "es": "Mercado",
+      "es": "El mercado",
       "translations": {
-        "en": "Market",
-        "pt": "Mercado",
-        "fr": "Marché",
-        "it": "Mercato"
+        "en": "The market",
+        "pt": "O mercado",
+        "fr": "Le marché",
+        "it": "Il mercato"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the markets",
+        "fr": "Plural: les marchés",
+        "it": "Plural: i mercati",
+        "pt": "Plural: os mercados"
+      }
     },
     {
       "id": "ci42",
-      "es": "Mercado al aire libre / Tianguis",
+      "es": "El tianguis",
       "translations": {
-        "en": "Open-air market / Street market",
-        "pt": "Feira livre / Mercado de rua",
-        "fr": "Marché en plein air",
-        "it": "Mercato all'aperto"
+        "en": "The open-air market",
+        "pt": "A feira livre",
+        "fr": "Le marché en plein air",
+        "it": "Il mercato all'aperto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the open-air markets",
+        "fr": "Plural: les marchés en plein air",
+        "it": "Plural: i mercati all'aperto",
+        "pt": "Plural: as feiras livres"
+      }
     },
     {
       "id": "ci43",
-      "es": "Mercado de productores locales",
+      "es": "El mercado de productores locales",
       "translations": {
-        "en": "Farmers' market",
-        "pt": "Feira de produtores locais",
-        "fr": "Marché de producteurs",
-        "it": "Mercato dei produttori locali"
+        "en": "The farmers' market",
+        "pt": "A feira de produtores locais",
+        "fr": "Le marché de producteurs",
+        "it": "Il mercato dei produttori locali"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the farmers' markets",
+        "fr": "Plural: les marchés de producteurs",
+        "it": "Plural: i mercati dei produttori locali",
+        "pt": "Plural: as feiras de produtores locais"
+      }
     },
     {
       "id": "ci44",
-      "es": "Puesto de mercado",
+      "es": "El puesto de mercado",
       "translations": {
-        "en": "Market stall",
-        "pt": "Banca de feira",
-        "fr": "Étal de marché",
-        "it": "Bancarella del mercato"
+        "en": "The market stall",
+        "pt": "A banca de feira",
+        "fr": "L'étal de marché",
+        "it": "La bancarella del mercato"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the market stalls",
+        "fr": "Plural: les étals de marché",
+        "it": "Plural: le bancarelle del mercato",
+        "pt": "Plural: as bancas de feira"
+      }
     },
     {
       "id": "ci45",
-      "es": "Carnicería",
+      "es": "La carnicería",
       "translations": {
-        "en": "Butcher shop / Meat market",
-        "pt": "Açougue",
-        "fr": "Boucherie",
-        "it": "Macelleria"
+        "en": "The butcher shop",
+        "pt": "O açougue",
+        "fr": "La boucherie",
+        "it": "La macelleria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the butcher shops",
+        "fr": "Plural: les boucheries",
+        "it": "Plural: le macellerie",
+        "pt": "Plural: os açougues"
+      }
     },
     {
       "id": "ci46",
-      "es": "Pollería (venta de pollo crudo)",
+      "es": "La pollería",
       "translations": {
-        "en": "Poultry shop",
-        "pt": "Loja de aves / Açougue de aves",
-        "fr": "Volaillerie",
-        "it": "Polleria / Negozio di pollame"
+        "en": "The poultry shop",
+        "pt": "O açougue de aves",
+        "fr": "La volaillerie",
+        "it": "La polleria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the poultry shops",
+        "fr": "Plural: les volailleries",
+        "it": "Plural: le pollerie",
+        "pt": "Plural: os açougues de aves",
+        "es": "Comercio de pollo crudo; no establecimiento de pollo preparado."
+      }
     },
     {
       "id": "ci47",
-      "es": "Pescadería",
+      "es": "La pescadería",
       "translations": {
-        "en": "Fish market / Fish shop",
-        "pt": "Peixaria",
-        "fr": "Poissonnerie",
-        "it": "Pescheria"
+        "en": "The fish shop",
+        "pt": "A peixaria",
+        "fr": "La poissonnerie",
+        "it": "La pescheria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the fish shops",
+        "fr": "Plural: les poissonneries",
+        "it": "Plural: le pescherie",
+        "pt": "Plural: as peixarias"
+      }
     },
     {
       "id": "ci48",
-      "es": "Frutería / Verdulería",
+      "es": "La frutería",
       "translations": {
-        "en": "Produce store / Fruit and vegetable store",
-        "pt": "Hortifrúti / Quitanda / Sacolão",
-        "fr": "Magasin de fruits et légumes / Primeur",
-        "it": "Negozio di frutta e verdura / Ortofrutta"
+        "en": "The produce store",
+        "pt": "O hortifrúti",
+        "fr": "Le magasin de fruits et légumes",
+        "it": "Il negozio di frutta e verdura"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the produce stores",
+        "fr": "Plural: les magasins de fruits et légumes",
+        "it": "Plural: i negozi di frutta e verdura",
+        "pt": "Plural: os hortifrútis"
+      }
     },
     {
       "id": "ci49",
-      "es": "Panadería",
+      "es": "La panadería",
       "translations": {
-        "en": "Bakery",
-        "pt": "Padaria",
-        "fr": "Boulangerie",
-        "it": "Panificio / Panetteria"
+        "en": "The bakery",
+        "pt": "A padaria",
+        "fr": "La boulangerie",
+        "it": "Il panificio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bakeries",
+        "fr": "Plural: les boulangeries",
+        "it": "Plural: i panifici",
+        "pt": "Plural: as padarias"
+      }
     },
     {
       "id": "ci50",
-      "es": "Pastelería / Confitería",
+      "es": "La pastelería",
       "translations": {
-        "en": "Pastry shop / Cake shop",
-        "pt": "Confeitaria",
-        "fr": "Pâtisserie",
-        "it": "Pasticceria"
+        "en": "The pastry shop",
+        "pt": "A confeitaria",
+        "fr": "La pâtisserie",
+        "it": "La pasticceria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pastry shops",
+        "fr": "Plural: les pâtisseries",
+        "it": "Plural: le pasticcerie",
+        "pt": "Plural: as confeitarias"
+      }
     },
     {
       "id": "ci51",
-      "es": "Tienda de quesos / Quesería (venta)",
+      "es": "La quesería",
       "translations": {
-        "en": "Cheese shop",
-        "pt": "Queijaria",
-        "fr": "Fromagerie",
-        "it": "Negozio di formaggi"
+        "en": "The cheese shop",
+        "pt": "A loja de queijos",
+        "fr": "La fromagerie",
+        "it": "Il negozio di formaggi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cheese shops",
+        "fr": "Plural: les fromageries",
+        "it": "Plural: i negozi di formaggi",
+        "pt": "Plural: as lojas de queijos"
+      }
     },
     {
       "id": "ci52",
-      "es": "Charcutería / Tienda de embutidos",
+      "es": "La charcutería",
       "translations": {
-        "en": "Deli / Delicatessen",
-        "pt": "Loja de frios e embutidos",
-        "fr": "Charcuterie",
-        "it": "Salumeria"
+        "en": "The delicatessen",
+        "pt": "A loja de frios e embutidos",
+        "fr": "La charcuterie",
+        "it": "La salumeria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the delicatessens",
+        "fr": "Plural: les charcuteries",
+        "it": "Plural: le salumerie",
+        "pt": "Plural: as lojas de frios e embutidos"
+      }
     },
     {
       "id": "ci53",
-      "es": "Chocolatería (tienda de chocolates)",
+      "es": "La chocolatería",
       "translations": {
-        "en": "Chocolate shop",
-        "pt": "Chocolateria / Loja de chocolates",
-        "fr": "Chocolaterie",
-        "it": "Cioccolateria"
+        "en": "The chocolate shop",
+        "pt": "A chocolateria",
+        "fr": "La chocolaterie",
+        "it": "La cioccolateria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the chocolate shops",
+        "fr": "Plural: les chocolateries",
+        "it": "Plural: le cioccolaterie",
+        "pt": "Plural: as chocolaterias"
+      }
     },
     {
       "id": "ci54",
-      "es": "Dulcería / Tienda de dulces",
+      "es": "La dulcería",
       "translations": {
-        "en": "Candy store / Sweet shop",
-        "pt": "Loja de doces",
-        "fr": "Confiserie",
-        "it": "Negozio di dolciumi"
+        "en": "The candy store",
+        "pt": "A loja de doces",
+        "fr": "La confiserie",
+        "it": "Il negozio di dolciumi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the candy stores",
+        "fr": "Plural: les confiseries",
+        "it": "Plural: i negozi di dolciumi",
+        "pt": "Plural: as lojas de doces"
+      }
     },
     {
       "id": "ci55",
-      "es": "Heladería / Nevería",
+      "es": "La heladería",
       "translations": {
-        "en": "Ice cream shop / Ice cream parlor",
-        "pt": "Sorveteria",
-        "fr": "Glacier / Marchand de glaces",
-        "it": "Gelateria"
+        "en": "The ice cream shop",
+        "pt": "A sorveteria",
+        "fr": "Le glacier",
+        "it": "La gelateria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ice cream shops",
+        "fr": "Plural: les glaciers",
+        "it": "Plural: le gelaterie",
+        "pt": "Plural: as sorveterias"
+      }
     },
     {
       "id": "ci56",
-      "es": "Tienda de alimentos orgánicos",
+      "es": "La tienda de alimentos orgánicos",
       "translations": {
-        "en": "Organic food store",
-        "pt": "Loja de alimentos orgânicos",
-        "fr": "Magasin bio",
-        "it": "Negozio di alimenti biologici"
+        "en": "The organic food store",
+        "pt": "A loja de alimentos orgânicos",
+        "fr": "Le magasin bio",
+        "it": "Il negozio di alimenti biologici"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the organic food stores",
+        "fr": "Plural: les magasins bio",
+        "it": "Plural: i negozi di alimenti biologici",
+        "pt": "Plural: as lojas de alimentos orgânicos"
+      }
     },
     {
       "id": "ci57",
-      "es": "Restaurante",
+      "es": "El restaurante",
       "translations": {
-        "en": "Restaurant",
-        "pt": "Restaurante",
-        "fr": "Restaurant",
-        "it": "Ristorante"
+        "en": "The restaurant",
+        "pt": "O restaurante",
+        "fr": "Le restaurant",
+        "it": "Il ristorante"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the restaurants",
+        "fr": "Plural: les restaurants",
+        "it": "Plural: i ristoranti",
+        "pt": "Plural: os restaurantes"
+      }
     },
     {
       "id": "ci58",
-      "es": "Cafetería (para tomar café)",
+      "es": "La cafetería",
       "translations": {
-        "en": "Coffee shop / Café",
-        "pt": "Cafeteria / Café",
-        "fr": "Café",
-        "it": "Caffetteria / Bar"
+        "en": "The coffee shop",
+        "pt": "A cafeteria",
+        "fr": "Le café",
+        "it": "La caffetteria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the coffee shops",
+        "fr": "Plural: les cafés",
+        "it": "Plural: le caffetterie",
+        "pt": "Plural: as cafeterias"
+      }
     },
     {
       "id": "ci59",
-      "es": "Bar / Pub",
+      "es": "El bar",
       "translations": {
-        "en": "Bar / Pub",
-        "pt": "Bar / Pub",
-        "fr": "Bar / Pub",
-        "it": "Bar / Pub"
+        "en": "The bar",
+        "pt": "O bar",
+        "fr": "Le bar",
+        "it": "Il bar"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bars",
+        "fr": "Plural: les bars",
+        "it": "Plural: i bar",
+        "pt": "Plural: os bares"
+      }
     },
     {
       "id": "ci60",
-      "es": "Cervecería (bar especializado en cerveza)",
+      "es": "El bar de cervezas",
       "translations": {
-        "en": "Beer bar",
-        "pt": "Bar de cervejas",
-        "fr": "Bar à bières",
-        "it": "Birreria"
+        "en": "The beer bar",
+        "pt": "O bar especializado em cerveja",
+        "fr": "Le bar à bières",
+        "it": "La birreria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the beer bars",
+        "fr": "Plural: les bars à bières",
+        "it": "Plural: le birrerie",
+        "pt": "Plural: os bares especializados em cerveja",
+        "es": "Establecimiento que sirve cerveza, distinto de una fábrica."
+      }
     },
     {
       "id": "ci61",
-      "es": "Cervecería (fábrica de cerveza)",
+      "es": "La fábrica de cerveza",
       "translations": {
-        "en": "Brewery",
-        "pt": "Cervejaria",
-        "fr": "Brasserie",
-        "it": "Birrificio"
+        "en": "The brewery",
+        "pt": "A cervejaria",
+        "fr": "La brasserie",
+        "it": "Il birrificio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the breweries",
+        "fr": "Plural: les brasseries «Brasserie» también puede significar restaurante.",
+        "it": "Plural: i birrifici",
+        "pt": "Plural: as cervejarias",
+        "es": "Lugar donde se produce cerveza, distinto del bar."
+      }
     },
     {
       "id": "ci62",
-      "es": "Restaurante de comida rápida",
+      "es": "El restaurante de comida rápida",
       "translations": {
-        "en": "Fast-food restaurant",
-        "pt": "Restaurante de fast-food",
-        "fr": "Restaurant de restauration rapide / Fast-food",
-        "it": "Fast food"
+        "en": "The fast-food restaurant",
+        "pt": "O restaurante de comida rápida",
+        "fr": "Le restaurant de restauration rapide",
+        "it": "Il fast food"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the fast-food restaurants",
+        "fr": "Plural: les restaurants de restauration rapide",
+        "it": "Plural: i fast food",
+        "pt": "Plural: os restaurantes de comida rápida"
+      }
     },
     {
       "id": "ci63",
-      "es": "Pizzería",
+      "es": "La pizzería",
       "translations": {
-        "en": "Pizzeria / Pizza restaurant",
-        "pt": "Pizzaria",
-        "fr": "Pizzeria",
-        "it": "Pizzeria"
+        "en": "The pizzeria",
+        "pt": "A pizzaria",
+        "fr": "La pizzeria",
+        "it": "La pizzeria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pizzerias",
+        "fr": "Plural: les pizzerias",
+        "it": "Plural: le pizzerie",
+        "pt": "Plural: as pizzarias"
+      }
     },
     {
       "id": "ci64",
-      "es": "Restaurante de comida para llevar",
+      "es": "El restaurante de comida para llevar",
       "translations": {
-        "en": "Takeout restaurant",
-        "pt": "Restaurante de comida para viagem",
-        "fr": "Restaurant de vente à emporter",
-        "it": "Ristorante da asporto"
+        "en": "The takeout restaurant",
+        "pt": "O restaurante de comida para viagem",
+        "fr": "Le restaurant de plats à emporter",
+        "it": "Il ristorante da asporto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the takeout restaurants",
+        "fr": "Plural: les restaurants de plats à emporter",
+        "it": "Plural: i ristoranti da asporto",
+        "pt": "Plural: os restaurantes de comida para viagem"
+      }
     },
     {
       "id": "ci65",
-      "es": "Camión de comida / Food truck",
+      "es": "El camión de comida",
       "translations": {
-        "en": "Food truck",
-        "pt": "Food truck / Caminhão de comida",
-        "fr": "Food truck / Camion-restaurant",
-        "it": "Food truck / Camioncino del cibo"
+        "en": "The food truck",
+        "pt": "O food truck",
+        "fr": "Le food truck",
+        "it": "Il food truck"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the food trucks",
+        "fr": "Plural: les food trucks",
+        "it": "Plural: i food truck",
+        "pt": "Plural: os food trucks"
+      }
     },
     {
       "id": "ci66",
-      "es": "Patio de comidas / Zona de restaurantes",
+      "es": "El patio de comidas",
       "translations": {
-        "en": "Food court",
-        "pt": "Praça de alimentação",
-        "fr": "Espace de restauration",
-        "it": "Area ristorazione"
+        "en": "The food court",
+        "pt": "A praça de alimentação",
+        "fr": "L'espace de restauration",
+        "it": "L'area ristorazione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the food courts",
+        "fr": "Plural: les espaces de restauration",
+        "it": "Plural: le aree ristorazione",
+        "pt": "Plural: as praças de alimentação"
+      }
     },
     {
       "id": "ci67",
-      "es": "Licorería / Tienda de bebidas alcohólicas",
+      "es": "La licorería",
       "translations": {
-        "en": "Liquor store",
-        "pt": "Loja de bebidas alcoólicas",
-        "fr": "Magasin de boissons alcoolisées",
-        "it": "Negozio di alcolici"
+        "en": "The liquor store",
+        "pt": "A loja de bebidas alcoólicas",
+        "fr": "Le magasin de boissons alcoolisées",
+        "it": "Il negozio di alcolici"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the liquor stores",
+        "fr": "Plural: les magasins de boissons alcoolisées",
+        "it": "Plural: i negozi di alcolici",
+        "pt": "Plural: as lojas de bebidas alcoólicas"
+      }
     },
     {
       "id": "ci68",
-      "es": "Vinoteca / Tienda de vinos",
+      "es": "La tienda de vinos",
       "translations": {
-        "en": "Wine shop",
-        "pt": "Adega / Loja de vinhos",
-        "fr": "Cave à vins / Caviste",
-        "it": "Enoteca"
+        "en": "The wine shop",
+        "pt": "A loja de vinhos",
+        "fr": "La cave à vins",
+        "it": "L'enoteca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the wine shops",
+        "fr": "Plural: les caves à vins",
+        "it": "Plural: le enoteche",
+        "pt": "Plural: as lojas de vinhos"
+      }
     },
     {
       "id": "ci69",
-      "es": "Centro comercial / Plaza comercial",
+      "es": "El centro comercial",
       "translations": {
-        "en": "Shopping mall / Mall",
-        "pt": "Shopping / Shopping center",
-        "fr": "Centre commercial",
-        "it": "Centro commerciale"
+        "en": "The shopping mall",
+        "pt": "O shopping center",
+        "fr": "Le centre commercial",
+        "it": "Il centro commerciale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the shopping malls",
+        "fr": "Plural: les centres commerciaux",
+        "it": "Plural: i centri commerciali",
+        "pt": "Plural: os shopping centers"
+      }
     },
     {
       "id": "ci70",
-      "es": "Tienda departamental / Grandes almacenes",
+      "es": "La tienda departamental",
       "translations": {
-        "en": "Department store",
-        "pt": "Loja de departamentos",
-        "fr": "Grand magasin",
-        "it": "Grande magazzino"
+        "en": "The department store",
+        "pt": "A loja de departamentos",
+        "fr": "Le grand magasin",
+        "it": "Il grande magazzino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the department stores",
+        "fr": "Plural: les grands magasins",
+        "it": "Plural: i grandi magazzini",
+        "pt": "Plural: as lojas de departamentos"
+      }
     },
     {
       "id": "ci71",
-      "es": "Tienda outlet (venta de excedentes o colecciones anteriores)",
+      "es": "La tienda outlet",
       "translations": {
-        "en": "Outlet store / Factory outlet",
-        "pt": "Loja outlet",
-        "fr": "Magasin d'usine / Magasin outlet",
-        "it": "Outlet / Spaccio aziendale"
+        "en": "The outlet store",
+        "pt": "A loja outlet",
+        "fr": "Le magasin d'usine",
+        "it": "L'outlet"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the outlet stores",
+        "fr": "Plural: les magasins d'usine",
+        "it": "Plural: gli outlet",
+        "pt": "Plural: as lojas outlet"
+      }
     },
     {
       "id": "ci72",
-      "es": "Tienda libre de impuestos / Duty-free",
+      "es": "La tienda libre de impuestos",
       "translations": {
-        "en": "Duty-free shop / Duty-free store",
-        "pt": "Loja duty-free / Loja franca",
-        "fr": "Boutique hors taxes / Duty free",
-        "it": "Negozio duty-free"
+        "en": "The duty-free shop",
+        "pt": "A loja franca",
+        "fr": "La boutique hors taxes",
+        "it": "Il negozio duty-free"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the duty-free shops",
+        "fr": "Plural: les boutiques hors taxes",
+        "it": "Plural: i negozi duty-free",
+        "pt": "Plural: as lojas francas"
+      }
     },
     {
       "id": "ci73",
-      "es": "Tienda de ropa / Boutique de ropa",
+      "es": "La tienda de ropa",
       "translations": {
-        "en": "Clothing store / Clothing boutique",
-        "pt": "Loja de roupas / Boutique de roupas",
-        "fr": "Magasin de vêtements / Boutique de vêtements",
-        "it": "Negozio di abbigliamento"
+        "en": "The clothing store",
+        "pt": "A loja de roupas",
+        "fr": "Le magasin de vêtements",
+        "it": "Il negozio di abbigliamento"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the clothing stores",
+        "fr": "Plural: les magasins de vêtements",
+        "it": "Plural: i negozi di abbigliamento",
+        "pt": "Plural: as lojas de roupas"
+      }
     },
     {
       "id": "ci74",
-      "es": "Zapatería (venta de calzado)",
+      "es": "La zapatería",
       "translations": {
-        "en": "Shoe store",
-        "pt": "Loja de calçados",
-        "fr": "Magasin de chaussures",
-        "it": "Negozio di scarpe / Negozio di calzature"
+        "en": "The shoe store",
+        "pt": "A loja de calçados",
+        "fr": "Le magasin de chaussures",
+        "it": "Il negozio di scarpe"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the shoe stores",
+        "fr": "Plural: les magasins de chaussures",
+        "it": "Plural: i negozi di scarpe",
+        "pt": "Plural: as lojas de calçados"
+      }
     },
     {
       "id": "ci75",
-      "es": "Tienda de ropa interior",
+      "es": "La tienda de ropa interior",
       "translations": {
-        "en": "Underwear store / Lingerie store",
-        "pt": "Loja de roupas íntimas",
-        "fr": "Magasin de sous-vêtements / Boutique de lingerie",
-        "it": "Negozio di intimo"
+        "en": "The underwear store",
+        "pt": "A loja de roupas íntimas",
+        "fr": "Le magasin de sous-vêtements",
+        "it": "Il negozio di intimo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the underwear stores",
+        "fr": "Plural: les magasins de sous-vêtements",
+        "it": "Plural: i negozi di intimo",
+        "pt": "Plural: as lojas de roupas íntimas"
+      }
     },
     {
       "id": "ci76",
-      "es": "Tienda de artículos deportivos",
+      "es": "La tienda de artículos deportivos",
       "translations": {
-        "en": "Sporting goods store",
-        "pt": "Loja de artigos esportivos",
-        "fr": "Magasin de sport",
-        "it": "Negozio di articoli sportivi"
+        "en": "The sporting goods store",
+        "pt": "A loja de artigos esportivos",
+        "fr": "Le magasin de sport",
+        "it": "Il negozio di articoli sportivi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sporting goods stores",
+        "fr": "Plural: les magasins de sport",
+        "it": "Plural: i negozi di articoli sportivi",
+        "pt": "Plural: as lojas de artigos esportivos"
+      }
     },
     {
       "id": "ci77",
-      "es": "Tienda de equipaje / Maletas",
+      "es": "La tienda de equipaje",
       "translations": {
-        "en": "Luggage store",
-        "pt": "Loja de malas",
-        "fr": "Magasin de bagages",
-        "it": "Negozio di valigie"
+        "en": "The luggage store",
+        "pt": "A loja de malas",
+        "fr": "Le magasin de bagages",
+        "it": "Il negozio di valigie"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the luggage stores",
+        "fr": "Plural: les magasins de bagages",
+        "it": "Plural: i negozi di valigie",
+        "pt": "Plural: as lojas de malas"
+      }
     },
     {
       "id": "ci78",
-      "es": "Tienda de accesorios",
+      "es": "La tienda de accesorios",
       "translations": {
-        "en": "Accessories store",
-        "pt": "Loja de acessórios",
-        "fr": "Magasin d'accessoires",
-        "it": "Negozio di accessori"
+        "en": "The accessories store",
+        "pt": "A loja de acessórios",
+        "fr": "Le magasin d'accessoires",
+        "it": "Il negozio di accessori"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the accessories stores",
+        "fr": "Plural: les magasins d'accessoires",
+        "it": "Plural: i negozi di accessori",
+        "pt": "Plural: as lojas de acessórios"
+      }
     },
     {
       "id": "ci79",
-      "es": "Joyería",
+      "es": "La joyería",
       "translations": {
-        "en": "Jewelry store",
-        "pt": "Joalheria",
-        "fr": "Bijouterie / Joaillerie",
-        "it": "Gioielleria"
+        "en": "The jewelry store",
+        "pt": "A joalheria",
+        "fr": "La bijouterie",
+        "it": "La gioielleria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the jewelry stores",
+        "fr": "Plural: les bijouteries",
+        "it": "Plural: le gioiellerie",
+        "pt": "Plural: as joalherias"
+      }
     },
     {
       "id": "ci80",
-      "es": "Relojería (venta y reparación de relojes)",
+      "es": "La relojería",
       "translations": {
-        "en": "Watch shop / Watch repair shop",
-        "pt": "Relojoaria",
-        "fr": "Horlogerie",
-        "it": "Orologeria"
+        "en": "The watch shop",
+        "pt": "A relojoaria",
+        "fr": "L'horlogerie",
+        "it": "L'orologeria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the watch shops",
+        "fr": "Plural: les horlogeries",
+        "it": "Plural: le orologerie",
+        "pt": "Plural: as relojoarias"
+      }
     },
     {
       "id": "ci81",
-      "es": "Perfumería",
+      "es": "La perfumería",
       "translations": {
-        "en": "Perfume shop / Perfume store",
-        "pt": "Perfumaria",
-        "fr": "Parfumerie",
-        "it": "Profumeria"
+        "en": "The perfume shop",
+        "pt": "A perfumaria",
+        "fr": "La parfumerie",
+        "it": "La profumeria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the perfume shops",
+        "fr": "Plural: les parfumeries",
+        "it": "Plural: le profumerie",
+        "pt": "Plural: as perfumarias"
+      }
     },
     {
       "id": "ci82",
-      "es": "Tienda de cosméticos / Maquillaje",
+      "es": "La tienda de cosméticos",
       "translations": {
-        "en": "Cosmetics store / Beauty store",
-        "pt": "Loja de cosméticos",
-        "fr": "Magasin de cosmétiques",
-        "it": "Negozio di cosmetici"
+        "en": "The cosmetics store",
+        "pt": "A loja de cosméticos",
+        "fr": "Le magasin de cosmétiques",
+        "it": "Il negozio di cosmetici"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cosmetics stores",
+        "fr": "Plural: les magasins de cosmétiques",
+        "it": "Plural: i negozi di cosmetici",
+        "pt": "Plural: as lojas de cosméticos"
+      }
     },
     {
       "id": "ci83",
-      "es": "Parafarmacia (productos de higiene y cuidado personal)",
+      "es": "La parafarmacia",
       "translations": {
-        "en": "Health and beauty store",
-        "pt": "Loja de produtos de higiene e cuidados pessoais",
-        "fr": "Parapharmacie",
-        "it": "Parafarmacia"
+        "en": "The health and beauty store",
+        "pt": "A parafarmácia",
+        "fr": "La parapharmacie",
+        "it": "La parafarmacia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the health and beauty stores",
+        "fr": "Plural: les parapharmacies",
+        "it": "Plural: le parafarmacie",
+        "pt": "Plural: as parafarmácias",
+        "es": "Productos de cuidado y salud sin ser una farmacia con medicamentos sujetos a receta. El establecimiento puede vender productos sin receta, pero no equivale necesariamente a una farmacia."
+      }
     },
     {
       "id": "ci84",
-      "es": "Óptica (venta de lentes)",
+      "es": "La óptica",
       "translations": {
-        "en": "Optical store / Optician's shop",
-        "pt": "Ótica",
-        "fr": "Magasin d'optique / Opticien",
-        "it": "Negozio di ottica / Ottica"
+        "en": "The optical store",
+        "pt": "A ótica",
+        "fr": "Le magasin d'optique",
+        "it": "Il negozio di ottica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the optical stores",
+        "fr": "Plural: les magasins d'optique",
+        "it": "Plural: i negozi di ottica",
+        "pt": "Plural: as óticas"
+      }
     },
     {
       "id": "ci85",
-      "es": "Farmacia",
+      "es": "La farmacia",
       "translations": {
-        "en": "Pharmacy / Drugstore",
-        "pt": "Farmácia / Drogaria",
-        "fr": "Pharmacie",
-        "it": "Farmacia"
+        "en": "The pharmacy",
+        "pt": "A farmácia",
+        "fr": "La pharmacie",
+        "it": "La farmacia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pharmacies",
+        "fr": "Plural: les pharmacies",
+        "it": "Plural: le farmacie",
+        "pt": "Plural: as farmácias"
+      }
     },
     {
       "id": "ci86",
-      "es": "Librería (venta de libros)",
+      "es": "La librería",
       "translations": {
-        "en": "Bookstore / Bookshop",
-        "pt": "Livraria",
-        "fr": "Librairie",
-        "it": "Libreria"
+        "en": "The bookstore",
+        "pt": "A livraria",
+        "fr": "La librairie",
+        "it": "La libreria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bookstores",
+        "fr": "Plural: les librairies «Librairie» es tienda de libros; «bibliothèque» es biblioteca.",
+        "it": "Plural: le librerie «Libreria» es tienda de libros; «biblioteca» es biblioteca.",
+        "pt": "Plural: as livrarias"
+      }
     },
     {
       "id": "ci87",
-      "es": "Papelería",
+      "es": "La papelería",
       "translations": {
-        "en": "Stationery store / Office supply store",
-        "pt": "Papelaria",
-        "fr": "Papeterie",
-        "it": "Cartoleria"
+        "en": "The stationery store",
+        "pt": "A papelaria",
+        "fr": "La papeterie",
+        "it": "La cartoleria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the stationery stores",
+        "fr": "Plural: les papeteries",
+        "it": "Plural: le cartolerie",
+        "pt": "Plural: as papelarias"
+      }
     },
     {
       "id": "ci88",
-      "es": "Tienda de electrónica",
+      "es": "La tienda de electrónica",
       "translations": {
-        "en": "Electronics store",
-        "pt": "Loja de eletrônicos",
-        "fr": "Magasin d'électronique",
-        "it": "Negozio di elettronica"
+        "en": "The electronics store",
+        "pt": "A loja de eletrônicos",
+        "fr": "Le magasin d'électronique",
+        "it": "Il negozio di elettronica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the electronics stores",
+        "fr": "Plural: les magasins d'électronique",
+        "it": "Plural: i negozi di elettronica",
+        "pt": "Plural: as lojas de eletrônicos"
+      }
     },
     {
       "id": "ci89",
-      "es": "Tienda de celulares / Telefonía móvil",
+      "es": "La tienda de celulares",
       "translations": {
-        "en": "Cell phone store / Mobile phone store",
-        "pt": "Loja de celulares",
-        "fr": "Boutique de téléphonie mobile",
-        "it": "Negozio di telefonia"
+        "en": "The cell phone store",
+        "pt": "A loja de celulares",
+        "fr": "La boutique de téléphonie mobile",
+        "it": "Il negozio di telefonia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cell phone stores",
+        "fr": "Plural: les boutiques de téléphonie mobile",
+        "it": "Plural: i negozi di telefonia",
+        "pt": "Plural: as lojas de celulares"
+      }
     },
     {
       "id": "ci90",
-      "es": "Tienda de computación",
+      "es": "La tienda de computación",
       "translations": {
-        "en": "Computer store",
-        "pt": "Loja de informática",
-        "fr": "Magasin d'informatique",
-        "it": "Negozio di informatica"
+        "en": "The computer store",
+        "pt": "A loja de informática",
+        "fr": "Le magasin d'informatique",
+        "it": "Il negozio di informatica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the computer stores",
+        "fr": "Plural: les magasins d'informatique",
+        "it": "Plural: i negozi di informatica",
+        "pt": "Plural: as lojas de informática"
+      }
     },
     {
       "id": "ci91",
-      "es": "Tienda de fotografía / Cámaras",
+      "es": "La tienda de cámaras",
       "translations": {
-        "en": "Camera store / Photography store",
-        "pt": "Loja de fotografia",
-        "fr": "Magasin de photographie",
-        "it": "Negozio di fotografia"
+        "en": "The camera store",
+        "pt": "A loja de fotografia",
+        "fr": "Le magasin de photographie",
+        "it": "Il negozio di fotografia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the camera stores",
+        "fr": "Plural: les magasins de photographie",
+        "it": "Plural: i negozi di fotografia",
+        "pt": "Plural: as lojas de fotografia"
+      }
     },
     {
       "id": "ci92",
-      "es": "Ferretería",
+      "es": "La ferretería",
       "translations": {
-        "en": "Hardware store",
-        "pt": "Loja de ferragens",
-        "fr": "Quincaillerie",
-        "it": "Ferramenta / Negozio di ferramenta"
+        "en": "The hardware store",
+        "pt": "A loja de ferragens",
+        "fr": "La quincaillerie",
+        "it": "La ferramenta"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hardware stores",
+        "fr": "Plural: les quincailleries",
+        "it": "Plural: le ferramente",
+        "pt": "Plural: as lojas de ferragens"
+      }
     },
     {
       "id": "ci93",
-      "es": "Tienda de artículos para el hogar",
+      "es": "La tienda de artículos para el hogar",
       "translations": {
-        "en": "Home goods store / Housewares store",
-        "pt": "Loja de artigos para casa",
-        "fr": "Magasin d'articles ménagers",
-        "it": "Negozio di articoli per la casa"
+        "en": "The home goods store",
+        "pt": "A loja de artigos para casa",
+        "fr": "Le magasin d'articles ménagers",
+        "it": "Il negozio di articoli per la casa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the home goods stores",
+        "fr": "Plural: les magasins d'articles ménagers",
+        "it": "Plural: i negozi di articoli per la casa",
+        "pt": "Plural: as lojas de artigos para casa"
+      }
     },
     {
       "id": "ci94",
-      "es": "Tienda de muebles / Mueblería",
+      "es": "La mueblería",
       "translations": {
-        "en": "Furniture store",
-        "pt": "Loja de móveis",
-        "fr": "Magasin de meubles",
-        "it": "Negozio di mobili"
+        "en": "The furniture store",
+        "pt": "A loja de móveis",
+        "fr": "Le magasin de meubles",
+        "it": "Il negozio di mobili"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the furniture stores",
+        "fr": "Plural: les magasins de meubles",
+        "it": "Plural: i negozi di mobili",
+        "pt": "Plural: as lojas de móveis"
+      }
     },
     {
       "id": "ci95",
-      "es": "Tienda de electrodomésticos",
+      "es": "La tienda de electrodomésticos",
       "translations": {
-        "en": "Appliance store",
-        "pt": "Loja de eletrodomésticos",
-        "fr": "Magasin d'électroménager",
-        "it": "Negozio di elettrodomestici"
+        "en": "The appliance store",
+        "pt": "A loja de eletrodomésticos",
+        "fr": "Le magasin d'électroménager",
+        "it": "Il negozio di elettrodomestici"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the appliance stores",
+        "fr": "Plural: les magasins d'électroménager",
+        "it": "Plural: i negozi di elettrodomestici",
+        "pt": "Plural: as lojas de eletrodomésticos"
+      }
     },
     {
       "id": "ci96",
-      "es": "Tienda de productos de limpieza",
+      "es": "La tienda de productos de limpieza",
       "translations": {
-        "en": "Cleaning supplies store",
-        "pt": "Loja de produtos de limpeza",
-        "fr": "Droguerie",
-        "it": "Negozio di prodotti per la pulizia"
+        "en": "The cleaning supplies store",
+        "pt": "A loja de produtos de limpeza",
+        "fr": "La droguerie",
+        "it": "Il negozio di prodotti per la pulizia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cleaning supplies stores",
+        "fr": "Plural: les drogueries",
+        "it": "Plural: i negozi di prodotti per la pulizia",
+        "pt": "Plural: as lojas de produtos de limpeza"
+      }
     },
     {
       "id": "ci97",
-      "es": "Florería / Floristería",
+      "es": "La florería",
       "translations": {
-        "en": "Flower shop / Florist's shop",
-        "pt": "Floricultura",
-        "fr": "Fleuriste / Magasin de fleurs",
-        "it": "Negozio di fiori / Fiorista"
+        "en": "The flower shop",
+        "pt": "A floricultura",
+        "fr": "Le magasin de fleurs",
+        "it": "Il negozio di fiori"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the flower shops",
+        "fr": "Plural: les magasins de fleurs",
+        "it": "Plural: i negozi di fiori",
+        "pt": "Plural: as floriculturas"
+      }
     },
     {
       "id": "ci98",
-      "es": "Tienda de regalos",
+      "es": "La tienda de regalos",
       "translations": {
-        "en": "Gift shop",
-        "pt": "Loja de presentes",
-        "fr": "Boutique de cadeaux",
-        "it": "Negozio di articoli da regalo"
+        "en": "The gift shop",
+        "pt": "A loja de presentes",
+        "fr": "La boutique de cadeaux",
+        "it": "Il negozio di articoli da regalo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the gift shops",
+        "fr": "Plural: les boutiques de cadeaux",
+        "it": "Plural: i negozi di articoli da regalo",
+        "pt": "Plural: as lojas de presentes"
+      }
     },
     {
       "id": "ci99",
-      "es": "Tienda de recuerdos / Souvenirs",
+      "es": "La tienda de recuerdos",
       "translations": {
-        "en": "Souvenir shop / Souvenir store",
-        "pt": "Loja de lembranças / Loja de souvenirs",
-        "fr": "Boutique de souvenirs",
-        "it": "Negozio di souvenir"
+        "en": "The souvenir shop",
+        "pt": "A loja de lembranças",
+        "fr": "La boutique de souvenirs",
+        "it": "Il negozio di souvenir"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the souvenir shops",
+        "fr": "Plural: les boutiques de souvenirs",
+        "it": "Plural: i negozi di souvenir",
+        "pt": "Plural: as lojas de lembranças"
+      }
     },
     {
       "id": "ci100",
-      "es": "Tienda de artesanías",
+      "es": "La tienda de artesanías",
       "translations": {
-        "en": "Handicraft store / Handicraft shop",
-        "pt": "Loja de artesanato",
-        "fr": "Boutique d'artisanat",
-        "it": "Negozio di artigianato"
+        "en": "The handicraft store",
+        "pt": "A loja de artesanato",
+        "fr": "La boutique d'artisanat",
+        "it": "Il negozio di artigianato"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the handicraft stores",
+        "fr": "Plural: les boutiques d'artisanat",
+        "it": "Plural: i negozi di artigianato",
+        "pt": "Plural: as lojas de artesanato"
+      }
     },
     {
       "id": "ci101",
-      "es": "Juguetería",
+      "es": "La juguetería",
       "translations": {
-        "en": "Toy store",
-        "pt": "Loja de brinquedos",
-        "fr": "Magasin de jouets",
-        "it": "Negozio di giocattoli"
+        "en": "The toy store",
+        "pt": "A loja de brinquedos",
+        "fr": "Le magasin de jouets",
+        "it": "Il negozio di giocattoli"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the toy stores",
+        "fr": "Plural: les magasins de jouets",
+        "it": "Plural: i negozi di giocattoli",
+        "pt": "Plural: as lojas de brinquedos"
+      }
     },
     {
       "id": "ci102",
-      "es": "Tienda de mascotas / Artículos para mascotas",
+      "es": "La tienda de mascotas",
       "translations": {
-        "en": "Pet store / Pet supply store",
-        "pt": "Pet shop / Loja de produtos para animais",
-        "fr": "Animalerie",
-        "it": "Negozio di animali / Negozio di articoli per animali"
+        "en": "The pet store",
+        "pt": "A loja de produtos para animais",
+        "fr": "L'animalerie",
+        "it": "Il negozio di articoli per animali"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pet stores",
+        "fr": "Plural: les animaleries",
+        "it": "Plural: i negozi di articoli per animali",
+        "pt": "Plural: as lojas de produtos para animais"
+      }
     },
     {
       "id": "ci103",
-      "es": "Tienda de segunda mano",
+      "es": "La tienda de segunda mano",
       "translations": {
-        "en": "Secondhand store / Thrift store",
-        "pt": "Brechó / Loja de artigos usados",
-        "fr": "Magasin d'occasion",
-        "it": "Negozio dell'usato"
+        "en": "The secondhand store",
+        "pt": "A loja de artigos usados",
+        "fr": "Le magasin d'occasion",
+        "it": "Il negozio dell'usato"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the secondhand stores",
+        "fr": "Plural: les magasins d'occasion",
+        "it": "Plural: i negozi dell'usato",
+        "pt": "Plural: as lojas de artigos usados"
+      }
     },
     {
       "id": "ci104",
-      "es": "Tienda de antigüedades / Anticuario",
+      "es": "La tienda de antigüedades",
       "translations": {
-        "en": "Antique shop / Antique store",
-        "pt": "Antiquário / Loja de antiguidades",
-        "fr": "Magasin d'antiquités / Antiquaire",
-        "it": "Negozio di antiquariato"
+        "en": "The antique shop",
+        "pt": "A loja de antiguidades",
+        "fr": "Le magasin d'antiquités",
+        "it": "Il negozio di antiquariato"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the antique shops",
+        "fr": "Plural: les magasins d'antiquités",
+        "it": "Plural: i negozi di antiquariato",
+        "pt": "Plural: as lojas de antiguidades"
+      }
     },
     {
       "id": "ci105",
-      "es": "Mercado de pulgas / Rastro",
+      "es": "El mercado de pulgas",
       "translations": {
-        "en": "Flea market",
-        "pt": "Mercado de pulgas / Feira de artigos usados",
-        "fr": "Marché aux puces",
-        "it": "Mercatino delle pulci"
+        "en": "The flea market",
+        "pt": "O mercado de pulgas",
+        "fr": "Le marché aux puces",
+        "it": "Il mercatino delle pulci"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the flea markets",
+        "fr": "Plural: les marchés aux puces",
+        "it": "Plural: i mercatini delle pulci",
+        "pt": "Plural: os mercados de pulgas"
+      }
     },
     {
       "id": "ci106",
-      "es": "Quiosco de periódicos / Puesto de revistas",
+      "es": "El puesto de periódicos",
       "translations": {
-        "en": "Newsstand",
-        "pt": "Banca de jornais e revistas",
-        "fr": "Kiosque à journaux",
-        "it": "Edicola"
+        "en": "The newsstand",
+        "pt": "A banca de jornais e revistas",
+        "fr": "Le kiosque à journaux",
+        "it": "L'edicola"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the newsstands",
+        "fr": "Plural: les kiosques à journaux",
+        "it": "Plural: le edicole",
+        "pt": "Plural: as bancas de jornais e revistas"
+      }
     },
     {
       "id": "ci107",
-      "es": "Estanco / Tienda de tabaco",
+      "es": "La tienda de tabaco",
       "translations": {
-        "en": "Tobacco shop / Tobacconist's shop",
-        "pt": "Tabacaria",
-        "fr": "Bureau de tabac / Tabac",
-        "it": "Tabaccheria / Tabaccaio"
+        "en": "The tobacco shop",
+        "pt": "A tabacaria",
+        "fr": "Le bureau de tabac",
+        "it": "La tabaccheria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the tobacco shops",
+        "fr": "Plural: les bureaux de tabac",
+        "it": "Plural: le tabaccherie",
+        "pt": "Plural: as tabacarias"
+      }
     },
     {
       "id": "ci108",
-      "es": "Herbolario (venta de hierbas y productos naturales)",
+      "es": "La herbolaria",
       "translations": {
-        "en": "Herbal shop / Herbalist's shop",
-        "pt": "Loja de ervas e produtos naturais",
-        "fr": "Herboristerie",
-        "it": "Erboristeria"
+        "en": "The herbal shop",
+        "pt": "A loja de ervas e produtos naturais",
+        "fr": "L'herboristerie",
+        "it": "L'erboristeria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the herbal shops",
+        "fr": "Plural: les herboristeries",
+        "it": "Plural: le erboristerie",
+        "pt": "Plural: as lojas de ervas e produtos naturais"
+      }
     },
     {
       "id": "ci109",
-      "es": "Banco (institución financiera)",
+      "es": "El banco",
       "translations": {
-        "en": "Bank",
-        "pt": "Banco",
-        "fr": "Banque",
-        "it": "Banca"
+        "en": "The bank",
+        "pt": "O banco",
+        "fr": "La banque",
+        "it": "La banca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the banks",
+        "fr": "Plural: les banques",
+        "it": "Plural: le banche",
+        "pt": "Plural: os bancos",
+        "es": "Entidad financiera, no asiento público."
+      }
     },
     {
       "id": "ci110",
-      "es": "Cajero automático",
+      "es": "El cajero automático",
       "translations": {
-        "en": "ATM / Cash machine",
-        "pt": "Caixa eletrônico",
-        "fr": "Distributeur automatique de billets",
-        "it": "Bancomat / Sportello automatico"
+        "en": "The aTM",
+        "pt": "O caixa eletrônico",
+        "fr": "Le distributeur automatique de billets",
+        "it": "Lo sportello automatico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ATMs",
+        "fr": "Plural: les distributeurs automatiques de billets",
+        "it": "Plural: gli sportelli automatici",
+        "pt": "Plural: os caixas eletrônicos"
+      }
     },
     {
       "id": "ci111",
-      "es": "Casa de cambio / Oficina de cambio",
+      "es": "La casa de cambio",
       "translations": {
-        "en": "Currency exchange / Exchange office",
-        "pt": "Casa de câmbio",
-        "fr": "Bureau de change",
-        "it": "Ufficio di cambio / Cambiavalute"
+        "en": "The currency exchange office",
+        "pt": "A casa de câmbio",
+        "fr": "Le bureau de change",
+        "it": "L'ufficio di cambio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the currency exchange offices",
+        "fr": "Plural: les bureaux de change",
+        "it": "Plural: gli uffici di cambio",
+        "pt": "Plural: as casas de câmbio"
+      }
     },
     {
       "id": "ci112",
-      "es": "Oficina de envío de dinero / Remesas",
+      "es": "La oficina de remesas",
       "translations": {
-        "en": "Money transfer office",
-        "pt": "Agência de transferência de dinheiro",
-        "fr": "Agence de transfert d'argent",
-        "it": "Agenzia di trasferimento di denaro"
+        "en": "The money transfer office",
+        "pt": "A agência de transferência de dinheiro",
+        "fr": "L'agence de transfert d'argent",
+        "it": "L'agenzia di trasferimento di denaro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the money transfer offices",
+        "fr": "Plural: les agences de transfert d'argent",
+        "it": "Plural: le agenzie di trasferimento di denaro",
+        "pt": "Plural: as agências de transferência de dinheiro"
+      }
     },
     {
       "id": "ci113",
-      "es": "Oficina de correos",
+      "es": "La oficina de correos",
       "translations": {
-        "en": "Post office",
-        "pt": "Agência dos Correios / Correios",
-        "fr": "Bureau de poste",
-        "it": "Ufficio postale"
+        "en": "The post office",
+        "pt": "A agência dos Correios",
+        "fr": "Le bureau de poste",
+        "it": "L'ufficio postale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the post offices",
+        "fr": "Plural: les bureaux de poste",
+        "it": "Plural: gli uffici postali",
+        "pt": "Plural: as agências dos Correios"
+      }
     },
     {
       "id": "ci114",
-      "es": "Punto de paquetería / Envío de paquetes",
+      "es": "El punto de envío de paquetes",
       "translations": {
-        "en": "Shipping center / Parcel service point",
-        "pt": "Agência de envio de encomendas",
-        "fr": "Point d'envoi de colis",
-        "it": "Punto spedizioni"
+        "en": "The shipping center",
+        "pt": "A agência de envio de encomendas",
+        "fr": "Le point d'expédition de colis",
+        "it": "Il punto spedizioni"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the shipping centers",
+        "fr": "Plural: les points d'expédition de colis",
+        "it": "Plural: i punti spedizioni",
+        "pt": "Plural: as agências de envio de encomendas"
+      }
     },
     {
       "id": "ci115",
-      "es": "Punto de recogida de paquetes",
+      "es": "El punto de recogida de paquetes",
       "translations": {
-        "en": "Package pickup point / Parcel pickup point",
-        "pt": "Ponto de retirada de encomendas",
-        "fr": "Point relais / Point de retrait de colis",
-        "it": "Punto di ritiro pacchi"
+        "en": "The package pickup point",
+        "pt": "O ponto de retirada de encomendas",
+        "fr": "Le point relais",
+        "it": "Il punto di ritiro pacchi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the package pickup points",
+        "fr": "Plural: les points relais",
+        "it": "Plural: i punti di ritiro pacchi",
+        "pt": "Plural: os pontos de retirada de encomendas"
+      }
     },
     {
       "id": "ci116",
-      "es": "Lavandería (servicio de lavado de ropa)",
+      "es": "La lavandería",
       "translations": {
-        "en": "Laundry service / Laundry shop",
-        "pt": "Lavanderia",
-        "fr": "Blanchisserie",
-        "it": "Lavanderia"
+        "en": "The laundry",
+        "pt": "A lavanderia",
+        "fr": "La blanchisserie",
+        "it": "La lavanderia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the laundries",
+        "fr": "Plural: les blanchisseries",
+        "it": "Plural: le lavanderie",
+        "pt": "Plural: as lavanderias"
+      }
     },
     {
       "id": "ci117",
-      "es": "Lavandería de autoservicio",
+      "es": "La lavandería de autoservicio",
       "translations": {
-        "en": "Laundromat / Self-service laundry",
-        "pt": "Lavanderia de autosserviço",
-        "fr": "Laverie automatique",
-        "it": "Lavanderia a gettoni / Lavanderia self-service"
+        "en": "The laundromat",
+        "pt": "A lavanderia de autosserviço",
+        "fr": "La laverie automatique",
+        "it": "La lavanderia a gettoni"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the laundromats",
+        "fr": "Plural: les laveries automatiques",
+        "it": "Plural: le lavanderie a gettoni",
+        "pt": "Plural: as lavanderias de autosserviço"
+      }
     },
     {
       "id": "ci118",
-      "es": "Tintorería / Lavandería en seco",
+      "es": "La tintorería",
       "translations": {
-        "en": "Dry cleaner / Dry cleaner's",
-        "pt": "Lavanderia a seco / Tinturaria",
-        "fr": "Pressing / Nettoyage à sec",
-        "it": "Lavanderia a secco / Tintoria"
+        "en": "The dry cleaner",
+        "pt": "A lavanderia a seco",
+        "fr": "Le pressing",
+        "it": "La lavanderia a secco"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dry cleaners",
+        "fr": "Plural: les pressings",
+        "it": "Plural: le lavanderie a secco",
+        "pt": "Plural: as lavanderias a seco"
+      }
     },
     {
       "id": "ci119",
-      "es": "Peluquería / Salón de belleza",
+      "es": "La peluquería",
       "translations": {
-        "en": "Hair salon / Beauty salon",
-        "pt": "Salão de cabeleireiro / Salão de beleza",
-        "fr": "Salon de coiffure / Salon de beauté",
-        "it": "Salone di parrucchiere / Salone di bellezza"
+        "en": "The hair salon",
+        "pt": "O salão de cabeleireiro",
+        "fr": "Le salon de coiffure",
+        "it": "Il salone di parrucchiere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hair salons",
+        "fr": "Plural: les salons de coiffure",
+        "it": "Plural: i saloni di parrucchiere",
+        "pt": "Plural: os salões de cabeleireiro"
+      }
     },
     {
       "id": "ci120",
-      "es": "Barbería",
+      "es": "La barbería",
       "translations": {
-        "en": "Barbershop",
-        "pt": "Barbearia",
-        "fr": "Salon de barbier",
-        "it": "Barberia / Bottega del barbiere"
+        "en": "The barbershop",
+        "pt": "A barbearia",
+        "fr": "Le salon de barbier",
+        "it": "La barberia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the barbershops",
+        "fr": "Plural: les salons de barbier",
+        "it": "Plural: le barberie",
+        "pt": "Plural: as barbearias"
+      }
     },
     {
       "id": "ci121",
-      "es": "Salón de uñas / Manicura",
+      "es": "El salón de uñas",
       "translations": {
-        "en": "Nail salon",
-        "pt": "Salão de manicure",
-        "fr": "Salon de manucure / Onglerie",
-        "it": "Salone per manicure / Centro unghie"
+        "en": "The nail salon",
+        "pt": "O salão de manicure",
+        "fr": "L'onglerie",
+        "it": "Il centro unghie"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the nail salons",
+        "fr": "Plural: les ongleries",
+        "it": "Plural: i centri unghie",
+        "pt": "Plural: os salões de manicure"
+      }
     },
     {
       "id": "ci122",
-      "es": "Sastrería / Taller de arreglos de ropa",
+      "es": "La sastrería",
       "translations": {
-        "en": "Tailor shop / Clothing alterations shop",
-        "pt": "Alfaiataria / Loja de conserto de roupas",
-        "fr": "Atelier de couture / Retoucherie",
-        "it": "Sartoria"
+        "en": "The tailor shop",
+        "pt": "A alfaiataria",
+        "fr": "L'atelier de couture",
+        "it": "La sartoria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the tailor shops",
+        "fr": "Plural: les ateliers de couture",
+        "it": "Plural: le sartorie",
+        "pt": "Plural: as alfaiatarias"
+      }
     },
     {
       "id": "ci123",
-      "es": "Taller de reparación de calzado",
+      "es": "El taller de reparación de calzado",
       "translations": {
-        "en": "Shoe repair shop",
-        "pt": "Sapataria / Conserto de calçados",
-        "fr": "Cordonnerie",
-        "it": "Calzolaio / Laboratorio di riparazione scarpe"
+        "en": "The shoe repair shop",
+        "pt": "A oficina de conserto de calçados",
+        "fr": "La cordonnerie",
+        "it": "Il laboratorio di riparazione scarpe"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the shoe repair shops",
+        "fr": "Plural: les cordonneries",
+        "it": "Plural: i laboratori di riparazione scarpe",
+        "pt": "Plural: as oficinas de conserto de calçados"
+      }
     },
     {
       "id": "ci124",
-      "es": "Cerrajería",
+      "es": "La cerrajería",
       "translations": {
-        "en": "Locksmith shop / Locksmith's shop",
-        "pt": "Chaveiro / Loja de chaves",
-        "fr": "Serrurerie",
-        "it": "Negozio di duplicazione chiavi / Laboratorio di serrature"
+        "en": "The locksmith shop",
+        "pt": "O chaveiro",
+        "fr": "La serrurerie",
+        "it": "La bottega del fabbro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the locksmith shops",
+        "fr": "Plural: les serrureries",
+        "it": "Plural: le botteghe dei fabbri",
+        "pt": "Plural: os chaveiros"
+      }
     },
     {
       "id": "ci125",
-      "es": "Taller de reparación de celulares",
+      "es": "El taller de reparación de celulares",
       "translations": {
-        "en": "Phone repair shop",
-        "pt": "Assistência técnica de celulares",
-        "fr": "Atelier de réparation de téléphones",
-        "it": "Negozio di riparazione cellulari"
+        "en": "The phone repair shop",
+        "pt": "A assistência técnica de celulares",
+        "fr": "L'atelier de réparation de téléphones",
+        "it": "Il negozio di riparazione cellulari"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the phone repair shops",
+        "fr": "Plural: les ateliers de réparation de téléphones",
+        "it": "Plural: i negozi di riparazione cellulari",
+        "pt": "Plural: as assistências técnicas de celulares"
+      }
     },
     {
       "id": "ci126",
-      "es": "Taller de reparación de bicicletas",
+      "es": "El taller de reparación de bicicletas",
       "translations": {
-        "en": "Bike repair shop",
-        "pt": "Oficina de bicicletas",
-        "fr": "Atelier de réparation de vélos",
-        "it": "Officina di riparazione biciclette"
+        "en": "The bike repair shop",
+        "pt": "A oficina de bicicletas",
+        "fr": "L'atelier de réparation de vélos",
+        "it": "L'officina di riparazione biciclette"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bike repair shops",
+        "fr": "Plural: les ateliers de réparation de vélos",
+        "it": "Plural: le officine di riparazione biciclette",
+        "pt": "Plural: as oficinas de bicicletas"
+      }
     },
     {
       "id": "ci127",
-      "es": "Taller mecánico (de automóviles)",
+      "es": "El taller mecánico",
       "translations": {
-        "en": "Auto repair shop / Garage",
-        "pt": "Oficina mecânica",
-        "fr": "Garage automobile",
-        "it": "Autofficina"
+        "en": "The auto repair shop",
+        "pt": "A oficina mecânica",
+        "fr": "Le garage automobile",
+        "it": "L'autofficina"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the auto repair shops",
+        "fr": "Plural: les garages automobiles",
+        "it": "Plural: le autofficine",
+        "pt": "Plural: as oficinas mecânicas"
+      }
     },
     {
       "id": "ci128",
-      "es": "Autolavado / Lavado de autos",
+      "es": "El autolavado",
       "translations": {
-        "en": "Car wash",
-        "pt": "Lava-rápido / Lava-jato",
-        "fr": "Station de lavage auto",
-        "it": "Autolavaggio"
+        "en": "The car wash",
+        "pt": "O lava-rápido",
+        "fr": "La station de lavage auto",
+        "it": "L'autolavaggio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the car washes",
+        "fr": "Plural: les stations de lavage auto",
+        "it": "Plural: gli autolavaggi",
+        "pt": "Plural: os lava-rápidos"
+      }
     },
     {
       "id": "ci129",
-      "es": "Servicio de fotocopias / Centro de impresión",
+      "es": "El centro de copiado",
       "translations": {
-        "en": "Copy shop / Print shop",
-        "pt": "Copiadora / Gráfica rápida",
-        "fr": "Centre de photocopie / Centre d'impression",
-        "it": "Copisteria / Centro stampa"
+        "en": "The copy shop",
+        "pt": "A copiadora",
+        "fr": "Le centre de photocopie",
+        "it": "La copisteria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the copy shops",
+        "fr": "Plural: les centres de photocopie",
+        "it": "Plural: le copisterie",
+        "pt": "Plural: as copiadoras"
+      }
     },
     {
       "id": "ci130",
-      "es": "Cibercafé / Café internet",
+      "es": "El cibercafé",
       "translations": {
-        "en": "Internet café",
-        "pt": "Lan house / Cibercafé",
-        "fr": "Cybercafé",
-        "it": "Internet point / Internet café"
+        "en": "The internet café",
+        "pt": "A lan house",
+        "fr": "Le cybercafé",
+        "it": "L'internet point"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the internet cafés",
+        "fr": "Plural: les cybercafés",
+        "it": "Plural: gli internet point",
+        "pt": "Plural: as lan houses"
+      }
     },
     {
       "id": "ci131",
-      "es": "Agencia de viajes",
+      "es": "La agencia de viajes",
       "translations": {
-        "en": "Travel agency",
-        "pt": "Agência de viagens",
-        "fr": "Agence de voyages",
-        "it": "Agenzia di viaggi"
+        "en": "The travel agency",
+        "pt": "A agência de viagens",
+        "fr": "L'agence de voyages",
+        "it": "L'agenzia di viaggi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the travel agencies",
+        "fr": "Plural: les agences de voyages",
+        "it": "Plural: le agenzie di viaggi",
+        "pt": "Plural: as agências de viagens"
+      }
     },
     {
       "id": "ci132",
-      "es": "Oficina de información turística",
+      "es": "La oficina de información turística",
       "translations": {
-        "en": "Tourist information office",
-        "pt": "Centro de informações turísticas",
-        "fr": "Office de tourisme / Bureau d'information touristique",
-        "it": "Ufficio informazioni turistiche"
+        "en": "The tourist information office",
+        "pt": "O centro de informações turísticas",
+        "fr": "L'office de tourisme",
+        "it": "L'ufficio informazioni turistiche"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the tourist information offices",
+        "fr": "Plural: les offices de tourisme",
+        "it": "Plural: gli uffici informazioni turistiche",
+        "pt": "Plural: os centros de informações turísticas"
+      }
     },
     {
       "id": "ci133",
-      "es": "Mostrador / Punto de información",
+      "es": "El punto de información",
       "translations": {
-        "en": "Information desk / Information point",
-        "pt": "Balcão de informações",
-        "fr": "Point d'information / Guichet de renseignements",
-        "it": "Banco informazioni / Punto informazioni"
+        "en": "The information desk",
+        "pt": "O balcão de informações",
+        "fr": "Le point d'information",
+        "it": "Il banco informazioni"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the information desks",
+        "fr": "Plural: les points d'information",
+        "it": "Plural: i banchi informazioni",
+        "pt": "Plural: os balcões de informações"
+      }
     },
     {
       "id": "ci134",
-      "es": "Taquilla / Boletería (venta de entradas)",
+      "es": "La taquilla",
       "translations": {
-        "en": "Ticket office / Box office",
-        "pt": "Bilheteria",
-        "fr": "Billetterie",
-        "it": "Biglietteria"
+        "en": "The ticket office",
+        "pt": "A bilheteria",
+        "fr": "La billetterie",
+        "it": "La biglietteria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ticket offices",
+        "fr": "Plural: les billetteries",
+        "it": "Plural: le biglietterie",
+        "pt": "Plural: as bilheterias"
+      }
     },
     {
       "id": "ci135",
-      "es": "Centro de visitantes",
+      "es": "El centro de visitantes",
       "translations": {
-        "en": "Visitor center",
-        "pt": "Centro de visitantes",
-        "fr": "Centre d'accueil des visiteurs",
-        "it": "Centro visitatori"
+        "en": "The visitor center",
+        "pt": "O centro de visitantes",
+        "fr": "Le centre d'accueil des visiteurs",
+        "it": "Il centro visitatori"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the visitor centers",
+        "fr": "Plural: les centres d'accueil des visiteurs",
+        "it": "Plural: i centri visitatori",
+        "pt": "Plural: os centros de visitantes"
+      }
     },
     {
       "id": "ci136",
-      "es": "Oficina de objetos perdidos",
+      "es": "La oficina de objetos perdidos",
       "translations": {
-        "en": "Lost and found office",
-        "pt": "Achados e perdidos",
-        "fr": "Bureau des objets trouvés",
-        "it": "Ufficio oggetti smarriti"
+        "en": "The lost and found office",
+        "pt": "O achados e perdidos",
+        "fr": "Le bureau des objets trouvés",
+        "it": "L'ufficio oggetti smarriti"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lost and found offices",
+        "fr": "Plural: les bureaux des objets trouvés",
+        "it": "Plural: gli uffici oggetti smarriti",
+        "pt": "Plural: os achados e perdidos"
+      }
     },
     {
       "id": "ci137",
-      "es": "Consigna / Guarda de equipaje",
+      "es": "La consigna de equipaje",
       "translations": {
-        "en": "Luggage storage / Baggage storage",
-        "pt": "Guarda-volumes",
-        "fr": "Consigne à bagages",
-        "it": "Deposito bagagli"
+        "en": "The luggage storage facility",
+        "pt": "O guarda-volumes",
+        "fr": "La consigne à bagages",
+        "it": "Il deposito bagagli"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the luggage storage facilities",
+        "fr": "Plural: les consignes à bagages",
+        "it": "Plural: i depositi bagagli",
+        "pt": "Plural: os guarda-volumes"
+      }
     },
     {
       "id": "ci138",
-      "es": "Taquillas para equipaje (casilleros)",
+      "es": "El casilleros para equipaje",
       "translations": {
-        "en": "Luggage lockers",
-        "pt": "Armários para bagagem",
-        "fr": "Casiers à bagages",
-        "it": "Armadietti per bagagli"
+        "en": "The luggage locker",
+        "pt": "O armário para bagagem",
+        "fr": "Le casier à bagages",
+        "it": "L'armadietto per bagagli"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the luggage lockers",
+        "fr": "Plural: les casiers à bagages",
+        "it": "Plural: gli armadietti per bagagli",
+        "pt": "Plural: os armários para bagagem"
+      }
     },
     {
       "id": "ci139",
-      "es": "Baños públicos / Sanitarios públicos",
+      "es": "Los baños públicos",
       "translations": {
-        "en": "Public restrooms / Public bathrooms",
-        "pt": "Banheiros públicos",
-        "fr": "Toilettes publiques",
-        "it": "Bagni pubblici / Servizi igienici pubblici"
+        "en": "The public restrooms",
+        "pt": "Os banheiros públicos",
+        "fr": "Les toilettes publiques",
+        "it": "I bagni pubblici"
       },
       "image_url": ""
     },
     {
       "id": "ci140",
-      "es": "Fuente de agua potable / Bebedero",
+      "es": "El bebedero",
       "translations": {
-        "en": "Drinking fountain",
-        "pt": "Bebedouro",
-        "fr": "Fontaine à eau potable",
-        "it": "Fontanella di acqua potabile"
+        "en": "The drinking fountain",
+        "pt": "O bebedouro",
+        "fr": "La fontaine à eau potable",
+        "it": "La fontanella di acqua potabile"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the drinking fountains",
+        "fr": "Plural: les fontaines à eau potable",
+        "it": "Plural: le fontanelle di acqua potabile",
+        "pt": "Plural: os bebedouros",
+        "es": "Punto de agua para beber, no fuente ornamental."
+      }
     },
     {
       "id": "ci141",
-      "es": "Punto de recarga de celular (saldo)",
+      "es": "El punto de recarga de saldo",
       "translations": {
-        "en": "Mobile top-up point / Prepaid phone refill point",
-        "pt": "Ponto de recarga de celular",
-        "fr": "Point de recharge téléphonique",
-        "it": "Punto di ricarica telefonica"
+        "en": "The mobile top-up point",
+        "pt": "O ponto de recarga de celular",
+        "fr": "Le point de recharge téléphonique",
+        "it": "Il punto di ricarica telefonica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mobile top-up points",
+        "fr": "Plural: les points de recharge téléphonique",
+        "it": "Plural: i punti di ricarica telefonica",
+        "pt": "Plural: os pontos de recarga de celular"
+      }
     },
     {
       "id": "ci142",
-      "es": "Punto de venta de lotería",
+      "es": "El punto de venta de lotería",
       "translations": {
-        "en": "Lottery retailer / Lottery outlet",
-        "pt": "Casa lotérica / Lotérica",
-        "fr": "Point de vente de jeux de loterie",
-        "it": "Ricevitoria del lotto"
+        "en": "The lottery retailer",
+        "pt": "A casa lotérica",
+        "fr": "Le point de vente de jeux de loterie",
+        "it": "La ricevitoria del lotto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lottery retailers",
+        "fr": "Plural: les points de vente de jeux de loterie",
+        "it": "Plural: le ricevitorie del lotto",
+        "pt": "Plural: as casas lotéricas"
+      }
     },
     {
       "id": "ci143",
-      "es": "Ayuntamiento / Palacio municipal",
+      "es": "El ayuntamiento",
       "translations": {
-        "en": "City hall / Town hall",
-        "pt": "Prefeitura / Paço municipal",
-        "fr": "Mairie / Hôtel de ville",
-        "it": "Municipio / Comune"
+        "en": "The city hall",
+        "pt": "A prefeitura",
+        "fr": "La mairie",
+        "it": "Il municipio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the city halls",
+        "fr": "Plural: les mairies",
+        "it": "Plural: i municipi",
+        "pt": "Plural: as prefeituras"
+      }
     },
     {
       "id": "ci144",
-      "es": "Oficina de gobierno / Oficina pública",
+      "es": "La oficina de gobierno",
       "translations": {
-        "en": "Government office / Public office",
-        "pt": "Repartição pública / Órgão público",
-        "fr": "Bureau administratif / Administration publique",
-        "it": "Ufficio pubblico"
+        "en": "The government office",
+        "pt": "A repartição pública",
+        "fr": "Le bureau administratif",
+        "it": "L'ufficio pubblico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the government offices",
+        "fr": "Plural: les bureaux administratifs",
+        "it": "Plural: gli uffici pubblici",
+        "pt": "Plural: as repartições públicas"
+      }
     },
     {
       "id": "ci145",
-      "es": "Estación de policía / Comisaría",
+      "es": "La estación de policía",
       "translations": {
-        "en": "Police station",
-        "pt": "Delegacia de polícia",
-        "fr": "Commissariat de police",
-        "it": "Commissariato di polizia"
+        "en": "The police station",
+        "pt": "A delegacia de polícia",
+        "fr": "Le commissariat de police",
+        "it": "Il commissariato di polizia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the police stations",
+        "fr": "Plural: les commissariats de police",
+        "it": "Plural: i commissariati di polizia",
+        "pt": "Plural: as delegacias de polícia"
+      }
     },
     {
       "id": "ci146",
-      "es": "Estación de bomberos / Cuartel de bomberos",
+      "es": "La estación de bomberos",
       "translations": {
-        "en": "Fire station",
-        "pt": "Quartel dos bombeiros",
-        "fr": "Caserne de pompiers",
-        "it": "Caserma dei vigili del fuoco"
+        "en": "The fire station",
+        "pt": "O quartel dos bombeiros",
+        "fr": "La caserne de pompiers",
+        "it": "La caserma dei vigili del fuoco"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the fire stations",
+        "fr": "Plural: les casernes de pompiers",
+        "it": "Plural: le caserme dei vigili del fuoco",
+        "pt": "Plural: os quartéis dos bombeiros"
+      }
     },
     {
       "id": "ci147",
-      "es": "Embajada",
+      "es": "La embajada",
       "translations": {
-        "en": "Embassy",
-        "pt": "Embaixada",
-        "fr": "Ambassade",
-        "it": "Ambasciata"
+        "en": "The embassy",
+        "pt": "A embaixada",
+        "fr": "L'ambassade",
+        "it": "L'ambasciata"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the embassies",
+        "fr": "Plural: les ambassades",
+        "it": "Plural: le ambasciate",
+        "pt": "Plural: as embaixadas"
+      }
     },
     {
       "id": "ci148",
-      "es": "Consulado",
+      "es": "El consulado",
       "translations": {
-        "en": "Consulate",
-        "pt": "Consulado",
-        "fr": "Consulat",
-        "it": "Consolato"
+        "en": "The consulate",
+        "pt": "O consulado",
+        "fr": "Le consulat",
+        "it": "Il consolato"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the consulates",
+        "fr": "Plural: les consulats",
+        "it": "Plural: i consolati",
+        "pt": "Plural: os consulados"
+      }
     },
     {
       "id": "ci149",
-      "es": "Tribunal / Juzgado (edificio)",
+      "es": "El juzgado",
       "translations": {
-        "en": "Courthouse",
-        "pt": "Fórum / Tribunal",
-        "fr": "Palais de justice / Tribunal",
-        "it": "Tribunale / Palazzo di giustizia"
+        "en": "The courthouse",
+        "pt": "O fórum",
+        "fr": "Le palais de justice",
+        "it": "Il tribunale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the courthouses",
+        "fr": "Plural: les palais de justice",
+        "it": "Plural: i tribunali",
+        "pt": "Plural: os fóruns"
+      }
     },
     {
       "id": "ci150",
-      "es": "Hospital",
+      "es": "El hospital",
       "translations": {
-        "en": "Hospital",
-        "pt": "Hospital",
-        "fr": "Hôpital",
-        "it": "Ospedale"
+        "en": "The hospital",
+        "pt": "O hospital",
+        "fr": "L'hôpital",
+        "it": "L'ospedale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hospitals",
+        "fr": "Plural: les hôpitaux",
+        "it": "Plural: gli ospedali",
+        "pt": "Plural: os hospitais"
+      }
     },
     {
       "id": "ci151",
-      "es": "Clínica / Centro de salud",
+      "es": "La clínica",
       "translations": {
-        "en": "Clinic / Health center",
-        "pt": "Clínica / Centro de saúde",
-        "fr": "Clinique / Centre de santé",
-        "it": "Clinica / Centro medico"
+        "en": "The clinic",
+        "pt": "A clínica",
+        "fr": "La clinique",
+        "it": "La clinica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the clinics",
+        "fr": "Plural: les cliniques",
+        "it": "Plural: le cliniche",
+        "pt": "Plural: as clínicas",
+        "es": "Clínica como establecimiento médico; no siempre equivale a un centro público de salud."
+      }
     },
     {
       "id": "ci152",
-      "es": "Servicio de urgencias / Emergencias (hospital)",
+      "es": "El servicio de urgencias",
       "translations": {
-        "en": "Emergency department / Emergency room",
-        "pt": "Pronto-socorro",
-        "fr": "Service des urgences",
-        "it": "Pronto soccorso"
+        "en": "The emergency department",
+        "pt": "O pronto-socorro",
+        "fr": "Le service des urgences",
+        "it": "Il pronto soccorso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the emergency departments",
+        "fr": "Plural: les services des urgences",
+        "it": "Plural: i pronto soccorso",
+        "pt": "Plural: os prontos-socorros",
+        "es": "Área hospitalaria de atención urgente."
+      }
     },
     {
       "id": "ci153",
-      "es": "Consultorio médico",
+      "es": "El consultorio médico",
       "translations": {
-        "en": "Doctor's office",
-        "pt": "Consultório médico",
-        "fr": "Cabinet médical",
-        "it": "Studio medico"
+        "en": "The doctor's office",
+        "pt": "O consultório médico",
+        "fr": "Le cabinet médical",
+        "it": "Lo studio medico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the doctors' offices",
+        "fr": "Plural: les cabinets médicals",
+        "it": "Plural: gli studi medici",
+        "pt": "Plural: os consultórios médicos"
+      }
     },
     {
       "id": "ci154",
-      "es": "Clínica dental / Consultorio de dentista",
+      "es": "El consultorio dental",
       "translations": {
-        "en": "Dental clinic / Dentist's office",
-        "pt": "Clínica odontológica / Consultório odontológico",
-        "fr": "Cabinet dentaire",
-        "it": "Studio dentistico / Clinica dentale"
+        "en": "The dentist's office",
+        "pt": "O consultório odontológico",
+        "fr": "Le cabinet dentaire",
+        "it": "Lo studio dentistico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dentists' offices",
+        "fr": "Plural: les cabinets dentaires",
+        "it": "Plural: gli studi dentistici",
+        "pt": "Plural: os consultórios odontológicos"
+      }
     },
     {
       "id": "ci155",
-      "es": "Clínica veterinaria",
+      "es": "La clínica veterinaria",
       "translations": {
-        "en": "Veterinary clinic / Vet clinic",
-        "pt": "Clínica veterinária",
-        "fr": "Clinique vétérinaire",
-        "it": "Clinica veterinaria"
+        "en": "The veterinary clinic",
+        "pt": "A clínica veterinária",
+        "fr": "La clinique vétérinaire",
+        "it": "La clinica veterinaria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the veterinary clinics",
+        "fr": "Plural: les cliniques vétérinaires",
+        "it": "Plural: le cliniche veterinarie",
+        "pt": "Plural: as clínicas veterinárias"
+      }
     },
     {
       "id": "ci156",
-      "es": "Escuela / Colegio",
+      "es": "La escuela",
       "translations": {
-        "en": "School",
-        "pt": "Escola",
-        "fr": "École",
-        "it": "Scuola"
+        "en": "The school",
+        "pt": "A escola",
+        "fr": "Le école",
+        "it": "La scuola"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the schools",
+        "fr": "Plural: les écoles",
+        "it": "Plural: le scuole",
+        "pt": "Plural: as escolas"
+      }
     },
     {
       "id": "ci157",
-      "es": "Universidad",
+      "es": "La universidad",
       "translations": {
-        "en": "University",
-        "pt": "Universidade",
-        "fr": "Université",
-        "it": "Università"
+        "en": "The university",
+        "pt": "A universidade",
+        "fr": "L'université",
+        "it": "L'università"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the universities",
+        "fr": "Plural: les universités",
+        "it": "Plural: le università",
+        "pt": "Plural: as universidades"
+      }
     },
     {
       "id": "ci158",
-      "es": "Biblioteca (para consultar o prestar libros)",
+      "es": "La biblioteca",
       "translations": {
-        "en": "Library",
-        "pt": "Biblioteca",
-        "fr": "Bibliothèque",
-        "it": "Biblioteca"
+        "en": "The library",
+        "pt": "A biblioteca",
+        "fr": "La bibliothèque",
+        "it": "La biblioteca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the libraries",
+        "fr": "Plural: les bibliothèques",
+        "it": "Plural: le biblioteche",
+        "pt": "Plural: as bibliotecas"
+      }
     },
     {
       "id": "ci159",
-      "es": "Plaza pública",
+      "es": "La plaza pública",
       "translations": {
-        "en": "Public square / Town square",
-        "pt": "Praça",
-        "fr": "Place publique",
-        "it": "Piazza"
+        "en": "The public square",
+        "pt": "A praça",
+        "fr": "La place publique",
+        "it": "La piazza"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the public squares",
+        "fr": "Plural: les places publiques",
+        "it": "Plural: le piazze",
+        "pt": "Plural: as praças"
+      }
     },
     {
       "id": "ci160",
-      "es": "Parque (urbano)",
+      "es": "El parque",
       "translations": {
-        "en": "Park / City park",
-        "pt": "Parque",
-        "fr": "Parc",
-        "it": "Parco"
+        "en": "The park",
+        "pt": "O parque",
+        "fr": "Le parc",
+        "it": "Il parco"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the parks",
+        "fr": "Plural: les parcs",
+        "it": "Plural: i parchi",
+        "pt": "Plural: os parques"
+      }
     },
     {
       "id": "ci161",
-      "es": "Jardín público",
+      "es": "El jardín público",
       "translations": {
-        "en": "Public garden",
-        "pt": "Jardim público",
-        "fr": "Jardin public",
-        "it": "Giardino pubblico"
+        "en": "The public garden",
+        "pt": "O jardim público",
+        "fr": "Le jardin public",
+        "it": "Il giardino pubblico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the public gardens",
+        "fr": "Plural: les jardins publics",
+        "it": "Plural: i giardini pubblici",
+        "pt": "Plural: os jardins públicos"
+      }
     },
     {
       "id": "ci162",
-      "es": "Parque infantil / Área de juegos",
+      "es": "La área de juegos",
       "translations": {
-        "en": "Playground",
-        "pt": "Parquinho / Parque infantil",
-        "fr": "Aire de jeux",
-        "it": "Parco giochi / Area giochi"
+        "en": "The playground",
+        "pt": "O parquinho",
+        "fr": "L'aire de jeux",
+        "it": "L'area giochi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the playgrounds",
+        "fr": "Plural: les aires de jeux",
+        "it": "Plural: le aree giochi",
+        "pt": "Plural: os parquinhos"
+      }
     },
     {
       "id": "ci163",
-      "es": "Museo",
+      "es": "El museo",
       "translations": {
-        "en": "Museum",
-        "pt": "Museu",
-        "fr": "Musée",
-        "it": "Museo"
+        "en": "The museum",
+        "pt": "O museu",
+        "fr": "Le musée",
+        "it": "Il museo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the museums",
+        "fr": "Plural: les musées",
+        "it": "Plural: i musei",
+        "pt": "Plural: os museus"
+      }
     },
     {
       "id": "ci164",
-      "es": "Galería de arte",
+      "es": "La galería de arte",
       "translations": {
-        "en": "Art gallery",
-        "pt": "Galeria de arte",
-        "fr": "Galerie d'art",
-        "it": "Galleria d'arte"
+        "en": "The art gallery",
+        "pt": "A galeria de arte",
+        "fr": "La galerie d'art",
+        "it": "La galleria d'arte"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the art galleries",
+        "fr": "Plural: les galeries d'art",
+        "it": "Plural: le gallerie d'arte",
+        "pt": "Plural: as galerias de arte"
+      }
     },
     {
       "id": "ci165",
-      "es": "Teatro",
+      "es": "El teatro",
       "translations": {
-        "en": "Theater",
-        "pt": "Teatro",
-        "fr": "Théâtre",
-        "it": "Teatro"
+        "en": "The theater",
+        "pt": "O teatro",
+        "fr": "Le théâtre",
+        "it": "Il teatro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the theaters",
+        "fr": "Plural: les théâtres",
+        "it": "Plural: i teatri",
+        "pt": "Plural: os teatros"
+      }
     },
     {
       "id": "ci166",
-      "es": "Cine",
+      "es": "El cine",
       "translations": {
-        "en": "Movie theater / Cinema",
-        "pt": "Cinema",
-        "fr": "Cinéma",
-        "it": "Cinema"
+        "en": "The movie theater",
+        "pt": "O cinema",
+        "fr": "Le cinéma",
+        "it": "Il cinema"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the movie theaters",
+        "fr": "Plural: les cinémas",
+        "it": "Plural: i cinema",
+        "pt": "Plural: os cinemas"
+      }
     },
     {
       "id": "ci167",
-      "es": "Sala de conciertos",
+      "es": "La sala de conciertos",
       "translations": {
-        "en": "Concert hall",
-        "pt": "Sala de concertos",
-        "fr": "Salle de concert",
-        "it": "Sala da concerto"
+        "en": "The concert hall",
+        "pt": "A sala de concertos",
+        "fr": "La salle de concert",
+        "it": "La sala da concerto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the concert halls",
+        "fr": "Plural: les salles de concert",
+        "it": "Plural: le sale da concerto",
+        "pt": "Plural: as salas de concertos"
+      }
     },
     {
       "id": "ci168",
-      "es": "Centro cultural",
+      "es": "El centro cultural",
       "translations": {
-        "en": "Cultural center",
-        "pt": "Centro cultural",
-        "fr": "Centre culturel",
-        "it": "Centro culturale"
+        "en": "The cultural center",
+        "pt": "O centro cultural",
+        "fr": "Le centre culturel",
+        "it": "Il centro culturale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cultural centers",
+        "fr": "Plural: les centres culturels",
+        "it": "Plural: i centri culturali",
+        "pt": "Plural: os centros culturais"
+      }
     },
     {
       "id": "ci169",
-      "es": "Centro de convenciones",
+      "es": "El centro de convenciones",
       "translations": {
-        "en": "Convention center",
-        "pt": "Centro de convenções",
-        "fr": "Centre de congrès",
-        "it": "Centro congressi"
+        "en": "The convention center",
+        "pt": "O centro de convenções",
+        "fr": "Le centre de congrès",
+        "it": "Il centro congressi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the convention centers",
+        "fr": "Plural: les centres de congrès",
+        "it": "Plural: i centri congressi",
+        "pt": "Plural: os centros de convenções"
+      }
     },
     {
       "id": "ci170",
-      "es": "Auditorio",
+      "es": "El auditorio",
       "translations": {
-        "en": "Auditorium",
-        "pt": "Auditório",
-        "fr": "Auditorium",
-        "it": "Auditorium"
+        "en": "The auditorium",
+        "pt": "O auditório",
+        "fr": "L'auditorium",
+        "it": "L'auditorium"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the auditoriums",
+        "fr": "Plural: les auditoriums",
+        "it": "Plural: gli auditorium",
+        "pt": "Plural: os auditórios"
+      }
     },
     {
       "id": "ci171",
-      "es": "Ópera (edificio de espectáculos)",
+      "es": "El teatro de ópera",
       "translations": {
-        "en": "Opera house",
-        "pt": "Teatro de ópera",
-        "fr": "Opéra",
-        "it": "Teatro dell'opera"
+        "en": "The opera house",
+        "pt": "O teatro de ópera",
+        "fr": "L'opéra",
+        "it": "Il teatro dell'opera"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the opera houses",
+        "fr": "Plural: les opéras",
+        "it": "Plural: i teatri dell'opera",
+        "pt": "Plural: os teatros de ópera",
+        "es": "Recinto de espectáculos de ópera; no la obra musical."
+      }
     },
     {
       "id": "ci172",
-      "es": "Iglesia",
+      "es": "La iglesia",
       "translations": {
-        "en": "Church",
-        "pt": "Igreja",
-        "fr": "Église",
-        "it": "Chiesa"
+        "en": "The church",
+        "pt": "A igreja",
+        "fr": "Le église",
+        "it": "La chiesa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the churches",
+        "fr": "Plural: les églises",
+        "it": "Plural: le chiese",
+        "pt": "Plural: as igrejas"
+      }
     },
     {
       "id": "ci173",
-      "es": "Catedral",
+      "es": "La catedral",
       "translations": {
-        "en": "Cathedral",
-        "pt": "Catedral",
-        "fr": "Cathédrale",
-        "it": "Cattedrale / Duomo"
+        "en": "The cathedral",
+        "pt": "A catedral",
+        "fr": "La cathédrale",
+        "it": "La cattedrale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cathedrals",
+        "fr": "Plural: les cathédrales",
+        "it": "Plural: le cattedrali",
+        "pt": "Plural: as catedrais"
+      }
     },
     {
       "id": "ci174",
-      "es": "Sinagoga",
+      "es": "La sinagoga",
       "translations": {
-        "en": "Synagogue",
-        "pt": "Sinagoga",
-        "fr": "Synagogue",
-        "it": "Sinagoga"
+        "en": "The synagogue",
+        "pt": "A sinagoga",
+        "fr": "La synagogue",
+        "it": "La sinagoga"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the synagogues",
+        "fr": "Plural: les synagogues",
+        "it": "Plural: le sinagoghe",
+        "pt": "Plural: as sinagogas"
+      }
     },
     {
       "id": "ci175",
-      "es": "Mezquita",
+      "es": "La mezquita",
       "translations": {
-        "en": "Mosque",
-        "pt": "Mesquita",
-        "fr": "Mosquée",
-        "it": "Moschea"
+        "en": "The mosque",
+        "pt": "A mesquita",
+        "fr": "La mosquée",
+        "it": "La moschea"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mosques",
+        "fr": "Plural: les mosquées",
+        "it": "Plural: le moschee",
+        "pt": "Plural: as mesquitas"
+      }
     },
     {
       "id": "ci176",
-      "es": "Castillo",
+      "es": "El castillo",
       "translations": {
-        "en": "Castle",
-        "pt": "Castelo",
-        "fr": "Château",
-        "it": "Castello"
+        "en": "The castle",
+        "pt": "O castelo",
+        "fr": "Le château",
+        "it": "Il castello"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the castles",
+        "fr": "Plural: les châteaux",
+        "it": "Plural: i castelli",
+        "pt": "Plural: os castelos"
+      }
     },
     {
       "id": "ci177",
-      "es": "Palacio",
+      "es": "El palacio",
       "translations": {
-        "en": "Palace",
-        "pt": "Palácio",
-        "fr": "Palais",
-        "it": "Palazzo reale"
+        "en": "The palace",
+        "pt": "O palácio",
+        "fr": "Le palais",
+        "it": "Il palazzo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the palaces",
+        "fr": "Plural: les palais",
+        "it": "Plural: i palazzi",
+        "pt": "Plural: os palácios"
+      }
     },
     {
       "id": "ci178",
-      "es": "Monumento",
+      "es": "El monumento",
       "translations": {
-        "en": "Monument",
-        "pt": "Monumento",
-        "fr": "Monument",
-        "it": "Monumento"
+        "en": "The monument",
+        "pt": "O monumento",
+        "fr": "Le monument",
+        "it": "Il monumento"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the monuments",
+        "fr": "Plural: les monuments",
+        "it": "Plural: i monumenti",
+        "pt": "Plural: os monumentos"
+      }
     },
     {
       "id": "ci179",
-      "es": "Estatua",
+      "es": "La estatua",
       "translations": {
-        "en": "Statue",
-        "pt": "Estátua",
-        "fr": "Statue",
-        "it": "Statua"
+        "en": "The statue",
+        "pt": "A estátua",
+        "fr": "La statue",
+        "it": "La statua"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the statues",
+        "fr": "Plural: les statues",
+        "it": "Plural: le statue",
+        "pt": "Plural: as estátuas"
+      }
     },
     {
       "id": "ci180",
-      "es": "Fuente (ornamental)",
+      "es": "La fuente",
       "translations": {
-        "en": "Fountain",
-        "pt": "Fonte / Chafariz",
-        "fr": "Fontaine",
-        "it": "Fontana"
+        "en": "The fountain",
+        "pt": "A fonte",
+        "fr": "La fontaine",
+        "it": "La fontana"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the fountains",
+        "fr": "Plural: les fontaines",
+        "it": "Plural: le fontane",
+        "pt": "Plural: as fontes"
+      }
     },
     {
       "id": "ci181",
-      "es": "Mirador",
+      "es": "El mirador",
       "translations": {
-        "en": "Viewpoint / Scenic overlook",
-        "pt": "Mirante",
-        "fr": "Point de vue / Belvédère",
-        "it": "Belvedere / Punto panoramico"
+        "en": "The viewpoint",
+        "pt": "O mirante",
+        "fr": "Le belvédère",
+        "it": "Il belvedere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the viewpoints",
+        "fr": "Plural: les belvédères",
+        "it": "Plural: i belvedere",
+        "pt": "Plural: os mirantes"
+      }
     },
     {
       "id": "ci182",
-      "es": "Torre",
+      "es": "La torre",
       "translations": {
-        "en": "Tower",
-        "pt": "Torre",
-        "fr": "Tour",
-        "it": "Torre"
+        "en": "The tower",
+        "pt": "A torre",
+        "fr": "La tour",
+        "it": "La torre"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the towers",
+        "fr": "Plural: les tours",
+        "it": "Plural: le torri",
+        "pt": "Plural: as torres"
+      }
     },
     {
       "id": "ci183",
-      "es": "Ruinas",
+      "es": "Las ruinas",
       "translations": {
-        "en": "Ruins",
-        "pt": "Ruínas",
-        "fr": "Ruines",
-        "it": "Rovine"
+        "en": "The ruins",
+        "pt": "As ruínas",
+        "fr": "Les ruines",
+        "it": "Le rovine"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa normalmente en plural."
+      }
     },
     {
       "id": "ci184",
-      "es": "Cementerio",
+      "es": "El cementerio",
       "translations": {
-        "en": "Cemetery",
-        "pt": "Cemitério",
-        "fr": "Cimetière",
-        "it": "Cimitero"
+        "en": "The cemetery",
+        "pt": "O cemitério",
+        "fr": "Le cimetière",
+        "it": "Il cimitero"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cemeteries",
+        "fr": "Plural: les cimetières",
+        "it": "Plural: i cimiteri",
+        "pt": "Plural: os cemitérios"
+      }
     },
     {
       "id": "ci185",
-      "es": "Jardín botánico",
+      "es": "El jardín botánico",
       "translations": {
-        "en": "Botanical garden",
-        "pt": "Jardim botânico",
-        "fr": "Jardin botanique",
-        "it": "Giardino botanico / Orto botanico"
+        "en": "The botanical garden",
+        "pt": "O jardim botânico",
+        "fr": "Le jardin botanique",
+        "it": "Il giardino botanico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the botanical gardens",
+        "fr": "Plural: les jardins botaniques",
+        "it": "Plural: i giardini botanici",
+        "pt": "Plural: os jardins botânicos"
+      }
     },
     {
       "id": "ci186",
-      "es": "Zoológico",
+      "es": "El zoológico",
       "translations": {
-        "en": "Zoo",
-        "pt": "Zoológico",
-        "fr": "Zoo / Parc zoologique",
-        "it": "Zoo / Giardino zoologico"
+        "en": "The zoo",
+        "pt": "O zoológico",
+        "fr": "Le zoo",
+        "it": "Lo zoo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the zoos",
+        "fr": "Plural: les zoos",
+        "it": "Plural: gli zoo",
+        "pt": "Plural: os zoológicos"
+      }
     },
     {
       "id": "ci187",
-      "es": "Acuario (atracción turística)",
+      "es": "El acuario",
       "translations": {
-        "en": "Aquarium",
-        "pt": "Aquário",
-        "fr": "Aquarium",
-        "it": "Acquario"
+        "en": "The aquarium",
+        "pt": "O aquário",
+        "fr": "L'aquarium",
+        "it": "L'acquario"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the aquariums",
+        "fr": "Plural: les aquariums",
+        "it": "Plural: gli acquari",
+        "pt": "Plural: os aquários"
+      }
     },
     {
       "id": "ci188",
-      "es": "Parque de diversiones / Parque de atracciones",
+      "es": "El parque de diversiones",
       "translations": {
-        "en": "Amusement park / Theme park",
-        "pt": "Parque de diversões",
-        "fr": "Parc d'attractions",
-        "it": "Parco divertimenti"
+        "en": "The amusement park",
+        "pt": "O parque de diversões",
+        "fr": "Le parc d'attractions",
+        "it": "Il parco divertimenti"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the amusement parks",
+        "fr": "Plural: les parcs d'attractions",
+        "it": "Plural: i parchi divertimenti",
+        "pt": "Plural: os parques de diversões"
+      }
     },
     {
       "id": "ci189",
-      "es": "Estadio",
+      "es": "El estadio",
       "translations": {
-        "en": "Stadium",
-        "pt": "Estádio",
-        "fr": "Stade",
-        "it": "Stadio"
+        "en": "The stadium",
+        "pt": "O estádio",
+        "fr": "Le stade",
+        "it": "Lo stadio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the stadiums",
+        "fr": "Plural: les stades",
+        "it": "Plural: gli stadi",
+        "pt": "Plural: os estádios"
+      }
     },
     {
       "id": "ci190",
-      "es": "Gimnasio",
+      "es": "El gimnasio",
       "translations": {
-        "en": "Gym / Fitness center",
-        "pt": "Academia / Academia de ginástica",
-        "fr": "Salle de sport",
-        "it": "Palestra"
+        "en": "The gym",
+        "pt": "A academia",
+        "fr": "La salle de sport",
+        "it": "La palestra"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the gyms",
+        "fr": "Plural: les salles de sport",
+        "it": "Plural: le palestre",
+        "pt": "Plural: as academias «Academia» significa gimnasio en este contexto, no institución académica."
+      }
     },
     {
       "id": "ci191",
-      "es": "Centro deportivo / Polideportivo",
+      "es": "El centro deportivo",
       "translations": {
-        "en": "Sports center / Recreation center",
-        "pt": "Centro esportivo",
-        "fr": "Centre sportif",
-        "it": "Centro sportivo"
+        "en": "The sports center",
+        "pt": "O centro esportivo",
+        "fr": "Le centre sportif",
+        "it": "Il centro sportivo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sports centers",
+        "fr": "Plural: les centres sportifs",
+        "it": "Plural: i centri sportivi",
+        "pt": "Plural: os centros esportivos"
+      }
     },
     {
       "id": "ci192",
-      "es": "Piscina pública / Alberca pública",
+      "es": "La alberca pública",
       "translations": {
-        "en": "Public swimming pool",
-        "pt": "Piscina pública",
-        "fr": "Piscine publique",
-        "it": "Piscina pubblica"
+        "en": "The public swimming pool",
+        "pt": "A piscina pública",
+        "fr": "La piscine publique",
+        "it": "La piscina pubblica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the public swimming pools",
+        "fr": "Plural: les piscines publiques",
+        "it": "Plural: le piscine pubbliche",
+        "pt": "Plural: as piscinas públicas"
+      }
     },
     {
       "id": "ci193",
-      "es": "Boliche / Bolera",
+      "es": "El boliche",
       "translations": {
-        "en": "Bowling alley",
-        "pt": "Boliche",
-        "fr": "Bowling",
-        "it": "Sala da bowling"
+        "en": "The bowling alley",
+        "pt": "O boliche",
+        "fr": "Le bowling",
+        "it": "La sala da bowling"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bowling alleys",
+        "fr": "Plural: les bowlings",
+        "it": "Plural: le sale da bowling",
+        "pt": "Plural: os boliches En Brasil, «boliche» es el local o la actividad del juego de bolos."
+      }
     },
     {
       "id": "ci194",
-      "es": "Discoteca / Antro",
+      "es": "La discoteca",
       "translations": {
-        "en": "Nightclub",
-        "pt": "Boate / Casa noturna",
-        "fr": "Boîte de nuit / Discothèque",
-        "it": "Discoteca / Locale notturno"
+        "en": "The nightclub",
+        "pt": "A boate",
+        "fr": "La boîte de nuit",
+        "it": "La discoteca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the nightclubs",
+        "fr": "Plural: les boîtes de nuit",
+        "it": "Plural: le discoteche",
+        "pt": "Plural: as boates"
+      }
     },
     {
       "id": "ci195",
-      "es": "Spa / Centro de bienestar",
+      "es": "La spa",
       "translations": {
-        "en": "Spa / Wellness center",
-        "pt": "Spa / Centro de bem-estar",
-        "fr": "Spa / Centre de bien-être",
-        "it": "Spa / Centro benessere"
+        "en": "The spa",
+        "pt": "O spa",
+        "fr": "Le spa",
+        "it": "La spa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the spas",
+        "fr": "Plural: les spas",
+        "it": "Plural: le spa",
+        "pt": "Plural: os spas"
+      }
     },
     {
       "id": "ci196",
-      "es": "Termas / Baños termales",
+      "es": "Los baños termales",
       "translations": {
-        "en": "Thermal baths / Hot spring baths",
-        "pt": "Termas / Banhos termais",
-        "fr": "Thermes / Bains thermaux",
-        "it": "Terme / Bagni termali"
+        "en": "The thermal baths",
+        "pt": "As termas",
+        "fr": "Les thermes",
+        "it": "Le terme"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Instalaciones termales; uso habitual en plural."
+      }
     },
     {
       "id": "ci197",
-      "es": "Playa",
+      "es": "La playa",
       "translations": {
-        "en": "Beach",
-        "pt": "Praia",
-        "fr": "Plage",
-        "it": "Spiaggia"
+        "en": "The beach",
+        "pt": "A praia",
+        "fr": "La plage",
+        "it": "La spiaggia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the beaches",
+        "fr": "Plural: les plages",
+        "it": "Plural: le spiagge",
+        "pt": "Plural: as praias"
+      }
     },
     {
       "id": "ci198",
-      "es": "Paseo marítimo / Malecón",
+      "es": "El malecón",
       "translations": {
-        "en": "Seafront promenade / Waterfront promenade",
-        "pt": "Calçadão à beira-mar / Orla",
-        "fr": "Promenade du bord de mer",
-        "it": "Lungomare"
+        "en": "The waterfront promenade",
+        "pt": "O calçadão à beira-mar",
+        "fr": "La promenade du bord de mer",
+        "it": "Il lungomare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the waterfront promenades",
+        "fr": "Plural: les promenades du bord de mer",
+        "it": "Plural: i lungomari",
+        "pt": "Plural: os calçadões à beira-mar"
+      }
     },
     {
       "id": "ci199",
-      "es": "Río",
+      "es": "El río",
       "translations": {
-        "en": "River",
-        "pt": "Rio",
-        "fr": "Rivière / Fleuve",
-        "it": "Fiume"
+        "en": "The river",
+        "pt": "O rio",
+        "fr": "La rivière",
+        "it": "Il fiume"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the rivers",
+        "fr": "Plural: les rivières",
+        "it": "Plural: i fiumi",
+        "pt": "Plural: os rios",
+        "es": "En francés, «rivière» desemboca en otro río; «fleuve», en el mar."
+      }
     },
     {
       "id": "ci200",
-      "es": "Lago",
+      "es": "El lago",
       "translations": {
-        "en": "Lake",
-        "pt": "Lago",
-        "fr": "Lac",
-        "it": "Lago"
+        "en": "The lake",
+        "pt": "O lago",
+        "fr": "Le lac",
+        "it": "Il lago"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lakes",
+        "fr": "Plural: les lacs",
+        "it": "Plural: i lagi",
+        "pt": "Plural: os lagos"
+      }
     },
     {
       "id": "ci201",
-      "es": "Muelle (estructura para embarcar o pasear)",
+      "es": "El muelle",
       "translations": {
-        "en": "Pier / Dock",
-        "pt": "Píer / Cais",
-        "fr": "Jetée / Quai",
-        "it": "Molo / Pontile"
+        "en": "The pier",
+        "pt": "O píer",
+        "fr": "La jetée",
+        "it": "Il molo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the piers",
+        "fr": "Plural: les jetées",
+        "it": "Plural: i moli",
+        "pt": "Plural: os píeres"
+      }
     },
     {
       "id": "ci202",
-      "es": "Hotel",
+      "es": "El hotel",
       "translations": {
-        "en": "Hotel",
-        "pt": "Hotel",
-        "fr": "Hôtel",
-        "it": "Hotel / Albergo"
+        "en": "The hotel",
+        "pt": "O hotel",
+        "fr": "L'hôtel",
+        "it": "Il hotel"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hotels",
+        "fr": "Plural: les hôtels",
+        "it": "Plural: gli hotel",
+        "pt": "Plural: os hotéis"
+      }
     },
     {
       "id": "ci203",
-      "es": "Albergue para viajeros / Hostel",
+      "es": "El hostal",
       "translations": {
-        "en": "Hostel",
-        "pt": "Hostel / Albergue",
-        "fr": "Auberge de jeunesse",
-        "it": "Ostello"
+        "en": "The hostel",
+        "pt": "O hostel",
+        "fr": "L'auberge de jeunesse",
+        "it": "L'ostello"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hostels",
+        "fr": "Plural: les auberges de jeunesse",
+        "it": "Plural: gli ostelli",
+        "pt": "Plural: os hostéis"
+      }
     },
     {
       "id": "ci204",
-      "es": "Casa de huéspedes / Pensión (alojamiento)",
+      "es": "La casa de huéspedes",
       "translations": {
-        "en": "Guesthouse / Boardinghouse",
-        "pt": "Pousada / Pensão",
-        "fr": "Maison d'hôtes / Pension de famille",
-        "it": "Pensione / Affittacamere"
+        "en": "The guesthouse",
+        "pt": "A casa de hóspedes",
+        "fr": "La maison d'hôtes",
+        "it": "L'affittacamere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the guesthouses",
+        "fr": "Plural: les maisons d'hôtes",
+        "it": "Plural: gli affittacamere",
+        "pt": "Plural: as casas de hóspedes",
+        "es": "Casa de huéspedes; no necesariamente pensión con comidas."
+      }
     },
     {
       "id": "ci205",
-      "es": "Estación de tren / Ferrocarril",
+      "es": "La estación de tren",
       "translations": {
-        "en": "Train station / Railroad station",
-        "pt": "Estação de trem",
-        "fr": "Gare",
-        "it": "Stazione ferroviaria"
+        "en": "The train station",
+        "pt": "A estação de trem",
+        "fr": "La gare",
+        "it": "La stazione ferroviaria"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the train stations",
+        "fr": "Plural: les gares",
+        "it": "Plural: le stazioni ferroviarie",
+        "pt": "Plural: as estações de trem"
+      }
     },
     {
       "id": "ci206",
-      "es": "Estación de metro",
+      "es": "La estación de metro",
       "translations": {
-        "en": "Subway station / Metro station",
-        "pt": "Estação de metrô",
-        "fr": "Station de métro",
-        "it": "Stazione della metropolitana"
+        "en": "The subway station",
+        "pt": "A estação de metrô",
+        "fr": "La station de métro",
+        "it": "La stazione della metropolitana"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the subway stations",
+        "fr": "Plural: les stations de métro",
+        "it": "Plural: le stazioni della metropolitana",
+        "pt": "Plural: as estações de metrô"
+      }
     },
     {
       "id": "ci207",
-      "es": "Parada de autobús / Camión",
+      "es": "La parada de autobús",
       "translations": {
-        "en": "Bus stop",
-        "pt": "Ponto de ônibus",
-        "fr": "Arrêt de bus",
-        "it": "Fermata dell'autobus"
+        "en": "The bus stop",
+        "pt": "O ponto de ônibus",
+        "fr": "L'arrêt de bus",
+        "it": "La fermata dell'autobus"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bus stops",
+        "fr": "Plural: les arrêts de bus",
+        "it": "Plural: le fermate dell'autobus",
+        "pt": "Plural: os pontos de ônibus"
+      }
     },
     {
       "id": "ci208",
-      "es": "Terminal de autobuses / Central camionera",
+      "es": "La terminal de autobuses",
       "translations": {
-        "en": "Bus station / Bus terminal",
-        "pt": "Rodoviária / Terminal rodoviário",
-        "fr": "Gare routière",
-        "it": "Autostazione / Terminal degli autobus"
+        "en": "The bus terminal",
+        "pt": "O terminal rodoviário",
+        "fr": "La gare routière",
+        "it": "L'autostazione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bus terminals",
+        "fr": "Plural: les gares routières",
+        "it": "Plural: le autostazioni",
+        "pt": "Plural: os terminais rodoviários"
+      }
     },
     {
       "id": "ci209",
-      "es": "Parada de tranvía",
+      "es": "La parada de tranvía",
       "translations": {
-        "en": "Streetcar stop / Tram stop",
-        "pt": "Parada de bonde",
-        "fr": "Arrêt de tramway",
-        "it": "Fermata del tram"
+        "en": "The streetcar stop",
+        "pt": "A parada de bonde",
+        "fr": "L'arrêt de tramway",
+        "it": "La fermata del tram"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the streetcar stops",
+        "fr": "Plural: les arrêts de tramway",
+        "it": "Plural: le fermate del tram",
+        "pt": "Plural: as paradas de bonde"
+      }
     },
     {
       "id": "ci210",
-      "es": "Sitio / Parada de taxis",
+      "es": "El sitio de taxis",
       "translations": {
-        "en": "Taxi stand",
-        "pt": "Ponto de táxi",
-        "fr": "Station de taxis",
-        "it": "Posteggio taxi"
+        "en": "The taxi stand",
+        "pt": "O ponto de táxi",
+        "fr": "La station de taxis",
+        "it": "Il posteggio taxi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the taxi stands",
+        "fr": "Plural: les stations de taxis",
+        "it": "Plural: i posteggi taxi",
+        "pt": "Plural: os pontos de táxi"
+      }
     },
     {
       "id": "ci211",
-      "es": "Aeropuerto",
+      "es": "El aeropuerto",
       "translations": {
-        "en": "Airport",
-        "pt": "Aeroporto",
-        "fr": "Aéroport",
-        "it": "Aeroporto"
+        "en": "The airport",
+        "pt": "O aeroporto",
+        "fr": "L'aéroport",
+        "it": "L'aeroporto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the airports",
+        "fr": "Plural: les aéroports",
+        "it": "Plural: gli aeroporti",
+        "pt": "Plural: os aeroportos"
+      }
     },
     {
       "id": "ci212",
-      "es": "Puerto",
+      "es": "El puerto",
       "translations": {
-        "en": "Port / Harbor",
-        "pt": "Porto",
-        "fr": "Port",
-        "it": "Porto"
+        "en": "The port",
+        "pt": "O porto",
+        "fr": "Le port",
+        "it": "Il porto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ports",
+        "fr": "Plural: les ports",
+        "it": "Plural: i porti",
+        "pt": "Plural: os portos"
+      }
     },
     {
       "id": "ci213",
-      "es": "Terminal de ferry",
+      "es": "La terminal de ferry",
       "translations": {
-        "en": "Ferry terminal",
-        "pt": "Terminal de balsas",
-        "fr": "Terminal de ferry",
-        "it": "Terminal dei traghetti"
+        "en": "The ferry terminal",
+        "pt": "O terminal de balsas",
+        "fr": "Le terminal de ferry",
+        "it": "Il terminal dei traghetti"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ferry terminals",
+        "fr": "Plural: les terminaux de ferry",
+        "it": "Plural: i terminal dei traghetti",
+        "pt": "Plural: os terminais de balsas"
+      }
     },
     {
       "id": "ci214",
-      "es": "Estacionamiento / Aparcamiento",
+      "es": "El estacionamiento",
       "translations": {
-        "en": "Parking lot / Parking garage",
-        "pt": "Estacionamento",
-        "fr": "Parking",
-        "it": "Parcheggio"
+        "en": "The parking lot",
+        "pt": "O estacionamento",
+        "fr": "Le parking",
+        "it": "Il parcheggio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the parking lots Para un estacionamiento cubierto de varios niveles: «parking garage».",
+        "fr": "Plural: les parkings",
+        "it": "Plural: i parcheggi",
+        "pt": "Plural: os estacionamentos",
+        "es": "«Parking lot» es estacionamiento al aire libre; un edificio de estacionamiento es «parking garage»."
+      }
     },
     {
       "id": "ci215",
-      "es": "Gasolinera / Estación de servicio",
+      "es": "La gasolinera",
       "translations": {
-        "en": "Gas station / Service station",
-        "pt": "Posto de gasolina / Posto de combustível",
-        "fr": "Station-service",
-        "it": "Distributore di benzina / Stazione di servizio"
+        "en": "The gas station",
+        "pt": "O posto de gasolina",
+        "fr": "La station-service",
+        "it": "Il distributore di benzina"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the gas stations",
+        "fr": "Plural: les stations-service",
+        "it": "Plural: i distributori di benzina",
+        "pt": "Plural: os postos de gasolina"
+      }
     },
     {
       "id": "ci216",
-      "es": "Punto de carga de vehículos eléctricos",
+      "es": "El punto de carga de vehículos eléctricos",
       "translations": {
-        "en": "EV charging station / Electric vehicle charging station",
-        "pt": "Estação de recarga de veículos elétricos",
-        "fr": "Borne de recharge pour véhicules électriques",
-        "it": "Stazione di ricarica per veicoli elettrici"
+        "en": "The eV charging station",
+        "pt": "A estação de recarga de veículos elétricos",
+        "fr": "La borne de recharge pour véhicules électriques",
+        "it": "La stazione di ricarica per veicoli elettrici"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the EV charging stations",
+        "fr": "Plural: les bornes de recharge pour véhicules électriques",
+        "it": "Plural: le stazioni di ricarica per veicoli elettrici",
+        "pt": "Plural: as estações de recarga de veículos elétricos"
+      }
     },
     {
       "id": "ci217",
-      "es": "Oficina de alquiler de autos",
+      "es": "La agencia de alquiler de autos",
       "translations": {
-        "en": "Car rental office",
-        "pt": "Locadora de veículos",
-        "fr": "Agence de location de voitures",
-        "it": "Autonoleggio"
+        "en": "The car rental office",
+        "pt": "A locadora de veículos",
+        "fr": "L'agence de location de voitures",
+        "it": "L'autonoleggio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the car rental offices",
+        "fr": "Plural: les agences de location de voitures",
+        "it": "Plural: gli autonoleggi",
+        "pt": "Plural: as locadoras de veículos"
+      }
     },
     {
       "id": "ci218",
-      "es": "Tienda / Punto de alquiler de bicicletas",
+      "es": "El alquiler de bicicletas",
       "translations": {
-        "en": "Bike rental shop / Bike rental station",
-        "pt": "Loja de aluguel de bicicletas",
-        "fr": "Point de location de vélos",
-        "it": "Noleggio biciclette"
+        "en": "The bike rental service",
+        "pt": "O serviço de aluguel de bicicletas",
+        "fr": "Le service de location de vélos",
+        "it": "Il servizio di noleggio biciclette"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: bike rental services",
+        "fr": "Plural: les services de location de vélos",
+        "it": "Plural: i servizi di noleggio biciclette",
+        "pt": "Plural: os serviços de aluguel de bicicletas",
+        "es": "Servicio de alquiler, no necesariamente una tienda física."
+      }
     },
     {
       "id": "ci219",
       "es": "Cerca de",
       "translations": {
-        "en": "Near / Close to",
+        "en": "Near",
         "pt": "Perto de",
         "fr": "Près de",
         "it": "Vicino a"
@@ -2424,9 +3738,9 @@
     },
     {
       "id": "ci221",
-      "es": "Al lado de / Junto a",
+      "es": "Al lado de",
       "translations": {
-        "en": "Next to / Beside",
+        "en": "Next to",
         "pt": "Ao lado de",
         "fr": "À côté de",
         "it": "Accanto a"
@@ -2435,10 +3749,10 @@
     },
     {
       "id": "ci222",
-      "es": "Frente a / Enfrente de (al otro lado)",
+      "es": "Enfrente de",
       "translations": {
-        "en": "Across from / Opposite",
-        "pt": "Em frente a / Do outro lado de",
+        "en": "Across from",
+        "pt": "Em frente a",
         "fr": "En face de",
         "it": "Di fronte a"
       },
@@ -2446,10 +3760,10 @@
     },
     {
       "id": "ci223",
-      "es": "Delante de (en la parte frontal)",
+      "es": "Delante de",
       "translations": {
         "en": "In front of",
-        "pt": "Na frente de / Diante de",
+        "pt": "Na frente de",
         "fr": "Devant",
         "it": "Davanti a"
       },
@@ -2468,23 +3782,23 @@
     },
     {
       "id": "ci225",
-      "es": "Entre (dos lugares)",
+      "es": "Entre",
       "translations": {
         "en": "Between",
         "pt": "Entre",
         "fr": "Entre",
-        "it": "Tra / Fra"
+        "it": "Tra"
       },
       "image_url": ""
     },
     {
       "id": "ci226",
-      "es": "En / Dentro de",
+      "es": "Dentro de",
       "translations": {
-        "en": "In / Inside",
-        "pt": "Em / Dentro de",
-        "fr": "Dans / À l'intérieur de",
-        "it": "In / Dentro"
+        "en": "In",
+        "pt": "Em",
+        "fr": "Dans",
+        "it": "In"
       },
       "image_url": ""
     },
@@ -2492,21 +3806,21 @@
       "id": "ci227",
       "es": "Fuera de",
       "translations": {
-        "en": "Outside / Outside of",
+        "en": "Outside",
         "pt": "Fora de",
-        "fr": "À l'extérieur de / Hors de",
+        "fr": "À l'extérieur de",
         "it": "Fuori da"
       },
       "image_url": ""
     },
     {
       "id": "ci228",
-      "es": "Sobre / Encima de (con contacto)",
+      "es": "Encima de",
       "translations": {
-        "en": "On / On top of",
-        "pt": "Sobre / Em cima de",
+        "en": "On",
+        "pt": "Sobre",
         "fr": "Sur",
-        "it": "Su / Sopra"
+        "it": "Su"
       },
       "image_url": ""
     },
@@ -2514,9 +3828,9 @@
       "id": "ci229",
       "es": "Debajo de",
       "translations": {
-        "en": "Under / Below",
-        "pt": "Debaixo de / Abaixo de",
-        "fr": "Sous / En dessous de",
+        "en": "Under",
+        "pt": "Debaixo de",
+        "fr": "Sous",
         "it": "Sotto"
       },
       "image_url": ""
@@ -2525,7 +3839,7 @@
       "id": "ci230",
       "es": "A la derecha",
       "translations": {
-        "en": "On the right / To the right",
+        "en": "On the right",
         "pt": "À direita",
         "fr": "À droite",
         "it": "A destra"
@@ -2536,7 +3850,7 @@
       "id": "ci231",
       "es": "A la izquierda",
       "translations": {
-        "en": "On the left / To the left",
+        "en": "On the left",
         "pt": "À esquerda",
         "fr": "À gauche",
         "it": "A sinistra"
@@ -2545,10 +3859,10 @@
     },
     {
       "id": "ci232",
-      "es": "Todo recto / Derecho (sin girar)",
+      "es": "Todo recto",
       "translations": {
         "en": "Straight ahead",
-        "pt": "Sempre em frente / Reto",
+        "pt": "Sempre em frente",
         "fr": "Tout droit",
         "it": "Sempre dritto"
       },
@@ -2556,18 +3870,18 @@
     },
     {
       "id": "ci233",
-      "es": "Al final de / Al fondo de",
+      "es": "Al final de",
       "translations": {
         "en": "At the end of",
-        "pt": "No final de / No fim de",
-        "fr": "Au bout de / À la fin de",
-        "it": "In fondo a / Alla fine di"
+        "pt": "No final de",
+        "fr": "Au bout de",
+        "it": "In fondo a"
       },
       "image_url": ""
     },
     {
       "id": "ci234",
-      "es": "Antes de (en una ruta)",
+      "es": "Antes de",
       "translations": {
         "en": "Before",
         "pt": "Antes de",
@@ -2578,9 +3892,9 @@
     },
     {
       "id": "ci235",
-      "es": "Después de / Pasando (en una ruta)",
+      "es": "Después de",
       "translations": {
-        "en": "After / Past",
+        "en": "After",
         "pt": "Depois de",
         "fr": "Après",
         "it": "Dopo"
@@ -2589,73 +3903,73 @@
     },
     {
       "id": "ci236",
-      "es": "Hacia / En dirección a",
+      "es": "Hacia",
       "translations": {
-        "en": "Toward / In the direction of",
+        "en": "Toward",
         "pt": "Em direção a",
-        "fr": "Vers / En direction de",
-        "it": "Verso / In direzione di"
+        "fr": "Vers",
+        "it": "Verso"
       },
       "image_url": ""
     },
     {
       "id": "ci237",
-      "es": "Norte",
+      "es": "El norte",
       "translations": {
-        "en": "North",
-        "pt": "Norte",
-        "fr": "Nord",
-        "it": "Nord"
+        "en": "The north",
+        "pt": "O norte",
+        "fr": "Le nord",
+        "it": "Il nord"
       },
       "image_url": ""
     },
     {
       "id": "ci238",
-      "es": "Sur",
+      "es": "El sur",
       "translations": {
-        "en": "South",
-        "pt": "Sul",
-        "fr": "Sud",
-        "it": "Sud"
+        "en": "The south",
+        "pt": "O sul",
+        "fr": "Le sud",
+        "it": "Il sud"
       },
       "image_url": ""
     },
     {
       "id": "ci239",
-      "es": "Este (punto cardinal)",
+      "es": "El este",
       "translations": {
-        "en": "East",
-        "pt": "Leste",
-        "fr": "Est",
-        "it": "Est"
+        "en": "The east",
+        "pt": "O leste",
+        "fr": "L'est",
+        "it": "L'est"
       },
       "image_url": ""
     },
     {
       "id": "ci240",
-      "es": "Oeste",
+      "es": "El oeste",
       "translations": {
-        "en": "West",
-        "pt": "Oeste",
-        "fr": "Ouest",
-        "it": "Ovest"
+        "en": "The west",
+        "pt": "O oeste",
+        "fr": "L'ouest",
+        "it": "L'ovest"
       },
       "image_url": ""
     },
     {
       "id": "ci241",
-      "es": "Girar / Dar vuelta",
+      "es": "Girar",
       "translations": {
         "en": "To turn",
         "pt": "Virar",
         "fr": "Tourner",
-        "it": "Girare / Svoltare"
+        "it": "Girare"
       },
       "image_url": ""
     },
     {
       "id": "ci242",
-      "es": "Cruzar / Atravesar (una calle)",
+      "es": "Cruzar",
       "translations": {
         "en": "To cross",
         "pt": "Atravessar",
@@ -2666,12 +3980,12 @@
     },
     {
       "id": "ci243",
-      "es": "Caminar / Ir a pie",
+      "es": "Caminar",
       "translations": {
-        "en": "To walk / To go on foot",
-        "pt": "Caminhar / Ir a pé",
-        "fr": "Marcher / Aller à pied",
-        "it": "Camminare / Andare a piedi"
+        "en": "To walk",
+        "pt": "Caminhar",
+        "fr": "Marcher",
+        "it": "Camminare"
       },
       "image_url": ""
     },
@@ -2897,80 +4211,115 @@
     },
     {
       "id": "ci264",
-      "es": "Sigue recto. / Siga recto.",
+      "es": "Siga recto.",
       "translations": {
         "en": "Go straight ahead.",
         "pt": "Siga em frente.",
-        "fr": "Continue tout droit. / Continuez tout droit.",
-        "it": "Vai dritto. / Vada dritto."
+        "fr": "Continuez tout droit.",
+        "it": "Vada dritto."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa el tratamiento de usted.",
+        "fr": "Tratamiento de vous; el de tu utiliza conjugaciones diferentes.",
+        "it": "Tratamiento formal de Lei; el informal usa otras conjugaciones."
+      }
     },
     {
       "id": "ci265",
-      "es": "Gira a la derecha. / Gire a la derecha.",
+      "es": "Gire a la derecha.",
       "translations": {
         "en": "Turn right.",
         "pt": "Vire à direita.",
-        "fr": "Tourne à droite. / Tournez à droite.",
-        "it": "Gira a destra. / Giri a destra."
+        "fr": "Tournez à droite.",
+        "it": "Giri a destra."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa el tratamiento de usted.",
+        "fr": "Tratamiento de vous; el de tu utiliza conjugaciones diferentes.",
+        "it": "Tratamiento formal de Lei; el informal usa otras conjugaciones."
+      }
     },
     {
       "id": "ci266",
-      "es": "Toma la primera calle a la izquierda. / Tome la primera calle a la izquierda.",
+      "es": "Tome la primera calle a la izquierda.",
       "translations": {
         "en": "Take the first street on the left.",
         "pt": "Pegue a primeira rua à esquerda.",
-        "fr": "Prends la première rue à gauche. / Prenez la première rue à gauche.",
-        "it": "Prendi la prima strada a sinistra. / Prenda la prima strada a sinistra."
+        "fr": "Prenez la première rue à gauche.",
+        "it": "Prenda la prima strada a sinistra."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa el tratamiento de usted.",
+        "fr": "Tratamiento de vous; el de tu utiliza conjugaciones diferentes.",
+        "it": "Tratamiento formal de Lei; el informal usa otras conjugaciones."
+      }
     },
     {
       "id": "ci267",
-      "es": "Sigue dos cuadras y luego gira a la derecha. / Siga dos cuadras y luego gire a la derecha.",
+      "es": "Siga dos cuadras y luego gire a la derecha.",
       "translations": {
         "en": "Go two blocks, then turn right.",
         "pt": "Siga por dois quarteirões e depois vire à direita.",
-        "fr": "Avance de deux pâtés de maisons, puis tourne à droite. / Avancez de deux pâtés de maisons, puis tournez à droite.",
-        "it": "Prosegui per due isolati, poi gira a destra. / Prosegua per due isolati, poi giri a destra."
+        "fr": "Avancez de deux pâtés de maisons, puis tournez à droite.",
+        "it": "Prosegua per due isolati, poi giri a destra."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa el tratamiento de usted.",
+        "fr": "Tratamiento de vous; el de tu utiliza conjugaciones diferentes.",
+        "it": "Tratamiento formal de Lei; el informal usa otras conjugaciones."
+      }
     },
     {
       "id": "ci268",
-      "es": "Cruza la calle en el paso de peatones. / Cruce la calle en el paso de peatones.",
+      "es": "Cruce la calle en el paso peatonal.",
       "translations": {
         "en": "Cross the street at the crosswalk.",
         "pt": "Atravesse a rua na faixa de pedestres.",
-        "fr": "Traverse la rue au passage piéton. / Traversez la rue au passage piéton.",
-        "it": "Attraversa la strada sulle strisce pedonali. / Attraversi la strada sulle strisce pedonali."
+        "fr": "Traversez la rue au passage piéton.",
+        "it": "Attraversi la strada sulle strisce pedonali."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa el tratamiento de usted.",
+        "fr": "Tratamiento de vous; el de tu utiliza conjugaciones diferentes.",
+        "it": "Tratamiento formal de Lei; el informal usa otras conjugaciones."
+      }
     },
     {
       "id": "ci269",
-      "es": "Pasa el semáforo y sigue recto. / Pase el semáforo y siga recto.",
+      "es": "Pase el semáforo y siga recto.",
       "translations": {
         "en": "Go past the traffic light and keep going straight.",
         "pt": "Passe pelo semáforo e siga em frente.",
-        "fr": "Passe le feu et continue tout droit. / Passez le feu et continuez tout droit.",
-        "it": "Supera il semaforo e prosegui dritto. / Superi il semaforo e prosegua dritto."
+        "fr": "Passez le feu et continuez tout droit.",
+        "it": "Superi il semaforo e prosegua dritto."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa el tratamiento de usted.",
+        "fr": "Tratamiento de vous; el de tu utiliza conjugaciones diferentes.",
+        "it": "Tratamiento formal de Lei; el informal usa otras conjugaciones."
+      }
     },
     {
       "id": "ci270",
-      "es": "Sigue hasta la plaza. / Siga hasta la plaza.",
+      "es": "Siga hasta la plaza.",
       "translations": {
         "en": "Keep going until you reach the square.",
         "pt": "Continue até a praça.",
-        "fr": "Continue jusqu'à la place. / Continuez jusqu'à la place.",
-        "it": "Continua fino alla piazza. / Continui fino alla piazza."
+        "fr": "Continuez jusqu'à la place.",
+        "it": "Continui fino alla piazza."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa el tratamiento de usted.",
+        "fr": "Tratamiento de vous; el de tu utiliza conjugaciones diferentes.",
+        "it": "Tratamiento formal de Lei; el informal usa otras conjugaciones."
+      }
     },
     {
       "id": "ci271",
@@ -3040,36 +4389,52 @@
     },
     {
       "id": "ci277",
-      "es": "Ya pasaste la tienda. / Ya pasó la tienda.",
+      "es": "Ya pasó la tienda.",
       "translations": {
         "en": "You've already gone past the store.",
         "pt": "Você já passou da loja.",
-        "fr": "Tu as déjà dépassé le magasin. / Vous avez déjà dépassé le magasin.",
-        "it": "Hai già superato il negozio. / Ha già superato il negozio."
+        "fr": "Vous avez déjà dépassé le magasin.",
+        "it": "Ha già superato il negozio."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa el tratamiento de usted.",
+        "fr": "Tratamiento de vous; el de tu utiliza conjugaciones diferentes.",
+        "it": "Tratamiento formal de Lei; el informal usa otras conjugaciones."
+      }
     },
     {
       "id": "ci278",
-      "es": "Regresa por el mismo camino. / Regrese por el mismo camino.",
+      "es": "Regrese por el mismo camino.",
       "translations": {
         "en": "Go back the way you came.",
         "pt": "Volte pelo mesmo caminho.",
-        "fr": "Reviens sur tes pas. / Revenez sur vos pas.",
-        "it": "Torna indietro per la stessa strada. / Torni indietro per la stessa strada."
+        "fr": "Revenez sur vos pas.",
+        "it": "Torni indietro per la stessa strada."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa el tratamiento de usted.",
+        "fr": "Tratamiento de vous; el de tu utiliza conjugaciones diferentes.",
+        "it": "Tratamiento formal de Lei; el informal usa otras conjugaciones."
+      }
     },
     {
       "id": "ci279",
-      "es": "Estoy perdido/a.",
+      "es": "Estoy perdido.",
       "translations": {
         "en": "I'm lost.",
-        "pt": "Estou perdido. / Estou perdida.",
-        "fr": "Je suis perdu. / Je suis perdue.",
-        "it": "Mi sono perso. / Mi sono persa."
+        "pt": "Estou perdido.",
+        "fr": "Je suis perdu.",
+        "it": "Mi sono perso."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Para una hablante: «Estoy perdida».",
+        "fr": "Femenino: je suis perdue.",
+        "it": "Femenino: mi sono persa.",
+        "pt": "Femenino: estou perdida."
+      }
     },
     {
       "id": "ci280",
@@ -3131,11 +4496,14 @@
       "es": "Gracias, ya sé cómo llegar.",
       "translations": {
         "en": "Thanks, now I know how to get there.",
-        "pt": "Obrigado, agora sei como chegar. / Obrigada, agora sei como chegar.",
+        "pt": "Obrigado, agora sei como chegar.",
         "fr": "Merci, maintenant je sais comment y aller.",
         "it": "Grazie, ora so come arrivarci."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Obrigado» lo dice normalmente un hombre; «obrigada», una mujer."
+      }
     },
     {
       "id": "ci286",
@@ -3271,14 +4639,21 @@
     },
     {
       "id": "ci298",
-      "es": "¿A qué hora abre / cierra la tienda?",
+      "es": "¿A qué hora abre la tienda?",
       "translations": {
-        "en": "What time does the store open? / What time does the store close?",
-        "pt": "A que horas a loja abre? / A que horas a loja fecha?",
-        "fr": "À quelle heure le magasin ouvre-t-il ? / À quelle heure le magasin ferme-t-il ?",
-        "it": "A che ora apre il negozio? / A che ora chiude il negozio?"
+        "en": "What time does the store open?",
+        "pt": "A que horas a loja abre?",
+        "fr": "À quelle heure le magasin ouvre-t-il ?",
+        "it": "A che ora apre il negozio?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Esta tarjeta pregunta por la apertura; para el cierre, «¿A qué hora cierra la tienda?».",
+        "en": "Para preguntar por el cierre: «What time does the store close?».",
+        "fr": "Para el cierre: «À quelle heure le magasin ferme-t-il ?».",
+        "it": "Para el cierre: «A che ora chiude il negozio?».",
+        "pt": "Para el cierre: «A que horas a loja fecha?»."
+      }
     },
     {
       "id": "ci299",
@@ -3337,73 +4712,84 @@
     },
     {
       "id": "ci304",
-      "es": "Abierto (letrero de un comercio)",
+      "es": "Abierto",
       "translations": {
         "en": "Open",
         "pt": "Aberto",
         "fr": "Ouvert",
         "it": "Aperto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "En letreros, el adjetivo concuerda con el establecimiento al que se refiere.",
+        "pt": "Femenino: aberta.",
+        "fr": "Femenino: ouverte.",
+        "it": "Femenino: aperta."
+      }
     },
     {
       "id": "ci305",
-      "es": "Cerrado (letrero de un comercio)",
+      "es": "Cerrado",
       "translations": {
         "en": "Closed",
         "pt": "Fechado",
         "fr": "Fermé",
         "it": "Chiuso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: fechada.",
+        "fr": "Femenino: fermée.",
+        "it": "Femenino: chiusa."
+      }
     },
     {
       "id": "ci306",
-      "es": "Horario de atención / Horario de apertura",
+      "es": "El horario de atención",
       "translations": {
-        "en": "Business hours / Opening hours",
-        "pt": "Horário de funcionamento",
-        "fr": "Horaires d'ouverture",
-        "it": "Orari di apertura"
+        "en": "The business hours",
+        "pt": "O horário de funcionamento",
+        "fr": "Les horaires d'ouverture",
+        "it": "Gli orari di apertura"
       },
       "image_url": ""
     },
     {
       "id": "ci307",
-      "es": "Entrada libre / Acceso gratuito (letrero)",
+      "es": "Entrada gratuita",
       "translations": {
-        "en": "Free admission / Free entry",
+        "en": "Free admission",
         "pt": "Entrada gratuita",
-        "fr": "Entrée gratuite / Entrée libre",
-        "it": "Ingresso gratuito / Ingresso libero"
+        "fr": "Entrée gratuite",
+        "it": "Ingresso gratuito"
       },
       "image_url": ""
     },
     {
       "id": "ci308",
-      "es": "Solo personal autorizado (letrero)",
+      "es": "Solo personal autorizado",
       "translations": {
-        "en": "Authorized personnel only / Staff only",
+        "en": "Authorized personnel only",
         "pt": "Somente pessoal autorizado",
-        "fr": "Personnel autorisé uniquement / Réservé au personnel",
-        "it": "Solo personale autorizzato / Riservato al personale"
+        "fr": "Réservé au personnel",
+        "it": "Solo personale autorizzato"
       },
       "image_url": ""
     },
     {
       "id": "ci309",
-      "es": "No entrar / Prohibido el paso (letrero)",
+      "es": "Prohibido el paso",
       "translations": {
-        "en": "Do not enter / No entry",
-        "pt": "Não entre / Entrada proibida",
-        "fr": "Défense d'entrer / Accès interdit",
-        "it": "Vietato entrare / Accesso vietato"
+        "en": "No entry",
+        "pt": "Entrada proibida",
+        "fr": "Accès interdit",
+        "it": "Accesso vietato"
       },
       "image_url": ""
     },
     {
       "id": "ci310",
-      "es": "Calle cerrada por obras (letrero)",
+      "es": "Calle cerrada por obras",
       "translations": {
         "en": "Street closed for construction",
         "pt": "Rua interditada para obras",
@@ -3414,25 +4800,193 @@
     },
     {
       "id": "ci311",
-      "es": "Desvío (en una ruta)",
+      "es": "El desvío",
       "translations": {
-        "en": "Detour",
-        "pt": "Desvio",
-        "fr": "Déviation",
-        "it": "Deviazione"
+        "en": "The detour",
+        "pt": "O desvio",
+        "fr": "La déviation",
+        "it": "Il deviazione"
       },
       "image_url": ""
     },
     {
       "id": "ci312",
-      "es": "Zona peatonal",
+      "es": "La zona peatonal",
       "translations": {
-        "en": "Pedestrian zone / Pedestrian area",
-        "pt": "Área de pedestres",
-        "fr": "Zone piétonne",
-        "it": "Zona pedonale"
+        "en": "The pedestrian zone",
+        "pt": "O área de pedestres",
+        "fr": "Le zone piétonne",
+        "it": "Lo zona pedonale"
       },
       "image_url": ""
+    },
+    {
+      "id": "ci313",
+      "es": "Las escaleras",
+      "translations": {
+        "en": "The stairs",
+        "pt": "As escadas",
+        "fr": "L'escalier",
+        "it": "Le scale"
+      },
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les escaliers"
+      }
+    },
+    {
+      "id": "ci314",
+      "es": "El elevador",
+      "translations": {
+        "en": "The elevator",
+        "pt": "O elevador",
+        "fr": "L'ascenseur",
+        "it": "L'ascensore"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the elevators",
+        "fr": "Plural: les ascenseurs",
+        "it": "Plural: gli ascensori",
+        "pt": "Plural: os elevadores"
+      }
+    },
+    {
+      "id": "ci315",
+      "es": "Las escaleras eléctricas",
+      "translations": {
+        "en": "The escalator",
+        "pt": "A escada rolante",
+        "fr": "L'escalator",
+        "it": "La scala mobile"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the escalators",
+        "fr": "Plural: les escalators",
+        "it": "Plural: le scale mobili",
+        "pt": "Plural: as escadas rolantes",
+        "es": "En español de México también se dice «escaleras eléctricas»; cada aparato puede denominarse «escalera eléctrica»."
+      }
+    },
+    {
+      "id": "ci316",
+      "es": "La rampa",
+      "translations": {
+        "en": "The ramp",
+        "pt": "A rampa",
+        "fr": "La rampe",
+        "it": "La rampa"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ramps",
+        "fr": "Plural: les rampes",
+        "it": "Plural: le rampe",
+        "pt": "Plural: as rampas"
+      }
+    },
+    {
+      "id": "ci317",
+      "es": "La ciclovía",
+      "translations": {
+        "en": "The bike lane",
+        "pt": "A ciclovia",
+        "fr": "La piste cyclable",
+        "it": "La pista ciclabile"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bike lanes",
+        "fr": "Plural: les pistes cyclables",
+        "it": "Plural: le piste ciclabili",
+        "pt": "Plural: as ciclovias"
+      }
+    },
+    {
+      "id": "ci318",
+      "es": "El andén",
+      "translations": {
+        "en": "The platform",
+        "pt": "A plataforma",
+        "fr": "Le quai",
+        "it": "Il binario"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the platforms",
+        "fr": "Plural: les quais",
+        "it": "Plural: i binari",
+        "pt": "Plural: as plataformas",
+        "es": "En Italia suele indicarse por el número de vía."
+      }
+    },
+    {
+      "id": "ci319",
+      "es": "La farmacia de guardia",
+      "translations": {
+        "en": "The on-call pharmacy",
+        "pt": "A farmácia de plantão",
+        "fr": "La pharmacie de garde",
+        "it": "La farmacia di turno"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the on-call pharmacies",
+        "pt": "Plural: as farmácias de plantão",
+        "fr": "Plural: les pharmacies de garde",
+        "it": "Plural: le farmacie di turno"
+      }
+    },
+    {
+      "id": "ci320",
+      "es": "El baño accesible",
+      "translations": {
+        "en": "The accessible restroom",
+        "pt": "O banheiro acessível",
+        "fr": "Les toilettes accessibles",
+        "it": "Il bagno accessibile"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the accessible restrooms",
+        "pt": "Plural: os banheiros acessíveis",
+        "it": "Plural: i bagni accessibili"
+      }
+    },
+    {
+      "id": "ci321",
+      "es": "La puerta",
+      "translations": {
+        "en": "The door",
+        "pt": "A porta",
+        "fr": "La porte",
+        "it": "La porta"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the doors",
+        "pt": "Plural: as portas",
+        "fr": "Plural: les portes",
+        "it": "Plural: le porte"
+      }
+    },
+    {
+      "id": "ci322",
+      "es": "La escalera de emergencia",
+      "translations": {
+        "en": "The emergency staircase",
+        "pt": "A escada de emergência",
+        "fr": "L'escalier de secours",
+        "it": "La scala di emergenza"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the emergency staircases",
+        "pt": "Plural: as escadas de emergência",
+        "fr": "Plural: les escaliers de secours",
+        "it": "Plural: le scale di emergenza"
+      }
     }
   ]
 }

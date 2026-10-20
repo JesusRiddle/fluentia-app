@@ -1,1271 +1,1908 @@
 {
   "module": "Hoteles y alojamiento",
   "level": "A2",
+  "revisado": "true",
   "cards": [
     {
       "id": "ha1",
-      "es": "Hotel",
+      "es": "El hotel",
       "translations": {
-        "en": "Hotel",
-        "pt": "Hotel",
-        "fr": "Hôtel",
-        "it": "Hotel / Albergo"
+        "en": "The hotel",
+        "pt": "O hotel",
+        "fr": "L’hôtel",
+        "it": "L’hotel"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hotels",
+        "pt": "Plural: os hotéis",
+        "fr": "Plural: les hôtels",
+        "it": "Plural: gli hotel"
+      }
     },
     {
       "id": "ha2",
-      "es": "Motel (Estados Unidos: alojamiento para viajeros en automóvil)",
+      "es": "El motel",
       "translations": {
-        "en": "Motel",
-        "pt": "Motel nos Estados Unidos (hospedagem para viajantes de carro)",
-        "fr": "Motel aux États-Unis (hébergement pour les automobilistes)",
-        "it": "Motel negli Stati Uniti (alloggio per chi viaggia in auto)"
+        "en": "The motel",
+        "pt": "O motel",
+        "fr": "Le motel",
+        "it": "Il motel"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the motels",
+        "pt": "Plural: os motéis En Brasil, «motel» suele aludir a un alojamiento por horas; no equivale necesariamente al estadounidense.",
+        "fr": "Plural: les motels",
+        "it": "Plural: i motel",
+        "es": "En Estados Unidos suele ser un alojamiento de carretera para automovilistas; en México y Brasil «motel» también puede referirse a un alojamiento por horas."
+      }
     },
     {
       "id": "ha3",
-      "es": "Albergue turístico / Hostel",
+      "es": "El albergue turístico",
       "translations": {
-        "en": "Hostel",
-        "pt": "Hostel / Albergue",
-        "fr": "Auberge de jeunesse",
-        "it": "Ostello"
+        "en": "The hostel",
+        "pt": "O hostel",
+        "fr": "L’auberge de jeunesse",
+        "it": "L’ostello"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hostels",
+        "pt": "Plural: os hostels",
+        "fr": "Plural: les auberges de jeunesse",
+        "it": "Plural: gli ostelli",
+        "es": "También llamado hostel; suele ofrecer dormitorios compartidos."
+      }
     },
     {
       "id": "ha4",
-      "es": "Casa de huéspedes",
+      "es": "La casa de huéspedes",
       "translations": {
-        "en": "Guesthouse",
-        "pt": "Casa de hóspedes",
-        "fr": "Maison d'hôtes",
-        "it": "Affittacamere / Guest house"
+        "en": "The guesthouse",
+        "pt": "A casa de hóspedes",
+        "fr": "La maison d’hôtes",
+        "it": "L’affittacamere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the guesthouses",
+        "pt": "Plural: as casas de hóspedes",
+        "fr": "Plural: les maisons d’hôtes",
+        "it": "Plural: gli affittacamere"
+      }
     },
     {
       "id": "ha5",
-      "es": "Alojamiento con desayuno (B&B)",
+      "es": "El alojamiento con desayuno",
       "translations": {
-        "en": "Bed and breakfast / B&B",
-        "pt": "Bed and breakfast / B&B",
-        "fr": "Chambre d'hôtes / B&B",
-        "it": "Bed and breakfast / B&B"
+        "en": "The bed and breakfast",
+        "pt": "O bed and breakfast",
+        "fr": "La chambre d’hôtes",
+        "it": "Il bed and breakfast"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bed and breakfasts",
+        "pt": "Plural: os bed and breakfasts",
+        "fr": "Plural: les chambres d’hôtes",
+        "it": "Plural: i bed and breakfast",
+        "es": "B&B es la abreviatura habitual. Se refiere al tipo de establecimiento, no a una tarifa con desayuno incluido."
+      }
     },
     {
       "id": "ha6",
-      "es": "Pousada (tipo de alojamiento en Brasil)",
+      "es": "La posada brasileña",
       "translations": {
-        "en": "Pousada / Brazilian inn",
-        "pt": "Pousada",
-        "fr": "Pousada / Auberge brésilienne",
-        "it": "Pousada / Locanda brasiliana"
+        "en": "The Brazilian inn",
+        "pt": "A pousada",
+        "fr": "La pousada",
+        "it": "La pousada"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the Brazilian inns",
+        "pt": "Plural: as pousadas",
+        "fr": "Plural: les pousadas",
+        "it": "Plural: le pousadas",
+        "es": "Tipo de hospedaje característico de Brasil; se conserva el nombre local en portugués, francés e italiano."
+      }
     },
     {
       "id": "ha7",
-      "es": "Apartahotel",
+      "es": "El apartahotel",
       "translations": {
-        "en": "Aparthotel / Apartment hotel",
-        "pt": "Apart-hotel",
-        "fr": "Appart'hôtel",
-        "it": "Aparthotel / Residence alberghiero"
+        "en": "The aparthotel",
+        "pt": "O apart-hotel",
+        "fr": "L’appart’hôtel",
+        "it": "Il residence alberghiero"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the aparthotels",
+        "pt": "Plural: os apart-hotéis",
+        "fr": "Plural: les appart’hôtels",
+        "it": "Plural: i residence alberghieri"
+      }
     },
     {
       "id": "ha8",
-      "es": "Departamento vacacional",
+      "es": "El departamento vacacional",
       "translations": {
-        "en": "Vacation rental apartment",
-        "pt": "Apartamento para temporada",
-        "fr": "Appartement de vacances",
-        "it": "Appartamento per le vacanze"
+        "en": "The vacation rental apartment",
+        "pt": "O apartamento de temporada",
+        "fr": "L’appartement de vacances",
+        "it": "L’appartamento per le vacanze"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the vacation rental apartments",
+        "pt": "Plural: os apartamentos de temporada",
+        "fr": "Plural: les appartements de vacances",
+        "it": "Plural: gli appartamenti per le vacanze"
+      }
     },
     {
       "id": "ha9",
-      "es": "Complejo turístico / Resort",
+      "es": "El complejo turístico",
       "translations": {
-        "en": "Resort",
-        "pt": "Resort",
-        "fr": "Complexe hôtelier / Resort",
-        "it": "Resort / Villaggio turistico"
+        "en": "The resort",
+        "pt": "O resort",
+        "fr": "Le complexe hôtelier",
+        "it": "Il resort"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the resorts",
+        "pt": "Plural: os resorts",
+        "fr": "Plural: les complexes hôteliers",
+        "it": "Plural: i resort"
+      }
     },
     {
       "id": "ha10",
-      "es": "Recepción (mostrador del hotel)",
+      "es": "La recepción",
       "translations": {
-        "en": "Front desk / Reception desk",
-        "pt": "Recepção",
-        "fr": "Réception",
-        "it": "Reception"
+        "en": "The front desk",
+        "pt": "A recepção",
+        "fr": "La réception",
+        "it": "La reception"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the front desks",
+        "pt": "Plural: as recepções",
+        "fr": "Plural: les réceptions",
+        "it": "Plural: le reception",
+        "es": "Se refiere al mostrador de atención, no al acto de recibir a alguien."
+      }
     },
     {
       "id": "ha11",
-      "es": "Recepcionista",
+      "es": "El recepcionista",
       "translations": {
-        "en": "Front desk agent / Receptionist",
-        "pt": "Recepcionista",
-        "fr": "Réceptionniste",
-        "it": "Addetto/Addetta alla reception"
+        "en": "The receptionist",
+        "pt": "O recepcionista",
+        "fr": "Le réceptionniste",
+        "it": "L’addetto alla reception"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the receptionists",
+        "pt": "Plural: os recepcionistas Femenino: a recepcionista (pl. as recepcionistas).",
+        "fr": "Plural: les réceptionnistes",
+        "it": "Plural: gli addetti alla reception. Femenino: l’addetta alla reception (pl. le addette alla reception).",
+        "es": "Femenino: la recepcionista (pl. las recepcionistas)."
+      }
     },
     {
       "id": "ha12",
-      "es": "Huésped (persona alojada)",
+      "es": "El huésped",
       "translations": {
-        "en": "Guest",
-        "pt": "Hóspede",
-        "fr": "Client/Cliente de l'hôtel",
-        "it": "Ospite"
+        "en": "The guest",
+        "pt": "O hóspede",
+        "fr": "Le client de l’hôtel",
+        "it": "L’ospite"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the guests",
+        "pt": "Plural: os hóspedes Femenino: a hóspede (pl. as hóspedes).",
+        "fr": "Plural: les clients de l’hôtel Femenino: la cliente de l’hôtel (pl. les clientes de l’hôtel).",
+        "it": "Plural: gli ospiti Femenino: l’ospite (pl. le ospiti).",
+        "es": "Femenino: la huésped (pl. las huéspedes)."
+      }
     },
     {
       "id": "ha13",
-      "es": "Anfitrión/Anfitriona (de un alojamiento)",
+      "es": "El anfitrión",
       "translations": {
-        "en": "Host",
-        "pt": "Anfitrião/Anfitriã",
-        "fr": "Hôte/Hôtesse",
-        "it": "Host / Padrone/Padrona di casa"
+        "en": "The host",
+        "pt": "O anfitrião",
+        "fr": "L’hôte",
+        "it": "Il padrone di casa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hosts",
+        "pt": "Plural: os anfitriões Femenino: a anfitriã (pl. as anfitriãs).",
+        "fr": "Plural: les hôtes Femenino: l’hôtesse (pl. les hôtesses).",
+        "it": "Plural: i padroni di casa Femenino: la padrona di casa (pl. le padrone di casa).",
+        "es": "Femenino: la anfitriona (pl. las anfitrionas)."
+      }
     },
     {
       "id": "ha14",
-      "es": "Gerente del hotel",
+      "es": "El gerente del hotel",
       "translations": {
-        "en": "Hotel manager",
-        "pt": "Gerente do hotel",
-        "fr": "Directeur/Directrice de l'hôtel",
-        "it": "Direttore/Direttrice dell'hotel"
+        "en": "The hotel manager",
+        "pt": "O gerente do hotel",
+        "fr": "Le directeur de l’hôtel",
+        "it": "Il direttore dell’hotel"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hotel managers",
+        "pt": "Plural: os gerentes do hotel Femenino: a gerente do hotel (pl. as gerentes do hotel).",
+        "fr": "Plural: les directeurs de l’hôtel Femenino: la directrice de l’hôtel (pl. les directrices de l’hôtel).",
+        "it": "Plural: i direttori dell’hotel Femenino: la direttrice dell’hotel (pl. le direttrici dell’hotel).",
+        "es": "Femenino: la gerente del hotel (pl. las gerentes del hotel)."
+      }
     },
     {
       "id": "ha15",
-      "es": "Botones (persona que ayuda con el equipaje)",
+      "es": "El botones",
       "translations": {
-        "en": "Bellhop / Bell attendant",
-        "pt": "Mensageiro / Carregador de bagagens",
-        "fr": "Bagagiste",
-        "it": "Facchino / Addetto ai bagagli"
+        "en": "The bellhop",
+        "pt": "O mensageiro",
+        "fr": "Le bagagiste",
+        "it": "Il facchino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bellhops",
+        "pt": "Plural: os mensageiros Femenino: a mensageira (pl. as mensageiras).",
+        "fr": "Plural: les bagagistes Femenino: la bagagiste (pl. les bagagistes).",
+        "it": "Plural: i facchini Femenino: la facchina (pl. le facchine).",
+        "es": "Femenino: la botones (pl. las botones)."
+      }
     },
     {
       "id": "ha16",
-      "es": "Conserjería del hotel (reservas y recomendaciones)",
+      "es": "La conserjería",
       "translations": {
-        "en": "Concierge service",
-        "pt": "Serviço de concierge",
-        "fr": "Conciergerie",
-        "it": "Servizio di concierge"
+        "en": "The concierge service",
+        "pt": "O serviço de concierge",
+        "fr": "La conciergerie",
+        "it": "Il servizio di concierge"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the concierge services",
+        "pt": "Plural: os serviços de concierge",
+        "fr": "Plural: les conciergeries",
+        "it": "Plural: i servizi di concierge"
+      }
     },
     {
       "id": "ha17",
-      "es": "Servicio de limpieza de habitaciones",
+      "es": "El servicio de limpieza de habitaciones",
       "translations": {
-        "en": "Housekeeping",
-        "pt": "Serviço de limpeza dos quartos / Arrumação dos quartos",
-        "fr": "Service de ménage",
-        "it": "Servizio di pulizia delle camere"
+        "en": "The housekeeping service",
+        "pt": "O serviço de limpeza dos quartos",
+        "fr": "Le service de ménage",
+        "it": "Il servizio di pulizia delle camere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the housekeeping services",
+        "pt": "Plural: os serviços de limpeza dos quartos",
+        "fr": "Plural: les services de ménage",
+        "it": "Plural: i servizi di pulizia delle camere"
+      }
     },
     {
       "id": "ha18",
-      "es": "Camarista (persona que limpia las habitaciones)",
+      "es": "La camarista",
       "translations": {
-        "en": "Room attendant / Housekeeper",
-        "pt": "Camareiro/Camareira",
-        "fr": "Valet de chambre / Femme de chambre",
-        "it": "Cameriere/Cameriera ai piani"
+        "en": "The room attendant",
+        "pt": "A camareira",
+        "fr": "La femme de chambre",
+        "it": "La cameriera ai piani"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the room attendants",
+        "pt": "Plural: as camareiras Masculino: o camareiro (pl. os camareiros).",
+        "fr": "Plural: les femmes de chambre Masculino: le valet de chambre (pl. les valets de chambre).",
+        "it": "Plural: le cameriere ai piani Masculino: il cameriere ai piani (pl. i camerieri ai piani).",
+        "es": "Masculino: el camarista (pl. los camaristas)."
+      }
     },
     {
       "id": "ha19",
-      "es": "Servicio de comida a la habitación",
+      "es": "El servicio a la habitación",
       "translations": {
-        "en": "Room service",
-        "pt": "Serviço de quarto / Room service",
-        "fr": "Service en chambre / Room service",
-        "it": "Servizio in camera / Room service"
+        "en": "The room service",
+        "pt": "O serviço de quarto",
+        "fr": "Le service en chambre",
+        "it": "Il servizio in camera"
       },
       "image_url": ""
     },
     {
       "id": "ha20",
-      "es": "Mantenimiento",
+      "es": "El servicio de mantenimiento",
       "translations": {
-        "en": "Maintenance",
-        "pt": "Manutenção",
-        "fr": "Maintenance / Service technique",
-        "it": "Manutenzione"
+        "en": "The maintenance service",
+        "pt": "O serviço de manutenção",
+        "fr": "Le service de maintenance",
+        "it": "Il servizio di manutenzione"
       },
       "image_url": ""
     },
     {
       "id": "ha21",
-      "es": "Vestíbulo / Lobby",
+      "es": "El vestíbulo",
       "translations": {
-        "en": "Lobby",
-        "pt": "Saguão / Lobby",
-        "fr": "Hall d'entrée / Lobby",
-        "it": "Hall / Atrio"
+        "en": "The lobby",
+        "pt": "O saguão",
+        "fr": "Le hall d’entrée",
+        "it": "La hall"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lobbies",
+        "pt": "Plural: os saguões",
+        "fr": "Plural: les halls d’entrée",
+        "it": "Plural: le hall"
+      }
     },
     {
       "id": "ha22",
-      "es": "Pasillo",
+      "es": "El pasillo",
       "translations": {
-        "en": "Hallway / Corridor",
-        "pt": "Corredor",
-        "fr": "Couloir",
-        "it": "Corridoio"
+        "en": "The hallway",
+        "pt": "O corredor",
+        "fr": "Le couloir",
+        "it": "Il corridoio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hallways",
+        "pt": "Plural: os corredores",
+        "fr": "Plural: les couloirs",
+        "it": "Plural: i corridoi"
+      }
     },
     {
       "id": "ha23",
-      "es": "Elevador / Ascensor",
+      "es": "El elevador",
       "translations": {
-        "en": "Elevator",
-        "pt": "Elevador",
-        "fr": "Ascenseur",
-        "it": "Ascensore"
+        "en": "The elevator",
+        "pt": "O elevador",
+        "fr": "L’ascenseur",
+        "it": "L’ascensore"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the elevators",
+        "pt": "Plural: os elevadores",
+        "fr": "Plural: les ascenseurs",
+        "it": "Plural: gli ascensori"
+      }
     },
     {
       "id": "ha24",
-      "es": "Escaleras",
+      "es": "Las escaleras",
       "translations": {
-        "en": "Stairs",
-        "pt": "Escadas",
-        "fr": "Escaliers",
-        "it": "Scale"
+        "en": "The stairs",
+        "pt": "As escadas",
+        "fr": "Les escaliers",
+        "it": "Le scale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se usa normalmente en plural para referirse al conjunto de escalones."
+      }
     },
     {
       "id": "ha25",
-      "es": "Planta baja",
+      "es": "La planta baja",
       "translations": {
-        "en": "Ground floor / First floor (US)",
-        "pt": "Térreo / Andar térreo",
-        "fr": "Rez-de-chaussée",
-        "it": "Piano terra"
+        "en": "The first floor",
+        "pt": "O térreo",
+        "fr": "Le rez-de-chaussée",
+        "it": "Il piano terra"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the first floors En Estados Unidos «first floor» se refiere a la planta baja; en otros países «ground floor» es habitual.",
+        "pt": "Plural: os térreos",
+        "fr": "Plural: les rez-de-chaussée",
+        "it": "Plural: i piani terra"
+      }
     },
     {
       "id": "ha26",
-      "es": "Piso inmediatamente encima de la planta baja",
+      "es": "El primer piso",
       "translations": {
-        "en": "Second floor (US)",
-        "pt": "Primeiro andar",
-        "fr": "Premier étage",
-        "it": "Primo piano"
+        "en": "The second floor",
+        "pt": "O primeiro andar",
+        "fr": "Le premier étage",
+        "it": "Il primo piano"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the second floors En Estados Unidos «second floor» está inmediatamente arriba del nivel de calle; en otros sistemas se llama «first floor».",
+        "pt": "Plural: os primeiros andares",
+        "fr": "Plural: les premiers étages",
+        "it": "Plural: i primi piani"
+      }
     },
     {
       "id": "ha27",
-      "es": "Consigna / Lugar para guardar el equipaje",
+      "es": "La consigna de equipaje",
       "translations": {
-        "en": "Luggage storage / Baggage storage",
-        "pt": "Guarda-volumes / Depósito de bagagens",
-        "fr": "Consigne à bagages / Bagagerie",
-        "it": "Deposito bagagli"
+        "en": "The luggage storage facility",
+        "pt": "O guarda-volumes",
+        "fr": "La consigne à bagages",
+        "it": "Il deposito bagagli"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the luggage storage facilities",
+        "pt": "Plural: os guarda-volumes",
+        "fr": "Plural: les consignes à bagages",
+        "it": "Plural: i depositi bagagli",
+        "es": "Espacio o servicio para guardar temporalmente el equipaje."
+      }
     },
     {
       "id": "ha28",
-      "es": "Objetos perdidos (servicio)",
+      "es": "El servicio de objetos perdidos",
       "translations": {
-        "en": "Lost and found",
-        "pt": "Achados e perdidos",
-        "fr": "Service des objets trouvés",
-        "it": "Ufficio oggetti smarriti"
+        "en": "The lost and found",
+        "pt": "O setor de achados e perdidos",
+        "fr": "Le service des objets trouvés",
+        "it": "L’ufficio oggetti smarriti"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lost and found departments",
+        "pt": "Plural: os setores de achados e perdidos",
+        "fr": "Plural: les services des objets trouvés",
+        "it": "Plural: gli uffici oggetti smarriti"
+      }
     },
     {
       "id": "ha29",
-      "es": "Habitación individual",
+      "es": "La habitación individual",
       "translations": {
-        "en": "Single room",
-        "pt": "Quarto individual",
-        "fr": "Chambre individuelle / Chambre simple",
-        "it": "Camera singola"
+        "en": "The single room",
+        "pt": "O quarto individual",
+        "fr": "La chambre individuelle",
+        "it": "La camera singola"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the single rooms",
+        "pt": "Plural: os quartos individuais",
+        "fr": "Plural: les chambres individuelles",
+        "it": "Plural: le camere singole"
+      }
     },
     {
       "id": "ha30",
-      "es": "Habitación con una cama doble",
+      "es": "La habitación con cama matrimonial",
       "translations": {
-        "en": "Room with one double bed",
-        "pt": "Quarto com cama de casal",
-        "fr": "Chambre avec un lit double / Chambre double",
-        "it": "Camera matrimoniale / Camera con un letto matrimoniale"
+        "en": "The room with a double bed",
+        "pt": "O quarto com cama de casal",
+        "fr": "La chambre avec un lit double",
+        "it": "La camera matrimoniale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the rooms with double beds",
+        "pt": "Plural: os quartos com cama de casal",
+        "fr": "Plural: les chambres avec un lit double",
+        "it": "Plural: le camere matrimoniali"
+      }
     },
     {
       "id": "ha31",
-      "es": "Habitación con dos camas separadas",
+      "es": "La habitación con dos camas individuales",
       "translations": {
-        "en": "Room with two separate beds",
-        "pt": "Quarto com duas camas separadas",
-        "fr": "Chambre à lits jumeaux / Chambre avec deux lits séparés",
-        "it": "Camera doppia con letti separati"
+        "en": "The twin room",
+        "pt": "O quarto com duas camas de solteiro",
+        "fr": "La chambre à lits jumeaux",
+        "it": "La camera doppia con letti separati"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the twin rooms",
+        "pt": "Plural: os quartos com duas camas de solteiro",
+        "fr": "Plural: les chambres à lits jumeaux",
+        "it": "Plural: le camere doppie con letti separati"
+      }
     },
     {
       "id": "ha32",
-      "es": "Habitación familiar",
+      "es": "La habitación familiar",
       "translations": {
-        "en": "Family room",
-        "pt": "Quarto família / Quarto familiar",
-        "fr": "Chambre familiale",
-        "it": "Camera familiare"
+        "en": "The family room",
+        "pt": "O quarto familiar",
+        "fr": "La chambre familiale",
+        "it": "La camera familiare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the family rooms",
+        "pt": "Plural: os quartos familiares",
+        "fr": "Plural: les chambres familiales",
+        "it": "Plural: le camere familiari"
+      }
     },
     {
       "id": "ha33",
-      "es": "Suite",
+      "es": "La suite",
       "translations": {
-        "en": "Suite",
-        "pt": "Suíte",
-        "fr": "Suite",
-        "it": "Suite"
+        "en": "The suite",
+        "pt": "A suíte",
+        "fr": "La suite",
+        "it": "La suite"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the suites",
+        "pt": "Plural: as suítes",
+        "fr": "Plural: les suites",
+        "it": "Plural: le suite"
+      }
     },
     {
       "id": "ha34",
-      "es": "Habitaciones comunicadas (con puerta interior entre ellas)",
+      "es": "Las habitaciones comunicadas",
       "translations": {
-        "en": "Connecting rooms",
-        "pt": "Quartos conjugados / Quartos comunicantes",
-        "fr": "Chambres communicantes",
-        "it": "Camere comunicanti"
+        "en": "The connecting rooms",
+        "pt": "Os quartos conjugados",
+        "fr": "Les chambres communicantes",
+        "it": "Le camere comunicanti"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Habitaciones conectadas por una puerta interior."
+      }
     },
     {
       "id": "ha35",
-      "es": "Habitaciones contiguas (una junto a la otra)",
+      "es": "Las habitaciones contiguas",
       "translations": {
-        "en": "Adjacent rooms / Rooms next to each other",
-        "pt": "Quartos lado a lado / Quartos adjacentes",
-        "fr": "Chambres voisines / Chambres côte à côte",
-        "it": "Camere adiacenti"
+        "en": "The adjacent rooms",
+        "pt": "Os quartos adjacentes",
+        "fr": "Les chambres adjacentes",
+        "it": "Le camere adiacenti"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Habitaciones una junto a otra, sin que necesariamente haya una puerta interior."
+      }
     },
     {
       "id": "ha36",
-      "es": "Habitación adaptada para personas con movilidad reducida",
+      "es": "La habitación accesible",
       "translations": {
-        "en": "Mobility-accessible room",
-        "pt": "Quarto adaptado para pessoas com mobilidade reduzida",
-        "fr": "Chambre adaptée aux personnes à mobilité réduite",
-        "it": "Camera accessibile a persone con mobilità ridotta"
+        "en": "The accessible room",
+        "pt": "O quarto acessível",
+        "fr": "La chambre accessible",
+        "it": "La camera accessibile"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the accessible rooms",
+        "pt": "Plural: os quartos acessíveis",
+        "fr": "Plural: les chambres accessibles",
+        "it": "Plural: le camere accessibili",
+        "es": "La accesibilidad concreta depende de la instalación; conviene verificar medidas, barras de apoyo y accesos."
+      }
     },
     {
       "id": "ha37",
-      "es": "Habitación para no fumadores",
+      "es": "La habitación para no fumadores",
       "translations": {
-        "en": "Non-smoking room",
-        "pt": "Quarto para não fumantes",
-        "fr": "Chambre non-fumeur",
-        "it": "Camera non fumatori"
+        "en": "The non-smoking room",
+        "pt": "O quarto para não fumantes",
+        "fr": "La chambre non-fumeurs",
+        "it": "La camera per non fumatori"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the non-smoking rooms",
+        "pt": "Plural: os quartos para não fumantes",
+        "fr": "Plural: les chambres non-fumeurs",
+        "it": "Plural: le camere per non fumatori"
+      }
     },
     {
       "id": "ha38",
-      "es": "Habitación con balcón",
+      "es": "La habitación con balcón",
       "translations": {
-        "en": "Room with a balcony",
-        "pt": "Quarto com varanda",
-        "fr": "Chambre avec balcon",
-        "it": "Camera con balcone"
+        "en": "The room with a balcony",
+        "pt": "O quarto com varanda",
+        "fr": "La chambre avec balcon",
+        "it": "La camera con balcone"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the rooms with balconies",
+        "pt": "Plural: os quartos com varanda",
+        "fr": "Plural: les chambres avec balcon",
+        "it": "Plural: le camere con balcone"
+      }
     },
     {
       "id": "ha39",
-      "es": "Habitación con vista al mar",
+      "es": "La habitación con vista al mar",
       "translations": {
-        "en": "Ocean-view room / Sea-view room",
-        "pt": "Quarto com vista para o mar",
-        "fr": "Chambre avec vue sur la mer",
-        "it": "Camera con vista mare"
+        "en": "The ocean-view room",
+        "pt": "O quarto com vista para o mar",
+        "fr": "La chambre avec vue sur la mer",
+        "it": "La camera vista mare"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ocean-view rooms",
+        "pt": "Plural: os quartos com vista para o mar",
+        "fr": "Plural: les chambres avec vue sur la mer",
+        "it": "Plural: le camere vista mare"
+      }
     },
     {
       "id": "ha40",
-      "es": "Habitación privada (en un hostel)",
+      "es": "La habitación privada",
       "translations": {
-        "en": "Private room",
-        "pt": "Quarto privativo",
-        "fr": "Chambre privée",
-        "it": "Camera privata"
+        "en": "The private room",
+        "pt": "O quarto privativo",
+        "fr": "La chambre privée",
+        "it": "La camera privata"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the private rooms",
+        "pt": "Plural: os quartos privativos",
+        "fr": "Plural: les chambres privées",
+        "it": "Plural: le camere private",
+        "es": "En el contexto de un hostal o albergue."
+      }
     },
     {
       "id": "ha41",
-      "es": "Dormitorio compartido (en un hostel)",
+      "es": "El dormitorio compartido",
       "translations": {
-        "en": "Shared dorm / Dormitory",
-        "pt": "Dormitório compartilhado",
-        "fr": "Dortoir partagé",
-        "it": "Dormitorio condiviso"
+        "en": "The shared dormitory",
+        "pt": "O dormitório compartilhado",
+        "fr": "Le dortoir partagé",
+        "it": "Il dormitorio condiviso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the shared dormitories",
+        "pt": "Plural: os dormitórios compartilhados",
+        "fr": "Plural: les dortoirs partagés",
+        "it": "Plural: i dormitori condivisi",
+        "es": "En el contexto de un hostal o albergue."
+      }
     },
     {
       "id": "ha42",
-      "es": "Dormitorio mixto / Dormitorio solo para mujeres",
+      "es": "El dormitorio mixto",
       "translations": {
-        "en": "Mixed dorm / Female-only dorm",
-        "pt": "Dormitório misto / Dormitório feminino",
-        "fr": "Dortoir mixte / Dortoir réservé aux femmes",
-        "it": "Dormitorio misto / Dormitorio femminile"
+        "en": "The mixed dormitory",
+        "pt": "O dormitório misto",
+        "fr": "Le dortoir mixte",
+        "it": "Il dormitorio misto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mixed dormitories",
+        "pt": "Plural: os dormitórios mistos",
+        "fr": "Plural: les dortoirs mixtes",
+        "it": "Plural: i dormitori misti",
+        "es": "Opción alternativa: dormitorio solo para mujeres."
+      }
     },
     {
       "id": "ha43",
-      "es": "Cama individual",
+      "es": "La cama individual",
       "translations": {
-        "en": "Single bed / Twin bed",
-        "pt": "Cama de solteiro",
-        "fr": "Lit simple / Lit une place",
-        "it": "Letto singolo"
+        "en": "The twin bed",
+        "pt": "A cama de solteiro",
+        "fr": "Le lit simple",
+        "it": "Il letto singolo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the twin beds",
+        "pt": "Plural: as camas de solteiro",
+        "fr": "Plural: les lits simples",
+        "it": "Plural: i letti singoli"
+      }
     },
     {
       "id": "ha44",
-      "es": "Cama doble / Cama matrimonial",
+      "es": "La cama matrimonial",
       "translations": {
-        "en": "Double bed",
-        "pt": "Cama de casal",
-        "fr": "Lit double / Lit deux places",
-        "it": "Letto matrimoniale"
+        "en": "The double bed",
+        "pt": "A cama de casal",
+        "fr": "Le lit double",
+        "it": "Il letto matrimoniale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the double beds",
+        "pt": "Plural: as camas de casal",
+        "fr": "Plural: les lits doubles",
+        "it": "Plural: i letti matrimoniali"
+      }
     },
     {
       "id": "ha45",
-      "es": "Cama queen / Cama king (nombres comerciales de tamaño)",
+      "es": "La cama queen size",
       "translations": {
-        "en": "Queen bed / King bed",
-        "pt": "Cama queen / Cama king",
-        "fr": "Lit queen size / Lit king size",
-        "it": "Letto queen size / Letto king size"
+        "en": "The queen-size bed",
+        "pt": "A cama queen size",
+        "fr": "Le lit queen size",
+        "it": "Il letto queen size"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the queen-size beds",
+        "pt": "Plural: as camas queen size",
+        "fr": "Plural: les lits queen size",
+        "it": "Plural: i letti queen size",
+        "es": "Queen size y king size son tamaños distintos; «king size» tiene su propia tarjeta."
+      }
     },
     {
       "id": "ha46",
-      "es": "Litera",
+      "es": "La litera",
       "translations": {
-        "en": "Bunk bed",
-        "pt": "Beliche",
-        "fr": "Lit superposé",
-        "it": "Letto a castello"
+        "en": "The bunk bed",
+        "pt": "O beliche",
+        "fr": "Le lit superposé",
+        "it": "Il letto a castello"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bunk beds",
+        "pt": "Plural: os beliches",
+        "fr": "Plural: les lits superposés",
+        "it": "Plural: i letti a castello"
+      }
     },
     {
       "id": "ha47",
-      "es": "Cama de arriba / Cama de abajo (de una litera)",
+      "es": "La cama superior de la litera",
       "translations": {
-        "en": "Top bunk / Bottom bunk",
-        "pt": "Cama de cima / Cama de baixo do beliche",
-        "fr": "Lit du haut / Lit du bas d'un lit superposé",
-        "it": "Letto superiore / Letto inferiore di un letto a castello"
+        "en": "The top bunk",
+        "pt": "A cama de cima do beliche",
+        "fr": "Le lit du haut",
+        "it": "Il letto superiore del letto a castello"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the top bunks",
+        "pt": "Plural: as camas de cima dos beliches",
+        "fr": "Plural: les lits du haut",
+        "it": "Plural: i letti superiori dei letti a castello"
+      }
     },
     {
       "id": "ha48",
-      "es": "Sofá cama",
+      "es": "El sofá cama",
       "translations": {
-        "en": "Sofa bed / Sleeper sofa",
-        "pt": "Sofá-cama",
-        "fr": "Canapé-lit",
-        "it": "Divano letto"
+        "en": "The sofa bed",
+        "pt": "O sofá-cama",
+        "fr": "Le canapé-lit",
+        "it": "Il divano letto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sofa beds",
+        "pt": "Plural: os sofás-cama",
+        "fr": "Plural: les canapés-lits",
+        "it": "Plural: i divani letto"
+      }
     },
     {
       "id": "ha49",
-      "es": "Cama adicional",
+      "es": "La cama adicional",
       "translations": {
-        "en": "Extra bed / Rollaway bed",
-        "pt": "Cama extra",
-        "fr": "Lit d'appoint / Lit supplémentaire",
-        "it": "Letto aggiuntivo"
+        "en": "The extra bed",
+        "pt": "A cama extra",
+        "fr": "Le lit d’appoint",
+        "it": "Il letto aggiuntivo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the extra beds",
+        "pt": "Plural: as camas extras",
+        "fr": "Plural: les lits d’appoint",
+        "it": "Plural: i letti aggiuntivi"
+      }
     },
     {
       "id": "ha50",
-      "es": "Cuna",
+      "es": "La cuna",
       "translations": {
-        "en": "Crib / Baby crib",
-        "pt": "Berço",
-        "fr": "Lit bébé",
-        "it": "Culla / Lettino per bambini"
+        "en": "The crib",
+        "pt": "O berço",
+        "fr": "Le lit bébé",
+        "it": "Il lettino per bambini"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cribs",
+        "pt": "Plural: os berços",
+        "fr": "Plural: les lits bébé",
+        "it": "Plural: i lettini per bambini"
+      }
     },
     {
       "id": "ha51",
-      "es": "Baño privado (de uso exclusivo)",
+      "es": "El baño privado",
       "translations": {
-        "en": "Private bathroom",
-        "pt": "Banheiro privativo",
-        "fr": "Salle de bains privative",
-        "it": "Bagno privato"
+        "en": "The private bathroom",
+        "pt": "O banheiro privativo",
+        "fr": "La salle de bains privative",
+        "it": "Il bagno privato"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the private bathrooms",
+        "pt": "Plural: os banheiros privativos",
+        "fr": "Plural: les salles de bains privatives",
+        "it": "Plural: i bagni privati",
+        "es": "De uso exclusivo de la habitación, pero no necesariamente situado dentro de ella."
+      }
     },
     {
       "id": "ha52",
-      "es": "Baño dentro de la habitación",
+      "es": "El baño dentro de la habitación",
       "translations": {
-        "en": "En-suite bathroom / Bathroom inside the room",
-        "pt": "Banheiro dentro do quarto",
-        "fr": "Salle de bains dans la chambre",
-        "it": "Bagno in camera"
+        "en": "The en-suite bathroom",
+        "pt": "O banheiro dentro do quarto",
+        "fr": "La salle de bains attenante",
+        "it": "Il bagno in camera"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the en-suite bathrooms",
+        "pt": "Plural: os banheiros dentro dos quartos",
+        "fr": "Plural: les salles de bains attenantes",
+        "it": "Plural: i bagni in camera",
+        "es": "Baño privado conectado directamente con la habitación."
+      }
     },
     {
       "id": "ha53",
-      "es": "Baño compartido",
+      "es": "El baño compartido",
       "translations": {
-        "en": "Shared bathroom",
-        "pt": "Banheiro compartilhado",
-        "fr": "Salle de bains commune / Salle de bains partagée",
-        "it": "Bagno in comune"
+        "en": "The shared bathroom",
+        "pt": "O banheiro compartilhado",
+        "fr": "La salle de bains commune",
+        "it": "Il bagno in comune"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the shared bathrooms",
+        "pt": "Plural: os banheiros compartilhados",
+        "fr": "Plural: les salles de bains communes",
+        "it": "Plural: i bagni in comune"
+      }
     },
     {
       "id": "ha54",
-      "es": "Tarjeta llave / Tarjeta de acceso a la habitación",
+      "es": "La tarjeta llave",
       "translations": {
-        "en": "Key card / Room key card",
-        "pt": "Cartão-chave / Cartão de acesso ao quarto",
-        "fr": "Carte-clé / Carte d'accès à la chambre",
-        "it": "Tessera della camera / Chiave elettronica"
+        "en": "The key card",
+        "pt": "O cartão-chave",
+        "fr": "La carte magnétique",
+        "it": "La tessera della camera"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the key cards",
+        "pt": "Plural: os cartões-chave",
+        "fr": "Plural: les cartes magnétiques",
+        "it": "Plural: le tessere delle camere"
+      }
     },
     {
       "id": "ha55",
-      "es": "Código de acceso",
+      "es": "El código de acceso",
       "translations": {
-        "en": "Access code / Entry code",
-        "pt": "Código de acesso",
-        "fr": "Code d'accès",
-        "it": "Codice di accesso"
+        "en": "The access code",
+        "pt": "O código de acesso",
+        "fr": "Le code d’accès",
+        "it": "Il codice di accesso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the access codes",
+        "pt": "Plural: os códigos de acesso",
+        "fr": "Plural: les codes d’accès",
+        "it": "Plural: i codici di accesso"
+      }
     },
     {
       "id": "ha56",
-      "es": "Clóset / Armario",
+      "es": "El clóset",
       "translations": {
-        "en": "Closet / Wardrobe",
-        "pt": "Guarda-roupa / Armário",
-        "fr": "Placard / Armoire",
-        "it": "Armadio"
+        "en": "The closet",
+        "pt": "O guarda-roupa",
+        "fr": "Le placard",
+        "it": "L’armadio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the closets",
+        "pt": "Plural: os guarda-roupas",
+        "fr": "Plural: les placards",
+        "it": "Plural: gli armadi"
+      }
     },
     {
       "id": "ha57",
-      "es": "Buró / Mesa de noche",
+      "es": "El buró",
       "translations": {
-        "en": "Nightstand / Bedside table",
-        "pt": "Mesa de cabeceira",
-        "fr": "Table de chevet",
-        "it": "Comodino"
+        "en": "The nightstand",
+        "pt": "A mesa de cabeceira",
+        "fr": "La table de chevet",
+        "it": "Il comodino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the nightstands",
+        "pt": "Plural: as mesas de cabeceira",
+        "fr": "Plural: les tables de chevet",
+        "it": "Plural: i comodini"
+      }
     },
     {
       "id": "ha58",
-      "es": "Escritorio",
+      "es": "El escritorio",
       "translations": {
-        "en": "Desk",
-        "pt": "Escrivaninha",
-        "fr": "Bureau",
-        "it": "Scrivania"
+        "en": "The desk",
+        "pt": "A escrivaninha",
+        "fr": "Le bureau",
+        "it": "La scrivania"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the desks",
+        "pt": "Plural: as escrivaninhas",
+        "fr": "Plural: les bureaux",
+        "it": "Plural: le scrivanie"
+      }
     },
     {
       "id": "ha59",
-      "es": "Espejo",
+      "es": "El espejo",
       "translations": {
-        "en": "Mirror",
-        "pt": "Espelho",
-        "fr": "Miroir",
-        "it": "Specchio"
+        "en": "The mirror",
+        "pt": "O espelho",
+        "fr": "Le miroir",
+        "it": "Lo specchio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mirrors",
+        "pt": "Plural: os espelhos",
+        "fr": "Plural: les miroirs",
+        "it": "Plural: gli specchi"
+      }
     },
     {
       "id": "ha60",
-      "es": "Soporte para maletas",
+      "es": "El soporte para maletas",
       "translations": {
-        "en": "Luggage rack",
-        "pt": "Suporte para malas",
-        "fr": "Porte-bagages",
-        "it": "Portavaligie"
+        "en": "The luggage rack",
+        "pt": "O suporte para malas",
+        "fr": "Le porte-bagages",
+        "it": "Il portavaligie"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the luggage racks",
+        "pt": "Plural: os suportes para malas",
+        "fr": "Plural: les porte-bagages",
+        "it": "Plural: i portavaligie"
+      }
     },
     {
       "id": "ha61",
-      "es": "Colchón",
+      "es": "El colchón",
       "translations": {
-        "en": "Mattress",
-        "pt": "Colchão",
-        "fr": "Matelas",
-        "it": "Materasso"
+        "en": "The mattress",
+        "pt": "O colchão",
+        "fr": "Le matelas",
+        "it": "Il materasso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mattresses",
+        "pt": "Plural: os colchões",
+        "fr": "Plural: les matelas",
+        "it": "Plural: i materassi"
+      }
     },
     {
       "id": "ha62",
-      "es": "Almohada",
+      "es": "La almohada",
       "translations": {
-        "en": "Pillow",
-        "pt": "Travesseiro",
-        "fr": "Oreiller",
-        "it": "Cuscino"
+        "en": "The pillow",
+        "pt": "O travesseiro",
+        "fr": "L’oreiller",
+        "it": "Il cuscino"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pillows",
+        "pt": "Plural: os travesseiros",
+        "fr": "Plural: les oreillers",
+        "it": "Plural: i cuscini"
+      }
     },
     {
       "id": "ha63",
-      "es": "Funda de almohada",
+      "es": "La funda de almohada",
       "translations": {
-        "en": "Pillowcase",
-        "pt": "Fronha",
-        "fr": "Taie d'oreiller",
-        "it": "Federa"
+        "en": "The pillowcase",
+        "pt": "A fronha",
+        "fr": "La taie d’oreiller",
+        "it": "La federa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pillowcases",
+        "pt": "Plural: as fronhas",
+        "fr": "Plural: les taies d’oreiller",
+        "it": "Plural: le federe"
+      }
     },
     {
       "id": "ha64",
-      "es": "Sábanas",
+      "es": "Las sábanas",
       "translations": {
-        "en": "Bedsheets / Sheets",
-        "pt": "Lençóis",
-        "fr": "Draps",
-        "it": "Lenzuola"
+        "en": "The sheets",
+        "pt": "Os lençóis",
+        "fr": "Les draps",
+        "it": "Le lenzuola"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se suele mencionar en plural cuando se habla de la ropa de cama."
+      }
     },
     {
       "id": "ha65",
-      "es": "Cobija / Manta",
+      "es": "La cobija",
       "translations": {
-        "en": "Blanket",
-        "pt": "Cobertor / Manta",
-        "fr": "Couverture",
-        "it": "Coperta"
+        "en": "The blanket",
+        "pt": "O cobertor",
+        "fr": "La couverture",
+        "it": "La coperta"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the blankets",
+        "pt": "Plural: os cobertores",
+        "fr": "Plural: les couvertures",
+        "it": "Plural: le coperte"
+      }
     },
     {
       "id": "ha66",
-      "es": "Edredón",
+      "es": "El edredón",
       "translations": {
-        "en": "Duvet / Comforter",
-        "pt": "Edredom",
-        "fr": "Couette",
-        "it": "Piumone"
+        "en": "The comforter",
+        "pt": "O edredom",
+        "fr": "La couette",
+        "it": "Il piumone"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the comforters",
+        "pt": "Plural: os edredons",
+        "fr": "Plural: les couettes",
+        "it": "Plural: i piumoni"
+      }
     },
     {
       "id": "ha67",
-      "es": "Toalla de baño / Toalla de manos",
+      "es": "La toalla de baño",
       "translations": {
-        "en": "Bath towel / Hand towel",
-        "pt": "Toalha de banho / Toalha de rosto",
-        "fr": "Serviette de bain / Serviette pour les mains",
-        "it": "Asciugamano da bagno / Asciugamano per le mani"
+        "en": "The bath towel",
+        "pt": "A toalha de banho",
+        "fr": "La serviette de bain",
+        "it": "L’asciugamano da bagno"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bath towels",
+        "pt": "Plural: as toalhas de banho",
+        "fr": "Plural: les serviettes de bain",
+        "it": "Plural: gli asciugamani da bagno"
+      }
     },
     {
       "id": "ha68",
-      "es": "Bata de baño",
+      "es": "La bata de baño",
       "translations": {
-        "en": "Bathrobe",
-        "pt": "Roupão",
-        "fr": "Peignoir",
-        "it": "Accappatoio"
+        "en": "The bathrobe",
+        "pt": "O roupão",
+        "fr": "Le peignoir",
+        "it": "L’accappatoio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bathrobes",
+        "pt": "Plural: os roupões",
+        "fr": "Plural: les peignoirs",
+        "it": "Plural: gli accappatoi"
+      }
     },
     {
       "id": "ha69",
-      "es": "Pantuflas",
+      "es": "Las pantuflas",
       "translations": {
-        "en": "Slippers",
-        "pt": "Pantufas / Chinelos de quarto",
-        "fr": "Chaussons",
-        "it": "Pantofole"
+        "en": "The slippers",
+        "pt": "As pantufas",
+        "fr": "Les chaussons",
+        "it": "Le pantofole"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "En el contexto hotelero, suele usarse en plural para el par."
+      }
     },
     {
       "id": "ha70",
-      "es": "Secadora de cabello",
+      "es": "La secadora de cabello",
       "translations": {
-        "en": "Hair dryer",
-        "pt": "Secador de cabelo",
-        "fr": "Sèche-cheveux",
-        "it": "Asciugacapelli / Fon"
+        "en": "The hair dryer",
+        "pt": "O secador de cabelo",
+        "fr": "Le sèche-cheveux",
+        "it": "L’asciugacapelli"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hair dryers",
+        "pt": "Plural: os secadores de cabelo",
+        "fr": "Plural: les sèche-cheveux",
+        "it": "Plural: gli asciugacapelli"
+      }
     },
     {
       "id": "ha71",
-      "es": "Regadera / Ducha",
+      "es": "La regadera",
       "translations": {
-        "en": "Shower",
-        "pt": "Chuveiro / Ducha",
-        "fr": "Douche",
-        "it": "Doccia"
+        "en": "The shower",
+        "pt": "O chuveiro",
+        "fr": "La douche",
+        "it": "La doccia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the showers",
+        "pt": "Plural: os chuveiros",
+        "fr": "Plural: les douches",
+        "it": "Plural: le docce"
+      }
     },
     {
       "id": "ha72",
-      "es": "Tina / Bañera",
+      "es": "La tina",
       "translations": {
-        "en": "Bathtub / Tub",
-        "pt": "Banheira",
-        "fr": "Baignoire",
-        "it": "Vasca da bagno"
+        "en": "The bathtub",
+        "pt": "A banheira",
+        "fr": "La baignoire",
+        "it": "La vasca da bagno"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bathtubs",
+        "pt": "Plural: as banheiras",
+        "fr": "Plural: les baignoires",
+        "it": "Plural: le vasche da bagno"
+      }
     },
     {
       "id": "ha73",
-      "es": "Tapete de baño",
+      "es": "El tapete de baño",
       "translations": {
-        "en": "Bath mat",
-        "pt": "Tapete de banheiro",
-        "fr": "Tapis de bain",
-        "it": "Tappetino da bagno"
+        "en": "The bath mat",
+        "pt": "O tapete de banheiro",
+        "fr": "Le tapis de bain",
+        "it": "Il tappetino da bagno"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bath mats",
+        "pt": "Plural: os tapetes de banheiro",
+        "fr": "Plural: les tapis de bain",
+        "it": "Plural: i tappetini da bagno"
+      }
     },
     {
       "id": "ha74",
-      "es": "Artículos de aseo (jabón, champú, etc.)",
+      "es": "Los artículos de aseo",
       "translations": {
-        "en": "Toiletries",
-        "pt": "Produtos de higiene pessoal",
-        "fr": "Produits de toilette",
-        "it": "Prodotti da bagno / Articoli da toilette"
+        "en": "The toiletries",
+        "pt": "Os produtos de higiene pessoal",
+        "fr": "Les produits de toilette",
+        "it": "I prodotti da bagno"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Incluye jabón, champú y otros productos de higiene personal."
+      }
     },
     {
       "id": "ha75",
-      "es": "Caja fuerte",
+      "es": "La caja fuerte",
       "translations": {
-        "en": "Safe / In-room safe",
-        "pt": "Cofre",
-        "fr": "Coffre-fort",
-        "it": "Cassaforte"
+        "en": "The safe",
+        "pt": "O cofre",
+        "fr": "Le coffre-fort",
+        "it": "La cassaforte"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the safes",
+        "pt": "Plural: os cofres",
+        "fr": "Plural: les coffres-forts",
+        "it": "Plural: le casseforti"
+      }
     },
     {
       "id": "ha76",
-      "es": "Minibar (bebidas y productos de la habitación)",
+      "es": "El minibar",
       "translations": {
-        "en": "Minibar",
-        "pt": "Frigobar / Minibar",
-        "fr": "Minibar",
-        "it": "Minibar"
+        "en": "The minibar",
+        "pt": "O frigobar",
+        "fr": "Le minibar",
+        "it": "Il minibar"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the minibars",
+        "pt": "Plural: os frigobares En Brasil, «frigobar» también designa un refrigerador pequeño, aunque no necesariamente con artículos de pago.",
+        "fr": "Plural: les minibars",
+        "it": "Plural: i minibar"
+      }
     },
     {
       "id": "ha77",
-      "es": "Refrigerador",
+      "es": "El refrigerador",
       "translations": {
-        "en": "Refrigerator / Fridge",
-        "pt": "Geladeira",
-        "fr": "Réfrigérateur / Frigo",
-        "it": "Frigorifero / Frigo"
+        "en": "The refrigerator",
+        "pt": "A geladeira",
+        "fr": "Le réfrigérateur",
+        "it": "Il frigorifero"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the refrigerators",
+        "pt": "Plural: as geladeiras",
+        "fr": "Plural: les réfrigérateurs",
+        "it": "Plural: i frigoriferi"
+      }
     },
     {
       "id": "ha78",
-      "es": "Hervidor eléctrico",
+      "es": "El hervidor eléctrico",
       "translations": {
-        "en": "Electric kettle",
-        "pt": "Chaleira elétrica",
-        "fr": "Bouilloire électrique",
-        "it": "Bollitore elettrico"
+        "en": "The electric kettle",
+        "pt": "A chaleira elétrica",
+        "fr": "La bouilloire électrique",
+        "it": "Il bollitore elettrico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the electric kettles",
+        "pt": "Plural: as chaleiras elétricas",
+        "fr": "Plural: les bouilloires électriques",
+        "it": "Plural: i bollitori elettrici"
+      }
     },
     {
       "id": "ha79",
-      "es": "Cafetera",
+      "es": "La cafetera",
       "translations": {
-        "en": "Coffee maker / Coffee machine",
-        "pt": "Cafeteira",
-        "fr": "Cafetière / Machine à café",
-        "it": "Macchina per il caffè"
+        "en": "The coffee maker",
+        "pt": "A cafeteira",
+        "fr": "La cafetière",
+        "it": "La macchina per il caffè"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the coffee makers",
+        "pt": "Plural: as cafeteiras",
+        "fr": "Plural: les cafetières",
+        "it": "Plural: le macchine per il caffè"
+      }
     },
     {
       "id": "ha80",
-      "es": "Enchufe / Toma de corriente",
+      "es": "El enchufe",
       "translations": {
-        "en": "Electrical outlet / Power outlet",
-        "pt": "Tomada",
-        "fr": "Prise électrique",
-        "it": "Presa di corrente"
+        "en": "The electrical outlet",
+        "pt": "A tomada",
+        "fr": "La prise électrique",
+        "it": "La presa di corrente"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the electrical outlets",
+        "pt": "Plural: as tomadas",
+        "fr": "Plural: les prises électriques",
+        "it": "Plural: le prese di corrente"
+      }
     },
     {
       "id": "ha81",
-      "es": "Adaptador de enchufe",
+      "es": "El adaptador de enchufe",
       "translations": {
-        "en": "Plug adapter",
-        "pt": "Adaptador de tomada",
-        "fr": "Adaptateur de prise",
-        "it": "Adattatore per la presa"
+        "en": "The plug adapter",
+        "pt": "O adaptador de tomada",
+        "fr": "L’adaptateur de prise",
+        "it": "L’adattatore per la presa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the plug adapters",
+        "pt": "Plural: os adaptadores de tomada",
+        "fr": "Plural: les adaptateurs de prise",
+        "it": "Plural: gli adattatori per la presa"
+      }
     },
     {
       "id": "ha82",
-      "es": "Aire acondicionado",
+      "es": "El aire acondicionado",
       "translations": {
-        "en": "Air conditioning / AC",
-        "pt": "Ar-condicionado",
-        "fr": "Climatisation",
-        "it": "Aria condizionata"
+        "en": "The air conditioning",
+        "pt": "O ar-condicionado",
+        "fr": "La climatisation",
+        "it": "L’aria condizionata"
       },
       "image_url": ""
     },
     {
       "id": "ha83",
-      "es": "Calefacción",
+      "es": "La calefacción",
       "translations": {
-        "en": "Heating",
-        "pt": "Aquecimento",
-        "fr": "Chauffage",
-        "it": "Riscaldamento"
+        "en": "The heating",
+        "pt": "O aquecimento",
+        "fr": "Le chauffage",
+        "it": "Il riscaldamento"
       },
       "image_url": ""
     },
     {
       "id": "ha84",
-      "es": "Termostato",
+      "es": "El termostato",
       "translations": {
-        "en": "Thermostat",
-        "pt": "Termostato",
-        "fr": "Thermostat",
-        "it": "Termostato"
+        "en": "The thermostat",
+        "pt": "O termostato",
+        "fr": "Le thermostat",
+        "it": "Il termostato"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the thermostats",
+        "pt": "Plural: os termostatos",
+        "fr": "Plural: les thermostats",
+        "it": "Plural: i termostati"
+      }
     },
     {
       "id": "ha85",
-      "es": "Control remoto",
+      "es": "El control remoto",
       "translations": {
-        "en": "Remote control",
-        "pt": "Controle remoto",
-        "fr": "Télécommande",
-        "it": "Telecomando"
+        "en": "The remote control",
+        "pt": "O controle remoto",
+        "fr": "La télécommande",
+        "it": "Il telecomando"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the remote controls",
+        "pt": "Plural: os controles remotos",
+        "fr": "Plural: les télécommandes",
+        "it": "Plural: i telecomandi"
+      }
     },
     {
       "id": "ha86",
-      "es": "Cortinas que bloquean la luz",
+      "es": "Las cortinas opacas",
       "translations": {
-        "en": "Blackout curtains",
-        "pt": "Cortinas blackout",
-        "fr": "Rideaux occultants",
-        "it": "Tende oscuranti"
+        "en": "The blackout curtains",
+        "pt": "As cortinas blackout",
+        "fr": "Les rideaux occultants",
+        "it": "Le tende oscuranti"
       },
       "image_url": ""
     },
     {
       "id": "ha87",
-      "es": "Letrero de «No molestar»",
+      "es": "El letrero de «No molestar»",
       "translations": {
-        "en": "Do not disturb sign",
-        "pt": "Placa de «Não perturbe»",
-        "fr": "Pancarte «Ne pas déranger»",
-        "it": "Cartello «Non disturbare»"
+        "en": "The do not disturb sign",
+        "pt": "A placa de «Não perturbe»",
+        "fr": "La pancarte «Ne pas déranger»",
+        "it": "Il cartello «Non disturbare»"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the do not disturb signs",
+        "pt": "Plural: as placas de «Não perturbe»",
+        "fr": "Plural: les pancartes «Ne pas déranger»",
+        "it": "Plural: i cartelli «Non disturbare»"
+      }
     },
     {
       "id": "ha88",
-      "es": "Plancha / Tabla de planchar",
+      "es": "La plancha",
       "translations": {
-        "en": "Iron / Ironing board",
-        "pt": "Ferro de passar / Tábua de passar",
-        "fr": "Fer à repasser / Table à repasser",
-        "it": "Ferro da stiro / Asse da stiro"
+        "en": "The iron",
+        "pt": "O ferro de passar",
+        "fr": "Le fer à repasser",
+        "it": "Il ferro da stiro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the irons",
+        "pt": "Plural: os ferros de passar",
+        "fr": "Plural: les fers à repasser",
+        "it": "Plural: i ferri da stiro"
+      }
     },
     {
       "id": "ha89",
-      "es": "Reservación / Reserva",
+      "es": "La reservación",
       "translations": {
-        "en": "Reservation / Booking",
-        "pt": "Reserva",
-        "fr": "Réservation",
-        "it": "Prenotazione"
+        "en": "The reservation",
+        "pt": "A reserva",
+        "fr": "La réservation",
+        "it": "La prenotazione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the reservations",
+        "pt": "Plural: as reservas",
+        "fr": "Plural: les réservations",
+        "it": "Plural: le prenotazioni"
+      }
     },
     {
       "id": "ha90",
-      "es": "Número de confirmación",
+      "es": "El número de confirmación",
       "translations": {
-        "en": "Confirmation number / Booking reference",
-        "pt": "Número de confirmação / Código da reserva",
-        "fr": "Numéro de confirmation / Référence de réservation",
-        "it": "Numero di conferma / Codice di prenotazione"
+        "en": "The confirmation number",
+        "pt": "O número de confirmação",
+        "fr": "Le numéro de confirmation",
+        "it": "Il numero di conferma"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the confirmation numbers",
+        "pt": "Plural: os números de confirmação",
+        "fr": "Plural: les numéros de confirmation",
+        "it": "Plural: i numeri di conferma"
+      }
     },
     {
       "id": "ha91",
-      "es": "Fecha de llegada / Fecha de salida",
+      "es": "La fecha de llegada",
       "translations": {
-        "en": "Arrival date / Departure date",
-        "pt": "Data de chegada / Data de saída",
-        "fr": "Date d'arrivée / Date de départ",
-        "it": "Data di arrivo / Data di partenza"
+        "en": "The arrival date",
+        "pt": "A data de chegada",
+        "fr": "La date d’arrivée",
+        "it": "La data di arrivo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the arrival dates",
+        "pt": "Plural: as datas de chegada",
+        "fr": "Plural: les dates d’arrivée",
+        "it": "Plural: le date di arrivo"
+      }
     },
     {
       "id": "ha92",
-      "es": "Registro de entrada / Check-in",
+      "es": "El registro de entrada",
       "translations": {
-        "en": "Check-in",
-        "pt": "Check-in / Registro de entrada",
-        "fr": "Enregistrement / Check-in",
-        "it": "Check-in"
+        "en": "The check-in",
+        "pt": "O check-in",
+        "fr": "L’enregistrement à l’arrivée",
+        "it": "Il check-in"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les enregistrements à l’arrivée",
+        "es": "Registro de llegada al alojamiento."
+      }
     },
     {
       "id": "ha93",
-      "es": "Registro de salida / Check-out",
+      "es": "El registro de salida",
       "translations": {
-        "en": "Check-out",
-        "pt": "Check-out / Registro de saída",
-        "fr": "Départ / Check-out",
-        "it": "Check-out"
+        "en": "The check-out",
+        "pt": "O check-out",
+        "fr": "Le départ de l’hôtel",
+        "it": "Il check-out"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les départs de l’hôtel",
+        "es": "Trámite de salida del alojamiento."
+      }
     },
     {
       "id": "ha94",
-      "es": "Disponibilidad",
+      "es": "La disponibilidad",
       "translations": {
-        "en": "Availability",
-        "pt": "Disponibilidade",
-        "fr": "Disponibilité",
-        "it": "Disponibilità"
+        "en": "The availability",
+        "pt": "A disponibilidade",
+        "fr": "La disponibilité",
+        "it": "La disponibilità"
       },
       "image_url": ""
     },
     {
       "id": "ha95",
-      "es": "Sin habitaciones disponibles / Completo",
+      "es": "Sin habitaciones disponibles",
       "translations": {
-        "en": "Fully booked / No rooms available",
-        "pt": "Lotado / Sem quartos disponíveis",
-        "fr": "Complet / Aucune chambre disponible",
-        "it": "Al completo / Nessuna camera disponibile"
+        "en": "Fully booked",
+        "pt": "Sem quartos disponíveis",
+        "fr": "Complet",
+        "it": "Al completo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Estado del establecimiento sin habitaciones libres."
+      }
     },
     {
       "id": "ha96",
-      "es": "Tarifa por noche",
+      "es": "La tarifa por noche",
       "translations": {
-        "en": "Nightly rate / Room rate per night",
-        "pt": "Diária / Tarifa por noite",
-        "fr": "Tarif par nuit",
-        "it": "Tariffa per notte"
+        "en": "The nightly rate",
+        "pt": "A diária",
+        "fr": "Le tarif par nuit",
+        "it": "La tariffa per notte"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the nightly rates",
+        "pt": "Plural: as diárias",
+        "fr": "Plural: les tarifs par nuit",
+        "it": "Plural: le tariffe per notte"
+      }
     },
     {
       "id": "ha97",
-      "es": "Solo alojamiento (sin comidas)",
+      "es": "Solo alojamiento",
       "translations": {
         "en": "Room only",
-        "pt": "Somente hospedagem / Sem refeições",
-        "fr": "Hébergement seul / Sans repas",
+        "pt": "Somente hospedagem",
+        "fr": "Hébergement seul",
         "it": "Solo pernottamento"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Tarifa sin comidas incluidas."
+      }
     },
     {
       "id": "ha98",
-      "es": "Alojamiento con desayuno incluido",
+      "es": "El alojamiento con desayuno incluido",
       "translations": {
-        "en": "Bed and breakfast rate / Breakfast included",
-        "pt": "Hospedagem com café da manhã incluído",
-        "fr": "Hébergement avec petit-déjeuner inclus",
-        "it": "Pernottamento con colazione inclusa"
+        "en": "The room rate with breakfast included",
+        "pt": "A hospedagem com café da manhã incluído",
+        "fr": "L’hébergement avec petit-déjeuner inclus",
+        "it": "Il pernottamento con colazione inclusa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the room rates with breakfast included",
+        "pt": "Plural: as hospedagens com café da manhã incluído",
+        "fr": "Plural: les hébergements avec petit-déjeuner inclus",
+        "it": "Plural: i pernottamenti con colazione inclusa"
+      }
     },
     {
       "id": "ha99",
-      "es": "Media pensión",
+      "es": "La media pensión",
       "translations": {
         "en": "Half board",
-        "pt": "Meia pensão",
-        "fr": "Demi-pension",
-        "it": "Mezza pensione"
+        "pt": "A meia pensão",
+        "fr": "La demi-pension",
+        "it": "La mezza pensione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Normalmente incluye desayuno y una comida principal; verificar condiciones."
+      }
     },
     {
       "id": "ha100",
-      "es": "Pensión completa",
+      "es": "La pensión completa",
       "translations": {
         "en": "Full board",
-        "pt": "Pensão completa",
-        "fr": "Pension complète",
-        "it": "Pensione completa"
+        "pt": "A pensão completa",
+        "fr": "La pension complète",
+        "it": "La pensione completa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Normalmente incluye desayuno, comida y cena; verificar bebidas."
+      }
     },
     {
       "id": "ha101",
-      "es": "Todo incluido (tipo de plan)",
+      "es": "El plan todo incluido",
       "translations": {
-        "en": "All-inclusive",
-        "pt": "Tudo incluído / All inclusive",
-        "fr": "Tout compris / All inclusive",
-        "it": "Tutto incluso / All inclusive"
+        "en": "The all-inclusive package",
+        "pt": "O pacote all inclusive",
+        "fr": "La formule tout compris",
+        "it": "Il pacchetto all inclusive"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the all-inclusive packages",
+        "pt": "Plural: os pacotes all inclusive",
+        "fr": "Plural: les formules tout compris",
+        "it": "Plural: i pacchetti all inclusive"
+      }
     },
     {
       "id": "ha102",
-      "es": "Tarifa reembolsable / Tarifa no reembolsable",
+      "es": "La tarifa reembolsable",
       "translations": {
-        "en": "Refundable rate / Nonrefundable rate",
-        "pt": "Tarifa reembolsável / Tarifa não reembolsável",
-        "fr": "Tarif remboursable / Tarif non remboursable",
-        "it": "Tariffa rimborsabile / Tariffa non rimborsabile"
+        "en": "The refundable rate",
+        "pt": "A tarifa reembolsável",
+        "fr": "Le tarif remboursable",
+        "it": "La tariffa rimborsabile"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the refundable rates",
+        "pt": "Plural: as tarifas reembolsáveis",
+        "fr": "Plural: les tarifs remboursables",
+        "it": "Plural: le tariffe rimborsabili"
+      }
     },
     {
       "id": "ha103",
-      "es": "Política de cancelación",
+      "es": "La política de cancelación",
       "translations": {
-        "en": "Cancellation policy",
-        "pt": "Política de cancelamento",
-        "fr": "Conditions d'annulation / Politique d'annulation",
-        "it": "Condizioni di cancellazione"
+        "en": "The cancellation policy",
+        "pt": "A política de cancelamento",
+        "fr": "Les conditions d’annulation",
+        "it": "La politica di cancellazione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cancellation policies",
+        "pt": "Plural: as políticas de cancelamento",
+        "fr": "Plural: les conditions d’annulation",
+        "it": "Plural: le politiche di cancellazione"
+      }
     },
     {
       "id": "ha104",
-      "es": "Fecha límite para cancelar sin cargo",
+      "es": "La fecha límite de cancelación gratuita",
       "translations": {
-        "en": "Free cancellation deadline",
-        "pt": "Prazo para cancelamento gratuito",
-        "fr": "Date limite d'annulation sans frais",
-        "it": "Termine per la cancellazione gratuita"
+        "en": "The free cancellation deadline",
+        "pt": "O prazo para cancelamento gratuito",
+        "fr": "La date limite d’annulation gratuite",
+        "it": "Il termine per la cancellazione gratuita"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the free cancellation deadlines",
+        "pt": "Plural: os prazos para cancelamento gratuito",
+        "fr": "Plural: les dates limites d’annulation gratuite",
+        "it": "Plural: i termini per la cancellazione gratuita"
+      }
     },
     {
       "id": "ha105",
-      "es": "Anticipo para la reserva",
+      "es": "El anticipo de la reserva",
       "translations": {
-        "en": "Booking deposit / Advance payment",
-        "pt": "Sinal da reserva / Adiantamento",
-        "fr": "Avance pour la réservation",
-        "it": "Anticipo per la prenotazione"
+        "en": "The booking deposit",
+        "pt": "O sinal da reserva",
+        "fr": "L’acompte de réservation",
+        "it": "L’acconto sulla prenotazione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the booking deposits",
+        "pt": "Plural: os sinais da reserva",
+        "fr": "Plural: les acomptes de réservation «Acompte» suele comprometer la reserva; «arrhes» puede tener otras consecuencias legales.",
+        "it": "Plural: gli acconti sulle prenotazioni",
+        "es": "Es un pago anticipado que puede ser parte del precio; no equivale al depósito de garantía."
+      }
     },
     {
       "id": "ha106",
-      "es": "Depósito de garantía (para posibles daños o cargos)",
+      "es": "El depósito de garantía",
       "translations": {
-        "en": "Security deposit / Damage deposit",
-        "pt": "Depósito-caução / Caução",
-        "fr": "Dépôt de garantie / Caution",
-        "it": "Deposito cauzionale / Cauzione"
+        "en": "The security deposit",
+        "pt": "O depósito caução",
+        "fr": "Le dépôt de garantie",
+        "it": "Il deposito cauzionale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the security deposits",
+        "pt": "Plural: os depósitos caução",
+        "fr": "Plural: les dépôts de garantie",
+        "it": "Plural: i depositi cauzionali",
+        "es": "Cantidad retenida o entregada como garantía de daños o cargos, distinta de un anticipo."
+      }
     },
     {
       "id": "ha107",
-      "es": "Preautorización / Retención temporal en la tarjeta",
+      "es": "La preautorización",
       "translations": {
-        "en": "Preauthorization / Authorization hold",
-        "pt": "Pré-autorização / Bloqueio temporário no cartão",
-        "fr": "Préautorisation bancaire / Blocage temporaire sur la carte",
-        "it": "Preautorizzazione / Blocco temporaneo sulla carta"
+        "en": "The preauthorization",
+        "pt": "A pré-autorização",
+        "fr": "La préautorisation",
+        "it": "La preautorizzazione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the preauthorizations",
+        "pt": "Plural: as pré-autorizações",
+        "fr": "Plural: les préautorisations",
+        "it": "Plural: le preautorizzazioni"
+      }
     },
     {
       "id": "ha108",
-      "es": "Gastos adicionales de la estancia",
+      "es": "Los gastos adicionales de la estancia",
       "translations": {
-        "en": "Incidentals / Additional charges",
-        "pt": "Despesas extras da estadia",
-        "fr": "Frais supplémentaires du séjour",
-        "it": "Spese extra del soggiorno"
+        "en": "The incidental expenses",
+        "pt": "As despesas extras da estadia",
+        "fr": "Les frais supplémentaires du séjour",
+        "it": "Le spese extra del soggiorno"
       },
       "image_url": ""
     },
     {
       "id": "ha109",
-      "es": "Cargo adicional",
+      "es": "El cargo adicional",
       "translations": {
-        "en": "Extra charge / Surcharge",
-        "pt": "Cobrança adicional / Taxa extra",
-        "fr": "Supplément / Frais supplémentaires",
-        "it": "Supplemento / Costo aggiuntivo"
+        "en": "The extra charge",
+        "pt": "A cobrança adicional",
+        "fr": "Le supplément",
+        "it": "Il supplemento"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the extra charges",
+        "pt": "Plural: as cobranças adicionais",
+        "fr": "Plural: les suppléments",
+        "it": "Plural: i supplementi"
+      }
     },
     {
       "id": "ha110",
-      "es": "Tasa de estancia (impuesto turístico)",
+      "es": "El impuesto turístico",
       "translations": {
-        "en": "Tourist tax / City tax",
-        "pt": "Taxa turística",
-        "fr": "Taxe de séjour",
-        "it": "Imposta di soggiorno / Tassa di soggiorno"
+        "en": "The tourist tax",
+        "pt": "A taxa turística",
+        "fr": "La taxe de séjour",
+        "it": "L’imposta di soggiorno"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the tourist taxes",
+        "pt": "Plural: as taxas turísticas",
+        "fr": "Plural: les taxes de séjour",
+        "it": "Plural: le imposte di soggiorno"
+      }
     },
     {
       "id": "ha111",
-      "es": "Cargo por servicios del hotel (resort fee, frecuente en Estados Unidos)",
+      "es": "El cargo por servicios del hotel",
       "translations": {
-        "en": "Resort fee / Amenity fee",
-        "pt": "Taxa de serviços do hotel / Resort fee",
-        "fr": "Frais de services de l'hôtel / Resort fee",
-        "it": "Supplemento per i servizi dell'hotel / Resort fee"
+        "en": "The resort fee",
+        "pt": "A taxa de resort",
+        "fr": "Les frais de séjour",
+        "it": "Il supplemento per i servizi dell’hotel"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the resort fees",
+        "pt": "Plural: as taxas de resort",
+        "fr": "Plural: les frais de séjour",
+        "it": "Plural: i supplementi per i servizi dell’hotel",
+        "es": "Cargo adicional habitual en algunos hoteles de Estados Unidos; puede cobrarse aunque no se utilicen los servicios."
+      }
     },
     {
       "id": "ha112",
-      "es": "No presentarse a una reserva / No-show",
+      "es": "La inasistencia a la reserva",
       "translations": {
-        "en": "No-show",
-        "pt": "Não comparecimento / No-show",
-        "fr": "Non-présentation / No-show",
-        "it": "Mancata presentazione / No-show"
+        "en": "The no-show",
+        "pt": "O não comparecimento",
+        "fr": "La non-présentation",
+        "it": "La mancata presentazione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the no-shows",
+        "pt": "Plural: os não comparecimentos",
+        "fr": "Plural: les non-présentations",
+        "it": "Plural: le mancate presentazioni"
+      }
     },
     {
       "id": "ha113",
-      "es": "Sobreventa de habitaciones / Overbooking",
+      "es": "La sobreventa de habitaciones",
       "translations": {
-        "en": "Overbooking",
-        "pt": "Overbooking / Reservas acima da capacidade",
-        "fr": "Surréservation / Overbooking",
-        "it": "Overbooking / Sovraprenotazione"
+        "en": "The overbooking",
+        "pt": "O excesso de reservas",
+        "fr": "La surréservation",
+        "it": "La sovraprenotazione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the overbookings",
+        "pt": "Plural: os excessos de reservas",
+        "fr": "Plural: les surréservations",
+        "it": "Plural: le sovraprenotazioni"
+      }
     },
     {
       "id": "ha114",
-      "es": "Factura (documento fiscal)",
+      "es": "La factura",
       "translations": {
-        "en": "Invoice",
-        "pt": "Nota fiscal",
-        "fr": "Facture",
-        "it": "Fattura"
+        "en": "The invoice",
+        "pt": "A nota fiscal",
+        "fr": "La facture",
+        "it": "La fattura"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the invoices",
+        "pt": "Plural: as notas fiscais «Nota fiscal» es el documento fiscal brasileño; «recibo» acredita un pago, pero no es siempre una nota fiscal.",
+        "fr": "Plural: les factures",
+        "it": "Plural: le fatture"
+      }
     },
     {
       "id": "ha115",
-      "es": "Recibo / Comprobante de pago",
+      "es": "El recibo",
       "translations": {
-        "en": "Receipt / Proof of payment",
-        "pt": "Recibo / Comprovante de pagamento",
-        "fr": "Reçu / Justificatif de paiement",
-        "it": "Ricevuta / Prova di pagamento"
+        "en": "The receipt",
+        "pt": "O recibo",
+        "fr": "Le reçu",
+        "it": "La ricevuta"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the receipts",
+        "pt": "Plural: os recibos",
+        "fr": "Plural: les reçus",
+        "it": "Plural: le ricevute"
+      }
     },
     {
       "id": "ha116",
@@ -1428,7 +2065,7 @@
         "en": "I'd prefer a quiet room away from the elevator.",
         "pt": "Preferiria um quarto silencioso, longe do elevador.",
         "fr": "Je préférerais une chambre calme, loin de l'ascenseur.",
-        "it": "Preferirei una camera tranquilla, lontano dall'ascensore."
+        "it": "Preferirei una camera tranquilla, lontano dall’ascensore."
       },
       "image_url": ""
     },
@@ -1588,12 +2225,12 @@
     },
     {
       "id": "ha145",
-      "es": "Aquí tiene mi pasaporte / Mi identificación.",
+      "es": "Aquí tiene mi pasaporte o mi identificación.",
       "translations": {
-        "en": "Here is my passport / My ID.",
-        "pt": "Aqui está meu passaporte / Meu documento de identidade.",
-        "fr": "Voici mon passeport / Ma pièce d'identité.",
-        "it": "Ecco il mio passaporto / Il mio documento d'identità."
+        "en": "Here is my passport or ID.",
+        "pt": "Aqui está meu passaporte ou documento de identidade.",
+        "fr": "Voici mon passeport ou ma pièce d’identité.",
+        "it": "Ecco il mio passaporto o documento d’identità."
       },
       "image_url": ""
     },
@@ -2204,12 +2841,12 @@
     },
     {
       "id": "ha201",
-      "es": "La habitación está demasiado caliente / Demasiado fría.",
+      "es": "La habitación está demasiado caliente o demasiado fría.",
       "translations": {
-        "en": "The room is too hot / Too cold.",
-        "pt": "O quarto está quente demais / Frio demais.",
-        "fr": "Il fait trop chaud dans la chambre / Trop froid dans la chambre.",
-        "it": "In camera fa troppo caldo / Troppo freddo."
+        "en": "The room is too hot or too cold.",
+        "pt": "O quarto está quente demais ou frio demais.",
+        "fr": "La chambre est trop chaude ou trop froide.",
+        "it": "La camera è troppo calda o troppo fredda."
       },
       "image_url": ""
     },
@@ -2292,12 +2929,12 @@
     },
     {
       "id": "ha209",
-      "es": "¿Tienen almohadas más firmes / Más suaves?",
+      "es": "¿Tienen almohadas más firmes o más suaves?",
       "translations": {
-        "en": "Do you have firmer pillows / Softer pillows?",
-        "pt": "Vocês têm travesseiros mais firmes / Mais macios?",
-        "fr": "Avez-vous des oreillers plus fermes / Plus moelleux ?",
-        "it": "Avete cuscini più rigidi / Più morbidi?"
+        "en": "Do you have firmer or softer pillows?",
+        "pt": "Vocês têm travesseiros mais firmes ou mais macios?",
+        "fr": "Avez-vous des oreillers plus fermes ou plus moelleux ?",
+        "it": "Avete cuscini più rigidi o più morbidi?"
       },
       "image_url": ""
     },
@@ -2633,12 +3270,12 @@
     },
     {
       "id": "ha240",
-      "es": "El aire acondicionado / La calefacción no funciona.",
+      "es": "El aire acondicionado o la calefacción no funciona.",
       "translations": {
-        "en": "The air conditioning / The heating isn't working.",
-        "pt": "O ar-condicionado / O aquecimento não está funcionando.",
-        "fr": "La climatisation / Le chauffage ne fonctionne pas.",
-        "it": "L'aria condizionata / Il riscaldamento non funziona."
+        "en": "The air conditioning or heating isn’t working.",
+        "pt": "O ar-condicionado ou o aquecimento não está funcionando.",
+        "fr": "La climatisation ou le chauffage ne fonctionne pas.",
+        "it": "L’aria condizionata o il riscaldamento non funziona."
       },
       "image_url": ""
     },
@@ -3238,47 +3875,71 @@
     },
     {
       "id": "ha295",
-      "es": "Casillero / Locker",
+      "es": "El casillero",
       "translations": {
-        "en": "Locker",
-        "pt": "Armário com chave / Locker",
-        "fr": "Casier",
-        "it": "Armadietto"
+        "en": "The locker",
+        "pt": "O armário individual",
+        "fr": "Le casier",
+        "it": "L’armadietto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lockers",
+        "pt": "Plural: os armários individuais",
+        "fr": "Plural: les casiers",
+        "it": "Plural: gli armadietti"
+      }
     },
     {
       "id": "ha296",
-      "es": "Candado",
+      "es": "El candado",
       "translations": {
-        "en": "Padlock",
-        "pt": "Cadeado",
-        "fr": "Cadenas",
-        "it": "Lucchetto"
+        "en": "The padlock",
+        "pt": "O cadeado",
+        "fr": "Le cadenas",
+        "it": "Il lucchetto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the padlocks",
+        "pt": "Plural: os cadeados",
+        "fr": "Plural: les cadenas",
+        "it": "Plural: i lucchetti"
+      }
     },
     {
       "id": "ha297",
-      "es": "Cocina compartida",
+      "es": "La cocina compartida",
       "translations": {
-        "en": "Shared kitchen",
-        "pt": "Cozinha compartilhada",
-        "fr": "Cuisine commune / Cuisine partagée",
-        "it": "Cucina in comune"
+        "en": "The shared kitchen",
+        "pt": "A cozinha compartilhada",
+        "fr": "La cuisine commune",
+        "it": "La cucina condivisa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the shared kitchens",
+        "pt": "Plural: as cozinhas compartilhadas",
+        "fr": "Plural: les cuisines communes",
+        "it": "Plural: le cucine condivise"
+      }
     },
     {
       "id": "ha298",
-      "es": "Sala común",
+      "es": "La sala común",
       "translations": {
-        "en": "Common room / Shared lounge",
-        "pt": "Sala de convivência / Sala comum",
-        "fr": "Salle commune",
-        "it": "Sala comune"
+        "en": "The common room",
+        "pt": "A sala de convivência",
+        "fr": "La salle commune",
+        "it": "La sala comune"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the common rooms",
+        "pt": "Plural: as salas de convivência",
+        "fr": "Plural: les salles communes",
+        "it": "Plural: le sale comuni"
+      }
     },
     {
       "id": "ha299",
@@ -3359,14 +4020,17 @@
     },
     {
       "id": "ha306",
-      "es": "¿Te molesta si enciendo la luz? (a un compañero de habitación)",
+      "es": "¿Te molesta si enciendo la luz?",
       "translations": {
         "en": "Do you mind if I turn on the light?",
         "pt": "Você se importa se eu acender a luz?",
         "fr": "Ça te dérange si j'allume la lumière ?",
         "it": "Ti dispiace se accendo la luce?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Pregunta informal dirigida a un compañero de habitación."
+      }
     },
     {
       "id": "ha307",
@@ -4115,6 +4779,277 @@
         "it": "Abbiamo trovato l'oggetto che ha dimenticato. Possiamo spedirglielo."
       },
       "image_url": ""
+    },
+    {
+      "id": "ha375",
+      "es": "La cama king size",
+      "translations": {
+        "en": "The king-size bed",
+        "pt": "A cama king size",
+        "fr": "Le lit king size",
+        "it": "Il letto king size"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the king-size beds",
+        "pt": "Plural: as camas king size",
+        "fr": "Plural: les lits king size",
+        "it": "Plural: i letti king size"
+      }
+    },
+    {
+      "id": "ha376",
+      "es": "El dormitorio femenino",
+      "translations": {
+        "en": "The female-only dormitory",
+        "pt": "O dormitório feminino",
+        "fr": "Le dortoir réservé aux femmes",
+        "it": "Il dormitorio femminile"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the female-only dormitories",
+        "pt": "Plural: os dormitórios femininos",
+        "fr": "Plural: les dortoirs réservés aux femmes",
+        "it": "Plural: i dormitori femminili"
+      }
+    },
+    {
+      "id": "ha377",
+      "es": "La cama inferior de la litera",
+      "translations": {
+        "en": "The bottom bunk",
+        "pt": "A cama de baixo do beliche",
+        "fr": "Le lit du bas",
+        "it": "Il letto inferiore del letto a castello"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the bottom bunks",
+        "pt": "Plural: as camas de baixo dos beliches",
+        "fr": "Plural: les lits du bas",
+        "it": "Plural: i letti inferiori dei letti a castello"
+      }
+    },
+    {
+      "id": "ha378",
+      "es": "La toalla de manos",
+      "translations": {
+        "en": "The hand towel",
+        "pt": "A toalha de rosto",
+        "fr": "La serviette pour les mains",
+        "it": "L’asciugamano per le mani"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hand towels",
+        "pt": "Plural: as toalhas de rosto",
+        "fr": "Plural: les serviettes pour les mains",
+        "it": "Plural: gli asciugamani per le mani"
+      }
+    },
+    {
+      "id": "ha379",
+      "es": "La tabla de planchar",
+      "translations": {
+        "en": "The ironing board",
+        "pt": "A tábua de passar",
+        "fr": "La table à repasser",
+        "it": "L’asse da stiro"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ironing boards",
+        "pt": "Plural: as tábuas de passar",
+        "fr": "Plural: les tables à repasser",
+        "it": "Plural: gli assi da stiro"
+      }
+    },
+    {
+      "id": "ha380",
+      "es": "La fecha de salida",
+      "translations": {
+        "en": "The departure date",
+        "pt": "A data de saída",
+        "fr": "La date de départ",
+        "it": "La data di partenza"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the departure dates",
+        "pt": "Plural: as datas de saída",
+        "fr": "Plural: les dates de départ",
+        "it": "Plural: le date di partenza"
+      }
+    },
+    {
+      "id": "ha381",
+      "es": "La tarifa no reembolsable",
+      "translations": {
+        "en": "The nonrefundable rate",
+        "pt": "A tarifa não reembolsável",
+        "fr": "Le tarif non remboursable",
+        "it": "La tariffa non rimborsabile"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the nonrefundable rates",
+        "pt": "Plural: as tarifas não reembolsáveis",
+        "fr": "Plural: les tarifs non remboursables",
+        "it": "Plural: le tariffe non rimborsabili"
+      }
+    },
+    {
+      "id": "ha382",
+      "es": "El desayuno buffet",
+      "translations": {
+        "en": "The breakfast buffet",
+        "pt": "O café da manhã em estilo bufê",
+        "fr": "Le petit-déjeuner buffet",
+        "it": "La colazione a buffet"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the breakfast buffets",
+        "pt": "Plural: os cafés da manhã em estilo bufê",
+        "fr": "Plural: les petits-déjeuners buffet",
+        "it": "Plural: le colazioni a buffet"
+      }
+    },
+    {
+      "id": "ha383",
+      "es": "El traslado al aeropuerto",
+      "translations": {
+        "en": "The airport transfer",
+        "pt": "O traslado para o aeroporto",
+        "fr": "Le transfert vers l’aéroport",
+        "it": "Il trasferimento per l’aeroporto"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the airport transfers",
+        "pt": "Plural: os traslados para o aeroporto",
+        "fr": "Plural: les transferts vers l’aéroport",
+        "it": "Plural: i trasferimenti per l’aeroporto"
+      }
+    },
+    {
+      "id": "ha384",
+      "es": "La lavandería de autoservicio",
+      "translations": {
+        "en": "The self-service laundry",
+        "pt": "A lavanderia de autosserviço",
+        "fr": "La laverie en libre-service",
+        "it": "La lavanderia self-service"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the self-service laundries",
+        "pt": "Plural: as lavanderias de autosserviço",
+        "fr": "Plural: les laveries en libre-service",
+        "it": "Plural: le lavanderie self-service"
+      }
+    },
+    {
+      "id": "ha385",
+      "es": "La salida de emergencia",
+      "translations": {
+        "en": "The emergency exit",
+        "pt": "A saída de emergência",
+        "fr": "La sortie de secours",
+        "it": "L’uscita di emergenza"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the emergency exits",
+        "pt": "Plural: as saídas de emergência",
+        "fr": "Plural: les sorties de secours",
+        "it": "Plural: le uscite di emergenza"
+      }
+    },
+    {
+      "id": "ha386",
+      "es": "La contraseña del wifi",
+      "translations": {
+        "en": "The Wi-Fi password",
+        "pt": "A senha do Wi-Fi",
+        "fr": "Le mot de passe du Wi-Fi",
+        "it": "La password del Wi-Fi"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the Wi-Fi passwords",
+        "pt": "Plural: as senhas do Wi-Fi",
+        "fr": "Plural: les mots de passe du Wi-Fi",
+        "it": "Plural: le password del Wi-Fi"
+      }
+    },
+    {
+      "id": "ha387",
+      "es": "La llave de la habitación",
+      "translations": {
+        "en": "The room key",
+        "pt": "A chave do quarto",
+        "fr": "La clé de la chambre",
+        "it": "La chiave della camera"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the room keys",
+        "pt": "Plural: as chaves dos quartos",
+        "fr": "Plural: les clés des chambres",
+        "it": "Plural: le chiavi delle camere"
+      }
+    },
+    {
+      "id": "ha388",
+      "es": "El horario de silencio",
+      "translations": {
+        "en": "The quiet hours",
+        "pt": "O horário de silêncio",
+        "fr": "Les heures de calme",
+        "it": "L’orario del silenzio"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os horários de silêncio",
+        "fr": "Plural: les heures de calme",
+        "it": "Plural: gli orari del silenzio"
+      }
+    },
+    {
+      "id": "ha389",
+      "es": "La tarifa de salida tardía",
+      "translations": {
+        "en": "The late checkout fee",
+        "pt": "A taxa de check-out tardio",
+        "fr": "Les frais de départ tardif",
+        "it": "Il supplemento per il check-out posticipato"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the late checkout fees",
+        "pt": "Plural: as taxas de check-out tardio",
+        "fr": "Plural: les frais de départ tardif",
+        "it": "Plural: i supplementi per il check-out posticipato"
+      }
+    },
+    {
+      "id": "ha390",
+      "es": "El cargo de limpieza",
+      "translations": {
+        "en": "The cleaning fee",
+        "pt": "A taxa de limpeza",
+        "fr": "Les frais de ménage",
+        "it": "Le spese di pulizia"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cleaning fees",
+        "pt": "Plural: as taxas de limpeza",
+        "fr": "Plural: les frais de ménage",
+        "it": "Plural: le spese di pulizia"
+      }
     }
   ]
 }

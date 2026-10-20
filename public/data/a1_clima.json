@@ -1,620 +1,867 @@
 {
   "module": "El Clima y las Estaciones",
   "level": "A1",
+  "revisado": "true",
   "cards": [
     {
       "id": "cl1",
-      "es": "Tiempo (condiciones meteorológicas del momento)",
+      "es": "El tiempo",
       "translations": {
-        "en": "Weather",
-        "pt": "Tempo",
-        "fr": "Temps / Météo",
-        "it": "Tempo / Meteo"
+        "en": "The weather",
+        "fr": "Le temps",
+        "it": "Il tempo",
+        "pt": "O tempo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se refiere a las condiciones meteorológicas actuales, no al clima de una región.",
+        "fr": "«La météo» es una alternativa habitual.",
+        "it": "«Il meteo» es frecuente para el pronóstico."
+      }
     },
     {
       "id": "cl2",
-      "es": "Clima (condiciones habituales de una región)",
+      "es": "El clima",
       "translations": {
-        "en": "Climate",
-        "pt": "Clima",
-        "fr": "Climat",
-        "it": "Clima"
+        "en": "The climate",
+        "fr": "Le climat",
+        "it": "Il clima",
+        "pt": "O clima"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Describe las condiciones atmosféricas habituales de una región durante periodos largos.",
+        "en": "Plural: the climates",
+        "fr": "Plural: les climats",
+        "it": "Plural: i climi",
+        "pt": "Plural: os climas"
+      }
     },
     {
       "id": "cl3",
-      "es": "Pronóstico / Previsión del tiempo",
+      "es": "El pronóstico del tiempo",
       "translations": {
-        "en": "Weather forecast / Forecast",
-        "pt": "Previsão do tempo",
-        "fr": "Prévisions météo / Prévisions météorologiques",
-        "it": "Previsioni del tempo / Previsioni meteo"
+        "en": "The weather forecast",
+        "fr": "Les prévisions météo",
+        "it": "Le previsioni del tempo",
+        "pt": "A previsão do tempo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "También se dice «la previsión del tiempo».",
+        "en": "Plural: the weather forecasts",
+        "pt": "Plural: as previsões do tempo",
+        "fr": "Singular: une prévision météo. En meteorología suele emplearse el plural.",
+        "it": "Singular: la previsione del tempo. En meteorología suele emplearse el plural."
+      }
     },
     {
       "id": "cl4",
-      "es": "Estación del año",
+      "es": "La estación del año",
       "translations": {
-        "en": "Season",
-        "pt": "Estação do ano",
-        "fr": "Saison",
-        "it": "Stagione"
+        "en": "The season",
+        "fr": "La saison",
+        "it": "La stagione",
+        "pt": "A estação do ano"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the seasons",
+        "fr": "Plural: les saisons",
+        "it": "Plural: le stagioni",
+        "pt": "Plural: as estações do ano"
+      }
     },
     {
       "id": "cl5",
-      "es": "Primavera",
+      "es": "La primavera",
       "translations": {
-        "en": "Spring / Springtime",
-        "pt": "Primavera",
-        "fr": "Printemps",
-        "it": "Primavera"
+        "en": "The spring",
+        "fr": "Le printemps",
+        "it": "La primavera",
+        "pt": "A primavera"
       },
       "image_url": ""
     },
     {
       "id": "cl6",
-      "es": "Verano",
+      "es": "El verano",
       "translations": {
-        "en": "Summer / Summertime",
-        "pt": "Verão",
-        "fr": "Été",
-        "it": "Estate"
+        "en": "The summer",
+        "fr": "L’été",
+        "it": "L’estate",
+        "pt": "O verão"
       },
       "image_url": ""
     },
     {
       "id": "cl7",
-      "es": "Otoño",
+      "es": "El otoño",
       "translations": {
-        "en": "Fall / Autumn",
-        "pt": "Outono",
-        "fr": "Automne",
-        "it": "Autunno"
+        "en": "The fall",
+        "fr": "L’automne",
+        "it": "L’autunno",
+        "pt": "O outono"
       },
       "image_url": ""
     },
     {
       "id": "cl8",
-      "es": "Invierno",
+      "es": "El invierno",
       "translations": {
-        "en": "Winter / Wintertime",
-        "pt": "Inverno",
-        "fr": "Hiver",
-        "it": "Inverno"
+        "en": "The winter",
+        "fr": "L’hiver",
+        "it": "L’inverno",
+        "pt": "O inverno"
       },
       "image_url": ""
     },
     {
       "id": "cl9",
-      "es": "Temporada de lluvias / Época lluviosa",
+      "es": "La temporada de lluvias",
       "translations": {
-        "en": "Rainy season / Wet season",
-        "pt": "Estação chuvosa / Período de chuvas",
-        "fr": "Saison des pluies / Saison humide",
-        "it": "Stagione delle piogge"
+        "en": "The rainy season",
+        "fr": "La saison des pluies",
+        "it": "La stagione delle piogge",
+        "pt": "A estação chuvosa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the rainy seasons",
+        "fr": "Plural: les saisons des pluies",
+        "it": "Plural: le stagioni delle piogge",
+        "pt": "Plural: as estações chuvosas"
+      }
     },
     {
       "id": "cl10",
-      "es": "Temporada seca / Época seca",
+      "es": "La temporada seca",
       "translations": {
-        "en": "Dry season",
-        "pt": "Estação seca / Período seco",
-        "fr": "Saison sèche",
-        "it": "Stagione secca"
+        "en": "The dry season",
+        "fr": "La saison sèche",
+        "it": "La stagione secca",
+        "pt": "A estação seca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dry seasons",
+        "fr": "Plural: les saisons sèches",
+        "it": "Plural: le stagioni secche",
+        "pt": "Plural: as estações secas"
+      }
     },
     {
       "id": "cl11",
-      "es": "Cielo",
+      "es": "El cielo",
       "translations": {
-        "en": "Sky",
-        "pt": "Céu",
-        "fr": "Ciel",
-        "it": "Cielo"
+        "en": "The sky",
+        "fr": "Le ciel",
+        "it": "Il cielo",
+        "pt": "O céu"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the skies",
+        "fr": "Plural: les ciels",
+        "it": "Plural: i cieli",
+        "pt": "Plural: os céus"
+      }
     },
     {
       "id": "cl12",
-      "es": "Sol",
+      "es": "El sol",
       "translations": {
-        "en": "Sun",
-        "pt": "Sol",
-        "fr": "Soleil",
-        "it": "Sole"
+        "en": "The sun",
+        "fr": "Le soleil",
+        "it": "Il sole",
+        "pt": "O sol"
       },
       "image_url": ""
     },
     {
       "id": "cl13",
-      "es": "Luz del sol / Luz solar",
+      "es": "La luz solar",
       "translations": {
-        "en": "Sunlight / Sunshine",
-        "pt": "Luz do sol / Luz solar",
-        "fr": "Lumière du soleil",
-        "it": "Luce del sole"
+        "en": "The sunlight",
+        "fr": "La lumière du soleil",
+        "it": "La luce del sole",
+        "pt": "A luz solar"
       },
       "image_url": ""
     },
     {
       "id": "cl14",
-      "es": "Sombra",
+      "es": "La sombra",
       "translations": {
-        "en": "Shade / Shadow",
-        "pt": "Sombra",
-        "fr": "Ombre",
-        "it": "Ombra"
+        "en": "The shade",
+        "fr": "L’ombre",
+        "it": "L’ombra",
+        "pt": "A sombra"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "«Shade» es la sombra que protege del sol; «shadow», la sombra proyectada por un objeto."
+      }
     },
     {
       "id": "cl15",
-      "es": "Nube / Nubes",
+      "es": "La nube",
       "translations": {
-        "en": "Cloud / Clouds",
-        "pt": "Nuvem / Nuvens",
-        "fr": "Nuage / Nuages",
-        "it": "Nuvola / Nuvole"
+        "en": "The cloud",
+        "fr": "Le nuage",
+        "it": "La nuvola",
+        "pt": "A nuvem"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the clouds",
+        "fr": "Plural: les nuages",
+        "it": "Plural: le nuvole",
+        "pt": "Plural: as nuvens"
+      }
     },
     {
       "id": "cl16",
-      "es": "Arcoíris / Arco iris",
+      "es": "El arcoíris",
       "translations": {
-        "en": "Rainbow",
-        "pt": "Arco-íris",
-        "fr": "Arc-en-ciel",
-        "it": "Arcobaleno"
+        "en": "The rainbow",
+        "fr": "L’arc-en-ciel",
+        "it": "L’arcobaleno",
+        "pt": "O arco-íris"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the rainbows",
+        "fr": "Plural: les arcs-en-ciel",
+        "it": "Plural: gli arcobaleni",
+        "pt": "Plural: os arco-íris"
+      }
     },
     {
       "id": "cl17",
-      "es": "Lluvia",
+      "es": "La lluvia",
       "translations": {
-        "en": "Rain / Rainfall",
-        "pt": "Chuva",
-        "fr": "Pluie",
-        "it": "Pioggia"
+        "en": "The rain",
+        "fr": "La pluie",
+        "it": "La pioggia",
+        "pt": "A chuva"
       },
       "image_url": ""
     },
     {
       "id": "cl18",
-      "es": "Gota de lluvia",
+      "es": "La gota de lluvia",
       "translations": {
-        "en": "Raindrop",
-        "pt": "Gota de chuva",
-        "fr": "Goutte de pluie",
-        "it": "Goccia di pioggia"
+        "en": "The raindrop",
+        "fr": "La goutte de pluie",
+        "it": "La goccia di pioggia",
+        "pt": "A gota de chuva"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the raindrops",
+        "fr": "Plural: les gouttes de pluie",
+        "it": "Plural: le gocce di pioggia",
+        "pt": "Plural: as gotas de chuva"
+      }
     },
     {
       "id": "cl19",
-      "es": "Llovizna / Garúa (lluvia muy fina)",
+      "es": "La llovizna",
       "translations": {
-        "en": "Drizzle",
-        "pt": "Garoa / Chuvisco",
-        "fr": "Bruine / Crachin",
-        "it": "Pioggerellina"
+        "en": "The drizzle",
+        "fr": "La bruine",
+        "it": "La pioggerellina",
+        "pt": "A garoa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "«Garúa» es una variante regional.",
+        "pt": "«Chuvisco» también es común."
+      }
     },
     {
       "id": "cl20",
-      "es": "Chubasco (lluvia de corta duración)",
+      "es": "El chubasco",
       "translations": {
-        "en": "Rain shower / Shower",
-        "pt": "Pancada de chuva",
-        "fr": "Averse",
-        "it": "Rovescio di pioggia / Acquazzone"
+        "en": "The rain shower",
+        "fr": "L’averse",
+        "it": "Il rovescio di pioggia",
+        "pt": "A pancada de chuva"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the rain showers",
+        "fr": "Plural: les averses",
+        "it": "Plural: i rovesci di pioggia",
+        "pt": "Plural: as pancadas de chuva"
+      }
     },
     {
       "id": "cl21",
-      "es": "Aguacero (lluvia intensa)",
+      "es": "El aguacero",
       "translations": {
-        "en": "Downpour / Heavy rain",
-        "pt": "Chuva forte / Aguaceiro",
-        "fr": "Pluie torrentielle / Forte pluie",
-        "it": "Pioggia torrenziale / Pioggia intensa"
+        "en": "The downpour",
+        "fr": "La pluie torrentielle",
+        "it": "L’acquazzone",
+        "pt": "O aguaceiro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the downpours",
+        "fr": "Plural: les pluies torrentielles",
+        "it": "Plural: gli acquazzoni",
+        "pt": "Plural: os aguaceiros"
+      }
     },
     {
       "id": "cl22",
-      "es": "Nieve",
+      "es": "La nieve",
       "translations": {
-        "en": "Snow",
-        "pt": "Neve",
-        "fr": "Neige",
-        "it": "Neve"
+        "en": "The snow",
+        "fr": "La neige",
+        "it": "La neve",
+        "pt": "A neve"
       },
       "image_url": ""
     },
     {
       "id": "cl23",
-      "es": "Copo de nieve",
+      "es": "El copo de nieve",
       "translations": {
-        "en": "Snowflake",
-        "pt": "Floco de neve",
-        "fr": "Flocon de neige",
-        "it": "Fiocco di neve"
+        "en": "The snowflake",
+        "fr": "Le flocon de neige",
+        "it": "Il fiocco di neve",
+        "pt": "O floco de neve"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the snowflakes",
+        "fr": "Plural: les flocons de neige",
+        "it": "Plural: i fiocchi di neve",
+        "pt": "Plural: os flocos de neve"
+      }
     },
     {
       "id": "cl24",
-      "es": "Nevada (caída de nieve)",
+      "es": "La nevada",
       "translations": {
-        "en": "Snowfall",
-        "pt": "Queda de neve",
-        "fr": "Chute de neige",
-        "it": "Nevicata"
+        "en": "The snowfall",
+        "fr": "La chute de neige",
+        "it": "La nevicata",
+        "pt": "A queda de neve"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the snowfalls",
+        "fr": "Plural: les chutes de neige",
+        "it": "Plural: le nevicate",
+        "pt": "Plural: as quedas de neve"
+      }
     },
     {
       "id": "cl25",
-      "es": "Aguanieve (mezcla de lluvia y nieve)",
+      "es": "El aguanieve",
       "translations": {
-        "en": "Rain and snow mix / Mixed rain and snow",
-        "pt": "Chuva e neve misturadas",
-        "fr": "Pluie et neige mêlées",
-        "it": "Pioggia mista a neve"
+        "en": "The mix of rain and snow",
+        "fr": "La pluie et la neige mêlées",
+        "it": "La pioggia mista a neve",
+        "pt": "A chuva misturada com neve"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "En Estados Unidos, «sleet» suele designar bolitas de hielo, no la mezcla de lluvia y nieve."
+      }
     },
     {
       "id": "cl26",
-      "es": "Granizo",
+      "es": "El granizo",
       "translations": {
-        "en": "Hail / Hailstones",
-        "pt": "Granizo",
-        "fr": "Grêle / Grêlons",
-        "it": "Grandine"
+        "en": "The hail",
+        "fr": "La grêle",
+        "it": "La grandine",
+        "pt": "O granizo"
       },
       "image_url": ""
     },
     {
       "id": "cl27",
-      "es": "Hielo",
+      "es": "El hielo",
       "translations": {
-        "en": "Ice",
-        "pt": "Gelo",
-        "fr": "Glace",
-        "it": "Ghiaccio"
+        "en": "The ice",
+        "fr": "La glace",
+        "it": "Il ghiaccio",
+        "pt": "O gelo"
       },
       "image_url": ""
     },
     {
       "id": "cl28",
-      "es": "Escarcha (hielo fino sobre una superficie)",
+      "es": "La escarcha",
       "translations": {
-        "en": "Frost",
-        "pt": "Geada",
-        "fr": "Givre / Gelée blanche",
-        "it": "Brina"
+        "en": "The frost",
+        "fr": "Le givre",
+        "it": "La brina",
+        "pt": "A geada"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Geada» también puede significar helada, según el contexto."
+      }
     },
     {
       "id": "cl29",
-      "es": "Helada (episodio de temperatura bajo cero)",
+      "es": "La helada",
       "translations": {
-        "en": "Freeze / Freezing conditions",
-        "pt": "Temperaturas abaixo de zero",
-        "fr": "Gel / Gelée",
-        "it": "Gelata"
+        "en": "The freeze",
+        "fr": "La gelée",
+        "it": "La gelata",
+        "pt": "A geada"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "La helada es un episodio con temperaturas cercanas o inferiores a 0 °C; la escarcha es un depósito de hielo.",
+        "pt": "Plural: as geadas «Geada» también puede significar escarcha.",
+        "en": "Plural: the freezes",
+        "fr": "Plural: les gelées",
+        "it": "Plural: le gelate"
+      }
     },
     {
       "id": "cl30",
-      "es": "Niebla / Neblina",
+      "es": "La niebla",
       "translations": {
-        "en": "Fog",
-        "pt": "Nevoeiro / Neblina",
-        "fr": "Brouillard",
-        "it": "Nebbia"
+        "en": "The fog",
+        "fr": "Le brouillard",
+        "it": "La nebbia",
+        "pt": "O nevoeiro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "La niebla es más densa que la bruma.",
+        "it": "Plural: le nebbie",
+        "pt": "Plural: os nevoeiros"
+      }
     },
     {
       "id": "cl31",
-      "es": "Bruma / Neblina ligera",
+      "es": "La bruma",
       "translations": {
-        "en": "Mist",
-        "pt": "Névoa leve / Névoa úmida",
-        "fr": "Brume",
-        "it": "Foschia"
+        "en": "The mist",
+        "fr": "La brume",
+        "it": "La foschia",
+        "pt": "A névoa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "También se dice «neblina».",
+        "it": "«Foschia» puede incluir bruma o calima ligera.",
+        "fr": "Plural: les brumes",
+        "pt": "Plural: as névoas"
+      }
     },
     {
       "id": "cl32",
-      "es": "Viento",
+      "es": "El viento",
       "translations": {
-        "en": "Wind",
-        "pt": "Vento",
-        "fr": "Vent",
-        "it": "Vento"
+        "en": "The wind",
+        "fr": "Le vent",
+        "it": "Il vento",
+        "pt": "O vento"
       },
       "image_url": ""
     },
     {
       "id": "cl33",
-      "es": "Brisa (viento suave)",
+      "es": "La brisa",
       "translations": {
-        "en": "Breeze",
-        "pt": "Brisa",
-        "fr": "Brise",
-        "it": "Brezza"
+        "en": "The breeze",
+        "fr": "La brise",
+        "it": "La brezza",
+        "pt": "A brisa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the breezes",
+        "fr": "Plural: les brises",
+        "it": "Plural: le brezze",
+        "pt": "Plural: as brisas"
+      }
     },
     {
       "id": "cl34",
-      "es": "Ráfaga de viento",
+      "es": "La ráfaga de viento",
       "translations": {
-        "en": "Wind gust / Gust of wind",
-        "pt": "Rajada de vento",
-        "fr": "Rafale de vent",
-        "it": "Raffica di vento"
+        "en": "The gust of wind",
+        "fr": "La rafale de vent",
+        "it": "La raffica di vento",
+        "pt": "A rajada de vento"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the gusts of wind",
+        "fr": "Plural: les rafales de vent",
+        "it": "Plural: le raffiche di vento",
+        "pt": "Plural: as rajadas de vento"
+      }
     },
     {
       "id": "cl35",
-      "es": "Tormenta / Tempestad",
+      "es": "La tormenta",
       "translations": {
-        "en": "Storm",
-        "pt": "Tempestade",
-        "fr": "Tempête",
-        "it": "Tempesta"
+        "en": "The storm",
+        "fr": "La tempête",
+        "it": "La tempesta",
+        "pt": "A tempestade"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the storms",
+        "fr": "Plural: les tempêtes",
+        "it": "Plural: le tempeste",
+        "pt": "Plural: as tempestades"
+      }
     },
     {
       "id": "cl36",
-      "es": "Tormenta eléctrica",
+      "es": "La tormenta eléctrica",
       "translations": {
-        "en": "Thunderstorm",
-        "pt": "Tempestade com raios e trovões",
-        "fr": "Orage",
-        "it": "Temporale"
+        "en": "The thunderstorm",
+        "fr": "L’orage",
+        "it": "Il temporale",
+        "pt": "A tempestade elétrica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the thunderstorms",
+        "fr": "Plural: les orages",
+        "it": "Plural: i temporali",
+        "pt": "Plural: as tempestades elétricas"
+      }
     },
     {
       "id": "cl37",
-      "es": "Relámpago (destello de luz)",
+      "es": "El relámpago",
       "translations": {
-        "en": "Lightning flash / Flash of lightning",
-        "pt": "Relâmpago",
-        "fr": "Éclair",
-        "it": "Lampo"
+        "en": "The flash of lightning",
+        "fr": "L’éclair",
+        "it": "Il lampo",
+        "pt": "O relâmpago"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the flashes of lightning",
+        "fr": "Plural: les éclairs",
+        "it": "Plural: i lampi",
+        "pt": "Plural: os relâmpagos"
+      }
     },
     {
       "id": "cl38",
-      "es": "Rayo (descarga que alcanza el suelo)",
+      "es": "El rayo",
       "translations": {
-        "en": "Lightning strike",
-        "pt": "Raio",
-        "fr": "Foudre",
-        "it": "Fulmine"
+        "en": "The lightning strike",
+        "fr": "Le coup de foudre",
+        "it": "Il fulmine",
+        "pt": "O raio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "El rayo es la descarga eléctrica; el relámpago es su destello visible.",
+        "fr": "Plural: les coups de foudre «La foudre» designa el fenómeno de manera general.",
+        "en": "Plural: the lightning strikes",
+        "it": "Plural: i fulmini",
+        "pt": "Plural: os raios"
+      }
     },
     {
       "id": "cl39",
-      "es": "Trueno (sonido)",
+      "es": "El trueno",
       "translations": {
-        "en": "Thunder",
-        "pt": "Trovão",
-        "fr": "Tonnerre",
-        "it": "Tuono"
+        "en": "The clap of thunder",
+        "fr": "Le coup de tonnerre",
+        "it": "Il tuono",
+        "pt": "O trovão"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the claps of thunder «Thunder» designa el fenómeno en general; «clap of thunder», un trueno individual.",
+        "fr": "Plural: les coups de tonnerre «Tonnerre» designa el fenómeno en general.",
+        "it": "Plural: i tuoni",
+        "pt": "Plural: os trovões"
+      }
     },
     {
       "id": "cl40",
-      "es": "Tormenta de nieve",
+      "es": "La tormenta de nieve",
       "translations": {
-        "en": "Snowstorm",
-        "pt": "Tempestade de neve",
-        "fr": "Tempête de neige",
-        "it": "Tempesta di neve"
+        "en": "The snowstorm",
+        "fr": "La tempête de neige",
+        "it": "La tempesta di neve",
+        "pt": "A tempestade de neve"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the snowstorms",
+        "fr": "Plural: les tempêtes de neige",
+        "it": "Plural: le tempeste di neve",
+        "pt": "Plural: as tempestades de neve"
+      }
     },
     {
       "id": "cl41",
-      "es": "Ventisca (tormenta de nieve con viento fuerte)",
+      "es": "La ventisca",
       "translations": {
-        "en": "Blizzard",
-        "pt": "Tempestade de neve com vento forte",
-        "fr": "Blizzard / Tempête de neige avec vent fort",
-        "it": "Bufera di neve"
+        "en": "The blizzard",
+        "fr": "Le blizzard",
+        "it": "La bufera di neve",
+        "pt": "A nevasca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the blizzards",
+        "fr": "Plural: les blizzards",
+        "it": "Plural: le bufere di neve",
+        "pt": "Plural: as nevascas"
+      }
     },
     {
       "id": "cl42",
-      "es": "Huracán",
+      "es": "El huracán",
       "translations": {
-        "en": "Hurricane",
-        "pt": "Furacão",
-        "fr": "Ouragan",
-        "it": "Uragano"
+        "en": "The hurricane",
+        "fr": "L’ouragan",
+        "it": "L’uragano",
+        "pt": "O furacão"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the hurricanes",
+        "fr": "Plural: les ouragans",
+        "it": "Plural: gli uragani",
+        "pt": "Plural: os furacões"
+      }
     },
     {
       "id": "cl43",
-      "es": "Tornado",
+      "es": "El tornado",
       "translations": {
-        "en": "Tornado",
-        "pt": "Tornado",
-        "fr": "Tornade",
-        "it": "Tornado"
+        "en": "The tornado",
+        "fr": "La tornade",
+        "it": "Il tornado",
+        "pt": "O tornado"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "Plural: i tornado El plural es invariable.",
+        "en": "Plural: the tornadoes",
+        "fr": "Plural: les tornades",
+        "pt": "Plural: os tornados"
+      }
     },
     {
       "id": "cl44",
-      "es": "Inundación",
+      "es": "La inundación",
       "translations": {
-        "en": "Flood / Flooding",
-        "pt": "Inundação / Enchente",
-        "fr": "Inondation",
-        "it": "Inondazione / Alluvione"
+        "en": "The flood",
+        "fr": "L’inondation",
+        "it": "L’inondazione",
+        "pt": "A inundação"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the floods",
+        "fr": "Plural: les inondations",
+        "it": "Plural: le inondazioni",
+        "pt": "Plural: as inundações"
+      }
     },
     {
       "id": "cl45",
-      "es": "Sequía",
+      "es": "La sequía",
       "translations": {
-        "en": "Drought",
-        "pt": "Seca / Estiagem",
-        "fr": "Sécheresse",
-        "it": "Siccità"
+        "en": "The drought",
+        "fr": "La sécheresse",
+        "it": "La siccità",
+        "pt": "A seca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "Plural: le siccità El sustantivo es invariable.",
+        "en": "Plural: the droughts",
+        "fr": "Plural: les sécheresses",
+        "pt": "Plural: as secas"
+      }
     },
     {
       "id": "cl46",
-      "es": "Ola de calor",
+      "es": "La ola de calor",
       "translations": {
-        "en": "Heat wave / Heatwave",
-        "pt": "Onda de calor",
-        "fr": "Vague de chaleur",
-        "it": "Ondata di caldo"
+        "en": "The heat wave",
+        "fr": "La vague de chaleur",
+        "it": "L’ondata di caldo",
+        "pt": "A onda de calor"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the heat waves",
+        "fr": "Plural: les vagues de chaleur",
+        "it": "Plural: le ondate di caldo",
+        "pt": "Plural: as ondas de calor"
+      }
     },
     {
       "id": "cl47",
-      "es": "Ola de frío",
+      "es": "La ola de frío",
       "translations": {
-        "en": "Cold wave / Cold spell",
-        "pt": "Onda de frio",
-        "fr": "Vague de froid",
-        "it": "Ondata di freddo"
+        "en": "The cold wave",
+        "fr": "La vague de froid",
+        "it": "L’ondata di freddo",
+        "pt": "A onda de frio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cold waves",
+        "fr": "Plural: les vagues de froid",
+        "it": "Plural: le ondate di freddo",
+        "pt": "Plural: as ondas de frio"
+      }
     },
     {
       "id": "cl48",
-      "es": "Bochorno (calor húmedo y sofocante)",
+      "es": "El bochorno",
       "translations": {
-        "en": "Muggy heat / Sultry heat",
-        "pt": "Calor abafado",
-        "fr": "Chaleur lourde / Chaleur étouffante",
-        "it": "Afa / Caldo afoso"
+        "en": "The muggy heat",
+        "fr": "La chaleur étouffante",
+        "it": "L’afa",
+        "pt": "O calor abafado"
       },
       "image_url": ""
     },
     {
       "id": "cl49",
-      "es": "Amanecer / Alba (primera luz del día)",
+      "es": "El amanecer",
       "translations": {
-        "en": "Dawn / Daybreak",
-        "pt": "Amanhecer / Alvorecer",
-        "fr": "Aube / Point du jour",
-        "it": "Alba"
+        "en": "The dawn",
+        "fr": "L’aube",
+        "it": "L’alba",
+        "pt": "O amanhecer"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dawns",
+        "fr": "Plural: les aubes",
+        "it": "Plural: le albe",
+        "pt": "Plural: os amanheceres"
+      }
     },
     {
       "id": "cl50",
-      "es": "Salida del sol (cuando aparece en el horizonte)",
+      "es": "La salida del sol",
       "translations": {
-        "en": "Sunrise",
-        "pt": "Nascer do sol",
-        "fr": "Lever du soleil",
-        "it": "Sorgere del sole"
+        "en": "The sunrise",
+        "fr": "Le lever du soleil",
+        "it": "Il sorgere del sole",
+        "pt": "O nascer do sol"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sunrises",
+        "fr": "Plural: les levers du soleil",
+        "pt": "Plural: os nasceres do sol"
+      }
     },
     {
       "id": "cl51",
-      "es": "Puesta del sol",
+      "es": "La puesta del sol",
       "translations": {
-        "en": "Sunset",
-        "pt": "Pôr do sol",
-        "fr": "Coucher du soleil",
-        "it": "Tramonto"
+        "en": "The sunset",
+        "fr": "Le coucher du soleil",
+        "it": "Il tramonto",
+        "pt": "O pôr do sol"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sunsets",
+        "fr": "Plural: les couchers du soleil",
+        "it": "Plural: i tramonti",
+        "pt": "Plural: os pores do sol"
+      }
     },
     {
       "id": "cl52",
-      "es": "Anochecer (cuando empieza a oscurecer)",
+      "es": "El anochecer",
       "translations": {
-        "en": "Dusk / Nightfall",
-        "pt": "Anoitecer",
-        "fr": "Tombée de la nuit / Crépuscule du soir",
-        "it": "Imbrunire / Calare della sera"
+        "en": "The dusk",
+        "fr": "Le crépuscule du soir",
+        "it": "L’imbrunire",
+        "pt": "O anoitecer"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les crépuscules du soir",
+        "pt": "Plural: os anoiteceres"
+      }
     },
     {
       "id": "cl53",
-      "es": "Temperatura (del aire)",
+      "es": "La temperatura",
       "translations": {
-        "en": "Temperature / Air temperature",
-        "pt": "Temperatura / Temperatura do ar",
-        "fr": "Température / Température de l'air",
-        "it": "Temperatura / Temperatura dell'aria"
+        "en": "The temperature",
+        "fr": "La température",
+        "it": "La temperatura",
+        "pt": "A temperatura"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the temperatures",
+        "fr": "Plural: les températures",
+        "it": "Plural: le temperature",
+        "pt": "Plural: as temperaturas"
+      }
     },
     {
       "id": "cl54",
-      "es": "Grados Celsius",
+      "es": "El grado Celsius",
       "translations": {
-        "en": "Degrees Celsius",
-        "pt": "Graus Celsius",
-        "fr": "Degrés Celsius",
-        "it": "Gradi Celsius"
+        "en": "The degree Celsius",
+        "fr": "Le degré Celsius",
+        "it": "Il grado Celsius",
+        "pt": "O grau Celsius"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the degrees Celsius",
+        "fr": "Plural: les degrés Celsius",
+        "it": "Plural: i gradi Celsius",
+        "pt": "Plural: os graus Celsius"
+      }
     },
     {
       "id": "cl55",
-      "es": "Grados Fahrenheit",
+      "es": "El grado Fahrenheit",
       "translations": {
-        "en": "Degrees Fahrenheit",
-        "pt": "Graus Fahrenheit",
-        "fr": "Degrés Fahrenheit",
-        "it": "Gradi Fahrenheit"
+        "en": "The degree Fahrenheit",
+        "fr": "Le degré Fahrenheit",
+        "it": "Il grado Fahrenheit",
+        "pt": "O grau Fahrenheit"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the degrees Fahrenheit",
+        "fr": "Plural: les degrés Fahrenheit",
+        "it": "Plural: i gradi Fahrenheit",
+        "pt": "Plural: os graus Fahrenheit"
+      }
     },
     {
       "id": "cl56",
       "es": "Cero grados",
       "translations": {
         "en": "Zero degrees",
-        "pt": "Zero grau",
         "fr": "Zéro degré",
-        "it": "Zero gradi"
+        "it": "Zero gradi",
+        "pt": "Zero graus"
       },
       "image_url": ""
     },
@@ -622,285 +869,399 @@
       "id": "cl57",
       "es": "Bajo cero",
       "translations": {
-        "en": "Below zero / Subzero",
-        "pt": "Abaixo de zero",
-        "fr": "En dessous de zéro / Sous zéro",
-        "it": "Sotto zero"
+        "en": "Below zero",
+        "fr": "En dessous de zéro",
+        "it": "Sotto zero",
+        "pt": "Abaixo de zero"
       },
       "image_url": ""
     },
     {
       "id": "cl58",
-      "es": "Temperatura máxima (del día)",
+      "es": "La temperatura máxima",
       "translations": {
-        "en": "High / High temperature",
-        "pt": "Temperatura máxima / Máxima",
-        "fr": "Température maximale / Maximale",
-        "it": "Temperatura massima / Massima"
+        "en": "The high temperature",
+        "fr": "La température maximale",
+        "it": "La temperatura massima",
+        "pt": "A temperatura máxima"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the high temperatures",
+        "fr": "Plural: les températures maximales",
+        "it": "Plural: le temperature massime",
+        "pt": "Plural: as temperaturas máximas"
+      }
     },
     {
       "id": "cl59",
-      "es": "Temperatura mínima (del día)",
+      "es": "La temperatura mínima",
       "translations": {
-        "en": "Low / Low temperature",
-        "pt": "Temperatura mínima / Mínima",
-        "fr": "Température minimale / Minimale",
-        "it": "Temperatura minima / Minima"
+        "en": "The low temperature",
+        "fr": "La température minimale",
+        "it": "La temperatura minima",
+        "pt": "A temperatura mínima"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the low temperatures",
+        "fr": "Plural: les températures minimales",
+        "it": "Plural: le temperature minime",
+        "pt": "Plural: as temperaturas mínimas"
+      }
     },
     {
       "id": "cl60",
-      "es": "Sensación térmica (temperatura percibida)",
+      "es": "La sensación térmica",
       "translations": {
-        "en": "Feels-like temperature / Apparent temperature",
-        "pt": "Sensação térmica",
-        "fr": "Température ressentie",
-        "it": "Temperatura percepita"
+        "en": "The feels-like temperature",
+        "fr": "La température ressentie",
+        "it": "La temperatura percepita",
+        "pt": "A sensação térmica"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the feels-like temperatures",
+        "fr": "Plural: les températures ressenties",
+        "it": "Plural: le temperature percepite",
+        "pt": "Plural: as sensações térmicas"
+      }
     },
     {
       "id": "cl61",
-      "es": "Humedad (del aire)",
+      "es": "La humedad",
       "translations": {
-        "en": "Humidity",
-        "pt": "Umidade / Umidade do ar",
-        "fr": "Humidité",
-        "it": "Umidità"
+        "en": "The humidity",
+        "fr": "L’humidité",
+        "it": "L’umidità",
+        "pt": "A umidade"
       },
       "image_url": ""
     },
     {
       "id": "cl62",
-      "es": "Probabilidad de lluvia",
+      "es": "La probabilidad de lluvia",
       "translations": {
-        "en": "Chance of rain / Probability of rain",
-        "pt": "Probabilidade de chuva",
-        "fr": "Probabilité de pluie",
-        "it": "Probabilità di pioggia"
+        "en": "The chance of rain",
+        "fr": "La probabilité de pluie",
+        "it": "La probabilità di pioggia",
+        "pt": "A probabilidade de chuva"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the chances of rain",
+        "fr": "Plural: les probabilités de pluie",
+        "it": "Plural: le probabilità di pioggia",
+        "pt": "Plural: as probabilidades de chuva"
+      }
     },
     {
       "id": "cl63",
-      "es": "Precipitación (lluvia, nieve o granizo)",
+      "es": "La precipitación",
       "translations": {
-        "en": "Precipitation",
-        "pt": "Precipitação",
-        "fr": "Précipitations",
-        "it": "Precipitazioni"
+        "en": "The precipitation",
+        "fr": "Les précipitations",
+        "it": "Le precipitazioni",
+        "pt": "A precipitação"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Singular: une précipitation. En meteorología se usa habitualmente en plural.",
+        "it": "Singular: la precipitazione. En meteorología se usa habitualmente en plural.",
+        "pt": "Plural: as precipitações"
+      }
     },
     {
       "id": "cl64",
-      "es": "Velocidad del viento",
+      "es": "La velocidad del viento",
       "translations": {
-        "en": "Wind speed",
-        "pt": "Velocidade do vento",
-        "fr": "Vitesse du vent",
-        "it": "Velocità del vento"
+        "en": "The wind speed",
+        "fr": "La vitesse du vent",
+        "it": "La velocità del vento",
+        "pt": "A velocidade do vento"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the wind speeds",
+        "fr": "Plural: les vitesses du vent",
+        "it": "Plural: le velocità del vento",
+        "pt": "Plural: as velocidades do vento"
+      }
     },
     {
       "id": "cl65",
-      "es": "Visibilidad",
+      "es": "La visibilidad",
       "translations": {
-        "en": "Visibility",
-        "pt": "Visibilidade",
-        "fr": "Visibilité",
-        "it": "Visibilità"
+        "en": "The visibility",
+        "fr": "La visibilité",
+        "it": "La visibilità",
+        "pt": "A visibilidade"
       },
       "image_url": ""
     },
     {
       "id": "cl66",
-      "es": "Índice ultravioleta / Índice UV",
+      "es": "El índice UV",
       "translations": {
-        "en": "UV index / Ultraviolet index",
-        "pt": "Índice UV / Índice ultravioleta",
-        "fr": "Indice UV / Indice ultraviolet",
-        "it": "Indice UV / Indice ultravioletto"
+        "en": "The UV index",
+        "fr": "L’indice UV",
+        "it": "L’indice UV",
+        "pt": "O índice UV"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the UV indexes",
+        "fr": "Plural: les indices UV",
+        "it": "Plural: gli indici UV",
+        "pt": "Plural: os índices UV"
+      }
     },
     {
       "id": "cl67",
-      "es": "Alerta meteorológica",
+      "es": "La alerta meteorológica",
       "translations": {
-        "en": "Weather alert / Weather warning",
-        "pt": "Alerta meteorológico",
-        "fr": "Alerte météo / Alerte météorologique",
-        "it": "Allerta meteo / Allerta meteorologica"
+        "en": "The weather alert",
+        "fr": "L’alerte météo",
+        "it": "L’allerta meteo",
+        "pt": "O alerta meteorológico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the weather alerts",
+        "fr": "Plural: les alertes météo",
+        "it": "Plural: le allerte meteo",
+        "pt": "Plural: os alertas meteorológicos"
+      }
     },
     {
       "id": "cl68",
-      "es": "Soleado/a",
+      "es": "Soleado",
       "translations": {
         "en": "Sunny",
-        "pt": "Ensolarado / Ensolarada",
-        "fr": "Ensoleillé / Ensoleillée",
-        "it": "Soleggiato / Soleggiata"
+        "fr": "Ensoleillé",
+        "it": "Soleggiato",
+        "pt": "Ensolarado"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «ensolarada».",
+        "fr": "Femenino: «ensoleillée».",
+        "it": "Femenino: «soleggiata»."
+      }
     },
     {
       "id": "cl69",
-      "es": "Despejado/a (cielo sin nubes)",
+      "es": "Despejado",
       "translations": {
-        "en": "Clear / Cloudless",
-        "pt": "Sem nuvens / Céu limpo",
-        "fr": "Dégagé / Sans nuages",
-        "it": "Sereno / Senza nuvole"
+        "en": "Clear",
+        "fr": "Dégagé",
+        "it": "Sereno",
+        "pt": "Limpo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Céu limpo» es más natural en un pronóstico; femenino del adjetivo: «limpa».",
+        "fr": "Femenino: «dégagée».",
+        "it": "Femenino: «serena»."
+      }
     },
     {
       "id": "cl70",
-      "es": "Nublado/a",
+      "es": "Nublado",
       "translations": {
         "en": "Cloudy",
-        "pt": "Nublado / Nublada",
-        "fr": "Nuageux / Nuageuse",
-        "it": "Nuvoloso / Nuvolosa"
+        "fr": "Nuageux",
+        "it": "Nuvoloso",
+        "pt": "Nublado"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «nublada».",
+        "fr": "Femenino: «nuageuse».",
+        "it": "Femenino: «nuvolosa»."
+      }
     },
     {
       "id": "cl71",
-      "es": "Parcialmente nublado (pronóstico)",
+      "es": "Parcialmente nublado",
       "translations": {
         "en": "Partly cloudy",
-        "pt": "Parcialmente nublado",
         "fr": "Partiellement nuageux",
-        "it": "Parzialmente nuvoloso"
+        "it": "Parzialmente nuvoloso",
+        "pt": "Parcialmente nublado"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «parcialmente nublada».",
+        "fr": "Femenino: «partiellement nuageuse».",
+        "it": "Femenino: «parzialmente nuvolosa»."
+      }
     },
     {
       "id": "cl72",
-      "es": "Cubierto/a (cielo totalmente nublado)",
+      "es": "Cubierto",
       "translations": {
         "en": "Overcast",
-        "pt": "Encoberto / Encoberta",
-        "fr": "Couvert / Couverte",
-        "it": "Coperto / Coperta"
+        "fr": "Couvert",
+        "it": "Coperto",
+        "pt": "Encoberto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «encoberta».",
+        "fr": "Femenino: «couverte».",
+        "it": "Femenino: «coperta»."
+      }
     },
     {
       "id": "cl73",
-      "es": "Lluvioso/a",
+      "es": "Lluvioso",
       "translations": {
         "en": "Rainy",
-        "pt": "Chuvoso / Chuvosa",
-        "fr": "Pluvieux / Pluvieuse",
-        "it": "Piovoso / Piovosa"
+        "fr": "Pluvieux",
+        "it": "Piovoso",
+        "pt": "Chuvoso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «chuvosa».",
+        "fr": "Femenino: «pluvieuse».",
+        "it": "Femenino: «piovosa»."
+      }
     },
     {
       "id": "cl74",
-      "es": "Ventoso/a / Con viento",
+      "es": "Ventoso",
       "translations": {
         "en": "Windy",
-        "pt": "Com vento / Ventoso",
-        "fr": "Venteux / Venteuse",
-        "it": "Ventoso / Ventosa"
+        "fr": "Venteux",
+        "it": "Ventoso",
+        "pt": "Ventoso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «ventosa».",
+        "fr": "Femenino: «venteuse».",
+        "it": "Femenino: «ventosa»."
+      }
     },
     {
       "id": "cl75",
-      "es": "Con niebla (tiempo)",
+      "es": "Con niebla",
       "translations": {
         "en": "Foggy",
-        "pt": "Com neblina / Com nevoeiro",
         "fr": "Avec du brouillard",
-        "it": "Nebbioso / Nebbiosa"
+        "it": "Nebbioso",
+        "pt": "Com nevoeiro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "Femenino: «nebbiosa»."
+      }
     },
     {
       "id": "cl76",
-      "es": "Nevado/a (paisaje cubierto de nieve)",
+      "es": "Nevado",
       "translations": {
-        "en": "Snowy / Snow-covered",
-        "pt": "Coberto de neve / Coberta de neve",
-        "fr": "Enneigé / Enneigée",
-        "it": "Innevato / Innevata"
+        "en": "Snow-covered",
+        "fr": "Enneigé",
+        "it": "Innevato",
+        "pt": "Coberto de neve"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «coberta de neve».",
+        "fr": "Femenino: «enneigée».",
+        "it": "Femenino: «innevata»."
+      }
     },
     {
       "id": "cl77",
-      "es": "Húmedo/a (aire o clima)",
+      "es": "Húmedo",
       "translations": {
         "en": "Humid",
-        "pt": "Úmido / Úmida",
         "fr": "Humide",
-        "it": "Umido / Umida"
+        "it": "Umido",
+        "pt": "Úmido"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «úmida».",
+        "it": "Femenino: «umida»."
+      }
     },
     {
       "id": "cl78",
-      "es": "Seco/a (aire o clima)",
+      "es": "Seco",
       "translations": {
         "en": "Dry",
-        "pt": "Seco / Seca",
-        "fr": "Sec / Sèche",
-        "it": "Secco / Secca"
+        "fr": "Sec",
+        "it": "Secco",
+        "pt": "Seco"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «seca».",
+        "fr": "Femenino: «sèche».",
+        "it": "Femenino: «secca»."
+      }
     },
     {
       "id": "cl79",
-      "es": "Templado/a / Suave (sin frío ni calor extremos)",
+      "es": "Templado",
       "translations": {
         "en": "Mild",
-        "pt": "Ameno / Amena",
-        "fr": "Doux / Douce",
-        "it": "Mite"
+        "fr": "Doux",
+        "it": "Mite",
+        "pt": "Ameno"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «amena».",
+        "fr": "Femenino: «douce».",
+        "it": "«Mite» no varía por género; plural «miti»."
+      }
     },
     {
       "id": "cl80",
-      "es": "Fresco/a (ligeramente frío)",
+      "es": "Fresco",
       "translations": {
         "en": "Cool",
-        "pt": "Fresco / Fresca",
-        "fr": "Frais / Fraîche",
-        "it": "Fresco / Fresca"
+        "fr": "Frais",
+        "it": "Fresco",
+        "pt": "Fresco"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «fresca».",
+        "fr": "Femenino: «fraîche».",
+        "it": "Femenino: «fresca»."
+      }
     },
     {
       "id": "cl81",
-      "es": "Bochornoso/a (calor húmedo)",
+      "es": "Bochornoso",
       "translations": {
-        "en": "Muggy / Sultry",
-        "pt": "Abafado / Abafada",
-        "fr": "Lourd / Étouffant",
-        "it": "Afoso / Afosa"
+        "en": "Muggy",
+        "fr": "Étouffant",
+        "it": "Afoso",
+        "pt": "Abafado"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «abafada».",
+        "fr": "Femenino: «étouffante».",
+        "it": "Femenino: «afosa»."
+      }
     },
     {
       "id": "cl82",
       "es": "Hace buen tiempo.",
       "translations": {
-        "en": "The weather is nice. / It's nice out.",
-        "pt": "O tempo está bom.",
+        "en": "It's nice out.",
         "fr": "Il fait beau.",
-        "it": "C'è bel tempo."
+        "it": "Fa bel tempo.",
+        "pt": "O tempo está bom."
       },
       "image_url": ""
     },
@@ -908,32 +1269,32 @@
       "id": "cl83",
       "es": "Hace mal tiempo.",
       "translations": {
-        "en": "The weather is bad. / It's bad out.",
-        "pt": "O tempo está ruim.",
-        "fr": "Il fait mauvais. / Il fait moche.",
-        "it": "C'è brutto tempo."
+        "en": "The weather is bad.",
+        "fr": "Il fait mauvais.",
+        "it": "Fa brutto tempo.",
+        "pt": "O tempo está ruim."
       },
       "image_url": ""
     },
     {
       "id": "cl84",
-      "es": "Hace calor. (tiempo atmosférico)",
+      "es": "Hace calor.",
       "translations": {
         "en": "It's hot.",
-        "pt": "Está calor. / Está fazendo calor.",
         "fr": "Il fait chaud.",
-        "it": "Fa caldo."
+        "it": "Fa caldo.",
+        "pt": "Está fazendo calor."
       },
       "image_url": ""
     },
     {
       "id": "cl85",
-      "es": "Hace frío. (tiempo atmosférico)",
+      "es": "Hace frío.",
       "translations": {
         "en": "It's cold.",
-        "pt": "Está frio. / Está fazendo frio.",
         "fr": "Il fait froid.",
-        "it": "Fa freddo."
+        "it": "Fa freddo.",
+        "pt": "Está fazendo frio."
       },
       "image_url": ""
     },
@@ -942,31 +1303,36 @@
       "es": "Hace fresco.",
       "translations": {
         "en": "It's cool out.",
-        "pt": "Está fresco.",
         "fr": "Il fait frais.",
-        "it": "Fa fresco."
+        "it": "Fa fresco.",
+        "pt": "Está fresco."
       },
       "image_url": ""
     },
     {
       "id": "cl87",
-      "es": "Hace un poco de frío. (coloquial)",
+      "es": "Hace un poco de frío.",
       "translations": {
         "en": "It's chilly.",
-        "pt": "Está um friozinho.",
         "fr": "Il fait frisquet.",
-        "it": "Fa freschino."
+        "it": "Fa freschino.",
+        "pt": "Está um friozinho."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "«Frisquet» es coloquial.",
+        "it": "«Freschino» es coloquial.",
+        "pt": "«Friozinho» es coloquial."
+      }
     },
     {
       "id": "cl88",
       "es": "Hace un calor agradable.",
       "translations": {
         "en": "It's nice and warm.",
-        "pt": "Está um calor agradável.",
         "fr": "Il fait chaud, mais c'est agréable.",
-        "it": "Fa un caldo piacevole."
+        "it": "Fa un caldo piacevole.",
+        "pt": "Está um calor agradável."
       },
       "image_url": ""
     },
@@ -975,9 +1341,9 @@
       "es": "Hace muchísimo frío.",
       "translations": {
         "en": "It's freezing out.",
-        "pt": "Está muito frio.",
         "fr": "Il fait un froid glacial.",
-        "it": "Fa un freddo gelido."
+        "it": "Fa un freddo gelido.",
+        "pt": "Está fazendo muito frio."
       },
       "image_url": ""
     },
@@ -986,9 +1352,9 @@
       "es": "El cielo está despejado.",
       "translations": {
         "en": "The sky is clear.",
-        "pt": "O céu está limpo. / O céu está sem nuvens.",
         "fr": "Le ciel est dégagé.",
-        "it": "Il cielo è sereno."
+        "it": "Il cielo è sereno.",
+        "pt": "O céu está limpo."
       },
       "image_url": ""
     },
@@ -997,9 +1363,9 @@
       "es": "Hay algunas nubes.",
       "translations": {
         "en": "There are a few clouds.",
-        "pt": "Há algumas nuvens.",
         "fr": "Il y a quelques nuages.",
-        "it": "Ci sono alcune nuvole."
+        "it": "Ci sono alcune nuvole.",
+        "pt": "Há algumas nuvens."
       },
       "image_url": ""
     },
@@ -1008,20 +1374,20 @@
       "es": "Está saliendo el sol.",
       "translations": {
         "en": "The sun is coming out.",
-        "pt": "O sol está aparecendo.",
         "fr": "Le soleil fait son apparition.",
-        "it": "Sta spuntando il sole."
+        "it": "Sta spuntando il sole.",
+        "pt": "O sol está aparecendo."
       },
       "image_url": ""
     },
     {
       "id": "cl93",
-      "es": "Está lloviendo. / Llueve.",
+      "es": "Está lloviendo.",
       "translations": {
         "en": "It's raining.",
-        "pt": "Está chovendo.",
         "fr": "Il pleut.",
-        "it": "Piove. / Sta piovendo."
+        "it": "Sta piovendo.",
+        "pt": "Está chovendo."
       },
       "image_url": ""
     },
@@ -1030,31 +1396,34 @@
       "es": "Está lloviznando.",
       "translations": {
         "en": "It's drizzling.",
-        "pt": "Está garoando. / Está chuviscando.",
-        "fr": "Il bruine. / Il tombe une pluie fine.",
-        "it": "Pioviggina. / Sta piovigginando."
+        "fr": "Il bruine.",
+        "it": "Sta piovigginando.",
+        "pt": "Está garoando."
       },
       "image_url": ""
     },
     {
       "id": "cl95",
-      "es": "Llueve a cántaros. / Está lloviendo muy fuerte.",
+      "es": "Está lloviendo a cántaros.",
       "translations": {
-        "en": "It's pouring. / It's raining heavily.",
-        "pt": "Está chovendo muito forte. / Está caindo um toró.",
-        "fr": "Il pleut à verse. / Il pleut très fort.",
-        "it": "Piove a dirotto. / Piove molto forte."
+        "en": "It's pouring.",
+        "fr": "Il pleut à verse.",
+        "it": "Piove a dirotto.",
+        "pt": "Está chovendo muito."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Está caindo um toró» es una variante coloquial brasileña."
+      }
     },
     {
       "id": "cl96",
-      "es": "Está nevando. / Nieva.",
+      "es": "Está nevando.",
       "translations": {
         "en": "It's snowing.",
-        "pt": "Está nevando.",
         "fr": "Il neige.",
-        "it": "Nevica. / Sta nevicando."
+        "it": "Sta nevicando.",
+        "pt": "Está nevando."
       },
       "image_url": ""
     },
@@ -1063,9 +1432,9 @@
       "es": "Está granizando.",
       "translations": {
         "en": "It's hailing.",
-        "pt": "Está caindo granizo.",
         "fr": "Il grêle.",
-        "it": "Grandina. / Sta grandinando."
+        "it": "Sta grandinando.",
+        "pt": "Está caindo granizo."
       },
       "image_url": ""
     },
@@ -1074,9 +1443,9 @@
       "es": "Hace mucho viento.",
       "translations": {
         "en": "It's very windy.",
-        "pt": "Está ventando muito.",
         "fr": "Il y a beaucoup de vent.",
-        "it": "C'è molto vento."
+        "it": "C'è molto vento.",
+        "pt": "Está ventando muito."
       },
       "image_url": ""
     },
@@ -1085,9 +1454,9 @@
       "es": "Hay mucha niebla.",
       "translations": {
         "en": "It's very foggy.",
-        "pt": "Há muita neblina.",
         "fr": "Il y a beaucoup de brouillard.",
-        "it": "C'è molta nebbia."
+        "it": "C'è molta nebbia.",
+        "pt": "Há muito nevoeiro."
       },
       "image_url": ""
     },
@@ -1096,9 +1465,9 @@
       "es": "Hay una tormenta eléctrica.",
       "translations": {
         "en": "There's a thunderstorm.",
-        "pt": "Há uma tempestade com raios e trovões.",
         "fr": "Il y a un orage.",
-        "it": "C'è un temporale."
+        "it": "C'è un temporale.",
+        "pt": "Há uma tempestade elétrica."
       },
       "image_url": ""
     },
@@ -1107,9 +1476,9 @@
       "es": "Se oyen truenos.",
       "translations": {
         "en": "You can hear thunder.",
-        "pt": "Dá para ouvir trovões.",
         "fr": "On entend le tonnerre.",
-        "it": "Si sentono dei tuoni."
+        "it": "Si sentono dei tuoni.",
+        "pt": "Dá para ouvir trovões."
       },
       "image_url": ""
     },
@@ -1118,9 +1487,9 @@
       "es": "Acabo de ver un relámpago.",
       "translations": {
         "en": "I just saw a flash of lightning.",
-        "pt": "Acabei de ver um relâmpago.",
         "fr": "Je viens de voir un éclair.",
-        "it": "Ho appena visto un lampo."
+        "it": "Ho appena visto un lampo.",
+        "pt": "Acabei de ver um relâmpago."
       },
       "image_url": ""
     },
@@ -1129,9 +1498,9 @@
       "es": "Hay hielo en el suelo.",
       "translations": {
         "en": "There's ice on the ground.",
-        "pt": "Há gelo no chão.",
         "fr": "Il y a de la glace au sol.",
-        "it": "C'è ghiaccio per terra."
+        "it": "C'è ghiaccio per terra.",
+        "pt": "Há gelo no chão."
       },
       "image_url": ""
     },
@@ -1140,9 +1509,9 @@
       "es": "El viento está aumentando.",
       "translations": {
         "en": "The wind is picking up.",
-        "pt": "O vento está ficando mais forte.",
         "fr": "Le vent se renforce.",
-        "it": "Il vento sta aumentando."
+        "it": "Il vento sta aumentando.",
+        "pt": "O vento está ficando mais forte."
       },
       "image_url": ""
     },
@@ -1151,31 +1520,34 @@
       "es": "El tiempo está cambiando.",
       "translations": {
         "en": "The weather is changing.",
-        "pt": "O tempo está mudando.",
         "fr": "Le temps change.",
-        "it": "Il tempo sta cambiando."
+        "it": "Il tempo sta cambiando.",
+        "pt": "O tempo está mudando."
       },
       "image_url": ""
     },
     {
       "id": "cl106",
-      "es": "¿Qué tiempo hace hoy? / ¿Cómo está el tiempo hoy?",
+      "es": "¿Cómo está el tiempo hoy?",
       "translations": {
         "en": "What's the weather like today?",
-        "pt": "Como está o tempo hoje?",
         "fr": "Quel temps fait-il aujourd'hui ?",
-        "it": "Che tempo fa oggi?"
+        "it": "Che tempo fa oggi?",
+        "pt": "Como está o tempo hoje?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "También se dice «¿Qué tiempo hace hoy?»."
+      }
     },
     {
       "id": "cl107",
       "es": "¿Cómo es el clima allí?",
       "translations": {
         "en": "What's the climate like there?",
-        "pt": "Como é o clima aí?",
         "fr": "Quel est le climat là-bas ?",
-        "it": "Com'è il clima lì?"
+        "it": "Com'è il clima lì?",
+        "pt": "Como é o clima lá?"
       },
       "image_url": ""
     },
@@ -1184,31 +1556,36 @@
       "es": "¿Qué estación del año es allí ahora?",
       "translations": {
         "en": "What season is it there now?",
-        "pt": "Que estação do ano é aí agora?",
         "fr": "Quelle saison est-ce là-bas en ce moment ?",
-        "it": "Che stagione è lì adesso?"
+        "it": "Che stagione è lì adesso?",
+        "pt": "Que estação do ano é aí agora?"
       },
       "image_url": ""
     },
     {
       "id": "cl109",
-      "es": "¿Cuál es tu estación favorita? / ¿Cuál es su estación favorita?",
+      "es": "¿Cuál es tu estación favorita?",
       "translations": {
         "en": "What's your favorite season?",
-        "pt": "Qual é sua estação do ano favorita?",
-        "fr": "Quelle est ta saison préférée ? / Quelle est votre saison préférée ?",
-        "it": "Qual è la tua stagione preferita? / Qual è la sua stagione preferita?"
+        "fr": "Quelle est ta saison préférée ?",
+        "it": "Qual è la tua stagione preferita?",
+        "pt": "Qual é sua estação do ano favorita?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "La tarjeta usa tratamiento informal.",
+        "fr": "Formal: «Quelle est votre saison préférée ?».",
+        "it": "Formal: «Qual è la Sua stagione preferita?»."
+      }
     },
     {
       "id": "cl110",
       "es": "Mi estación favorita es el otoño.",
       "translations": {
         "en": "My favorite season is fall.",
-        "pt": "Minha estação do ano favorita é o outono.",
         "fr": "Ma saison préférée est l'automne.",
-        "it": "La mia stagione preferita è l'autunno."
+        "it": "La mia stagione preferita è l'autunno.",
+        "pt": "Minha estação do ano favorita é o outono."
       },
       "image_url": ""
     },
@@ -1217,9 +1594,9 @@
       "es": "Aquí llueve mucho en verano.",
       "translations": {
         "en": "It rains a lot here in summer.",
-        "pt": "Aqui chove muito no verão.",
         "fr": "Ici, il pleut beaucoup en été.",
-        "it": "Qui piove molto in estate."
+        "it": "Qui piove molto in estate.",
+        "pt": "Aqui chove muito no verão."
       },
       "image_url": ""
     },
@@ -1228,9 +1605,9 @@
       "es": "En invierno suele nevar.",
       "translations": {
         "en": "It usually snows in winter.",
-        "pt": "Costuma nevar no inverno.",
         "fr": "En hiver, il neige souvent.",
-        "it": "In inverno di solito nevica."
+        "it": "In inverno di solito nevica.",
+        "pt": "Costuma nevar no inverno."
       },
       "image_url": ""
     },
@@ -1238,10 +1615,10 @@
       "id": "cl113",
       "es": "¿En qué meses es la temporada de lluvias?",
       "translations": {
-        "en": "Which months are the rainy season?",
-        "pt": "Em que meses é a estação chuvosa?",
+        "en": "Which months does the rainy season fall in?",
         "fr": "Quels sont les mois de la saison des pluies ?",
-        "it": "In quali mesi c'è la stagione delle piogge?"
+        "it": "In quali mesi c’è la stagione delle piogge?",
+        "pt": "Em quais meses ocorre a estação chuvosa?"
       },
       "image_url": ""
     },
@@ -1250,9 +1627,9 @@
       "es": "¿Hace frío por la noche?",
       "translations": {
         "en": "Is it cold at night?",
-        "pt": "Faz frio à noite?",
         "fr": "Il fait froid la nuit ?",
-        "it": "Fa freddo di notte?"
+        "it": "Fa freddo di notte?",
+        "pt": "Faz frio à noite?"
       },
       "image_url": ""
     },
@@ -1261,9 +1638,9 @@
       "es": "¿Cuál es la temperatura ahora?",
       "translations": {
         "en": "What's the temperature now?",
-        "pt": "Qual é a temperatura agora?",
         "fr": "Quelle est la température maintenant ?",
-        "it": "Qual è la temperatura adesso?"
+        "it": "Qual è la temperatura adesso?",
+        "pt": "Qual é a temperatura agora?"
       },
       "image_url": ""
     },
@@ -1272,9 +1649,9 @@
       "es": "¿Cuántos grados hace?",
       "translations": {
         "en": "How many degrees is it?",
-        "pt": "Quantos graus está fazendo?",
         "fr": "Il fait combien de degrés ?",
-        "it": "Quanti gradi ci sono?"
+        "it": "Quanti gradi ci sono?",
+        "pt": "Quantos graus está fazendo?"
       },
       "image_url": ""
     },
@@ -1283,9 +1660,9 @@
       "es": "Hoy hace veinte grados Celsius.",
       "translations": {
         "en": "It's twenty degrees Celsius today.",
-        "pt": "Hoje está fazendo vinte graus Celsius.",
         "fr": "Il fait vingt degrés Celsius aujourd'hui.",
-        "it": "Oggi ci sono venti gradi Celsius."
+        "it": "Oggi ci sono venti gradi Celsius.",
+        "pt": "Hoje está fazendo vinte graus Celsius."
       },
       "image_url": ""
     },
@@ -1294,9 +1671,9 @@
       "es": "Veinte grados Celsius equivalen a sesenta y ocho grados Fahrenheit.",
       "translations": {
         "en": "Twenty degrees Celsius is sixty-eight degrees Fahrenheit.",
-        "pt": "Vinte graus Celsius equivalem a sessenta e oito graus Fahrenheit.",
         "fr": "Vingt degrés Celsius correspondent à soixante-huit degrés Fahrenheit.",
-        "it": "Venti gradi Celsius equivalgono a sessantotto gradi Fahrenheit."
+        "it": "Venti gradi Celsius equivalgono a sessantotto gradi Fahrenheit.",
+        "pt": "Vinte graus Celsius equivalem a sessenta e oito graus Fahrenheit."
       },
       "image_url": ""
     },
@@ -1305,20 +1682,20 @@
       "es": "¿Son grados Celsius o Fahrenheit?",
       "translations": {
         "en": "Is that Celsius or Fahrenheit?",
-        "pt": "São graus Celsius ou Fahrenheit?",
         "fr": "Ce sont des degrés Celsius ou Fahrenheit ?",
-        "it": "Sono gradi Celsius o Fahrenheit?"
+        "it": "Sono gradi Celsius o Fahrenheit?",
+        "pt": "São graus Celsius ou Fahrenheit?"
       },
       "image_url": ""
     },
     {
       "id": "cl120",
-      "es": "Estamos a cinco grados bajo cero, en Celsius.",
+      "es": "Estamos a cinco grados Celsius bajo cero.",
       "translations": {
         "en": "It's minus five degrees Celsius.",
-        "pt": "Está fazendo cinco graus Celsius negativos.",
         "fr": "Il fait moins cinq degrés Celsius.",
-        "it": "Ci sono cinque gradi Celsius sotto zero."
+        "it": "Ci sono cinque gradi Celsius sotto zero.",
+        "pt": "Está fazendo cinco graus Celsius abaixo de zero."
       },
       "image_url": ""
     },
@@ -1327,9 +1704,9 @@
       "es": "La temperatura va a bajar esta noche.",
       "translations": {
         "en": "The temperature is going to drop tonight.",
-        "pt": "A temperatura vai cair esta noite.",
         "fr": "La température va baisser cette nuit.",
-        "it": "La temperatura scenderà stanotte."
+        "it": "La temperatura scenderà stanotte.",
+        "pt": "A temperatura vai cair esta noite."
       },
       "image_url": ""
     },
@@ -1338,9 +1715,9 @@
       "es": "La temperatura está subiendo.",
       "translations": {
         "en": "The temperature is rising.",
-        "pt": "A temperatura está subindo.",
         "fr": "La température monte.",
-        "it": "La temperatura sta salendo."
+        "it": "La temperatura sta salendo.",
+        "pt": "A temperatura está subindo."
       },
       "image_url": ""
     },
@@ -1349,9 +1726,9 @@
       "es": "Se siente más frío por el viento.",
       "translations": {
         "en": "It feels colder because of the wind.",
-        "pt": "A sensação é de mais frio por causa do vento.",
         "fr": "On ressent davantage le froid à cause du vent.",
-        "it": "Si sente più freddo a causa del vento."
+        "it": "Si sente più freddo a causa del vento.",
+        "pt": "A sensação é de mais frio por causa do vento."
       },
       "image_url": ""
     },
@@ -1360,9 +1737,9 @@
       "es": "Prefiero el calor al frío.",
       "translations": {
         "en": "I prefer hot weather to cold weather.",
-        "pt": "Prefiro o calor ao frio.",
         "fr": "Je préfère la chaleur au froid.",
-        "it": "Preferisco il caldo al freddo."
+        "it": "Preferisco il caldo al freddo.",
+        "pt": "Prefiro o calor ao frio."
       },
       "image_url": ""
     },
@@ -1371,9 +1748,9 @@
       "es": "No me gusta el tiempo húmedo.",
       "translations": {
         "en": "I don't like humid weather.",
-        "pt": "Não gosto de tempo úmido.",
         "fr": "Je n'aime pas le temps humide.",
-        "it": "Non mi piace il tempo umido."
+        "it": "Non mi piace il tempo umido.",
+        "pt": "Não gosto de tempo úmido."
       },
       "image_url": ""
     },
@@ -1382,9 +1759,9 @@
       "es": "Me gustan los días soleados.",
       "translations": {
         "en": "I like sunny days.",
-        "pt": "Gosto de dias ensolarados.",
         "fr": "J'aime les journées ensoleillées.",
-        "it": "Mi piacciono le giornate di sole."
+        "it": "Mi piacciono le giornate di sole.",
+        "pt": "Gosto de dias ensolarados."
       },
       "image_url": ""
     },
@@ -1393,9 +1770,9 @@
       "es": "¿Qué tiempo va a hacer mañana?",
       "translations": {
         "en": "What's the weather going to be like tomorrow?",
-        "pt": "Como vai estar o tempo amanhã?",
         "fr": "Quel temps va-t-il faire demain ?",
-        "it": "Che tempo farà domani?"
+        "it": "Che tempo farà domani?",
+        "pt": "Como vai estar o tempo amanhã?"
       },
       "image_url": ""
     },
@@ -1404,9 +1781,9 @@
       "es": "¿Va a llover este fin de semana?",
       "translations": {
         "en": "Is it going to rain this weekend?",
-        "pt": "Vai chover neste fim de semana?",
         "fr": "Il va pleuvoir ce week-end ?",
-        "it": "Pioverà questo fine settimana?"
+        "it": "Pioverà questo fine settimana?",
+        "pt": "Vai chover neste fim de semana?"
       },
       "image_url": ""
     },
@@ -1415,42 +1792,47 @@
       "es": "¿Va a nevar?",
       "translations": {
         "en": "Is it going to snow?",
-        "pt": "Vai nevar?",
         "fr": "Il va neiger ?",
-        "it": "Nevicherà?"
+        "it": "Nevicherà?",
+        "pt": "Vai nevar?"
       },
       "image_url": ""
     },
     {
       "id": "cl130",
-      "es": "¿Va a hacer sol por la tarde?",
+      "es": "¿Va a estar soleado por la tarde?",
       "translations": {
         "en": "Will it be sunny in the afternoon?",
-        "pt": "Vai fazer sol à tarde?",
-        "fr": "Il va faire soleil l'après-midi ?",
-        "it": "Ci sarà il sole nel pomeriggio?"
+        "fr": "Il y aura du soleil dans l’après-midi ?",
+        "it": "Ci sarà il sole nel pomeriggio?",
+        "pt": "Vai fazer sol à tarde?"
       },
       "image_url": ""
     },
     {
       "id": "cl131",
-      "es": "¿Ya revisaste el pronóstico? / ¿Ya revisó el pronóstico?",
+      "es": "¿Ya revisaste el pronóstico?",
       "translations": {
         "en": "Have you checked the forecast yet?",
-        "pt": "Você já conferiu a previsão do tempo?",
-        "fr": "Tu as déjà regardé les prévisions météo ? / Vous avez déjà regardé les prévisions météo ?",
-        "it": "Hai già controllato le previsioni? / Ha già controllato le previsioni?"
+        "fr": "Tu as déjà regardé les prévisions météo ?",
+        "it": "Hai già controllato le previsioni?",
+        "pt": "Você já conferiu a previsão do tempo?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "La tarjeta usa tratamiento informal.",
+        "fr": "Formal: «Vous avez déjà regardé les prévisions météo ?».",
+        "it": "Formal: «Ha già controllato le previsioni?»."
+      }
     },
     {
       "id": "cl132",
       "es": "Según el pronóstico, mañana va a llover.",
       "translations": {
         "en": "According to the forecast, it's going to rain tomorrow.",
-        "pt": "Segundo a previsão, vai chover amanhã.",
         "fr": "D'après les prévisions, il va pleuvoir demain.",
-        "it": "Secondo le previsioni, domani pioverà."
+        "it": "Secondo le previsioni, domani pioverà.",
+        "pt": "Segundo a previsão, vai chover amanhã."
       },
       "image_url": ""
     },
@@ -1459,9 +1841,9 @@
       "es": "Hay un cincuenta por ciento de probabilidad de lluvia.",
       "translations": {
         "en": "There's a fifty percent chance of rain.",
-        "pt": "Há cinquenta por cento de chance de chuva.",
         "fr": "Il y a cinquante pour cent de probabilité de pluie.",
-        "it": "C'è una probabilità di pioggia del cinquanta per cento."
+        "it": "C'è una probabilità di pioggia del cinquanta per cento.",
+        "pt": "Há cinquenta por cento de chance de chuva."
       },
       "image_url": ""
     },
@@ -1470,9 +1852,9 @@
       "es": "Se esperan chubascos por la tarde.",
       "translations": {
         "en": "Rain showers are expected in the afternoon.",
-        "pt": "Estão previstas pancadas de chuva à tarde.",
         "fr": "Des averses sont prévues l'après-midi.",
-        "it": "Sono previsti rovesci di pioggia nel pomeriggio."
+        "it": "Sono previsti rovesci di pioggia nel pomeriggio.",
+        "pt": "Estão previstas pancadas de chuva à tarde."
       },
       "image_url": ""
     },
@@ -1481,9 +1863,9 @@
       "es": "Se esperan vientos fuertes.",
       "translations": {
         "en": "Strong winds are expected.",
-        "pt": "São esperados ventos fortes.",
         "fr": "Des vents forts sont attendus.",
-        "it": "Sono previsti venti forti."
+        "it": "Sono previsti venti forti.",
+        "pt": "São esperados ventos fortes."
       },
       "image_url": ""
     },
@@ -1492,9 +1874,9 @@
       "es": "El pronóstico puede cambiar.",
       "translations": {
         "en": "The forecast can change.",
-        "pt": "A previsão pode mudar.",
         "fr": "Les prévisions peuvent changer.",
-        "it": "Le previsioni possono cambiare."
+        "it": "Le previsioni possono cambiare.",
+        "pt": "A previsão pode mudar."
       },
       "image_url": ""
     },
@@ -1503,9 +1885,9 @@
       "es": "Parece que va a llover.",
       "translations": {
         "en": "It looks like it's going to rain.",
-        "pt": "Parece que vai chover.",
         "fr": "On dirait qu'il va pleuvoir.",
-        "it": "Sembra che stia per piovere."
+        "it": "Sembra che stia per piovere.",
+        "pt": "Parece que vai chover."
       },
       "image_url": ""
     },
@@ -1514,9 +1896,9 @@
       "es": "Va a dejar de llover pronto.",
       "translations": {
         "en": "It's going to stop raining soon.",
-        "pt": "Vai parar de chover logo.",
-        "fr": "Il va bientôt arrêter de pleuvoir.",
-        "it": "Tra poco smetterà di piovere."
+        "fr": "Il va bientôt cesser de pleuvoir.",
+        "it": "Tra poco smetterà di piovere.",
+        "pt": "Vai parar de chover logo."
       },
       "image_url": ""
     },
@@ -1525,9 +1907,9 @@
       "es": "Ya dejó de llover.",
       "translations": {
         "en": "It has stopped raining.",
-        "pt": "Já parou de chover.",
         "fr": "Il ne pleut plus.",
-        "it": "Ha smesso di piovere."
+        "it": "Ha smesso di piovere.",
+        "pt": "Já parou de chover."
       },
       "image_url": ""
     },
@@ -1536,9 +1918,9 @@
       "es": "Está empezando a llover.",
       "translations": {
         "en": "It's starting to rain.",
-        "pt": "Está começando a chover.",
         "fr": "Il commence à pleuvoir.",
-        "it": "Sta cominciando a piovere."
+        "it": "Sta cominciando a piovere.",
+        "pt": "Está começando a chover."
       },
       "image_url": ""
     },
@@ -1547,9 +1929,9 @@
       "es": "El tiempo va a mejorar.",
       "translations": {
         "en": "The weather is going to improve.",
-        "pt": "O tempo vai melhorar.",
         "fr": "Le temps va s'améliorer.",
-        "it": "Il tempo migliorerà."
+        "it": "Il tempo migliorerà.",
+        "pt": "O tempo vai melhorar."
       },
       "image_url": ""
     },
@@ -1558,9 +1940,9 @@
       "es": "El tiempo va a empeorar.",
       "translations": {
         "en": "The weather is going to get worse.",
-        "pt": "O tempo vai piorar.",
         "fr": "Le temps va se dégrader.",
-        "it": "Il tempo peggiorerà."
+        "it": "Il tempo peggiorerà.",
+        "pt": "O tempo vai piorar."
       },
       "image_url": ""
     },
@@ -1569,9 +1951,9 @@
       "es": "La sensación térmica es más alta que la temperatura.",
       "translations": {
         "en": "The feels-like temperature is higher than the actual temperature.",
-        "pt": "A sensação térmica é mais alta que a temperatura real.",
         "fr": "La température ressentie est supérieure à la température réelle.",
-        "it": "La temperatura percepita è più alta della temperatura reale."
+        "it": "La temperatura percepita è più alta della temperatura reale.",
+        "pt": "A sensação térmica é mais alta que a temperatura real."
       },
       "image_url": ""
     },
@@ -1580,53 +1962,64 @@
       "es": "Hay una alerta meteorológica.",
       "translations": {
         "en": "There's a weather alert.",
-        "pt": "Há um alerta meteorológico.",
         "fr": "Il y a une alerte météo.",
-        "it": "C'è un'allerta meteo."
+        "it": "C'è un'allerta meteo.",
+        "pt": "Há um alerta meteorológico."
       },
       "image_url": ""
     },
     {
       "id": "cl145",
-      "es": "Tengo frío. (sensación personal)",
+      "es": "Tengo frío.",
       "translations": {
-        "en": "I'm cold. / I feel cold.",
-        "pt": "Estou com frio.",
+        "en": "I'm cold.",
         "fr": "J'ai froid.",
-        "it": "Ho freddo."
+        "it": "Ho freddo.",
+        "pt": "Estou com frio."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Expresa sensación personal, no las condiciones atmosféricas."
+      }
     },
     {
       "id": "cl146",
-      "es": "Tengo calor. (sensación personal)",
+      "es": "Tengo calor.",
       "translations": {
-        "en": "I'm hot. / I feel hot.",
-        "pt": "Estou com calor.",
+        "en": "I'm hot.",
         "fr": "J'ai chaud.",
-        "it": "Ho caldo."
+        "it": "Ho caldo.",
+        "pt": "Estou com calor."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Expresa sensación personal, no las condiciones atmosféricas."
+      }
     },
     {
       "id": "cl147",
-      "es": "¿Tienes frío? / ¿Tiene frío?",
+      "es": "¿Tienes frío?",
       "translations": {
         "en": "Are you cold?",
-        "pt": "Você está com frio?",
-        "fr": "Tu as froid ? / Vous avez froid ?",
-        "it": "Hai freddo? / Ha freddo?"
+        "fr": "Tu as froid ?",
+        "it": "Hai freddo?",
+        "pt": "Você está com frio?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Tratamiento informal.",
+        "fr": "Formal: «Vous avez froid ?».",
+        "it": "Formal: «Ha freddo?»."
+      }
     },
     {
       "id": "cl148",
       "es": "Tengo las manos frías.",
       "translations": {
         "en": "My hands are cold.",
-        "pt": "Minhas mãos estão frias.",
         "fr": "J'ai les mains froides.",
-        "it": "Ho le mani fredde."
+        "it": "Ho le mani fredde.",
+        "pt": "Minhas mãos estão frias."
       },
       "image_url": ""
     },
@@ -1635,9 +2028,9 @@
       "es": "Estoy temblando de frío.",
       "translations": {
         "en": "I'm shivering from the cold.",
-        "pt": "Estou tremendo de frio.",
         "fr": "Je tremble de froid.",
-        "it": "Tremo dal freddo."
+        "it": "Tremo dal freddo.",
+        "pt": "Estou tremendo de frio."
       },
       "image_url": ""
     },
@@ -1646,9 +2039,9 @@
       "es": "Estoy sudando por el calor.",
       "translations": {
         "en": "I'm sweating because of the heat.",
-        "pt": "Estou suando por causa do calor.",
         "fr": "Je transpire à cause de la chaleur.",
-        "it": "Sto sudando per il caldo."
+        "it": "Sto sudando per il caldo.",
+        "pt": "Estou suando por causa do calor."
       },
       "image_url": ""
     },
@@ -1657,31 +2050,40 @@
       "es": "Me mojé con la lluvia.",
       "translations": {
         "en": "I got wet in the rain.",
-        "pt": "Me molhei na chuva.",
-        "fr": "Je me suis mouillé sous la pluie. / Je me suis mouillée sous la pluie.",
-        "it": "Mi sono bagnato sotto la pioggia. / Mi sono bagnata sotto la pioggia."
+        "fr": "Je me suis mouillé sous la pluie.",
+        "it": "Mi sono bagnato sotto la pioggia.",
+        "pt": "Me molhei na chuva."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Si habla una mujer: «Je me suis mouillée sous la pluie».",
+        "it": "Si habla una mujer: «Mi sono bagnata sotto la pioggia»."
+      }
     },
     {
       "id": "cl152",
-      "es": "Estoy empapado/a.",
+      "es": "Estoy empapado.",
       "translations": {
-        "en": "I'm soaked. / I'm soaking wet.",
-        "pt": "Estou encharcado. / Estou encharcada.",
-        "fr": "Je suis trempé. / Je suis trempée.",
-        "it": "Sono fradicio. / Sono fradicia."
+        "en": "I'm soaked.",
+        "fr": "Je suis trempé.",
+        "it": "Sono fradicio.",
+        "pt": "Estou encharcado."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Femenino: «Estou encharcada».",
+        "fr": "Femenino: «Je suis trempée».",
+        "it": "Femenino: «Sono fradicia»."
+      }
     },
     {
       "id": "cl153",
       "es": "Necesito entrar en calor.",
       "translations": {
         "en": "I need to warm up.",
-        "pt": "Preciso me aquecer.",
         "fr": "J'ai besoin de me réchauffer.",
-        "it": "Ho bisogno di riscaldarmi."
+        "it": "Ho bisogno di riscaldarmi.",
+        "pt": "Preciso me aquecer."
       },
       "image_url": ""
     },
@@ -1690,9 +2092,9 @@
       "es": "Voy a ponerme un abrigo.",
       "translations": {
         "en": "I'm going to put on a coat.",
-        "pt": "Vou colocar um casaco.",
         "fr": "Je vais mettre un manteau.",
-        "it": "Mi metto un cappotto."
+        "it": "Mi metto un cappotto.",
+        "pt": "Vou colocar um casaco."
       },
       "image_url": ""
     },
@@ -1701,9 +2103,9 @@
       "es": "¿Necesito llevar un paraguas?",
       "translations": {
         "en": "Do I need to bring an umbrella?",
-        "pt": "Preciso levar um guarda-chuva?",
         "fr": "Je dois prendre un parapluie ?",
-        "it": "Devo portare un ombrello?"
+        "it": "Devo portare un ombrello?",
+        "pt": "Preciso levar um guarda-chuva?"
       },
       "image_url": ""
     },
@@ -1712,9 +2114,9 @@
       "es": "Olvidé mi paraguas.",
       "translations": {
         "en": "I forgot my umbrella.",
-        "pt": "Esqueci meu guarda-chuva.",
         "fr": "J'ai oublié mon parapluie.",
-        "it": "Ho dimenticato il mio ombrello."
+        "it": "Ho dimenticato il mio ombrello.",
+        "pt": "Esqueci meu guarda-chuva."
       },
       "image_url": ""
     },
@@ -1723,9 +2125,9 @@
       "es": "¿Puedo esperar aquí hasta que deje de llover?",
       "translations": {
         "en": "Can I wait here until it stops raining?",
-        "pt": "Posso esperar aqui até parar de chover?",
         "fr": "Je peux attendre ici jusqu'à ce qu'il arrête de pleuvoir ?",
-        "it": "Posso aspettare qui finché non smette di piovere?"
+        "it": "Posso aspettare qui finché non smette di piovere?",
+        "pt": "Posso esperar aqui até parar de chover?"
       },
       "image_url": ""
     },
@@ -1734,9 +2136,9 @@
       "es": "Busquemos un lugar a la sombra.",
       "translations": {
         "en": "Let's find a shady spot.",
-        "pt": "Vamos procurar um lugar na sombra.",
         "fr": "Cherchons un endroit à l'ombre.",
-        "it": "Cerchiamo un posto all'ombra."
+        "it": "Cerchiamo un posto all'ombra.",
+        "pt": "Vamos procurar um lugar na sombra."
       },
       "image_url": ""
     },
@@ -1745,9 +2147,9 @@
       "es": "¿Hay un lugar cubierto para esperar?",
       "translations": {
         "en": "Is there a covered place where I can wait?",
-        "pt": "Há um lugar coberto para esperar?",
         "fr": "Y a-t-il un endroit couvert pour attendre ?",
-        "it": "C'è un posto al coperto dove posso aspettare?"
+        "it": "C'è un posto al coperto dove posso aspettare?",
+        "pt": "Há um lugar coberto para esperar?"
       },
       "image_url": ""
     },
@@ -1756,9 +2158,9 @@
       "es": "¿La excursión se cancela si llueve?",
       "translations": {
         "en": "Is the tour canceled if it rains?",
-        "pt": "O passeio é cancelado se chover?",
         "fr": "L'excursion est annulée s'il pleut ?",
-        "it": "L'escursione viene annullata se piove?"
+        "it": "L'escursione viene annullata se piove?",
+        "pt": "O passeio é cancelado se chover?"
       },
       "image_url": ""
     },
@@ -1767,20 +2169,20 @@
       "es": "Hoy podemos hacer una actividad bajo techo.",
       "translations": {
         "en": "We can do an indoor activity today.",
-        "pt": "Hoje podemos fazer uma atividade em um lugar fechado.",
         "fr": "Aujourd'hui, on peut faire une activité en intérieur.",
-        "it": "Oggi possiamo fare un'attività al chiuso."
+        "it": "Oggi possiamo fare un'attività al chiuso.",
+        "pt": "Hoje podemos fazer uma atividade em um lugar fechado."
       },
       "image_url": ""
     },
     {
       "id": "cl162",
-      "es": "El suelo está resbaloso / resbaladizo.",
+      "es": "El suelo está resbaloso.",
       "translations": {
         "en": "The ground is slippery.",
-        "pt": "O chão está escorregadio.",
         "fr": "Le sol est glissant.",
-        "it": "Il terreno è scivoloso."
+        "it": "Il terreno è scivoloso.",
+        "pt": "O chão está escorregadio."
       },
       "image_url": ""
     },
@@ -1789,20 +2191,181 @@
       "es": "Hay poca visibilidad por la niebla.",
       "translations": {
         "en": "Visibility is poor because of the fog.",
-        "pt": "A visibilidade está baixa por causa da neblina.",
         "fr": "La visibilité est mauvaise à cause du brouillard.",
-        "it": "La visibilità è scarsa a causa della nebbia."
+        "it": "La visibilità è scarsa a causa della nebbia.",
+        "pt": "A visibilidade está baixa por causa do nevoeiro."
       },
       "image_url": ""
     },
     {
       "id": "cl164",
-      "es": "Qué buen día para salir a pasear.",
+      "es": "¡Qué buen día para salir a pasear!",
       "translations": {
-        "en": "What a nice day for a walk.",
-        "pt": "Que dia bom para passear.",
-        "fr": "Quelle belle journée pour se promener.",
-        "it": "Che bella giornata per fare una passeggiata."
+        "en": "What a nice day for a walk!",
+        "fr": "Quelle belle journée pour se promener !",
+        "it": "Che bella giornata per fare una passeggiata!",
+        "pt": "Que dia bom para passear!"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cl165",
+      "es": "La luna",
+      "translations": {
+        "en": "The moon",
+        "fr": "La lune",
+        "it": "La luna",
+        "pt": "A lua"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "El plural se utiliza al hablar de varios satélites naturales.",
+        "fr": "Plural: les lunes",
+        "it": "Plural: le lune",
+        "pt": "Plural: as luas"
+      }
+    },
+    {
+      "id": "cl166",
+      "es": "La estrella",
+      "translations": {
+        "en": "The star",
+        "fr": "L’étoile",
+        "it": "La stella",
+        "pt": "A estrela"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the stars",
+        "fr": "Plural: les étoiles",
+        "it": "Plural: le stelle",
+        "pt": "Plural: as estrelas"
+      }
+    },
+    {
+      "id": "cl167",
+      "es": "El calor",
+      "translations": {
+        "en": "The heat",
+        "fr": "La chaleur",
+        "it": "Il caldo",
+        "pt": "O calor"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cl168",
+      "es": "El frío",
+      "translations": {
+        "en": "The cold",
+        "fr": "Le froid",
+        "it": "Il freddo",
+        "pt": "O frio"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cl169",
+      "es": "El día soleado",
+      "translations": {
+        "en": "The sunny day",
+        "fr": "La journée ensoleillée",
+        "it": "La giornata di sole",
+        "pt": "O dia ensolarado"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sunny days",
+        "fr": "Plural: les journées ensoleillées",
+        "it": "Plural: le giornate di sole",
+        "pt": "Plural: os dias ensolarados"
+      }
+    },
+    {
+      "id": "cl170",
+      "es": "Está nublado.",
+      "translations": {
+        "en": "It's cloudy.",
+        "fr": "Le ciel est nuageux.",
+        "it": "È nuvoloso.",
+        "pt": "Está nublado."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cl171",
+      "es": "¿A qué hora se pone el sol?",
+      "translations": {
+        "en": "What time does the sun set?",
+        "fr": "À quelle heure le soleil se couche-t-il ?",
+        "it": "A che ora tramonta il sole?",
+        "pt": "A que horas o sol se põe?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cl172",
+      "es": "¿A qué hora sale el sol?",
+      "translations": {
+        "en": "What time does the sun rise?",
+        "fr": "À quelle heure le soleil se lève-t-il ?",
+        "it": "A que horas nasce il sole?",
+        "pt": "A que horas o sol nasce?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cl173",
+      "es": "Hay mucho sol.",
+      "translations": {
+        "en": "It's very sunny.",
+        "fr": "Il y a beaucoup de soleil.",
+        "it": "C’è molto sole.",
+        "pt": "Está fazendo muito sol."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cl174",
+      "es": "¿Cuándo empieza el invierno?",
+      "translations": {
+        "en": "When does winter start?",
+        "fr": "Quand commence l’hiver ?",
+        "it": "Quando inizia l’inverno?",
+        "pt": "Quando começa o inverno?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cl175",
+      "es": "¿Va a hacer frío mañana?",
+      "translations": {
+        "en": "Will it be cold tomorrow?",
+        "fr": "Est-ce qu’il va faire froid demain ?",
+        "it": "Farà freddo domani?",
+        "pt": "Vai fazer frio amanhã?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cl176",
+      "es": "Hace viento.",
+      "translations": {
+        "en": "It's windy.",
+        "fr": "Il y a du vent.",
+        "it": "C'è vento.",
+        "pt": "Está ventando."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cl177",
+      "es": "¿Está lloviendo afuera?",
+      "translations": {
+        "en": "Is it raining outside?",
+        "fr": "Il pleut dehors ?",
+        "it": "Sta piovendo fuori?",
+        "pt": "Está chovendo lá fora?"
       },
       "image_url": ""
     }

@@ -25,6 +25,9 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
     const [isSpeaking, setIsSpeaking] = useState(false);
     const [isPaused, setIsPaused] = useState(false);
     const speechIdRef = useRef(0);
+    // Gestos táctiles: el deslizamiento navega; un toque sigue volteando.
+    const touchStartRef = useRef(null);
+    const ignoreFlipUntilRef = useRef(0);
 
 
     useEffect(() => () => {
@@ -179,6 +182,8 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
     };
 
     const handleFlip = () => {
+        // El navegador puede emitir un click después de terminar un swipe táctil.
+        if (Date.now() < ignoreFlipUntilRef.current) return;
         const next = !isFlipped;
         cancelAudio();
         setIsFlipped(next);
@@ -191,6 +196,34 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
         cancelAudio();
         setIsFlipped(false);
         setCurrentIndex(newIndex);
+    };
+
+    const handleTouchStart = event => {
+        if (event.touches.length !== 1 ||
+            event.target.closest('button, a, input, select, textarea')) {
+            touchStartRef.current = null;
+            return;
+        }
+
+        const touch = event.touches[0];
+        touchStartRef.current = { x: touch.clientX, y: touch.clientY };
+    };
+
+    const handleTouchEnd = event => {
+        const start = touchStartRef.current;
+        touchStartRef.current = null;
+        if (!start || event.changedTouches.length !== 1) return;
+
+        const touch = event.changedTouches[0];
+        const deltaX = touch.clientX - start.x;
+        const deltaY = touch.clientY - start.y;
+
+        // Exige un gesto horizontal claro para no interferir con el scroll.
+        if (Math.abs(deltaX) < 60 || Math.abs(deltaX) < Math.abs(deltaY) * 1.3) return;
+
+        // Bloquea el click sintético que voltearía la nueva tarjeta.
+        ignoreFlipUntilRef.current = Date.now() + 450;
+        changeCard(currentIndex + (deltaX < 0 ? 1 : -1));
     };
 
     return (
@@ -257,7 +290,14 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
             ) : (
                 <>
                     <div className="review-card-shell">
-                        <div className="flashcard-container" onClick={handleFlip}>
+                        <div
+                            className="flashcard-container"
+                            onClick={handleFlip}
+                            onTouchStart={handleTouchStart}
+                            onTouchEnd={handleTouchEnd}
+                            onTouchCancel={() => { touchStartRef.current = null; }}
+                            style={{ touchAction: 'pan-y' }}
+                        >
                             <div key={currentCard.id} className={`flashcard-inner ${isFlipped ? 'is-flipped' : ''}`}>
                                 <div className="flashcard-front card">
                                     {currentCard.image_url && (
@@ -336,12 +376,42 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                         <button
                             type="button"
                             className={`review-star ${isMarked ? 'is-marked' : ''}`}
+                            style={{
+                                top: '3px',
+                                right: '3px',
+                                width: '56px',
+                                height: '56px',
+                                padding: 0,
+                                border: 'none',
+                                background: 'transparent',
+                                boxShadow: 'none',
+                                touchAction: 'manipulation'
+                            }}
                             onClick={toggleCurrentMark}
                             aria-pressed={isMarked}
                             aria-label={isMarked ? 'Quitar de para repasar' : 'Marcar para repasar'}
                             title={isMarked ? 'Quitar de para repasar' : 'Marcar para repasar'}
                         >
-                            {isMarked ? '★' : '☆'}
+                            <span
+                                aria-hidden="true"
+                                style={{
+                                    width: '38px',
+                                    height: '38px',
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    justifyContent: 'center',
+                                    borderRadius: '50%',
+                                    border: '1px solid var(--card-border)',
+                                    background: 'var(--card-bg)',
+                                    color: isMarked ? '#C98914' : 'var(--muted)',
+                                    boxShadow: 'var(--shadow-sm)',
+                                    fontSize: '1.35rem',
+                                    lineHeight: 1,
+                                    pointerEvents: 'none'
+                                }}
+                            >
+                                {isMarked ? '★' : '☆'}
+                            </span>
                         </button>
                     </div>
 
