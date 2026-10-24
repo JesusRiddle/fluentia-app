@@ -15,7 +15,7 @@ function App() {
     return localStorage.getItem('fluentia_target_lang') || 'en';
   });
 
-  // 2. CREAMOS EL ESTADO PARA EL AUTO-PLAY (por defecto true)
+  // Auto-Play habilitado por defecto.
   const [autoPlay, setAutoPlay] = useState(true);
 
   const [currentView, setCurrentView] = useState('home');
@@ -28,6 +28,14 @@ function App() {
 
   useEffect(() => {
     localStorage.setItem('fluentia_target_lang', targetLang);
+  }, [targetLang]);
+
+  // Una traducción en la primera tarjeta habilita el módulo completo.
+  // Los JSON de cada idioma se publican únicamente cuando están completos.
+  const languageAvailable = Boolean(activeModule?.cards?.[0]?.translations?.[targetLang]?.trim());
+
+  useEffect(() => {
+    window.speechSynthesis.cancel();
   }, [targetLang]);
 
   const toggleTheme = () => {
@@ -76,6 +84,7 @@ function App() {
             <option value="fr">🇫🇷 Francés</option>
             <option value="it">🇮🇹 Italiano</option>
             <option value="pt">🇧🇷 Portugués</option>
+            <option value="de">🇩🇪 Alemán</option>
           </select>
 
           <label className="auto-play-toggle">
@@ -101,9 +110,21 @@ function App() {
         <Home onSelectModule={handleSelectModule} />
       )}
 
-      {currentView === 'study' && (
-        // 3. LLAMAMOS AL COMPONENTE PASÁNDOLE LOS DATOS Y LA FUNCIÓN DE REGRESO
+      {(currentView === 'study' || currentView === 'practice') && activeModule && !languageAvailable && (
+        <main className="view" style={{ minHeight: '55vh', display: 'grid', placeItems: 'center', padding: '24px' }}>
+          <div role="alert" aria-labelledby="language-unavailable-title" aria-describedby="language-unavailable-description" className="card" style={{ width: '100%', maxWidth: '420px', padding: '28px 22px', textAlign: 'center', display: 'grid', gap: '14px', justifyItems: 'center' }}>
+            <span aria-hidden="true" style={{ fontSize: '2.5rem' }}>🌐</span>
+            <h2 id="language-unavailable-title" style={{ margin: 0 }}>Idioma no disponible</h2>
+            <p id="language-unavailable-description" style={{ margin: 0 }}>Este módulo todavía no está disponible en el idioma seleccionado. Elige otro idioma en el menú superior para continuar.</p>
+            <button type="button" className="pill-btn" onClick={() => navigateTo('home')}>← Regresar a temas</button>
+          </div>
+        </main>
+      )}
+
+      {currentView === 'study' && languageAvailable && (
+        // Modo de estudio del módulo seleccionado.
         <StudyMode
+          key={targetLang}
           moduleData={activeModule}
           targetLang={targetLang}
           onBack={() => navigateTo('home')}
@@ -111,8 +132,9 @@ function App() {
         />
       )}
 
-      {currentView === 'practice' && (
+      {currentView === 'practice' && languageAvailable && (
         <PracticeMode
+          key={targetLang}
           moduleData={activeModule}
           targetLang={targetLang}
           onBack={() => navigateTo('home')}
