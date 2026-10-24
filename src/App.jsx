@@ -15,7 +15,7 @@ function App() {
     return localStorage.getItem('fluentia_target_lang') || 'en';
   });
 
-  // 2. CREAMOS EL ESTADO PARA EL AUTO-PLAY (por defecto true)
+  // Auto-Play habilitado por defecto.
   const [autoPlay, setAutoPlay] = useState(true);
 
   const [currentView, setCurrentView] = useState('home');
@@ -112,7 +112,7 @@ function App() {
 
       {(currentView === 'study' || currentView === 'practice') && activeModule && !languageAvailable && (
         <main className="view" style={{ minHeight: '55vh', display: 'grid', placeItems: 'center', padding: '24px' }}>
-          <div role="alertdialog" aria-modal="true" aria-labelledby="language-unavailable-title" aria-describedby="language-unavailable-description" className="card" style={{ width: '100%', maxWidth: '420px', padding: '28px 22px', textAlign: 'center', display: 'grid', gap: '14px', justifyItems: 'center' }}>
+          <div role="alert" aria-labelledby="language-unavailable-title" aria-describedby="language-unavailable-description" className="card" style={{ width: '100%', maxWidth: '420px', padding: '28px 22px', textAlign: 'center', display: 'grid', gap: '14px', justifyItems: 'center' }}>
             <span aria-hidden="true" style={{ fontSize: '2.5rem' }}>🌐</span>
             <h2 id="language-unavailable-title" style={{ margin: 0 }}>Idioma no disponible</h2>
             <p id="language-unavailable-description" style={{ margin: 0 }}>Este módulo todavía no está disponible en el idioma seleccionado. Elige otro idioma en el menú superior para continuar.</p>
@@ -122,7 +122,7 @@ function App() {
       )}
 
       {currentView === 'study' && languageAvailable && (
-        // 3. LLAMAMOS AL COMPONENTE PASÁNDOLE LOS DATOS Y LA FUNCIÓN DE REGRESO
+        // Modo de estudio del módulo seleccionado.
         <StudyMode
           moduleData={activeModule}
           targetLang={targetLang}
