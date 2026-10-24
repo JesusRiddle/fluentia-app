@@ -121,7 +121,7 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
     };
 
     const ttsVoices = {
-        en: 'en-US', fr: 'fr-FR', it: 'it-IT', pt: 'pt-BR'
+        en: 'en-US', fr: 'fr-FR', it: 'it-IT', pt: 'pt-BR', de: 'de-DE'
     };
 
     const playAudio = () => {
