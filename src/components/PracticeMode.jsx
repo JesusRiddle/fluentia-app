@@ -10,7 +10,7 @@ const ttsVoices = {
     en: 'en-US',
     fr: 'fr-FR',
     it: 'it-IT',
-    pt: 'pt-BR',
+    pt: 'pt-BR',\n    de: 'de-DE',
 };
 
 // Barajado Fisher-Yates sin modificar el arreglo original.
