@@ -30,7 +30,7 @@ function App() {
     localStorage.setItem('fluentia_target_lang', targetLang);
   }, [targetLang]);
 
-  const toggleTheme = () => {
+  // Una traducción en la primera tarjeta habilita el módulo completo.\n  // Los JSON de cada idioma se publican únicamente cuando están completos.\n  const languageAvailable = Boolean(activeModule?.cards?.[0]?.translations?.[targetLang]?.trim());\n\n  useEffect(() => {\n    window.speechSynthesis.cancel();\n  }, [targetLang]);\n\n  const toggleTheme = () => {
     setTheme(prev => prev === 'dark' ? 'light' : 'dark');
   };
 
@@ -75,7 +75,7 @@ function App() {
             <option value="en">🇬🇧 Inglés</option>
             <option value="fr">🇫🇷 Francés</option>
             <option value="it">🇮🇹 Italiano</option>
-            <option value="pt">🇧🇷 Portugués</option>
+            <option value="pt">🇧🇷 Portugués</option>\n            <option value="de">🇩🇪 Alemán</option>
           </select>
 
           <label className="auto-play-toggle">
@@ -101,7 +101,7 @@ function App() {
         <Home onSelectModule={handleSelectModule} />
       )}
 
-      {currentView === 'study' && (
+      {(currentView === 'study' || currentView === 'practice') && activeModule && !languageAvailable && (\n        <main className="view" style={{ minHeight: '55vh', display: 'grid', placeItems: 'center', padding: '24px' }}>\n          <div role="alertdialog" aria-modal="true" aria-labelledby="language-unavailable-title" aria-describedby="language-unavailable-description" className="card" style={{ width: '100%', maxWidth: '420px', padding: '28px 22px', textAlign: 'center', display: 'grid', gap: '14px', justifyItems: 'center' }}>\n            <span aria-hidden="true" style={{ fontSize: '2.5rem' }}>🌐</span>\n            <h2 id="language-unavailable-title" style={{ margin: 0 }}>Idioma no disponible</h2>\n            <p id="language-unavailable-description" style={{ margin: 0 }}>Este módulo todavía no está disponible en el idioma seleccionado. Elige otro idioma en el menú superior para continuar.</p>\n            <button type="button" className="pill-btn" onClick={() => navigateTo('home')}>← Regresar a temas</button>\n          </div>\n        </main>\n      )}\n\n      {currentView === 'study' && languageAvailable && (
         // 3. LLAMAMOS AL COMPONENTE PASÁNDOLE LOS DATOS Y LA FUNCIÓN DE REGRESO
         <StudyMode
           moduleData={activeModule}
@@ -111,7 +111,7 @@ function App() {
         />
       )}
 
-      {currentView === 'practice' && (
+      {currentView === 'practice' && languageAvailable && (
         <PracticeMode
           moduleData={activeModule}
           targetLang={targetLang}
