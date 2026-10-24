@@ -124,6 +124,7 @@ function App() {
       {currentView === 'study' && languageAvailable && (
         // Modo de estudio del módulo seleccionado.
         <StudyMode
+          key={targetLang}
           moduleData={activeModule}
           targetLang={targetLang}
           onBack={() => navigateTo('home')}
@@ -133,6 +134,7 @@ function App() {
 
       {currentView === 'practice' && languageAvailable && (
         <PracticeMode
+          key={targetLang}
           moduleData={activeModule}
           targetLang={targetLang}
           onBack={() => navigateTo('home')}
