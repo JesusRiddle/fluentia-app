@@ -1,3 +1,4 @@
+import { prepareSpeechText } from '../utils/prepareSpeechText';
 import { useEffect, useRef, useState } from 'react';
 import NumberRangeFilter from './NumberRangeFilter';
 import { filterCardsByNumberRange, isNumbersModule } from '../utils/numberRanges';
@@ -133,7 +134,7 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
         cancelAudio();
         const speechId = speechIdRef.current;
 
-        const utterance = new SpeechSynthesisUtterance(text);
+        const utterance = new SpeechSynthesisUtterance(prepareSpeechText(text));
         utterance.lang = ttsVoices[targetLang] || 'en-US';
         utterance.rate = speechRate;
 
