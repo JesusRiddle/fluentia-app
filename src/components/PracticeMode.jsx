@@ -1,3 +1,4 @@
+import { prepareSpeechText } from '../utils/prepareSpeechText';
 
 import { useState, useEffect, useCallback } from 'react';
 import NumberRangeFilter from './NumberRangeFilter';
@@ -96,7 +97,7 @@ export default function PracticeMode({
 
         window.speechSynthesis.cancel();
 
-        const utterance = new SpeechSynthesisUtterance(text);
+        const utterance = new SpeechSynthesisUtterance(prepareSpeechText(text));
         utterance.lang = ttsVoices[targetLang] || 'en-US';
         utterance.rate = speechRate;
 
