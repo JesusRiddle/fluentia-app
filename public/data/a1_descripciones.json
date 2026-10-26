@@ -1,32 +1,38 @@
 {
   "module": "Descripciones Físicas y Adjetivos",
   "level": "A1",
+  "revisado": "true",
   "cards": [
     {
       "id": "df1",
-      "es": "Apariencia / Aspecto físico",
+      "es": "La apariencia física",
       "translations": {
-        "en": "Appearance / Physical appearance",
-        "pt": "Aparência / Aparência física",
-        "fr": "Apparence / Apparence physique",
-        "it": "Aspetto / Aspetto fisico"
+        "en": "The physical appearance",
+        "pt": "A aparência física",
+        "fr": "L’apparence physique",
+        "it": "L’aspetto fisico"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les apparences physiques",
+        "it": "Plural: gli aspetti fisici",
+        "pt": "Plural: as aparências físicas"
+      }
     },
     {
       "id": "df2",
-      "es": "Estatura (altura de una persona)",
+      "es": "La estatura",
       "translations": {
-        "en": "Height",
-        "pt": "Altura / Estatura",
-        "fr": "Taille",
-        "it": "Altezza / Statura"
+        "en": "The height",
+        "pt": "A altura",
+        "fr": "La taille",
+        "it": "L’altezza"
       },
       "image_url": ""
     },
     {
       "id": "df3",
-      "es": "Alto/a (persona)",
+      "es": "Alto / Alta",
       "translations": {
         "en": "Tall",
         "pt": "Alto / Alta",
@@ -37,14 +43,17 @@
     },
     {
       "id": "df4",
-      "es": "Bajo/a (de poca estatura)",
+      "es": "Bajo / Baja",
       "translations": {
         "en": "Short",
         "pt": "Baixo / Baixa",
         "fr": "Petit / Petite",
         "it": "Basso / Bassa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "de poca estatura"
+      }
     },
     {
       "id": "df5",
@@ -59,36 +68,46 @@
     },
     {
       "id": "df6",
-      "es": "Delgado/a (complexión)",
+      "es": "Delgado / Delgada",
       "translations": {
-        "en": "Slim / Thin",
+        "en": "Slim",
         "pt": "Magro / Magra",
         "fr": "Mince",
-        "it": "Snello / Snella / Magro / Magra"
+        "it": "Snello / Snella"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "complexión"
+      }
     },
     {
       "id": "df7",
-      "es": "Muy delgado/a (a veces con sentido poco favorable)",
+      "es": "Muy delgado / Muy delgada",
       "translations": {
-        "en": "Skinny / Very thin",
+        "en": "Very thin / Skinny",
         "pt": "Muito magro / Muito magra",
-        "fr": "Maigre / Très mince",
+        "fr": "Très maigre",
         "it": "Molto magro / Molto magra"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "a veces con sentido poco favorable",
+        "en": "Skinny puede resultar despectivo."
+      }
     },
     {
       "id": "df8",
-      "es": "Gordo/a (descripción directa del cuerpo)",
+      "es": "Gordo / Gorda",
       "translations": {
         "en": "Fat",
         "pt": "Gordo / Gorda",
         "fr": "Gros / Grosse",
         "it": "Grasso / Grassa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Descripción directa; puede resultar ofensiva."
+      }
     },
     {
       "id": "df9",
@@ -103,10 +122,10 @@
     },
     {
       "id": "df10",
-      "es": "De complexión compacta y robusta",
+      "es": "Robusto / Robusta",
       "translations": {
         "en": "Stocky",
-        "pt": "De constituição robusta",
+        "pt": "Atarracado / Atarracada",
         "fr": "Trapu / Trapue",
         "it": "Tarchiato / Tarchiata"
       },
@@ -114,7 +133,7 @@
     },
     {
       "id": "df11",
-      "es": "Musculoso/a",
+      "es": "Musculoso / Musculosa",
       "translations": {
         "en": "Muscular",
         "pt": "Musculoso / Musculosa",
@@ -125,7 +144,7 @@
     },
     {
       "id": "df12",
-      "es": "Atlético/a (aspecto físico)",
+      "es": "Atlético / Atlética",
       "translations": {
         "en": "Athletic",
         "pt": "Atlético / Atlética",
@@ -136,7 +155,7 @@
     },
     {
       "id": "df13",
-      "es": "Fuerte (fuerza física)",
+      "es": "Fuerte",
       "translations": {
         "en": "Strong",
         "pt": "Forte",
@@ -147,7 +166,7 @@
     },
     {
       "id": "df14",
-      "es": "Débil (fuerza física)",
+      "es": "Débil",
       "translations": {
         "en": "Weak",
         "pt": "Fraco / Fraca",
@@ -169,7 +188,7 @@
     },
     {
       "id": "df16",
-      "es": "Adulto/a",
+      "es": "Adulto / Adulta",
       "translations": {
         "en": "Adult",
         "pt": "Adulto / Adulta",
@@ -191,32 +210,38 @@
     },
     {
       "id": "df18",
-      "es": "De edad avanzada / Mayor (edad, sin comparación)",
+      "es": "De edad avanzada",
       "translations": {
-        "en": "Elderly / Older",
+        "en": "Elderly",
         "pt": "Idoso / Idosa",
         "fr": "Âgé / Âgée",
         "it": "Anziano / Anziana"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "edad, sin comparación"
+      }
     },
     {
       "id": "df19",
-      "es": "Viejo/a (persona; expresión directa)",
+      "es": "Viejo / Vieja",
       "translations": {
         "en": "Old",
         "pt": "Velho / Velha",
         "fr": "Vieux / Vieille",
         "it": "Vecchio / Vecchia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Puede resultar descortés al describir personas."
+      }
     },
     {
       "id": "df20",
-      "es": "Guapo/a / Bonito/a / Hermoso/a (apariencia)",
+      "es": "Guapo / Guapa",
       "translations": {
-        "en": "Good-looking / Handsome / Pretty / Beautiful",
-        "pt": "Bonito / Bonita / Lindo / Linda",
+        "en": "Good-looking",
+        "pt": "Bonito / Bonita",
         "fr": "Beau / Belle",
         "it": "Bello / Bella"
       },
@@ -224,7 +249,7 @@
     },
     {
       "id": "df21",
-      "es": "Feo/a (apariencia)",
+      "es": "Feo / Fea",
       "translations": {
         "en": "Ugly",
         "pt": "Feio / Feia",
@@ -235,7 +260,7 @@
     },
     {
       "id": "df22",
-      "es": "Atractivo/a (apariencia)",
+      "es": "Atractivo / Atractiva",
       "translations": {
         "en": "Attractive",
         "pt": "Atraente",
@@ -246,18 +271,18 @@
     },
     {
       "id": "df23",
-      "es": "De aspecto tierno / Adorable",
+      "es": "Adorable",
       "translations": {
-        "en": "Cute / Adorable",
-        "pt": "Fofo / Fofa / Adorável",
-        "fr": "Mignon / Mignonne / Adorable",
-        "it": "Tenero / Tenera / Adorabile"
+        "en": "Adorable",
+        "pt": "Adorável",
+        "fr": "Adorable",
+        "it": "Adorabile"
       },
       "image_url": ""
     },
     {
       "id": "df24",
-      "es": "Bien arreglado/a / De aspecto cuidado",
+      "es": "Bien arreglado / Bien arreglada",
       "translations": {
         "en": "Well-groomed",
         "pt": "Bem-arrumado / Bem-arrumada",
@@ -268,7 +293,7 @@
     },
     {
       "id": "df25",
-      "es": "Desaliñado/a (apariencia)",
+      "es": "Desaliñado / Desaliñada",
       "translations": {
         "en": "Unkempt / Scruffy",
         "pt": "Desleixado / Desleixada",
@@ -279,9 +304,9 @@
     },
     {
       "id": "df26",
-      "es": "Elegante (apariencia o estilo)",
+      "es": "Elegante",
       "translations": {
-        "en": "Elegant / Stylish",
+        "en": "Elegant",
         "pt": "Elegante",
         "fr": "Élégant / Élégante",
         "it": "Elegante"
@@ -290,139 +315,199 @@
     },
     {
       "id": "df27",
-      "es": "Informal (estilo de vestir)",
+      "es": "Informal",
       "translations": {
         "en": "Casual",
-        "pt": "De estilo informal",
+        "pt": "Casual",
         "fr": "Décontracté / Décontractée",
-        "it": "Di stile informale"
+        "it": "Casual"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "estilo de vestir",
+        "en": "Casual describe la ropa; informal también puede referirse al trato."
+      }
     },
     {
       "id": "df28",
-      "es": "Cabello / Pelo (de la cabeza)",
+      "es": "El cabello",
       "translations": {
-        "en": "Hair",
-        "pt": "Cabelo / Cabelos",
-        "fr": "Cheveux",
-        "it": "Capelli"
+        "en": "The hair",
+        "pt": "O cabelo",
+        "fr": "Les cheveux",
+        "it": "I capelli"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Singular: le cheveu (un cabello individual)",
+        "it": "Singular: il capello (un cabello individual)",
+        "pt": "Plural: os cabelos"
+      }
     },
     {
       "id": "df29",
-      "es": "Ojos",
+      "es": "Los ojos",
       "translations": {
-        "en": "Eyes",
-        "pt": "Olhos",
-        "fr": "Yeux",
-        "it": "Occhi"
+        "en": "The eyes",
+        "pt": "Os olhos",
+        "fr": "Les yeux",
+        "it": "Gli occhi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Singular: the eye",
+        "fr": "Singular: l’œil",
+        "it": "Singular: l’occhio",
+        "pt": "Singular: o olho"
+      }
     },
     {
       "id": "df30",
-      "es": "Piel",
+      "es": "La piel",
       "translations": {
-        "en": "Skin",
-        "pt": "Pele",
-        "fr": "Peau",
-        "it": "Pelle"
+        "en": "The skin",
+        "pt": "A pele",
+        "fr": "La peau",
+        "it": "La pelle"
       },
       "image_url": ""
     },
     {
       "id": "df31",
-      "es": "Barba",
+      "es": "La barba",
       "translations": {
-        "en": "Beard",
-        "pt": "Barba",
-        "fr": "Barbe",
-        "it": "Barba"
+        "en": "The beard",
+        "pt": "A barba",
+        "fr": "La barbe",
+        "it": "La barba"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the beards",
+        "fr": "Plural: les barbes",
+        "it": "Plural: le barbe",
+        "pt": "Plural: as barbas"
+      }
     },
     {
       "id": "df32",
-      "es": "Bigote",
+      "es": "El bigote",
       "translations": {
-        "en": "Mustache",
-        "pt": "Bigode",
-        "fr": "Moustache",
-        "it": "Baffi"
+        "en": "The mustache",
+        "pt": "O bigode",
+        "fr": "La moustache",
+        "it": "I baffi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mustaches",
+        "fr": "Plural: les moustaches",
+        "it": "Singular: il baffo (un pelo del bigote)",
+        "pt": "Plural: os bigodes"
+      }
     },
     {
       "id": "df33",
-      "es": "Pecas",
+      "es": "Las pecas",
       "translations": {
-        "en": "Freckles",
-        "pt": "Sardas",
-        "fr": "Taches de rousseur",
-        "it": "Lentiggini"
+        "en": "The freckles",
+        "pt": "As sardas",
+        "fr": "Les taches de rousseur",
+        "it": "Le lentiggini"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Singular: the freckle",
+        "fr": "Singular: la tache de rousseur",
+        "it": "Singular: la lentiggine",
+        "pt": "Singular: a sarda"
+      }
     },
     {
       "id": "df34",
-      "es": "Arrugas",
+      "es": "Las arrugas",
       "translations": {
-        "en": "Wrinkles",
-        "pt": "Rugas",
-        "fr": "Rides",
-        "it": "Rughe"
+        "en": "The wrinkles",
+        "pt": "As rugas",
+        "fr": "Les rides",
+        "it": "Le rughe"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Singular: the wrinkle",
+        "fr": "Singular: la ride",
+        "it": "Singular: la ruga",
+        "pt": "Singular: a ruga"
+      }
     },
     {
       "id": "df35",
-      "es": "Cicatriz",
+      "es": "La cicatriz",
       "translations": {
-        "en": "Scar",
-        "pt": "Cicatriz",
-        "fr": "Cicatrice",
-        "it": "Cicatrice"
+        "en": "The scar",
+        "pt": "A cicatriz",
+        "fr": "La cicatrice",
+        "it": "La cicatrice"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the scars",
+        "fr": "Plural: les cicatrices",
+        "it": "Plural: le cicatrici",
+        "pt": "Plural: as cicatrizes"
+      }
     },
     {
       "id": "df36",
-      "es": "Lunar (mancha de la piel)",
+      "es": "El lunar",
       "translations": {
-        "en": "Mole",
-        "pt": "Pinta / Sinal na pele",
-        "fr": "Grain de beauté",
-        "it": "Neo"
+        "en": "The mole",
+        "pt": "A pinta",
+        "fr": "Le grain de beauté",
+        "it": "Il neo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the moles",
+        "fr": "Plural: les grains de beauté",
+        "it": "Plural: i nei",
+        "pt": "Plural: as pintas"
+      }
     },
     {
       "id": "df37",
-      "es": "Hoyuelos (en las mejillas)",
+      "es": "Los hoyuelos",
       "translations": {
-        "en": "Dimples",
-        "pt": "Covinhas",
-        "fr": "Fossettes",
-        "it": "Fossette"
+        "en": "The dimples",
+        "pt": "As covinhas",
+        "fr": "Les fossettes",
+        "it": "Le fossette"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Singular: the dimple",
+        "fr": "Singular: la fossette",
+        "it": "Singular: la fossetta",
+        "pt": "Singular: a covinha"
+      }
     },
     {
       "id": "df38",
-      "es": "Lentes / Gafas / Anteojos (para ver)",
+      "es": "Los lentes",
       "translations": {
-        "en": "Glasses / Eyeglasses",
-        "pt": "Óculos",
-        "fr": "Lunettes",
-        "it": "Occhiali"
+        "en": "The glasses",
+        "pt": "Os óculos",
+        "fr": "Les lunettes",
+        "it": "Gli occhiali"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "En México se dice lentes; en España, gafas."
+      }
     },
     {
       "id": "df39",
-      "es": "Rubio/a (cabello)",
+      "es": "Rubio / Rubia",
       "translations": {
         "en": "Blond / Blonde",
         "pt": "Loiro / Loira",
@@ -433,40 +518,51 @@
     },
     {
       "id": "df40",
-      "es": "Cabello castaño",
+      "es": "El cabello castaño",
       "translations": {
-        "en": "Brown hair",
-        "pt": "Cabelo castanho",
-        "fr": "Cheveux châtains",
-        "it": "Capelli castani"
+        "en": "The brown hair",
+        "pt": "O cabelo castanho",
+        "fr": "Les cheveux châtains",
+        "it": "I capelli castani"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Singular: le cheveu châtain (un cabello individual)",
+        "it": "Singular: il capello castano (un cabello individual)",
+        "pt": "Plural: os cabelos castanhos"
+      }
     },
     {
       "id": "df41",
-      "es": "Moreno/a (cabello oscuro; no se refiere aquí a la piel)",
+      "es": "Moreno / Morena",
       "translations": {
         "en": "Dark-haired",
         "pt": "De cabelos escuros",
         "fr": "Brun / Brune",
-        "it": "Moro / Mora"
+        "it": "Bruno / Bruna"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí se refiere al cabello oscuro, no al tono de piel."
+      }
     },
     {
       "id": "df42",
-      "es": "Pelirrojo/a",
+      "es": "Pelirrojo / Pelirroja",
       "translations": {
         "en": "Red-haired / Ginger",
         "pt": "Ruivo / Ruiva",
         "fr": "Roux / Rousse",
-        "it": "Rosso di capelli / Rossa di capelli"
+        "it": "Rosso / Rossa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Ginger es coloquial."
+      }
     },
     {
       "id": "df43",
-      "es": "Canoso/a / Con canas",
+      "es": "Canoso / Canosa",
       "translations": {
         "en": "Gray-haired",
         "pt": "Grisalho / Grisalha",
@@ -477,7 +573,7 @@
     },
     {
       "id": "df44",
-      "es": "Calvo/a",
+      "es": "Calvo / Calva",
       "translations": {
         "en": "Bald",
         "pt": "Careca",
@@ -488,18 +584,21 @@
     },
     {
       "id": "df45",
-      "es": "Con entradas (retroceso de la línea del cabello)",
+      "es": "Con entradas",
       "translations": {
         "en": "With a receding hairline",
         "pt": "Com entradas no cabelo",
         "fr": "Avec les tempes dégarnies",
         "it": "Stempiato / Stempiata"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "retroceso de la línea del cabello"
+      }
     },
     {
       "id": "df46",
-      "es": "Liso/a / Lacio/a (cabello)",
+      "es": "Lacio / Lacia",
       "translations": {
         "en": "Straight",
         "pt": "Liso / Lisa",
@@ -510,106 +609,126 @@
     },
     {
       "id": "df47",
-      "es": "Rizado/a / Chino/a (cabello; «chino» en México)",
+      "es": "Rizado / Rizada",
       "translations": {
         "en": "Curly",
         "pt": "Cacheado / Cacheada",
         "fr": "Bouclé / Bouclée",
         "it": "Riccio / Riccia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "En México también se dice cabello chino."
+      }
     },
     {
       "id": "df48",
-      "es": "Ondulado/a (cabello)",
+      "es": "Ondulado / Ondulada",
       "translations": {
         "en": "Wavy",
         "pt": "Ondulado / Ondulada",
         "fr": "Ondulé / Ondulée",
-        "it": "Mosso / Mossa / Ondulato / Ondulata"
+        "it": "Mosso / Mossa"
       },
       "image_url": ""
     },
     {
       "id": "df49",
-      "es": "Crespo/a (cabello de rizos muy cerrados)",
+      "es": "Crespo / Crespa",
       "translations": {
         "en": "Coily / Tightly curled",
         "pt": "Crespo / Crespa",
         "fr": "Crépu / Crépue",
         "it": "Crespo / Crespa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Cabello con rizos muy cerrados."
+      }
     },
     {
       "id": "df50",
-      "es": "Teñido/a (cabello)",
+      "es": "El cabello teñido",
       "translations": {
-        "en": "Dyed",
-        "pt": "Tingido / Tingida",
-        "fr": "Teint / Teinte",
-        "it": "Tinto / Tinta"
+        "en": "The dyed hair",
+        "pt": "O cabelo tingido",
+        "fr": "Les cheveux teints",
+        "it": "I capelli tinti"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os cabelos tingidos",
+        "fr": "Singular: le cheveu teint (un cabello individual)",
+        "it": "Singular: il capello tinto (un cabello individual)"
+      }
     },
     {
       "id": "df51",
-      "es": "Largo/a / Corto/a (longitud)",
+      "es": "Largo / Larga",
       "translations": {
-        "en": "Long / Short",
-        "pt": "Comprido / Comprida / Curto / Curta",
-        "fr": "Long / Longue / Court / Courte",
-        "it": "Lungo / Lunga / Corto / Corta"
+        "en": "Long",
+        "pt": "Comprido / Comprida",
+        "fr": "Long / Longue",
+        "it": "Lungo / Lunga"
       },
       "image_url": ""
     },
     {
       "id": "df52",
-      "es": "Ojos color avellana",
+      "es": "Los ojos color avellana",
       "translations": {
-        "en": "Hazel eyes",
-        "pt": "Olhos cor de avelã",
-        "fr": "Yeux noisette",
-        "it": "Occhi color nocciola"
+        "en": "The hazel eyes",
+        "pt": "Os olhos cor de avelã",
+        "fr": "Les yeux noisette",
+        "it": "Gli occhi color nocciola"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Singular: the hazel eye",
+        "fr": "Singular: l’œil noisette",
+        "it": "Singular: l’occhio color nocciola",
+        "pt": "Singular: o olho cor de avelã"
+      }
     },
     {
       "id": "df53",
-      "es": "Piel clara",
+      "es": "La piel clara",
       "translations": {
-        "en": "Fair skin / Light skin",
-        "pt": "Pele clara",
-        "fr": "Peau claire",
-        "it": "Pelle chiara"
+        "en": "The fair skin",
+        "pt": "A pele clara",
+        "fr": "La peau claire",
+        "it": "La pelle chiara"
       },
       "image_url": ""
     },
     {
       "id": "df54",
-      "es": "Piel oscura",
+      "es": "La piel oscura",
       "translations": {
-        "en": "Dark skin",
-        "pt": "Pele escura",
-        "fr": "Peau foncée",
-        "it": "Pelle scura"
+        "en": "The dark skin",
+        "pt": "A pele escura",
+        "fr": "La peau foncée",
+        "it": "La pelle scura"
       },
       "image_url": ""
     },
     {
       "id": "df55",
-      "es": "Bronceado/a (por el sol)",
+      "es": "Bronceado / Bronceada",
       "translations": {
         "en": "Tanned",
         "pt": "Bronzeado / Bronzeada",
         "fr": "Bronzé / Bronzée",
         "it": "Abbronzato / Abbronzata"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "por el sol"
+      }
     },
     {
       "id": "df56",
-      "es": "Pálido/a (aspecto)",
+      "es": "Pálido / Pálida",
       "translations": {
         "en": "Pale",
         "pt": "Pálido / Pálida",
@@ -620,18 +739,24 @@
     },
     {
       "id": "df57",
-      "es": "Estado de ánimo",
+      "es": "El estado de ánimo",
       "translations": {
-        "en": "Mood",
-        "pt": "Humor / Estado de espírito",
-        "fr": "Humeur",
-        "it": "Umore / Stato d'animo"
+        "en": "The mood",
+        "pt": "O estado de espírito",
+        "fr": "L’humeur",
+        "it": "Lo stato d’animo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the moods",
+        "fr": "Plural: les humeurs",
+        "it": "Plural: gli stati d’animo",
+        "pt": "Plural: os estados de espírito"
+      }
     },
     {
       "id": "df58",
-      "es": "Feliz / Contento/a",
+      "es": "Feliz / Contento / Contenta",
       "translations": {
         "en": "Happy / Glad",
         "pt": "Feliz / Contente",
@@ -653,7 +778,7 @@
     },
     {
       "id": "df60",
-      "es": "Tranquilo/a / Calmado/a",
+      "es": "Tranquilo / Tranquila",
       "translations": {
         "en": "Calm",
         "pt": "Tranquilo / Tranquila / Calmo / Calma",
@@ -664,7 +789,7 @@
     },
     {
       "id": "df61",
-      "es": "Relajado/a (sin tensión)",
+      "es": "Relajado / Relajada",
       "translations": {
         "en": "Relaxed",
         "pt": "Relaxado / Relaxada",
@@ -675,7 +800,7 @@
     },
     {
       "id": "df62",
-      "es": "Nervioso/a",
+      "es": "Nervioso / Nerviosa",
       "translations": {
         "en": "Nervous",
         "pt": "Nervoso / Nervosa",
@@ -686,7 +811,7 @@
     },
     {
       "id": "df63",
-      "es": "Preocupado/a",
+      "es": "Preocupado / Preocupada",
       "translations": {
         "en": "Worried",
         "pt": "Preocupado / Preocupada",
@@ -697,21 +822,24 @@
     },
     {
       "id": "df64",
-      "es": "Ansioso/a (con inquietud o ansiedad)",
+      "es": "Ansioso / Ansiosa",
       "translations": {
         "en": "Anxious",
         "pt": "Ansioso / Ansiosa",
         "fr": "Anxieux / Anxieuse",
         "it": "Ansioso / Ansiosa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "con inquietud o ansiedad"
+      }
     },
     {
       "id": "df65",
-      "es": "Animado/a / Entusiasmado/a (con ilusión)",
+      "es": "Entusiasmado / Entusiasmada",
       "translations": {
-        "en": "Excited / Enthusiastic",
-        "pt": "Animado / Animada / Empolgado / Empolgada",
+        "en": "Excited",
+        "pt": "Empolgado / Empolgada",
         "fr": "Enthousiaste",
         "it": "Entusiasta"
       },
@@ -719,18 +847,21 @@
     },
     {
       "id": "df66",
-      "es": "Conmovido/a (tocado/a emocionalmente)",
+      "es": "Conmovido / Conmovida",
       "translations": {
         "en": "Moved / Touched",
         "pt": "Comovido / Comovida",
         "fr": "Ému / Émue",
         "it": "Commosso / Commossa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "tocado/a emocionalmente"
+      }
     },
     {
       "id": "df67",
-      "es": "Sorprendido/a",
+      "es": "Sorprendido / Sorprendida",
       "translations": {
         "en": "Surprised",
         "pt": "Surpreso / Surpresa",
@@ -741,40 +872,50 @@
     },
     {
       "id": "df68",
-      "es": "Confundido/a (no entiendo algo)",
+      "es": "Confundido / Confundida",
       "translations": {
         "en": "Confused",
         "pt": "Confuso / Confusa",
-        "fr": "Perplexe",
+        "fr": "Perdu / Perdue",
         "it": "Confuso / Confusa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "no entiendo algo",
+        "fr": "Perdu expresa desconcierto; confus / confuse también es posible."
+      }
     },
     {
       "id": "df69",
-      "es": "Enojado/a / Enfadado/a",
+      "es": "Enojado / Enojada",
       "translations": {
         "en": "Angry / Mad",
-        "pt": "Bravo / Brava / Zangado / Zangada",
+        "pt": "Zangado / Zangada",
         "fr": "En colère / Fâché / Fâchée",
         "it": "Arrabbiato / Arrabbiata"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Mad significa enojado en EE. UU.; en otros contextos puede significar loco."
+      }
     },
     {
       "id": "df70",
-      "es": "Molesto/a (siento fastidio)",
+      "es": "Molesto / Molesta",
       "translations": {
         "en": "Annoyed",
         "pt": "Irritado / Irritada",
         "fr": "Agacé / Agacée",
         "it": "Infastidito / Infastidita"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "siento fastidio"
+      }
     },
     {
       "id": "df71",
-      "es": "Frustrado/a",
+      "es": "Frustrado / Frustrada",
       "translations": {
         "en": "Frustrated",
         "pt": "Frustrado / Frustrada",
@@ -785,7 +926,7 @@
     },
     {
       "id": "df72",
-      "es": "Decepcionado/a / Desilusionado/a",
+      "es": "Decepcionado / Decepcionada",
       "translations": {
         "en": "Disappointed",
         "pt": "Decepcionado / Decepcionada",
@@ -796,29 +937,36 @@
     },
     {
       "id": "df73",
-      "es": "Avergonzado/a (por una situación incómoda)",
+      "es": "Avergonzado / Avergonzada",
       "translations": {
         "en": "Embarrassed",
         "pt": "Envergonhado / Envergonhada",
         "fr": "Gêné / Gênée / Embarrassé / Embarrassée",
         "it": "Imbarazzato / Imbarazzata"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "por una situación incómoda",
+        "en": "Embarrassed significa avergonzado, no embarazado."
+      }
     },
     {
       "id": "df74",
-      "es": "Orgulloso/a (satisfacción, sin implicar arrogancia)",
+      "es": "Orgulloso / Orgullosa",
       "translations": {
         "en": "Proud",
         "pt": "Orgulhoso / Orgulhosa",
         "fr": "Fier / Fière",
         "it": "Orgoglioso / Orgogliosa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "satisfacción, sin implicar arrogancia"
+      }
     },
     {
       "id": "df75",
-      "es": "Aliviado/a",
+      "es": "Aliviado / Aliviada",
       "translations": {
         "en": "Relieved",
         "pt": "Aliviado / Aliviada",
@@ -829,7 +977,7 @@
     },
     {
       "id": "df76",
-      "es": "Satisfecho/a",
+      "es": "Satisfecho / Satisfecha",
       "translations": {
         "en": "Satisfied",
         "pt": "Satisfeito / Satisfeita",
@@ -840,11 +988,11 @@
     },
     {
       "id": "df77",
-      "es": "Desanimado/a / Decaído/a (ánimo)",
+      "es": "Desanimado / Desanimada",
       "translations": {
-        "en": "Discouraged / Feeling down",
+        "en": "Discouraged",
         "pt": "Desanimado / Desanimada",
-        "fr": "Découragé / Découragée / Abattu / Abattue",
+        "fr": "Découragé / Découragée",
         "it": "Scoraggiato / Scoraggiata"
       },
       "image_url": ""
@@ -873,7 +1021,7 @@
     },
     {
       "id": "df80",
-      "es": "Cansado/a",
+      "es": "Cansado / Cansada",
       "translations": {
         "en": "Tired",
         "pt": "Cansado / Cansada",
@@ -884,18 +1032,21 @@
     },
     {
       "id": "df81",
-      "es": "Agotado/a (muy cansado/a)",
+      "es": "Agotado / Agotada",
       "translations": {
         "en": "Exhausted",
-        "pt": "Exausto / Exausta / Esgotado / Esgotada",
+        "pt": "Exausto / Exausta",
         "fr": "Épuisé / Épuisée",
         "it": "Esausto / Esausta"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "muy cansado/a"
+      }
     },
     {
       "id": "df82",
-      "es": "Descansado/a",
+      "es": "Descansado / Descansada",
       "translations": {
         "en": "Well-rested",
         "pt": "Descansado / Descansada",
@@ -909,7 +1060,7 @@
       "es": "Tengo sueño.",
       "translations": {
         "en": "I'm sleepy.",
-        "pt": "Estou com sono. / Tenho sono.",
+        "pt": "Estou com sono.",
         "fr": "J'ai sommeil.",
         "it": "Ho sonno."
       },
@@ -917,29 +1068,36 @@
     },
     {
       "id": "df84",
-      "es": "Estoy aburrido/a (me aburro).",
+      "es": "Estoy aburrido. / Estoy aburrida.",
       "translations": {
         "en": "I'm bored.",
         "pt": "Estou entediado. / Estou entediada.",
         "fr": "Je m'ennuie.",
         "it": "Sono annoiato. / Sono annoiata."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "me aburro",
+        "en": "Bored describe a quien siente aburrimiento; boring, lo que lo provoca."
+      }
     },
     {
       "id": "df85",
-      "es": "Interesado/a (algo atrae mi atención)",
+      "es": "Interesado / Interesada",
       "translations": {
         "en": "Interested",
         "pt": "Interessado / Interessada",
         "fr": "Intéressé / Intéressée",
         "it": "Interessato / Interessata"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "algo atrae mi atención"
+      }
     },
     {
       "id": "df86",
-      "es": "Distraído/a (atención)",
+      "es": "Distraído / Distraída",
       "translations": {
         "en": "Distracted",
         "pt": "Distraído / Distraída",
@@ -950,7 +1108,7 @@
     },
     {
       "id": "df87",
-      "es": "Concentrado/a (atención)",
+      "es": "Concentrado / Concentrada",
       "translations": {
         "en": "Focused / Concentrated",
         "pt": "Concentrado / Concentrada",
@@ -961,25 +1119,31 @@
     },
     {
       "id": "df88",
-      "es": "Solo/a (sin compañía)",
+      "es": "Solo / Sola",
       "translations": {
         "en": "Alone",
         "pt": "Sozinho / Sozinha",
         "fr": "Seul / Seule",
         "it": "Solo / Sola"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "sin compañía"
+      }
     },
     {
       "id": "df89",
-      "es": "Me siento solo/a (sentimiento de soledad).",
+      "es": "Me siento solo. / Me siento sola.",
       "translations": {
         "en": "I feel lonely.",
         "pt": "Eu me sinto só.",
         "fr": "Je me sens seul. / Je me sens seule.",
         "it": "Mi sento solo. / Mi sento sola."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "sentimiento de soledad"
+      }
     },
     {
       "id": "df90",
@@ -994,84 +1158,96 @@
     },
     {
       "id": "df91",
-      "es": "Personalidad / Forma de ser",
+      "es": "La personalidad",
       "translations": {
-        "en": "Personality",
-        "pt": "Personalidade / Jeito de ser",
-        "fr": "Personnalité",
-        "it": "Personalità"
+        "en": "The personality",
+        "pt": "A personalidade",
+        "fr": "La personnalité",
+        "it": "La personalità"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the personalities",
+        "fr": "Plural: les personnalités",
+        "it": "Plural: le personalità",
+        "pt": "Plural: as personalidades"
+      }
     },
     {
       "id": "df92",
-      "es": "Simpático/a / Amigable (trato agradable)",
+      "es": "Simpático / Simpática",
       "translations": {
-        "en": "Friendly / Likable",
-        "pt": "Simpático / Simpática / Amigável",
-        "fr": "Sympathique / Sympa",
-        "it": "Simpatico / Simpatica / Affabile"
+        "en": "Friendly",
+        "pt": "Simpático / Simpática",
+        "fr": "Sympathique",
+        "it": "Simpatico / Simpatica"
       },
       "image_url": ""
     },
     {
       "id": "df93",
-      "es": "Antipático/a (trato desagradable)",
+      "es": "Antipático / Antipática",
       "translations": {
-        "en": "Unfriendly / Unpleasant",
+        "en": "Unfriendly",
         "pt": "Antipático / Antipática",
-        "fr": "Antipathique / Désagréable",
+        "fr": "Antipathique",
         "it": "Antipatico / Antipatica"
       },
       "image_url": ""
     },
     {
       "id": "df94",
-      "es": "Amable / Bondadoso/a",
+      "es": "Amable",
       "translations": {
-        "en": "Kind / Nice",
-        "pt": "Gentil / Amável / Bondoso / Bondosa",
-        "fr": "Gentil / Gentille / Aimable",
-        "it": "Gentile / Buono / Buona"
+        "en": "Kind",
+        "pt": "Gentil",
+        "fr": "Gentil / Gentille",
+        "it": "Gentile"
       },
       "image_url": ""
     },
     {
       "id": "df95",
-      "es": "Educado/a / Cortés (buenos modales)",
+      "es": "Educado / Educada",
       "translations": {
-        "en": "Polite / Well-mannered",
-        "pt": "Educado / Educada / Bem-educado / Bem-educada",
+        "en": "Polite",
+        "pt": "Educado / Educada",
         "fr": "Poli / Polie",
-        "it": "Educato / Educata / Cortese"
+        "it": "Educato / Educata"
       },
       "image_url": ""
     },
     {
       "id": "df96",
-      "es": "Grosero/a / Maleducado/a (modales)",
+      "es": "Grosero / Grosera",
       "translations": {
-        "en": "Rude / Impolite",
-        "pt": "Grosseiro / Grosseira / Mal-educado / Mal-educada",
-        "fr": "Grossier / Grossière / Impoli / Impolie",
-        "it": "Maleducato / Maleducata / Scortese"
+        "en": "Rude",
+        "pt": "Grosseiro / Grosseira",
+        "fr": "Grossier / Grossière",
+        "it": "Maleducato / Maleducata"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "modales"
+      }
     },
     {
       "id": "df97",
-      "es": "Culto/a / Instruido/a (formación o conocimientos)",
+      "es": "Culto / Culta",
       "translations": {
-        "en": "Educated / Well-educated",
-        "pt": "Culto / Culta / Instruído / Instruída",
-        "fr": "Cultivé / Cultivée / Instruit / Instruite",
-        "it": "Colto / Colta / Istruito / Istruita"
+        "en": "Well-educated",
+        "pt": "Culto / Culta",
+        "fr": "Cultivé / Cultivée",
+        "it": "Colto / Colta"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "formación o conocimientos"
+      }
     },
     {
       "id": "df98",
-      "es": "Tímido/a",
+      "es": "Tímido / Tímida",
       "translations": {
         "en": "Shy",
         "pt": "Tímido / Tímida",
@@ -1082,7 +1258,7 @@
     },
     {
       "id": "df99",
-      "es": "Extrovertido/a",
+      "es": "Extrovertido / Extrovertida",
       "translations": {
         "en": "Outgoing / Extroverted",
         "pt": "Extrovertido / Extrovertida",
@@ -1093,32 +1269,38 @@
     },
     {
       "id": "df100",
-      "es": "Introvertido/a (no equivale necesariamente a tímido/a)",
+      "es": "Introvertido / Introvertida",
       "translations": {
         "en": "Introverted",
         "pt": "Introvertido / Introvertida",
         "fr": "Introverti / Introvertie",
         "it": "Introverso / Introversa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Ser introvertido no implica necesariamente ser tímido."
+      }
     },
     {
       "id": "df101",
-      "es": "Reservado/a (habla poco de sí mismo/a)",
+      "es": "Reservado / Reservada",
       "translations": {
         "en": "Reserved",
         "pt": "Reservado / Reservada",
         "fr": "Réservé / Réservée",
         "it": "Riservato / Riservata"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "habla poco de sí mismo/a"
+      }
     },
     {
       "id": "df102",
-      "es": "Hablador/a",
+      "es": "Hablador / Habladora",
       "translations": {
         "en": "Talkative / Chatty",
-        "pt": "Falante / Falador / Faladora",
+        "pt": "Falador / Faladora",
         "fr": "Bavard / Bavarde",
         "it": "Chiacchierone / Chiacchierona"
       },
@@ -1126,43 +1308,52 @@
     },
     {
       "id": "df103",
-      "es": "Callado/a (habla poco)",
+      "es": "Callado / Callada",
       "translations": {
         "en": "Quiet",
         "pt": "Calado / Calada",
-        "fr": "Peu bavard / Peu bavarde / Silencieux / Silencieuse",
-        "it": "Taciturno / Taciturna / Silenzioso / Silenziosa"
+        "fr": "Peu bavard / Peu bavarde",
+        "it": "Di poche parole"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "habla poco"
+      }
     },
     {
       "id": "df104",
-      "es": "Gracioso/a (hace reír)",
+      "es": "Gracioso / Graciosa",
       "translations": {
-        "en": "Funny / Humorous",
+        "en": "Funny",
         "pt": "Engraçado / Engraçada",
         "fr": "Drôle",
         "it": "Spiritoso / Spiritosa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "hace reír"
+      }
     },
     {
       "id": "df105",
-      "es": "Divertido/a (entretenido/a)",
+      "es": "Divertido / Divertida",
       "translations": {
-        "en": "Fun / Entertaining",
+        "en": "Fun",
         "pt": "Divertido / Divertida",
         "fr": "Amusant / Amusante",
         "it": "Divertente"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "entretenido/a"
+      }
     },
     {
       "id": "df106",
-      "es": "Aburrido/a (causa aburrimiento)",
+      "es": "Aburrido / Aburrida",
       "translations": {
         "en": "Boring",
-        "pt": "Chato / Chata / Entediante",
+        "pt": "Chato / Chata",
         "fr": "Ennuyeux / Ennuyeuse",
         "it": "Noioso / Noiosa"
       },
@@ -1170,7 +1361,7 @@
     },
     {
       "id": "df107",
-      "es": "Interesante (despierta interés)",
+      "es": "Interesante",
       "translations": {
         "en": "Interesting",
         "pt": "Interessante",
@@ -1181,11 +1372,11 @@
     },
     {
       "id": "df108",
-      "es": "Molesto/a (causa fastidio)",
+      "es": "Fastidioso / Fastidiosa",
       "translations": {
-        "en": "Annoying / Irritating",
+        "en": "Annoying",
         "pt": "Irritante",
-        "fr": "Agaçant / Agaçante / Irritant / Irritante",
+        "fr": "Agaçant / Agaçante",
         "it": "Fastidioso / Fastidiosa"
       },
       "image_url": ""
@@ -1194,7 +1385,7 @@
       "id": "df109",
       "es": "Inteligente",
       "translations": {
-        "en": "Intelligent / Smart",
+        "en": "Intelligent",
         "pt": "Inteligente",
         "fr": "Intelligent / Intelligente",
         "it": "Intelligente"
@@ -1203,40 +1394,50 @@
     },
     {
       "id": "df110",
-      "es": "Tonto/a (falta de buen juicio; puede ser despectivo)",
+      "es": "Tonto / Tonta",
       "translations": {
-        "en": "Silly / Foolish",
-        "pt": "Bobo / Boba / Tolo / Tola",
-        "fr": "Bête / Sot / Sotte",
+        "en": "Foolish",
+        "pt": "Bobo / Boba",
+        "fr": "Bête",
         "it": "Sciocco / Sciocca"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "falta de buen juicio; puede ser despectivo"
+      }
     },
     {
       "id": "df111",
-      "es": "Sensible (emocionalmente)",
+      "es": "Sensible",
       "translations": {
         "en": "Sensitive",
         "pt": "Sensível",
         "fr": "Sensible",
         "it": "Sensibile"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "emocionalmente",
+        "en": "Sensitive significa sensible en lo emocional; sensible significa sensato."
+      }
     },
     {
       "id": "df112",
-      "es": "Sensato/a (tiene buen criterio)",
+      "es": "Sensato / Sensata",
       "translations": {
-        "en": "Sensible / Level-headed",
+        "en": "Sensible",
         "pt": "Sensato / Sensata",
         "fr": "Raisonnable",
         "it": "Sensato / Sensata"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Sensible significa sensato, no sensible emocionalmente."
+      }
     },
     {
       "id": "df113",
-      "es": "Paciente (sabe esperar)",
+      "es": "Paciente",
       "translations": {
         "en": "Patient",
         "pt": "Paciente",
@@ -1258,25 +1459,31 @@
     },
     {
       "id": "df115",
-      "es": "Trabajador/a (se esfuerza en su trabajo)",
+      "es": "Trabajador / Trabajadora",
       "translations": {
         "en": "Hardworking",
-        "pt": "Trabalhador / Trabalhadora / Esforçado / Esforçada",
+        "pt": "Trabalhador / Trabalhadora",
         "fr": "Travailleur / Travailleuse",
         "it": "Laborioso / Laboriosa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "se esfuerza en su trabajo"
+      }
     },
     {
       "id": "df116",
-      "es": "Perezoso/a / Flojo/a (poco dispuesto/a a trabajar)",
+      "es": "Flojo / Floja",
       "translations": {
         "en": "Lazy",
         "pt": "Preguiçoso / Preguiçosa",
         "fr": "Paresseux / Paresseuse",
         "it": "Pigro / Pigra"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "poco dispuesto/a a trabajar"
+      }
     },
     {
       "id": "df117",
@@ -1302,7 +1509,7 @@
     },
     {
       "id": "df119",
-      "es": "Generoso/a",
+      "es": "Generoso / Generosa",
       "translations": {
         "en": "Generous",
         "pt": "Generoso / Generosa",
@@ -1324,18 +1531,21 @@
     },
     {
       "id": "df121",
-      "es": "Honesto/a (integridad)",
+      "es": "Honesto / Honesta",
       "translations": {
         "en": "Honest",
         "pt": "Honesto / Honesta",
         "fr": "Honnête",
         "it": "Onesto / Onesta"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "integridad"
+      }
     },
     {
       "id": "df122",
-      "es": "Deshonesto/a",
+      "es": "Deshonesto / Deshonesta",
       "translations": {
         "en": "Dishonest",
         "pt": "Desonesto / Desonesta",
@@ -1346,32 +1556,35 @@
     },
     {
       "id": "df123",
-      "es": "Sincero/a (expresa lo que realmente siente o piensa)",
+      "es": "Sincero / Sincera",
       "translations": {
-        "en": "Sincere / Genuine",
+        "en": "Sincere",
         "pt": "Sincero / Sincera",
         "fr": "Sincère",
         "it": "Sincero / Sincera"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "expresa lo que realmente siente o piensa"
+      }
     },
     {
       "id": "df124",
-      "es": "Ordenado/a / Organizado/a",
+      "es": "Organizado / Organizada",
       "translations": {
-        "en": "Organized / Tidy",
-        "pt": "Organizado / Organizada / Arrumado / Arrumada",
-        "fr": "Organisé / Organisée / Ordonné / Ordonnée",
-        "it": "Ordinato / Ordinata / Organizzato / Organizzata"
+        "en": "Organized",
+        "pt": "Organizado / Organizada",
+        "fr": "Organisé / Organisée",
+        "it": "Organizzato / Organizzata"
       },
       "image_url": ""
     },
     {
       "id": "df125",
-      "es": "Desordenado/a",
+      "es": "Desordenado / Desordenada",
       "translations": {
-        "en": "Messy / Disorganized",
-        "pt": "Desorganizado / Desorganizada / Desarrumado / Desarrumada",
+        "en": "Disorganized",
+        "pt": "Desorganizado / Desorganizada",
         "fr": "Désordonné / Désordonnée",
         "it": "Disordinato / Disordinata"
       },
@@ -1403,7 +1616,7 @@
       "id": "df128",
       "es": "Valiente",
       "translations": {
-        "en": "Brave / Courageous",
+        "en": "Brave",
         "pt": "Corajoso / Corajosa",
         "fr": "Courageux / Courageuse",
         "it": "Coraggioso / Coraggiosa"
@@ -1412,9 +1625,9 @@
     },
     {
       "id": "df129",
-      "es": "Miedoso/a (se asusta fácilmente)",
+      "es": "Miedoso / Miedosa",
       "translations": {
-        "en": "Easily frightened / Fearful",
+        "en": "Fearful",
         "pt": "Medroso / Medrosa",
         "fr": "Peureux / Peureuse",
         "it": "Pauroso / Paurosa"
@@ -1423,9 +1636,9 @@
     },
     {
       "id": "df130",
-      "es": "Seguro/a de sí mismo/a",
+      "es": "Seguro de sí mismo / Segura de sí misma",
       "translations": {
-        "en": "Confident / Self-confident",
+        "en": "Self-confident",
         "pt": "Seguro de si / Segura de si",
         "fr": "Sûr de soi / Sûre de soi",
         "it": "Sicuro di sé / Sicura di sé"
@@ -1434,9 +1647,9 @@
     },
     {
       "id": "df131",
-      "es": "Inseguro/a de sí mismo/a",
+      "es": "Inseguro de sí mismo / Insegura de sí misma",
       "translations": {
-        "en": "Insecure / Lacking confidence",
+        "en": "Insecure",
         "pt": "Inseguro de si / Insegura de si",
         "fr": "Peu sûr de soi / Peu sûre de soi",
         "it": "Insicuro di sé / Insicura di sé"
@@ -1445,29 +1658,32 @@
     },
     {
       "id": "df132",
-      "es": "Confiable / Fiable (se puede confiar en esa persona)",
+      "es": "Confiable",
       "translations": {
-        "en": "Reliable / Trustworthy",
+        "en": "Trustworthy",
         "pt": "Confiável",
-        "fr": "Fiable / Digne de confiance",
+        "fr": "Digne de confiance",
         "it": "Affidabile"
       },
       "image_url": ""
     },
     {
       "id": "df133",
-      "es": "Desconfiado/a (le cuesta confiar)",
+      "es": "Desconfiado / Desconfiada",
       "translations": {
-        "en": "Distrustful / Suspicious",
+        "en": "Distrustful",
         "pt": "Desconfiado / Desconfiada",
         "fr": "Méfiant / Méfiante",
         "it": "Diffidente"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "le cuesta confiar"
+      }
     },
     {
       "id": "df134",
-      "es": "Comprensivo/a",
+      "es": "Comprensivo / Comprensiva",
       "translations": {
         "en": "Understanding",
         "pt": "Compreensivo / Compreensiva",
@@ -1478,7 +1694,7 @@
     },
     {
       "id": "df135",
-      "es": "Terco/a / Testarudo/a",
+      "es": "Terco / Terca",
       "translations": {
         "en": "Stubborn",
         "pt": "Teimoso / Teimosa",
@@ -1489,18 +1705,21 @@
     },
     {
       "id": "df136",
-      "es": "Curioso/a (quiere aprender o saber)",
+      "es": "Curioso / Curiosa",
       "translations": {
         "en": "Curious",
         "pt": "Curioso / Curiosa",
         "fr": "Curieux / Curieuse",
         "it": "Curioso / Curiosa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "quiere aprender o saber"
+      }
     },
     {
       "id": "df137",
-      "es": "Creativo/a",
+      "es": "Creativo / Creativa",
       "translations": {
         "en": "Creative",
         "pt": "Criativo / Criativa",
@@ -1511,9 +1730,9 @@
     },
     {
       "id": "df138",
-      "es": "Cariñoso/a",
+      "es": "Cariñoso / Cariñosa",
       "translations": {
-        "en": "Affectionate / Loving",
+        "en": "Affectionate",
         "pt": "Carinhoso / Carinhosa",
         "fr": "Affectueux / Affectueuse",
         "it": "Affettuoso / Affettuosa"
@@ -1522,7 +1741,7 @@
     },
     {
       "id": "df139",
-      "es": "Celoso/a (en las relaciones)",
+      "es": "Celoso / Celosa",
       "translations": {
         "en": "Jealous",
         "pt": "Ciumento / Ciumenta",
@@ -1533,7 +1752,7 @@
     },
     {
       "id": "df140",
-      "es": "Serio/a (forma de ser)",
+      "es": "Serio / Seria",
       "translations": {
         "en": "Serious",
         "pt": "Sério / Séria",
@@ -1544,23 +1763,26 @@
     },
     {
       "id": "df141",
-      "es": "Arrogante (actitud de superioridad)",
+      "es": "Arrogante",
       "translations": {
         "en": "Arrogant",
         "pt": "Arrogante",
         "fr": "Arrogant / Arrogante",
         "it": "Arrogante"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "actitud de superioridad"
+      }
     },
     {
       "id": "df142",
-      "es": "Humilde / Modesto/a",
+      "es": "Humilde",
       "translations": {
-        "en": "Humble / Modest",
-        "pt": "Humilde / Modesto / Modesta",
-        "fr": "Humble / Modeste",
-        "it": "Umile / Modesto / Modesta"
+        "en": "Humble",
+        "pt": "Humilde",
+        "fr": "Humble",
+        "it": "Umile"
       },
       "image_url": ""
     },
@@ -1568,7 +1790,7 @@
       "id": "df143",
       "es": "Puntual",
       "translations": {
-        "en": "Punctual / On time",
+        "en": "Punctual",
         "pt": "Pontual",
         "fr": "Ponctuel / Ponctuelle",
         "it": "Puntuale"
@@ -1577,18 +1799,21 @@
     },
     {
       "id": "df144",
-      "es": "Impuntual (llega tarde con frecuencia)",
+      "es": "Impuntual",
       "translations": {
-        "en": "Often late / Unpunctual",
+        "en": "Often late",
         "pt": "Impontual",
         "fr": "Souvent en retard",
         "it": "Poco puntuale"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "llega tarde con frecuencia"
+      }
     },
     {
       "id": "df145",
-      "es": "¿Cómo es físicamente? (él/ella)",
+      "es": "¿Cómo es físicamente?",
       "translations": {
         "en": "What does he look like? / What does she look like?",
         "pt": "Como ele é fisicamente? / Como ela é fisicamente?",
@@ -1599,7 +1824,7 @@
     },
     {
       "id": "df146",
-      "es": "¿Cómo es su personalidad? (de él/ella)",
+      "es": "¿Cómo es su personalidad?",
       "translations": {
         "en": "What's he like? / What's she like?",
         "pt": "Como é a personalidade dele? / Como é a personalidade dela?",
@@ -1632,14 +1857,18 @@
     },
     {
       "id": "df149",
-      "es": "Mido un metro setenta y cinco (aprox. cinco pies y nueve pulgadas).",
+      "es": "Mido un metro setenta y cinco.",
       "translations": {
-        "en": "I'm one point seven five meters tall. / I'm about five feet nine inches tall.",
+        "en": "I'm five feet nine inches tall.",
         "pt": "Tenho um metro e setenta e cinco de altura.",
         "fr": "Je mesure un mètre soixante-quinze.",
         "it": "Sono alto un metro e settantacinque. / Sono alta un metro e settantacinque."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "aprox. cinco pies y nueve pulgadas",
+        "en": "Aproximadamente 1.75 m; se usa el sistema imperial en EE. UU."
+      }
     },
     {
       "id": "df150",
@@ -1665,7 +1894,7 @@
     },
     {
       "id": "df152",
-      "es": "¿Lleva barba?",
+      "es": "¿Tiene barba?",
       "translations": {
         "en": "Does he have a beard?",
         "pt": "Ele tem barba?",
@@ -1687,10 +1916,10 @@
     },
     {
       "id": "df154",
-      "es": "¿Cuál de ellos/as es?",
+      "es": "¿Cuál de ellos es? / ¿Cuál de ellas es?",
       "translations": {
         "en": "Which one is he? / Which one is she?",
-        "pt": "Qual deles é ele? / Qual delas é ela?",
+        "pt": "Qual deles é? / Qual delas é?",
         "fr": "Lequel est-ce ? / Laquelle est-ce ?",
         "it": "Quale di loro è lui? / Quale di loro è lei?"
       },
@@ -1720,7 +1949,7 @@
     },
     {
       "id": "df157",
-      "es": "Es más alto/a que yo.",
+      "es": "Es más alto que yo. / Es más alta que yo.",
       "translations": {
         "en": "He's taller than me. / She's taller than me.",
         "pt": "Ele é mais alto do que eu. / Ela é mais alta do que eu.",
@@ -1753,7 +1982,7 @@
     },
     {
       "id": "df160",
-      "es": "No sé cómo describirlo/la.",
+      "es": "No sé cómo describirlo. / No sé cómo describirla.",
       "translations": {
         "en": "I don't know how to describe him. / I don't know how to describe her.",
         "pt": "Não sei como descrevê-lo. / Não sei como descrevê-la.",
@@ -1786,25 +2015,28 @@
     },
     {
       "id": "df163",
-      "es": "Hoy me siento mejor / Hoy me siento peor.",
+      "es": "Hoy me siento mejor. / Hoy me siento peor.",
       "translations": {
-        "en": "I feel better today / I feel worse today.",
-        "pt": "Hoje me sinto melhor / Hoje me sinto pior.",
-        "fr": "Aujourd'hui, je me sens mieux / Aujourd'hui, je me sens moins bien.",
-        "it": "Oggi mi sento meglio / Oggi mi sento peggio."
+        "en": "I feel better today. / I feel worse today.",
+        "pt": "Hoje me sinto melhor. / Hoje me sinto pior.",
+        "fr": "Aujourd'hui, je me sens mieux. / Aujourd'hui, je me sens moins bien.",
+        "it": "Oggi mi sento meglio. / Oggi mi sento peggio."
       },
       "image_url": ""
     },
     {
       "id": "df164",
-      "es": "No soy aburrido/a; estoy aburrido/a.",
+      "es": "No soy aburrido; estoy aburrido. / No soy aburrida; estoy aburrida.",
       "translations": {
         "en": "I'm not boring; I'm bored.",
         "pt": "Não sou chato; estou entediado. / Não sou chata; estou entediada.",
         "fr": "Je ne suis pas ennuyeux ; je m'ennuie. / Je ne suis pas ennuyeuse ; je m'ennuie.",
         "it": "Non sono noioso; sono annoiato. / Non sono noiosa; sono annoiata."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Boring causa aburrimiento; bored lo siente."
+      }
     },
     {
       "id": "df165",
@@ -1819,7 +2051,7 @@
     },
     {
       "id": "df166",
-      "es": "Soy tranquilo/a, pero hoy estoy nervioso/a.",
+      "es": "Soy tranquilo, pero hoy estoy nervioso. / Soy tranquila, pero hoy estoy nerviosa.",
       "translations": {
         "en": "I'm a calm person, but I'm nervous today.",
         "pt": "Sou uma pessoa tranquila, mas hoje estou nervoso. / Sou uma pessoa tranquila, mas hoje estou nervosa.",
@@ -1830,7 +2062,7 @@
     },
     {
       "id": "df167",
-      "es": "Soy tímido/a al principio.",
+      "es": "Soy tímido al principio. / Soy tímida al principio.",
       "translations": {
         "en": "I'm shy at first.",
         "pt": "Sou tímido no começo. / Sou tímida no começo.",
@@ -1841,7 +2073,7 @@
     },
     {
       "id": "df168",
-      "es": "Me pongo nervioso/a cuando hablo con desconocidos.",
+      "es": "Me pongo nervioso cuando hablo con desconocidos. / Me pongo nerviosa cuando hablo con desconocidos.",
       "translations": {
         "en": "I get nervous when I talk to strangers.",
         "pt": "Fico nervoso quando falo com desconhecidos. / Fico nervosa quando falo com desconhecidos.",
@@ -1852,7 +2084,7 @@
     },
     {
       "id": "df169",
-      "es": "No es antipático/a; solo es reservado/a.",
+      "es": "No es antipático; solo es reservado. / No es antipática; solo es reservada.",
       "translations": {
         "en": "He's not unfriendly; he's just reserved. / She's not unfriendly; she's just reserved.",
         "pt": "Ele não é antipático; só é reservado. / Ela não é antipática; só é reservada.",
@@ -1893,6 +2125,136 @@
         "it": "La sua personalità è molto diversa dalla mia."
       },
       "image_url": ""
+    },
+    {
+      "id": "df173",
+      "es": "La sonrisa",
+      "translations": {
+        "en": "The smile",
+        "pt": "O sorriso",
+        "fr": "Le sourire",
+        "it": "Il sorriso"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the smiles",
+        "fr": "Plural: les sourires",
+        "it": "Plural: i sorrisi",
+        "pt": "Plural: os sorrisos"
+      }
+    },
+    {
+      "id": "df174",
+      "es": "La nariz",
+      "translations": {
+        "en": "The nose",
+        "pt": "O nariz",
+        "fr": "Le nez",
+        "it": "Il naso"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the noses",
+        "fr": "Plural: les nez",
+        "it": "Plural: i nasi",
+        "pt": "Plural: os narizes"
+      }
+    },
+    {
+      "id": "df175",
+      "es": "Los labios",
+      "translations": {
+        "en": "The lips",
+        "pt": "Os lábios",
+        "fr": "Les lèvres",
+        "it": "Le labbra"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Singular: the lip",
+        "fr": "Singular: la lèvre",
+        "it": "Singular: il labbro",
+        "pt": "Singular: o lábio"
+      }
+    },
+    {
+      "id": "df176",
+      "es": "La cara",
+      "translations": {
+        "en": "The face",
+        "pt": "O rosto",
+        "fr": "Le visage",
+        "it": "Il viso"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the faces",
+        "fr": "Plural: les visages",
+        "it": "Plural: i visi",
+        "pt": "Plural: os rostos"
+      }
+    },
+    {
+      "id": "df177",
+      "es": "Corto / Corta",
+      "translations": {
+        "en": "Short",
+        "pt": "Curto / Curta",
+        "fr": "Court / Courte",
+        "it": "Corto / Corta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "df178",
+      "es": "Los ojos azules",
+      "translations": {
+        "en": "The blue eyes",
+        "pt": "Os olhos azuis",
+        "fr": "Les yeux bleus",
+        "it": "Gli occhi azzurri"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Singular: the blue eye",
+        "fr": "Singular: l’œil bleu",
+        "it": "Singular: l’occhio azzurro",
+        "pt": "Singular: o olho azul"
+      }
+    },
+    {
+      "id": "df179",
+      "es": "Los ojos verdes",
+      "translations": {
+        "en": "The green eyes",
+        "pt": "Os olhos verdes",
+        "fr": "Les yeux verts",
+        "it": "Gli occhi verdi"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Singular: the green eye",
+        "fr": "Singular: l’œil vert",
+        "it": "Singular: l’occhio verde",
+        "pt": "Singular: o olho verde"
+      }
+    },
+    {
+      "id": "df180",
+      "es": "Los ojos cafés",
+      "translations": {
+        "en": "The brown eyes",
+        "pt": "Os olhos castanhos",
+        "fr": "Les yeux marron",
+        "it": "Gli occhi marroni"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Singular: the brown eye",
+        "fr": "Singular: l’œil marron",
+        "it": "Singular: l’occhio marrone",
+        "pt": "Singular: o olho castanho"
+      }
     }
   ]
 }
