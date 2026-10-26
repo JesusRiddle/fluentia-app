@@ -1,380 +1,580 @@
 {
   "module": "Compras y Dinero",
   "level": "A1",
+  "revisado": "true",
   "cards": [
     {
       "id": "cd1",
-      "es": "Compras (adquisición de productos)",
+      "es": "Las compras",
       "translations": {
-        "en": "Shopping / Purchases",
-        "pt": "Compras",
-        "fr": "Achats",
-        "it": "Acquisti"
+        "en": "Shopping",
+        "fr": "Les achats",
+        "it": "Gli acquisti",
+        "pt": "As compras"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Actividad de comprar productos; se usa normalmente en plural.",
+        "en": "Shopping es incontable.",
+        "fr": "Uso habitual en plural.",
+        "it": "Uso habitual en plural."
+      }
     },
     {
       "id": "cd2",
-      "es": "Producto / Artículo (mercancía)",
+      "es": "El producto / El artículo",
       "translations": {
-        "en": "Product / Item",
-        "pt": "Produto / Artigo",
-        "fr": "Produit / Article",
-        "it": "Prodotto / Articolo"
+        "en": "The product / The item",
+        "fr": "Le produit / L’article",
+        "it": "Il prodotto / L’articolo",
+        "pt": "O produto / O artigo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the products / the items",
+        "fr": "Plural: les produits / les articles",
+        "it": "Plural: i prodotti / gli articoli",
+        "pt": "Plural: os produtos / os artigos"
+      }
     },
     {
       "id": "cd3",
-      "es": "Caja (punto de pago)",
+      "es": "La caja",
       "translations": {
-        "en": "Checkout",
-        "pt": "Caixa",
-        "fr": "Caisse",
-        "it": "Cassa"
+        "en": "The checkout",
+        "fr": "La caisse",
+        "it": "La cassa",
+        "pt": "O caixa"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the checkouts",
+        "fr": "Plural: les caisses",
+        "it": "Plural: le casse",
+        "pt": "Plural: os caixas",
+        "es": "Punto de pago de una tienda."
+      }
     },
     {
       "id": "cd4",
-      "es": "Caja registradora",
+      "es": "La caja registradora",
       "translations": {
-        "en": "Cash register",
-        "pt": "Caixa registradora",
-        "fr": "Caisse enregistreuse",
-        "it": "Registratore di cassa"
+        "en": "The cash register",
+        "fr": "La caisse enregistreuse",
+        "it": "Il registratore di cassa",
+        "pt": "A caixa registradora"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cash registers",
+        "fr": "Plural: les caisses enregistreuses",
+        "it": "Plural: i registratori di cassa",
+        "pt": "Plural: as caixas registradoras"
+      }
     },
     {
       "id": "cd5",
-      "es": "Carrito de compras",
+      "es": "El carrito de compras",
       "translations": {
-        "en": "Shopping cart",
-        "pt": "Carrinho de compras",
-        "fr": "Chariot / Caddie",
-        "it": "Carrello della spesa"
+        "en": "The shopping cart",
+        "fr": "Le chariot",
+        "it": "Il carrello della spesa",
+        "pt": "O carrinho de compras"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the shopping carts",
+        "fr": "Plural: les chariots",
+        "it": "Plural: i carrelli della spesa",
+        "pt": "Plural: os carrinhos de compras"
+      }
     },
     {
       "id": "cd6",
-      "es": "Canasta de compras",
+      "es": "La canasta de compras",
       "translations": {
-        "en": "Shopping basket",
-        "pt": "Cesta de compras",
-        "fr": "Panier de courses",
-        "it": "Cestino della spesa"
+        "en": "The shopping basket",
+        "fr": "Le panier de courses",
+        "it": "Il cestino della spesa",
+        "pt": "A cesta de compras"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the shopping baskets",
+        "fr": "Plural: les paniers de courses",
+        "it": "Plural: i cestini della spesa",
+        "pt": "Plural: as cestas de compras"
+      }
     },
     {
       "id": "cd7",
-      "es": "Pasillo (entre estantes de una tienda)",
+      "es": "El pasillo",
       "translations": {
-        "en": "Aisle",
-        "pt": "Corredor",
-        "fr": "Allée",
-        "it": "Corsia"
+        "en": "The aisle",
+        "fr": "L’allée",
+        "it": "La corsia",
+        "pt": "O corredor"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the aisles",
+        "fr": "Plural: les allées",
+        "it": "Plural: le corsie",
+        "pt": "Plural: os corredores"
+      }
     },
     {
       "id": "cd8",
-      "es": "Sección / Departamento (de una tienda)",
+      "es": "La sección / El departamento",
       "translations": {
-        "en": "Department / Section",
-        "pt": "Seção / Departamento",
-        "fr": "Rayon",
-        "it": "Reparto"
+        "en": "The section / The department",
+        "fr": "Le rayon / Le département",
+        "it": "Il reparto / La sezione",
+        "pt": "A seção / O departamento"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sections / the departments",
+        "fr": "Plural: les rayons / les départements",
+        "it": "Plural: i reparti / le sezioni",
+        "pt": "Plural: as seções / os departamentos"
+      }
     },
     {
       "id": "cd9",
-      "es": "Etiqueta de precio",
+      "es": "La etiqueta de precio",
       "translations": {
-        "en": "Price tag",
-        "pt": "Etiqueta de preço",
-        "fr": "Étiquette de prix",
-        "it": "Cartellino del prezzo"
+        "en": "The price tag",
+        "fr": "L’étiquette de prix",
+        "it": "Il cartellino del prezzo",
+        "pt": "A etiqueta de preço"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the price tags",
+        "fr": "Plural: les étiquettes de prix",
+        "it": "Plural: i cartellini del prezzo",
+        "pt": "Plural: as etiquetas de preço"
+      }
     },
     {
       "id": "cd10",
-      "es": "Código de barras",
+      "es": "El código de barras",
       "translations": {
-        "en": "Barcode",
-        "pt": "Código de barras",
-        "fr": "Code-barres",
-        "it": "Codice a barre"
+        "en": "The barcode",
+        "fr": "Le code-barres",
+        "it": "Il codice a barre",
+        "pt": "O código de barras"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the barcodes",
+        "fr": "Plural: les codes-barres",
+        "it": "Plural: i codici a barre",
+        "pt": "Plural: os códigos de barras"
+      }
     },
     {
       "id": "cd11",
-      "es": "Oferta / Promoción (comercial)",
+      "es": "La oferta / La promoción",
       "translations": {
-        "en": "Special offer / Promotion",
-        "pt": "Oferta / Promoção",
-        "fr": "Offre spéciale / Promotion",
-        "it": "Offerta / Promozione"
+        "en": "The special offer / The promotion",
+        "fr": "L’offre spéciale / La promotion",
+        "it": "L’offerta / La promozione",
+        "pt": "A oferta / A promoção"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the special offers / the promotions",
+        "fr": "Plural: les offres spéciales / les promotions",
+        "it": "Plural: le offerte / le promozioni",
+        "pt": "Plural: as ofertas / as promoções"
+      }
     },
     {
       "id": "cd12",
-      "es": "Descuento (reducción del precio)",
+      "es": "El descuento",
       "translations": {
-        "en": "Discount",
-        "pt": "Desconto",
-        "fr": "Réduction / Remise",
-        "it": "Sconto"
+        "en": "The discount",
+        "fr": "La réduction / La remise",
+        "it": "Lo sconto",
+        "pt": "O desconto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the discounts",
+        "fr": "Plural: les réductions / les remises",
+        "it": "Plural: gli sconti",
+        "pt": "Plural: os descontos"
+      }
     },
     {
       "id": "cd13",
-      "es": "Rebajas / Liquidación (venta con descuentos)",
+      "es": "Las rebajas / La liquidación",
       "translations": {
-        "en": "Sale / Clearance sale",
-        "pt": "Liquidação",
-        "fr": "Soldes / Déstockage",
-        "it": "Saldi / Liquidazione"
+        "en": "The sale / The clearance sale",
+        "fr": "Les soldes / Le déstockage",
+        "it": "I saldi / La liquidazione",
+        "pt": "A liquidação"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as liquidações",
+        "es": "Descuentos de temporada o venta de liquidación.",
+        "en": "Sale y clearance sale no son completamente intercambiables.",
+        "fr": "Les soldes son rebajas reglamentadas; déstockage es liquidación.",
+        "it": "I saldi son rebajas de temporada; liquidazione es liquidación."
+      }
     },
     {
       "id": "cd14",
-      "es": "Caro/a (precio)",
+      "es": "Caro / Cara",
       "translations": {
         "en": "Expensive",
-        "pt": "Caro / Cara",
         "fr": "Cher / Chère",
-        "it": "Caro / Cara"
+        "it": "Caro / Cara",
+        "pt": "Caro / Cara"
       },
       "image_url": ""
     },
     {
       "id": "cd15",
-      "es": "Barato/a / Económico/a (precio)",
+      "es": "Barato / Barata / Económico / Económica",
       "translations": {
         "en": "Cheap / Inexpensive",
-        "pt": "Barato / Barata / Econômico / Econômica",
         "fr": "Bon marché / Pas cher / Pas chère",
-        "it": "Economico / Economica / A buon mercato"
+        "it": "Economico / Economica / A buon mercato",
+        "pt": "Barato / Barata / Econômico / Econômica"
       },
       "image_url": ""
     },
     {
       "id": "cd16",
-      "es": "Presupuesto (dinero disponible para gastar)",
+      "es": "El presupuesto",
       "translations": {
-        "en": "Budget",
-        "pt": "Orçamento",
-        "fr": "Budget",
-        "it": "Budget"
+        "en": "The budget",
+        "fr": "Le budget",
+        "it": "Il budget",
+        "pt": "O orçamento"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the budgets",
+        "fr": "Plural: les budgets",
+        "it": "Plural: i budget",
+        "pt": "Plural: os orçamentos"
+      }
     },
     {
       "id": "cd17",
-      "es": "Importe / Monto (cantidad de dinero)",
+      "es": "El monto / El importe",
       "translations": {
-        "en": "Amount",
-        "pt": "Valor / Quantia",
-        "fr": "Montant",
-        "it": "Importo"
+        "en": "The amount",
+        "fr": "Le montant",
+        "it": "L’importo",
+        "pt": "O valor / A quantia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the amounts",
+        "fr": "Plural: les montants",
+        "it": "Plural: gli importi",
+        "pt": "Plural: os valores / as quantias"
+      }
     },
     {
       "id": "cd18",
-      "es": "Dinero suelto (monedas)",
+      "es": "Las monedas sueltas",
       "translations": {
-        "en": "Small change / Loose change",
-        "pt": "Dinheiro trocado / Moedas",
-        "fr": "Petite monnaie",
-        "it": "Spiccioli"
+        "en": "The loose change",
+        "fr": "La petite monnaie",
+        "it": "Gli spiccioli",
+        "pt": "As moedas soltas"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Monedas de poco valor.",
+        "en": "Change es incontable.",
+        "fr": "Monnaie es incontable en este sentido.",
+        "it": "Plural de uso habitual."
+      }
     },
     {
       "id": "cd19",
-      "es": "Centavo / Céntimo (fracción monetaria)",
+      "es": "El centavo",
       "translations": {
-        "en": "Cent",
-        "pt": "Centavo",
-        "fr": "Centime",
-        "it": "Centesimo"
+        "en": "The cent",
+        "fr": "Le centime",
+        "it": "Il centesimo",
+        "pt": "O centavo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the cents",
+        "fr": "Plural: les centimes",
+        "it": "Plural: i centesimi",
+        "pt": "Plural: os centavos",
+        "es": "Unidad monetaria equivalente a una centésima de ciertas monedas."
+      }
     },
     {
       "id": "cd20",
-      "es": "Dólar estadounidense",
+      "es": "El dólar estadounidense",
       "translations": {
-        "en": "US dollar",
-        "pt": "Dólar americano / Dólar estadunidense",
-        "fr": "Dollar américain",
-        "it": "Dollaro statunitense"
+        "en": "The US dollar",
+        "fr": "Le dollar américain",
+        "it": "Il dollaro statunitense",
+        "pt": "O dólar americano"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the US dollars",
+        "fr": "Plural: les dollars américains",
+        "it": "Plural: i dollari statunitensi",
+        "pt": "Plural: os dólares americanos"
+      }
     },
     {
       "id": "cd21",
-      "es": "Euro",
+      "es": "El euro",
       "translations": {
-        "en": "Euro",
-        "pt": "Euro",
-        "fr": "Euro",
-        "it": "Euro"
+        "en": "The euro",
+        "fr": "L’euro",
+        "it": "L’euro",
+        "pt": "O euro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the euros",
+        "fr": "Plural: les euros",
+        "it": "Plural: gli euro",
+        "pt": "Plural: os euros"
+      }
     },
     {
       "id": "cd22",
-      "es": "Real brasileño (moneda)",
+      "es": "El real brasileño",
       "translations": {
-        "en": "Brazilian real",
-        "pt": "Real brasileiro",
-        "fr": "Real brésilien",
-        "it": "Real brasiliano"
+        "en": "The Brazilian real",
+        "fr": "Le réal brésilien",
+        "it": "Il real brasiliano",
+        "pt": "O real brasileiro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the Brazilian reals",
+        "fr": "Plural: les réals brésiliens Plural poco frecuente en el uso cotidiano.",
+        "it": "Plural: i real brasiliani",
+        "pt": "Plural: os reais brasileiros"
+      }
     },
     {
       "id": "cd23",
-      "es": "Peso mexicano",
+      "es": "El peso mexicano",
       "translations": {
-        "en": "Mexican peso",
-        "pt": "Peso mexicano",
-        "fr": "Peso mexicain",
-        "it": "Peso messicano"
+        "en": "The Mexican peso",
+        "fr": "Le peso mexicain",
+        "it": "Il peso messicano",
+        "pt": "O peso mexicano"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the Mexican pesos",
+        "fr": "Plural: les pesos mexicains",
+        "it": "Plural: i pesos messicani",
+        "pt": "Plural: os pesos mexicanos"
+      }
     },
     {
       "id": "cd24",
-      "es": "Cantidad (de un producto)",
+      "es": "La cantidad",
       "translations": {
-        "en": "Quantity / Amount",
-        "pt": "Quantidade",
-        "fr": "Quantité",
-        "it": "Quantità"
+        "en": "The quantity",
+        "fr": "La quantité",
+        "it": "La quantità",
+        "pt": "A quantidade"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the quantities",
+        "fr": "Plural: les quantités",
+        "it": "Plural: le quantità",
+        "pt": "Plural: as quantidades",
+        "es": "De productos; no de dinero."
+      }
     },
     {
       "id": "cd25",
-      "es": "Unidad / Pieza (cantidad de un producto)",
+      "es": "La unidad / La pieza",
       "translations": {
-        "en": "Unit / Item",
-        "pt": "Unidade / Peça",
-        "fr": "Unité / Pièce",
-        "it": "Unità / Pezzo"
+        "en": "The unit / The piece",
+        "fr": "L’unité / La pièce",
+        "it": "L’unità / Il pezzo",
+        "pt": "A unidade / A peça"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the units / the pieces",
+        "fr": "Plural: les unités / les pièces",
+        "it": "Plural: le unità / i pezzi",
+        "pt": "Plural: as unidades / as peças"
+      }
     },
     {
       "id": "cd26",
-      "es": "Par (dos unidades que van juntas)",
+      "es": "El par",
       "translations": {
-        "en": "Pair",
-        "pt": "Par",
-        "fr": "Paire",
-        "it": "Paio"
+        "en": "The pair",
+        "fr": "La paire",
+        "it": "Il paio",
+        "pt": "O par"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pairs",
+        "fr": "Plural: les paires",
+        "it": "Plural: le paia",
+        "pt": "Plural: os pares"
+      }
     },
     {
       "id": "cd27",
-      "es": "Docena",
+      "es": "La docena",
       "translations": {
-        "en": "Dozen",
-        "pt": "Dúzia",
-        "fr": "Douzaine",
-        "it": "Dozzina"
+        "en": "The dozen",
+        "fr": "La douzaine",
+        "it": "La dozzina",
+        "pt": "A dúzia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the dozens",
+        "fr": "Plural: les douzaines",
+        "it": "Plural: le dozzine",
+        "pt": "Plural: as dúzias"
+      }
     },
     {
       "id": "cd28",
-      "es": "Paquete (productos agrupados)",
+      "es": "El paquete",
       "translations": {
-        "en": "Pack / Package",
-        "pt": "Pacote",
-        "fr": "Paquet",
-        "it": "Confezione / Pacco"
+        "en": "The package / The pack",
+        "fr": "Le paquet",
+        "it": "La confezione / Il pacco",
+        "pt": "O pacote"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the packages / the packs",
+        "fr": "Plural: les paquets",
+        "it": "Plural: le confezioni / i pacchi",
+        "pt": "Plural: os pacotes"
+      }
     },
     {
       "id": "cd29",
-      "es": "Peso (masa de un producto)",
+      "es": "El peso",
       "translations": {
-        "en": "Weight",
-        "pt": "Peso",
-        "fr": "Poids",
-        "it": "Peso"
+        "en": "The weight",
+        "fr": "Le poids",
+        "it": "Il peso",
+        "pt": "O peso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the weights",
+        "fr": "Plural: les poids",
+        "it": "Plural: i pesi",
+        "pt": "Plural: os pesos",
+        "es": "Masa de un producto."
+      }
     },
     {
       "id": "cd30",
-      "es": "Gramo",
+      "es": "El gramo",
       "translations": {
-        "en": "Gram",
-        "pt": "Grama",
-        "fr": "Gramme",
-        "it": "Grammo"
+        "en": "The gram",
+        "fr": "Le gramme",
+        "it": "Il grammo",
+        "pt": "O grama"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the grams",
+        "fr": "Plural: les grammes",
+        "it": "Plural: i grammi",
+        "pt": "Plural: os gramas"
+      }
     },
     {
       "id": "cd31",
-      "es": "Kilogramo / Kilo",
+      "es": "El kilogramo / El kilo",
       "translations": {
-        "en": "Kilogram / Kilo",
-        "pt": "Quilograma / Quilo",
-        "fr": "Kilogramme / Kilo",
-        "it": "Chilogrammo / Chilo"
+        "en": "The kilogram / The kilo",
+        "fr": "Le kilogramme / Le kilo",
+        "it": "Il chilogrammo / Il chilo",
+        "pt": "O quilograma / O quilo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the kilograms / the kilos",
+        "fr": "Plural: les kilogrammes / les kilos",
+        "it": "Plural: i chilogrammi / i chili",
+        "pt": "Plural: os quilogramas / os quilos"
+      }
     },
     {
       "id": "cd32",
-      "es": "Litro",
+      "es": "El litro",
       "translations": {
-        "en": "Liter",
-        "pt": "Litro",
-        "fr": "Litre",
-        "it": "Litro"
+        "en": "The liter",
+        "fr": "Le litre",
+        "it": "Il litro",
+        "pt": "O litro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the liters",
+        "fr": "Plural: les litres",
+        "it": "Plural: i litri",
+        "pt": "Plural: os litros"
+      }
     },
     {
       "id": "cd33",
-      "es": "Libra (unidad de peso; lb)",
+      "es": "La libra",
       "translations": {
-        "en": "Pound",
-        "pt": "Libra",
-        "fr": "Livre",
-        "it": "Libbra"
+        "en": "The pound",
+        "fr": "La livre",
+        "it": "La libbra",
+        "pt": "A libra"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pounds",
+        "fr": "Plural: les livres",
+        "it": "Plural: le libbre",
+        "pt": "Plural: as libras",
+        "es": "Unidad de masa (lb)."
+      }
     },
     {
       "id": "cd34",
-      "es": "Onza (unidad de peso; oz)",
+      "es": "La onza",
       "translations": {
-        "en": "Ounce",
-        "pt": "Onça",
-        "fr": "Once",
-        "it": "Oncia"
+        "en": "The ounce",
+        "fr": "L’once",
+        "it": "L’oncia",
+        "pt": "A onça"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the ounces",
+        "fr": "Plural: les onces",
+        "it": "Plural: le once",
+        "pt": "Plural: as onças",
+        "es": "Unidad de masa (oz)."
+      }
     },
     {
       "id": "cd35",
@@ -383,20 +583,27 @@
         "en": "How many would you like?",
         "pt": "Quantos você quer?",
         "fr": "Combien en voulez-vous ?",
-        "it": "Quanti ne vuole?"
+        "it": "Quanti ne desidera?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Para productos contables.",
+        "it": "Tratamiento formal."
+      }
     },
     {
       "id": "cd36",
-      "es": "¿Cuánto quiere? (cantidad por peso o volumen)",
+      "es": "¿Cuánto quiere?",
       "translations": {
         "en": "How much would you like?",
         "pt": "Quanto você quer?",
-        "fr": "Quelle quantité voulez-vous ?",
+        "fr": "Vous en voulez quelle quantité ?",
         "it": "Quanto ne vuole?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Para cantidades por peso o volumen."
+      }
     },
     {
       "id": "cd37",
@@ -416,7 +623,7 @@
         "en": "One of each, please.",
         "pt": "Um de cada, por favor.",
         "fr": "Un de chaque, s'il vous plaît.",
-        "it": "Uno per tipo, per favore."
+        "it": "Uno di ciascuno, per favore."
       },
       "image_url": ""
     },
@@ -446,7 +653,7 @@
       "id": "cd41",
       "es": "¿Se vende por pieza o por peso?",
       "translations": {
-        "en": "Is it sold by the piece or by weight?",
+        "en": "Is it sold individually or by weight?",
         "pt": "É vendido por unidade ou por peso?",
         "fr": "C'est vendu à la pièce ou au poids ?",
         "it": "Si vende al pezzo o a peso?"
@@ -480,8 +687,8 @@
       "es": "Son demasiados.",
       "translations": {
         "en": "That's too many.",
-        "pt": "São demais.",
-        "fr": "C'est trop.",
+        "pt": "São muitos.",
+        "fr": "Il y en a trop.",
         "it": "Sono troppi."
       },
       "image_url": ""
@@ -491,7 +698,7 @@
       "es": "¿Cuánto cuesta esto?",
       "translations": {
         "en": "How much does this cost?",
-        "pt": "Quanto custa isto?",
+        "pt": "Quanto custa isso?",
         "fr": "Combien ça coûte ?",
         "it": "Quanto costa questo?"
       },
@@ -536,8 +743,8 @@
       "translations": {
         "en": "Do they both cost the same?",
         "pt": "Os dois custam a mesma coisa?",
-        "fr": "Les deux coûtent le même prix ?",
-        "it": "Costano entrambi lo stesso?"
+        "fr": "Les deux coûtent-ils le même prix ?",
+        "it": "Costano tutti e due uguale?"
       },
       "image_url": ""
     },
@@ -656,7 +863,7 @@
       "es": "¿En qué pasillo está?",
       "translations": {
         "en": "Which aisle is it in?",
-        "pt": "Em qual corredor fica?",
+        "pt": "Em que corredor fica?",
         "fr": "Dans quelle allée est-il ?",
         "it": "In quale corsia si trova?"
       },
@@ -668,8 +875,8 @@
       "translations": {
         "en": "It's in aisle three.",
         "pt": "Fica no corredor três.",
-        "fr": "C'est dans l'allée trois.",
-        "it": "È nella corsia tre."
+        "fr": "C’est dans l’allée trois.",
+        "it": "Si trova nella corsia tre."
       },
       "image_url": ""
     },
@@ -710,8 +917,8 @@
       "id": "cd65",
       "es": "¿Tiene otro de esta marca?",
       "translations": {
-        "en": "Do you have another one from this brand?",
-        "pt": "Tem outro desta marca?",
+        "en": "Do you have another item from this brand?",
+        "pt": "Tem outro produto dessa marca?",
         "fr": "Avez-vous un autre article de cette marque ?",
         "it": "Ha un altro articolo di questa marca?"
       },
@@ -744,11 +951,14 @@
       "es": "Prefiero este, gracias.",
       "translations": {
         "en": "I prefer this one, thank you.",
-        "pt": "Prefiro este, obrigado. / Prefiro este, obrigada.",
+        "pt": "Prefiro este, obrigado / Prefiro este, obrigada",
         "fr": "Je préfère celui-ci, merci.",
         "it": "Preferisco questo, grazie."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Obrigado: quien habla es hombre; obrigada: quien habla es mujer."
+      }
     },
     {
       "id": "cd69",
@@ -766,11 +976,14 @@
       "es": "Solo estoy mirando, gracias.",
       "translations": {
         "en": "I'm just looking, thanks.",
-        "pt": "Estou só olhando, obrigado. / Estou só olhando, obrigada.",
-        "fr": "Je regarde seulement, merci.",
+        "pt": "Estou só olhando, obrigado / Estou só olhando, obrigada",
+        "fr": "Je regarde, merci.",
         "it": "Sto solo guardando, grazie."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Obrigado: quien habla es hombre; obrigada: quien habla es mujer."
+      }
     },
     {
       "id": "cd71",
@@ -788,11 +1001,14 @@
       "es": "Este no, gracias.",
       "translations": {
         "en": "Not this one, thank you.",
-        "pt": "Este não, obrigado. / Este não, obrigada.",
+        "pt": "Este não, obrigado / Este não, obrigada",
         "fr": "Pas celui-ci, merci.",
         "it": "Questo no, grazie."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Obrigado: quien habla es hombre; obrigada: quien habla es mujer."
+      }
     },
     {
       "id": "cd73",
@@ -809,9 +1025,9 @@
       "id": "cd74",
       "es": "¿Esta es la fila para pagar?",
       "translations": {
-        "en": "Is this the line for the checkout?",
+        "en": "Is this the line to pay?",
         "pt": "Esta é a fila para pagar?",
-        "fr": "C'est la file pour payer ?",
+        "fr": "C’est la file pour payer ?",
         "it": "È questa la fila per pagare?"
       },
       "image_url": ""
@@ -864,7 +1080,7 @@
       "id": "cd79",
       "es": "Tengo el importe exacto.",
       "translations": {
-        "en": "I have the exact amount. / I have exact change.",
+        "en": "I have the exact amount.",
         "pt": "Tenho o valor exato.",
         "fr": "J'ai l'appoint.",
         "it": "Ho l'importo esatto."
@@ -875,12 +1091,15 @@
       "id": "cd80",
       "es": "¿Tiene cambio para un billete de veinte?",
       "translations": {
-        "en": "Do you have change for a twenty? / Can you break a twenty?",
-        "pt": "Tem troco para uma nota de vinte?",
-        "fr": "Avez-vous de la monnaie pour un billet de vingt ?",
-        "it": "Ha da cambiare una banconota da venti?"
+        "en": "Do you have change for a twenty-dollar bill?",
+        "pt": "Tem troco para uma nota de vinte reais?",
+        "fr": "Avez-vous de la monnaie pour un billet de vingt euros ?",
+        "it": "Ha da cambiare una banconota da venti euro?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "La moneda depende del país; el billete de veinte no es necesariamente de la misma divisa en todas las traducciones."
+      }
     },
     {
       "id": "cd81",
@@ -899,7 +1118,7 @@
       "translations": {
         "en": "Do you have a smaller bill?",
         "pt": "Tem uma nota de menor valor?",
-        "fr": "Avez-vous un billet plus petit ?",
+        "fr": "Avez-vous un billet de plus petite valeur ?",
         "it": "Ha una banconota di taglio più piccolo?"
       },
       "image_url": ""
@@ -952,9 +1171,9 @@
       "id": "cd87",
       "es": "¿Puede quitar este producto de mi compra?",
       "translations": {
-        "en": "Can you remove this item from my purchase?",
+        "en": "Can you take this item off my bill?",
         "pt": "Pode tirar este produto da minha compra?",
-        "fr": "Pouvez-vous retirer cet article de mes achats ?",
+        "fr": "Pouvez-vous retirer cet article de mon ticket ?",
         "it": "Può togliere questo articolo dalla mia spesa?"
       },
       "image_url": ""
@@ -996,12 +1215,307 @@
       "id": "cd91",
       "es": "¿Necesita ayuda para empacar sus compras?",
       "translations": {
-        "en": "Do you need help bagging your purchases?",
+        "en": "Do you need help bagging your groceries?",
         "pt": "Precisa de ajuda para colocar as compras nas sacolas?",
-        "fr": "Avez-vous besoin d'aide pour mettre vos achats dans les sacs ?",
-        "it": "Ha bisogno di aiuto per mettere gli acquisti nei sacchetti?"
+        "fr": "Avez-vous besoin d’aide pour mettre vos courses dans les sacs ?",
+        "it": "Ha bisogno di aiuto per imbustare la spesa?"
       },
       "image_url": ""
+    },
+    {
+      "id": "cd92",
+      "es": "La tienda",
+      "translations": {
+        "en": "The store",
+        "fr": "Le magasin",
+        "it": "Il negozio",
+        "pt": "A loja"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the stores",
+        "fr": "Plural: les magasins",
+        "it": "Plural: i negozi",
+        "pt": "Plural: as lojas"
+      }
+    },
+    {
+      "id": "cd93",
+      "es": "El precio",
+      "translations": {
+        "en": "The price",
+        "fr": "Le prix",
+        "it": "Il prezzo",
+        "pt": "O preço"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the prices",
+        "fr": "Plural: les prix",
+        "it": "Plural: i prezzi",
+        "pt": "Plural: os preços"
+      }
+    },
+    {
+      "id": "cd94",
+      "es": "El dinero",
+      "translations": {
+        "en": "The money",
+        "fr": "L’argent",
+        "it": "Il denaro",
+        "pt": "O dinheiro"
+      },
+      "image_url": "",
+      "notes": {}
+    },
+    {
+      "id": "cd95",
+      "es": "El efectivo",
+      "translations": {
+        "en": "The cash",
+        "fr": "L’argent liquide",
+        "it": "I contanti",
+        "pt": "O dinheiro em espécie"
+      },
+      "image_url": "",
+      "notes": {}
+    },
+    {
+      "id": "cd96",
+      "es": "La tarjeta de crédito",
+      "translations": {
+        "en": "The credit card",
+        "fr": "La carte de crédit",
+        "it": "La carta di credito",
+        "pt": "O cartão de crédito"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the credit cards",
+        "fr": "Plural: les cartes de crédit",
+        "it": "Plural: le carte di credito",
+        "pt": "Plural: os cartões de crédito"
+      }
+    },
+    {
+      "id": "cd97",
+      "es": "La tarjeta de débito",
+      "translations": {
+        "en": "The debit card",
+        "fr": "La carte de débit",
+        "it": "La carta di debito",
+        "pt": "O cartão de débito"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the debit cards",
+        "fr": "Plural: les cartes de débit",
+        "it": "Plural: le carte di debito",
+        "pt": "Plural: os cartões de débito"
+      }
+    },
+    {
+      "id": "cd98",
+      "es": "El recibo / El ticket",
+      "translations": {
+        "en": "The receipt",
+        "fr": "Le ticket de caisse",
+        "it": "Lo scontrino",
+        "pt": "O comprovante de compra"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the receipts",
+        "fr": "Plural: les tickets de caisse",
+        "it": "Plural: gli scontrini",
+        "pt": "Plural: os comprovantes de compra"
+      }
+    },
+    {
+      "id": "cd99",
+      "es": "El cambio",
+      "translations": {
+        "en": "The change",
+        "fr": "La monnaie",
+        "it": "Il resto",
+        "pt": "O troco"
+      },
+      "image_url": "",
+      "notes": {}
+    },
+    {
+      "id": "cd100",
+      "es": "El billete",
+      "translations": {
+        "en": "The banknote / The bill",
+        "fr": "Le billet",
+        "it": "La banconota",
+        "pt": "A nota"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the banknotes / the bills",
+        "fr": "Plural: les billets",
+        "it": "Plural: le banconote",
+        "pt": "Plural: as notas"
+      }
+    },
+    {
+      "id": "cd101",
+      "es": "La moneda",
+      "translations": {
+        "en": "The coin",
+        "fr": "La pièce de monnaie",
+        "it": "La moneta",
+        "pt": "A moeda"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the coins",
+        "fr": "Plural: les pièces de monnaie",
+        "it": "Plural: le monete",
+        "pt": "Plural: as moedas"
+      }
+    },
+    {
+      "id": "cd102",
+      "es": "¿Puedo pagar con tarjeta?",
+      "translations": {
+        "en": "Can I pay by card?",
+        "fr": "Je peux payer par carte ?",
+        "it": "Posso pagare con la carta?",
+        "pt": "Posso pagar com cartão?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cd103",
+      "es": "¿Aceptan efectivo?",
+      "translations": {
+        "en": "Do you accept cash?",
+        "fr": "Vous acceptez les espèces ?",
+        "it": "Accettate contanti?",
+        "pt": "Aceitam dinheiro?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cd104",
+      "es": "¿Me da el recibo, por favor?",
+      "translations": {
+        "en": "Can I have the receipt, please?",
+        "fr": "Je peux avoir le ticket de caisse, s’il vous plaît ?",
+        "it": "Posso avere lo scontrino, per favore?",
+        "pt": "Pode me dar o comprovante, por favor?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cd105",
+      "es": "¿Dónde puedo pagar?",
+      "translations": {
+        "en": "Where can I pay?",
+        "fr": "Où est-ce que je peux payer ?",
+        "it": "Dove posso pagare?",
+        "pt": "Onde posso pagar?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cd106",
+      "es": "La terminal de pago",
+      "translations": {
+        "en": "The card terminal",
+        "fr": "Le terminal de paiement",
+        "it": "Il POS",
+        "pt": "A maquininha de cartão"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the card terminals",
+        "fr": "Plural: les terminaux de paiement",
+        "it": "Plural: i POS",
+        "pt": "Plural: as maquininhas de cartão"
+      }
+    },
+    {
+      "id": "cd107",
+      "es": "La fila",
+      "translations": {
+        "en": "The line",
+        "fr": "La file d’attente",
+        "it": "La fila",
+        "pt": "A fila"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the lines",
+        "fr": "Plural: les files d’attente",
+        "it": "Plural: le file",
+        "pt": "Plural: as filas"
+      }
+    },
+    {
+      "id": "cd108",
+      "es": "La devolución",
+      "translations": {
+        "en": "The return",
+        "fr": "Le retour",
+        "it": "Il reso",
+        "pt": "A devolução"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the returns",
+        "fr": "Plural: les retours",
+        "it": "Plural: i resi",
+        "pt": "Plural: as devoluções"
+      }
+    },
+    {
+      "id": "cd109",
+      "es": "El reembolso",
+      "translations": {
+        "en": "The refund",
+        "fr": "Le remboursement",
+        "it": "Il rimborso",
+        "pt": "O reembolso"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the refunds",
+        "fr": "Plural: les remboursements",
+        "it": "Plural: i rimborsi",
+        "pt": "Plural: os reembolsos"
+      }
+    },
+    {
+      "id": "cd110",
+      "es": "¿Puedo devolverlo?",
+      "translations": {
+        "en": "Can I return it?",
+        "fr": "Je peux le rapporter ?",
+        "it": "Posso restituirlo?",
+        "pt": "Posso devolver?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cd111",
+      "es": "La talla",
+      "translations": {
+        "en": "The size",
+        "fr": "La taille",
+        "it": "La taglia",
+        "pt": "O tamanho"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the sizes",
+        "fr": "Plural: les tailles",
+        "it": "Plural: le taglie",
+        "pt": "Plural: os tamanhos"
+      }
     }
   ]
 }

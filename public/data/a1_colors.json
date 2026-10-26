@@ -1,15 +1,16 @@
 {
   "module": "Colores Básicos",
   "level": "A1",
+  "revisado": "true",
   "cards": [
     {
       "id": "c1",
       "image_url": "",
       "hex": "#EF4444",
-      "es": "Rojo/a",
+      "es": "Rojo / Roja",
       "translations": {
-        "it": "Rosso/a",
-        "pt": "Vermelho/a",
+        "it": "Rosso / Rossa",
+        "pt": "Vermelho / Vermelha",
         "fr": "Rouge",
         "en": "Red",
         "de": "Rot"
@@ -38,10 +39,10 @@
       "id": "c3",
       "image_url": "",
       "hex": "#FBBF24",
-      "es": "Amarillo/a",
+      "es": "Amarillo / Amarilla",
       "translations": {
-        "it": "Giallo/a",
-        "pt": "Amarelo/a",
+        "it": "Giallo / Gialla",
+        "pt": "Amarelo / Amarela",
         "fr": "Jaune",
         "en": "Yellow",
         "de": "Gelb"
@@ -73,23 +74,20 @@
         "de": "Orange"
       },
       "notes": {
-        "de": "Como adjetivo puede flexionarse: ein oranges Kleid (un vestido naranja)."
+        "de": "Como adjetivo ante un sustantivo puede flexionarse: ein oranges Kleid."
       }
     },
     {
       "id": "c6",
       "image_url": "",
       "hex": "#A855F7",
-      "es": "Morado/a",
+      "es": "Morado / Morada",
       "translations": {
         "it": "Viola",
-        "pt": "Roxo/a",
+        "pt": "Roxo / Roxa",
         "fr": "Violet / Violette",
         "en": "Purple",
         "de": "Violett"
-      },
-      "notes": {
-        "de": "También se usa lila; aquí, violett distingue morado de lila."
       }
     },
     {
@@ -112,10 +110,10 @@
       "id": "c8",
       "image_url": "",
       "hex": "#000000",
-      "es": "Negro/a",
+      "es": "Negro / Negra",
       "translations": {
-        "it": "Nero/a",
-        "pt": "Preto/a",
+        "it": "Nero / Nera",
+        "pt": "Preto / Preta",
         "fr": "Noir / Noire",
         "en": "Black",
         "de": "Schwarz"
@@ -125,10 +123,10 @@
       "id": "c9",
       "image_url": "",
       "hex": "#FFFFFF",
-      "es": "Blanco/a",
+      "es": "Blanco / Blanca",
       "translations": {
-        "it": "Bianco/a",
-        "pt": "Branco/a",
+        "it": "Bianco / Bianca",
+        "pt": "Branco / Branca",
         "fr": "Blanc / Blanche",
         "en": "White",
         "de": "Weiß"
@@ -143,7 +141,7 @@
       "hex": "#9CA3AF",
       "es": "Gris",
       "translations": {
-        "it": "Grigio/a",
+        "it": "Grigio / Grigia",
         "pt": "Cinza",
         "fr": "Gris / Grise",
         "en": "Gray",
@@ -167,10 +165,10 @@
       "id": "c12",
       "image_url": "",
       "hex": "#E5E7EB",
-      "es": "Plateado/a",
+      "es": "Plateado / Plateada",
       "translations": {
-        "it": "Argento / Argentato/a",
-        "pt": "Prateado/a",
+        "it": "Argentato / Argentata",
+        "pt": "Prateado / Prateada",
         "fr": "Argenté / Argentée",
         "en": "Silver",
         "de": "Silberfarben"
@@ -183,10 +181,10 @@
       "id": "c13",
       "image_url": "",
       "hex": "#F59E0B",
-      "es": "Dorado/a",
+      "es": "Dorado / Dorada",
       "translations": {
-        "it": "Dorato/a",
-        "pt": "Dourado/a",
+        "it": "Dorato / Dorata",
+        "pt": "Dourado / Dourada",
         "fr": "Doré / Dorée",
         "en": "Gold",
         "de": "Goldfarben"
@@ -201,14 +199,15 @@
       "hex": "#7DD3FC",
       "es": "Celeste / Azul claro",
       "translations": {
-        "it": "Azzurro/a / Celeste",
-        "pt": "Azul-claro / Azul-clara",
-        "fr": "Bleu clair",
+        "it": "Azzurro / Azzurra / Celeste",
+        "pt": "Azul-claro",
+        "fr": "Bleu clair / Bleue claire",
         "en": "Light blue",
         "de": "Hellblau"
       },
       "notes": {
-        "de": "Hell- indica una tonalidad clara; se escribe junto al color."
+        "it": "Azzurro suele referirse al azul del cielo; celeste, a un tono más pálido.",
+        "de": "Hell- indica un tono claro y se une al color: hellblau."
       }
     },
     {
@@ -241,7 +240,7 @@
       "id": "c17",
       "image_url": "",
       "hex": "#7F1D1D",
-      "es": "Vino / Tinto",
+      "es": "Rojo vino / Borgoña",
       "translations": {
         "it": "Bordeaux",
         "pt": "Vinho / Bordô",
@@ -250,7 +249,8 @@
         "de": "Weinrot / Bordeauxrot"
       },
       "notes": {
-        "de": "Weinrot es rojo vino; Bordeauxrot alude al tono burdeos."
+        "es": "Borgoña también se denomina burdeos.",
+        "de": "Weinrot significa rojo vino; Bordeauxrot, burdeos."
       }
     },
     {
@@ -276,42 +276,41 @@
         "pt": "Lilás",
         "fr": "Lilas",
         "en": "Lilac",
-        "de": "Fliederfarben"
-      },
-      "notes": {
-        "de": "Tono lila, como la flor del lilo. También se dice lila."
+        "de": "Fliederfarben / Lila"
       }
     },
     {
       "id": "c20",
       "image_url": "",
       "hex": "",
-      "es": "Claro/a (tonalidad)",
+      "es": "Claro / Clara",
       "translations": {
-        "it": "Chiaro/a",
-        "pt": "Claro/a",
+        "it": "Chiaro / Chiara",
+        "pt": "Claro / Clara",
         "fr": "Clair / Claire",
         "en": "Light",
         "de": "Hell"
       },
       "notes": {
-        "de": "Antepuesto a otro color: hellgrün (verde claro)."
+        "es": "Se refiere a la tonalidad de un color.",
+        "de": "Como prefijo se une al color: hellgrün."
       }
     },
     {
       "id": "c21",
       "image_url": "",
       "hex": "",
-      "es": "Oscuro/a (tonalidad)",
+      "es": "Oscuro / Oscura",
       "translations": {
-        "it": "Scuro/a",
-        "pt": "Escuro/a",
+        "it": "Scuro / Scura",
+        "pt": "Escuro / Escura",
         "fr": "Foncé / Foncée",
         "en": "Dark",
         "de": "Dunkel"
       },
       "notes": {
-        "de": "Antepuesto a otro color: dunkelblau (azul oscuro)."
+        "es": "Se refiere a la tonalidad de un color.",
+        "de": "Como prefijo se une al color: dunkelblau."
       }
     }
   ]
