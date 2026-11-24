@@ -61,7 +61,7 @@ Los ejemplos ilustran la convención de artículos, no una regla general de capi
 
 ## 6. Plurales
 
-- **PLU-01 (C).** Incluir el plural de sustantivos contables en las notas del idioma objetivo, con su artículo cuando corresponda.
+- **PLU-01 (C).** Incluir el plural de sustantivos contables en las notas del idioma objetivo, con su artículo cuando corresponda, mediante el formato parentético `(Plural: The houses)`, sin punto final. Aplicar mayúscula inicial de presentación al plural y respetar la ortografía del idioma.
 - **PLU-02 (O).** No repetir innecesariamente el singular ni añadir notas de plural en español.
 - **PLU-03 (O).** No forzar plurales de sustantivos incontables o predominantemente singulares cuando no tengan sentido en el concepto enseñado.
 
@@ -70,11 +70,11 @@ Ejemplo ilustrativo del objeto de notas, sujeto al esquema vigente del módulo:
 ```json
 {
   "notes": {
-    "en": "Plural: The houses",
-    "fr": "Plural: Les maisons",
-    "it": "Plural: Le case",
-    "pt": "Plural: As casas",
-    "de": "Plural: Die Häuser"
+    "en": "(Plural: The houses)",
+    "fr": "(Plural: Les maisons)",
+    "it": "(Plural: Le case)",
+    "pt": "(Plural: As casas)",
+    "de": "(Plural: Die Häuser)"
   }
 }
 ```
@@ -150,7 +150,7 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - [ ] Alternativas completas con el separador establecido.
 - [ ] Contracciones naturales, coloquialismos y abreviaturas en notas cuando corresponda; apóstrofos rectos.
 - [ ] Notas en español, breves y asociadas al idioma pertinente.
-- [ ] Registro, intensidad y significado conservados; variantes de tratamiento ordenadas y etiquetas de registro en notas.
+- [ ] Registro, intensidad y significado conservados; variantes de tratamiento ordenadas, etiquetas de registro y diferencias regionales significativas en notas.
 - [ ] Falsos amigos relevantes aclarados en notas.
 - [ ] Significados distintos separados y ambigüedades aclaradas mediante notas parentéticas cuando corresponda.
 
@@ -213,12 +213,13 @@ Ejemplo: `En realidad` → `Actually`. Nota en inglés: `Falso amigo: No signifi
 - **TRA-02 (C).** Mantener tarjetas independientes cuando se enseñen expresiones inherentemente distintas por registro, no meras flexiones de tratamiento. Trasladar las aclaraciones de registro del texto principal a las notas.
 - **TRA-03 (C).** Indicar registros mediante aclaraciones parentéticas breves sin punto final: `(Formal)`, `(Informal)`, `(Coloquial)`, `(Vulgar)`, `(Ofensivo)`, `(Despectivo)`. Añadir explicaciones de uso cuando sea necesario. Conservar la etiqueta `Coloquial:` para variantes alternativas según CON-02.
 
+- **TRA-04 (O).** Respetar las convenciones culturales de tratamiento de cada variante regional; no asumir correspondencias exactas entre idiomas. Por ejemplo, `Você` es de uso cotidiano en Brasil y no equivale necesariamente al trato formal de «usted».
+- **TRA-05 (C).** Mantener la variante regional establecida en IDI-01 como texto principal. Cuando otra variante presente una diferencia léxica significativa, de utilidad práctica o con riesgo de confusión, consignarla en la nota del idioma correspondiente mediante una aclaración parentética sin punto final: `(Portugal: O comboio)`, `(Reino Unido: The lift)`. No acumular diferencias regionales menores ni sustituir la variante principal.
+
 ## 20. Decisiones pendientes
 
 Los siguientes temas requieren una definición posterior y no constituyen nuevas reglas obligatorias:
 
-- Convenciones culturales de tratamiento y criterios de inclusión de variantes regionales en notas (pendiente de aprobación).
-- Confirmar si el formato de plural se cambia a aclaración parentética, por ejemplo, `(Plural: The houses)`.
 - Criterios específicos de repetición entre niveles.
 - Nomenclatura de archivos e identificadores nuevos.
 - Incorporación de futuros idiomas y plan de migración de módulos al alemán.
