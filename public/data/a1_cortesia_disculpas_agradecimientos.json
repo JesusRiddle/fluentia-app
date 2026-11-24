@@ -7,10 +7,11 @@
       "id": "cda_001",
       "es": "La cortesía, las disculpas y los agradecimientos",
       "translations": {
-        "en": "Courtesy, apologies and thanks",
+        "en": "Courtesy, apologies, and thanks",
         "fr": "La politesse, les excuses et les remerciements",
         "it": "La cortesia, le scuse e i ringraziamenti",
-        "pt": "A cortesia, as desculpas e os agradecimentos"
+        "pt": "A cortesia, as desculpas e os agradecimentos",
+        "de": "Die Höflichkeit, die Entschuldigungen und der Dank"
       },
       "image_url": ""
     },
@@ -21,20 +22,69 @@
         "en": "To thank",
         "fr": "Remercier",
         "it": "Ringraziare",
-        "pt": "Agradecer"
+        "pt": "Agradecer",
+        "de": "Danken"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I want to thank you for your help.",
+          "es": "Quiero darte las gracias por tu ayuda."
+        },
+        "fr": {
+          "text": "Je veux te remercier pour ton aide.",
+          "es": "Quiero agradecerte tu ayuda."
+        },
+        "it": {
+          "text": "Voglio ringraziarti per il tuo aiuto.",
+          "es": "Quiero agradecerte tu ayuda."
+        },
+        "pt": {
+          "text": "Quero agradecer pela sua ajuda.",
+          "es": "Quiero agradecerte tu ayuda."
+        },
+        "de": {
+          "text": "Ich möchte dir für deine Hilfe danken.",
+          "es": "Quisiera agradecerte tu ayuda."
+        }
+      },
+      "notes": {
+        "de": "La persona a quien se agradece va en dativo: «dir» o «Ihnen»."
+      }
     },
     {
       "id": "cda_003",
       "es": "Disculparse",
       "translations": {
         "en": "To apologize",
-        "fr": "S’excuser",
+        "fr": "S'excuser",
         "it": "Scusarsi",
-        "pt": "Pedir desculpas"
+        "pt": "Pedir desculpas",
+        "de": "Sich entschuldigen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I want to apologize for being late.",
+          "es": "Quiero disculparme por llegar tarde."
+        },
+        "fr": {
+          "text": "Je veux m'excuser pour mon retard.",
+          "es": "Quiero disculparme por mi retraso."
+        },
+        "it": {
+          "text": "Voglio scusarmi per il ritardo.",
+          "es": "Quiero disculparme por el retraso."
+        },
+        "pt": {
+          "text": "Quero pedir desculpas pelo atraso.",
+          "es": "Quiero disculparme por el retraso."
+        },
+        "de": {
+          "text": "Ich möchte mich für die Verspätung entschuldigen.",
+          "es": "Quisiera disculparme por el retraso."
+        }
+      }
     },
     {
       "id": "cda_004",
@@ -43,9 +93,32 @@
         "en": "To forgive",
         "fr": "Pardonner",
         "it": "Perdonare",
-        "pt": "Perdoar"
+        "pt": "Perdoar",
+        "de": "Verzeihen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "It's hard to forgive that mistake.",
+          "es": "Es difícil perdonar ese error."
+        },
+        "fr": {
+          "text": "Il est difficile de pardonner cette erreur.",
+          "es": "Es difícil perdonar ese error."
+        },
+        "it": {
+          "text": "È difficile perdonare quell'errore.",
+          "es": "Es difícil perdonar ese error."
+        },
+        "pt": {
+          "text": "É difícil perdoar esse erro.",
+          "es": "Es difícil perdonar ese error."
+        },
+        "de": {
+          "text": "Es ist schwer, diesen Fehler zu verzeihen.",
+          "es": "Es difícil perdonar ese error."
+        }
+      }
     },
     {
       "id": "cda_005",
@@ -54,47 +127,107 @@
         "en": "To ask for permission",
         "fr": "Demander la permission",
         "it": "Chiedere il permesso",
-        "pt": "Pedir permissão"
+        "pt": "Pedir permissão",
+        "de": "Um Erlaubnis bitten"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I have to ask for permission to leave.",
+          "es": "Tengo que pedir permiso para salir."
+        },
+        "fr": {
+          "text": "Je dois demander la permission de sortir.",
+          "es": "Tengo que pedir permiso para salir."
+        },
+        "it": {
+          "text": "Devo chiedere il permesso di uscire.",
+          "es": "Tengo que pedir permiso para salir."
+        },
+        "pt": {
+          "text": "Tenho que pedir permissão para sair.",
+          "es": "Tengo que pedir permiso para salir."
+        },
+        "de": {
+          "text": "Ich muss um Erlaubnis bitten, bevor ich gehe.",
+          "es": "Tengo que pedir permiso antes de irme."
+        }
+      }
     },
     {
       "id": "cda_006",
       "es": "Por favor",
       "translations": {
         "en": "Please",
-        "fr": "S’il te plaît / S’il vous plaît",
+        "fr": "S'il te plaît / S'il vous plaît",
         "it": "Per favore / Per cortesia / Per piacere",
-        "pt": "Por favor / Por gentileza"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "cda_007",
-      "es": "Disculpa",
-      "translations": {
-        "en": "Excuse me",
-        "fr": "Excuse-moi",
-        "it": "Scusa / Scusami",
-        "pt": "Com licença / Desculpa"
+        "pt": "Por favor",
+        "de": "Bitte"
       },
       "image_url": "",
       "notes": {
-        "es": "Para llamar la atención; trato informal."
+        "fr": "«S'il te plaît» es informal y «s'il vous plaît» se usa con trato formal o al hablar con varias personas.",
+        "pt": "«Por gentileza» también es una fórmula cortés."
+      },
+      "examples": {
+        "en": {
+          "text": "Open the window, please.",
+          "es": "Abre la ventana, por favor."
+        },
+        "fr": {
+          "text": "Ouvre la fenêtre, s'il te plaît.",
+          "es": "Abre la ventana, por favor."
+        },
+        "it": {
+          "text": "Apri la finestra, per favore.",
+          "es": "Abre la ventana, por favor."
+        },
+        "pt": {
+          "text": "Abra a janela, por favor.",
+          "es": "Abre la ventana, por favor."
+        },
+        "de": {
+          "text": "Mach bitte das Fenster auf.",
+          "es": "Abre la ventana, por favor."
+        }
       }
     },
     {
-      "id": "cda_008",
-      "es": "Disculpe",
+      "id": "cda_007",
+      "es": "Disculpa / Disculpe",
       "translations": {
         "en": "Excuse me",
-        "fr": "Excusez-moi",
-        "it": "Scusi / Mi scusi",
-        "pt": "Com licença / Desculpe"
+        "fr": "Excuse-moi / Excusez-moi",
+        "it": "Scusa / Scusami / Scusi / Mi scusi",
+        "pt": "Desculpa / Desculpe",
+        "de": "Entschuldige / Entschuldigen Sie"
       },
       "image_url": "",
       "notes": {
-        "es": "Para llamar la atención; trato formal."
+        "es": "(Para llamar la atención). Primero se presenta el trato informal y después el formal.",
+        "de": "«Entschuldigung» sirve tanto en situaciones informales como formales."
+      },
+      "examples": {
+        "en": {
+          "text": "Excuse me, where's the restroom?",
+          "es": "Disculpe, ¿dónde está el baño?"
+        },
+        "fr": {
+          "text": "Excusez-moi, où sont les toilettes ?",
+          "es": "Disculpe, ¿dónde está el baño?"
+        },
+        "it": {
+          "text": "Mi scusi, dov'è il bagno?",
+          "es": "Disculpe, ¿dónde está el baño?"
+        },
+        "pt": {
+          "text": "Desculpe, onde fica o banheiro?",
+          "es": "Disculpe, ¿dónde está el baño?"
+        },
+        "de": {
+          "text": "Entschuldigen Sie, wo ist die Toilette?",
+          "es": "Disculpe, ¿dónde está el baño?"
+        }
       }
     },
     {
@@ -102,39 +235,84 @@
       "es": "Con permiso",
       "translations": {
         "en": "Excuse me",
-        "fr": "Pardon",
+        "fr": "Pardon / Excusez-moi",
         "it": "Permesso",
-        "pt": "Com licença"
+        "pt": "Com licença",
+        "de": "Entschuldigung"
       },
       "image_url": "",
       "notes": {
-        "es": "Para pedir paso."
+        "es": "(Para pedir paso)",
+        "de": "También puedes decir «Darf ich kurz vorbei?» para pedir paso."
+      },
+      "examples": {
+        "en": {
+          "text": "Excuse me, can I get through?",
+          "es": "Con permiso, ¿puedo pasar?"
+        },
+        "fr": {
+          "text": "Pardon, je peux passer ?",
+          "es": "Con permiso, ¿puedo pasar?"
+        },
+        "it": {
+          "text": "Permesso, posso passare?",
+          "es": "Con permiso, ¿puedo pasar?"
+        },
+        "pt": {
+          "text": "Com licença, posso passar?",
+          "es": "Con permiso, ¿puedo pasar?"
+        },
+        "de": {
+          "text": "Entschuldigung, darf ich vorbei?",
+          "es": "Con permiso, ¿puedo pasar?"
+        }
       }
     },
     {
       "id": "cda_010",
-      "es": "Con permiso",
+      "es": "Con permiso, me tengo que ir.",
       "translations": {
-        "en": "Excuse me, I have to go",
-        "fr": "Excusez-moi, je dois partir",
-        "it": "Mi scusi, devo andare",
-        "pt": "Com licença, preciso ir"
+        "en": "Excuse me, I have to go.",
+        "fr": "Excusez-moi, je dois partir.",
+        "it": "Mi scusi, devo andare.",
+        "pt": "Com licença, preciso ir.",
+        "de": "Entschuldigen Sie, ich muss gehen."
       },
-      "image_url": "",
-      "notes": {
-        "es": "Al retirarse."
-      }
+      "image_url": ""
     },
     {
       "id": "cda_011",
       "es": "Disculpe, una pregunta",
       "translations": {
-        "en": "Excuse me, I have a question",
-        "fr": "Excusez-moi, j’ai une question",
-        "it": "Mi scusi, ho una domanda",
-        "pt": "Desculpe, tenho uma pergunta"
+        "en": "Excuse me, I have a question.",
+        "fr": "Excusez-moi, j'ai une question.",
+        "it": "Mi scusi, ho una domanda.",
+        "pt": "Desculpe, tenho uma pergunta.",
+        "de": "Entschuldigen Sie, ich habe eine Frage."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Excuse me, I have a question: Where do I pay?",
+          "es": "Disculpe, una pregunta: ¿dónde pago?"
+        },
+        "fr": {
+          "text": "Excusez-moi, j'ai une question : où est-ce que je paie ?",
+          "es": "Disculpe, una pregunta: ¿dónde pago?"
+        },
+        "it": {
+          "text": "Mi scusi, ho una domanda: dove pago?",
+          "es": "Disculpe, una pregunta: ¿dónde pago?"
+        },
+        "pt": {
+          "text": "Desculpe, tenho uma pergunta: onde eu pago?",
+          "es": "Disculpe, una pregunta: ¿dónde pago?"
+        },
+        "de": {
+          "text": "Entschuldigen Sie, ich habe eine Frage: Wo bezahle ich?",
+          "es": "Disculpe, una pregunta: ¿dónde pago?"
+        }
+      }
     },
     {
       "id": "cda_012",
@@ -143,7 +321,8 @@
         "en": "May I get through? / Can I get through?",
         "fr": "Est-ce que je peux passer ?",
         "it": "Posso passare?",
-        "pt": "Posso passar?"
+        "pt": "Posso passar?",
+        "de": "Darf ich vorbei?"
       },
       "image_url": ""
     },
@@ -154,7 +333,8 @@
         "en": "May I come in? / Can I come in?",
         "fr": "Est-ce que je peux entrer ?",
         "it": "Posso entrare?",
-        "pt": "Posso entrar?"
+        "pt": "Posso entrar?",
+        "de": "Darf ich reinkommen?"
       },
       "image_url": ""
     },
@@ -163,9 +343,10 @@
       "es": "¿Puedo sentarme aquí?",
       "translations": {
         "en": "May I sit here? / Can I sit here?",
-        "fr": "Est-ce que je peux m’asseoir ici ?",
+        "fr": "Est-ce que je peux m'asseoir ici ?",
         "it": "Posso sedermi qui?",
-        "pt": "Posso me sentar aqui?"
+        "pt": "Posso me sentar aqui?",
+        "de": "Darf ich mich hier hinsetzen?"
       },
       "image_url": ""
     },
@@ -176,11 +357,12 @@
         "en": "May I take this? / Can I take this?",
         "fr": "Est-ce que je peux prendre ça ?",
         "it": "Posso prendere questo?",
-        "pt": "Posso pegar isso?"
+        "pt": "Posso pegar isso?",
+        "de": "Darf ich das nehmen?"
       },
       "image_url": "",
       "notes": {
-        "es": "Para tomar un objeto."
+        "es": "(Para tomar un objeto)"
       }
     },
     {
@@ -190,101 +372,162 @@
         "en": "May I use this? / Can I use this?",
         "fr": "Est-ce que je peux utiliser ça ?",
         "it": "Posso usare questo?",
-        "pt": "Posso usar isso?"
+        "pt": "Posso usar isso?",
+        "de": "Darf ich das benutzen?"
       },
       "image_url": ""
     },
     {
       "id": "cda_017",
-      "es": "Después de ti",
+      "es": "Después de ti / Después de usted",
       "translations": {
         "en": "After you",
-        "fr": "Après toi",
-        "it": "Dopo di te",
-        "pt": "Você primeiro"
+        "fr": "Après toi / Après vous",
+        "it": "Dopo di te / Dopo di lei / Prego, passi.",
+        "pt": "Você primeiro / O senhor primeiro / A senhora primeiro",
+        "de": "Nach dir / Nach Ihnen"
       },
       "image_url": "",
       "notes": {
-        "es": "Al ceder el paso; trato informal."
-      }
-    },
-    {
-      "id": "cda_018",
-      "es": "Después de usted",
-      "translations": {
-        "en": "After you",
-        "fr": "Après vous",
-        "it": "Dopo di Lei / Prego, passi",
-        "pt": "O senhor primeiro / A senhora primeiro"
+        "es": "(Al ceder el paso). Primero va el trato informal y después el formal.",
+        "it": "«Dopo di te» es informal; «Dopo di lei» y «Prego, passi» son formales."
       },
-      "image_url": "",
-      "notes": {
-        "es": "Al ceder el paso; trato formal."
+      "examples": {
+        "en": {
+          "text": "After you. I'll hold the door.",
+          "es": "Después de ti. Yo sostengo la puerta."
+        },
+        "fr": {
+          "text": "Après toi. Je tiens la porte.",
+          "es": "Después de ti. Yo sostengo la puerta."
+        },
+        "it": {
+          "text": "Dopo di te. Tengo io la porta.",
+          "es": "Después de ti. Yo sostengo la puerta."
+        },
+        "pt": {
+          "text": "Você primeiro. Eu seguro a porta.",
+          "es": "Tú primero. Yo sostengo la puerta."
+        },
+        "de": {
+          "text": "Nach dir. Ich halte die Tür auf.",
+          "es": "Después de ti. Yo sostengo la puerta."
+        }
       }
     },
     {
       "id": "cda_019",
-      "es": "Adelante / Pase",
+      "es": "Pasa. / Pase.",
       "translations": {
-        "en": "Come in / Please come in",
-        "fr": "Entrez / Entrez, je vous en prie",
-        "it": "Prego, entri / Entri pure",
-        "pt": "Entre / Pode entrar"
+        "en": "Come in. / Please come in.",
+        "fr": "Entre. / Entrez.",
+        "it": "Entra pure. / Entri pure.",
+        "pt": "Pode entrar.",
+        "de": "Komm rein. / Kommen Sie herein."
       },
       "image_url": "",
       "notes": {
-        "es": "Invitación a entrar."
+        "es": "(Invitación a entrar). Primero se presenta el trato informal y después el formal."
       }
     },
     {
       "id": "cda_020",
-      "es": "Adelante",
+      "es": "Adelante.",
       "translations": {
-        "en": "Go ahead",
-        "fr": "Vas-y / Allez-y",
-        "it": "Vai pure / Proceda pure",
-        "pt": "Pode falar / Pode continuar"
+        "en": "Go ahead.",
+        "fr": "Vas-y. / Allez-y.",
+        "it": "Vai pure. / Vada pure.",
+        "pt": "Pode continuar.",
+        "de": "Mach ruhig weiter. / Machen Sie ruhig weiter."
       },
       "image_url": "",
       "notes": {
-        "es": "Para animar a hablar o continuar."
+        "es": "(Permiso para seguir hablando o continuar)",
+        "fr": "«Vas-y» es informal y «Allez-y» es formal o plural."
       }
     },
     {
       "id": "cda_021",
-      "es": "Sí, claro",
+      "es": "Sí, claro.",
       "translations": {
-        "en": "Yes, of course / Sure",
-        "fr": "Oui, bien sûr",
-        "it": "Sì, certo",
-        "pt": "Sim, claro / Pode sim"
+        "en": "Yes, of course. / Sure.",
+        "fr": "Oui, bien sûr.",
+        "it": "Sì, certo.",
+        "pt": "Sim, claro. / Pode sim.",
+        "de": "Ja, natürlich. / Ja, klar."
       },
       "image_url": "",
       "notes": {
         "es": "Para conceder permiso."
+      },
+      "examples": {
+        "en": {
+          "text": "Yes, of course. You can use my phone.",
+          "es": "Sí, claro. Puedes usar mi teléfono."
+        },
+        "fr": {
+          "text": "Oui, bien sûr. Tu peux utiliser mon téléphone.",
+          "es": "Sí, claro. Puedes usar mi teléfono."
+        },
+        "it": {
+          "text": "Sì, certo. Puoi usare il mio telefono.",
+          "es": "Sí, claro. Puedes usar mi teléfono."
+        },
+        "pt": {
+          "text": "Sim, claro. Você pode usar meu telefone.",
+          "es": "Sí, claro. Puedes usar mi teléfono."
+        },
+        "de": {
+          "text": "Ja, natürlich. Du kannst mein Handy benutzen.",
+          "es": "Sí, claro. Puedes usar mi teléfono."
+        }
       }
     },
     {
       "id": "cda_022",
-      "es": "Lo siento, no se puede",
+      "es": "Lo siento, no se puede.",
       "translations": {
-        "en": "Sorry, that’s not allowed",
-        "fr": "Désolé, ce n’est pas autorisé / Désolée, ce n’est pas autorisé",
-        "it": "Mi dispiace, non si può",
-        "pt": "Desculpe, não é permitido"
+        "en": "Sorry, that's not allowed.",
+        "fr": "Désolé, ce n'est pas autorisé. / Désolée, ce n'est pas autorisé.",
+        "it": "Mi dispiace, non si può.",
+        "pt": "Desculpe, não é permitido.",
+        "de": "Tut mir leid, das ist nicht erlaubt."
       },
       "image_url": ""
     },
     {
       "id": "cda_023",
-      "es": "Ahora no, por favor",
+      "es": "Ahora no, por favor.",
       "translations": {
-        "en": "Not now, please",
-        "fr": "Pas maintenant, s’il vous plaît",
-        "it": "Non adesso, per favore",
-        "pt": "Agora não, por favor"
+        "en": "Not now, please.",
+        "fr": "Pas maintenant, s'il vous plaît.",
+        "it": "Non adesso, per favore.",
+        "pt": "Agora não, por favor.",
+        "de": "Jetzt nicht, bitte."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Not now, please. I'm on a call.",
+          "es": "Ahora no, por favor. Estoy en una llamada."
+        },
+        "fr": {
+          "text": "Pas maintenant, s'il vous plaît. Je suis au téléphone.",
+          "es": "Ahora no, por favor. Estoy hablando por teléfono."
+        },
+        "it": {
+          "text": "Non adesso, per favore. Sono al telefono.",
+          "es": "Ahora no, por favor. Estoy hablando por teléfono."
+        },
+        "pt": {
+          "text": "Agora não, por favor. Estou em uma ligação.",
+          "es": "Ahora no, por favor. Estoy en una llamada."
+        },
+        "de": {
+          "text": "Jetzt nicht, bitte. Ich telefoniere gerade.",
+          "es": "Ahora no, por favor. Estoy hablando por teléfono."
+        }
+      }
     },
     {
       "id": "cda_024",
@@ -293,53 +536,87 @@
         "en": "Thank you / Thanks",
         "fr": "Merci",
         "it": "Grazie",
-        "pt": "Obrigado / Obrigada / Valeu"
+        "pt": "Obrigado / Obrigada",
+        "de": "Danke"
       },
       "image_url": "",
       "notes": {
-        "pt": "Obrigado: lo dice un hombre; obrigada: lo dice una mujer. «Valeu» es coloquial."
+        "pt": "Dice «obrigado» un hombre y «obrigada» una mujer. Coloquial: Valeu."
+      },
+      "examples": {
+        "en": {
+          "text": "Thanks for the coffee.",
+          "es": "Gracias por el café."
+        },
+        "fr": {
+          "text": "Merci pour le café.",
+          "es": "Gracias por el café."
+        },
+        "it": {
+          "text": "Grazie per il caffè.",
+          "es": "Gracias por el café."
+        },
+        "pt": {
+          "text": "Obrigada pelo café.",
+          "es": "Gracias por el café."
+        },
+        "de": {
+          "text": "Danke für den Kaffee.",
+          "es": "Gracias por el café."
+        }
       }
     },
     {
       "id": "cda_025",
       "es": "Muchas gracias / Muchísimas gracias",
       "translations": {
-        "en": "Thank you very much / Thanks a lot / Thanks so much",
+        "en": "Thank you very much / Thanks so much",
         "fr": "Merci beaucoup / Un grand merci / Merci infiniment",
-        "it": "Grazie mille / Tante grazie / Molte grazie",
-        "pt": "Muito obrigado / Muito obrigada / Muitíssimo obrigado / Muitíssimo obrigada"
+        "it": "Grazie mille / Grazie davvero di cuore",
+        "pt": "Muito obrigado / Muito obrigada / Muitíssimo obrigado / Muitíssimo obrigada",
+        "de": "Vielen Dank / Tausend Dank"
       },
       "image_url": "",
       "notes": {
-        "pt": "Obrigado concuerda con un hablante hombre; obrigada, con una mujer."
+        "pt": "Obrigado concuerda con un hablante hombre; obrigada, con una mujer.",
+        "it": "«Grazie davvero di cuore» expresa un agradecimiento especialmente sentido."
+      },
+      "examples": {
+        "en": {
+          "text": "Thank you very much for the flowers.",
+          "es": "Muchas gracias por las flores."
+        },
+        "fr": {
+          "text": "Merci beaucoup pour les fleurs.",
+          "es": "Muchas gracias por las flores."
+        },
+        "it": {
+          "text": "Grazie mille per i fiori.",
+          "es": "Muchas gracias por las flores."
+        },
+        "pt": {
+          "text": "Muito obrigada pelas flores.",
+          "es": "Muchas gracias por las flores."
+        },
+        "de": {
+          "text": "Vielen Dank für die Blumen.",
+          "es": "Muchas gracias por las flores."
+        }
       }
     },
     {
       "id": "cda_026",
-      "es": "Te lo agradezco",
+      "es": "Te lo agradezco. / Se lo agradezco.",
       "translations": {
-        "en": "I appreciate it",
-        "fr": "Je t’en remercie",
-        "it": "Ti ringrazio",
-        "pt": "Eu te agradeço"
+        "en": "I appreciate it.",
+        "fr": "Je t'en remercie. / Je vous en remercie.",
+        "it": "Ti ringrazio. / La ringrazio.",
+        "pt": "Eu te agradeço. / Agradeço ao senhor. / Agradeço à senhora.",
+        "de": "Ich danke dir dafür. / Ich danke Ihnen dafür."
       },
       "image_url": "",
       "notes": {
-        "es": "Trato informal."
-      }
-    },
-    {
-      "id": "cda_027",
-      "es": "Se lo agradezco",
-      "translations": {
-        "en": "I appreciate it",
-        "fr": "Je vous en remercie",
-        "it": "La ringrazio",
-        "pt": "Agradeço ao senhor / Agradeço à senhora"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Trato formal."
+        "es": "Primero se presenta el trato informal y después el formal."
       }
     },
     {
@@ -348,21 +625,71 @@
       "translations": {
         "en": "Thank you for your help",
         "fr": "Merci pour ton aide / Merci pour votre aide",
-        "it": "Grazie per il tuo aiuto / Grazie per il Suo aiuto",
-        "pt": "Obrigado pela sua ajuda / Obrigada pela sua ajuda"
+        "it": "Grazie per il tuo aiuto / Grazie per il suo aiuto",
+        "pt": "Obrigado pela sua ajuda / Obrigada pela sua ajuda",
+        "de": "Danke für deine Hilfe. / Danke für Ihre Hilfe."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Deine» corresponde al trato informal y «Ihre» al formal.",
+        "pt": "«Sua» puede acompañar tanto a «você» como a un tratamiento más formal."
+      },
+      "examples": {
+        "en": {
+          "text": "Thank you for your help with the bags.",
+          "es": "Gracias por tu ayuda con las maletas."
+        },
+        "fr": {
+          "text": "Merci pour ton aide avec les valises.",
+          "es": "Gracias por tu ayuda con las maletas."
+        },
+        "it": {
+          "text": "Grazie per il tuo aiuto con le valigie.",
+          "es": "Gracias por tu ayuda con las maletas."
+        },
+        "pt": {
+          "text": "Obrigada pela sua ajuda com as malas.",
+          "es": "Gracias por tu ayuda con las maletas."
+        },
+        "de": {
+          "text": "Danke für deine Hilfe mit den Koffern.",
+          "es": "Gracias por tu ayuda con las maletas."
+        }
+      }
     },
     {
       "id": "cda_029",
       "es": "Gracias por esperar",
       "translations": {
         "en": "Thank you for waiting",
-        "fr": "Merci d’avoir attendu",
+        "fr": "Merci d'avoir attendu.",
         "it": "Grazie per aver aspettato",
-        "pt": "Obrigado por esperar / Obrigada por esperar"
+        "pt": "Obrigado por esperar / Obrigada por esperar",
+        "de": "Danke fürs Warten."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Thank you for waiting. The taxi is here now.",
+          "es": "Gracias por esperar. El taxi ya está aquí."
+        },
+        "fr": {
+          "text": "Merci d'avoir attendu. Le taxi est là.",
+          "es": "Gracias por esperar. Ya está aquí el taxi."
+        },
+        "it": {
+          "text": "Grazie per aver aspettato. Il taxi è arrivato.",
+          "es": "Gracias por esperar. Ya llegó el taxi."
+        },
+        "pt": {
+          "text": "Obrigada por esperar. O táxi já chegou.",
+          "es": "Gracias por esperar. Ya llegó el taxi."
+        },
+        "de": {
+          "text": "Danke fürs Warten. Das Taxi ist jetzt da.",
+          "es": "Gracias por esperar. El taxi ya está aquí."
+        }
+      }
     },
     {
       "id": "cda_030",
@@ -370,10 +697,33 @@
       "translations": {
         "en": "Thank you for your patience",
         "fr": "Merci pour ta patience / Merci pour votre patience",
-        "it": "Grazie per la tua pazienza / Grazie per la Sua pazienza",
-        "pt": "Obrigado pela sua paciência / Obrigada pela sua paciência"
+        "it": "Grazie per la tua pazienza / Grazie per la sua pazienza",
+        "pt": "Obrigado pela sua paciência / Obrigada pela sua paciência",
+        "de": "Danke für deine Geduld. / Danke für Ihre Geduld."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Thank you for your patience. I'm almost done.",
+          "es": "Gracias por tu paciencia. Ya casi termino."
+        },
+        "fr": {
+          "text": "Merci pour ta patience. J'ai presque fini.",
+          "es": "Gracias por tu paciencia. Ya casi termino."
+        },
+        "it": {
+          "text": "Grazie per la tua pazienza. Ho quasi finito.",
+          "es": "Gracias por tu paciencia. Ya casi termino."
+        },
+        "pt": {
+          "text": "Obrigada pela sua paciência. Já estou terminando.",
+          "es": "Gracias por tu paciencia. Ya estoy terminando."
+        },
+        "de": {
+          "text": "Danke für deine Geduld. Ich bin fast fertig.",
+          "es": "Gracias por tu paciencia. Ya casi termino."
+        }
+      }
     },
     {
       "id": "cda_031",
@@ -381,21 +731,70 @@
       "translations": {
         "en": "Thank you for understanding",
         "fr": "Merci de ta compréhension / Merci de votre compréhension",
-        "it": "Grazie per la tua comprensione / Grazie per la Sua comprensione",
-        "pt": "Obrigado pela sua compreensão / Obrigada pela sua compreensão"
+        "it": "Grazie per la tua comprensione / Grazie per la sua comprensione",
+        "pt": "Obrigado pela sua compreensão / Obrigada pela sua compreensão",
+        "de": "Danke für dein Verständnis. / Danke für Ihr Verständnis."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Dein» corresponde al trato informal y «Ihr» al formal."
+      },
+      "examples": {
+        "en": {
+          "text": "Thank you for understanding. I can't go today.",
+          "es": "Gracias por tu comprensión. Hoy no puedo ir."
+        },
+        "fr": {
+          "text": "Merci de ta compréhension. Je ne peux pas y aller aujourd'hui.",
+          "es": "Gracias por tu comprensión. Hoy no puedo ir."
+        },
+        "it": {
+          "text": "Grazie per la tua comprensione. Oggi non posso andare.",
+          "es": "Gracias por tu comprensión. Hoy no puedo ir."
+        },
+        "pt": {
+          "text": "Obrigada pela sua compreensão. Hoje não posso ir.",
+          "es": "Gracias por tu comprensión. Hoy no puedo ir."
+        },
+        "de": {
+          "text": "Danke für dein Verständnis. Ich kann heute nicht hingehen.",
+          "es": "Gracias por tu comprensión. Hoy no puedo ir."
+        }
+      }
     },
     {
       "id": "cda_032",
       "es": "Gracias por la invitación",
       "translations": {
         "en": "Thank you for the invitation / Thanks for inviting me",
-        "fr": "Merci pour l’invitation",
-        "it": "Grazie per l’invito",
-        "pt": "Obrigado pelo convite / Obrigada pelo convite"
+        "fr": "Merci pour l'invitation",
+        "it": "Grazie per l'invito",
+        "pt": "Obrigado pelo convite / Obrigada pelo convite",
+        "de": "Danke für die Einladung."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Thank you for inviting me to your party.",
+          "es": "Gracias por invitarme a tu fiesta."
+        },
+        "fr": {
+          "text": "Merci pour l'invitation à ta fête.",
+          "es": "Gracias por la invitación a tu fiesta."
+        },
+        "it": {
+          "text": "Grazie per l'invito alla tua festa.",
+          "es": "Gracias por la invitación a tu fiesta."
+        },
+        "pt": {
+          "text": "Obrigado pelo convite para a sua festa.",
+          "es": "Gracias por la invitación a tu fiesta."
+        },
+        "de": {
+          "text": "Danke für die Einladung zu deiner Party.",
+          "es": "Gracias por la invitación a tu fiesta."
+        }
+      }
     },
     {
       "id": "cda_033",
@@ -404,9 +803,32 @@
         "en": "Thank you for the gift",
         "fr": "Merci pour le cadeau",
         "it": "Grazie per il regalo",
-        "pt": "Obrigado pelo presente / Obrigada pelo presente"
+        "pt": "Obrigado pelo presente / Obrigada pelo presente",
+        "de": "Danke für das Geschenk."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Thank you for the gift. I love the book.",
+          "es": "Gracias por el regalo. Me encanta el libro."
+        },
+        "fr": {
+          "text": "Merci pour le cadeau. J'adore le livre.",
+          "es": "Gracias por el regalo. Me encanta el libro."
+        },
+        "it": {
+          "text": "Grazie per il regalo. Il libro mi piace moltissimo.",
+          "es": "Gracias por el regalo. Me gusta muchísimo el libro."
+        },
+        "pt": {
+          "text": "Obrigada pelo presente. Adorei o livro.",
+          "es": "Gracias por el regalo. Me encantó el libro."
+        },
+        "de": {
+          "text": "Danke für das Geschenk. Das Buch gefällt mir sehr.",
+          "es": "Gracias por el regalo. Me gusta mucho el libro."
+        }
+      }
     },
     {
       "id": "cda_034",
@@ -415,9 +837,32 @@
         "en": "Thank you for everything",
         "fr": "Merci pour tout",
         "it": "Grazie di tutto",
-        "pt": "Obrigado por tudo / Obrigada por tudo"
+        "pt": "Obrigado por tudo / Obrigada por tudo",
+        "de": "Danke für alles."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Thank you for everything. I felt at home.",
+          "es": "Gracias por todo. Me sentí como en casa."
+        },
+        "fr": {
+          "text": "Merci pour tout. Je me suis senti comme chez moi.",
+          "es": "Gracias por todo. Me sentí como en casa."
+        },
+        "it": {
+          "text": "Grazie di tutto. Mi sono sentito come a casa.",
+          "es": "Gracias por todo. Me sentí como en casa."
+        },
+        "pt": {
+          "text": "Obrigado por tudo. Eu me senti em casa.",
+          "es": "Gracias por todo. Me sentí como en casa."
+        },
+        "de": {
+          "text": "Danke für alles. Ich habe mich wie zu Hause gefühlt.",
+          "es": "Gracias por todo. Me sentí como en casa."
+        }
+      }
     },
     {
       "id": "cda_035",
@@ -426,20 +871,66 @@
         "en": "Thank you for visiting / Thank you for your visit",
         "fr": "Merci de votre visite",
         "it": "Grazie per la visita",
-        "pt": "Obrigado pela sua visita / Obrigada pela sua visita"
+        "pt": "Obrigado pela sua visita / Obrigada pela sua visita",
+        "de": "Danke für Ihren Besuch."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Thank you for visiting. See you tomorrow.",
+          "es": "Gracias por su visita. Hasta mañana."
+        },
+        "fr": {
+          "text": "Merci de votre visite. À demain.",
+          "es": "Gracias por su visita. Hasta mañana."
+        },
+        "it": {
+          "text": "Grazie per la visita. A domani.",
+          "es": "Gracias por su visita. Hasta mañana."
+        },
+        "pt": {
+          "text": "Obrigada pela sua visita. Até amanhã.",
+          "es": "Gracias por su visita. Hasta mañana."
+        },
+        "de": {
+          "text": "Danke für Ihren Besuch. Bis morgen.",
+          "es": "Gracias por su visita. Hasta mañana."
+        }
+      }
     },
     {
       "id": "cda_036",
       "es": "Gracias por llamar",
       "translations": {
         "en": "Thank you for calling",
-        "fr": "Merci de votre appel",
+        "fr": "Merci d'avoir appelé.",
         "it": "Grazie per aver chiamato",
-        "pt": "Obrigado por ligar / Obrigada por ligar"
+        "pt": "Obrigado por ligar / Obrigada por ligar",
+        "de": "Danke für den Anruf."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Thank you for calling. How can I help you?",
+          "es": "Gracias por llamar. ¿En qué le puedo ayudar?"
+        },
+        "fr": {
+          "text": "Merci d'avoir appelé. Comment puis-je vous aider ?",
+          "es": "Gracias por llamar. ¿En qué le puedo ayudar?"
+        },
+        "it": {
+          "text": "Grazie per aver chiamato. Come posso aiutarla?",
+          "es": "Gracias por llamar. ¿En qué le puedo ayudar?"
+        },
+        "pt": {
+          "text": "Obrigada por ligar. Como posso ajudar?",
+          "es": "Gracias por llamar. ¿En qué le puedo ayudar?"
+        },
+        "de": {
+          "text": "Danke für den Anruf. Wie kann ich Ihnen helfen?",
+          "es": "Gracias por llamar. ¿En qué le puedo ayudar?"
+        }
+      }
     },
     {
       "id": "cda_037",
@@ -447,44 +938,151 @@
       "translations": {
         "en": "Thank you for your time",
         "fr": "Merci pour votre temps",
-        "it": "Grazie per il Suo tempo",
-        "pt": "Obrigado pelo seu tempo / Obrigada pelo seu tempo"
+        "it": "Grazie per il suo tempo",
+        "pt": "Obrigado pelo seu tempo / Obrigada pelo seu tempo",
+        "de": "Danke für Ihre Zeit."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Thank you for your time. I'll send you the file today.",
+          "es": "Gracias por su tiempo. Le mandaré el archivo hoy."
+        },
+        "fr": {
+          "text": "Merci pour votre temps. Je vous envoie le fichier aujourd'hui.",
+          "es": "Gracias por su tiempo. Le mando el archivo hoy."
+        },
+        "it": {
+          "text": "Grazie per il suo tempo. Le mando il file oggi.",
+          "es": "Gracias por su tiempo. Le mando el archivo hoy."
+        },
+        "pt": {
+          "text": "Obrigada pelo seu tempo. Envio o arquivo hoje.",
+          "es": "Gracias por su tiempo. Le mando el archivo hoy."
+        },
+        "de": {
+          "text": "Danke für Ihre Zeit. Ich schicke Ihnen die Datei heute.",
+          "es": "Gracias por su tiempo. Le mando el archivo hoy."
+        }
+      }
     },
     {
       "id": "cda_038",
       "es": "Gracias de antemano",
       "translations": {
         "en": "Thank you in advance",
-        "fr": "Merci d’avance",
+        "fr": "Merci d'avance",
         "it": "Grazie in anticipo",
-        "pt": "Obrigado desde já / Obrigada desde já / Agradeço desde já"
+        "pt": "Obrigado desde já / Obrigada desde já / Agradeço desde já",
+        "de": "Vielen Dank im Voraus."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Can you send me the address? Thank you in advance.",
+          "es": "¿Me puedes mandar la dirección? Gracias de antemano."
+        },
+        "fr": {
+          "text": "Tu peux m'envoyer l'adresse ? Merci d'avance.",
+          "es": "¿Me puedes mandar la dirección? Gracias de antemano."
+        },
+        "it": {
+          "text": "Puoi mandarmi l'indirizzo? Grazie in anticipo.",
+          "es": "¿Me puedes mandar la dirección? Gracias de antemano."
+        },
+        "pt": {
+          "text": "Você pode me mandar o endereço? Agradeço desde já.",
+          "es": "¿Me puedes mandar la dirección? Gracias de antemano."
+        },
+        "de": {
+          "text": "Kannst du mir die Adresse schicken? Vielen Dank im Voraus.",
+          "es": "¿Me puedes mandar la dirección? Gracias de antemano."
+        }
+      }
     },
     {
       "id": "cda_039",
       "es": "¡Qué amable!",
       "translations": {
-        "en": "That’s very kind of you / That’s so nice of you",
-        "fr": "C’est très gentil de ta part / C’est très gentil de votre part",
-        "it": "È molto gentile da parte tua / È molto gentile da parte Sua",
-        "pt": "Que gentileza / Muito gentil da sua parte"
+        "en": "That's very kind of you! / That's so nice of you!",
+        "fr": "C'est très gentil de ta part ! / C'est très gentil de votre part !",
+        "it": "È molto gentile da parte tua! / È molto gentile da parte sua!",
+        "pt": "Que gentileza! / Que gentil da sua parte!",
+        "de": "Wie nett von dir! / Wie nett von Ihnen!"
       },
       "image_url": "",
       "notes": {
-        "es": "Para agradecer un gesto."
+        "es": "(Para agradecer un gesto)"
+      },
+      "examples": {
+        "en": {
+          "text": "That's very kind of you! Thank you for opening the door for me.",
+          "es": "¡Qué amable! Gracias por abrirme la puerta."
+        },
+        "fr": {
+          "text": "C'est très gentil de ta part ! Merci de m'avoir ouvert la porte.",
+          "es": "¡Qué amable! Gracias por abrirme la puerta."
+        },
+        "it": {
+          "text": "È molto gentile da parte tua! Grazie per avermi aperto la porta.",
+          "es": "¡Qué amable! Gracias por abrirme la puerta."
+        },
+        "pt": {
+          "text": "Que gentileza! Obrigada por abrir a porta para mim.",
+          "es": "¡Qué amable! Gracias por abrirme la puerta."
+        },
+        "de": {
+          "text": "Wie nett von dir! Danke, dass du mir die Tür aufgemacht hast.",
+          "es": "¡Qué amable! Gracias por abrirme la puerta."
+        }
+      }
+    },
+    {
+      "id": "cda_105",
+      "es": "¡Salud!",
+      "translations": {
+        "en": "Bless you!",
+        "fr": "À tes souhaits ! / À vos souhaits !",
+        "it": "Salute!",
+        "pt": "Saúde!",
+        "de": "Gesundheit!"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Al oír un estornudo)"
+      },
+      "examples": {
+        "en": {
+          "text": "Bless you! Do you want a tissue?",
+          "es": "¡Salud! ¿Quieres un pañuelo?"
+        },
+        "fr": {
+          "text": "À tes souhaits ! Tu veux un mouchoir ?",
+          "es": "¡Salud! ¿Quieres un pañuelo?"
+        },
+        "it": {
+          "text": "Salute! Vuoi un fazzoletto?",
+          "es": "¡Salud! ¿Quieres un pañuelo?"
+        },
+        "pt": {
+          "text": "Saúde! Você quer um lenço?",
+          "es": "¡Salud! ¿Quieres un pañuelo?"
+        },
+        "de": {
+          "text": "Gesundheit! Möchtest du ein Taschentuch?",
+          "es": "¡Salud! ¿Quieres un pañuelo?"
+        }
       }
     },
     {
       "id": "cda_040",
-      "es": "No era necesario",
+      "es": "No era necesario.",
       "translations": {
-        "en": "You didn’t have to",
-        "fr": "Il ne fallait pas",
-        "it": "Non dovevi / Non doveva",
-        "pt": "Não precisava"
+        "en": "You didn't have to.",
+        "fr": "Il ne fallait pas.",
+        "it": "Non dovevi. / Non doveva.",
+        "pt": "Não precisava.",
+        "de": "Das hättest du nicht tun müssen. / Das hätten Sie nicht tun müssen."
       },
       "image_url": "",
       "notes": {
@@ -495,111 +1093,181 @@
       "id": "cda_041",
       "es": "De nada / No hay de qué",
       "translations": {
-        "en": "You’re welcome / Don’t mention it",
-        "fr": "De rien / Il n’y a pas de quoi / Je t’en prie",
-        "it": "Prego / Di niente / Di nulla / Non c’è di che / Figurati",
-        "pt": "De nada / Não há de quê"
+        "en": "You're welcome. / Don't mention it.",
+        "fr": "De rien / Il n'y a pas de quoi / Je t'en prie. / Je vous en prie.",
+        "it": "Prego / Di niente / Figurati. / Si figuri.",
+        "pt": "De nada / Não há de quê. / Disponha.",
+        "de": "Bitte / Gern geschehen / Nichts zu danken"
       },
       "image_url": "",
       "notes": {
-        "fr": "«Je t’en prie» es informal.",
-        "it": "«Figurati» es informal."
-      }
-    },
-    {
-      "id": "cda_042",
-      "es": "De nada",
-      "translations": {
-        "en": "You’re welcome",
-        "fr": "Je vous en prie",
-        "it": "Si figuri",
-        "pt": "Disponha"
+        "fr": "«Je t'en prie» es informal y «Je vous en prie» es formal o plural.",
+        "it": "«Figurati» es informal y «Si figuri» es formal.",
+        "es": "(Respuesta a un agradecimiento)",
+        "pt": "«Disponha» es una respuesta cortés que también puede ofrecer ayuda futura.",
+        "de": "«Bitte» también significa «por favor»; aquí responde a «danke»."
       },
-      "image_url": "",
-      "notes": {
-        "es": "Respuesta cortés, trato formal.",
-        "fr": "«Je vous en prie» es formal.",
-        "it": "«Si figuri» es formal."
+      "examples": {
+        "en": {
+          "text": "You're welcome. I'm happy to help.",
+          "es": "De nada. Me da gusto ayudarte."
+        },
+        "fr": {
+          "text": "De rien. Ça me fait plaisir de t'aider.",
+          "es": "De nada. Me da gusto ayudarte."
+        },
+        "it": {
+          "text": "Di niente. Ti aiuto volentieri.",
+          "es": "De nada. Te ayudo con gusto."
+        },
+        "pt": {
+          "text": "De nada. Fico feliz em ajudar.",
+          "es": "De nada. Me da gusto ayudar."
+        },
+        "de": {
+          "text": "Gern geschehen. Ich helfe dir gern.",
+          "es": "De nada. Te ayudo con gusto."
+        }
       }
     },
     {
       "id": "cda_043",
       "es": "Con gusto",
       "translations": {
-        "en": "Happy to help / My pleasure",
+        "en": "Happy to help. / My pleasure.",
         "fr": "Avec plaisir",
-        "it": "Con piacere / È stato un piacere",
-        "pt": "Com prazer / Foi um prazer"
+        "it": "È stato un piacere. / Con piacere.",
+        "pt": "Foi um prazer. / Com prazer.",
+        "de": "Sehr gern. / Das habe ich gern gemacht."
       },
       "image_url": "",
       "notes": {
-        "es": "Respuesta a un agradecimiento."
+        "es": "(Respuesta cálida por un favor ya hecho)",
+        "it": "«È stato un piacere» se refiere a un favor ya hecho.",
+        "de": "«Sehr gern» también puede aceptar una propuesta; «Das habe ich gern gemacht» responde a un favor ya hecho."
+      },
+      "examples": {
+        "en": {
+          "text": "My pleasure. I was happy to help.",
+          "es": "Con gusto. Me dio gusto ayudarte."
+        },
+        "fr": {
+          "text": "Avec plaisir ! J'étais content de t'aider.",
+          "es": "Con gusto. Me dio gusto ayudarte."
+        },
+        "it": {
+          "text": "È stato un piacere. Ti ho aiutato volentieri.",
+          "es": "Fue un placer. Te ayudé con gusto."
+        },
+        "pt": {
+          "text": "Foi um prazer. Gostei de ajudar.",
+          "es": "Fue un placer. Me gustó ayudar."
+        },
+        "de": {
+          "text": "Das habe ich gern gemacht. Ich helfe dir gern.",
+          "es": "Lo hice con gusto. Me da gusto ayudarte."
+        }
       }
     },
     {
       "id": "cda_044",
-      "es": "Gracias a ti",
+      "es": "Gracias a ti / Gracias a usted",
       "translations": {
-        "en": "No, thank you!",
-        "fr": "Merci à toi",
-        "it": "Grazie a te",
-        "pt": "Eu é que agradeço"
+        "en": "I should be thanking you!",
+        "fr": "C'est moi qui te remercie ! / C'est moi qui vous remercie !",
+        "it": "Grazie a te! / Grazie a lei!",
+        "pt": "Eu é que agradeço!",
+        "de": "Nein, ich danke dir! / Nein, ich danke Ihnen!"
       },
       "image_url": "",
       "notes": {
-        "es": "Para devolver un agradecimiento; trato informal."
-      }
-    },
-    {
-      "id": "cda_045",
-      "es": "Gracias a usted",
-      "translations": {
-        "en": "No, thank you!",
-        "fr": "Merci à vous",
-        "it": "Grazie a Lei",
-        "pt": "Eu é que agradeço"
+        "es": "(Para devolver un agradecimiento). Primero se presenta el trato informal y después el formal.",
+        "en": "Se devuelve el agradecimiento a quien dio las gracias primero."
       },
-      "image_url": "",
-      "notes": {
-        "es": "Para devolver un agradecimiento; trato formal."
+      "examples": {
+        "en": {
+          "text": "I should be thanking you! I had a great time.",
+          "es": "¡Gracias a ti! La pasé muy bien."
+        },
+        "fr": {
+          "text": "C'est moi qui te remercie ! J'ai passé un très bon moment.",
+          "es": "¡Gracias a ti! La pasé muy bien."
+        },
+        "it": {
+          "text": "Grazie a te! Mi sono divertito molto.",
+          "es": "¡Gracias a ti! La pasé muy bien."
+        },
+        "pt": {
+          "text": "Eu é que agradeço! Eu me diverti muito.",
+          "es": "¡Gracias a ti! La pasé muy bien."
+        },
+        "de": {
+          "text": "Nein, ich danke dir! Ich hatte viel Spaß.",
+          "es": "¡Gracias a ti! La pasé muy bien."
+        }
       }
     },
     {
       "id": "cda_046",
       "es": "Perdón",
       "translations": {
-        "en": "Sorry / Pardon me",
+        "en": "Sorry",
         "fr": "Pardon",
         "it": "Scusa / Scusi",
-        "pt": "Desculpa / Desculpe"
+        "pt": "Desculpa / Desculpe",
+        "de": "Entschuldigung"
       },
       "image_url": "",
       "notes": {
-        "es": "Disculpa breve por una falta."
+        "es": "(Disculpa breve por una falta)"
+      },
+      "examples": {
+        "en": {
+          "text": "Sorry, I knocked your glass over.",
+          "es": "Perdón, tiré tu vaso."
+        },
+        "fr": {
+          "text": "Pardon, j'ai renversé ton verre.",
+          "es": "Perdón, tiré tu vaso."
+        },
+        "it": {
+          "text": "Scusa, ho rovesciato il tuo bicchiere.",
+          "es": "Perdón, tiré tu vaso."
+        },
+        "pt": {
+          "text": "Desculpa, derrubei seu copo.",
+          "es": "Perdón, tiré tu vaso."
+        },
+        "de": {
+          "text": "Entschuldigung, ich habe dein Glas umgestoßen.",
+          "es": "Perdón, tiré tu vaso."
+        }
       }
     },
     {
       "id": "cda_047",
-      "es": "Lo siento",
+      "es": "Lo siento.",
       "translations": {
-        "en": "I’m sorry",
-        "fr": "Je suis désolé / Je suis désolée",
-        "it": "Mi dispiace",
-        "pt": "Sinto muito / Lamento"
+        "en": "I'm sorry.",
+        "fr": "Je suis désolé. / Je suis désolée.",
+        "it": "Mi dispiace.",
+        "pt": "Sinto muito. / Lamento.",
+        "de": "Das tut mir leid."
       },
       "image_url": "",
       "notes": {
-        "es": "Para expresar pesar."
+        "es": "(Para expresar pesar)"
       }
     },
     {
       "id": "cda_048",
-      "es": "Lo siento mucho",
+      "es": "Lo siento mucho.",
       "translations": {
-        "en": "I’m so sorry / I’m really sorry",
-        "fr": "Je suis vraiment désolé / Je suis vraiment désolée",
-        "it": "Mi dispiace molto / Mi dispiace tanto",
-        "pt": "Sinto muito mesmo"
+        "en": "I'm so sorry. / I'm really sorry.",
+        "fr": "Je suis vraiment désolé. / Je suis vraiment désolée.",
+        "it": "Mi dispiace molto. / Mi dispiace tanto.",
+        "pt": "Sinto muito mesmo.",
+        "de": "Das tut mir sehr leid."
       },
       "image_url": "",
       "notes": {
@@ -608,79 +1276,96 @@
     },
     {
       "id": "cda_049",
-      "es": "Le pido disculpas",
+      "es": "Le pido disculpas.",
       "translations": {
-        "en": "I apologize / My apologies",
-        "fr": "Je vous présente mes excuses / Toutes mes excuses",
-        "it": "Le chiedo scusa",
-        "pt": "Peço desculpas"
+        "en": "I apologize. / My apologies.",
+        "fr": "Je vous présente mes excuses. / Toutes mes excuses.",
+        "it": "Le chiedo scusa.",
+        "pt": "Peço desculpas.",
+        "de": "Ich bitte Sie um Entschuldigung."
       },
       "image_url": "",
       "notes": {
-        "es": "Registro formal."
+        "es": "(Formal)"
       }
     },
     {
       "id": "cda_050",
-      "es": "Perdóname",
+      "es": "Perdóname. / Perdóneme.",
       "translations": {
-        "en": "Please forgive me",
-        "fr": "Pardonne-moi",
-        "it": "Perdonami",
-        "pt": "Me perdoa"
+        "en": "Forgive me, please.",
+        "fr": "Pardonne-moi. / Pardonnez-moi.",
+        "it": "Perdonami. / Mi perdoni.",
+        "pt": "Me perdoa. / Me perdoe.",
+        "de": "Verzeih mir. / Verzeihen Sie mir."
       },
       "image_url": "",
       "notes": {
-        "es": "Trato informal."
-      }
-    },
-    {
-      "id": "cda_051",
-      "es": "Perdóneme",
-      "translations": {
-        "en": "Please forgive me",
-        "fr": "Pardonnez-moi",
-        "it": "Mi perdoni",
-        "pt": "Me perdoe"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Trato formal."
+        "es": "Primero se presenta el trato informal y después el formal.",
+        "pt": "La colocación inicial de «me» es natural en el habla brasileña."
       }
     },
     {
       "id": "cda_052",
-      "es": "Perdón, fue mi error",
+      "es": "Perdón, fue mi error.",
       "translations": {
-        "en": "My bad",
-        "fr": "Oups, c’est ma faute / Pardon, c’est ma faute",
-        "it": "Scusa, colpa mia",
-        "pt": "Foi mal / Desculpa, foi erro meu"
+        "en": "Sorry, that was my mistake.",
+        "fr": "Pardon, c'est ma faute.",
+        "it": "Scusa, è colpa mia.",
+        "pt": "Desculpa, o erro foi meu.",
+        "de": "Sorry, das war mein Fehler."
       },
       "image_url": "",
       "notes": {
-        "es": "Registro coloquial."
+        "es": "(Informal)",
+        "en": "Coloquial: My bad. Se usa para admitir un error leve.",
+        "pt": "Coloquial: Foi mal. Se usa para admitir un error leve.",
+        "de": "«Sorry» es habitual en situaciones informales; «Entschuldigung» funciona también en situaciones formales."
       }
     },
     {
       "id": "cda_053",
       "es": "Perdón por llegar tarde",
       "translations": {
-        "en": "Sorry I’m late",
-        "fr": "Désolé d’être en retard / Désolée d’être en retard",
+        "en": "Sorry I'm late",
+        "fr": "Désolé d'être en retard / Désolée d'être en retard",
         "it": "Scusa per il ritardo / Mi scusi per il ritardo",
-        "pt": "Desculpa pelo atraso / Desculpe pelo atraso"
+        "pt": "Desculpa pelo atraso / Desculpe pelo atraso",
+        "de": "Entschuldige, dass ich zu spät bin. / Entschuldigen Sie, dass ich zu spät bin."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Sorry I'm late. I missed the bus.",
+          "es": "Perdón por llegar tarde. Perdí el camión."
+        },
+        "fr": {
+          "text": "Désolé d'être en retard. J'ai raté le bus.",
+          "es": "Perdón por llegar tarde. Perdí el camión."
+        },
+        "it": {
+          "text": "Scusa per il ritardo. Ho perso l'autobus.",
+          "es": "Perdón por el retraso. Perdí el camión."
+        },
+        "pt": {
+          "text": "Desculpa pelo atraso. Perdi o ônibus.",
+          "es": "Perdón por llegar tarde. Perdí el camión."
+        },
+        "de": {
+          "text": "Entschuldige, dass ich zu spät bin. Ich habe den Bus verpasst.",
+          "es": "Perdón por llegar tarde. Perdí el camión."
+        }
+      }
     },
     {
       "id": "cda_054",
       "es": "Perdón por interrumpir",
       "translations": {
         "en": "Sorry to interrupt",
-        "fr": "Pardon de t’interrompre / Pardon de vous interrompre",
-        "it": "Scusa se ti interrompo / Mi scusi se La interrompo",
-        "pt": "Desculpa por interromper / Desculpe por interromper"
+        "fr": "Pardon de t'interrompre / Pardon de vous interrompre",
+        "it": "Scusa se ti interrompo. / Mi scusi se la interrompo.",
+        "pt": "Desculpa por interromper / Desculpe por interromper",
+        "de": "Entschuldige die Unterbrechung. / Entschuldigen Sie die Unterbrechung."
       },
       "image_url": ""
     },
@@ -691,20 +1376,66 @@
         "en": "Sorry to bother you",
         "fr": "Désolé de te déranger / Désolée de te déranger / Désolé de vous déranger / Désolée de vous déranger",
         "it": "Scusa per il disturbo / Mi scusi per il disturbo",
-        "pt": "Desculpa pelo incômodo / Desculpe pelo incômodo"
+        "pt": "Desculpa pelo incômodo / Desculpe pelo incômodo",
+        "de": "Entschuldige die Störung. / Entschuldigen Sie die Störung."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Sorry to bother you. Do you have a minute?",
+          "es": "Perdón por molestar, ¿tienes un minuto?"
+        },
+        "fr": {
+          "text": "Désolé de te déranger, tu as une minute ?",
+          "es": "Perdón por molestar, ¿tienes un minuto?"
+        },
+        "it": {
+          "text": "Scusa per il disturbo, hai un minuto?",
+          "es": "Perdón por la molestia. ¿Tienes un minuto?"
+        },
+        "pt": {
+          "text": "Desculpa pelo incômodo. Você tem um minuto?",
+          "es": "Perdón por molestar, ¿tienes un minuto?"
+        },
+        "de": {
+          "text": "Entschuldige die Störung. Hast du eine Minute?",
+          "es": "Perdón por molestar, ¿tienes un minuto?"
+        }
+      }
     },
     {
       "id": "cda_056",
       "es": "Perdón por hacerte esperar / Perdón por hacerle esperar",
       "translations": {
-        "en": "Sorry to keep you waiting",
-        "fr": "Désolé de t’avoir fait attendre / Désolée de t’avoir fait attendre / Désolé de vous avoir fait attendre / Désolée de vous avoir fait attendre",
-        "it": "Scusa per l’attesa / Mi scusi per l’attesa",
-        "pt": "Desculpa pela demora / Desculpe pela demora"
+        "en": "Sorry to have kept you waiting.",
+        "fr": "Désolé de t'avoir fait attendre / Désolée de t'avoir fait attendre / Désolé de vous avoir fait attendre / Désolée de vous avoir fait attendre",
+        "it": "Scusa per l'attesa / Mi scusi per l'attesa",
+        "pt": "Desculpa por fazer você esperar. / Desculpe por fazer o senhor esperar. / Desculpe por fazer a senhora esperar.",
+        "de": "Entschuldige, dass du warten musstest. / Entschuldigen Sie, dass Sie warten mussten."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Sorry to have kept you waiting. I'm ready now.",
+          "es": "Perdón por hacerte esperar. Ya estoy listo."
+        },
+        "fr": {
+          "text": "Désolé de t'avoir fait attendre. Je suis prêt maintenant.",
+          "es": "Perdón por hacerte esperar. Ya estoy listo."
+        },
+        "it": {
+          "text": "Scusa per l'attesa. Ora sono pronto.",
+          "es": "Perdón por la espera. Ya estoy listo."
+        },
+        "pt": {
+          "text": "Desculpa por fazer você esperar. Já estou pronto.",
+          "es": "Perdón por hacerte esperar. Ya estoy listo."
+        },
+        "de": {
+          "text": "Entschuldige, dass du warten musstest. Ich bin jetzt so weit.",
+          "es": "Perdón por hacerte esperar. Ya estoy listo."
+        }
+      }
     },
     {
       "id": "cda_057",
@@ -712,8 +1443,9 @@
       "translations": {
         "en": "Sorry for the late reply",
         "fr": "Désolé de répondre si tard / Désolée de répondre si tard",
-        "it": "Scusa se rispondo solo ora / Mi scusi se rispondo solo ora",
-        "pt": "Desculpa pela demora em responder / Desculpe pela demora em responder"
+        "it": "Scusa se rispondo solo ora. / Mi scusi se rispondo solo ora.",
+        "pt": "Desculpa pela demora em responder / Desculpe pela demora em responder",
+        "de": "Entschuldige, dass ich erst jetzt antworte. / Entschuldigen Sie, dass ich erst jetzt antworte."
       },
       "image_url": ""
     },
@@ -724,283 +1456,271 @@
         "en": "Sorry for the confusion",
         "fr": "Désolé pour la confusion / Désolée pour la confusion",
         "it": "Scusa per la confusione / Mi scusi per la confusione",
-        "pt": "Desculpa pela confusão / Desculpe pela confusão"
+        "pt": "Desculpa pela confusão / Desculpe pela confusão",
+        "de": "Entschuldigung für das Durcheinander"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Sorry for the confusion. The appointment is on Tuesday.",
+          "es": "Perdón por la confusión. La cita es el martes."
+        },
+        "fr": {
+          "text": "Désolé pour la confusion. Le rendez-vous est mardi.",
+          "es": "Perdón por la confusión. La cita es el martes."
+        },
+        "it": {
+          "text": "Scusa per la confusione. L'appuntamento è martedì.",
+          "es": "Perdón por la confusión. La cita es el martes."
+        },
+        "pt": {
+          "text": "Desculpa pela confusão. O compromisso é na terça-feira.",
+          "es": "Perdón por la confusión. La cita es el martes."
+        },
+        "de": {
+          "text": "Entschuldigung für das Durcheinander. Der Termin ist am Dienstag.",
+          "es": "Perdón por la confusión. La cita es el martes."
+        }
+      }
     },
     {
       "id": "cda_059",
-      "es": "Perdón, olvidé tu nombre / Perdón, olvidé su nombre",
+      "es": "Perdón, olvidé tu nombre. / Perdón, olvidé su nombre.",
       "translations": {
-        "en": "Sorry, I forgot your name",
-        "fr": "Pardon, j’ai oublié ton nom / Pardon, j’ai oublié votre nom",
-        "it": "Scusa, ho dimenticato il tuo nome / Mi scusi, ho dimenticato il Suo nome",
-        "pt": "Desculpa, esqueci seu nome / Desculpe, esqueci seu nome"
+        "en": "Sorry, I forgot your name.",
+        "fr": "Pardon, j'ai oublié ton nom. / Pardon, j'ai oublié votre nom.",
+        "it": "Scusa, ho dimenticato il tuo nome. / Mi scusi, ho dimenticato il suo nome.",
+        "pt": "Desculpa, esqueci seu nome. / Desculpe, esqueci o nome do senhor. / Desculpe, esqueci o nome da senhora.",
+        "de": "Entschuldige, ich habe deinen Namen vergessen. / Entschuldigen Sie, ich habe Ihren Namen vergessen."
       },
       "image_url": ""
     },
     {
       "id": "cda_060",
-      "es": "Fue mi culpa",
+      "es": "Fue mi culpa.",
       "translations": {
-        "en": "It was my fault",
-        "fr": "C’était ma faute",
-        "it": "È stata colpa mia",
-        "pt": "Foi minha culpa"
+        "en": "It was my fault.",
+        "fr": "C'était ma faute.",
+        "it": "È stata colpa mia.",
+        "pt": "Foi minha culpa.",
+        "de": "Es war meine Schuld."
       },
       "image_url": ""
     },
     {
       "id": "cda_061",
-      "es": "Me equivoqué",
+      "es": "Me equivoqué.",
       "translations": {
-        "en": "I made a mistake / I was mistaken",
-        "fr": "Je me suis trompé / Je me suis trompée",
-        "it": "Ho sbagliato",
-        "pt": "Eu me enganei / Cometi um erro"
+        "en": "I made a mistake. / I was mistaken.",
+        "fr": "Je me suis trompé. / Je me suis trompée.",
+        "it": "Ho sbagliato.",
+        "pt": "Eu me enganei. / Cometi um erro.",
+        "de": "Ich habe mich geirrt. / Ich habe einen Fehler gemacht."
       },
       "image_url": ""
     },
     {
       "id": "cda_062",
-      "es": "Fue sin querer / No fue mi intención",
+      "es": "Fue sin querer. / No fue mi intención.",
       "translations": {
-        "en": "I didn’t mean to / It was an accident",
-        "fr": "Je ne l’ai pas fait exprès / Ce n’était pas intentionnel",
-        "it": "Non l’ho fatto apposta / Non era mia intenzione",
-        "pt": "Foi sem querer / Não foi minha intenção"
+        "en": "I didn't mean to. / It was an accident.",
+        "fr": "Je ne l'ai pas fait exprès. / Ce n'était pas intentionnel.",
+        "it": "Non l'ho fatto apposta. / Non era mia intenzione.",
+        "pt": "Foi sem querer. / Não foi minha intenção.",
+        "de": "Das habe ich nicht mit Absicht gemacht. / Das wollte ich nicht."
       },
       "image_url": ""
     },
     {
       "id": "cda_063",
-      "es": "No me di cuenta",
+      "es": "No me di cuenta.",
       "translations": {
-        "en": "I didn’t realize / I didn’t notice",
-        "fr": "Je ne m’en suis pas rendu compte",
-        "it": "Non me ne sono accorto / Non me ne sono accorta",
-        "pt": "Não percebi"
+        "en": "I didn't realize. / I didn't notice.",
+        "fr": "Je ne m'en suis pas rendu compte.",
+        "it": "Non me ne sono accorto. / Non me ne sono accorta.",
+        "pt": "Não percebi.",
+        "de": "Das habe ich nicht bemerkt. / Das habe ich nicht gemerkt."
       },
       "image_url": ""
     },
     {
       "id": "cda_064",
-      "es": "No te vi / No lo vi / No la vi",
+      "es": "No te vi. / No lo vi. / No la vi.",
       "translations": {
-        "en": "I didn’t see you",
-        "fr": "Je ne t’ai pas vu / Je ne t’ai pas vue / Je ne vous ai pas vu / Je ne vous ai pas vue",
-        "it": "Non ti ho visto / Non ti ho vista / Non L’ho visto / Non L’ho vista",
-        "pt": "Não vi você / Não vi o senhor / Não vi a senhora"
+        "en": "I didn't see you.",
+        "fr": "Je ne t'ai pas vu. / Je ne t'ai pas vue. / Je ne vous ai pas vu. / Je ne vous ai pas vue.",
+        "it": "Non ti ho visto. / Non ti ho vista. / Non l'ho visto. / Non l'ho vista.",
+        "pt": "Não vi você. / Não vi o senhor. / Não vi a senhora.",
+        "de": "Ich habe dich nicht gesehen. / Ich habe Sie nicht gesehen."
       },
       "image_url": "",
       "notes": {
-        "es": "«Te» es informal; «lo / la», formal."
+        "es": "(Al hablar directamente con la persona a quien no viste). «Te» es informal y «lo» o «la» son formales.",
+        "de": "«Dich» es informal y «Sie» es formal; en este uso, «Sie» siempre lleva mayúscula."
       }
     },
     {
       "id": "cda_065",
-      "es": "Se me olvidó",
+      "es": "Se me olvidó.",
       "translations": {
-        "en": "I forgot",
-        "fr": "J’ai oublié",
-        "it": "Me ne sono dimenticato / Me ne sono dimenticata",
-        "pt": "Eu esqueci"
+        "en": "I forgot.",
+        "fr": "J'ai oublié.",
+        "it": "Me ne sono dimenticato. / Me ne sono dimenticata.",
+        "pt": "Esqueci.",
+        "de": "Ich habe es vergessen."
       },
       "image_url": ""
     },
     {
       "id": "cda_066",
-      "es": "No volverá a pasar",
+      "es": "No volverá a pasar.",
       "translations": {
-        "en": "It won’t happen again",
-        "fr": "Ça ne se reproduira plus",
-        "it": "Non succederà più",
-        "pt": "Não vai acontecer de novo"
+        "en": "It won't happen again.",
+        "fr": "Ça ne se reproduira plus.",
+        "it": "Non succederà più.",
+        "pt": "Não vai acontecer de novo.",
+        "de": "Das passiert nicht noch einmal."
       },
       "image_url": ""
     },
     {
       "id": "cda_067",
-      "es": "Voy a arreglarlo",
+      "es": "Voy a arreglarlo.",
       "translations": {
-        "en": "I’ll fix it",
-        "fr": "Je vais arranger ça",
-        "it": "Lo sistemerò",
-        "pt": "Vou resolver isso"
+        "en": "I'll fix it.",
+        "fr": "Je vais arranger ça.",
+        "it": "Lo sistemerò.",
+        "pt": "Vou resolver isso.",
+        "de": "Ich bringe das in Ordnung."
       },
       "image_url": ""
     },
     {
       "id": "cda_068",
-      "es": "¿Estás bien?",
+      "es": "¿Estás bien? / ¿Está usted bien?",
       "translations": {
         "en": "Are you OK? / Are you all right?",
-        "fr": "Tu vas bien ?",
-        "it": "Stai bene?",
-        "pt": "Você está bem?"
+        "fr": "Tu vas bien ? / Vous allez bien ?",
+        "it": "Stai bene? / Sta bene?",
+        "pt": "Você está bem? / O senhor está bem? / A senhora está bem?",
+        "de": "Geht es dir gut? / Geht es Ihnen gut?"
       },
       "image_url": "",
       "notes": {
-        "es": "Tras un accidente o golpe; trato informal."
-      }
-    },
-    {
-      "id": "cda_069",
-      "es": "¿Está usted bien?",
-      "translations": {
-        "en": "Are you OK? / Are you all right?",
-        "fr": "Vous allez bien ?",
-        "it": "Sta bene?",
-        "pt": "O senhor está bem? / A senhora está bem?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Tras un accidente o golpe; trato formal."
+        "es": "(Al comprobar cómo se encuentra alguien tras un golpe o susto). Primero se presenta el trato informal y después el formal."
       }
     },
     {
       "id": "cda_070",
-      "es": "No pasa nada / Está bien",
+      "es": "No pasa nada. / Está bien.",
       "translations": {
-        "en": "It’s OK / That’s all right / No problem",
-        "fr": "Ce n’est pas grave / Pas de problème",
-        "it": "Non fa niente / Non importa / Nessun problema",
-        "pt": "Não foi nada / Não tem problema / Tudo bem"
+        "en": "It's OK. / That's all right. / No problem.",
+        "fr": "Ce n'est pas grave. / Pas de problème.",
+        "it": "Non fa niente. / Non importa. / Nessun problema.",
+        "pt": "Não tem problema. / Tudo bem.",
+        "de": "Macht nichts. / Kein Problem."
       },
       "image_url": "",
       "notes": {
-        "es": "Para aceptar una disculpa."
+        "es": "(Para aceptar una disculpa)",
+        "de": "«Macht nichts» responde a una disculpa sin darle importancia al error."
       }
     },
     {
       "id": "cda_071",
-      "es": "No te preocupes",
+      "es": "No te preocupes. / No se preocupe.",
       "translations": {
-        "en": "Don’t worry about it / No worries",
-        "fr": "Ne t’inquiète pas",
-        "it": "Non ti preoccupare",
-        "pt": "Não se preocupe / Não esquenta"
+        "en": "Don't worry about it. / No worries.",
+        "fr": "Ne t'inquiète pas. / Ne vous inquiétez pas.",
+        "it": "Non ti preoccupare. / Non si preoccupi.",
+        "pt": "Não se preocupe.",
+        "de": "Mach dir keine Sorgen. / Machen Sie sich keine Sorgen."
       },
       "image_url": "",
       "notes": {
-        "es": "Trato informal.",
-        "pt": "«Não esquenta» es coloquial."
-      }
-    },
-    {
-      "id": "cda_072",
-      "es": "No se preocupe",
-      "translations": {
-        "en": "Don’t worry about it",
-        "fr": "Ne vous inquiétez pas",
-        "it": "Non si preoccupi",
-        "pt": "Não se preocupe"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Trato formal."
+        "es": "Primero se presenta el trato informal y después el formal.",
+        "pt": "«Não se preocupe» es habitual tanto con «você» como con un trato más formal. Coloquial: Não esquenta."
       }
     },
     {
       "id": "cda_073",
-      "es": "Le puede pasar a cualquiera",
+      "es": "Le puede pasar a cualquiera.",
       "translations": {
-        "en": "It can happen to anyone",
-        "fr": "Ça peut arriver à tout le monde",
-        "it": "Può capitare a chiunque",
-        "pt": "Pode acontecer com qualquer pessoa"
+        "en": "It can happen to anyone.",
+        "fr": "Ça peut arriver à tout le monde.",
+        "it": "Può capitare a chiunque.",
+        "pt": "Pode acontecer com qualquer pessoa.",
+        "de": "Das kann jedem passieren."
       },
       "image_url": ""
     },
     {
       "id": "cda_074",
-      "es": "No fue tu culpa / No fue su culpa",
+      "es": "No fue tu culpa. / No fue su culpa.",
       "translations": {
-        "en": "It wasn’t your fault",
-        "fr": "Ce n’était pas ta faute / Ce n’était pas votre faute",
-        "it": "Non è stata colpa tua / Non è stata colpa Sua",
-        "pt": "Não foi sua culpa"
+        "en": "It wasn't your fault.",
+        "fr": "Ce n'était pas ta faute. / Ce n'était pas votre faute.",
+        "it": "Non è stata colpa tua. / Non è stata colpa sua.",
+        "pt": "Não foi sua culpa.",
+        "de": "Es war nicht deine Schuld. / Es war nicht Ihre Schuld."
       },
       "image_url": ""
     },
     {
       "id": "cda_075",
-      "es": "Te perdono",
+      "es": "Te perdono. / Lo perdono. / La perdono.",
       "translations": {
-        "en": "I forgive you",
-        "fr": "Je te pardonne",
-        "it": "Ti perdono",
-        "pt": "Eu te perdoo"
+        "en": "I forgive you.",
+        "fr": "Je te pardonne. / Je vous pardonne.",
+        "it": "Ti perdono. / La perdono.",
+        "pt": "Eu te perdoo. / Eu perdoo o senhor. / Eu perdoo a senhora.",
+        "de": "Ich verzeihe dir. / Ich verzeihe Ihnen."
       },
       "image_url": "",
       "notes": {
-        "es": "Trato informal."
+        "es": "(Al hablar directamente con la persona a quien perdonas). «Te» es informal y «lo» o «la» son formales.",
+        "de": "La persona a quien se perdona va en dativo: «dir» (informal) o «Ihnen» (formal)."
       }
     },
     {
       "id": "cda_076",
-      "es": "¿Me ayudas, por favor?",
+      "es": "¿Me ayudas, por favor? / ¿Puede ayudarme, por favor?",
       "translations": {
-        "en": "Can you help me, please?",
-        "fr": "Tu peux m’aider, s’il te plaît ?",
-        "it": "Mi puoi aiutare, per favore?",
-        "pt": "Você pode me ajudar, por favor?"
+        "en": "Can you help me, please? / Could you help me, please?",
+        "fr": "Tu peux m'aider, s'il te plaît ? / Pouvez-vous m'aider, s'il vous plaît ?",
+        "it": "Mi puoi aiutare, per favore? / Può aiutarmi, per favore?",
+        "pt": "Você pode me ajudar, por favor? / O senhor pode me ajudar, por favor? / A senhora pode me ajudar, por favor?",
+        "de": "Kannst du mir bitte helfen? / Könnten Sie mir bitte helfen?"
       },
       "image_url": "",
       "notes": {
-        "es": "Trato informal."
-      }
-    },
-    {
-      "id": "cda_077",
-      "es": "¿Puede ayudarme, por favor?",
-      "translations": {
-        "en": "Can you help me, please?",
-        "fr": "Pouvez-vous m’aider, s’il vous plaît ?",
-        "it": "Può aiutarmi, per favore?",
-        "pt": "O senhor pode me ajudar, por favor? / A senhora pode me ajudar, por favor?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Trato formal."
+        "es": "Primero se presenta el trato informal y después el formal."
       }
     },
     {
       "id": "cda_078",
-      "es": "¿Me haces un favor?",
+      "es": "¿Me haces un favor? / ¿Puede hacerme un favor?",
       "translations": {
-        "en": "Can you do me a favor?",
-        "fr": "Tu peux me rendre un service ?",
-        "it": "Mi fai un favore?",
-        "pt": "Você pode me fazer um favor?"
+        "en": "Can you do me a favor? / Could you do me a favor?",
+        "fr": "Tu peux me rendre un service ? / Pouvez-vous me rendre un service ?",
+        "it": "Mi fai un favore? / Può farmi un favore?",
+        "pt": "Você pode me fazer um favor? / O senhor pode me fazer um favor? / A senhora pode me fazer um favor?",
+        "de": "Kannst du mir einen Gefallen tun? / Könnten Sie mir einen Gefallen tun?"
       },
       "image_url": "",
       "notes": {
-        "es": "Trato informal."
-      }
-    },
-    {
-      "id": "cda_079",
-      "es": "¿Puede hacerme un favor?",
-      "translations": {
-        "en": "Could you do me a favor?",
-        "fr": "Pouvez-vous me rendre un service ?",
-        "it": "Può farmi un favore?",
-        "pt": "O senhor pode me fazer um favor? / A senhora pode me fazer um favor?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Trato formal."
+        "es": "Primero se presenta el trato informal y después el formal."
       }
     },
     {
       "id": "cda_080",
-      "es": "Necesito ayuda, por favor",
+      "es": "Necesito ayuda, por favor.",
       "translations": {
-        "en": "I need help, please",
-        "fr": "J’ai besoin d’aide, s’il vous plaît",
-        "it": "Ho bisogno di aiuto, per favore",
-        "pt": "Preciso de ajuda, por favor"
+        "en": "I need help, please.",
+        "fr": "J'ai besoin d'aide, s'il vous plaît.",
+        "it": "Ho bisogno di aiuto, per favore.",
+        "pt": "Preciso de ajuda, por favor.",
+        "de": "Ich brauche Hilfe, bitte."
       },
       "image_url": ""
     },
@@ -1009,20 +1729,47 @@
       "es": "Un momento, por favor",
       "translations": {
         "en": "One moment, please / Just a moment, please",
-        "fr": "Un instant, s’il vous plaît",
+        "fr": "Un instant, s'il vous plaît",
         "it": "Un momento, per favore / Un attimo, per favore",
-        "pt": "Um momento, por favor / Só um instante, por favor"
+        "pt": "Um momento, por favor / Só um instante, por favor",
+        "de": "Einen Moment, bitte."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Einen Moment» usa acusativo en esta fórmula de espera."
+      },
+      "examples": {
+        "en": {
+          "text": "One moment, please. I'll look up your name.",
+          "es": "Un momento, por favor. Voy a buscar su nombre."
+        },
+        "fr": {
+          "text": "Un instant, s'il vous plaît. Je cherche votre nom.",
+          "es": "Un momento, por favor. Estoy buscando su nombre."
+        },
+        "it": {
+          "text": "Un momento, per favore. Cerco il suo nome.",
+          "es": "Un momento, por favor. Busco su nombre."
+        },
+        "pt": {
+          "text": "Um momento, por favor. Vou procurar o seu nome.",
+          "es": "Un momento, por favor. Voy a buscar su nombre."
+        },
+        "de": {
+          "text": "Einen Moment, bitte. Ich suche nach Ihrem Namen.",
+          "es": "Un momento, por favor. Estoy buscando su nombre."
+        }
+      }
     },
     {
       "id": "cda_082",
       "es": "¿Puede esperar un momento, por favor?",
       "translations": {
         "en": "Could you wait a moment, please?",
-        "fr": "Pouvez-vous attendre un instant, s’il vous plaît ?",
+        "fr": "Pouvez-vous attendre un instant, s'il vous plaît ?",
         "it": "Può aspettare un momento, per favore?",
-        "pt": "Pode esperar um momento, por favor?"
+        "pt": "Pode esperar um momento, por favor?",
+        "de": "Könnten Sie bitte einen Moment warten?"
       },
       "image_url": ""
     },
@@ -1031,9 +1778,10 @@
       "es": "¿Me pasas eso, por favor?",
       "translations": {
         "en": "Can you pass me that, please?",
-        "fr": "Tu peux me passer ça, s’il te plaît ?",
+        "fr": "Tu peux me passer ça, s'il te plaît ?",
         "it": "Mi passi quello, per favore?",
-        "pt": "Você pode me passar isso, por favor?"
+        "pt": "Você pode me passar isso, por favor?",
+        "de": "Kannst du mir das bitte reichen?"
       },
       "image_url": "",
       "notes": {
@@ -1045,9 +1793,10 @@
       "es": "¿Puede abrir la puerta, por favor?",
       "translations": {
         "en": "Could you open the door, please?",
-        "fr": "Pouvez-vous ouvrir la porte, s’il vous plaît ?",
+        "fr": "Pouvez-vous ouvrir la porte, s'il vous plaît ?",
         "it": "Può aprire la porta, per favore?",
-        "pt": "Pode abrir a porta, por favor?"
+        "pt": "Pode abrir a porta, por favor?",
+        "de": "Könnten Sie bitte die Tür aufmachen?"
       },
       "image_url": ""
     },
@@ -1056,13 +1805,14 @@
       "es": "¿Puedo ayudarte? / ¿Puedo ayudarle?",
       "translations": {
         "en": "Can I help you?",
-        "fr": "Je peux t’aider ? / Je peux vous aider ?",
-        "it": "Posso aiutarti? / Posso aiutarLa?",
-        "pt": "Posso ajudar você? / Posso ajudar o senhor? / Posso ajudar a senhora?"
+        "fr": "Je peux t'aider ? / Je peux vous aider ?",
+        "it": "Posso aiutarti? / Posso aiutarla?",
+        "pt": "Posso ajudar você? / Posso ajudar o senhor? / Posso ajudar a senhora?",
+        "de": "Kann ich dir helfen? / Kann ich Ihnen helfen?"
       },
       "image_url": "",
       "notes": {
-        "es": "Trato informal / formal, según la variante."
+        "es": "Primero se presenta el trato informal y después el formal."
       }
     },
     {
@@ -1070,13 +1820,37 @@
       "es": "Sí, gracias",
       "translations": {
         "en": "Yes, please",
-        "fr": "Oui, merci / Oui, s’il vous plaît",
+        "fr": "Oui, merci / Oui, s'il vous plaît",
         "it": "Sì, grazie",
-        "pt": "Sim, obrigado / Sim, obrigada"
+        "pt": "Sim, obrigado / Sim, obrigada",
+        "de": "Ja, bitte. / Ja, danke."
       },
       "image_url": "",
       "notes": {
-        "es": "Para aceptar una oferta."
+        "es": "(Para aceptar algo que te ofrecen)",
+        "en": "En inglés de Estados Unidos, «Yes, please» es la fórmula natural para aceptar un ofrecimiento."
+      },
+      "examples": {
+        "en": {
+          "text": "Yes, please. I'd like another coffee.",
+          "es": "Sí, gracias. Quisiera otro café."
+        },
+        "fr": {
+          "text": "Oui, merci. Je veux bien un autre café.",
+          "es": "Sí, gracias. Sí quiero otro café."
+        },
+        "it": {
+          "text": "Sì, grazie. Vorrei un altro caffè.",
+          "es": "Sí, gracias. Quisiera otro café."
+        },
+        "pt": {
+          "text": "Sim, obrigado. Quero mais um café.",
+          "es": "Sí, gracias. Quiero otro café."
+        },
+        "de": {
+          "text": "Ja, bitte. Ich hätte gern noch einen Kaffee.",
+          "es": "Sí, gracias. Quisiera otro café."
+        }
       }
     },
     {
@@ -1086,25 +1860,51 @@
         "en": "No, thank you / No, thanks",
         "fr": "Non, merci",
         "it": "No, grazie",
-        "pt": "Não, obrigado / Não, obrigada"
+        "pt": "Não, obrigado / Não, obrigada",
+        "de": "Nein, danke."
       },
       "image_url": "",
       "notes": {
         "es": "Para rechazar una oferta."
+      },
+      "examples": {
+        "en": {
+          "text": "No, thank you. I already have water.",
+          "es": "No, gracias. Ya tengo agua."
+        },
+        "fr": {
+          "text": "Non, merci. J'ai déjà de l'eau.",
+          "es": "No, gracias. Ya tengo agua."
+        },
+        "it": {
+          "text": "No, grazie. Ho già dell'acqua.",
+          "es": "No, gracias. Ya tengo agua."
+        },
+        "pt": {
+          "text": "Não, obrigado. Já tenho água.",
+          "es": "No, gracias. Ya tengo agua."
+        },
+        "de": {
+          "text": "Nein, danke. Ich habe schon Wasser.",
+          "es": "No, gracias. Ya tengo agua."
+        }
       }
     },
     {
       "id": "cda_088",
-      "es": "Sí, me gustaría",
+      "es": "Sí, me gustaría.",
       "translations": {
-        "en": "Yes, I’d like to / I’d love to",
-        "fr": "Oui, avec plaisir",
-        "it": "Sì, volentieri",
-        "pt": "Sim, eu gostaria / Eu adoraria"
+        "en": "Yes, I'd like to. / I'd love to.",
+        "fr": "Oui, avec plaisir.",
+        "it": "Sì, volentieri.",
+        "pt": "Sim, eu gostaria. / Eu adoraria.",
+        "de": "Ja, sehr gern."
       },
       "image_url": "",
       "notes": {
-        "es": "Para aceptar una invitación."
+        "es": "Para aceptar una invitación.",
+        "en": "«I'd love to» muestra más entusiasmo que «I'd like to».",
+        "pt": "«Eu adoraria» muestra más entusiasmo que «eu gostaria»."
       }
     },
     {
@@ -1113,74 +1913,106 @@
       "translations": {
         "en": "Maybe another time",
         "fr": "Peut-être une autre fois",
-        "it": "Magari un’altra volta",
-        "pt": "Talvez outra hora"
+        "it": "Magari un'altra volta",
+        "pt": "Talvez em outra ocasião / Talvez outra hora",
+        "de": "Vielleicht ein andermal."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Maybe another time. I have to work today.",
+          "es": "Quizá en otra ocasión. Hoy tengo que trabajar."
+        },
+        "fr": {
+          "text": "Peut-être une autre fois. Je dois travailler aujourd'hui.",
+          "es": "Quizá en otra ocasión. Hoy tengo que trabajar."
+        },
+        "it": {
+          "text": "Magari un'altra volta. Oggi devo lavorare.",
+          "es": "Quizá en otra ocasión. Hoy tengo que trabajar."
+        },
+        "pt": {
+          "text": "Talvez em outra ocasião. Hoje tenho que trabalhar.",
+          "es": "Quizá en otra ocasión. Hoy tengo que trabajar."
+        },
+        "de": {
+          "text": "Vielleicht ein andermal. Heute muss ich arbeiten.",
+          "es": "Quizá en otra ocasión. Hoy tengo que trabajar."
+        }
+      },
+      "notes": {
+        "de": "«Andermal» suele aparecer con «ein» en esta fórmula de rechazo amable."
+      }
     },
     {
       "id": "cda_090",
-      "es": "Lo siento, no puedo",
+      "es": "Lo siento, no puedo.",
       "translations": {
-        "en": "Sorry, I can’t",
-        "fr": "Désolé, je ne peux pas / Désolée, je ne peux pas",
-        "it": "Mi dispiace, non posso",
-        "pt": "Desculpe, não posso"
+        "en": "Sorry, I can't.",
+        "fr": "Désolé, je ne peux pas. / Désolée, je ne peux pas.",
+        "it": "Mi dispiace, non posso.",
+        "pt": "Desculpe, não posso.",
+        "de": "Tut mir leid, ich kann nicht."
       },
       "image_url": ""
     },
     {
       "id": "cda_091",
-      "es": "Prefiero no hacerlo, gracias",
+      "es": "Prefiero no hacerlo, gracias.",
       "translations": {
-        "en": "I’d rather not, thank you",
-        "fr": "Je préfère ne pas le faire, merci",
-        "it": "Preferisco non farlo, grazie",
-        "pt": "Prefiro não fazer isso, obrigado / Prefiro não fazer isso, obrigada"
+        "en": "I'd rather not, thank you.",
+        "fr": "Je préfère ne pas le faire, merci.",
+        "it": "Preferisco non farlo, grazie.",
+        "pt": "Prefiro não fazer isso, obrigado. / Prefiro não fazer isso, obrigada.",
+        "de": "Das möchte ich lieber nicht machen, danke."
       },
       "image_url": ""
     },
     {
       "id": "cda_092",
-      "es": "No necesito ayuda, gracias",
+      "es": "No necesito ayuda, gracias.",
       "translations": {
-        "en": "I don’t need help, thank you",
-        "fr": "Je n’ai pas besoin d’aide, merci",
-        "it": "Non ho bisogno di aiuto, grazie",
-        "pt": "Não preciso de ajuda, obrigado / Não preciso de ajuda, obrigada"
+        "en": "I don't need help, thank you.",
+        "fr": "Je n'ai pas besoin d'aide, merci.",
+        "it": "Non ho bisogno di aiuto, grazie.",
+        "pt": "Não preciso de ajuda, obrigado. / Não preciso de ajuda, obrigada.",
+        "de": "Ich brauche keine Hilfe, danke."
       },
       "image_url": ""
     },
     {
       "id": "cda_093",
-      "es": "Lo siento, no lo sé",
+      "es": "Lo siento, no lo sé.",
       "translations": {
-        "en": "Sorry, I don’t know",
-        "fr": "Désolé, je ne sais pas / Désolée, je ne sais pas",
-        "it": "Mi dispiace, non lo so",
-        "pt": "Desculpe, não sei"
+        "en": "Sorry, I don't know.",
+        "fr": "Désolé, je ne sais pas. / Désolée, je ne sais pas.",
+        "it": "Mi dispiace, non lo so.",
+        "pt": "Desculpe, não sei.",
+        "de": "Tut mir leid, ich weiß es nicht."
       },
       "image_url": ""
     },
     {
       "id": "cda_094",
-      "es": "Perdón, no escuché bien",
+      "es": "Perdón, no escuché bien.",
       "translations": {
-        "en": "Sorry, I didn’t hear you / Sorry, I didn’t catch that",
-        "fr": "Pardon, je n’ai pas bien entendu",
-        "it": "Scusa, non ho sentito bene / Mi scusi, non ho sentito bene",
-        "pt": "Desculpa, não ouvi direito / Desculpe, não ouvi direito"
+        "en": "Sorry, I didn't hear you clearly.",
+        "fr": "Pardon, je n'ai pas bien entendu.",
+        "it": "Scusa, non ho sentito bene. / Mi scusi, non ho sentito bene.",
+        "pt": "Desculpa, não ouvi direito. / Desculpe, não ouvi direito.",
+        "de": "Entschuldigung, ich habe das nicht richtig gehört."
       },
       "image_url": ""
     },
     {
       "id": "cda_095",
-      "es": "Perdón, no entendí",
+      "es": "Perdón, no entendí.",
       "translations": {
-        "en": "Sorry, I didn’t understand",
-        "fr": "Pardon, je n’ai pas compris",
-        "it": "Scusa, non ho capito / Mi scusi, non ho capito",
-        "pt": "Desculpa, não entendi / Desculpe, não entendi"
+        "en": "Sorry, I didn't understand.",
+        "fr": "Pardon, je n'ai pas compris.",
+        "it": "Scusa, non ho capito. / Mi scusi, non ho capito.",
+        "pt": "Desculpa, não entendi. / Desculpe, não entendi.",
+        "de": "Entschuldigung, ich habe das nicht verstanden."
       },
       "image_url": ""
     },
@@ -1190,41 +2022,51 @@
       "translations": {
         "en": "Sorry? / Pardon?",
         "fr": "Pardon ? / Comment ?",
-        "it": "Come? / Prego?",
-        "pt": "Como? / Oi?"
+        "it": "Come? / Come, scusi?",
+        "pt": "Como?",
+        "de": "Wie bitte?"
       },
       "image_url": "",
       "notes": {
-        "es": "Para pedir que repitan.",
-        "pt": "«Oi?» se usa coloquialmente para pedir que repitan."
+        "es": "(Para pedir que repitan)",
+        "pt": "Coloquial: Oi? Sirve para pedir que repitan."
+      },
+      "examples": {
+        "en": {
+          "text": "Sorry? What time is the appointment?",
+          "es": "¿Perdón? ¿A qué hora es la cita?"
+        },
+        "fr": {
+          "text": "Pardon ? À quelle heure est le rendez-vous ?",
+          "es": "¿Perdón? ¿A qué hora es la cita?"
+        },
+        "it": {
+          "text": "Come? A che ora è l'appuntamento?",
+          "es": "¿Perdón? ¿A qué hora es la cita?"
+        },
+        "pt": {
+          "text": "Como? Que horas é o compromisso?",
+          "es": "¿Perdón? ¿A qué hora es la cita?"
+        },
+        "de": {
+          "text": "Wie bitte? Um wie viel Uhr ist der Termin?",
+          "es": "¿Perdón? ¿A qué hora es la cita?"
+        }
       }
     },
     {
       "id": "cda_097",
-      "es": "¿Puedes repetirlo, por favor?",
+      "es": "¿Puedes repetirlo, por favor? / ¿Puede repetirlo, por favor?",
       "translations": {
-        "en": "Can you repeat that, please?",
-        "fr": "Tu peux répéter, s’il te plaît ?",
-        "it": "Puoi ripetere, per favore?",
-        "pt": "Você pode repetir, por favor?"
+        "en": "Can you repeat that, please? / Could you repeat that, please?",
+        "fr": "Tu peux répéter, s'il te plaît ? / Pouvez-vous répéter, s'il vous plaît ?",
+        "it": "Puoi ripetere, per favore? / Può ripetere, per favore?",
+        "pt": "Você pode repetir, por favor? / O senhor pode repetir, por favor? / A senhora pode repetir, por favor?",
+        "de": "Kannst du das bitte wiederholen? / Könnten Sie das bitte wiederholen?"
       },
       "image_url": "",
       "notes": {
-        "es": "Trato informal."
-      }
-    },
-    {
-      "id": "cda_098",
-      "es": "¿Puede repetirlo, por favor?",
-      "translations": {
-        "en": "Could you repeat that, please?",
-        "fr": "Pouvez-vous répéter, s’il vous plaît ?",
-        "it": "Può ripetere, per favore?",
-        "pt": "O senhor pode repetir, por favor? / A senhora pode repetir, por favor?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Trato formal."
+        "es": "Primero se presenta el trato informal y después el formal."
       }
     },
     {
@@ -1232,9 +2074,10 @@
       "es": "¿Puede hablar más despacio, por favor?",
       "translations": {
         "en": "Could you speak more slowly, please?",
-        "fr": "Pouvez-vous parler plus lentement, s’il vous plaît ?",
+        "fr": "Pouvez-vous parler plus lentement, s'il vous plaît ?",
         "it": "Può parlare più lentamente, per favore?",
-        "pt": "Pode falar mais devagar, por favor?"
+        "pt": "Pode falar mais devagar, por favor?",
+        "de": "Könnten Sie bitte langsamer sprechen?"
       },
       "image_url": ""
     },
@@ -1243,9 +2086,10 @@
       "es": "¿Puede escribirlo, por favor?",
       "translations": {
         "en": "Could you write it down, please?",
-        "fr": "Pouvez-vous l’écrire, s’il vous plaît ?",
+        "fr": "Pouvez-vous l'écrire, s'il vous plaît ?",
         "it": "Può scriverlo, per favore?",
-        "pt": "Pode escrever, por favor?"
+        "pt": "Pode escrever, por favor?",
+        "de": "Könnten Sie das bitte aufschreiben?"
       },
       "image_url": ""
     },
@@ -1254,58 +2098,48 @@
       "es": "¿Qué significa eso?",
       "translations": {
         "en": "What does that mean?",
-        "fr": "Qu’est-ce que ça veut dire ?",
+        "fr": "Qu'est-ce que ça veut dire ?",
         "it": "Che cosa significa? / Che cosa vuol dire?",
-        "pt": "O que isso significa? / O que isso quer dizer?"
+        "pt": "O que isso significa? / O que isso quer dizer?",
+        "de": "Was bedeutet das?"
       },
       "image_url": ""
     },
     {
       "id": "cda_102",
-      "es": "No hablo muy bien este idioma",
+      "es": "No hablo muy bien este idioma.",
       "translations": {
-        "en": "I don’t speak this language very well",
-        "fr": "Je ne parle pas très bien cette langue",
-        "it": "Non parlo molto bene questa lingua",
-        "pt": "Não falo muito bem este idioma"
+        "en": "I don't speak this language very well.",
+        "fr": "Je ne parle pas très bien cette langue.",
+        "it": "Non parlo molto bene questa lingua.",
+        "pt": "Não falo muito bem este idioma.",
+        "de": "Ich spreche diese Sprache nicht sehr gut."
       },
       "image_url": ""
     },
     {
       "id": "cda_103",
-      "es": "Todavía estoy aprendiendo",
+      "es": "Todavía estoy aprendiendo.",
       "translations": {
-        "en": "I’m still learning",
-        "fr": "Je suis encore en train d’apprendre",
-        "it": "Sto ancora imparando",
-        "pt": "Ainda estou aprendendo"
+        "en": "I'm still learning.",
+        "fr": "J'apprends encore.",
+        "it": "Sto ancora imparando.",
+        "pt": "Ainda estou aprendendo.",
+        "de": "Ich lerne noch."
       },
       "image_url": ""
     },
     {
       "id": "cda_104",
-      "es": "Ya entendí, gracias",
+      "es": "Ya entendí, gracias.",
       "translations": {
-        "en": "I understand now, thank you / Got it, thanks",
-        "fr": "J’ai compris, merci",
-        "it": "Ho capito, grazie",
-        "pt": "Entendi, obrigado / Entendi, obrigada"
+        "en": "I understand now, thank you. / Got it, thanks.",
+        "fr": "J'ai compris, merci.",
+        "it": "Ho capito, grazie.",
+        "pt": "Entendi, obrigado. / Entendi, obrigada.",
+        "de": "Jetzt habe ich es verstanden, danke."
       },
       "image_url": ""
-    },
-    {
-      "id": "cda_105",
-      "es": "Salud",
-      "translations": {
-        "en": "Bless you",
-        "fr": "À tes souhaits / À vos souhaits",
-        "it": "Salute",
-        "pt": "Saúde"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Cuando alguien estornuda."
-      }
     },
     {
       "id": "cda_106",
@@ -1313,58 +2147,68 @@
       "translations": {
         "en": "May I interrupt for a moment?",
         "fr": "Est-ce que je peux vous interrompre un instant ?",
-        "it": "Posso interromperLa un momento?",
-        "pt": "Posso interromper um momento?"
+        "it": "Posso interromperla un momento?",
+        "pt": "Posso interromper um momento?",
+        "de": "Darf ich kurz unterbrechen?"
       },
       "image_url": "",
       "notes": {
-        "it": "Trato formal."
+        "it": "(Formal)",
+        "fr": "«Vous» corresponde al trato formal o plural."
       }
     },
     {
       "id": "cda_107",
-      "es": "Termina tú primero",
+      "es": "Termina tú primero.",
       "translations": {
-        "en": "Go ahead, finish what you were saying",
-        "fr": "Vas-y, finis ce que tu disais",
-        "it": "Finisci prima tu",
-        "pt": "Pode terminar primeiro"
+        "en": "Go ahead and finish what you were saying.",
+        "fr": "Vas-y, finis ce que tu disais.",
+        "it": "Finisci prima tu.",
+        "pt": "Pode terminar o que você estava dizendo.",
+        "de": "Sprich du erst mal zu Ende."
       },
       "image_url": "",
       "notes": {
-        "es": "Para ceder el turno al hablar."
+        "es": "(Para ceder el turno al hablar)"
       }
     },
     {
       "id": "cda_108",
-      "es": "Te escucho / Lo escucho / La escucho",
+      "es": "Te escucho. / Lo escucho. / La escucho.",
       "translations": {
-        "en": "I’m listening",
-        "fr": "Je t’écoute / Je vous écoute",
-        "it": "Ti ascolto / La ascolto",
-        "pt": "Estou ouvindo você / Estou ouvindo o senhor / Estou ouvindo a senhora"
+        "en": "I'm listening.",
+        "fr": "Je t'écoute. / Je vous écoute.",
+        "it": "Ti ascolto. / La ascolto.",
+        "pt": "Estou ouvindo você. / Estou ouvindo o senhor. / Estou ouvindo a senhora.",
+        "de": "Ich höre dir zu. / Ich höre Ihnen zu."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Para dar la palabra). Primero se presenta el trato informal y después el formal.",
+        "it": "En «La ascolto», «La» se refiere de manera cortés a la persona a quien se escucha."
+      }
     },
     {
       "id": "cda_109",
       "es": "¿Es mi turno?",
       "translations": {
         "en": "Is it my turn?",
-        "fr": "C’est mon tour ?",
+        "fr": "C'est mon tour ?",
         "it": "È il mio turno?",
-        "pt": "É a minha vez?"
+        "pt": "É a minha vez?",
+        "de": "Bin ich dran?"
       },
       "image_url": ""
     },
     {
       "id": "cda_110",
-      "es": "Por favor, espere su turno",
+      "es": "Por favor, espere su turno.",
       "translations": {
-        "en": "Please wait your turn",
-        "fr": "Veuillez attendre votre tour",
-        "it": "Aspetti il Suo turno, per favore",
-        "pt": "Por favor, espere sua vez"
+        "en": "Please wait your turn.",
+        "fr": "Veuillez attendre votre tour.",
+        "it": "Aspetti il suo turno, per favore.",
+        "pt": "Por favor, espere sua vez.",
+        "de": "Warten Sie bitte, bis Sie dran sind."
       },
       "image_url": ""
     },
@@ -1373,9 +2217,10 @@
       "es": "¿Puede hablar más bajo, por favor?",
       "translations": {
         "en": "Could you speak more quietly, please?",
-        "fr": "Pouvez-vous parler moins fort, s’il vous plaît ?",
+        "fr": "Pouvez-vous parler moins fort, s'il vous plaît ?",
         "it": "Può parlare più piano, per favore?",
-        "pt": "Pode falar mais baixo, por favor?"
+        "pt": "Pode falar mais baixo, por favor?",
+        "de": "Könnten Sie bitte leiser sprechen?"
       },
       "image_url": ""
     }
