@@ -87,6 +87,9 @@
           "text": "É hora de se despedir.",
           "es": "Es hora de despedirse."
         }
+      },
+      "notes": {
+        "it": "Congedarsi tiene un registro más formal que salutarsi; este último también significa saludarse al encontrarse."
       }
     },
     {
@@ -299,19 +302,19 @@
       "examples": {
         "en": {
           "text": "Good night, I'm going to bed.",
-          "es": "Buenas noches, ya me voy a dormir."
+          "es": "Buenas noches, me voy a dormir."
         },
         "fr": {
           "text": "Bonne nuit, je vais me coucher.",
-          "es": "Buenas noches, ya me voy a dormir."
+          "es": "Buenas noches, me voy a dormir."
         },
         "it": {
           "text": "Buonanotte, vado a dormire.",
-          "es": "Buenas noches, ya me voy a dormir."
+          "es": "Buenas noches, me voy a dormir."
         },
         "pt": {
           "text": "Boa noite, vou dormir.",
-          "es": "Buenas noches, ya me voy a dormir."
+          "es": "Buenas noches, me voy a dormir."
         }
       }
     },
@@ -371,19 +374,19 @@
       "examples": {
         "en": {
           "text": "Excuse me, ma'am, is this your bag?",
-          "es": "Disculpe, señora, ¿este es su bolso?"
+          "es": "Disculpe, señora, ¿esta es su bolsa?"
         },
         "fr": {
           "text": "Excusez-moi, madame, c'est votre sac ?",
-          "es": "Disculpe, señora, ¿este es su bolso?"
+          "es": "Disculpe, señora, ¿esta es su bolsa?"
         },
         "it": {
           "text": "Mi scusi, signora, è la sua borsa?",
-          "es": "Disculpe, señora, ¿este es su bolso?"
+          "es": "Disculpe, señora, ¿esta es su bolsa?"
         },
         "pt": {
           "text": "Com licença, senhora, esta é a sua bolsa?",
-          "es": "Disculpe, señora, ¿este es su bolso?"
+          "es": "Disculpe, señora, ¿esta es su bolsa?"
         }
       }
     },
@@ -429,7 +432,7 @@
       "examples": {
         "en": {
           "text": "Welcome back, Ana. We missed you.",
-          "es": "Bienvenida de nuevo, Ana, te extrañamos."
+          "es": "Bienvenida de nuevo, Ana. Te extrañamos."
         },
         "fr": {
           "text": "Bon retour parmi nous, Ana, tu nous as manqué.",
@@ -940,7 +943,8 @@
       "image_url": "",
       "notes": {
         "es": "(Respuesta al conocer a alguien)",
-        "fr": "Enchanté si habla un hombre; enchantée si habla una mujer."
+        "fr": "Enchanté si habla un hombre; enchantée si habla una mujer.",
+        "it": "Piacere mio se usa como respuesta al saludo piacere; equivale también a «el placer es mío»."
       }
     },
     {
@@ -1265,7 +1269,7 @@
           "es": "Hasta la semana que viene, cuídate."
         },
         "it": {
-          "text": "Ci vediamo la settimana prossima, abbi cura di te.",
+          "text": "Ci vediamo la settimana prossima, stammi bene.",
           "es": "Hasta la semana que viene, cuídate."
         },
         "pt": {
@@ -1610,12 +1614,12 @@
       "translations": {
         "en": "Take care",
         "fr": "Prends soin de toi / Prenez soin de vous",
-        "it": "Abbi cura di te / Si riguardi",
+        "it": "Stammi bene / Stia bene",
         "pt": "Cuide-se"
       },
       "image_url": "",
       "notes": {
-        "it": "Si riguardi es una fórmula de trato formal, especialmente al despedirse de alguien que no está bien de salud."
+        "it": "Stammi bene es una despedida informal y afectuosa; stia bene expresa el deseo equivalente con trato formal."
       }
     },
     {
@@ -1638,7 +1642,10 @@
         "it": "Buon riposo",
         "pt": "Bom descanso"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Se desea a alguien que disfrute su descanso; get some rest suele ser una sugerencia de descansar."
+      }
     },
     {
       "id": "sd_071",
@@ -1773,20 +1780,20 @@
       },
       "examples": {
         "en": {
-          "text": "Dear Sir: I'm writing to ask for information.",
-          "es": "Estimado señor: le escribo para pedir información."
+          "text": "Dear Sir:\nI'm writing to ask for information.",
+          "es": "Estimado señor:\nLe escribo para pedir información."
         },
         "fr": {
-          "text": "Monsieur, je vous écris pour demander des renseignements.",
-          "es": "Estimado señor: le escribo para pedir información."
+          "text": "Monsieur,\nJe vous écris pour demander des renseignements.",
+          "es": "Estimado señor:\nLe escribo para pedir información."
         },
         "it": {
-          "text": "Gentile Signore, le scrivo per chiedere informazioni.",
-          "es": "Estimado señor: le escribo para pedir información."
+          "text": "Gentile Signore,\nle scrivo per chiedere informazioni.",
+          "es": "Estimado señor:\nLe escribo para pedir información."
         },
         "pt": {
-          "text": "Prezado senhor, escrevo para pedir informações.",
-          "es": "Estimado señor: le escribo para pedir información."
+          "text": "Prezado senhor,\nEscrevo para pedir informações.",
+          "es": "Estimado señor:\nLe escribo para pedir información."
         }
       }
     },
@@ -1807,20 +1814,20 @@
       },
       "examples": {
         "en": {
-          "text": "Dear Madam: Thank you for your help.",
-          "es": "Estimada señora: le agradezco su ayuda."
+          "text": "Dear Madam:\nThank you for your help.",
+          "es": "Estimada señora:\nLe agradezco su ayuda."
         },
         "fr": {
-          "text": "Madame, je vous remercie de votre aide.",
-          "es": "Estimada señora: le agradezco su ayuda."
+          "text": "Madame,\nJe vous remercie de votre aide.",
+          "es": "Estimada señora:\nLe agradezco su ayuda."
         },
         "it": {
-          "text": "Gentile Signora, la ringrazio per il suo aiuto.",
-          "es": "Estimada señora: le agradezco su ayuda."
+          "text": "Gentile Signora,\nla ringrazio per il suo aiuto.",
+          "es": "Estimada señora:\nLe agradezco su ayuda."
         },
         "pt": {
-          "text": "Prezada senhora, agradeço a sua ajuda.",
-          "es": "Estimada señora: le agradezco su ayuda."
+          "text": "Prezada senhora,\nAgradeço a sua ajuda.",
+          "es": "Estimada señora:\nLe agradezco su ayuda."
         }
       }
     },
@@ -1850,7 +1857,8 @@
       },
       "image_url": "",
       "notes": {
-        "es": "(Cierre de mensaje, registro cortés)"
+        "es": "(Cierre de mensaje, registro cortés)",
+        "fr": "Bien cordialement es una variante cortés de cordialement, habitual al cerrar un correo."
       }
     },
     {
@@ -2263,7 +2271,7 @@
         "pt": "Melhoras!"
       },
       "notes": {
-        "es": "(A una persona enferma)"
+        "es": "(Deseo de recuperación a una persona enferma)"
       },
       "examples": {
         "en": {
