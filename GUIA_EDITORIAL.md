@@ -158,7 +158,7 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 
 - [ ] Nivel, tema, utilidad y orden coherentes.
 - [ ] Conceptos esenciales cubiertos sin inflar el conteo.
-- [ ] Duplicados revisados y repeticiones justificadas.
+- [ ] Duplicados revisados; repeticiones entre módulos y niveles justificadas por autonomía temática, progresión o nuevos sentidos.
 - [ ] Cambios de contenido documentados.
 
 **Criterio de cierre:** no publicar un módulo con errores conocidos sin resolver. Las dudas lingüísticas pendientes deben documentarse y verificarse; no dar por realizada una revisión que no se efectuó. La revisión es manual/editorial: esta versión no introduce pruebas automatizadas ni cambios en el pipeline.
@@ -216,15 +216,22 @@ Ejemplo: `En realidad` → `Actually`. Nota en inglés: `Falso amigo: No signifi
 - **TRA-04 (O).** Respetar las convenciones culturales de tratamiento de cada variante regional; no asumir correspondencias exactas entre idiomas. Por ejemplo, `Você` es de uso cotidiano en Brasil y no equivale necesariamente al trato formal de «usted».
 - **TRA-05 (C).** Mantener la variante regional establecida en IDI-01 como texto principal. Cuando otra variante presente una diferencia léxica significativa, de utilidad práctica o con riesgo de confusión, consignarla en la nota del idioma correspondiente mediante una aclaración parentética sin punto final: `(Portugal: O comboio)`, `(Reino Unido: The lift)`. No acumular diferencias regionales menores ni sustituir la variante principal.
 
-## 20. Decisiones pendientes
+## 20. Repeticiones entre módulos y niveles
+
+- **REP-01 (C).** Permitir repeticiones exactas entre módulos cuando el vocabulario o la expresión sean imprescindibles para que cada módulo pueda estudiarse de manera independiente. Evitar copiar grandes bloques de contenido sin justificación.
+- **REP-02 (O).** Permitir que un concepto reaparezca en niveles superiores cuando aporte progresión lingüística, mayor complejidad, matices o nuevas estructuras comunicativas. Ejemplo: `El problema` (A1) frente a `El problema radica en la falta de coordinación.` (B2).
+- **REP-03 (O).** Permitir que una palabra reaparezca cuando se enseñe un significado adicional o un uso figurado distinto. Ejemplo: `Romper un vaso`, `Romper una promesa`, `Romper el hielo`.
+- **REP-04 (O).** Eliminar las repeticiones que no tengan justificación temática, comunicativa, semántica o pedagógica. No repetir contenido como relleno ni establecer un porcentaje máximo fijo de duplicados: evaluar cada caso según las necesidades de los módulos.
+- **REP-05 (C).** Durante la auditoría, documentar las repeticiones relevantes que se conservan y su justificación, sin eliminar automáticamente coincidencias entre módulos.
+
+## 21. Decisiones pendientes
 
 Los siguientes temas requieren una definición posterior y no constituyen nuevas reglas obligatorias:
 
-- Criterios específicos de repetición entre niveles.
 - Nomenclatura de archivos e identificadores nuevos.
 - Incorporación de futuros idiomas y plan de migración de módulos al alemán.
 
-## 21. Mantenimiento de la guía
+## 22. Mantenimiento de la guía
 
 Actualizar este documento cuando se acuerde una nueva regla editorial. Registrar las excepciones justificadas en el cambio correspondiente. Los ejemplos son ilustrativos, no listas exhaustivas ni esquemas alternativos. Ante una incompatibilidad técnica, resolverla explícitamente antes de cambiar el formato de los JSON.
 
