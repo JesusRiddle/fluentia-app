@@ -183,18 +183,24 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - **CON-03 (C).** Presentar la forma completa de abreviaturas y siglas en el texto principal y consignar la abreviatura o sigla en notas, respetando su grafía convencional (por ejemplo, `Abreviatura: Dr.`, `Sigla: ASAP.`). Si la abreviatura o sigla es el objeto explícito de aprendizaje, puede aparecer en el texto principal y explicarse en notas.
 - **CON-04 (O).** Usar apóstrofo recto ASCII (`'`, U+0027) en los textos lingüísticos y notas de los JSON, en lugar del apóstrofo tipográfico (`’`, U+2019). No confundir apóstrofos con otros signos ortográficos ni modificar identificadores, URLs o metadatos ajenos al contenido lingüístico.
 
-## 16. Decisiones pendientes
+## 16. Imágenes y representación de colores
+
+- **IMG-01 (O).** Priorizar el contenido lingüístico. Las tarjetas ordinarias se diseñan para funcionar únicamente con texto; no se requiere buscar, generar ni asignar imágenes al crear o actualizar módulos.
+- **IMG-02 (O).** Conservar el campo `image_url` conforme al esquema vigente, con valor vacío en tarjetas nuevas. Las imágenes y rutas existentes no se eliminarán automáticamente durante una revisión editorial; su retirada de los contenidos o de la interfaz deberá tratarse como un cambio explícito independiente.
+- **IMG-03 (C).** El módulo de colores es la excepción visual: utilizar el campo `hex` para representar los colores y tonalidades mediante muestras cromáticas, sin archivos de imagen. Usar códigos hexadecimales válidos y adecuados al color representado; conservar el valor vacío cuando el concepto no tenga un color concreto (por ejemplo, claro u oscuro).
+- **IMG-04 (O).** No condicionar la publicación de módulos lingüísticos a la disponibilidad de imágenes.
+
+## 17. Decisiones pendientes
 
 Los siguientes temas requieren una definición posterior y no constituyen nuevas reglas obligatorias:
 
-- Criterios de asignación y selección de imágenes.
 - Falsos amigos, homónimos y polisemia.
 - Tratamientos personales y formalidad: convenciones detalladas.
 - Criterios específicos de repetición entre niveles.
 - Nomenclatura de archivos e identificadores nuevos.
 - Incorporación de futuros idiomas y plan de migración de módulos al alemán.
 
-## 17. Mantenimiento de la guía
+## 18. Mantenimiento de la guía
 
 Actualizar este documento cuando se acuerde una nueva regla editorial. Registrar las excepciones justificadas en el cambio correspondiente. Los ejemplos son ilustrativos, no listas exhaustivas ni esquemas alternativos. Ante una incompatibilidad técnica, resolverla explícitamente antes de cambiar el formato de los JSON.
 
