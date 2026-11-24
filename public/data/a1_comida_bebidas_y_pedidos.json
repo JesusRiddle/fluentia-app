@@ -4,236 +4,732 @@
   "cards": [
     {
       "id": "food_313",
-      "es": "el agua mineral",
+      "es": "El agua mineral",
       "translations": {
-        "en": "the mineral water",
-        "fr": "l'eau minérale",
-        "it": "l'acqua minerale",
-        "pt": "a água mineral"
+        "en": "The mineral water",
+        "fr": "L'eau minérale",
+        "it": "L'acqua minerale",
+        "pt": "A água mineral",
+        "de": "Das Mineralwasser"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "El agua mineral puede ser con gas o sin gas; «mineral» no especifica si tiene burbujas.",
+        "de": "En un pedido, «mit Kohlensäure» significa «con gas»; «ohne Kohlensäure», «sin gas»."
+      },
+      "examples": {
+        "en": {
+          "text": "I'd like a bottle of mineral water.",
+          "es": "Quisiera una botella de agua mineral."
+        },
+        "fr": {
+          "text": "Je voudrais une bouteille d'eau minérale.",
+          "es": "Quisiera una botella de agua mineral."
+        },
+        "it": {
+          "text": "Vorrei una bottiglia d'acqua minerale.",
+          "es": "Quisiera una botella de agua mineral."
+        },
+        "pt": {
+          "text": "Eu queria uma garrafa de água mineral.",
+          "es": "Quisiera una botella de agua mineral."
+        },
+        "de": {
+          "text": "Ich hätte gern eine Flasche Mineralwasser.",
+          "es": "Quisiera una botella de agua mineral."
+        }
+      }
     },
     {
       "id": "food_372",
-      "es": "el agua de la llave",
+      "es": "El agua de la llave",
       "translations": {
-        "en": "the tap water",
-        "fr": "l'eau du robinet",
-        "it": "l’acqua del rubinetto",
-        "pt": "a água da torneira"
+        "en": "The tap water",
+        "fr": "L'eau du robinet",
+        "it": "L'acqua del rubinetto",
+        "pt": "A água da torneira",
+        "de": "Das Leitungswasser"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Agua que sale de la llave, independientemente de si es potable)"
+      },
+      "examples": {
+        "en": {
+          "text": "Is this tap water?",
+          "es": "¿Es agua de la llave?"
+        },
+        "fr": {
+          "text": "C'est de l'eau du robinet ?",
+          "es": "¿Es agua de la llave?"
+        },
+        "it": {
+          "text": "È acqua del rubinetto?",
+          "es": "¿Es agua de la llave?"
+        },
+        "pt": {
+          "text": "É água da torneira?",
+          "es": "¿Es agua de la llave?"
+        },
+        "de": {
+          "text": "Ist das Leitungswasser?",
+          "es": "¿Es agua de la llave?"
+        }
+      }
     },
     {
       "id": "food_373",
-      "es": "el agua potable",
+      "es": "El agua potable",
       "translations": {
-        "en": "the drinking water",
-        "fr": "l'eau potable",
-        "it": "l’acqua potabile",
-        "pt": "a água potável"
+        "en": "The drinking water",
+        "fr": "L'eau potable",
+        "it": "L'acqua potabile",
+        "pt": "A água potável",
+        "de": "Das Trinkwasser"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Agua apta para beber)"
+      },
+      "examples": {
+        "en": {
+          "text": "Is there drinking water here?",
+          "es": "¿Hay agua potable aquí?"
+        },
+        "fr": {
+          "text": "Il y a de l'eau potable ici ?",
+          "es": "¿Hay agua potable aquí?"
+        },
+        "it": {
+          "text": "C'è acqua potabile qui?",
+          "es": "¿Hay agua potable aquí?"
+        },
+        "pt": {
+          "text": "Tem água potável aqui?",
+          "es": "¿Hay agua potable aquí?"
+        },
+        "de": {
+          "text": "Gibt es hier Trinkwasser?",
+          "es": "¿Hay agua potable aquí?"
+        }
+      }
     },
     {
       "id": "food_374",
-      "es": "el hielo",
+      "es": "El hielo",
       "translations": {
-        "en": "the ice",
-        "fr": "la glace",
-        "it": "il ghiaccio",
-        "pt": "o gelo"
+        "en": "The ice",
+        "fr": "La glace",
+        "it": "Il ghiaccio",
+        "pt": "O gelo",
+        "de": "Das Eis"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Agua congelada para enfriar bebidas)",
+        "fr": "«Glace» también puede significar «helado». Para pedir cubitos en una bebida, usa «des glaçons».",
+        "de": "«Eis» también puede significar «helado»; «Eiswürfel» son cubitos de hielo."
+      },
+      "examples": {
+        "en": {
+          "text": "I don't want ice in my glass.",
+          "es": "No quiero hielo en mi vaso."
+        },
+        "fr": {
+          "text": "Je ne veux pas de glace dans mon verre.",
+          "es": "No quiero hielo en mi vaso."
+        },
+        "it": {
+          "text": "Non voglio ghiaccio nel mio bicchiere.",
+          "es": "No quiero hielo en mi vaso."
+        },
+        "pt": {
+          "text": "Não quero gelo no meu copo.",
+          "es": "No quiero hielo en mi vaso."
+        },
+        "de": {
+          "text": "Ich möchte kein Eis in meinem Glas.",
+          "es": "No quiero hielo en mi vaso."
+        }
+      }
     },
     {
       "id": "food_92",
-      "es": "la limonada",
+      "es": "La limonada",
       "translations": {
-        "en": "the lemonade",
-        "fr": "la citronnade",
-        "it": "la limonata",
-        "pt": "a limonada"
+        "en": "The lemonade",
+        "fr": "La citronnade",
+        "it": "La limonata",
+        "pt": "A limonada",
+        "de": "Die Zitronenlimonade"
       },
-      "image_url": "data/img/limonada.jpg"
+      "image_url": "data/img/limonada.jpg",
+      "notes": {
+        "en": "(Plural: The lemonades) En Estados Unidos, «lemonade» suele hacerse con limón amarillo; si lleva limón verde, se dice «limeade».",
+        "fr": "(Plural: Les citronnades) Para especificar que no lleva gas, pide «une citronnade sans bulles».",
+        "it": "(Plural: Le limonate)",
+        "pt": "(Plural: As limonadas)",
+        "de": "(Plural: Die Zitronenlimonaden) La «Zitronenlimonade» también puede llevar gas; para pedirla sin gas, añade «ohne Kohlensäure».",
+        "es": "(Bebida de limón y agua; sin gas en este contraste)"
+      },
+      "examples": {
+        "en": {
+          "text": "I'd like a glass of lemonade.",
+          "es": "Quisiera un vaso de limonada."
+        },
+        "fr": {
+          "text": "Je voudrais un verre de citronnade.",
+          "es": "Quisiera un vaso de limonada."
+        },
+        "it": {
+          "text": "Vorrei un bicchiere di limonata.",
+          "es": "Quisiera un vaso de limonada."
+        },
+        "pt": {
+          "text": "Eu queria um copo de limonada.",
+          "es": "Quisiera un vaso de limonada."
+        },
+        "de": {
+          "text": "Ich hätte gern ein Glas Zitronenlimonade.",
+          "es": "Quisiera un vaso de limonada."
+        }
+      }
     },
     {
       "id": "food_314",
-      "es": "la limonada con gas",
+      "es": "La limonada con gas",
       "translations": {
-        "en": "the sparkling lemonade",
-        "fr": "la limonade",
-        "it": "la limonata gassata",
-        "pt": "a limonada com gás"
+        "en": "The sparkling lemonade",
+        "fr": "La citronnade gazeuse",
+        "it": "La limonata gassata",
+        "pt": "A limonada com gás",
+        "de": "Die Zitronenlimonade mit Kohlensäure"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "En Francia, también se usa «limonade» para una bebida gaseosa dulce de limón."
+      },
+      "examples": {
+        "en": {
+          "text": "This sparkling lemonade is cold.",
+          "es": "Esta limonada con gas está fría."
+        },
+        "fr": {
+          "text": "Cette citronnade gazeuse est froide.",
+          "es": "Esta limonada con gas está fría."
+        },
+        "it": {
+          "text": "Questa limonata gassata è fredda.",
+          "es": "Esta limonada con gas está fría."
+        },
+        "pt": {
+          "text": "Esta limonada com gás está gelada.",
+          "es": "Esta limonada con gas está bien fría."
+        },
+        "de": {
+          "text": "Diese Zitronenlimonade mit Kohlensäure ist kalt.",
+          "es": "Esta limonada con gas está fría."
+        }
+      }
     },
     {
       "id": "food_370",
-      "es": "el agua de limón",
+      "es": "El agua de limón",
       "translations": {
-        "en": "the limeade",
-        "fr": "la citronnade au citron vert",
-        "it": "la limonata al lime",
-        "pt": "a limonada de limão-taiti"
+        "en": "The limeade",
+        "fr": "La citronnade au citron vert",
+        "it": "La limonata al lime",
+        "pt": "A limonada de limão-taiti",
+        "de": "Die Limettenlimonade"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Agua fresca hecha con limón verde)",
+        "fr": "«Citron vert» corresponde al limón verde; «citron» sin aclaración suele ser el amarillo.",
+        "pt": "«Limão-taiti» es el limón verde común en México."
+      },
+      "examples": {
+        "en": {
+          "text": "I'm making limeade today.",
+          "es": "Hoy preparo agua de limón."
+        },
+        "fr": {
+          "text": "Aujourd'hui, je prépare une citronnade au citron vert.",
+          "es": "Hoy preparo una limonada de limón verde."
+        },
+        "it": {
+          "text": "Oggi preparo una limonata al lime.",
+          "es": "Hoy preparo una limonada de limón verde."
+        },
+        "pt": {
+          "text": "Hoje eu preparo limonada de limão-taiti.",
+          "es": "Hoy preparo una limonada de limón verde."
+        },
+        "de": {
+          "text": "Heute mache ich Limettenlimonade.",
+          "es": "Hoy preparo agua de limón."
+        }
+      }
     },
     {
       "id": "food_347",
-      "es": "el agua de coco",
+      "es": "El agua de coco",
       "translations": {
-        "en": "the coconut water",
-        "fr": "l'eau de coco",
-        "it": "l'acqua di cocco",
-        "pt": "a água de coco"
+        "en": "The coconut water",
+        "fr": "L'eau de coco",
+        "it": "L'acqua di cocco",
+        "pt": "A água de coco",
+        "de": "Das Kokoswasser"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I drink coconut water at the beach.",
+          "es": "Tomo agua de coco en la playa."
+        },
+        "fr": {
+          "text": "Je bois de l'eau de coco à la plage.",
+          "es": "Tomo agua de coco en la playa."
+        },
+        "it": {
+          "text": "Bevo acqua di cocco in spiaggia.",
+          "es": "Tomo agua de coco en la playa."
+        },
+        "pt": {
+          "text": "Eu tomo água de coco na praia.",
+          "es": "Tomo agua de coco en la playa."
+        },
+        "de": {
+          "text": "Am Strand trinke ich Kokoswasser.",
+          "es": "Tomo agua de coco en la playa."
+        }
+      }
     },
     {
       "id": "food_93",
-      "es": "la malteada",
+      "es": "La malteada",
       "translations": {
-        "en": "the milkshake",
-        "fr": "le milkshake",
-        "it": "il frappè",
-        "pt": "o milkshake"
+        "en": "The milkshake",
+        "fr": "Le milkshake",
+        "it": "Il frappè",
+        "pt": "O milk-shake",
+        "de": "Der Milchshake"
       },
       "image_url": "data/img/malteada.jpg",
       "notes": {
-        "en": "Plural: the milkshakes",
-        "fr": "Plural: les milkshakes",
-        "it": "Plural: i frappè",
-        "pt": "Plural: os milkshakes"
+        "en": "(Plural: The milkshakes)",
+        "fr": "(Plural: Les milkshakes)",
+        "it": "(Plural: I frappè) Aquí «frappè» es la malteada de leche; no es necesariamente una bebida de café.",
+        "pt": "(Plural: Os milk-shakes)",
+        "de": "(Plural: Die Milchshakes)"
+      },
+      "examples": {
+        "en": {
+          "text": "I want a vanilla milkshake.",
+          "es": "Quiero una malteada de vainilla."
+        },
+        "fr": {
+          "text": "Je veux un milkshake à la vanille.",
+          "es": "Quiero una malteada de vainilla."
+        },
+        "it": {
+          "text": "Voglio un frappè alla vaniglia.",
+          "es": "Quiero una malteada de vainilla."
+        },
+        "pt": {
+          "text": "Quero um milk-shake de baunilha.",
+          "es": "Quiero una malteada de vainilla."
+        },
+        "de": {
+          "text": "Ich möchte einen Vanillemilchshake.",
+          "es": "Quiero una malteada de vainilla."
+        }
       }
     },
     {
       "id": "food_360",
-      "es": "el licuado",
+      "es": "El licuado",
       "translations": {
-        "en": "the smoothie",
-        "fr": "le smoothie",
-        "it": "il frullato",
-        "pt": "a vitamina de frutas"
+        "en": "The smoothie",
+        "fr": "Le smoothie",
+        "it": "Il frullato",
+        "pt": "A vitamina de frutas",
+        "de": "Der Fruchtsmoothie"
       },
       "image_url": "",
       "notes": {
-        "es": "Bebida de fruta licuada, habitualmente con leche o agua; smoothie no siempre lleva leche"
+        "en": "(Plural: The smoothies) «Smoothie» no implica que la bebida lleve leche.",
+        "fr": "(Plural: Les smoothies)",
+        "it": "(Plural: I frullati)",
+        "pt": "(Plural: As vitaminas de frutas) Falso amigo: aquí «vitamina» nombra una bebida de fruta licuada, no un nutriente.",
+        "de": "(Plural: Die Fruchtsmoothies)",
+        "es": "Bebida de fruta licuada, habitualmente con leche o agua. Se distingue de la malteada de leche o helado."
+      },
+      "examples": {
+        "en": {
+          "text": "I make a banana smoothie with milk.",
+          "es": "Preparo un licuado de plátano con leche."
+        },
+        "fr": {
+          "text": "Je prépare un smoothie à la banane avec du lait.",
+          "es": "Preparo un licuado de plátano con leche."
+        },
+        "it": {
+          "text": "Preparo un frullato di banana con il latte.",
+          "es": "Preparo un licuado de plátano con leche."
+        },
+        "pt": {
+          "text": "Eu preparo uma vitamina de banana com leite.",
+          "es": "Preparo un licuado de plátano con leche."
+        },
+        "de": {
+          "text": "Ich mache einen Bananensmoothie mit Milch.",
+          "es": "Preparo un licuado de plátano con leche."
+        }
       }
     },
     {
       "id": "food_94",
-      "es": "el té helado",
+      "es": "El té helado",
       "translations": {
-        "en": "the iced tea",
-        "fr": "le thé glacé",
-        "it": "il tè freddo",
-        "pt": "o chá gelado"
+        "en": "The iced tea",
+        "fr": "Le thé glacé",
+        "it": "Il tè freddo",
+        "pt": "O chá gelado",
+        "de": "Der Eistee"
       },
       "image_url": "data/img/te_helado.jpg",
       "notes": {
-        "en": "Plural: the iced teas",
-        "fr": "Plural: les thés glacés",
-        "it": "Plural: i tè freddi",
-        "pt": "Plural: os chás gelados"
+        "en": "(Plural: The iced teas)",
+        "fr": "(Plural: Les thés glacés)",
+        "it": "(Plural: I tè freddi)",
+        "pt": "(Plural: Os chás gelados)",
+        "de": "(Plural: Die Eistees)",
+        "es": "(Té servido frío)"
+      },
+      "examples": {
+        "en": {
+          "text": "I'd like an unsweetened iced tea.",
+          "es": "Quisiera un té helado sin azúcar."
+        },
+        "fr": {
+          "text": "Je voudrais un thé glacé sans sucre.",
+          "es": "Quisiera un té helado sin azúcar."
+        },
+        "it": {
+          "text": "Vorrei un tè freddo senza zucchero.",
+          "es": "Quisiera un té helado sin azúcar."
+        },
+        "pt": {
+          "text": "Eu queria um chá gelado sem açúcar.",
+          "es": "Quisiera un té helado sin azúcar."
+        },
+        "de": {
+          "text": "Ich hätte gern einen Eistee ohne Zucker.",
+          "es": "Quisiera un té helado sin azúcar."
+        }
       }
     },
     {
       "id": "food_95",
-      "es": "el chocolate caliente",
+      "es": "El chocolate caliente",
       "translations": {
-        "en": "the hot chocolate",
-        "fr": "le chocolat chaud",
-        "it": "la cioccolata calda",
-        "pt": "o chocolate quente"
+        "en": "The hot chocolate",
+        "fr": "Le chocolat chaud",
+        "it": "La cioccolata calda",
+        "pt": "O chocolate quente",
+        "de": "Die heiße Schokolade"
       },
       "image_url": "data/img/chocolate_caliente.jpg",
       "notes": {
-        "en": "Plural: the hot chocolates",
-        "fr": "Plural: les chocolats chauds",
-        "it": "Plural: le cioccolate calde",
-        "pt": "Plural: os chocolates quentes"
+        "en": "(Plural: The hot chocolates) El plural es habitual al contar tazas o pedidos de chocolate caliente.",
+        "fr": "(Plural: Les chocolats chauds)",
+        "it": "(Plural: Le cioccolate calde)",
+        "pt": "(Plural: Os chocolates quentes)",
+        "de": "Al contar tazas, usa «zwei Tassen heiße Schokolade» (dos tazas de chocolate caliente)."
+      },
+      "examples": {
+        "en": {
+          "text": "I drink hot chocolate when it's cold.",
+          "es": "Tomo chocolate caliente cuando hace frío."
+        },
+        "fr": {
+          "text": "Je bois du chocolat chaud quand il fait froid.",
+          "es": "Tomo chocolate caliente cuando hace frío."
+        },
+        "it": {
+          "text": "Bevo cioccolata calda quando fa freddo.",
+          "es": "Tomo chocolate caliente cuando hace frío."
+        },
+        "pt": {
+          "text": "Eu tomo chocolate quente quando faz frio.",
+          "es": "Tomo chocolate caliente cuando hace frío."
+        },
+        "de": {
+          "text": "Wenn es kalt ist, trinke ich heiße Schokolade.",
+          "es": "Tomo chocolate caliente cuando hace frío."
+        }
       }
     },
     {
       "id": "food_305",
-      "es": "el café descafeinado",
+      "es": "El café descafeinado",
       "translations": {
-        "en": "the decaf coffee",
-        "fr": "le café décaféiné",
-        "it": "il caffè decaffeinato",
-        "pt": "o café descafeinado"
+        "en": "The decaffeinated coffee",
+        "fr": "Le café décaféiné",
+        "it": "Il caffè decaffeinato",
+        "pt": "O café descafeinado",
+        "de": "Der entkoffeinierte Kaffee"
       },
-      "image_url": "data/img/cafe_descafeinado.jpg"
+      "image_url": "data/img/cafe_descafeinado.jpg",
+      "notes": {
+        "en": "(Plural: The decaffeinated coffees) También se pide como «decaf coffee» o simplemente «decaf».",
+        "fr": "(Plural: Les cafés décaféinés)",
+        "it": "(Plural: I caffè decaffeinati)",
+        "pt": "(Plural: Os cafés descafeinados)",
+        "de": "(Plural: Die entkoffeinierten Kaffees)"
+      },
+      "examples": {
+        "en": {
+          "text": "I drink decaffeinated coffee in the evening.",
+          "es": "Por la noche tomo café descafeinado."
+        },
+        "fr": {
+          "text": "Le soir, je bois du café décaféiné.",
+          "es": "Por la noche tomo café descafeinado."
+        },
+        "it": {
+          "text": "La sera bevo caffè decaffeinato.",
+          "es": "Por la noche tomo café descafeinado."
+        },
+        "pt": {
+          "text": "À noite, eu tomo café descafeinado.",
+          "es": "Por la noche tomo café descafeinado."
+        },
+        "de": {
+          "text": "Abends trinke ich entkoffeinierten Kaffee.",
+          "es": "Por la noche tomo café descafeinado."
+        }
+      }
     },
     {
       "id": "food_306",
-      "es": "el café helado",
+      "es": "El café helado",
       "translations": {
-        "en": "the iced coffee",
-        "fr": "le café glacé",
-        "it": "il caffè freddo",
-        "pt": "o café gelado"
+        "en": "The iced coffee",
+        "fr": "Le café glacé",
+        "it": "Il caffè freddo",
+        "pt": "O café gelado",
+        "de": "Der Kaffee mit Eiswürfeln"
       },
-      "image_url": "data/img/cafe_helado.jpg"
+      "image_url": "data/img/cafe_helado.jpg",
+      "notes": {
+        "en": "(Plural: The iced coffees)",
+        "fr": "(Plural: Les cafés glacés)",
+        "it": "(Plural: I caffè freddi)",
+        "pt": "(Plural: Os cafés gelados)",
+        "de": "(Plural: Die Kaffees mit Eiswürfeln) Falso amigo: «Eiskaffee» tradicionalmente lleva helado y crema batida. Si buscas cubitos, pide «Kaffee mit Eiswürfeln».",
+        "es": "(Café servido frío, a menudo con hielo)"
+      },
+      "examples": {
+        "en": {
+          "text": "I drink iced coffee in the summer.",
+          "es": "En verano tomo café helado."
+        },
+        "fr": {
+          "text": "En été, je bois du café glacé.",
+          "es": "En verano tomo café helado."
+        },
+        "it": {
+          "text": "D'estate bevo caffè freddo.",
+          "es": "En verano tomo café helado."
+        },
+        "pt": {
+          "text": "No verão, eu tomo café gelado.",
+          "es": "En verano tomo café helado."
+        },
+        "de": {
+          "text": "Im Sommer trinke ich Kaffee mit Eiswürfeln.",
+          "es": "En verano tomo café con cubitos de hielo."
+        }
+      }
     },
     {
       "id": "food_307",
-      "es": "el vino blanco",
+      "es": "El vino blanco",
       "translations": {
-        "en": "the white wine",
-        "fr": "le vin blanc",
-        "it": "il vino bianco",
-        "pt": "o vinho branco"
+        "en": "The white wine",
+        "fr": "Le vin blanc",
+        "it": "Il vino bianco",
+        "pt": "O vinho branco",
+        "de": "Der Weißwein"
       },
-      "image_url": "data/img/vino_blanco.jpg"
+      "image_url": "data/img/vino_blanco.jpg",
+      "examples": {
+        "en": {
+          "text": "I'd like a glass of white wine.",
+          "es": "Quisiera una copa de vino blanco."
+        },
+        "fr": {
+          "text": "Je voudrais un verre de vin blanc.",
+          "es": "Quisiera una copa de vino blanco."
+        },
+        "it": {
+          "text": "Vorrei un calice di vino bianco.",
+          "es": "Quisiera una copa de vino blanco."
+        },
+        "pt": {
+          "text": "Eu queria uma taça de vinho branco.",
+          "es": "Quisiera una copa de vino blanco."
+        },
+        "de": {
+          "text": "Ich hätte gern ein Glas Weißwein.",
+          "es": "Quisiera una copa de vino blanco."
+        }
+      }
     },
     {
       "id": "food_308",
-      "es": "el vino rosado",
+      "es": "El vino rosado",
       "translations": {
-        "en": "the rosé wine",
-        "fr": "le vin rosé",
-        "it": "il vino rosato",
-        "pt": "o vinho rosé"
+        "en": "The rosé",
+        "fr": "Le vin rosé",
+        "it": "Il vino rosato",
+        "pt": "O vinho rosé",
+        "de": "Der Roséwein"
       },
-      "image_url": "data/img/vino_rosado.jpg"
+      "image_url": "data/img/vino_rosado.jpg",
+      "examples": {
+        "en": {
+          "text": "There's rosé at the party.",
+          "es": "En la fiesta hay vino rosado."
+        },
+        "fr": {
+          "text": "Il y a du vin rosé à la fête.",
+          "es": "En la fiesta hay vino rosado."
+        },
+        "it": {
+          "text": "Alla festa c'è del vino rosato.",
+          "es": "En la fiesta hay vino rosado."
+        },
+        "pt": {
+          "text": "Na festa tem vinho rosé.",
+          "es": "En la fiesta hay vino rosado."
+        },
+        "de": {
+          "text": "Auf der Party gibt es Roséwein.",
+          "es": "En la fiesta hay vino rosado."
+        }
+      }
     },
     {
       "id": "food_309",
-      "es": "el vino espumoso",
+      "es": "El vino espumoso",
       "translations": {
-        "en": "the sparkling wine",
-        "fr": "le vin mousseux",
-        "it": "il vino spumante",
-        "pt": "o espumante"
+        "en": "The sparkling wine",
+        "fr": "Le vin mousseux",
+        "it": "Il vino spumante",
+        "pt": "O espumante",
+        "de": "Der Schaumwein"
       },
-      "image_url": "data/img/vino_espumoso.jpg"
+      "image_url": "data/img/vino_espumoso.jpg",
+      "examples": {
+        "en": {
+          "text": "This is a bottle of sparkling wine.",
+          "es": "Esta botella es de vino espumoso."
+        },
+        "fr": {
+          "text": "C'est une bouteille de vin mousseux.",
+          "es": "Esta botella es de vino espumoso."
+        },
+        "it": {
+          "text": "Questa è una bottiglia di vino spumante.",
+          "es": "Esta botella es de vino espumoso."
+        },
+        "pt": {
+          "text": "Esta é uma garrafa de espumante.",
+          "es": "Esta botella es de vino espumoso."
+        },
+        "de": {
+          "text": "Das ist eine Flasche Schaumwein.",
+          "es": "Esta botella es de vino espumoso."
+        }
+      }
     },
     {
       "id": "food_310",
-      "es": "el champán",
+      "es": "El champán",
       "translations": {
-        "en": "the Champagne",
-        "fr": "le champagne",
-        "it": "lo champagne",
-        "pt": "o champanhe"
+        "en": "The Champagne",
+        "fr": "Le champagne",
+        "it": "Lo champagne",
+        "pt": "O champanhe",
+        "de": "Der Champagner"
       },
       "image_url": "data/img/champana.jpg",
       "notes": {
-        "es": "Vino espumoso de la región francesa de Champaña"
+        "es": "Vino espumoso de la región francesa de Champaña."
+      },
+      "examples": {
+        "en": {
+          "text": "They serve Champagne at the wedding.",
+          "es": "Sirven champán en la boda."
+        },
+        "fr": {
+          "text": "On sert du champagne au mariage.",
+          "es": "Sirven champán en la boda."
+        },
+        "it": {
+          "text": "Al matrimonio servono champagne.",
+          "es": "Sirven champán en la boda."
+        },
+        "pt": {
+          "text": "Servem champanhe no casamento.",
+          "es": "Sirven champán en la boda."
+        },
+        "de": {
+          "text": "Auf der Hochzeit gibt es Champagner.",
+          "es": "Hay champán en la boda."
+        }
       }
     },
     {
       "id": "food_311",
-      "es": "la sidra alcohólica",
+      "es": "La sidra alcohólica",
       "translations": {
-        "en": "the hard cider",
-        "fr": "le cidre",
-        "it": "il sidro",
-        "pt": "a sidra"
+        "en": "The hard cider",
+        "fr": "Le cidre",
+        "it": "Il sidro",
+        "pt": "A sidra",
+        "de": "Der Apfelwein"
       },
-      "image_url": "data/img/sidra.jpg"
+      "image_url": "data/img/sidra.jpg",
+      "notes": {
+        "en": "En Estados Unidos, «hard cider» indica que contiene alcohol; «apple cider» no necesariamente.",
+        "de": "«Apfelwein» es una bebida alcohólica de manzana. También puedes ver «Cider» en la carta."
+      },
+      "examples": {
+        "en": {
+          "text": "We bought a bottle of hard cider.",
+          "es": "Compramos una botella de sidra alcohólica."
+        },
+        "fr": {
+          "text": "Nous avons acheté une bouteille de cidre.",
+          "es": "Compramos una botella de sidra alcohólica."
+        },
+        "it": {
+          "text": "Abbiamo comprato una bottiglia di sidro.",
+          "es": "Compramos una botella de sidra alcohólica."
+        },
+        "pt": {
+          "text": "Compramos uma garrafa de sidra.",
+          "es": "Compramos una botella de sidra alcohólica."
+        },
+        "de": {
+          "text": "Wir haben eine Flasche Apfelwein gekauft.",
+          "es": "Compramos una botella de sidra alcohólica."
+        }
+      }
     }
   ]
 }

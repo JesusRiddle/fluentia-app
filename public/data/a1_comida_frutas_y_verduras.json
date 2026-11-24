@@ -4,780 +4,1922 @@
   "cards": [
     {
       "id": "food_348",
-      "es": "la manzana verde",
+      "es": "La manzana verde",
       "translations": {
-        "en": "the green apple",
-        "fr": "la pomme verte",
-        "it": "la mela verde",
-        "pt": "a maçã verde"
+        "en": "The green apple",
+        "fr": "La pomme verte",
+        "it": "La mela verde",
+        "pt": "A maçã verde",
+        "de": "Der grüne Apfel"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the green apples",
-        "fr": "Plural: les pommes vertes",
-        "it": "Plural: le mele verdi",
-        "pt": "Plural: as maçãs verdes"
+        "en": "(Plural: The green apples)",
+        "fr": "(Plural: Les pommes vertes)",
+        "it": "(Plural: Le mele verdi)",
+        "pt": "(Plural: As maçãs verdes)",
+        "de": "(Plural: Die grünen Äpfel)"
+      },
+      "examples": {
+        "en": {
+          "text": "I slice a green apple for breakfast.",
+          "es": "Corto una manzana verde para el desayuno."
+        },
+        "fr": {
+          "text": "Je coupe une pomme verte pour le petit déjeuner.",
+          "es": "Corto una manzana verde para el desayuno."
+        },
+        "it": {
+          "text": "Taglio una mela verde per colazione.",
+          "es": "Corto una manzana verde para el desayuno."
+        },
+        "pt": {
+          "text": "Eu corto uma maçã verde para o café da manhã.",
+          "es": "Corto una manzana verde para el desayuno."
+        },
+        "de": {
+          "text": "Zum Frühstück schneide ich einen grünen Apfel.",
+          "es": "Corto una manzana verde para el desayuno."
+        }
       }
     },
     {
       "id": "food_7",
-      "es": "el limón amarillo",
+      "es": "El limón amarillo",
       "translations": {
-        "en": "the lemon",
-        "fr": "le citron",
-        "it": "il limone",
-        "pt": "o limão-siciliano"
+        "en": "The lemon",
+        "fr": "Le citron",
+        "it": "Il limone",
+        "pt": "O limão-siciliano",
+        "de": "Die Zitrone"
       },
       "image_url": "data/img/limon.jpg",
       "notes": {
-        "en": "Plural: the lemons",
-        "fr": "Plural: les citrons",
-        "it": "Plural: i limoni",
-        "pt": "Plural: os limões-sicilianos"
+        "en": "(Plural: The lemons) «Lemon» designa el limón amarillo; «lime», el limón verde de uso común en México.",
+        "fr": "(Plural: Les citrons) «Citron vert» designa el limón verde; «citron» sin más suele ser el amarillo.",
+        "it": "(Plural: I limoni) «Limone» es el amarillo; «lime» designa el limón verde en recetas.",
+        "pt": "(Plural: Os limões-sicilianos) «Limão-siciliano» es amarillo; «limão-taiti» es uno de los limones verdes de uso común en Brasil.",
+        "de": "(Plural: Die Zitronen) «Zitrone» es el limón amarillo; «Limette», el limón verde."
+      },
+      "examples": {
+        "en": {
+          "text": "I put lemon on the fish.",
+          "es": "Le pongo limón amarillo al pescado."
+        },
+        "fr": {
+          "text": "Je mets du citron sur le poisson.",
+          "es": "Le pongo limón amarillo al pescado."
+        },
+        "it": {
+          "text": "Metto del limone sul pesce.",
+          "es": "Le pongo limón amarillo al pescado."
+        },
+        "pt": {
+          "text": "Coloco limão-siciliano no peixe.",
+          "es": "Le pongo limón amarillo al pescado."
+        },
+        "de": {
+          "text": "Ich gebe Zitrone auf den Fisch.",
+          "es": "Le pongo limón amarillo al pescado."
+        }
       }
     },
     {
       "id": "food_184",
-      "es": "la mandarina",
+      "es": "La mandarina",
       "translations": {
-        "en": "the tangerine",
-        "fr": "la mandarine",
-        "it": "il mandarino",
-        "pt": "a tangerina"
+        "en": "The mandarin orange",
+        "fr": "La mandarine",
+        "it": "Il mandarino",
+        "pt": "A tangerina",
+        "de": "Die Mandarine"
       },
       "image_url": "data/img/mandarina.jpg",
       "notes": {
-        "en": "Plural: the tangerines",
-        "fr": "Plural: les mandarines",
-        "it": "Plural: i mandarini",
-        "pt": "Plural: as tangerinas"
+        "en": "(Plural: The mandarin oranges)",
+        "fr": "(Plural: Les mandarines)",
+        "it": "(Plural: I mandarini)",
+        "pt": "(Plural: As tangerinas)",
+        "de": "(Plural: Die Mandarinen)"
+      },
+      "examples": {
+        "en": {
+          "text": "I peel a mandarin orange for my daughter.",
+          "es": "Pelo una mandarina para mi hija."
+        },
+        "fr": {
+          "text": "J'épluche une mandarine pour ma fille.",
+          "es": "Pelo una mandarina para mi hija."
+        },
+        "it": {
+          "text": "Sbuccio un mandarino per mia figlia.",
+          "es": "Pelo una mandarina para mi hija."
+        },
+        "pt": {
+          "text": "Descasco uma tangerina para a minha filha.",
+          "es": "Pelo una mandarina para mi hija."
+        },
+        "de": {
+          "text": "Ich schäle eine Mandarine für meine Tochter.",
+          "es": "Pelo una mandarina para mi hija."
+        }
       }
     },
     {
       "id": "food_138",
-      "es": "la toronja",
+      "es": "La toronja",
       "translations": {
-        "en": "the grapefruit",
-        "fr": "le pamplemousse",
-        "it": "il pompelmo",
-        "pt": "a toranja"
+        "en": "The grapefruit",
+        "fr": "Le pamplemousse",
+        "it": "Il pompelmo",
+        "pt": "A toranja",
+        "de": "Die Grapefruit"
       },
       "image_url": "data/img/toronja.jpg",
       "notes": {
-        "en": "Plural: the grapefruits",
-        "fr": "Plural: les pamplemousses",
-        "it": "Plural: i pompelmi",
-        "pt": "Plural: as toranjas"
+        "en": "(Plural: The grapefruits)",
+        "fr": "(Plural: Les pamplemousses)",
+        "it": "(Plural: I pompelmi)",
+        "pt": "(Plural: As toranjas)",
+        "de": "(Plural: Die Grapefruits) No confundir «Grapefruit» con «Pampelmuse»: son frutas distintas."
+      },
+      "examples": {
+        "en": {
+          "text": "I have half a grapefruit for breakfast.",
+          "es": "Desayuno media toronja."
+        },
+        "fr": {
+          "text": "Je mange un demi-pamplemousse au petit déjeuner.",
+          "es": "Desayuno media toronja."
+        },
+        "it": {
+          "text": "A colazione mangio mezzo pompelmo.",
+          "es": "Desayuno media toronja."
+        },
+        "pt": {
+          "text": "Como meia toranja no café da manhã.",
+          "es": "Desayuno media toronja."
+        },
+        "de": {
+          "text": "Zum Frühstück esse ich eine halbe Grapefruit.",
+          "es": "Desayuno media toronja."
+        }
       }
     },
     {
       "id": "food_137",
-      "es": "la granada",
+      "es": "La granada",
       "translations": {
-        "en": "the pomegranate",
-        "fr": "la grenade",
-        "it": "la melagrana",
-        "pt": "a romã"
+        "en": "The pomegranate",
+        "fr": "La grenade",
+        "it": "La melagrana",
+        "pt": "A romã",
+        "de": "Der Granatapfel"
       },
       "image_url": "data/img/granada.jpg",
       "notes": {
-        "en": "Plural: the pomegranates",
-        "fr": "Plural: les grenades",
-        "it": "Plural: le melagrane",
-        "pt": "Plural: as romãs"
+        "es": "(Fruta, no artefacto)",
+        "en": "(Plural: The pomegranates)",
+        "fr": "(Plural: Les grenades) «Grenade» también puede nombrar un artefacto; aquí es la fruta.",
+        "it": "(Plural: Le melagrane)",
+        "pt": "(Plural: As romãs)",
+        "de": "(Plural: Die Granatäpfel)"
+      },
+      "examples": {
+        "en": {
+          "text": "The pomegranate seeds are red.",
+          "es": "Los granos de la granada son rojos."
+        },
+        "fr": {
+          "text": "Les grains de la grenade sont rouges.",
+          "es": "Los granos de la granada son rojos."
+        },
+        "it": {
+          "text": "I chicchi della melagrana sono rossi.",
+          "es": "Los granos de la granada son rojos."
+        },
+        "pt": {
+          "text": "As sementes da romã são vermelhas.",
+          "es": "Los granos de la granada son rojos."
+        },
+        "de": {
+          "text": "Die Kerne des Granatapfels sind rot.",
+          "es": "Los granos de la granada son rojos."
+        }
       }
     },
     {
       "id": "food_139",
-      "es": "la ciruela",
+      "es": "La ciruela",
       "translations": {
-        "en": "the plum",
-        "fr": "la prune",
-        "it": "la prugna",
-        "pt": "a ameixa"
+        "en": "The plum",
+        "fr": "La prune",
+        "it": "La prugna",
+        "pt": "A ameixa",
+        "de": "Die Pflaume"
       },
       "image_url": "data/img/ciruela.jpg",
       "notes": {
-        "en": "Plural: the plums",
-        "fr": "Plural: les prunes",
-        "it": "Plural: le prugne",
-        "pt": "Plural: as ameixas"
+        "en": "(Plural: The plums)",
+        "fr": "(Plural: Les prunes)",
+        "it": "(Plural: Le prugne)",
+        "pt": "(Plural: As ameixas)",
+        "de": "(Plural: Die Pflaumen)"
+      },
+      "examples": {
+        "en": {
+          "text": "I bought two plums at the market.",
+          "es": "Compré dos ciruelas en el mercado."
+        },
+        "fr": {
+          "text": "J'ai acheté deux prunes au marché.",
+          "es": "Compré dos ciruelas en el mercado."
+        },
+        "it": {
+          "text": "Ho comprato due prugne al mercato.",
+          "es": "Compré dos ciruelas en el mercado."
+        },
+        "pt": {
+          "text": "Comprei duas ameixas na feira.",
+          "es": "Compré dos ciruelas en el mercado."
+        },
+        "de": {
+          "text": "Ich habe zwei Pflaumen auf dem Markt gekauft.",
+          "es": "Compré dos ciruelas en el mercado."
+        }
       }
     },
     {
       "id": "food_140",
-      "es": "la cereza",
+      "es": "La cereza",
       "translations": {
-        "en": "the cherry",
-        "fr": "la cerise",
-        "it": "la ciliegia",
-        "pt": "a cereja"
+        "en": "The cherry",
+        "fr": "La cerise",
+        "it": "La ciliegia",
+        "pt": "A cereja",
+        "de": "Die Kirsche"
       },
       "image_url": "data/img/cereza.jpg",
       "notes": {
-        "it": "Plural: le ciliegie",
-        "en": "Plural: the cherries",
-        "fr": "Plural: les cerises",
-        "pt": "Plural: as cerejas"
+        "en": "(Plural: The cherries)",
+        "fr": "(Plural: Les cerises)",
+        "it": "(Plural: Le ciliegie)",
+        "pt": "(Plural: As cerejas)",
+        "de": "(Plural: Die Kirschen)"
+      },
+      "examples": {
+        "en": {
+          "text": "There are cherries in the cake.",
+          "es": "Hay cerezas en el pastel."
+        },
+        "fr": {
+          "text": "Il y a des cerises dans le gâteau.",
+          "es": "Hay cerezas en el pastel."
+        },
+        "it": {
+          "text": "Ci sono delle ciliegie nella torta.",
+          "es": "Hay cerezas en el pastel."
+        },
+        "pt": {
+          "text": "Tem cerejas no bolo.",
+          "es": "Hay cerezas en el pastel."
+        },
+        "de": {
+          "text": "Im Kuchen sind Kirschen.",
+          "es": "Hay cerezas en el pastel."
+        }
       }
     },
     {
       "id": "food_143",
-      "es": "el durazno",
+      "es": "El durazno",
       "translations": {
-        "en": "the peach",
-        "fr": "la pêche",
-        "it": "la pesca",
-        "pt": "o pêssego"
+        "en": "The peach",
+        "fr": "La pêche",
+        "it": "La pesca",
+        "pt": "O pêssego",
+        "de": "Der Pfirsich"
       },
       "image_url": "data/img/durazno.jpg",
       "notes": {
-        "en": "Plural: the peaches",
-        "fr": "Plural: les pêches",
-        "it": "Plural: le pesche",
-        "pt": "Plural: os pêssegos"
+        "en": "(Plural: The peaches)",
+        "fr": "(Plural: Les pêches)",
+        "it": "(Plural: Le pesche)",
+        "pt": "(Plural: Os pêssegos)",
+        "de": "(Plural: Die Pfirsiche)"
+      },
+      "examples": {
+        "en": {
+          "text": "This peach is sweet.",
+          "es": "Este durazno está dulce."
+        },
+        "fr": {
+          "text": "Cette pêche est sucrée.",
+          "es": "Este durazno está dulce."
+        },
+        "it": {
+          "text": "Questa pesca è dolce.",
+          "es": "Este durazno está dulce."
+        },
+        "pt": {
+          "text": "Este pêssego está doce.",
+          "es": "Este durazno está dulce."
+        },
+        "de": {
+          "text": "Dieser Pfirsich ist süß.",
+          "es": "Este durazno está dulce."
+        }
       }
     },
     {
       "id": "food_193",
-      "es": "el chabacano",
+      "es": "El chabacano",
       "translations": {
-        "en": "the apricot",
-        "fr": "l'abricot",
-        "it": "l'albicocca",
-        "pt": "o damasco"
+        "en": "The apricot",
+        "fr": "L'abricot",
+        "it": "L'albicocca",
+        "pt": "O damasco",
+        "de": "Die Aprikose"
       },
       "image_url": "data/img/chabacano.jpg",
       "notes": {
-        "en": "Plural: the apricots",
-        "fr": "Plural: les abricots",
-        "it": "Plural: le albicocche",
-        "pt": "Plural: os damascos"
+        "es": "(Fruta)",
+        "en": "(Plural: The apricots)",
+        "fr": "(Plural: Les abricots)",
+        "it": "(Plural: Le albicocche)",
+        "pt": "(Plural: Os damascos)",
+        "de": "(Plural: Die Aprikosen)"
+      },
+      "examples": {
+        "en": {
+          "text": "I pack an apricot for lunch.",
+          "es": "Guardo un chabacano para el almuerzo."
+        },
+        "fr": {
+          "text": "Je mets un abricot dans mon sac pour le déjeuner.",
+          "es": "Guardo un chabacano en la bolsa para el almuerzo."
+        },
+        "it": {
+          "text": "Metto un'albicocca nella borsa per il pranzo.",
+          "es": "Guardo un chabacano en la bolsa para el almuerzo."
+        },
+        "pt": {
+          "text": "Coloco um damasco na bolsa para o almoço.",
+          "es": "Guardo un chabacano en la bolsa para el almuerzo."
+        },
+        "de": {
+          "text": "Ich packe eine Aprikose fürs Mittagessen ein.",
+          "es": "Guardo un chabacano para el almuerzo."
+        }
       }
     },
     {
       "id": "food_5",
-      "es": "la mora azul",
+      "es": "La mora azul",
       "translations": {
-        "en": "the blueberry",
-        "fr": "la myrtille",
-        "it": "il mirtillo",
-        "pt": "o mirtilo"
+        "en": "The blueberry",
+        "fr": "La myrtille",
+        "it": "Il mirtillo",
+        "pt": "O mirtilo",
+        "de": "Die Heidelbeere"
       },
       "image_url": "data/img/moraazul.jpg",
       "notes": {
-        "en": "Plural: the blueberries",
-        "fr": "Plural: les myrtilles",
-        "it": "Plural: i mirtilli",
-        "pt": "Plural: os mirtilos"
+        "en": "(Plural: The blueberries)",
+        "fr": "(Plural: Les myrtilles)",
+        "it": "(Plural: I mirtilli)",
+        "pt": "(Plural: Os mirtilos)",
+        "de": "(Plural: Die Heidelbeeren)"
+      },
+      "examples": {
+        "en": {
+          "text": "I put blueberries in my yogurt.",
+          "es": "Le pongo moras azules al yogur."
+        },
+        "fr": {
+          "text": "Je mets des myrtilles dans mon yaourt.",
+          "es": "Le pongo moras azules al yogur."
+        },
+        "it": {
+          "text": "Metto dei mirtilli nello yogurt.",
+          "es": "Le pongo moras azules al yogur."
+        },
+        "pt": {
+          "text": "Coloco mirtilos no meu iogurte.",
+          "es": "Le pongo moras azules al yogur."
+        },
+        "de": {
+          "text": "Ich gebe Heidelbeeren in meinen Joghurt.",
+          "es": "Le pongo moras azules al yogur."
+        }
       }
     },
     {
       "id": "food_142",
-      "es": "el arándano rojo",
+      "es": "El arándano rojo",
       "translations": {
-        "en": "the cranberry",
-        "fr": "la canneberge",
-        "it": "il mirtillo rosso americano",
-        "pt": "o oxicoco"
+        "en": "The cranberry",
+        "fr": "La canneberge",
+        "it": "Il mirtillo rosso americano",
+        "pt": "O oxicoco",
+        "de": "Die Cranberry"
       },
       "image_url": "data/img/arandano_rojo.jpg",
       "notes": {
-        "it": "Plural: i mirtilli rossi americani",
-        "en": "Plural: the cranberries",
-        "fr": "Plural: les canneberges",
-        "pt": "Plural: os oxicocos"
+        "en": "(Plural: The cranberries)",
+        "fr": "(Plural: Les canneberges)",
+        "it": "(Plural: I mirtilli rossi americani) «Mirtillo rosso americano» distingue esta fruta de otras que se llaman «mirtillo rosso».",
+        "pt": "(Plural: Os oxicocos)",
+        "de": "(Plural: Die Cranberrys) «Cranberry» no equivale a «Preiselbeere»; son especies diferentes."
+      },
+      "examples": {
+        "en": {
+          "text": "This juice is made from cranberries.",
+          "es": "Este jugo es de arándano rojo."
+        },
+        "fr": {
+          "text": "Ce jus est à base de canneberges.",
+          "es": "Este jugo es de arándano rojo."
+        },
+        "it": {
+          "text": "Questo succo è a base di mirtilli rossi americani.",
+          "es": "Este jugo es de arándano rojo."
+        },
+        "pt": {
+          "text": "Este suco é de oxicoco.",
+          "es": "Este jugo es de arándano rojo."
+        },
+        "de": {
+          "text": "Dieser Saft ist aus Cranberrys.",
+          "es": "Este jugo es de arándano rojo."
+        }
       }
     },
     {
       "id": "food_189",
-      "es": "la frambuesa",
+      "es": "La frambuesa",
       "translations": {
-        "en": "the raspberry",
-        "fr": "la framboise",
-        "it": "il lampone",
-        "pt": "a framboesa"
+        "en": "The raspberry",
+        "fr": "La framboise",
+        "it": "Il lampone",
+        "pt": "A framboesa",
+        "de": "Die Himbeere"
       },
       "image_url": "data/img/frambuesa.jpg",
       "notes": {
-        "en": "Plural: the raspberries",
-        "fr": "Plural: les framboises",
-        "it": "Plural: i lamponi",
-        "pt": "Plural: as framboesas"
+        "en": "(Plural: The raspberries)",
+        "fr": "(Plural: Les framboises)",
+        "it": "(Plural: I lamponi)",
+        "pt": "(Plural: As framboesas)",
+        "de": "(Plural: Die Himbeeren)"
+      },
+      "examples": {
+        "en": {
+          "text": "The ice cream has raspberries in it.",
+          "es": "El helado lleva frambuesas."
+        },
+        "fr": {
+          "text": "Il y a des framboises dans la glace.",
+          "es": "El helado lleva frambuesas."
+        },
+        "it": {
+          "text": "Nel gelato ci sono dei lamponi.",
+          "es": "El helado lleva frambuesas."
+        },
+        "pt": {
+          "text": "O sorvete leva framboesas.",
+          "es": "El helado lleva frambuesas."
+        },
+        "de": {
+          "text": "In dem Eis sind Himbeeren.",
+          "es": "El helado lleva frambuesas."
+        }
       }
     },
     {
       "id": "food_190",
-      "es": "la zarzamora",
+      "es": "La zarzamora",
       "translations": {
-        "en": "the blackberry",
-        "fr": "la mûre",
-        "it": "la mora",
-        "pt": "a amora"
+        "en": "The blackberry",
+        "fr": "La mûre",
+        "it": "La mora",
+        "pt": "A amora-preta",
+        "de": "Die Brombeere"
       },
       "image_url": "data/img/zarzamora.jpg",
       "notes": {
-        "en": "Plural: the blackberries",
-        "fr": "Plural: les mûres",
-        "it": "Plural: le more",
-        "pt": "Plural: as amoras"
+        "en": "(Plural: The blackberries)",
+        "fr": "(Plural: Les mûres)",
+        "it": "(Plural: Le more)",
+        "pt": "(Plural: As amoras-pretas)",
+        "de": "(Plural: Die Brombeeren)"
+      },
+      "examples": {
+        "en": {
+          "text": "I make blackberry jam.",
+          "es": "Hago mermelada de zarzamora."
+        },
+        "fr": {
+          "text": "Je fais de la confiture de mûres.",
+          "es": "Hago mermelada de zarzamora."
+        },
+        "it": {
+          "text": "Faccio la marmellata di more.",
+          "es": "Hago mermelada de zarzamora."
+        },
+        "pt": {
+          "text": "Faço geleia de amoras-pretas.",
+          "es": "Hago mermelada de zarzamora."
+        },
+        "de": {
+          "text": "Ich mache Marmelade aus Brombeeren.",
+          "es": "Hago mermelada de zarzamora."
+        }
       }
     },
     {
       "id": "food_141",
-      "es": "el coco",
+      "es": "El coco",
       "translations": {
-        "en": "the coconut",
-        "fr": "la noix de coco",
-        "it": "la noce di cocco",
-        "pt": "o coco"
+        "en": "The coconut",
+        "fr": "La noix de coco",
+        "it": "La noce di cocco",
+        "pt": "O coco",
+        "de": "Die Kokosnuss"
       },
       "image_url": "data/img/coco.jpg",
       "notes": {
-        "en": "Plural: the coconuts",
-        "fr": "Plural: les noix de coco",
-        "it": "Plural: le noci di cocco",
-        "pt": "Plural: os cocos"
+        "en": "(Plural: The coconuts)",
+        "fr": "(Plural: Les noix de coco)",
+        "it": "(Plural: Le noci di cocco)",
+        "pt": "(Plural: Os cocos)",
+        "de": "(Plural: Die Kokosnüsse)"
+      },
+      "examples": {
+        "en": {
+          "text": "I open the coconut with a knife.",
+          "es": "Abro el coco con un cuchillo."
+        },
+        "fr": {
+          "text": "J'ouvre la noix de coco avec un couteau.",
+          "es": "Abro el coco con un cuchillo."
+        },
+        "it": {
+          "text": "Apro la noce di cocco con un coltello.",
+          "es": "Abro el coco con un cuchillo."
+        },
+        "pt": {
+          "text": "Abro o coco com uma faca.",
+          "es": "Abro el coco con un cuchillo."
+        },
+        "de": {
+          "text": "Ich öffne die Kokosnuss mit einem Messer.",
+          "es": "Abro el coco con un cuchillo."
+        }
       }
     },
     {
       "id": "food_187",
-      "es": "la guayaba",
+      "es": "La guayaba",
       "translations": {
-        "en": "the guava",
-        "fr": "la goyave",
-        "it": "la guava",
-        "pt": "a goiaba"
+        "en": "The guava",
+        "fr": "La goyave",
+        "it": "La guava",
+        "pt": "A goiaba",
+        "de": "Die Guave"
       },
       "image_url": "data/img/guayaba.jpg",
       "notes": {
-        "en": "Plural: the guavas",
-        "fr": "Plural: les goyaves",
-        "it": "Plural: le guave",
-        "pt": "Plural: as goiabas"
+        "en": "(Plural: The guavas)",
+        "fr": "(Plural: Les goyaves)",
+        "it": "(Plural: Le guave)",
+        "pt": "(Plural: As goiabas)",
+        "de": "(Plural: Die Guaven)"
+      },
+      "examples": {
+        "en": {
+          "text": "My mom makes guava juice.",
+          "es": "Mi mamá hace jugo de guayaba."
+        },
+        "fr": {
+          "text": "Ma mère fait du jus de goyave.",
+          "es": "Mi mamá hace jugo de guayaba."
+        },
+        "it": {
+          "text": "Mia madre fa il succo di guava.",
+          "es": "Mi mamá hace jugo de guayaba."
+        },
+        "pt": {
+          "text": "Minha mãe faz suco de goiaba.",
+          "es": "Mi mamá hace jugo de guayaba."
+        },
+        "de": {
+          "text": "Meine Mutter macht Saft aus Guaven.",
+          "es": "Mi mamá hace jugo de guayaba."
+        }
       }
     },
     {
       "id": "food_188",
-      "es": "el kiwi",
+      "es": "El kiwi",
       "translations": {
-        "en": "the kiwi",
-        "fr": "le kiwi",
-        "it": "il kiwi",
-        "pt": "o kiwi"
+        "en": "The kiwi",
+        "fr": "Le kiwi",
+        "it": "Il kiwi",
+        "pt": "O kiwi",
+        "de": "Die Kiwi"
       },
       "image_url": "data/img/kiwi.jpg",
       "notes": {
-        "en": "Plural: the kiwis",
-        "fr": "Plural: les kiwis",
-        "it": "Plural: i kiwi",
-        "pt": "Plural: os kiwis"
+        "en": "(Plural: The kiwis)",
+        "fr": "(Plural: Les kiwis)",
+        "it": "(Plural: I kiwi)",
+        "pt": "(Plural: Os kiwis)",
+        "de": "(Plural: Die Kiwis)"
+      },
+      "examples": {
+        "en": {
+          "text": "I eat a kiwi after lunch.",
+          "es": "Me como un kiwi después del almuerzo."
+        },
+        "fr": {
+          "text": "Je mange un kiwi après le déjeuner.",
+          "es": "Me como un kiwi después del almuerzo."
+        },
+        "it": {
+          "text": "Mangio un kiwi dopo pranzo.",
+          "es": "Me como un kiwi después del almuerzo."
+        },
+        "pt": {
+          "text": "Como um kiwi depois do almoço.",
+          "es": "Me como un kiwi después del almuerzo."
+        },
+        "de": {
+          "text": "Nach dem Mittagessen esse ich eine Kiwi.",
+          "es": "Me como un kiwi después del almuerzo."
+        }
       }
     },
     {
       "id": "food_191",
-      "es": "el higo",
+      "es": "El higo",
       "translations": {
-        "en": "the fig",
-        "fr": "la figue",
-        "it": "il fico",
-        "pt": "o figo"
+        "en": "The fig",
+        "fr": "La figue",
+        "it": "Il fico",
+        "pt": "O figo",
+        "de": "Die Feige"
       },
       "image_url": "data/img/higo.jpg",
       "notes": {
-        "en": "Plural: the figs",
-        "fr": "Plural: les figues",
-        "it": "Plural: i fichi",
-        "pt": "Plural: os figos"
+        "en": "(Plural: The figs)",
+        "fr": "(Plural: Les figues)",
+        "it": "(Plural: I fichi)",
+        "pt": "(Plural: Os figos)",
+        "de": "(Plural: Die Feigen)"
+      },
+      "examples": {
+        "en": {
+          "text": "We eat figs with cheese.",
+          "es": "Comemos higos con queso."
+        },
+        "fr": {
+          "text": "On mange des figues avec du fromage.",
+          "es": "Comemos higos con queso."
+        },
+        "it": {
+          "text": "Mangiamo i fichi con il formaggio.",
+          "es": "Comemos higos con queso."
+        },
+        "pt": {
+          "text": "Comemos figos com queijo.",
+          "es": "Comemos higos con queso."
+        },
+        "de": {
+          "text": "Wir essen Feigen mit Käse.",
+          "es": "Comemos higos con queso."
+        }
       }
     },
     {
       "id": "food_194",
-      "es": "el maracuyá",
+      "es": "El maracuyá",
       "translations": {
-        "en": "the passion fruit",
-        "fr": "le fruit de la passion",
-        "it": "il frutto della passione",
-        "pt": "o maracujá"
+        "en": "The passion fruit",
+        "fr": "Le fruit de la passion",
+        "it": "Il frutto della passione",
+        "pt": "O maracujá",
+        "de": "Die Maracuja"
       },
       "image_url": "data/img/maracuya.jpg",
       "notes": {
-        "fr": "Plural: les fruits de la passion",
-        "it": "Plural: i frutti della passione",
-        "pt": "Plural: os maracujás"
+        "en": "(Plural: The passion fruits)",
+        "fr": "(Plural: Les fruits de la passion)",
+        "it": "(Plural: I frutti della passione)",
+        "pt": "(Plural: Os maracujás)",
+        "de": "(Plural: Die Maracujas)"
+      },
+      "examples": {
+        "en": {
+          "text": "I'd like some passion fruit juice.",
+          "es": "Quiero un jugo de maracuyá."
+        },
+        "fr": {
+          "text": "Je voudrais du jus de fruits de la passion.",
+          "es": "Quiero un jugo de maracuyá."
+        },
+        "it": {
+          "text": "Vorrei un succo al frutto della passione.",
+          "es": "Quiero un jugo de maracuyá."
+        },
+        "pt": {
+          "text": "Quero um suco de maracujá.",
+          "es": "Quiero un jugo de maracuyá."
+        },
+        "de": {
+          "text": "Ich möchte einen Maracujasaft.",
+          "es": "Quiero un jugo de maracuyá."
+        }
       }
     },
     {
       "id": "food_195",
-      "es": "la tuna",
+      "es": "La tuna",
       "translations": {
-        "en": "the prickly pear",
-        "fr": "la figue de Barbarie",
-        "it": "il fico d'India",
-        "pt": "o figo-da-índia"
+        "en": "The prickly pear",
+        "fr": "La figue de Barbarie",
+        "it": "Il fico d'India",
+        "pt": "O figo-da-índia",
+        "de": "Die Kaktusfeige"
       },
       "image_url": "data/img/tuna.jpg",
       "notes": {
-        "en": "Plural: the prickly pears",
-        "fr": "Plural: les figues de Barbarie",
-        "it": "Plural: i fichi d'India",
-        "pt": "Plural: os figos-da-índia"
+        "es": "(Fruto del nopal)",
+        "en": "(Plural: The prickly pears) Falso amigo: «tuna» en inglés es el atún; la fruta del nopal es «prickly pear».",
+        "fr": "(Plural: Les figues de Barbarie)",
+        "it": "(Plural: I fichi d'India)",
+        "pt": "(Plural: Os figos-da-índia)",
+        "de": "(Plural: Die Kaktusfeigen)"
+      },
+      "examples": {
+        "en": {
+          "text": "I peel the prickly pear before I eat it.",
+          "es": "Pelo la tuna antes de comerla."
+        },
+        "fr": {
+          "text": "J'épluche la figue de Barbarie avant de la manger.",
+          "es": "Pelo la tuna antes de comerla."
+        },
+        "it": {
+          "text": "Sbuccio il fico d'India prima di mangiarlo.",
+          "es": "Pelo la tuna antes de comerla."
+        },
+        "pt": {
+          "text": "Descasco o figo-da-índia antes de comê-lo.",
+          "es": "Pelo la tuna antes de comerla."
+        },
+        "de": {
+          "text": "Ich schäle die Kaktusfeige, bevor ich sie esse.",
+          "es": "Pelo la tuna antes de comerla."
+        }
       }
     },
     {
       "id": "food_196",
-      "es": "el tamarindo",
+      "es": "El tamarindo",
       "translations": {
-        "en": "the tamarind",
-        "fr": "le tamarin",
-        "it": "il tamarindo",
-        "pt": "o tamarindo"
+        "en": "The tamarind",
+        "fr": "Le tamarin",
+        "it": "Il tamarindo",
+        "pt": "O tamarindo",
+        "de": "Die Tamarinde"
       },
       "image_url": "data/img/tamarindo.jpg",
       "notes": {
-        "en": "Plural: the tamarinds",
-        "fr": "Plural: les tamarins",
-        "it": "Plural: i tamarindi",
-        "pt": "Plural: os tamarindos"
+        "en": "(Plural: The tamarinds)",
+        "fr": "(Plural: Les tamarins)",
+        "it": "(Plural: I tamarindi)",
+        "pt": "(Plural: Os tamarindos)",
+        "de": "(Plural: Die Tamarinden)"
+      },
+      "examples": {
+        "en": {
+          "text": "I make tamarind agua fresca.",
+          "es": "Preparo agua de tamarindo."
+        },
+        "fr": {
+          "text": "Je prépare une boisson au tamarin.",
+          "es": "Preparo agua de tamarindo."
+        },
+        "it": {
+          "text": "Preparo una bevanda al tamarindo.",
+          "es": "Preparo agua de tamarindo."
+        },
+        "pt": {
+          "text": "Preparo um refresco de tamarindo.",
+          "es": "Preparo agua de tamarindo."
+        },
+        "de": {
+          "text": "Ich mache ein Getränk mit Tamarinde.",
+          "es": "Preparo agua de tamarindo."
+        }
       }
     },
     {
       "id": "food_197",
-      "es": "la guanábana",
+      "es": "La guanábana",
       "translations": {
-        "en": "the soursop",
-        "fr": "le corossol",
-        "it": "la graviola",
-        "pt": "a graviola"
+        "en": "The soursop",
+        "fr": "Le corossol",
+        "it": "La graviola",
+        "pt": "A graviola",
+        "de": "Die Stachelannone"
       },
       "image_url": "data/img/guanabana.jpg",
       "notes": {
-        "en": "Plural: the soursops",
-        "fr": "Plural: les corossols",
-        "it": "Plural: le graviole",
-        "pt": "Plural: as graviolas"
+        "en": "(Plural: The soursops)",
+        "fr": "(Plural: Les corossols)",
+        "it": "(Plural: Le graviole)",
+        "pt": "(Plural: As graviolas)",
+        "de": "(Plural: Die Stachelannonen)"
+      },
+      "examples": {
+        "en": {
+          "text": "Soursop ice cream is my favorite.",
+          "es": "El helado de guanábana es mi favorito."
+        },
+        "fr": {
+          "text": "La glace au corossol est ma préférée.",
+          "es": "El helado de guanábana es mi favorito."
+        },
+        "it": {
+          "text": "Il gelato alla graviola è il mio preferito.",
+          "es": "El helado de guanábana es mi favorito."
+        },
+        "pt": {
+          "text": "Sorvete de graviola é o meu favorito.",
+          "es": "El helado de guanábana es mi favorito."
+        },
+        "de": {
+          "text": "Eis mit Stachelannone ist mein Lieblingseis.",
+          "es": "El helado de guanábana es mi favorito."
+        }
       }
     },
     {
       "id": "food_337",
-      "es": "la aceituna",
+      "es": "La aceituna",
       "translations": {
-        "en": "the olive",
-        "fr": "l'olive",
-        "it": "l'oliva",
-        "pt": "a azeitona"
+        "en": "The olive",
+        "fr": "L'olive",
+        "it": "L'oliva",
+        "pt": "A azeitona",
+        "de": "Die Olive"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the olives",
-        "fr": "Plural: les olives",
-        "it": "Plural: le olive",
-        "pt": "Plural: as azeitonas"
+        "en": "(Plural: The olives)",
+        "fr": "(Plural: Les olives)",
+        "it": "(Plural: Le olive)",
+        "pt": "(Plural: As azeitonas)",
+        "de": "(Plural: Die Oliven)"
+      },
+      "examples": {
+        "en": {
+          "text": "I put olives on the pizza.",
+          "es": "Le pongo aceitunas a la pizza."
+        },
+        "fr": {
+          "text": "Je mets des olives sur la pizza.",
+          "es": "Le pongo aceitunas a la pizza."
+        },
+        "it": {
+          "text": "Metto delle olive sulla pizza.",
+          "es": "Le pongo aceitunas a la pizza."
+        },
+        "pt": {
+          "text": "Coloco azeitonas na pizza.",
+          "es": "Le pongo aceitunas a la pizza."
+        },
+        "de": {
+          "text": "Ich lege Oliven auf die Pizza.",
+          "es": "Le pongo aceitunas a la pizza."
+        }
       }
     },
     {
       "id": "food_199",
-      "es": "la fruta deshidratada",
+      "es": "La fruta deshidratada",
       "translations": {
-        "en": "the dried fruit",
-        "fr": "le fruit déshydraté",
-        "it": "la frutta disidratata",
-        "pt": "a fruta desidratada"
+        "en": "The dried fruit",
+        "fr": "Le fruit séché",
+        "it": "La frutta disidratata",
+        "pt": "A fruta desidratada",
+        "de": "Das Trockenobst"
       },
-      "image_url": "data/img/fruta_deshidratada.jpg"
+      "image_url": "data/img/fruta_deshidratada.jpg",
+      "notes": {
+        "en": "«Dried fruit» se usa en conjunto; «nuts» son los frutos de cáscara como la nuez.",
+        "fr": "(Plural: Les fruits séchés) «Fruits séchés» indica fruta deshidratada. «Fruits secs» también puede abarcar frutos de cáscara.",
+        "it": "«Frutta disidratata» distingue la fruta deshidratada de las nueces y otros frutos de cáscara.",
+        "pt": "(Plural: As frutas desidratadas)"
+      },
+      "examples": {
+        "en": {
+          "text": "I'm taking dried fruit for the trip.",
+          "es": "Llevo fruta deshidratada para el viaje."
+        },
+        "fr": {
+          "text": "J'emporte des fruits séchés pour le voyage.",
+          "es": "Llevo fruta deshidratada para el viaje."
+        },
+        "it": {
+          "text": "Porto della frutta disidratata per il viaggio.",
+          "es": "Llevo fruta deshidratada para el viaje."
+        },
+        "pt": {
+          "text": "Levo frutas desidratadas para a viagem.",
+          "es": "Llevo fruta deshidratada para el viaje."
+        },
+        "de": {
+          "text": "Ich nehme Trockenobst für die Reise mit.",
+          "es": "Llevo fruta deshidratada para el viaje."
+        }
+      }
     },
     {
       "id": "food_198",
-      "es": "la ciruela pasa",
+      "es": "La ciruela pasa",
       "translations": {
-        "en": "the prune",
-        "fr": "le pruneau",
-        "it": "la prugna secca",
-        "pt": "a ameixa seca"
+        "en": "The prune",
+        "fr": "Le pruneau",
+        "it": "La prugna secca",
+        "pt": "A ameixa seca",
+        "de": "Die Backpflaume"
       },
       "image_url": "data/img/ciruela_pasa.jpg",
       "notes": {
-        "en": "Plural: the prunes",
-        "fr": "Plural: les pruneaux",
-        "it": "Plural: le prugne secche",
-        "pt": "Plural: as ameixas secas"
+        "en": "(Plural: The prunes)",
+        "fr": "(Plural: Les pruneaux)",
+        "it": "(Plural: Le prugne secche)",
+        "pt": "(Plural: As ameixas secas)",
+        "de": "(Plural: Die Backpflaumen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The prunes go in the stew.",
+          "es": "Las ciruelas pasas van en el guiso."
+        },
+        "fr": {
+          "text": "Les pruneaux vont dans le ragoût.",
+          "es": "Las ciruelas pasas van en el guiso."
+        },
+        "it": {
+          "text": "Le prugne secche vanno nello stufato.",
+          "es": "Las ciruelas pasas van en el guiso."
+        },
+        "pt": {
+          "text": "As ameixas secas vão no ensopado.",
+          "es": "Las ciruelas pasas van en el guiso."
+        },
+        "de": {
+          "text": "Die Backpflaumen kommen in den Eintopf.",
+          "es": "Las ciruelas pasas van en el guiso."
+        }
       }
     },
     {
       "id": "food_342",
-      "es": "la pasa",
+      "es": "La pasa",
       "translations": {
-        "en": "the raisin",
-        "fr": "le raisin sec",
-        "it": "l'uvetta",
-        "pt": "a uva-passa"
+        "en": "The raisin",
+        "fr": "Le raisin sec",
+        "it": "L'uvetta",
+        "pt": "A uva-passa",
+        "de": "Die Rosine"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the raisins",
-        "fr": "Plural: les raisins secs",
-        "it": "Uso colectivo: l’uvetta; una pasa individual: l’acino d’uva passa",
-        "pt": "Plural: as uvas-passas"
+        "en": "(Plural: The raisins)",
+        "fr": "(Plural: Les raisins secs) «Raisin» a secas suele ser la uva; «raisin sec» evita confundirla con la fruta fresca.",
+        "it": "«Uvetta» se usa en conjunto; para una sola pasa, «un acino d'uva passa».",
+        "pt": "(Plural: As uvas-passas)",
+        "de": "(Plural: Die Rosinen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The bread has raisins in it.",
+          "es": "El pan lleva pasas."
+        },
+        "fr": {
+          "text": "Il y a des raisins secs dans le pain.",
+          "es": "El pan lleva pasas."
+        },
+        "it": {
+          "text": "Nel pane c'è dell'uvetta.",
+          "es": "El pan lleva pasas."
+        },
+        "pt": {
+          "text": "O pão leva uvas-passas.",
+          "es": "El pan lleva pasas."
+        },
+        "de": {
+          "text": "Im Brot sind Rosinen.",
+          "es": "El pan lleva pasas."
+        }
       }
     },
     {
       "id": "food_192",
-      "es": "el dátil",
+      "es": "El dátil",
       "translations": {
-        "en": "the date",
-        "fr": "la datte",
-        "it": "il dattero",
-        "pt": "a tâmara"
+        "en": "The date",
+        "fr": "La datte",
+        "it": "Il dattero",
+        "pt": "A tâmara",
+        "de": "Die Dattel"
       },
       "image_url": "data/img/datil.jpg",
       "notes": {
-        "en": "Plural: the dates",
-        "fr": "Plural: les dattes",
-        "it": "Plural: i datteri",
-        "pt": "Plural: as tâmaras"
+        "en": "(Plural: The dates) «Date» también significa «fecha» o «cita»; aquí se refiere a la fruta.",
+        "fr": "(Plural: Les dattes)",
+        "it": "(Plural: I datteri)",
+        "pt": "(Plural: As tâmaras)",
+        "de": "(Plural: Die Datteln)"
+      },
+      "examples": {
+        "en": {
+          "text": "There are dates in the box.",
+          "es": "Hay dátiles en la caja."
+        },
+        "fr": {
+          "text": "Il y a des dattes dans la boîte.",
+          "es": "Hay dátiles en la caja."
+        },
+        "it": {
+          "text": "Ci sono dei datteri nella scatola.",
+          "es": "Hay dátiles en la caja."
+        },
+        "pt": {
+          "text": "Tem tâmaras na caixa.",
+          "es": "Hay dátiles en la caja."
+        },
+        "de": {
+          "text": "In der Schachtel sind Datteln.",
+          "es": "Hay dátiles en la caja."
+        }
       }
     },
     {
       "id": "food_55",
-      "es": "la berenjena",
+      "es": "La berenjena",
       "translations": {
-        "en": "the eggplant",
-        "fr": "l'aubergine",
-        "it": "la melanzana",
-        "pt": "a berinjela"
+        "en": "The eggplant",
+        "fr": "L'aubergine",
+        "it": "La melanzana",
+        "pt": "A berinjela",
+        "de": "Die Aubergine"
       },
       "image_url": "data/img/berenjena.jpg",
       "notes": {
-        "it": "Plural: le melanzane",
-        "en": "Plural: the eggplants",
-        "fr": "Plural: les aubergines",
-        "pt": "Plural: as berinjelas"
+        "en": "(Plural: The eggplants)",
+        "fr": "(Plural: Les aubergines)",
+        "it": "(Plural: Le melanzane)",
+        "pt": "(Plural: As berinjelas)",
+        "de": "(Plural: Die Auberginen)"
+      },
+      "examples": {
+        "en": {
+          "text": "I'm roasting an eggplant for dinner.",
+          "es": "Aso una berenjena para la cena."
+        },
+        "fr": {
+          "text": "Je fais rôtir une aubergine pour le dîner.",
+          "es": "Aso una berenjena para la cena."
+        },
+        "it": {
+          "text": "Arrostisco una melanzana per cena.",
+          "es": "Aso una berenjena para la cena."
+        },
+        "pt": {
+          "text": "Asso uma berinjela para o jantar.",
+          "es": "Aso una berenjena para la cena."
+        },
+        "de": {
+          "text": "Ich röste eine Aubergine fürs Abendessen.",
+          "es": "Aso una berenjena para la cena."
+        }
       }
     },
     {
       "id": "food_56",
-      "es": "el apio",
+      "es": "El apio",
       "translations": {
-        "en": "the celery",
-        "fr": "le céleri",
-        "it": "il sedano",
-        "pt": "o aipo"
+        "en": "The celery",
+        "fr": "Le céleri",
+        "it": "Il sedano",
+        "pt": "O salsão",
+        "de": "Der Staudensellerie"
       },
       "image_url": "data/img/apio.jpg",
       "notes": {
-        "pt": "También: o salsão"
+        "pt": "(Plural: Os salsões) También se usa «aipo» en Brasil.",
+        "de": "Se refiere al apio de tallo, no al apionabo. También se llama «Stangensellerie»."
+      },
+      "examples": {
+        "en": {
+          "text": "I add celery to the soup.",
+          "es": "Le pongo apio a la sopa."
+        },
+        "fr": {
+          "text": "J'ajoute du céleri à la soupe.",
+          "es": "Le pongo apio a la sopa."
+        },
+        "it": {
+          "text": "Aggiungo del sedano alla zuppa.",
+          "es": "Le pongo apio a la sopa."
+        },
+        "pt": {
+          "text": "Coloco salsão na sopa.",
+          "es": "Le pongo apio a la sopa."
+        },
+        "de": {
+          "text": "Ich gebe Staudensellerie in die Suppe.",
+          "es": "Le pongo apio a la sopa."
+        }
       }
     },
     {
       "id": "food_57",
-      "es": "la coliflor",
+      "es": "La coliflor",
       "translations": {
-        "en": "the cauliflower",
-        "fr": "le chou-fleur",
-        "it": "il cavolfiore",
-        "pt": "a couve-flor"
+        "en": "The cauliflower",
+        "fr": "Le chou-fleur",
+        "it": "Il cavolfiore",
+        "pt": "A couve-flor",
+        "de": "Der Blumenkohl"
       },
       "image_url": "data/img/coliflor.jpg",
       "notes": {
-        "en": "Plural: the cauliflowers",
-        "fr": "Plural: les choux-fleurs",
-        "it": "Plural: i cavolfiori",
-        "pt": "Plural: as couves-flores"
+        "en": "(Plural: The cauliflowers)",
+        "fr": "(Plural: Les choux-fleurs)",
+        "it": "(Plural: I cavolfiori)",
+        "pt": "(Plural: As couves-flores)",
+        "de": "(Plural: Die Blumenkohle)"
+      },
+      "examples": {
+        "en": {
+          "text": "I steam the cauliflower.",
+          "es": "Cocino la coliflor al vapor."
+        },
+        "fr": {
+          "text": "Je fais cuire le chou-fleur à la vapeur.",
+          "es": "Cocino la coliflor al vapor."
+        },
+        "it": {
+          "text": "Cuocio il cavolfiore al vapore.",
+          "es": "Cocino la coliflor al vapor."
+        },
+        "pt": {
+          "text": "Cozinho a couve-flor no vapor.",
+          "es": "Cocino la coliflor al vapor."
+        },
+        "de": {
+          "text": "Ich gare den Blumenkohl im Dampf.",
+          "es": "Cocino la coliflor al vapor."
+        }
       }
     },
     {
       "id": "food_58",
-      "es": "el repollo",
+      "es": "El repollo",
       "translations": {
-        "en": "the cabbage",
-        "fr": "le chou",
-        "it": "il cavolo",
-        "pt": "o repolho"
+        "en": "The cabbage",
+        "fr": "Le chou blanc",
+        "it": "Il cavolo cappuccio",
+        "pt": "O repolho",
+        "de": "Der Weißkohl"
       },
       "image_url": "data/img/repollo.jpg",
       "notes": {
-        "en": "Plural: the cabbages",
-        "fr": "Plural: les choux",
-        "it": "Plural: i cavoli",
-        "pt": "Plural: os repolhos"
+        "es": "(Col de cabeza compacta; aquí de hojas claras)",
+        "en": "(Plural: The cabbages)",
+        "fr": "(Plural: Les choux blancs)",
+        "it": "(Plural: I cavoli cappucci)",
+        "pt": "(Plural: Os repolhos)",
+        "de": "«Weißkohl» se refiere al repollo de hojas claras; «Kohl» abarca más tipos de col."
+      },
+      "examples": {
+        "en": {
+          "text": "I slice the cabbage for the salad.",
+          "es": "Corto el repollo para la ensalada."
+        },
+        "fr": {
+          "text": "Je coupe le chou blanc pour la salade.",
+          "es": "Corto el repollo blanco para la ensalada."
+        },
+        "it": {
+          "text": "Taglio il cavolo cappuccio per l'insalata.",
+          "es": "Corto el repollo para la ensalada."
+        },
+        "pt": {
+          "text": "Corto o repolho para a salada.",
+          "es": "Corto el repollo para la ensalada."
+        },
+        "de": {
+          "text": "Ich schneide den Weißkohl für den Salat.",
+          "es": "Corto el repollo blanco para la ensalada."
+        }
       }
     },
     {
       "id": "food_130",
-      "es": "los brotes de soya",
+      "es": "Los brotes de soya",
       "translations": {
-        "en": "the soybean sprouts",
-        "fr": "les pousses de soja",
-        "it": "i germogli di soia",
-        "pt": "os brotos de soja"
+        "en": "The soybean sprouts",
+        "fr": "Les pousses de soja",
+        "it": "I germogli di soia",
+        "pt": "Os brotos de soja",
+        "de": "Die Sojasprossen"
       },
       "image_url": "data/img/brotes_soya.jpg",
       "notes": {
-        "en": "Los brotes comercializados como brotes de soja suelen ser de frijol mungo"
+        "es": "Algunos brotes vendidos como brotes de soya son de frijol mungo. Esta tarjeta se refiere a los de soya."
+      },
+      "examples": {
+        "en": {
+          "text": "I add soybean sprouts to the rice.",
+          "es": "Le pongo brotes de soya al arroz."
+        },
+        "fr": {
+          "text": "J'ajoute des pousses de soja au riz.",
+          "es": "Le pongo brotes de soya al arroz."
+        },
+        "it": {
+          "text": "Aggiungo dei germogli di soia al riso.",
+          "es": "Le pongo brotes de soya al arroz."
+        },
+        "pt": {
+          "text": "Coloco brotos de soja no arroz.",
+          "es": "Le pongo brotes de soya al arroz."
+        },
+        "de": {
+          "text": "Ich gebe Sojasprossen zum Reis.",
+          "es": "Le pongo brotes de soya al arroz."
+        }
       }
     },
     {
       "id": "food_131",
-      "es": "el brote de alfalfa",
+      "es": "El brote de alfalfa",
       "translations": {
-        "en": "the alfalfa sprout",
-        "fr": "la pousse de luzerne",
-        "it": "il germoglio di erba medica",
-        "pt": "o broto de alfafa"
+        "en": "The alfalfa sprout",
+        "fr": "La pousse de luzerne",
+        "it": "Il germoglio di erba medica",
+        "pt": "O broto de alfafa",
+        "de": "Der Alfalfaspross"
       },
       "image_url": "data/img/brotes_alfalfa.jpg",
       "notes": {
-        "en": "Plural: the alfalfa sprouts",
-        "fr": "Plural: les pousses de luzerne",
-        "it": "Plural: i germogli di erba medica",
-        "pt": "Plural: os brotos de alfafa"
+        "en": "(Plural: The alfalfa sprouts)",
+        "fr": "(Plural: Les pousses de luzerne)",
+        "it": "(Plural: I germogli di erba medica)",
+        "pt": "(Plural: Os brotos de alfafa)",
+        "de": "(Plural: Die Alfalfasprossen)"
+      },
+      "examples": {
+        "en": {
+          "text": "This sandwich has alfalfa sprouts in it.",
+          "es": "Este sándwich lleva brotes de alfalfa."
+        },
+        "fr": {
+          "text": "Il y a des pousses de luzerne dans ce sandwich.",
+          "es": "Este sándwich lleva brotes de alfalfa."
+        },
+        "it": {
+          "text": "In questo panino ci sono germogli di erba medica.",
+          "es": "Este sándwich lleva brotes de alfalfa."
+        },
+        "pt": {
+          "text": "Este sanduíche leva brotos de alfafa.",
+          "es": "Este sándwich lleva brotes de alfalfa."
+        },
+        "de": {
+          "text": "In diesem Sandwich sind Alfalfasprossen.",
+          "es": "Este sándwich lleva brotes de alfalfa."
+        }
       }
     },
     {
       "id": "food_132",
-      "es": "el haba",
+      "es": "El haba",
       "translations": {
-        "en": "the broad bean",
-        "fr": "la fève",
-        "it": "la fava",
-        "pt": "a fava"
+        "en": "The fava bean",
+        "fr": "La fève",
+        "it": "La fava",
+        "pt": "A fava",
+        "de": "Die dicke Bohne"
       },
       "image_url": "data/img/haba.jpg",
       "notes": {
-        "en": "Plural: the broad beans",
-        "fr": "Plural: les fèves",
-        "it": "Plural: le fave",
-        "pt": "Plural: as favas"
+        "en": "(Plural: The fava beans) En Estados Unidos se usa «fava bean»; «broad bean» también se entiende.",
+        "fr": "(Plural: Les fèves)",
+        "it": "(Plural: Le fave)",
+        "pt": "(Plural: As favas)",
+        "de": "(Plural: Die dicken Bohnen)"
+      },
+      "examples": {
+        "en": {
+          "text": "I add fava beans to the soup.",
+          "es": "Le pongo habas a la sopa."
+        },
+        "fr": {
+          "text": "J'ajoute des fèves à la soupe.",
+          "es": "Le pongo habas a la sopa."
+        },
+        "it": {
+          "text": "Aggiungo delle fave alla zuppa.",
+          "es": "Le pongo habas a la sopa."
+        },
+        "pt": {
+          "text": "Coloco favas na sopa.",
+          "es": "Le pongo habas a la sopa."
+        },
+        "de": {
+          "text": "Ich gebe dicke Bohnen in die Suppe.",
+          "es": "Le pongo habas a la sopa."
+        }
       }
     },
     {
       "id": "food_133",
-      "es": "el camote",
+      "es": "El camote",
       "translations": {
-        "en": "the sweet potato",
-        "fr": "la patate douce",
-        "it": "la patata dolce",
-        "pt": "a batata-doce"
+        "en": "The sweet potato",
+        "fr": "La patate douce",
+        "it": "La patata dolce",
+        "pt": "A batata-doce",
+        "de": "Die Süßkartoffel"
       },
       "image_url": "data/img/camote.jpg",
       "notes": {
-        "en": "Plural: the sweet potatoes",
-        "fr": "Plural: les patates douces",
-        "it": "Plural: le patate dolci",
-        "pt": "Plural: as batatas-doces"
+        "en": "(Plural: The sweet potatoes)",
+        "fr": "(Plural: Les patates douces)",
+        "it": "(Plural: Le patate dolci)",
+        "pt": "(Plural: As batatas-doces)",
+        "de": "(Plural: Die Süßkartoffeln)"
+      },
+      "examples": {
+        "en": {
+          "text": "I'm baking a sweet potato for dinner.",
+          "es": "Horneo un camote para la cena."
+        },
+        "fr": {
+          "text": "Je fais cuire une patate douce au four pour le dîner.",
+          "es": "Horneo un camote para la cena."
+        },
+        "it": {
+          "text": "Cuocio una patata dolce al forno per cena.",
+          "es": "Horneo un camote para la cena."
+        },
+        "pt": {
+          "text": "Asso uma batata-doce para o jantar.",
+          "es": "Horneo un camote para la cena."
+        },
+        "de": {
+          "text": "Zum Abendessen backe ich eine Süßkartoffel.",
+          "es": "Horneo un camote para la cena."
+        }
       }
     },
     {
       "id": "food_134",
-      "es": "el rábano",
+      "es": "El rábano",
       "translations": {
-        "en": "the radish",
-        "fr": "le radis",
-        "it": "il ravanello",
-        "pt": "o rabanete"
+        "en": "The radish",
+        "fr": "Le radis",
+        "it": "Il ravanello",
+        "pt": "O rabanete",
+        "de": "Das Radieschen"
       },
       "image_url": "data/img/rabano.jpg",
       "notes": {
-        "en": "Plural: the radishes",
-        "fr": "Plural: les radis",
-        "it": "Plural: i ravanelli",
-        "pt": "Plural: os rabanetes"
+        "en": "(Plural: The radishes)",
+        "fr": "(Plural: Les radis)",
+        "it": "(Plural: I ravanelli)",
+        "pt": "(Plural: Os rabanetes)",
+        "de": "(Plural: Die Radieschen)"
+      },
+      "examples": {
+        "en": {
+          "text": "I cut the radishes into slices.",
+          "es": "Corto los rábanos en rodajas."
+        },
+        "fr": {
+          "text": "Je coupe les radis en rondelles.",
+          "es": "Corto los rábanos en rodajas."
+        },
+        "it": {
+          "text": "Taglio i ravanelli a rondelle.",
+          "es": "Corto los rábanos en rodajas."
+        },
+        "pt": {
+          "text": "Corto os rabanetes em rodelas.",
+          "es": "Corto los rábanos en rodajas."
+        },
+        "de": {
+          "text": "Ich schneide die Radieschen in Scheiben.",
+          "es": "Corto los rábanos en rodajas."
+        }
       }
     },
     {
       "id": "food_135",
-      "es": "el espárrago",
+      "es": "El espárrago",
       "translations": {
-        "en": "the asparagus",
-        "fr": "l'asperge",
-        "it": "l'asparago",
-        "pt": "o aspargo"
+        "en": "The asparagus",
+        "fr": "L'asperge",
+        "it": "L'asparago",
+        "pt": "O aspargo",
+        "de": "Der Spargel"
       },
       "image_url": "data/img/esparrago.jpg",
       "notes": {
-        "en": "Plural: the asparagus (invariable como alimento)",
-        "fr": "Plural: les asperges",
-        "it": "Plural: gli asparagi",
-        "pt": "Plural: os aspargos"
+        "en": "Como alimento, «asparagus» se usa normalmente como incontable.",
+        "fr": "(Plural: Les asperges)",
+        "it": "(Plural: Gli asparagi)",
+        "pt": "(Plural: Os aspargos)",
+        "de": "Como alimento se usa en conjunto; una pieza es una «Spargelstange»."
+      },
+      "examples": {
+        "en": {
+          "text": "We're having asparagus with eggs today.",
+          "es": "Hoy comemos espárragos con huevo."
+        },
+        "fr": {
+          "text": "Aujourd'hui, on mange des asperges avec des œufs.",
+          "es": "Hoy comemos espárragos con huevo."
+        },
+        "it": {
+          "text": "Oggi mangiamo gli asparagi con le uova.",
+          "es": "Hoy comemos espárragos con huevo."
+        },
+        "pt": {
+          "text": "Hoje vamos comer aspargos com ovos.",
+          "es": "Hoy comemos espárragos con huevo."
+        },
+        "de": {
+          "text": "Heute essen wir Spargel mit Ei.",
+          "es": "Hoy comemos espárragos con huevo."
+        }
       }
     },
     {
       "id": "food_136",
-      "es": "el poro",
+      "es": "El poro",
       "translations": {
-        "en": "the leek",
-        "fr": "le poireau",
-        "it": "il porro",
-        "pt": "o alho-poró"
+        "en": "The leek",
+        "fr": "Le poireau",
+        "it": "Il porro",
+        "pt": "O alho-poró",
+        "de": "Der Lauch"
       },
       "image_url": "data/img/poro.jpg",
       "notes": {
-        "en": "Plural: the leeks",
-        "fr": "Plural: les poireaux",
-        "it": "Plural: i porri",
-        "pt": "Plural: os alhos-porós"
+        "es": "También: el puerro.",
+        "en": "(Plural: The leeks)",
+        "fr": "(Plural: Les poireaux)",
+        "it": "(Plural: I porri)",
+        "pt": "(Plural: Os alhos-porós)",
+        "de": "«Lauch» se usa en conjunto; una pieza es una «Lauchstange». También se llama «Porree»."
+      },
+      "examples": {
+        "en": {
+          "text": "The leek soup is ready.",
+          "es": "La sopa de poro ya está lista."
+        },
+        "fr": {
+          "text": "La soupe de poireaux est prête.",
+          "es": "La sopa de poro ya está lista."
+        },
+        "it": {
+          "text": "La zuppa di porri è pronta.",
+          "es": "La sopa de poro ya está lista."
+        },
+        "pt": {
+          "text": "A sopa de alho-poró está pronta.",
+          "es": "La sopa de poro ya está lista."
+        },
+        "de": {
+          "text": "Die Lauchsuppe ist fertig.",
+          "es": "La sopa de poro ya está lista."
+        }
       }
     },
     {
       "id": "food_200",
-      "es": "el betabel",
+      "es": "El betabel",
       "translations": {
-        "en": "the beet",
-        "fr": "la betterave",
-        "it": "la barbabietola",
-        "pt": "a beterraba"
+        "en": "The beet",
+        "fr": "La betterave",
+        "it": "La barbabietola",
+        "pt": "A beterraba",
+        "de": "Die Rote Bete"
       },
       "image_url": "data/img/betabel.jpg",
       "notes": {
-        "en": "Plural: the beets",
-        "fr": "Plural: les betteraves",
-        "it": "Plural: le barbabietole",
-        "pt": "Plural: as beterrabas"
+        "en": "(Plural: The beets) (Reino Unido: The beetroot)",
+        "fr": "(Plural: Les betteraves)",
+        "it": "(Plural: Le barbabietole)",
+        "pt": "(Plural: As beterrabas)",
+        "de": "(Plural: Die Roten Beten)"
+      },
+      "examples": {
+        "en": {
+          "text": "I put beets in the salad.",
+          "es": "Pongo betabel en la ensalada."
+        },
+        "fr": {
+          "text": "Je mets de la betterave dans la salade.",
+          "es": "Pongo betabel en la ensalada."
+        },
+        "it": {
+          "text": "Metto della barbabietola nell'insalata.",
+          "es": "Pongo betabel en la ensalada."
+        },
+        "pt": {
+          "text": "Coloco beterraba na salada.",
+          "es": "Pongo betabel en la ensalada."
+        },
+        "de": {
+          "text": "Ich gebe Rote Bete in den Salat.",
+          "es": "Pongo betabel en la ensalada."
+        }
       }
     },
     {
       "id": "food_201",
-      "es": "la alcachofa",
+      "es": "La alcachofa",
       "translations": {
-        "en": "the artichoke",
-        "fr": "l'artichaut",
-        "it": "il carciofo",
-        "pt": "a alcachofra"
+        "en": "The artichoke",
+        "fr": "L'artichaut",
+        "it": "Il carciofo",
+        "pt": "A alcachofra",
+        "de": "Die Artischocke"
       },
       "image_url": "data/img/alcachofa.jpg",
       "notes": {
-        "en": "Plural: the artichokes",
-        "fr": "Plural: les artichauts",
-        "it": "Plural: i carciofi",
-        "pt": "Plural: as alcachofras"
+        "en": "(Plural: The artichokes)",
+        "fr": "(Plural: Les artichauts)",
+        "it": "(Plural: I carciofi)",
+        "pt": "(Plural: As alcachofras)",
+        "de": "(Plural: Die Artischocken)"
+      },
+      "examples": {
+        "en": {
+          "text": "I cook two artichokes in the pot.",
+          "es": "Cocino dos alcachofas en la olla."
+        },
+        "fr": {
+          "text": "Je fais cuire deux artichauts dans la casserole.",
+          "es": "Cocino dos alcachofas en la olla."
+        },
+        "it": {
+          "text": "Cuocio due carciofi nella pentola.",
+          "es": "Cocino dos alcachofas en la olla."
+        },
+        "pt": {
+          "text": "Cozinho duas alcachofras na panela.",
+          "es": "Cocino dos alcachofas en la olla."
+        },
+        "de": {
+          "text": "Ich koche zwei Artischocken im Topf.",
+          "es": "Cocino dos alcachofas en la olla."
+        }
       }
     },
     {
       "id": "food_202",
-      "es": "la col rizada",
+      "es": "La col rizada",
       "translations": {
-        "en": "the kale",
-        "fr": "le chou kale",
-        "it": "il cavolo riccio",
-        "pt": "a couve kale"
+        "en": "The kale",
+        "fr": "Le chou kale",
+        "it": "Il cavolo riccio",
+        "pt": "A couve kale",
+        "de": "Der Grünkohl"
       },
       "image_url": "data/img/col_rizada.jpg",
       "notes": {
-        "pt": "Couve-crespa puede referirse a variedades de col de hojas rizadas; kale es una variedad específica",
-        "fr": "También: le chou frisé, término más amplio"
+        "fr": "«Chou frisé» es un nombre más amplio; «chou kale» precisa el tipo.",
+        "pt": "«Couve-crespa» puede abarcar otras coles de hoja rizada."
+      },
+      "examples": {
+        "en": {
+          "text": "I sauté the kale with garlic.",
+          "es": "Salteo la col rizada con ajo."
+        },
+        "fr": {
+          "text": "Je fais revenir le chou kale avec de l'ail.",
+          "es": "Salteo la col rizada con ajo."
+        },
+        "it": {
+          "text": "Salto il cavolo riccio con l'aglio.",
+          "es": "Salteo la col rizada con ajo."
+        },
+        "pt": {
+          "text": "Refogo a couve kale com alho.",
+          "es": "Salteo la col rizada con ajo."
+        },
+        "de": {
+          "text": "Ich brate den Grünkohl mit Knoblauch an.",
+          "es": "Salteo la col rizada con ajo."
+        }
       }
     },
     {
       "id": "food_203",
-      "es": "la arúgula",
+      "es": "La arúgula",
       "translations": {
-        "en": "the arugula",
-        "fr": "la roquette",
-        "it": "la rucola",
-        "pt": "a rúcula"
+        "en": "The arugula",
+        "fr": "La roquette",
+        "it": "La rucola",
+        "pt": "A rúcula",
+        "de": "Der Rucola"
       },
-      "image_url": "data/img/arugula.jpg"
+      "image_url": "data/img/arugula.jpg",
+      "notes": {
+        "en": "(Reino Unido: The rocket)"
+      },
+      "examples": {
+        "en": {
+          "text": "The pizza has fresh arugula on it.",
+          "es": "La pizza lleva arúgula fresca."
+        },
+        "fr": {
+          "text": "Il y a de la roquette fraîche sur la pizza.",
+          "es": "La pizza lleva arúgula fresca."
+        },
+        "it": {
+          "text": "Sulla pizza c'è della rucola fresca.",
+          "es": "La pizza lleva arúgula fresca."
+        },
+        "pt": {
+          "text": "A pizza leva rúcula fresca.",
+          "es": "La pizza lleva arúgula fresca."
+        },
+        "de": {
+          "text": "Auf der Pizza ist frischer Rucola.",
+          "es": "La pizza lleva arúgula fresca."
+        }
+      }
     },
     {
       "id": "food_204",
-      "es": "el chayote",
+      "es": "El chayote",
       "translations": {
-        "en": "the chayote",
-        "fr": "la chayotte",
-        "it": "il chayote",
-        "pt": "o chuchu"
+        "en": "The chayote",
+        "fr": "La chayotte",
+        "it": "Il chayote",
+        "pt": "O chuchu",
+        "de": "Die Chayote"
       },
       "image_url": "data/img/chayote.jpg",
       "notes": {
-        "fr": "Plural: les chayottes",
-        "en": "Plural: the chayotes",
-        "it": "Plural: i chayote (préstamo invariable)",
-        "pt": "Plural: os chuchus"
+        "en": "(Plural: The chayotes)",
+        "fr": "(Plural: Les chayottes)",
+        "it": "(Plural: I chayote) El sustantivo «chayote» no cambia en plural.",
+        "pt": "(Plural: Os chuchus)",
+        "de": "(Plural: Die Chayoten)"
+      },
+      "examples": {
+        "en": {
+          "text": "I cut up a chayote for the broth.",
+          "es": "Corto un chayote para el caldo."
+        },
+        "fr": {
+          "text": "Je coupe une chayotte pour le bouillon.",
+          "es": "Corto un chayote para el caldo."
+        },
+        "it": {
+          "text": "Taglio un chayote per il brodo.",
+          "es": "Corto un chayote para el caldo."
+        },
+        "pt": {
+          "text": "Corto um chuchu para o caldo.",
+          "es": "Corto un chayote para el caldo."
+        },
+        "de": {
+          "text": "Ich schneide eine Chayote für die Brühe.",
+          "es": "Corto un chayote para el caldo."
+        }
       }
     },
     {
       "id": "food_205",
-      "es": "la jícama",
+      "es": "La jícama",
       "translations": {
-        "en": "the jicama",
-        "fr": "le pois patate",
-        "it": "la jicama",
-        "pt": "a jícama"
+        "en": "The jicama",
+        "fr": "Le pois patate",
+        "it": "La jicama",
+        "pt": "A jícama",
+        "de": "Die Yambohne"
       },
       "image_url": "data/img/jicama.jpg",
       "notes": {
-        "en": "Plural: the jicamas",
-        "fr": "Plural: les pois patates",
-        "it": "Plural: le jicame",
-        "pt": "Plural: as jícamas"
+        "es": "(Raíz comestible de pulpa blanca)",
+        "en": "(Plural: The jicamas)",
+        "fr": "(Plural: Les pois patates)",
+        "it": "(Plural: Le jicama) «La jicama» se usa como préstamo invariable; también se encuentra «patata messicana», aunque no es una papa.",
+        "pt": "(Plural: As jícamas) Se conserva el préstamo «jícama» para la raíz mexicana; «jacatupé» puede nombrar una especie afín distinta.",
+        "de": "(Plural: Die Yambohnen) También se conoce como «Jícama». Se refiere a la raíz comestible, no a los frijoles de la planta."
+      },
+      "examples": {
+        "en": {
+          "text": "I eat jicama with lime.",
+          "es": "Como jícama con limón verde."
+        },
+        "fr": {
+          "text": "Je mange du pois patate avec du citron vert.",
+          "es": "Como jícama con limón verde."
+        },
+        "it": {
+          "text": "Mangio la jicama con il lime.",
+          "es": "Como jícama con limón verde."
+        },
+        "pt": {
+          "text": "Como jícama com limão-taiti.",
+          "es": "Como jícama con limón verde."
+        },
+        "de": {
+          "text": "Ich esse Yambohne mit Limette.",
+          "es": "Como jícama con limón verde."
+        }
       }
     },
     {
       "id": "food_206",
-      "es": "el nopal",
+      "es": "El nopal",
       "translations": {
-        "en": "the cactus paddle",
-        "fr": "le nopal",
-        "it": "il nopal",
-        "pt": "o nopal"
+        "en": "The cactus paddle",
+        "fr": "Le nopal",
+        "it": "Il nopal",
+        "pt": "O nopal",
+        "de": "Das Kaktusblatt"
       },
       "image_url": "data/img/nopal.jpg",
       "notes": {
-        "pt": "Plural: os nopais",
-        "en": "Plural: the cactus paddles",
-        "fr": "Plural: les nopals",
-        "it": "Plural: i nopal"
+        "es": "(Penca tierna comestible, no la tuna)",
+        "en": "(Plural: The cactus paddles)",
+        "fr": "(Plural: Les nopals)",
+        "it": "(Plural: I nopal)",
+        "pt": "(Plural: Os nopais)",
+        "de": "(Plural: Die Kaktusblätter) «Kaktusblatt» es una denominación culinaria de la penca comestible del nopal."
+      },
+      "examples": {
+        "en": {
+          "text": "We grill the cactus paddle on a griddle.",
+          "es": "Asamos el nopal en el comal."
+        },
+        "fr": {
+          "text": "On fait griller le nopal sur une plaque.",
+          "es": "Asamos el nopal en el comal."
+        },
+        "it": {
+          "text": "Grigliamo il nopal su una piastra.",
+          "es": "Asamos el nopal en el comal."
+        },
+        "pt": {
+          "text": "Grelhamos o nopal na chapa.",
+          "es": "Asamos el nopal en el comal."
+        },
+        "de": {
+          "text": "Wir grillen das Kaktusblatt auf einer Grillplatte.",
+          "es": "Asamos el nopal en el comal."
+        }
       }
     },
     {
       "id": "food_208",
-      "es": "el elote",
+      "es": "El elote",
       "translations": {
-        "en": "the corn on the cob",
-        "fr": "l'épi de maïs",
-        "it": "la pannocchia",
-        "pt": "a espiga de milho"
+        "en": "The ear of corn",
+        "fr": "L'épi de maïs",
+        "it": "La pannocchia",
+        "pt": "A espiga de milho",
+        "de": "Der Maiskolben"
       },
       "image_url": "data/img/elote.jpg",
       "notes": {
-        "en": "Plural: the ears of corn",
-        "fr": "Plural: les épis de maïs",
-        "it": "Plural: le pannocchie",
-        "pt": "Plural: as espigas de milho"
+        "es": "(Mazorca tierna de maíz)",
+        "en": "(Plural: The ears of corn) «Ear of corn» es la mazorca; «corn on the cob» suele referirse a lo que se sirve o se come en la mazorca.",
+        "fr": "(Plural: Les épis de maïs)",
+        "it": "(Plural: Le pannocchie)",
+        "pt": "(Plural: As espigas de milho)",
+        "de": "(Plural: Die Maiskolben)"
+      },
+      "examples": {
+        "en": {
+          "text": "The ear of corn has butter on it.",
+          "es": "El elote lleva mantequilla."
+        },
+        "fr": {
+          "text": "Il y a du beurre sur l'épi de maïs.",
+          "es": "El elote lleva mantequilla."
+        },
+        "it": {
+          "text": "C'è del burro sulla pannocchia.",
+          "es": "El elote lleva mantequilla."
+        },
+        "pt": {
+          "text": "A espiga de milho tem manteiga.",
+          "es": "El elote lleva mantequilla."
+        },
+        "de": {
+          "text": "Der Maiskolben ist mit Butter bestrichen.",
+          "es": "El elote lleva mantequilla."
+        }
       }
     },
     {
       "id": "food_209",
-      "es": "la flor de calabaza",
+      "es": "La flor de calabaza",
       "translations": {
-        "en": "the squash blossom",
-        "fr": "la fleur de courgette",
-        "it": "il fiore di zucca",
-        "pt": "a flor de abóbora"
+        "en": "The squash blossom",
+        "fr": "La fleur de courge",
+        "it": "Il fiore di zucca",
+        "pt": "A flor de abóbora",
+        "de": "Die Kürbisblüte"
       },
       "image_url": "data/img/flor_calabaza.jpg",
       "notes": {
-        "en": "Plural: the squash blossoms",
-        "fr": "Plural: les fleurs de courgette",
-        "it": "Plural: i fiori di zucca",
-        "pt": "Plural: as flores de abóbora"
+        "en": "(Plural: The squash blossoms)",
+        "fr": "(Plural: Les fleurs de courge) «Fleur de courgette» especifica que la flor es de calabacita.",
+        "it": "(Plural: I fiori di zucca)",
+        "pt": "(Plural: As flores de abóbora)",
+        "de": "(Plural: Die Kürbisblüten)"
+      },
+      "examples": {
+        "en": {
+          "text": "We stuff the squash blossoms with cheese.",
+          "es": "Rellenamos las flores de calabaza con queso."
+        },
+        "fr": {
+          "text": "On farcit les fleurs de courge avec du fromage.",
+          "es": "Rellenamos las flores de calabaza con queso."
+        },
+        "it": {
+          "text": "Riempiamo i fiori di zucca con il formaggio.",
+          "es": "Rellenamos las flores de calabaza con queso."
+        },
+        "pt": {
+          "text": "Recheamos as flores de abóbora com queijo.",
+          "es": "Rellenamos las flores de calabaza con queso."
+        },
+        "de": {
+          "text": "Wir füllen die Kürbisblüten mit Käse.",
+          "es": "Rellenamos las flores de calabaza con queso."
+        }
       }
     },
     {
       "id": "food_210",
-      "es": "el hongo portobello",
+      "es": "El hongo portobello",
       "translations": {
-        "en": "the portobello mushroom",
-        "fr": "le champignon portobello",
-        "it": "il fungo portobello",
-        "pt": "o cogumelo portobello"
+        "en": "The portobello mushroom",
+        "fr": "Le champignon portobello",
+        "it": "Il fungo portobello",
+        "pt": "O cogumelo portobello",
+        "de": "Der Portobello-Pilz"
       },
       "image_url": "data/img/hongo_portobello.jpg",
       "notes": {
-        "en": "Plural: the portobello mushrooms",
-        "fr": "Plural: les champignons portobello",
-        "it": "Plural: i funghi portobello",
-        "pt": "Plural: os cogumelos portobello"
+        "en": "(Plural: The portobello mushrooms)",
+        "fr": "(Plural: Les champignons portobello)",
+        "it": "(Plural: I funghi portobello)",
+        "pt": "(Plural: Os cogumelos portobello)",
+        "de": "(Plural: Die Portobello-Pilze)"
+      },
+      "examples": {
+        "en": {
+          "text": "I grill a portobello mushroom for the burger.",
+          "es": "Aso un hongo portobello para la hamburguesa."
+        },
+        "fr": {
+          "text": "Je fais griller un champignon portobello pour le burger.",
+          "es": "Aso un hongo portobello para la hamburguesa."
+        },
+        "it": {
+          "text": "Griglio un fungo portobello per il burger.",
+          "es": "Aso un hongo portobello para la hamburguesa."
+        },
+        "pt": {
+          "text": "Grelho um cogumelo portobello para o hambúrguer.",
+          "es": "Aso un hongo portobello para la hamburguesa."
+        },
+        "de": {
+          "text": "Ich grille einen Portobello-Pilz für den Burger.",
+          "es": "Aso un hongo portobello para la hamburguesa."
+        }
       }
     }
   ]
