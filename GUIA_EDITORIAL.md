@@ -31,7 +31,7 @@ Clasificación: **O** = obligatoria; **C** = obligatoria cuando se cumple la con
 - **DAT-02 (O).** Consultar el esquema y los consumidores reales del módulo antes de editarlo; conservar los tipos, campos obligatorios y estructura compatibles. No introducir campos nuevos sin verificar soporte.
 - **DAT-03 (O).** Cada tarjeta tendrá un identificador único en el ámbito exigido por la aplicación. Conservar los identificadores existentes al corregir una tarjeta; asignar identificadores nuevos a conceptos nuevos, sin reutilizar los eliminados para otros conceptos.
 - **DAT-04 (O).** Preservar `image_url`, imágenes asignadas y otros campos adicionales, excepto cuando exista una corrección explícita y justificada. No eliminar metadatos al reescribir el archivo.
-- **DAT-05 (O).** Mantener el orden original salvo justificación pedagógica o temática. No renumerar ni reorganizar indiscriminadamente.
+- **DAT-05 (O).** Preservar o mejorar el orden semántico del arreglo `cards`, conforme a NOM-04; insertar nuevas tarjetas en su bloque temático sin renumerar identificadores ni reorganizar indiscriminadamente.
 - **DAT-06 (C).** Al añadir un módulo, verificar su registro, ruta, configuración e integración con los conteos de tarjetas existentes.
 - **DAT-07 (O).** Entregar el JSON completo y un registro de cambios que identifique altas, bajas, correcciones y reorganizaciones. No sustituir el archivo por fragmentos incompletos.
 
@@ -156,7 +156,7 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 
 ### Pasada 3: pedagógica
 
-- [ ] Nivel, tema, utilidad y orden coherentes.
+- [ ] Nivel, tema, utilidad y orden semántico coherentes, incluidas las nuevas tarjetas.
 - [ ] Conceptos esenciales cubiertos sin inflar el conteo.
 - [ ] Duplicados revisados; repeticiones entre módulos y niveles justificadas por autonomía temática, progresión o nuevos sentidos.
 - [ ] Cambios de contenido documentados.
@@ -224,14 +224,21 @@ Ejemplo: `En realidad` → `Actually`. Nota en inglés: `Falso amigo: No signifi
 - **REP-04 (O).** Eliminar las repeticiones que no tengan justificación temática, comunicativa, semántica o pedagógica. No repetir contenido como relleno ni establecer un porcentaje máximo fijo de duplicados: evaluar cada caso según las necesidades de los módulos.
 - **REP-05 (C).** Durante la auditoría, documentar las repeticiones relevantes que se conservan y su justificación, sin eliminar automáticamente coincidencias entre módulos.
 
-## 21. Decisiones pendientes
+## 21. Nomenclatura e identificadores
+
+- **NOM-01 (O).** Nombrar los nuevos archivos como `nivel_nombre_del_tema.json`, en español, minúsculas, sin acentos ni espacios y con guiones bajos entre palabras. Ejemplo: `a2_cocina_y_recetas.json`. No renombrar archivos existentes solo para uniformar su nomenclatura.
+- **NOM-02 (O).** Para módulos nuevos, usar un prefijo temático único seguido de guion bajo y número consecutivo de al menos tres dígitos, por ejemplo `via_001`. En módulos existentes, respetar su convención de IDs.
+- **NOM-03 (O).** Los identificadores son únicos, permanentes e independientes de la posición. No renumerarlos al reorganizar tarjetas ni reutilizar identificadores eliminados para otros conceptos.
+- **NOM-04 (O).** Organizar las tarjetas semánticamente dentro del arreglo `cards`. Insertar toda tarjeta nueva en su bloque temático correspondiente, independientemente de su identificador numérico. No añadirla al final por mera conveniencia ni ordenar por ID. Ejemplo: insertar `food_6` (El melón) junto a las frutas, antes de `food_4` (La zanahoria), sin cambiar los IDs existentes.
+- **NOM-05 (O).** Asignar nuevos números independientemente de la posición, comprobando que no se hayan utilizado previamente; consultar el historial cuando sea necesario. No incorporar un campo de orden adicional: la posición dentro de `cards` define el orden de estudio.
+
+## 22. Decisiones pendientes
 
 Los siguientes temas requieren una definición posterior y no constituyen nuevas reglas obligatorias:
 
-- Nomenclatura de archivos e identificadores nuevos.
 - Incorporación de futuros idiomas y plan de migración de módulos al alemán.
 
-## 22. Mantenimiento de la guía
+## 23. Mantenimiento de la guía
 
 Actualizar este documento cuando se acuerde una nueva regla editorial. Registrar las excepciones justificadas en el cambio correspondiente. Los ejemplos son ilustrativos, no listas exhaustivas ni esquemas alternativos. Ante una incompatibilidad técnica, resolverla explícitamente antes de cambiar el formato de los JSON.
 
