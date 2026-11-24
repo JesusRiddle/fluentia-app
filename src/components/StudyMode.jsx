@@ -355,30 +355,6 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                                                 {currentCard.notes[targetLang]}
                                             </p>
                                         )}
-                                        {hasExample && (
-                                            <div className="flashcard-example">
-                                                <div className="flashcard-example-row">
-                                                    <strong lang={ttsVoices[targetLang]}>{example.text}</strong>
-                                                    <button
-                                                        type="button"
-                                                        className="flashcard-audio-btn"
-                                                        tabIndex={isFlipped ? 0 : -1}
-                                                        onClick={event => {
-                                                            event.stopPropagation();
-                                                            if (isFlipped) toggleAudio('example');
-                                                        }}
-                                                        aria-label={audioSource === 'example' && isSpeaking
-                                                            ? (isPaused ? 'Reanudar frase' : 'Pausar frase')
-                                                            : 'Escuchar frase'}
-                                                    >
-                                                        <span aria-hidden="true">
-                                                            {audioSource !== 'example' || !isSpeaking ? '🔊' : isPaused ? '▶' : '⏸'}
-                                                        </span>
-                                                    </button>
-                                                </div>
-                                                <p lang="es-MX"><em>({example.es})</em></p>
-                                            </div>
-                                        )}
                                     </div>
 
                                     <div className="flashcard-audio-footer">
@@ -410,6 +386,30 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                                             </span>
                                         </button>
                                     </div>
+                                    {hasExample && (
+                                        <div className="flashcard-example">
+                                            <div className="flashcard-example-row">
+                                                <strong lang={ttsVoices[targetLang]}>{example.text}</strong>
+                                                <button
+                                                    type="button"
+                                                    className="flashcard-audio-btn"
+                                                    tabIndex={isFlipped ? 0 : -1}
+                                                    onClick={event => {
+                                                        event.stopPropagation();
+                                                        if (isFlipped) toggleAudio('example');
+                                                    }}
+                                                    aria-label={audioSource === 'example' && isSpeaking
+                                                        ? (isPaused ? 'Reanudar frase' : 'Pausar frase')
+                                                        : 'Escuchar frase'}
+                                                >
+                                                    <span aria-hidden="true">
+                                                        {audioSource !== 'example' || !isSpeaking ? '🔊' : isPaused ? '▶' : '⏸'}
+                                                    </span>
+                                                </button>
+                                            </div>
+                                            <p lang="es-MX"><em>({example.es})</em></p>
+                                        </div>
+                                    )}
                                 </div>
                             </div>
                         </div>
