@@ -148,6 +148,7 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - [ ] Ortografía, capitalización, puntuación, gramática, artículos, género y plurales correctos.
 - [ ] Infinitivos y construcciones pronominales naturales; sin notas de conjugación en tarjetas ordinarias.
 - [ ] Alternativas completas con el separador establecido.
+- [ ] Contracciones naturales, coloquialismos y abreviaturas en notas cuando corresponda; apóstrofos rectos.
 - [ ] Notas en español, breves y asociadas al idioma pertinente.
 - [ ] Registro, intensidad y significado conservados.
 
@@ -175,11 +176,17 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - **VER-04 (O).** No añadir notas de conjugación a las tarjetas ordinarias de vocabulario, ni siquiera para verbos irregulares. Ejemplo: `Ir` → `To go`, sin listar `went` ni `gone`. Las notas semánticas, de uso y de registro siguen permitidas conforme a las reglas generales.
 - **VER-05 (C).** Reservar los paradigmas, formas irregulares y explicaciones de conjugación para la futura sección específica de verbos comunes. Su estructura y alcance se definirán al crear dicha sección; no duplicar anticipadamente ese contenido en los módulos ordinarios.
 
-## 15. Decisiones pendientes
+## 15. Contracciones, abreviaturas y siglas
+
+- **CON-01 (O).** Usar contracciones habituales y naturales del idioma sin duplicar sistemáticamente la forma completa. Respetar las elisiones y contracciones gramaticalmente obligatorias: `I'm leaving`, `J'ai un problème`, `È l'una`.
+- **CON-02 (C).** Usar la forma estándar en el texto principal y registrar las variantes coloquiales pertinentes en las notas del idioma correspondiente con la etiqueta `Coloquial:`. Ejemplos: `Coloquial: Gonna.`, `Coloquial: Tô.`, `Coloquial: Pra.` Incluir una aclaración breve de contexto o registro cuando sea necesaria. No añadir variantes coloquiales indiscriminadamente. Si la propia expresión coloquial es el objeto explícito de aprendizaje, puede aparecer en el texto principal con su registro aclarado en notas.
+- **CON-03 (C).** Presentar la forma completa de abreviaturas y siglas en el texto principal y consignar la abreviatura o sigla en notas, respetando su grafía convencional (por ejemplo, `Abreviatura: Dr.`, `Sigla: ASAP.`). Si la abreviatura o sigla es el objeto explícito de aprendizaje, puede aparecer en el texto principal y explicarse en notas.
+- **CON-04 (O).** Usar apóstrofo recto ASCII (`'`, U+0027) en los textos lingüísticos y notas de los JSON, en lugar del apóstrofo tipográfico (`’`, U+2019). No confundir apóstrofos con otros signos ortográficos ni modificar identificadores, URLs o metadatos ajenos al contenido lingüístico.
+
+## 16. Decisiones pendientes
 
 Los siguientes temas requieren una definición posterior y no constituyen nuevas reglas obligatorias:
 
-- Contracciones y abreviaturas.
 - Criterios de asignación y selección de imágenes.
 - Falsos amigos, homónimos y polisemia.
 - Tratamientos personales y formalidad: convenciones detalladas.
@@ -187,7 +194,7 @@ Los siguientes temas requieren una definición posterior y no constituyen nuevas
 - Nomenclatura de archivos e identificadores nuevos.
 - Incorporación de futuros idiomas y plan de migración de módulos al alemán.
 
-## 16. Mantenimiento de la guía
+## 17. Mantenimiento de la guía
 
 Actualizar este documento cuando se acuerde una nueva regla editorial. Registrar las excepciones justificadas en el cambio correspondiente. Los ejemplos son ilustrativos, no listas exhaustivas ni esquemas alternativos. Ante una incompatibilidad técnica, resolverla explícitamente antes de cambiar el formato de los JSON.
 
