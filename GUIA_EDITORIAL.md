@@ -314,15 +314,7 @@ Ejemplo ilustrativo de un fragmento del módulo de colores (no sustituye las tra
 - **EJE-10 (O).** Prever un control de pronunciación independiente para la frase, usando el idioma objetivo y su variante de voz. No modificar la pronunciación de la palabra principal ni reproducir automáticamente la traducción española. Mantener el comportamiento actual en tarjetas sin ejemplos.
 - **EJE-11 (O).** Mantener compatibilidad con los módulos existentes: la ausencia de `examples` o del ejemplo de un idioma no impedirá estudiar ni practicar. No reutilizar notas como sustituto del campo ni modificar la disponibilidad del módulo en función de los ejemplos.
 
-## 25. Revisión integral y migración progresiva de módulos
-
-- **MIG-01 (O).** Una vez incorporado el soporte funcional para ejemplos, revisar los módulos existentes JSON por JSON. Cada revisión integral debe abarcar todas las tarjetas y todos los idiomas ya habilitados, no limitarse a cambios superficiales o a una muestra.
-- **MIG-02 (O).** Aplicar todas las reglas vigentes que correspondan: corregir traducciones, ortografía, notas, artículos, género, plurales, registro, alternativas y ejemplos; revisar cobertura temática, redundancias y progresión; añadir conceptos útiles omitidos, retirar redundancias injustificadas y mantener el orden semántico y los IDs estables.
-- **MIG-03 (O).** En módulos revisados integralmente, completar los ejemplos de todas las tarjetas elegibles y de todos los idiomas disponibles. Al añadir una tarjeta o habilitar un nuevo idioma posteriormente, incorporar también los ejemplos que correspondan. No confundir la migración de ejemplos con la incorporación del alemán u otros idiomas todavía no habilitados.
-- **MIG-04 (O).** Realizar las tres pasadas de revisión de la sección 12 en cada módulo y documentar el archivo revisado, conteos antes y después, altas, bajas, correcciones, ejemplos incorporados, excepciones justificadas y ambigüedades del modo práctica. No declarar un módulo completamente revisado si quedan hallazgos editoriales pendientes de resolver.
-- **MIG-05 (O).** No exigir una migración simultánea de todo el catálogo ni cantidades fijas de tarjetas. Mantener los módulos no revisados compatibles y disponibles. No introducir pruebas automatizadas ni cambios funcionales ajenos al alcance de cada revisión.
-
-## 26. Mantenimiento de la guía
+## 25. Mantenimiento de la guía
 
 Actualizar este documento cuando se acuerde una nueva regla editorial. Registrar las excepciones justificadas en el cambio correspondiente. Los ejemplos son ilustrativos, no listas exhaustivas ni esquemas alternativos. Ante una incompatibilidad técnica, resolverla explícitamente antes de cambiar el formato de los JSON.
 
