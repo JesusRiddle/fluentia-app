@@ -1101,22 +1101,15 @@ html, body {
     overflow-wrap: anywhere;
 }
 
-.flashcard-example-row {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-}
-
-.flashcard-example-row strong {
+.flashcard-example strong {
     min-width: 0;
     font-size: clamp(0.95rem, 3.5vw, 1.1rem);
     line-height: 1.5;
     color: var(--text);
 }
 
-.flashcard-example-row .flashcard-audio-btn {
-    flex-shrink: 0;
+.flashcard-example .flashcard-audio-footer {
+    margin-top: 12px;
 }
 
 .flashcard-example p {
