@@ -136,8 +136,8 @@
           "es": "No quiero hielo en mi vaso."
         },
         "fr": {
-          "text": "Je ne veux pas de glace dans mon verre.",
-          "es": "No quiero hielo en mi vaso."
+          "text": "Je mets de la glace dans mon verre d'eau.",
+          "es": "Le pongo hielo a mi vaso de agua."
         },
         "it": {
           "text": "Non voglio ghiaccio nel mio bicchiere.",
@@ -148,50 +148,50 @@
           "es": "No quiero hielo en mi vaso."
         },
         "de": {
-          "text": "Ich möchte kein Eis in meinem Glas.",
-          "es": "No quiero hielo en mi vaso."
+          "text": "Ich gebe Eis ins Wasser.",
+          "es": "Le pongo hielo al agua."
         }
       }
     },
     {
       "id": "food_92",
-      "es": "La limonada",
+      "es": "La limonada sin gas",
       "translations": {
-        "en": "The lemonade",
-        "fr": "La citronnade",
-        "it": "La limonata",
-        "pt": "A limonada",
-        "de": "Die Zitronenlimonade"
+        "en": "The still lemonade",
+        "fr": "La citronnade sans bulles",
+        "it": "La limonata non gassata",
+        "pt": "A limonada de limão-siciliano sem gás",
+        "de": "Die Zitronenlimonade ohne Kohlensäure"
       },
       "image_url": "data/img/limonada.jpg",
       "notes": {
-        "en": "(Plural: The lemonades) En Estados Unidos, «lemonade» suele hacerse con limón amarillo; si lleva limón verde, se dice «limeade».",
-        "fr": "(Plural: Les citronnades) Para especificar que no lleva gas, pide «une citronnade sans bulles».",
-        "it": "(Plural: Le limonate)",
-        "pt": "(Plural: As limonadas)",
-        "de": "(Plural: Die Zitronenlimonaden) La «Zitronenlimonade» también puede llevar gas; para pedirla sin gas, añade «ohne Kohlensäure».",
-        "es": "(Bebida de limón y agua; sin gas en este contraste)"
+        "en": "(Plural: The still lemonades) En Estados Unidos, «lemonade» suele ser sin gas y de limón amarillo; «limeade» se hace con limón verde.",
+        "fr": "(Plural: Les citronnades sans bulles) «Citronnade» por sí sola no indica si lleva gas.",
+        "it": "(Plural: Le limonate non gassate)",
+        "pt": "(Plural: As limonadas de limão-siciliano sem gás) «Limão-siciliano» es el limón amarillo.",
+        "de": "(Plural: Die Zitronenlimonaden ohne Kohlensäure)",
+        "es": "(Bebida de limón amarillo sin burbujas, a diferencia del agua fresca de limón verde)"
       },
       "examples": {
         "en": {
-          "text": "I'd like a glass of lemonade.",
-          "es": "Quisiera un vaso de limonada."
+          "text": "I'd like a glass of still lemonade.",
+          "es": "Quisiera un vaso de limonada sin gas."
         },
         "fr": {
-          "text": "Je voudrais un verre de citronnade.",
-          "es": "Quisiera un vaso de limonada."
+          "text": "Je voudrais un verre de citronnade sans bulles.",
+          "es": "Quisiera un vaso de limonada sin gas."
         },
         "it": {
-          "text": "Vorrei un bicchiere di limonata.",
-          "es": "Quisiera un vaso de limonada."
+          "text": "Vorrei un bicchiere di limonata non gassata.",
+          "es": "Quisiera un vaso de limonada sin gas."
         },
         "pt": {
-          "text": "Eu queria um copo de limonada.",
-          "es": "Quisiera un vaso de limonada."
+          "text": "Eu queria um copo de limonada de limão-siciliano sem gás.",
+          "es": "Quisiera un vaso de limonada de limón amarillo sin gas."
         },
         "de": {
-          "text": "Ich hätte gern ein Glas Zitronenlimonade.",
-          "es": "Quisiera un vaso de limonada."
+          "text": "Ich hätte gern ein Glas Zitronenlimonade ohne Kohlensäure.",
+          "es": "Quisiera un vaso de limonada sin gas."
         }
       }
     },
@@ -207,7 +207,8 @@
       },
       "image_url": "",
       "notes": {
-        "fr": "En Francia, también se usa «limonade» para una bebida gaseosa dulce de limón."
+        "fr": "En Francia, también se usa «limonade» para una bebida gaseosa dulce de limón.",
+        "es": "(Limonada preparada con agua con gas)"
       },
       "examples": {
         "en": {
@@ -246,7 +247,7 @@
       "notes": {
         "es": "(Agua fresca hecha con limón verde)",
         "fr": "«Citron vert» corresponde al limón verde; «citron» sin aclaración suele ser el amarillo.",
-        "pt": "«Limão-taiti» es el limón verde común en México."
+        "pt": "«Limão-taiti» es el limón persa, una variedad de limón verde; no es el único limón verde de México."
       },
       "examples": {
         "en": {
@@ -255,15 +256,15 @@
         },
         "fr": {
           "text": "Aujourd'hui, je prépare une citronnade au citron vert.",
-          "es": "Hoy preparo una limonada de limón verde."
+          "es": "Hoy preparo agua de limón verde."
         },
         "it": {
           "text": "Oggi preparo una limonata al lime.",
-          "es": "Hoy preparo una limonada de limón verde."
+          "es": "Hoy preparo agua de limón verde."
         },
         "pt": {
           "text": "Hoje eu preparo limonada de limão-taiti.",
-          "es": "Hoy preparo una limonada de limón verde."
+          "es": "Hoy preparo agua de limón persa."
         },
         "de": {
           "text": "Heute mache ich Limettenlimonade.",
