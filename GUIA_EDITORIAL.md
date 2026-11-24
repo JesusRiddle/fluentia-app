@@ -145,7 +145,8 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 ### Pasada 2: lingüística
 
 - [ ] Traducciones naturales y equivalentes en las variantes regionales.
-- [ ] Ortografía, gramática, artículos, género y plurales correctos.
+- [ ] Ortografía, capitalización, puntuación, gramática, artículos, género y plurales correctos.
+- [ ] Infinitivos y construcciones pronominales naturales; sin notas de conjugación en tarjetas ordinarias.
 - [ ] Alternativas completas con el separador establecido.
 - [ ] Notas en español, breves y asociadas al idioma pertinente.
 - [ ] Registro, intensidad y significado conservados.
@@ -159,12 +160,25 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 
 **Criterio de cierre:** no publicar un módulo con errores conocidos sin resolver. Las dudas lingüísticas pendientes deben documentarse y verificarse; no dar por realizada una revisión que no se efectuó. La revisión es manual/editorial: esta versión no introduce pruebas automatizadas ni cambios en el pipeline.
 
-## 13. Decisiones pendientes
+## 13. Capitalización y puntuación
+
+- **CAP-01 (O).** Utilizar mayúscula inicial de presentación en cada tarjeta y en cada alternativa separada por ` / `. Respetar las mayúsculas y minúsculas ortográficas propias de cada idioma en el resto del texto (por ejemplo, sustantivos alemanes, días y meses ingleses).
+- **CAP-02 (O).** No añadir punto final a palabras aisladas, frases nominales ni saludos breves: `Lunes`, `La casa`, `Rojo / Roja`, `Buenos días`.
+- **CAP-03 (O).** Añadir punto final a las oraciones declarativas completas y notas explicativas. Usar los signos de interrogación y exclamación y sus espacios según la ortografía del idioma: `¿Cómo estás?`, `How are you?`, `Comment vas-tu ?`.
+- **CAP-04 (O).** En ejemplos dentro de notas, aplicar la ortografía natural del idioma, sin trasladar artificialmente la mayúscula inicial de presentación.
+
+## 14. Verbos: infinitivos, reflexivos e irregulares
+
+- **VER-01 (O).** Presentar los verbos aislados en infinitivo; en inglés incluir `To` en cada alternativa que sea un infinitivo. Ejemplo: `Comer`, `To eat`, `Manger`, `Mangiare`, `Comer`, `Essen`.
+- **VER-02 (C).** Respetar las excepciones gramaticales, como los modales ingleses sin infinitivo propio: `Can / To be able to`, nunca `To can`. Las tarjetas de expresiones y oraciones mantienen la forma verbal natural del contexto.
+- **VER-03 (O).** Conservar los pronombres reflexivos o pronominales cuando los requiera cada idioma, sin imponerlos por calco del español. Ejemplo: `Despertarse`, `To wake up`, `Se réveiller`, `Svegliarsi`, `Acordar / Despertar`, `Aufwachen`.
+- **VER-04 (O).** No añadir notas de conjugación a las tarjetas ordinarias de vocabulario, ni siquiera para verbos irregulares. Ejemplo: `Ir` → `To go`, sin listar `went` ni `gone`. Las notas semánticas, de uso y de registro siguen permitidas conforme a las reglas generales.
+- **VER-05 (C).** Reservar los paradigmas, formas irregulares y explicaciones de conjugación para la futura sección específica de verbos comunes. Su estructura y alcance se definirán al crear dicha sección; no duplicar anticipadamente ese contenido en los módulos ordinarios.
+
+## 15. Decisiones pendientes
 
 Los siguientes temas requieren una definición posterior y no constituyen nuevas reglas obligatorias:
 
-- Capitalización y puntuación sistemáticas.
-- Verbos reflexivos, pronominales e irregulares.
 - Contracciones y abreviaturas.
 - Criterios de asignación y selección de imágenes.
 - Falsos amigos, homónimos y polisemia.
@@ -173,7 +187,7 @@ Los siguientes temas requieren una definición posterior y no constituyen nuevas
 - Nomenclatura de archivos e identificadores nuevos.
 - Incorporación de futuros idiomas y plan de migración de módulos al alemán.
 
-## 14. Mantenimiento de la guía
+## 16. Mantenimiento de la guía
 
 Actualizar este documento cuando se acuerde una nueva regla editorial. Registrar las excepciones justificadas en el cambio correspondiente. Los ejemplos son ilustrativos, no listas exhaustivas ni esquemas alternativos. Ante una incompatibilidad técnica, resolverla explícitamente antes de cambiar el formato de los JSON.
 
