@@ -145,6 +145,7 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - [ ] Identificadores únicos y estables, identidad del módulo preservada y excepciones técnicas de números respetadas; imágenes y metadatos preservados.
 - [ ] Cobertura de idiomas habilitados completa, incluidas todas las tarjetas nuevas; idiomas todavía no disponibles sin traducciones parciales.
 - [ ] Rutas y registro correctos si se creó un módulo.
+- [ ] Si se incorporan ejemplos, estructura compatible, claves de idiomas habilitados y pares `text` / `es` completos.
 
 ### Pasada 2: lingüística
 
@@ -157,6 +158,7 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - [ ] Registro, intensidad y significado conservados; variantes de tratamiento ordenadas, etiquetas de registro y diferencias regionales significativas en notas.
 - [ ] Falsos amigos relevantes aclarados en notas.
 - [ ] Significados distintos separados y ambigüedades aclaradas mediante notas parentéticas cuando corresponda.
+- [ ] Cuando el soporte de ejemplos esté disponible, frases y traducciones españolas naturales, completas, breves, fieles al sentido y apropiadas para el nivel y registro.
 
 ### Pasada 3: pedagógica
 
@@ -165,6 +167,7 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - [ ] Duplicados revisados; repeticiones entre módulos y niveles justificadas por autonomía temática, progresión o nuevos sentidos.
 - [ ] Cambios de contenido documentados.
 - [ ] Coincidencias y ambigüedades del modo práctica revisadas según PRA-01 a PRA-04.
+- [ ] En revisiones integrales con soporte de ejemplos, cobertura de todas las tarjetas elegibles e idiomas habilitados, sin ejemplos de relleno ni excepciones sin justificar.
 
 **Criterio de cierre:** no publicar un módulo con errores conocidos sin resolver. Las dudas lingüísticas pendientes deben documentarse y verificarse; no dar por realizada una revisión que no se efectuó. La revisión es manual/editorial: esta versión no introduce pruebas automatizadas ni cambios en el pipeline.
 
@@ -270,7 +273,56 @@ El modo práctica selecciona distractores por ID, reproduce la traducción del i
 - **PRA-03 (O).** Documentar las ambigüedades legítimas que no puedan resolverse sin alterar el contenido o la lógica de práctica. Conservar las tarjetas lingüísticamente válidas, incluso si comparten una traducción; no inventar diferencias de traducción ni eliminar significados legítimos para adaptarse al modo práctica. Registrar los casos ambiguos para una futura mejora funcional que excluya distractores igualmente válidos. No introducir dicha mejora dentro de una actualización editorial.
 - **PRA-04 (C).** Para módulos destinados también a práctica, considerar que la implementación necesita al menos cuatro tarjetas con IDs distintos para generar preguntas. Este es un requisito técnico de ese modo, no una cuota editorial de tarjetas.
 
-## 24. Mantenimiento de la guía
+## 24. Frases de ejemplo contextualizadas
+
+Las frases complementan el vocabulario mostrando su uso natural en una situación concreta. Esta sección define el modelo editorial previsto; la visualización y reproducción de ejemplos requieren una implementación funcional independiente. La aprobación de la guía no implica que dicha funcionalidad ya esté disponible.
+
+### Modelo de datos
+
+- **EJE-01 (O).** Almacenar los ejemplos en un campo opcional `examples` de cada tarjeta, independiente de `translations` y `notes`. Cada clave de idioma objetivo contiene un objeto con dos cadenas no vacías: `text` (frase en el idioma objetivo) y `es` (equivalente en español mexicano). No introducir una clave de ejemplo independiente para español ni utilizar ejemplos para habilitar idiomas.
+- **EJE-02 (O).** Incorporar una frase por idioma objetivo disponible y tarjeta elegible al crear o revisar integralmente un módulo, una vez implementado y verificado el soporte del nuevo campo. Los módulos no migrados pueden omitir `examples` sin perder disponibilidad. No publicar ejemplos de idiomas cuya traducción del módulo aún no esté completa.
+
+Ejemplo ilustrativo de un fragmento del módulo de colores (no sustituye las traducciones ni notas existentes):
+
+```json
+{
+  "examples": {
+    "it": {
+      "text": "Il vestito rosso è molto elegante.",
+      "es": "El vestido rojo es muy elegante."
+    },
+    "en": {
+      "text": "She is wearing a red dress.",
+      "es": "Ella lleva puesto un vestido rojo."
+    }
+  }
+}
+```
+
+### Calidad lingüística y pedagógica
+
+- **EJE-03 (O).** Incluir la palabra o expresión estudiada, o una flexión gramatical válida, en una oración breve, completa, natural y contextualizada. Debe ilustrar el significado concreto de la tarjeta, no otro sentido de la misma palabra.
+- **EJE-04 (O).** Respetar el nivel MCER, la variante regional y el registro del módulo. Priorizar situaciones reales y cotidianas cuando sean pertinentes; evitar estructuras innecesariamente complejas, ejemplos artificiales y vocabulario accesorio que dificulte comprender el término.
+- **EJE-05 (O).** Proporcionar una traducción natural y fiel al español mexicano para cada frase. No es necesario usar la misma oración en todos los idiomas; cada ejemplo debe ser idiomático en su propio idioma y su traducción debe corresponder exactamente a ese ejemplo.
+- **EJE-06 (O).** Aplicar las reglas editoriales de ortografía, puntuación, apóstrofos, artículos, género y registro a las frases. No forzar mayúsculas dentro de la oración ni insertar barras para mostrar flexiones: seleccionar una forma gramatical coherente con el contexto.
+- **EJE-07 (C).** No añadir ejemplos a tarjetas que ya contienen oraciones completas, pues estas ya ilustran un uso comunicativo. En tarjetas de palabras aisladas, números, símbolos, fórmulas o expresiones breves, incluir un ejemplo si es posible mostrar un uso natural y pertinente. Omitirlo cuando no aporte valor pedagógico y documentar la excepción en la revisión. No crear ejemplos de relleno.
+
+### Presentación prevista
+
+- **EJE-08 (O).** Mostrar exclusivamente el ejemplo del idioma seleccionado en el reverso (vista de traducción) de las tarjetas del modo estudio, debajo de la traducción y sus notas. Mostrar primero la frase objetivo destacada y después su equivalente español entre paréntesis, en cursiva y con menor énfasis visual. Guardar en JSON las frases sin paréntesis ni marcas de formato; la interfaz se encargará de la presentación.
+- **EJE-09 (O).** No mostrar ejemplos en el anverso español ni antes de responder en modo práctica. La primera implementación se limita al reverso del modo estudio; cualquier incorporación al modo práctica se decidirá por separado.
+- **EJE-10 (O).** Prever un control de pronunciación independiente para la frase, usando el idioma objetivo y su variante de voz. No modificar la pronunciación de la palabra principal ni reproducir automáticamente la traducción española. Mantener el comportamiento actual en tarjetas sin ejemplos.
+- **EJE-11 (O).** Mantener compatibilidad con los módulos existentes: la ausencia de `examples` o del ejemplo de un idioma no impedirá estudiar ni practicar. No reutilizar notas como sustituto del campo ni modificar la disponibilidad del módulo en función de los ejemplos.
+
+## 25. Revisión integral y migración progresiva de módulos
+
+- **MIG-01 (O).** Una vez incorporado el soporte funcional para ejemplos, revisar los módulos existentes JSON por JSON. Cada revisión integral debe abarcar todas las tarjetas y todos los idiomas ya habilitados, no limitarse a cambios superficiales o a una muestra.
+- **MIG-02 (O).** Aplicar todas las reglas vigentes que correspondan: corregir traducciones, ortografía, notas, artículos, género, plurales, registro, alternativas y ejemplos; revisar cobertura temática, redundancias y progresión; añadir conceptos útiles omitidos, retirar redundancias injustificadas y mantener el orden semántico y los IDs estables.
+- **MIG-03 (O).** En módulos revisados integralmente, completar los ejemplos de todas las tarjetas elegibles y de todos los idiomas disponibles. Al añadir una tarjeta o habilitar un nuevo idioma posteriormente, incorporar también los ejemplos que correspondan. No confundir la migración de ejemplos con la incorporación del alemán u otros idiomas todavía no habilitados.
+- **MIG-04 (O).** Realizar las tres pasadas de revisión de la sección 12 en cada módulo y documentar el archivo revisado, conteos antes y después, altas, bajas, correcciones, ejemplos incorporados, excepciones justificadas y ambigüedades del modo práctica. No declarar un módulo completamente revisado si quedan hallazgos editoriales pendientes de resolver.
+- **MIG-05 (O).** No exigir una migración simultánea de todo el catálogo ni cantidades fijas de tarjetas. Mantener los módulos no revisados compatibles y disponibles. No introducir pruebas automatizadas ni cambios funcionales ajenos al alcance de cada revisión.
+
+## 26. Mantenimiento de la guía
 
 Actualizar este documento cuando se acuerde una nueva regla editorial. Registrar las excepciones justificadas en el cambio correspondiente. Los ejemplos son ilustrativos, no listas exhaustivas ni esquemas alternativos. Ante una incompatibilidad técnica, resolverla explícitamente antes de cambiar el formato de los JSON.
 
