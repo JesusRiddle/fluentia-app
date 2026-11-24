@@ -267,7 +267,7 @@ El modo práctica selecciona distractores por ID, reproduce la traducción del i
 
 - **PRA-01 (O).** Revisar coincidencias del texto español y de las traducciones completas o alternativas dentro del mismo módulo, por cada idioma disponible. Distinguir duplicados editoriales de equivalencias lingüísticas legítimas; no eliminar estas últimas automáticamente.
 - **PRA-02 (R).** Preferir expresiones naturales que aporten contexto suficiente para distinguir conceptos cuando ello no cambie el objetivo de aprendizaje.
-- **PRA-03 (O).** Documentar las ambigüedades legítimas que no puedan resolverse sin alterar el contenido o la lógica de práctica. No inventar diferencias de traducción ni introducir cambios funcionales para resolverlas dentro de una actualización editorial.
+- **PRA-03 (O).** Documentar las ambigüedades legítimas que no puedan resolverse sin alterar el contenido o la lógica de práctica. Conservar las tarjetas lingüísticamente válidas, incluso si comparten una traducción; no inventar diferencias de traducción ni eliminar significados legítimos para adaptarse al modo práctica. Registrar los casos ambiguos para una futura mejora funcional que excluya distractores igualmente válidos. No introducir dicha mejora dentro de una actualización editorial.
 - **PRA-04 (C).** Para módulos destinados también a práctica, considerar que la implementación necesita al menos cuatro tarjetas con IDs distintos para generar preguntas. Este es un requisito técnico de ese modo, no una cuota editorial de tarjetas.
 
 ## 24. Mantenimiento de la guía
