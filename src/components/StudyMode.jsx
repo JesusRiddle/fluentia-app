@@ -388,8 +388,9 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                                     </div>
                                     {hasExample && (
                                         <div className="flashcard-example">
-                                            <div className="flashcard-example-row">
-                                                <strong lang={ttsVoices[targetLang]}>{example.text}</strong>
+                                            <strong lang={ttsVoices[targetLang]}>{example.text}</strong>
+                                            <p lang="es-MX"><em>({example.es})</em></p>
+                                            <div className="flashcard-audio-footer">
                                                 <button
                                                     type="button"
                                                     className="flashcard-audio-btn"
@@ -407,7 +408,6 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                                                     </span>
                                                 </button>
                                             </div>
-                                            <p lang="es-MX"><em>({example.es})</em></p>
                                         </div>
                                     )}
                                 </div>
