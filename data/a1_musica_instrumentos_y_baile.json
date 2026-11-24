@@ -1,0 +1,913 @@
+{
+  "module": "Música, instrumentos y baile",
+  "level": "A1",
+  "cards": [
+    {
+      "id": "pa130",
+      "es": "La música",
+      "translations": {
+        "en": "Music",
+        "pt": "A música",
+        "fr": "La musique",
+        "it": "La musica",
+        "de": "Die Musik"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa131",
+      "es": "La canción",
+      "translations": {
+        "en": "The song",
+        "pt": "A canção",
+        "fr": "La chanson",
+        "it": "La canzone",
+        "de": "Das Lied"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "En el habla cotidiana de Brasil también se dice «uma música» para una canción; como término general, «a música» es la música. (Plural: As canções)",
+        "en": "(Plural: The songs)",
+        "fr": "(Plural: Les chansons)",
+        "it": "(Plural: Le canzoni)",
+        "de": "En música popular también se usa «der Song». (Plural: Die Lieder)"
+      }
+    },
+    {
+      "id": "pa132",
+      "es": "El álbum",
+      "translations": {
+        "en": "The album",
+        "pt": "O álbum",
+        "fr": "L'album",
+        "it": "L'album",
+        "de": "Das Album"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Colección de canciones o piezas musicales)",
+        "en": "(Plural: The albums)",
+        "pt": "(Plural: Os álbuns)",
+        "fr": "(Plural: Les albums)",
+        "it": "(Plural: Gli album)",
+        "de": "(Colección de canciones o piezas musicales) (Plural: Die Alben)"
+      }
+    },
+    {
+      "id": "pa133",
+      "es": "La lista de reproducción",
+      "translations": {
+        "en": "The playlist",
+        "pt": "A lista de reprodução / A playlist",
+        "fr": "La liste de lecture / La playlist",
+        "it": "La playlist",
+        "de": "Die Playlist"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "También se usa el préstamo «playlist».",
+        "en": "(Plural: The playlists)",
+        "pt": "(Plural: As listas de reprodução / As playlists)",
+        "fr": "(Plural: Les listes de lecture / Les playlists)",
+        "it": "(Plural: Le playlist)",
+        "de": "(Plural: Die Playlists)"
+      }
+    },
+    {
+      "id": "pa134",
+      "es": "El concierto",
+      "translations": {
+        "en": "The concert",
+        "pt": "O show / O concerto",
+        "fr": "Le concert",
+        "it": "Il concerto",
+        "de": "Das Konzert"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Actuación de música en vivo)",
+        "pt": "«Show» es habitual para música popular; «concerto» se usa especialmente con música clásica. (Plural: Os shows / Os concertos)",
+        "en": "(Plural: The concerts)",
+        "fr": "(Plural: Les concerts)",
+        "it": "(Plural: I concerti)",
+        "de": "(Plural: Die Konzerte)"
+      }
+    },
+    {
+      "id": "pa135",
+      "es": "El festival",
+      "translations": {
+        "en": "The festival",
+        "pt": "O festival",
+        "fr": "Le festival",
+        "it": "Il festival",
+        "de": "Das Festival"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Evento cultural o musical)",
+        "en": "(Plural: The festivals)",
+        "pt": "(Plural: Os festivais)",
+        "fr": "(Plural: Les festivals)",
+        "it": "(Plural: I festival)",
+        "de": "(Plural: Die Festivals)"
+      }
+    },
+    {
+      "id": "pa136",
+      "es": "La música en vivo",
+      "translations": {
+        "en": "Live music",
+        "pt": "A música ao vivo",
+        "fr": "La musique live",
+        "it": "La musica dal vivo",
+        "de": "Die Livemusik"
+      },
+      "image_url": "",
+      "notes": {
+        "fr": "Se refiere a música interpretada en vivo, no a una grabación."
+      }
+    },
+    {
+      "id": "pa137",
+      "es": "La banda / El grupo musical",
+      "translations": {
+        "en": "The band",
+        "pt": "A banda / O grupo musical",
+        "fr": "Le groupe de musique",
+        "it": "La band / Il gruppo musicale",
+        "de": "Die Band"
+      },
+      "image_url": "",
+      "notes": {
+        "it": "«Band» es común para grupos de música moderna; «gruppo musicale» es más general. (Plural: Le band / I gruppi musicali)",
+        "en": "(Plural: The bands)",
+        "pt": "(Plural: As bandas / Os grupos musicais)",
+        "fr": "(Plural: Les groupes de musique)",
+        "de": "En este contexto musical es femenino; «das Band» tiene otros significados, como «la cinta». (Plural: Die Bands)"
+      }
+    },
+    {
+      "id": "pa138",
+      "es": "El coro",
+      "translations": {
+        "en": "The choir",
+        "pt": "O coral / O coro",
+        "fr": "La chorale / Le chœur",
+        "it": "Il coro",
+        "de": "Der Chor"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Grupo de cantantes)",
+        "en": "(Plural: The choirs)",
+        "pt": "(Plural: Os corais / Os coros)",
+        "fr": "(Plural: Les chorales / Les chœurs)",
+        "it": "(Plural: I cori)",
+        "de": "(Plural: Die Chöre)"
+      }
+    },
+    {
+      "id": "pa139",
+      "es": "La orquesta",
+      "translations": {
+        "en": "The orchestra",
+        "pt": "A orquestra",
+        "fr": "L'orchestre",
+        "it": "L'orchestra",
+        "de": "Das Orchester"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The orchestras)",
+        "pt": "(Plural: As orquestras)",
+        "fr": "(Plural: Les orchestres)",
+        "it": "(Plural: Le orchestre)",
+        "de": "(Plural: Die Orchester)"
+      }
+    },
+    {
+      "id": "pa140",
+      "es": "El instrumento musical",
+      "translations": {
+        "en": "The musical instrument",
+        "pt": "O instrumento musical",
+        "fr": "L'instrument de musique",
+        "it": "Lo strumento musicale",
+        "de": "Das Musikinstrument"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The musical instruments)",
+        "pt": "(Plural: Os instrumentos musicais)",
+        "fr": "(Plural: Les instruments de musique)",
+        "it": "(Plural: Gli strumenti musicali)",
+        "de": "(Plural: Die Musikinstrumente)"
+      }
+    },
+    {
+      "id": "pa141",
+      "es": "La guitarra acústica",
+      "translations": {
+        "en": "The acoustic guitar",
+        "pt": "O violão",
+        "fr": "La guitare acoustique",
+        "it": "La chitarra acustica",
+        "de": "Die Akustikgitarre"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "En Brasil, «violão» es la guitarra acústica; «guitarra elétrica» es la eléctrica. (Plural: Os violões)",
+        "en": "(Plural: The acoustic guitars)",
+        "fr": "(Plural: Les guitares acoustiques)",
+        "it": "(Plural: Le chitarre acustiche)",
+        "de": "(Plural: Die Akustikgitarren)"
+      }
+    },
+    {
+      "id": "pa142",
+      "es": "La guitarra eléctrica",
+      "translations": {
+        "en": "The electric guitar",
+        "pt": "A guitarra elétrica",
+        "fr": "La guitare électrique",
+        "it": "La chitarra elettrica",
+        "de": "Die E-Gitarre"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The electric guitars)",
+        "pt": "(Plural: As guitarras elétricas)",
+        "fr": "(Plural: Les guitares électriques)",
+        "it": "(Plural: Le chitarre elettriche)",
+        "de": "«E-» indica que es eléctrica. (Plural: Die E-Gitarren)"
+      }
+    },
+    {
+      "id": "pa143",
+      "es": "El bajo eléctrico",
+      "translations": {
+        "en": "The electric bass",
+        "pt": "O baixo elétrico",
+        "fr": "La basse électrique",
+        "it": "Il basso elettrico",
+        "de": "Der E-Bass"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The electric basses)",
+        "pt": "(Plural: Os baixos elétricos)",
+        "fr": "(Plural: Les basses électriques)",
+        "it": "(Plural: I bassi elettrici)",
+        "de": "Es el bajo eléctrico; «der Kontrabass» es el contrabajo. (Plural: Die E-Bässe)"
+      }
+    },
+    {
+      "id": "pa144",
+      "es": "El piano",
+      "translations": {
+        "en": "The piano",
+        "pt": "O piano",
+        "fr": "Le piano",
+        "it": "Il pianoforte",
+        "de": "Das Klavier"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The pianos)",
+        "pt": "(Plural: Os pianos)",
+        "fr": "(Plural: Les pianos)",
+        "it": "(Plural: I pianoforti)",
+        "de": "(Plural: Die Klaviere)"
+      }
+    },
+    {
+      "id": "pa145",
+      "es": "El teclado musical",
+      "translations": {
+        "en": "The keyboard",
+        "pt": "O teclado musical",
+        "fr": "Le clavier musical",
+        "it": "La tastiera musicale",
+        "de": "Das Keyboard"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Instrumento musical, no teclado de computadora)",
+        "en": "También se dice «electronic keyboard» cuando es electrónico. (Plural: The keyboards)",
+        "fr": "«Clavier» también es un teclado de computadora; aquí se refiere al instrumento. (Plural: Les claviers musicaux)",
+        "pt": "(Plural: Os teclados musicais)",
+        "it": "(Plural: Le tastiere musicali)",
+        "de": "En música se refiere al instrumento. Para el teclado de una computadora normalmente se usa «die Tastatur». (Plural: Die Keyboards)"
+      }
+    },
+    {
+      "id": "pa146",
+      "es": "El violín",
+      "translations": {
+        "en": "The violin",
+        "pt": "O violino",
+        "fr": "Le violon",
+        "it": "Il violino",
+        "de": "Die Geige"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The violins)",
+        "pt": "(Plural: Os violinos)",
+        "fr": "(Plural: Les violons)",
+        "it": "(Plural: I violini)",
+        "de": "También se dice «die Violine». (Plural: Die Geigen)"
+      }
+    },
+    {
+      "id": "pa147",
+      "es": "El violonchelo / El chelo",
+      "translations": {
+        "en": "The cello",
+        "pt": "O violoncelo",
+        "fr": "Le violoncelle",
+        "it": "Il violoncello",
+        "de": "Das Cello"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The cellos)",
+        "pt": "(Plural: Os violoncelos)",
+        "fr": "(Plural: Les violoncelles)",
+        "it": "(Plural: I violoncelli)",
+        "de": "(Plural: Die Cellos)"
+      }
+    },
+    {
+      "id": "pa148",
+      "es": "La flauta",
+      "translations": {
+        "en": "The flute",
+        "pt": "A flauta",
+        "fr": "La flûte",
+        "it": "Il flauto",
+        "de": "Die Flöte"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The flutes)",
+        "pt": "(Plural: As flautas)",
+        "fr": "(Plural: Les flûtes)",
+        "it": "(Plural: I flauti)",
+        "de": "(Plural: Die Flöten)"
+      }
+    },
+    {
+      "id": "pa149",
+      "es": "El saxofón",
+      "translations": {
+        "en": "The saxophone",
+        "pt": "O saxofone",
+        "fr": "Le saxophone",
+        "it": "Il sassofono",
+        "de": "Das Saxofon"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Coloquial: Saxo",
+        "en": "Coloquial: Sax (Plural: The saxophones)",
+        "fr": "Coloquial: Saxo (Plural: Les saxophones)",
+        "pt": "Coloquial: Sax (Plural: Os saxofones)",
+        "it": "Coloquial: Sax (Plural: I sassofoni)",
+        "de": "También se escribe «Saxophon». (Plural: Die Saxofone)"
+      }
+    },
+    {
+      "id": "pa150",
+      "es": "La trompeta",
+      "translations": {
+        "en": "The trumpet",
+        "pt": "O trompete",
+        "fr": "La trompette",
+        "it": "La tromba",
+        "de": "Die Trompete"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The trumpets)",
+        "pt": "(Plural: Os trompetes)",
+        "fr": "(Plural: Les trompettes)",
+        "it": "(Plural: Le trombe)",
+        "de": "(Plural: Die Trompeten)"
+      }
+    },
+    {
+      "id": "pa151",
+      "es": "La batería",
+      "translations": {
+        "en": "The drum set",
+        "pt": "A bateria",
+        "fr": "La batterie",
+        "it": "La batteria",
+        "de": "Das Schlagzeug"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Conjunto de instrumentos de percusión)",
+        "en": "En este sentido también se usa «the drums», no «the drum», que es un tambor. (Plural: The drum sets)",
+        "pt": "(Plural: As baterias)",
+        "fr": "(Plural: Les batteries)",
+        "it": "(Plural: Le batterie)",
+        "de": "(Conjunto de percusión, no un tambor individual) (Plural: Die Schlagzeuge)"
+      }
+    },
+    {
+      "id": "pa152",
+      "es": "El tambor",
+      "translations": {
+        "en": "The drum",
+        "pt": "O tambor",
+        "fr": "Le tambour",
+        "it": "Il tamburo",
+        "de": "Die Trommel"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The drums)",
+        "pt": "(Plural: Os tambores)",
+        "fr": "(Plural: Les tambours)",
+        "it": "(Plural: I tamburi)",
+        "de": "(Plural: Die Trommeln)"
+      }
+    },
+    {
+      "id": "pa153",
+      "es": "El acordeón",
+      "translations": {
+        "en": "The accordion",
+        "pt": "O acordeão / A sanfona",
+        "fr": "L'accordéon",
+        "it": "La fisarmonica",
+        "de": "Das Akkordeon"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "«Sanfona» es un nombre habitual en la música popular brasileña. (Plural: Os acordeões / As sanfonas)",
+        "en": "(Plural: The accordions)",
+        "fr": "(Plural: Les accordéons)",
+        "it": "(Plural: Le fisarmoniche)",
+        "de": "(Plural: Die Akkordeons)"
+      }
+    },
+    {
+      "id": "pa154",
+      "es": "El ukelele",
+      "translations": {
+        "en": "The ukulele",
+        "pt": "O ukulele / O uquelele",
+        "fr": "L'ukulélé",
+        "it": "L'ukulele",
+        "de": "Die Ukulele"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The ukuleles)",
+        "pt": "(Plural: Os ukuleles / Os uqueleles)",
+        "fr": "(Plural: Les ukulélés)",
+        "it": "(Plural: Gli ukulele)",
+        "de": "También es válido el neutro «das Ukulele». (Plural: Die Ukulelen)"
+      }
+    },
+    {
+      "id": "pa155",
+      "es": "La música clásica",
+      "translations": {
+        "en": "Classical music",
+        "pt": "A música clássica",
+        "fr": "La musique classique",
+        "it": "La musica classica",
+        "de": "Die klassische Musik"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa156",
+      "es": "La ópera",
+      "translations": {
+        "en": "Opera",
+        "pt": "A ópera",
+        "fr": "L'opéra",
+        "it": "L'opera",
+        "de": "Die Oper"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Género musical, no una obra individual)",
+        "de": "Aquí se refiere al género. Para varias obras se usa «die Opern»."
+      }
+    },
+    {
+      "id": "pa157",
+      "es": "El pop",
+      "translations": {
+        "en": "Pop music",
+        "pt": "A música pop",
+        "fr": "La musique pop",
+        "it": "La musica pop",
+        "de": "Die Popmusik"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa158",
+      "es": "El rock",
+      "translations": {
+        "en": "Rock music",
+        "pt": "O rock",
+        "fr": "Le rock",
+        "it": "Il rock",
+        "de": "Die Rockmusik"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa159",
+      "es": "El jazz",
+      "translations": {
+        "en": "Jazz",
+        "pt": "O jazz",
+        "fr": "Le jazz",
+        "it": "Il jazz",
+        "de": "Der Jazz"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa160",
+      "es": "El blues",
+      "translations": {
+        "en": "Blues",
+        "pt": "O blues",
+        "fr": "Le blues",
+        "it": "Il blues",
+        "de": "Der Blues"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa161",
+      "es": "La música electrónica",
+      "translations": {
+        "en": "Electronic music",
+        "pt": "A música eletrônica",
+        "fr": "La musique électronique",
+        "it": "La musica elettronica",
+        "de": "Die elektronische Musik"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa162",
+      "es": "El hip-hop",
+      "translations": {
+        "en": "Hip-hop",
+        "pt": "O hip-hop",
+        "fr": "Le hip-hop",
+        "it": "L'hip hop",
+        "de": "Der Hip-Hop"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa163",
+      "es": "El rap",
+      "translations": {
+        "en": "Rap",
+        "pt": "O rap",
+        "fr": "Le rap",
+        "it": "Il rap",
+        "de": "Der Rap"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa164",
+      "es": "El reguetón",
+      "translations": {
+        "en": "Reggaeton",
+        "pt": "O reggaeton",
+        "fr": "Le reggaeton",
+        "it": "Il reggaeton",
+        "de": "Der Reggaeton"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "«Reguetón» es la grafía adaptada al español; también se encuentra «reggaetón»."
+      }
+    },
+    {
+      "id": "pa165",
+      "es": "La música folclórica",
+      "translations": {
+        "en": "Folk music",
+        "pt": "A música folclórica",
+        "fr": "La musique folklorique",
+        "it": "La musica folk",
+        "de": "Die Volksmusik"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Música vinculada a una tradición popular)",
+        "de": "Aquí se refiere a la música ligada a una tradición popular, no a la música pop."
+      }
+    },
+    {
+      "id": "pa166",
+      "es": "La música country",
+      "translations": {
+        "en": "Country music",
+        "pt": "A música country",
+        "fr": "La musique country",
+        "it": "La musica country",
+        "de": "Die Countrymusik"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa167",
+      "es": "La salsa",
+      "translations": {
+        "en": "Salsa",
+        "pt": "A salsa",
+        "fr": "La salsa",
+        "it": "La salsa",
+        "de": "Die Salsa"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Género musical y baile)",
+        "pt": "En este contexto es el género musical o baile; en cocina, «salsa» también significa perejil.",
+        "de": "(Género musical y baile, no la salsa de cocina)"
+      }
+    },
+    {
+      "id": "pa168",
+      "es": "La bachata",
+      "translations": {
+        "en": "Bachata",
+        "pt": "A bachata",
+        "fr": "La bachata",
+        "it": "La bachata",
+        "de": "Die Bachata"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Género musical y baile)",
+        "de": "(Género musical y baile dominicano)"
+      }
+    },
+    {
+      "id": "pa169",
+      "es": "La samba",
+      "translations": {
+        "en": "Samba",
+        "pt": "O samba",
+        "fr": "La samba",
+        "it": "Il samba",
+        "de": "Die Samba"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Género musical y baile brasileño)",
+        "de": "También se usa el masculino «der Samba»."
+      }
+    },
+    {
+      "id": "pa170",
+      "es": "El tango",
+      "translations": {
+        "en": "Tango",
+        "pt": "O tango",
+        "fr": "Le tango",
+        "it": "Il tango",
+        "de": "Der Tango"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Género musical y baile rioplatense)",
+        "de": "(Plural: Die Tangos) Se usa el plural al contar piezas o bailes, no para el género en general."
+      }
+    },
+    {
+      "id": "pa171",
+      "es": "El ballet",
+      "translations": {
+        "en": "Ballet",
+        "pt": "O balé",
+        "fr": "Le ballet",
+        "it": "La danza classica",
+        "de": "Das Ballett"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Danza clásica, no una compañía ni una obra)",
+        "de": "(Danza clásica, no una compañía ni una obra)"
+      }
+    },
+    {
+      "id": "pa172",
+      "es": "Escuchar música",
+      "translations": {
+        "en": "To listen to music",
+        "pt": "Ouvir música",
+        "fr": "Écouter de la musique",
+        "it": "Ascoltare musica",
+        "de": "Musik hören"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa173",
+      "es": "Cantar",
+      "translations": {
+        "en": "To sing",
+        "pt": "Cantar",
+        "fr": "Chanter",
+        "it": "Cantare",
+        "de": "Singen"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa174",
+      "es": "Bailar",
+      "translations": {
+        "en": "To dance",
+        "pt": "Dançar",
+        "fr": "Danser",
+        "it": "Ballare / Danzare",
+        "de": "Tanzen"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa175",
+      "es": "Tocar un instrumento",
+      "translations": {
+        "en": "To play an instrument",
+        "pt": "Tocar um instrumento",
+        "fr": "Jouer d'un instrument",
+        "it": "Suonare uno strumento",
+        "de": "Ein Instrument spielen"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa176",
+      "es": "Componer música",
+      "translations": {
+        "en": "To compose music / To write music",
+        "pt": "Compor música",
+        "fr": "Composer de la musique",
+        "it": "Comporre musica",
+        "de": "Musik komponieren"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa177",
+      "es": "El karaoke",
+      "translations": {
+        "en": "Karaoke",
+        "pt": "O karaokê",
+        "fr": "Le karaoké",
+        "it": "Il karaoke",
+        "de": "Das Karaoke"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa198",
+      "es": "Me encanta bailar.",
+      "translations": {
+        "en": "I love dancing.",
+        "pt": "Adoro dançar.",
+        "fr": "J'adore danser.",
+        "it": "Adoro ballare.",
+        "de": "Ich liebe es, zu tanzen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa205",
+      "es": "¿Qué tipo de música te gusta? / ¿Qué tipo de música le gusta?",
+      "translations": {
+        "en": "What kind of music do you like?",
+        "pt": "De que tipo de música você gosta?",
+        "fr": "Quel genre de musique aimes-tu ? / Quel genre de musique aimez-vous ?",
+        "it": "Che genere di musica ti piace? / Che genere di musica le piace?",
+        "de": "Was für Musik magst du? / Was für Musik mögen Sie?"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es el trato cotidiano habitual en buena parte de Brasil; no implica formalidad por sí solo.",
+        "de": "Primero el trato informal con «du» y luego el formal con «Sie»."
+      }
+    },
+    {
+      "id": "pa206",
+      "es": "Escucho un poco de todo.",
+      "translations": {
+        "en": "I listen to a bit of everything.",
+        "pt": "Ouço um pouco de tudo.",
+        "fr": "J'écoute un peu de tout.",
+        "it": "Ascolto un po' di tutto.",
+        "de": "Ich höre von allem ein bisschen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa207",
+      "es": "¿Cuál es tu canción favorita? / ¿Cuál es su canción favorita?",
+      "translations": {
+        "en": "What's your favorite song?",
+        "pt": "Qual é a sua música favorita?",
+        "fr": "Quelle est ta chanson préférée ? / Quelle est votre chanson préférée ?",
+        "it": "Qual è la tua canzone preferita? / Qual è la sua canzone preferita?",
+        "de": "Was ist dein Lieblingslied? / Was ist Ihr Lieblingslied?"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Aquí «música» se refiere a una canción concreta; también se puede decir «canção».",
+        "de": "«Dein» es informal; «Ihr» es formal y se escribe con mayúscula."
+      }
+    },
+    {
+      "id": "pa220",
+      "es": "¿Sabes tocar algún instrumento? / ¿Sabe tocar algún instrumento?",
+      "translations": {
+        "en": "Can you play an instrument?",
+        "pt": "Você sabe tocar algum instrumento?",
+        "fr": "Sais-tu jouer d'un instrument ? / Savez-vous jouer d'un instrument ?",
+        "it": "Sai suonare uno strumento? / Sa suonare uno strumento?",
+        "de": "Kannst du ein Instrument spielen? / Können Sie ein Instrument spielen?"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es el trato cotidiano habitual en buena parte de Brasil; no implica formalidad por sí solo.",
+        "de": "Primero el trato informal con «du» y luego el formal con «Sie»."
+      }
+    },
+    {
+      "id": "pa221",
+      "es": "Sé tocar el piano.",
+      "translations": {
+        "en": "I can play the piano.",
+        "pt": "Sei tocar piano.",
+        "fr": "Je sais jouer du piano.",
+        "it": "So suonare il pianoforte.",
+        "de": "Ich kann Klavier spielen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa222",
+      "es": "Canto en un coro.",
+      "translations": {
+        "en": "I sing in a choir.",
+        "pt": "Canto em um coral.",
+        "fr": "Je chante dans une chorale.",
+        "it": "Canto in un coro.",
+        "de": "Ich singe in einem Chor."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "pa223",
+      "es": "Estoy aprendiendo a tocar la guitarra.",
+      "translations": {
+        "en": "I'm learning to play the guitar.",
+        "pt": "Estou aprendendo a tocar violão.",
+        "fr": "J'apprends à jouer de la guitare.",
+        "it": "Sto imparando a suonare la chitarra.",
+        "de": "Ich lerne gerade, Gitarre zu spielen."
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "La frase con «violão» se usa para guitarra acústica."
+      }
+    },
+    {
+      "id": "pa237",
+      "es": "¿Te gustaría venir al concierto? / ¿Le gustaría venir al concierto?",
+      "translations": {
+        "en": "Would you like to come to the concert?",
+        "pt": "Gostaria de vir ao show?",
+        "fr": "Tu aimerais venir au concert ? / Aimeriez-vous venir au concert ?",
+        "it": "Ti piacerebbe venire al concerto? / Le piacerebbe venire al concerto?",
+        "de": "Möchtest du zum Konzert kommen? / Möchten Sie zum Konzert kommen?"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "«Gostaria» expresa cortesía; «show» se usa para conciertos de música popular.",
+        "de": "Primero el trato informal con «du» y luego el formal con «Sie»."
+      }
+    }
+  ]
+}
