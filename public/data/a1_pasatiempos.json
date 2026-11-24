@@ -4,80 +4,113 @@
   "cards": [
     {
       "id": "pa1",
-      "es": "Pasatiempo / Afición",
+      "es": "El pasatiempo / La afición",
       "translations": {
-        "en": "Hobby / Pastime",
-        "pt": "Hobby / Passatempo",
-        "fr": "Loisir / Passe-temps",
-        "it": "Hobby / Passatempo"
+        "en": "The hobby / The pastime",
+        "pt": "O hobby / O passatempo",
+        "fr": "Le passe-temps",
+        "it": "L'hobby / Il passatempo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The hobbies / The pastimes)",
+        "pt": "(Plural: Os hobbies / Os passatempos)",
+        "fr": "(Plural: Les passe-temps) «Loisir» también puede referirse al tiempo libre, no solo a la actividad.",
+        "it": "(Plural: Gli hobby / I passatempi)"
+      }
     },
     {
       "id": "pa2",
-      "es": "Tiempo libre / Ocio",
+      "es": "El tiempo libre / El ocio",
       "translations": {
-        "en": "Free time / Leisure time",
-        "pt": "Tempo livre / Lazer",
-        "fr": "Temps libre / Loisirs",
-        "it": "Tempo libero"
+        "en": "The free time / The leisure time",
+        "pt": "O tempo livre / O lazer",
+        "fr": "Le temps libre",
+        "it": "Il tempo libero"
       },
       "image_url": ""
     },
     {
       "id": "pa3",
-      "es": "Entretenimiento",
+      "es": "El entretenimiento",
       "translations": {
-        "en": "Entertainment",
-        "pt": "Entretenimento / Diversão",
-        "fr": "Divertissement",
-        "it": "Intrattenimento"
+        "en": "The entertainment",
+        "pt": "O entretenimento",
+        "fr": "Le divertissement",
+        "it": "L'intrattenimento"
       },
       "image_url": ""
     },
     {
       "id": "pa4",
-      "es": "Actividad",
+      "es": "La actividad",
       "translations": {
-        "en": "Activity",
-        "pt": "Atividade",
-        "fr": "Activité",
-        "it": "Attività"
+        "en": "The activity",
+        "pt": "A atividade",
+        "fr": "L'activité",
+        "it": "L'attività"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The activities)",
+        "pt": "(Plural: As atividades)",
+        "fr": "(Plural: Les activités)",
+        "it": "(Plural: Le attività)"
+      }
     },
     {
       "id": "pa5",
-      "es": "Clase (de una actividad)",
+      "es": "La clase",
       "translations": {
-        "en": "Class / Lesson",
-        "pt": "Aula",
-        "fr": "Cours",
-        "it": "Lezione"
+        "en": "The class / The lesson",
+        "pt": "A aula",
+        "fr": "Le cours",
+        "it": "La lezione"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The classes / The lessons)",
+        "pt": "(Plural: As aulas)",
+        "fr": "(Plural: Les cours)",
+        "it": "(Plural: Le lezioni)",
+        "es": "(Sesión para aprender una actividad)"
+      }
     },
     {
       "id": "pa6",
-      "es": "Taller (actividad práctica en grupo)",
+      "es": "El taller",
       "translations": {
-        "en": "Workshop",
-        "pt": "Oficina / Workshop",
-        "fr": "Atelier",
-        "it": "Laboratorio / Workshop"
+        "en": "The workshop",
+        "pt": "A oficina",
+        "fr": "L'atelier",
+        "it": "Il laboratorio"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The workshops)",
+        "pt": "(Plural: As oficinas) También se usa «workshop».",
+        "fr": "(Plural: Les ateliers)",
+        "it": "(Plural: I laboratori) También se usa «workshop».",
+        "es": "(Actividad práctica en grupo)"
+      }
     },
     {
       "id": "pa7",
-      "es": "Club (grupo de personas con una afición)",
+      "es": "El club",
       "translations": {
-        "en": "Club",
-        "pt": "Clube",
-        "fr": "Club",
-        "it": "Club / Circolo"
+        "en": "The club",
+        "pt": "O clube",
+        "fr": "Le club",
+        "it": "Il club / Il circolo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The clubs)",
+        "pt": "(Plural: Os clubes)",
+        "fr": "(Plural: Les clubs)",
+        "it": "(Plural: I club / I circoli)",
+        "es": "(Grupo de personas con una afición en común)"
+      }
     },
     {
       "id": "pa68",
@@ -114,14 +147,17 @@
     },
     {
       "id": "pa71",
-      "es": "Pintar (crear imágenes)",
+      "es": "Pintar",
       "translations": {
         "en": "To paint",
         "pt": "Pintar",
         "fr": "Peindre",
         "it": "Dipingere"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Crear imágenes con pintura)"
+      }
     },
     {
       "id": "pa72",
@@ -136,7 +172,7 @@
     },
     {
       "id": "pa73",
-      "es": "Tomar fotos / Hacer fotografías",
+      "es": "Tomar fotos",
       "translations": {
         "en": "To take photos / To take pictures",
         "pt": "Tirar fotos / Fotografar",
@@ -202,18 +238,21 @@
     },
     {
       "id": "pa79",
-      "es": "Tejer (con agujas)",
+      "es": "Tejer",
       "translations": {
         "en": "To knit",
         "pt": "Tricotar / Fazer tricô",
         "fr": "Tricoter",
         "it": "Lavorare a maglia"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Con dos agujas, no con gancho)"
+      }
     },
     {
       "id": "pa80",
-      "es": "Tejer a ganchillo / Hacer crochet",
+      "es": "Tejer con gancho / Hacer crochet",
       "translations": {
         "en": "To crochet",
         "pt": "Fazer crochê",
@@ -257,12 +296,12 @@
     },
     {
       "id": "pa84",
-      "es": "Hacer repostería / Preparar postres",
+      "es": "Hacer repostería",
       "translations": {
-        "en": "To bake desserts / To make desserts",
-        "pt": "Fazer doces / Preparar sobremesas",
-        "fr": "Faire de la pâtisserie / Préparer des desserts",
-        "it": "Fare dolci / Preparare dolci"
+        "en": "To bake cakes and pastries",
+        "pt": "Fazer bolos e doces",
+        "fr": "Faire de la pâtisserie",
+        "it": "Fare pasticceria"
       },
       "image_url": ""
     },
@@ -279,14 +318,17 @@
     },
     {
       "id": "pa86",
-      "es": "Programar / Escribir código (informático)",
+      "es": "Programar / Escribir código",
       "translations": {
         "en": "To code / To program",
         "pt": "Programar / Escrever código",
         "fr": "Coder / Programmer",
         "it": "Programmare / Scrivere codice"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informática)"
+      }
     },
     {
       "id": "pa87",
@@ -301,102 +343,145 @@
     },
     {
       "id": "pa91",
-      "es": "Libro",
+      "es": "El libro",
       "translations": {
-        "en": "Book",
-        "pt": "Livro",
-        "fr": "Livre",
-        "it": "Libro"
+        "en": "The book",
+        "pt": "O livro",
+        "fr": "Le livre",
+        "it": "Il libro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The books)",
+        "pt": "(Plural: Os livros)",
+        "fr": "(Plural: Les livres)",
+        "it": "(Plural: I libri)"
+      }
     },
     {
       "id": "pa92",
-      "es": "Novela (libro de ficción)",
+      "es": "La novela",
       "translations": {
-        "en": "Novel",
-        "pt": "Romance",
-        "fr": "Roman",
-        "it": "Romanzo"
+        "en": "The novel",
+        "pt": "O romance",
+        "fr": "Le roman",
+        "it": "Il romanzo"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The novels)",
+        "pt": "(Plural: Os romances)",
+        "fr": "(Plural: Les romans)",
+        "it": "(Plural: I romanzi)",
+        "es": "(Obra literaria, no telenovela)"
+      }
     },
     {
       "id": "pa93",
-      "es": "Cuento / Relato corto",
+      "es": "El cuento / El relato corto",
       "translations": {
-        "en": "Short story",
-        "pt": "Conto",
-        "fr": "Conte / Nouvelle",
-        "it": "Racconto / Racconto breve"
+        "en": "The short story",
+        "pt": "O conto",
+        "fr": "La nouvelle / Le récit court",
+        "it": "Il racconto / Il racconto breve"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The short stories)",
+        "pt": "(Plural: Os contos)",
+        "fr": "(Plural: Les nouvelles / Les récits courts)",
+        "it": "(Plural: I racconti / I racconti brevi)"
+      }
     },
     {
       "id": "pa94",
-      "es": "Poesía",
+      "es": "La poesía",
       "translations": {
-        "en": "Poetry",
-        "pt": "Poesia",
-        "fr": "Poésie",
-        "it": "Poesia"
+        "en": "The poetry",
+        "pt": "A poesia",
+        "fr": "La poésie",
+        "it": "La poesia"
       },
       "image_url": ""
     },
     {
       "id": "pa95",
-      "es": "Historieta / Cómic",
+      "es": "La historieta / El cómic",
       "translations": {
-        "en": "Comic book / Comic",
-        "pt": "História em quadrinhos / Gibi",
-        "fr": "Bande dessinée / BD",
-        "it": "Fumetto"
+        "en": "The comic / The comic book",
+        "pt": "A história em quadrinhos",
+        "fr": "La bande dessinée",
+        "it": "Il fumetto"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The comics / The comic books)",
+        "pt": "(Plural: As histórias em quadrinhos) «Gibi» suele referirse a una revista de historietas.",
+        "fr": "(Plural: Les bandes dessinées) Abreviatura: BD",
+        "it": "(Plural: I fumetti)"
+      }
     },
     {
       "id": "pa96",
-      "es": "Revista",
+      "es": "La revista",
       "translations": {
-        "en": "Magazine",
-        "pt": "Revista",
-        "fr": "Magazine / Revue",
-        "it": "Rivista"
+        "en": "The magazine",
+        "pt": "A revista",
+        "fr": "Le magazine",
+        "it": "La rivista"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The magazines)",
+        "pt": "(Plural: As revistas)",
+        "fr": "(Plural: Les magazines) «Revue» suele designar una publicación especializada o cultural.",
+        "it": "(Plural: Le riviste)"
+      }
     },
     {
       "id": "pa97",
-      "es": "Audiolibro",
+      "es": "El audiolibro",
       "translations": {
-        "en": "Audiobook",
-        "pt": "Audiolivro",
-        "fr": "Livre audio",
-        "it": "Audiolibro"
+        "en": "The audiobook",
+        "pt": "O audiolivro",
+        "fr": "Le livre audio",
+        "it": "L'audiolibro"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The audiobooks)",
+        "pt": "(Plural: Os audiolivros)",
+        "fr": "(Plural: Les livres audio)",
+        "it": "(Plural: Gli audiolibri)"
+      }
     },
     {
       "id": "pa194",
       "es": "¿Qué haces en tu tiempo libre? / ¿Qué hace en su tiempo libre?",
       "translations": {
         "en": "What do you do in your free time?",
-        "pt": "O que você faz no seu tempo livre?",
+        "pt": "O que você faz no seu tempo livre? / O que o senhor faz no tempo livre? / O que a senhora faz no tempo livre?",
         "fr": "Qu'est-ce que tu fais pendant ton temps libre ? / Qu'est-ce que vous faites pendant votre temps libre ?",
         "it": "Che cosa fai nel tempo libero? / Che cosa fa nel tempo libero?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de uso cotidiano en Brasil; «o senhor» y «a senhora» son formas de trato respetuoso."
+      }
     },
     {
       "id": "pa195",
       "es": "¿Tienes algún pasatiempo? / ¿Tiene algún pasatiempo?",
       "translations": {
         "en": "Do you have any hobbies?",
-        "pt": "Você tem algum hobby?",
+        "pt": "Você tem algum hobby? / O senhor tem algum hobby? / A senhora tem algum hobby?",
         "fr": "Tu as des loisirs ? / Vous avez des loisirs ?",
         "it": "Hai qualche hobby? / Ha qualche hobby?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de uso cotidiano en Brasil; «o senhor» y «a senhora» son formas de trato respetuoso."
+      }
     },
     {
       "id": "pa196",
@@ -455,7 +540,7 @@
     },
     {
       "id": "pa227",
-      "es": "Lo practico solo/a por ahora.",
+      "es": "Lo practico solo por ahora. / Lo practico sola por ahora.",
       "translations": {
         "en": "I practice it on my own for now.",
         "pt": "Pratico sozinho por enquanto. / Pratico sozinha por enquanto.",
