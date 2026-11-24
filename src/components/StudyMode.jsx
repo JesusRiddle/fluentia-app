@@ -26,6 +26,8 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
     const [isSpeaking, setIsSpeaking] = useState(false);
     const [isPaused, setIsPaused] = useState(false);
     const speechIdRef = useRef(0);
+    const audioSourceRef = useRef(null);
+    const [audioSource, setAudioSource] = useState(null);
     // Gestos táctiles: el deslizamiento navega; un toque sigue volteando.
     const touchStartRef = useRef(null);
     const ignoreFlipUntilRef = useRef(0);
@@ -59,6 +61,10 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
         : allCards;
     const totalCards = cards.length;
     const currentCard = cards[currentIndex];
+    const example = currentCard?.examples?.[targetLang];
+    const hasExample = Boolean(currentCard?.translations?.[targetLang]?.trim() &&
+        typeof example?.text === 'string' && example.text.trim() &&
+        typeof example?.es === 'string' && example.es.trim());
     const progressPct = totalCards > 1
         ? Math.round((currentIndex / (totalCards - 1)) * 100)
         : totalCards === 1 ? 100 : 0;
@@ -68,6 +74,8 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
 
     const cancelAudio = () => {
         speechIdRef.current += 1;
+        audioSourceRef.current = null;
+        setAudioSource(null);
         window.clearTimeout(audioTimeoutRef.current);
         window.speechSynthesis.cancel();
         setIsSpeaking(false);
@@ -125,14 +133,18 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
         en: 'en-US', fr: 'fr-FR', it: 'it-IT', pt: 'pt-BR', de: 'de-DE'
     };
 
-    const playAudio = () => {
+    const playAudio = (source = 'word') => {
         if (!currentCard) return;
 
-        const text = currentCard.translations?.[targetLang];
+        const text = source === 'example'
+            ? (hasExample ? example.text : null)
+            : currentCard.translations?.[targetLang];
         if (!text) return;
 
         cancelAudio();
         const speechId = speechIdRef.current;
+        audioSourceRef.current = source;
+        setAudioSource(source);
 
         const utterance = new SpeechSynthesisUtterance(prepareSpeechText(text));
         utterance.lang = ttsVoices[targetLang] || 'en-US';
@@ -159,6 +171,8 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
 
         const finish = () => {
             if (speechId === speechIdRef.current) {
+                audioSourceRef.current = null;
+                setAudioSource(null);
                 setIsSpeaking(false);
                 setIsPaused(false);
             }
@@ -170,9 +184,9 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
         window.speechSynthesis.speak(utterance);
     };
 
-    const toggleAudio = () => {
-        if (!isSpeaking) {
-            playAudio();
+    const toggleAudio = (source = 'word') => {
+        if (audioSourceRef.current !== source || !isSpeaking) {
+            playAudio(source);
         } else if (isPaused) {
             window.speechSynthesis.resume();
             setIsPaused(false);
@@ -189,7 +203,7 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
         cancelAudio();
         setIsFlipped(next);
         if (next && autoPlay) {
-            audioTimeoutRef.current = window.setTimeout(playAudio, 150);
+            audioTimeoutRef.current = window.setTimeout(() => playAudio('word'), 150);
         }
     };
     const changeCard = newIndex => {
@@ -300,7 +314,7 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                             style={{ touchAction: 'pan-y' }}
                         >
                             <div key={currentCard.id} className={`flashcard-inner ${isFlipped ? 'is-flipped' : ''}`}>
-                                <div className="flashcard-front card">
+                                <div className="flashcard-front card" aria-hidden={isFlipped}>
                                     {currentCard.image_url && (
                                         <img
                                             key={`img-${currentCard.id}`}
@@ -323,7 +337,7 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                                     <p className="hint flip-hint">Toca para voltear</p>
                                 </div>
 
-                                <div className="flashcard-back card">
+                                <div className="flashcard-back card" aria-hidden={!isFlipped}>
 
                                     <div className="flashcard-back-content">
                                         <h2
@@ -341,6 +355,30 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                                                 {currentCard.notes[targetLang]}
                                             </p>
                                         )}
+                                        {hasExample && (
+                                            <div className="flashcard-example">
+                                                <div className="flashcard-example-row">
+                                                    <strong lang={ttsVoices[targetLang]}>{example.text}</strong>
+                                                    <button
+                                                        type="button"
+                                                        className="flashcard-audio-btn"
+                                                        tabIndex={isFlipped ? 0 : -1}
+                                                        onClick={event => {
+                                                            event.stopPropagation();
+                                                            if (isFlipped) toggleAudio('example');
+                                                        }}
+                                                        aria-label={audioSource === 'example' && isSpeaking
+                                                            ? (isPaused ? 'Reanudar frase' : 'Pausar frase')
+                                                            : 'Escuchar frase'}
+                                                    >
+                                                        <span aria-hidden="true">
+                                                            {audioSource !== 'example' || !isSpeaking ? '🔊' : isPaused ? '▶' : '⏸'}
+                                                        </span>
+                                                    </button>
+                                                </div>
+                                                <p lang="es-MX"><em>({example.es})</em></p>
+                                            </div>
+                                        )}
                                     </div>
 
                                     <div className="flashcard-audio-footer">
@@ -349,17 +387,18 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                                             className="flashcard-audio-btn"
                                             onClick={(event) => {
                                                 event.stopPropagation();
-                                                toggleAudio();
+                                                if (isFlipped) toggleAudio('word');
                                             }}
+                                            tabIndex={isFlipped ? 0 : -1}
                                             aria-label={
-                                                !isSpeaking
+                                                audioSource !== 'word' || !isSpeaking
                                                     ? 'Escuchar pronunciación'
                                                     : isPaused
                                                         ? 'Reanudar audio'
                                                         : 'Pausar audio'
                                             }
                                             title={
-                                                !isSpeaking
+                                                audioSource !== 'word' || !isSpeaking
                                                     ? 'Escuchar'
                                                     : isPaused
                                                         ? 'Reanudar'
@@ -367,7 +406,7 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                                             }
                                         >
                                             <span aria-hidden="true">
-                                                {!isSpeaking ? '🔊' : isPaused ? '▶' : '⏸'}
+                                                {audioSource !== 'word' || !isSpeaking ? '🔊' : isPaused ? '▶' : '⏸'}
                                             </span>
                                         </button>
                                     </div>
