@@ -4,6 +4,26 @@
   "revisado": "true",
   "cards": [
     {
+      "id": "c22",
+      "image_url": "",
+      "hex": "",
+      "es": "El color",
+      "translations": {
+        "it": "Il colore",
+        "pt": "A cor",
+        "fr": "La couleur",
+        "en": "The color",
+        "de": "Die Farbe"
+      },
+      "notes": {
+        "it": "(Plural: I colori)",
+        "pt": "(Plural: As cores)",
+        "fr": "(Plural: Les couleurs)",
+        "en": "(Plural: The colors)",
+        "de": "(Plural: Die Farben)"
+      }
+    },
+    {
       "id": "c1",
       "image_url": "",
       "hex": "#EF4444",
@@ -16,7 +36,7 @@
         "de": "Rot"
       },
       "notes": {
-        "de": "Ante un sustantivo se declina: ein rotes Auto (un coche rojo)."
+        "de": "Ante un sustantivo, el adjetivo lleva la terminación que corresponda: ein rotes Auto (un auto rojo)."
       }
     },
     {
@@ -32,7 +52,7 @@
         "de": "Blau"
       },
       "notes": {
-        "de": "Después de sein no se declina: Das Auto ist blau (el coche es azul)."
+        "de": "Después de sein (ser o estar), el adjetivo no se declina: Das Auto ist blau (el auto es azul)."
       }
     },
     {
@@ -74,7 +94,9 @@
         "de": "Orange"
       },
       "notes": {
-        "de": "Como adjetivo ante un sustantivo puede flexionarse: ein oranges Kleid."
+        "de": "Como adjetivo ante un sustantivo puede flexionarse: ein oranges Kleid (un vestido naranja).",
+        "es": "(Color)",
+        "fr": "Como adjetivo de color, orange es invariable en género y número."
       }
     },
     {
@@ -88,6 +110,9 @@
         "fr": "Violet / Violette",
         "en": "Purple",
         "de": "Violett"
+      },
+      "notes": {
+        "it": "Como adjetivo de color, viola es invariable en género y número."
       }
     },
     {
@@ -103,7 +128,9 @@
         "de": "Rosa"
       },
       "notes": {
-        "de": "Como adjetivo de color suele ser invariable: eine rosa Bluse."
+        "de": "Como adjetivo de color suele ser invariable: eine rosa Bluse (una blusa rosa).",
+        "es": "(Color)",
+        "it": "Como adjetivo de color, rosa es invariable en género y número."
       }
     },
     {
@@ -132,7 +159,7 @@
         "de": "Weiß"
       },
       "notes": {
-        "de": "La letra ß equivale aquí a una doble s en la ortografía suiza: weiss."
+        "de": "La grafía en Alemania es weiß; en Suiza se escribe weiss."
       }
     },
     {
@@ -159,6 +186,109 @@
         "fr": "Marron",
         "en": "Brown",
         "de": "Braun"
+      },
+      "notes": {
+        "es": "(Color) Café es habitual en México; marrón es otra denominación del mismo color.",
+        "fr": "Como adjetivo de color, marron es invariable en género y número.",
+        "it": "Marrone tiene la misma forma para ambos géneros; en plural se usa marroni."
+      }
+    },
+    {
+      "id": "c14",
+      "image_url": "",
+      "hex": "#7DD3FC",
+      "es": "Celeste / Azul claro",
+      "translations": {
+        "it": "Azzurro / Azzurra / Celeste",
+        "pt": "Azul-claro",
+        "fr": "Bleu clair",
+        "en": "Light blue",
+        "de": "Hellblau"
+      },
+      "notes": {
+        "it": "Azzurro suele referirse al azul del cielo; celeste, a un tono más pálido. Celeste tiene la misma forma para ambos géneros.",
+        "de": "Hell- indica un tono claro y se une al color: hellblau.",
+        "fr": "Los adjetivos de color compuestos como bleu clair son invariables: une robe bleu clair (un vestido azul claro)."
+      }
+    },
+    {
+      "id": "c18",
+      "image_url": "",
+      "hex": "#000080",
+      "es": "Azul marino",
+      "translations": {
+        "it": "Blu marino",
+        "pt": "Azul-marinho",
+        "fr": "Bleu marine",
+        "en": "Navy blue",
+        "de": "Marineblau"
+      },
+      "notes": {
+        "fr": "Como adjetivo de color compuesto, bleu marine es invariable en género y número."
+      }
+    },
+    {
+      "id": "c15",
+      "image_url": "",
+      "hex": "#2DD4BF",
+      "es": "Turquesa",
+      "translations": {
+        "it": "Turchese",
+        "pt": "Turquesa",
+        "fr": "Turquoise",
+        "en": "Turquoise",
+        "de": "Türkis"
+      },
+      "notes": {
+        "fr": "Como adjetivo de color, turquoise es invariable en género y número."
+      }
+    },
+    {
+      "id": "c16",
+      "image_url": "",
+      "hex": "#FEF3C7",
+      "es": "Beige",
+      "translations": {
+        "it": "Beige",
+        "pt": "Bege",
+        "fr": "Beige",
+        "en": "Beige",
+        "de": "Beige"
+      }
+    },
+    {
+      "id": "c17",
+      "image_url": "",
+      "hex": "#7F1D1D",
+      "es": "Rojo vino / Borgoña",
+      "translations": {
+        "it": "Bordeaux",
+        "pt": "Vinho / Bordô",
+        "fr": "Bordeaux",
+        "en": "Burgundy",
+        "de": "Weinrot / Bordeauxrot"
+      },
+      "notes": {
+        "es": "(Color) Borgoña también se denomina burdeos.",
+        "de": "Weinrot significa rojo vino; Bordeauxrot, burdeos.",
+        "fr": "Como adjetivo de color, bordeaux es invariable en género y número."
+      }
+    },
+    {
+      "id": "c19",
+      "image_url": "",
+      "hex": "#C8A2C8",
+      "es": "Lila",
+      "translations": {
+        "it": "Lilla",
+        "pt": "Lilás",
+        "fr": "Lilas",
+        "en": "Lilac",
+        "de": "Fliederfarben / Lila"
+      },
+      "notes": {
+        "fr": "Como adjetivo de color, lilas es invariable en género y número.",
+        "de": "Lila suele ser invariable ante un sustantivo; fliederfarben admite terminaciones adjetivales."
       }
     },
     {
@@ -194,92 +324,6 @@
       }
     },
     {
-      "id": "c14",
-      "image_url": "",
-      "hex": "#7DD3FC",
-      "es": "Celeste / Azul claro",
-      "translations": {
-        "it": "Azzurro / Azzurra / Celeste",
-        "pt": "Azul-claro",
-        "fr": "Bleu clair / Bleue claire",
-        "en": "Light blue",
-        "de": "Hellblau"
-      },
-      "notes": {
-        "it": "Azzurro suele referirse al azul del cielo; celeste, a un tono más pálido.",
-        "de": "Hell- indica un tono claro y se une al color: hellblau."
-      }
-    },
-    {
-      "id": "c15",
-      "image_url": "",
-      "hex": "#2DD4BF",
-      "es": "Turquesa",
-      "translations": {
-        "it": "Turchese",
-        "pt": "Turquesa",
-        "fr": "Turquoise",
-        "en": "Turquoise",
-        "de": "Türkis"
-      }
-    },
-    {
-      "id": "c16",
-      "image_url": "",
-      "hex": "#FEF3C7",
-      "es": "Beige",
-      "translations": {
-        "it": "Beige",
-        "pt": "Bege",
-        "fr": "Beige",
-        "en": "Beige",
-        "de": "Beige"
-      }
-    },
-    {
-      "id": "c17",
-      "image_url": "",
-      "hex": "#7F1D1D",
-      "es": "Rojo vino / Borgoña",
-      "translations": {
-        "it": "Bordeaux",
-        "pt": "Vinho / Bordô",
-        "fr": "Bordeaux",
-        "en": "Burgundy",
-        "de": "Weinrot / Bordeauxrot"
-      },
-      "notes": {
-        "es": "Borgoña también se denomina burdeos.",
-        "de": "Weinrot significa rojo vino; Bordeauxrot, burdeos."
-      }
-    },
-    {
-      "id": "c18",
-      "image_url": "",
-      "hex": "#000080",
-      "es": "Azul marino",
-      "translations": {
-        "it": "Blu marino",
-        "pt": "Azul-marinho",
-        "fr": "Bleu marine",
-        "en": "Navy blue",
-        "de": "Marineblau"
-      }
-    },
-    {
-      "id": "c19",
-      "image_url": "",
-      "hex": "#C8A2C8",
-      "es": "Lila",
-      "translations": {
-        "it": "Lilla",
-        "pt": "Lilás",
-        "fr": "Lilas",
-        "en": "Lilac",
-        "de": "Fliederfarben / Lila"
-      }
-    },
-    {
       "id": "c20",
       "image_url": "",
       "hex": "",
@@ -292,7 +336,7 @@
         "de": "Hell"
       },
       "notes": {
-        "es": "Se refiere a la tonalidad de un color.",
+        "es": "(Tonalidad de un color)",
         "de": "Como prefijo se une al color: hellgrün."
       }
     },
@@ -309,7 +353,7 @@
         "de": "Dunkel"
       },
       "notes": {
-        "es": "Se refiere a la tonalidad de un color.",
+        "es": "(Tonalidad de un color)",
         "de": "Como prefijo se une al color: dunkelblau."
       }
     }
