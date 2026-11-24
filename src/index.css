@@ -1089,3 +1089,39 @@ html, body {
         gap: 8px !important;
     }
 }
+
+/* Contextual examples: flexible height and independent pronunciation. */
+.flashcard-example {
+    width: 100%;
+    max-width: 580px;
+    min-width: 0;
+    margin-top: 4px;
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
+    overflow-wrap: anywhere;
+}
+
+.flashcard-example-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.flashcard-example-row strong {
+    min-width: 0;
+    font-size: clamp(0.95rem, 3.5vw, 1.1rem);
+    line-height: 1.5;
+    color: var(--text);
+}
+
+.flashcard-example-row .flashcard-audio-btn {
+    flex-shrink: 0;
+}
+
+.flashcard-example p {
+    margin: 6px 0 0;
+    font-size: clamp(0.85rem, 3vw, 0.95rem);
+    line-height: 1.5;
+    color: var(--muted);
+}
