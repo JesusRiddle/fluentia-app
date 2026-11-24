@@ -150,7 +150,7 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - [ ] Alternativas completas con el separador establecido.
 - [ ] Contracciones naturales, coloquialismos y abreviaturas en notas cuando corresponda; apóstrofos rectos.
 - [ ] Notas en español, breves y asociadas al idioma pertinente.
-- [ ] Registro, intensidad y significado conservados.
+- [ ] Registro, intensidad y significado conservados; variantes de tratamiento ordenadas y etiquetas de registro en notas.
 - [ ] Falsos amigos relevantes aclarados en notas.
 - [ ] Significados distintos separados y ambigüedades aclaradas mediante notas parentéticas cuando corresponda.
 
@@ -207,16 +207,23 @@ Ejemplo: `En realidad` → `Actually`. Nota en inglés: `Falso amigo: No signifi
 - **POL-03 (R).** Preferir expresiones naturales que desambigüen por sí mismas, sin añadir aclaraciones redundantes: `La llave de agua`, `La llave de paso`, `La planta de interior`.
 - **POL-04 (C).** Mantener la aclaración accesible en la cara de la tarjeta que presenta la ambigüedad, especialmente en la nota española cuando el término de referencia admite varios sentidos.
 
-## 19. Decisiones pendientes
+## 19. Formalidad y tratamiento personal
+
+- **TRA-01 (O).** Agrupar las variantes de tratamiento de una misma intención comunicativa en una tarjeta, separadas por ` / `, primero la informal y después la formal. No repetir una traducción idéntica cuando el idioma no distinga ambos tratamientos.
+- **TRA-02 (C).** Mantener tarjetas independientes cuando se enseñen expresiones inherentemente distintas por registro, no meras flexiones de tratamiento. Trasladar las aclaraciones de registro del texto principal a las notas.
+- **TRA-03 (C).** Indicar registros mediante aclaraciones parentéticas breves sin punto final: `(Formal)`, `(Informal)`, `(Coloquial)`, `(Vulgar)`, `(Ofensivo)`, `(Despectivo)`. Añadir explicaciones de uso cuando sea necesario. Conservar la etiqueta `Coloquial:` para variantes alternativas según CON-02.
+
+## 20. Decisiones pendientes
 
 Los siguientes temas requieren una definición posterior y no constituyen nuevas reglas obligatorias:
 
-- Tratamientos personales y formalidad: convenciones detalladas.
+- Convenciones culturales de tratamiento y criterios de inclusión de variantes regionales en notas (pendiente de aprobación).
+- Confirmar si el formato de plural se cambia a aclaración parentética, por ejemplo, `(Plural: The houses)`.
 - Criterios específicos de repetición entre niveles.
 - Nomenclatura de archivos e identificadores nuevos.
 - Incorporación de futuros idiomas y plan de migración de módulos al alemán.
 
-## 20. Mantenimiento de la guía
+## 21. Mantenimiento de la guía
 
 Actualizar este documento cuando se acuerde una nueva regla editorial. Registrar las excepciones justificadas en el cambio correspondiente. Los ejemplos son ilustrativos, no listas exhaustivas ni esquemas alternativos. Ante una incompatibilidad técnica, resolverla explícitamente antes de cambiar el formato de los JSON.
 
