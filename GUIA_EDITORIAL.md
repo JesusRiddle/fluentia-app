@@ -152,6 +152,7 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - [ ] Notas en español, breves y asociadas al idioma pertinente.
 - [ ] Registro, intensidad y significado conservados.
 - [ ] Falsos amigos relevantes aclarados en notas.
+- [ ] Significados distintos separados y ambigüedades aclaradas mediante notas parentéticas cuando corresponda.
 
 ### Pasada 3: pedagógica
 
@@ -199,17 +200,23 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 
 Ejemplo: `En realidad` → `Actually`. Nota en inglés: `Falso amigo: No significa «actualmente». Para expresar «actualmente» se utiliza «currently».`
 
-## 18. Decisiones pendientes
+## 18. Homónimos y polisemia
+
+- **POL-01 (O).** Crear tarjetas independientes para cada significado relevante de una palabra cuando cambie el concepto o la equivalencia lingüística. El separador ` / ` se reserva para alternativas del mismo significado, conforme a ALT-02.
+- **POL-02 (C).** Cuando el texto principal sea ambiguo, añadir una aclaración breve entre paréntesis en las notas correspondientes, sin la etiqueta «Contexto:». Para fragmentos nominales no usar punto: `(Entidad financiera)`, `(Asiento para varias personas)`. Si la nota parentética constituye una oración completa autónoma, colocar el punto antes del cierre: `(Se refiere a una entidad financiera.)`.
+- **POL-03 (R).** Preferir expresiones naturales que desambigüen por sí mismas, sin añadir aclaraciones redundantes: `La llave de agua`, `La llave de paso`, `La planta de interior`.
+- **POL-04 (C).** Mantener la aclaración accesible en la cara de la tarjeta que presenta la ambigüedad, especialmente en la nota española cuando el término de referencia admite varios sentidos.
+
+## 19. Decisiones pendientes
 
 Los siguientes temas requieren una definición posterior y no constituyen nuevas reglas obligatorias:
 
-- Homónimos y polisemia.
 - Tratamientos personales y formalidad: convenciones detalladas.
 - Criterios específicos de repetición entre niveles.
 - Nomenclatura de archivos e identificadores nuevos.
 - Incorporación de futuros idiomas y plan de migración de módulos al alemán.
 
-## 19. Mantenimiento de la guía
+## 20. Mantenimiento de la guía
 
 Actualizar este documento cuando se acuerde una nueva regla editorial. Registrar las excepciones justificadas en el cambio correspondiente. Los ejemplos son ilustrativos, no listas exhaustivas ni esquemas alternativos. Ante una incompatibilidad técnica, resolverla explícitamente antes de cambiar el formato de los JSON.
 
