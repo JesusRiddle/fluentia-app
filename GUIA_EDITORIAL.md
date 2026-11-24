@@ -232,11 +232,29 @@ Ejemplo: `En realidad` → `Actually`. Nota en inglés: `Falso amigo: No signifi
 - **NOM-04 (O).** Organizar las tarjetas semánticamente dentro del arreglo `cards`. Insertar toda tarjeta nueva en su bloque temático correspondiente, independientemente de su identificador numérico. No añadirla al final por mera conveniencia ni ordenar por ID. Ejemplo: insertar `food_6` (El melón) junto a las frutas, antes de `food_4` (La zanahoria), sin cambiar los IDs existentes.
 - **NOM-05 (O).** Asignar nuevos números independientemente de la posición, comprobando que no se hayan utilizado previamente; consultar el historial cuando sea necesario. No incorporar un campo de orden adicional: la posición dentro de `cards` define el orden de estudio.
 
-## 22. Decisiones pendientes
+## 22. Incorporación de idiomas
 
-Los siguientes temas requieren una definición posterior y no constituyen nuevas reglas obligatorias:
+Esta sección documenta la estrategia existente de Fluentia; no requiere cambios funcionales ni pruebas automatizadas.
 
-- Incorporación de futuros idiomas y plan de migración de módulos al alemán.
+- **IDI-06 (O).** Mantener un único JSON multilingüe por módulo. Incorporar el idioma mediante su clave en `translations` y, cuando corresponda, en `notes`, sin crear archivos independientes por idioma.
+- **IDI-07 (O).** Definir antes de incorporar un idioma su clave, variante regional, sistema de escritura y convenciones lingüísticas pertinentes. Documentar las reglas particulares cuando se decida incorporar ese idioma.
+- **IDI-08 (O).** Incorporar nuevos idiomas progresivamente, módulo por módulo, como se hace actualmente con alemán. Traducir y revisar todas las tarjetas del módulo antes de publicar el idioma en él. No publicar traducciones parciales ni añadir una traducción provisional a la primera tarjeta.
+- **IDI-09 (O).** Preservar los identificadores, el orden semántico, las traducciones y notas de los demás idiomas y los metadatos existentes. No eliminar conceptos por dificultad de traducción. Realizar las tres pasadas de auditoría antes de publicar.
+- **IDI-10 (C).** Cuando se incorpore efectivamente un idioma nuevo a la aplicación, registrar su opción en el selector de `src/App.jsx` y su configuración regional de síntesis de voz en `src/components/StudyMode.jsx` y `src/components/PracticeMode.jsx`. Esta guía no modifica dichas configuraciones actuales.
+
+### Disponibilidad en la implementación actual
+
+`src/App.jsx` comprueba si la primera tarjeta contiene una traducción no vacía para el idioma seleccionado:
+
+```javascript
+const languageAvailable = Boolean(
+    activeModule?.cards?.[0]?.translations?.[targetLang]?.trim()
+);
+```
+
+Si la primera traducción existe, la aplicación considera disponible el módulo completo; si no existe, muestra «Idioma no disponible». No comprueba individualmente todas las tarjetas. Por ello, la integridad de la traducción completa es un requisito editorial previo a publicar y no debe confundirse con una validación automática.
+
+Los módulos que aún no se hayan migrado al alemán conservan su cobertura anterior. La migración se realizará por módulos completos, sin imponer un calendario ni alterar la arquitectura existente.
 
 ## 23. Mantenimiento de la guía
 
