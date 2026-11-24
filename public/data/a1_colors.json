@@ -4,6 +4,48 @@
   "revisado": "true",
   "cards": [
     {
+      "id": "c22",
+      "image_url": "",
+      "hex": "",
+      "es": "El color",
+      "translations": {
+        "it": "Il colore",
+        "pt": "A cor",
+        "fr": "La couleur",
+        "en": "The color",
+        "de": "Die Farbe"
+      },
+      "notes": {
+        "it": "(Plural: I colori)",
+        "pt": "(Plural: As cores)",
+        "fr": "(Plural: Les couleurs)",
+        "en": "(Plural: The colors)",
+        "de": "(Plural: Die Farben)"
+      },
+      "examples": {
+        "it": {
+          "text": "Mi piace questo colore.",
+          "es": "Me gusta este color."
+        },
+        "pt": {
+          "text": "Eu gosto desta cor.",
+          "es": "Me gusta este color."
+        },
+        "fr": {
+          "text": "J'aime cette couleur.",
+          "es": "Me gusta este color."
+        },
+        "en": {
+          "text": "I like this color.",
+          "es": "Me gusta este color."
+        },
+        "de": {
+          "text": "Ich mag diese Farbe.",
+          "es": "Me gusta este color."
+        }
+      }
+    },
+    {
       "id": "c1",
       "image_url": "",
       "hex": "#EF4444",
@@ -16,7 +58,29 @@
         "de": "Rot"
       },
       "notes": {
-        "de": "Ante un sustantivo se declina: ein rotes Auto (un coche rojo)."
+        "de": "Ante un sustantivo, el adjetivo lleva la terminación que corresponda: ein rotes Auto (un auto rojo)."
+      },
+      "examples": {
+        "it": {
+          "text": "Il vestito rosso è molto elegante.",
+          "es": "El vestido rojo es muy elegante."
+        },
+        "pt": {
+          "text": "O vestido vermelho é muito elegante.",
+          "es": "El vestido rojo es muy elegante."
+        },
+        "fr": {
+          "text": "La robe rouge est très élégante.",
+          "es": "El vestido rojo es muy elegante."
+        },
+        "en": {
+          "text": "The red dress is very elegant.",
+          "es": "El vestido rojo es muy elegante."
+        },
+        "de": {
+          "text": "Das rote Kleid ist sehr elegant.",
+          "es": "El vestido rojo es muy elegante."
+        }
       }
     },
     {
@@ -32,7 +96,29 @@
         "de": "Blau"
       },
       "notes": {
-        "de": "Después de sein no se declina: Das Auto ist blau (el coche es azul)."
+        "de": "Después de sein (ser o estar), el adjetivo no se declina: Das Auto ist blau (el auto es azul)."
+      },
+      "examples": {
+        "it": {
+          "text": "Il mio zaino è blu.",
+          "es": "Mi mochila es azul."
+        },
+        "pt": {
+          "text": "Minha mochila é azul.",
+          "es": "Mi mochila es azul."
+        },
+        "fr": {
+          "text": "Mon sac à dos est bleu.",
+          "es": "Mi mochila es azul."
+        },
+        "en": {
+          "text": "My backpack is blue.",
+          "es": "Mi mochila es azul."
+        },
+        "de": {
+          "text": "Mein Rucksack ist blau.",
+          "es": "Mi mochila es azul."
+        }
       }
     },
     {
@@ -46,6 +132,28 @@
         "fr": "Jaune",
         "en": "Yellow",
         "de": "Gelb"
+      },
+      "examples": {
+        "it": {
+          "text": "La banana è gialla.",
+          "es": "El plátano es amarillo."
+        },
+        "pt": {
+          "text": "A banana é amarela.",
+          "es": "El plátano es amarillo."
+        },
+        "fr": {
+          "text": "La banane est jaune.",
+          "es": "El plátano es amarillo."
+        },
+        "en": {
+          "text": "The banana is yellow.",
+          "es": "El plátano es amarillo."
+        },
+        "de": {
+          "text": "Die Banane ist gelb.",
+          "es": "El plátano es amarillo."
+        }
       }
     },
     {
@@ -59,6 +167,28 @@
         "fr": "Vert / Verte",
         "en": "Green",
         "de": "Grün"
+      },
+      "examples": {
+        "it": {
+          "text": "La porta è verde.",
+          "es": "La puerta es verde."
+        },
+        "pt": {
+          "text": "A porta é verde.",
+          "es": "La puerta es verde."
+        },
+        "fr": {
+          "text": "La porte est verte.",
+          "es": "La puerta es verde."
+        },
+        "en": {
+          "text": "The door is green.",
+          "es": "La puerta es verde."
+        },
+        "de": {
+          "text": "Die Tür ist grün.",
+          "es": "La puerta es verde."
+        }
       }
     },
     {
@@ -74,7 +204,32 @@
         "de": "Orange"
       },
       "notes": {
-        "de": "Como adjetivo ante un sustantivo puede flexionarse: ein oranges Kleid."
+        "de": "En el uso estándar puede mantenerse invariable ante un sustantivo: das orange Hemd (la camisa naranja). También se usa orangefarben con terminaciones adjetivales.",
+        "es": "(Color)",
+        "fr": "Como adjetivo de color, orange es invariable en género y número.",
+        "it": "Tiene la misma forma para ambos géneros; en plural se admite arancioni o arancione."
+      },
+      "examples": {
+        "it": {
+          "text": "Ho una maglietta arancione.",
+          "es": "Tengo una playera naranja."
+        },
+        "pt": {
+          "text": "Tenho uma camiseta laranja.",
+          "es": "Tengo una playera naranja."
+        },
+        "fr": {
+          "text": "J'ai un t-shirt orange.",
+          "es": "Tengo una playera naranja."
+        },
+        "en": {
+          "text": "I have an orange T-shirt.",
+          "es": "Tengo una playera naranja."
+        },
+        "de": {
+          "text": "Mein T-Shirt ist orange.",
+          "es": "Mi playera es naranja."
+        }
       }
     },
     {
@@ -88,6 +243,31 @@
         "fr": "Violet / Violette",
         "en": "Purple",
         "de": "Violett"
+      },
+      "notes": {
+        "it": "Como adjetivo de color, viola es invariable en género y número."
+      },
+      "examples": {
+        "it": {
+          "text": "La gonna è viola.",
+          "es": "La falda es morada."
+        },
+        "pt": {
+          "text": "A saia é roxa.",
+          "es": "La falda es morada."
+        },
+        "fr": {
+          "text": "La jupe est violette.",
+          "es": "La falda es morada."
+        },
+        "en": {
+          "text": "The skirt is purple.",
+          "es": "La falda es morada."
+        },
+        "de": {
+          "text": "Der Rock ist violett.",
+          "es": "La falda es morada."
+        }
       }
     },
     {
@@ -103,7 +283,32 @@
         "de": "Rosa"
       },
       "notes": {
-        "de": "Como adjetivo de color suele ser invariable: eine rosa Bluse."
+        "de": "Como adjetivo de color suele ser invariable: eine rosa Bluse (una blusa rosa).",
+        "es": "(Color)",
+        "it": "Como adjetivo de color, rosa es invariable en género y número.",
+        "fr": "El adjetivo rose no cambia con el género, pero sí con el número: des robes roses (unos vestidos rosas)."
+      },
+      "examples": {
+        "it": {
+          "text": "Vorrei una camicetta rosa.",
+          "es": "Quisiera una blusa rosa."
+        },
+        "pt": {
+          "text": "Quero uma blusa rosa.",
+          "es": "Quiero una blusa rosa."
+        },
+        "fr": {
+          "text": "Je veux un chemisier rose.",
+          "es": "Quiero una blusa rosa."
+        },
+        "en": {
+          "text": "I want a pink blouse.",
+          "es": "Quiero una blusa rosa."
+        },
+        "de": {
+          "text": "Ich möchte eine rosa Bluse.",
+          "es": "Quisiera una blusa rosa."
+        }
       }
     },
     {
@@ -117,6 +322,28 @@
         "fr": "Noir / Noire",
         "en": "Black",
         "de": "Schwarz"
+      },
+      "examples": {
+        "it": {
+          "text": "Le mie scarpe sono nere.",
+          "es": "Mis zapatos son negros."
+        },
+        "pt": {
+          "text": "Meus sapatos são pretos.",
+          "es": "Mis zapatos son negros."
+        },
+        "fr": {
+          "text": "Mes chaussures sont noires.",
+          "es": "Mis zapatos son negros."
+        },
+        "en": {
+          "text": "My shoes are black.",
+          "es": "Mis zapatos son negros."
+        },
+        "de": {
+          "text": "Meine Schuhe sind schwarz.",
+          "es": "Mis zapatos son negros."
+        }
       }
     },
     {
@@ -132,7 +359,29 @@
         "de": "Weiß"
       },
       "notes": {
-        "de": "La letra ß equivale aquí a una doble s en la ortografía suiza: weiss."
+        "de": "La grafía en Alemania es weiß; en Suiza se escribe weiss."
+      },
+      "examples": {
+        "it": {
+          "text": "Il tavolo è bianco.",
+          "es": "La mesa es blanca."
+        },
+        "pt": {
+          "text": "A mesa é branca.",
+          "es": "La mesa es blanca."
+        },
+        "fr": {
+          "text": "La table est blanche.",
+          "es": "La mesa es blanca."
+        },
+        "en": {
+          "text": "The table is white.",
+          "es": "La mesa es blanca."
+        },
+        "de": {
+          "text": "Der Tisch ist weiß.",
+          "es": "La mesa es blanca."
+        }
       }
     },
     {
@@ -146,6 +395,31 @@
         "fr": "Gris / Grise",
         "en": "Gray",
         "de": "Grau"
+      },
+      "examples": {
+        "it": {
+          "text": "Il gatto è grigio.",
+          "es": "El gato es gris."
+        },
+        "pt": {
+          "text": "O gato é cinza.",
+          "es": "El gato es gris."
+        },
+        "fr": {
+          "text": "Le chat est gris.",
+          "es": "El gato es gris."
+        },
+        "en": {
+          "text": "The cat is gray.",
+          "es": "El gato es gris."
+        },
+        "de": {
+          "text": "Der Kater ist grau.",
+          "es": "El gato es gris."
+        }
+      },
+      "notes": {
+        "en": "(Reino Unido: Grey)"
       }
     },
     {
@@ -159,38 +433,33 @@
         "fr": "Marron",
         "en": "Brown",
         "de": "Braun"
-      }
-    },
-    {
-      "id": "c12",
-      "image_url": "",
-      "hex": "#E5E7EB",
-      "es": "Plateado / Plateada",
-      "translations": {
-        "it": "Argentato / Argentata",
-        "pt": "Prateado / Prateada",
-        "fr": "Argenté / Argentée",
-        "en": "Silver",
-        "de": "Silberfarben"
       },
       "notes": {
-        "de": "Indica color plateado; Silber significa plata (el metal)."
-      }
-    },
-    {
-      "id": "c13",
-      "image_url": "",
-      "hex": "#F59E0B",
-      "es": "Dorado / Dorada",
-      "translations": {
-        "it": "Dorato / Dorata",
-        "pt": "Dourado / Dourada",
-        "fr": "Doré / Dorée",
-        "en": "Gold",
-        "de": "Goldfarben"
+        "es": "(Color) Café es habitual en México; marrón es otra denominación del mismo color.",
+        "fr": "Como adjetivo de color, marron es invariable en género y número.",
+        "it": "Tiene la misma forma para ambos géneros; en plural se usa normalmente marroni, aunque también se admite marrone."
       },
-      "notes": {
-        "de": "Indica color dorado; Gold significa oro (el metal)."
+      "examples": {
+        "it": {
+          "text": "Il divano è marrone.",
+          "es": "El sofá es café."
+        },
+        "pt": {
+          "text": "O sofá é marrom.",
+          "es": "El sofá es café."
+        },
+        "fr": {
+          "text": "Le canapé est marron.",
+          "es": "El sofá es café."
+        },
+        "en": {
+          "text": "The couch is brown.",
+          "es": "El sofá es café."
+        },
+        "de": {
+          "text": "Das Sofa ist braun.",
+          "es": "El sofá es café."
+        }
       }
     },
     {
@@ -200,14 +469,76 @@
       "es": "Celeste / Azul claro",
       "translations": {
         "it": "Azzurro / Azzurra / Celeste",
-        "pt": "Azul-claro",
-        "fr": "Bleu clair / Bleue claire",
+        "pt": "Azul-claro / Azul-clara",
+        "fr": "Bleu clair",
         "en": "Light blue",
         "de": "Hellblau"
       },
       "notes": {
-        "it": "Azzurro suele referirse al azul del cielo; celeste, a un tono más pálido.",
-        "de": "Hell- indica un tono claro y se une al color: hellblau."
+        "it": "Azzurro designa un azul como el del cielo; celeste suele indicar un tono más pálido. Celeste tiene la misma forma para ambos géneros.",
+        "de": "Hell- indica un tono claro y se une al color: hellblau.",
+        "fr": "Los adjetivos de color compuestos como bleu clair son invariables: une robe bleu clair (un vestido azul claro).",
+        "pt": "El segundo elemento concuerda con el sustantivo: uma camisa azul-clara (una camisa azul claro)."
+      },
+      "examples": {
+        "it": {
+          "text": "Il cielo è azzurro.",
+          "es": "El cielo es celeste."
+        },
+        "pt": {
+          "text": "O céu é azul-claro.",
+          "es": "El cielo es azul claro."
+        },
+        "fr": {
+          "text": "Le ciel est bleu clair.",
+          "es": "El cielo es azul claro."
+        },
+        "en": {
+          "text": "The sky is light blue.",
+          "es": "El cielo es azul claro."
+        },
+        "de": {
+          "text": "Der Himmel ist hellblau.",
+          "es": "El cielo es azul claro."
+        }
+      }
+    },
+    {
+      "id": "c18",
+      "image_url": "",
+      "hex": "#000080",
+      "es": "Azul marino",
+      "translations": {
+        "it": "Blu marino",
+        "pt": "Azul-marinho",
+        "fr": "Bleu marine",
+        "en": "Navy blue",
+        "de": "Marineblau"
+      },
+      "notes": {
+        "fr": "Como adjetivo de color compuesto, bleu marine es invariable en género y número."
+      },
+      "examples": {
+        "it": {
+          "text": "La mia giacca è blu marino.",
+          "es": "Mi chamarra es azul marino."
+        },
+        "pt": {
+          "text": "Meu blazer é azul-marinho.",
+          "es": "Mi saco es azul marino."
+        },
+        "fr": {
+          "text": "Ma veste est bleu marine.",
+          "es": "Mi chamarra es azul marino."
+        },
+        "en": {
+          "text": "My jacket is navy blue.",
+          "es": "Mi chamarra es azul marino."
+        },
+        "de": {
+          "text": "Meine Jacke ist marineblau.",
+          "es": "Mi chamarra es azul marino."
+        }
       }
     },
     {
@@ -221,12 +552,37 @@
         "fr": "Turquoise",
         "en": "Turquoise",
         "de": "Türkis"
+      },
+      "notes": {
+        "fr": "Como adjetivo de color, turquoise es invariable en género y número."
+      },
+      "examples": {
+        "it": {
+          "text": "Il mare è turchese.",
+          "es": "El mar es turquesa."
+        },
+        "pt": {
+          "text": "O mar é turquesa.",
+          "es": "El mar es turquesa."
+        },
+        "fr": {
+          "text": "La mer est turquoise.",
+          "es": "El mar es turquesa."
+        },
+        "en": {
+          "text": "The sea is turquoise.",
+          "es": "El mar es turquesa."
+        },
+        "de": {
+          "text": "Das Meer ist türkis.",
+          "es": "El mar es turquesa."
+        }
       }
     },
     {
       "id": "c16",
       "image_url": "",
-      "hex": "#FEF3C7",
+      "hex": "#D9C8AE",
       "es": "Beige",
       "translations": {
         "it": "Beige",
@@ -234,6 +590,28 @@
         "fr": "Beige",
         "en": "Beige",
         "de": "Beige"
+      },
+      "examples": {
+        "it": {
+          "text": "I pantaloni sono beige.",
+          "es": "Los pantalones son beige."
+        },
+        "pt": {
+          "text": "A calça é bege.",
+          "es": "Los pantalones son beige."
+        },
+        "fr": {
+          "text": "Le pantalon est beige.",
+          "es": "Los pantalones son beige."
+        },
+        "en": {
+          "text": "The pants are beige.",
+          "es": "Los pantalones son beige."
+        },
+        "de": {
+          "text": "Die Hose ist beige.",
+          "es": "Los pantalones son beige."
+        }
       }
     },
     {
@@ -249,21 +627,31 @@
         "de": "Weinrot / Bordeauxrot"
       },
       "notes": {
-        "es": "Borgoña también se denomina burdeos.",
-        "de": "Weinrot significa rojo vino; Bordeauxrot, burdeos."
-      }
-    },
-    {
-      "id": "c18",
-      "image_url": "",
-      "hex": "#000080",
-      "es": "Azul marino",
-      "translations": {
-        "it": "Blu marino",
-        "pt": "Azul-marinho",
-        "fr": "Bleu marine",
-        "en": "Navy blue",
-        "de": "Marineblau"
+        "es": "(Color) Borgoña también se denomina burdeos.",
+        "de": "Weinrot significa rojo vino; Bordeauxrot, burdeos.",
+        "fr": "Como adjetivo de color, bordeaux es invariable en género y número."
+      },
+      "examples": {
+        "it": {
+          "text": "La sciarpa è bordeaux.",
+          "es": "La bufanda es color vino."
+        },
+        "pt": {
+          "text": "O cachecol é bordô.",
+          "es": "La bufanda es color vino."
+        },
+        "fr": {
+          "text": "L'écharpe est bordeaux.",
+          "es": "La bufanda es color vino."
+        },
+        "en": {
+          "text": "The scarf is burgundy.",
+          "es": "La bufanda es color vino."
+        },
+        "de": {
+          "text": "Der Schal ist weinrot.",
+          "es": "La bufanda es color vino."
+        }
       }
     },
     {
@@ -277,6 +665,108 @@
         "fr": "Lilas",
         "en": "Lilac",
         "de": "Fliederfarben / Lila"
+      },
+      "notes": {
+        "fr": "Como adjetivo de color, lilas es invariable en género y número.",
+        "de": "Lila suele ser invariable ante un sustantivo; fliederfarben admite terminaciones adjetivales."
+      },
+      "examples": {
+        "it": {
+          "text": "La borsa è lilla.",
+          "es": "La bolsa es lila."
+        },
+        "pt": {
+          "text": "A bolsa é lilás.",
+          "es": "La bolsa es lila."
+        },
+        "fr": {
+          "text": "Le sac est lilas.",
+          "es": "La bolsa es lila."
+        },
+        "en": {
+          "text": "The bag is lilac.",
+          "es": "La bolsa es lila."
+        },
+        "de": {
+          "text": "Die Tasche ist lila.",
+          "es": "La bolsa es lila."
+        }
+      }
+    },
+    {
+      "id": "c12",
+      "image_url": "",
+      "hex": "#C0C0C0",
+      "es": "Plateado / Plateada",
+      "translations": {
+        "it": "Argentato / Argentata",
+        "pt": "Prateado / Prateada",
+        "fr": "Argenté / Argentée",
+        "en": "Silver",
+        "de": "Silberfarben"
+      },
+      "notes": {
+        "de": "Indica color plateado; Silber significa plata (el metal)."
+      },
+      "examples": {
+        "it": {
+          "text": "La macchina è argentata.",
+          "es": "El auto es plateado."
+        },
+        "pt": {
+          "text": "O carro é prateado.",
+          "es": "El auto es plateado."
+        },
+        "fr": {
+          "text": "La voiture est argentée.",
+          "es": "El auto es plateado."
+        },
+        "en": {
+          "text": "The car is silver.",
+          "es": "El auto es plateado."
+        },
+        "de": {
+          "text": "Das Auto ist silberfarben.",
+          "es": "El auto es plateado."
+        }
+      }
+    },
+    {
+      "id": "c13",
+      "image_url": "",
+      "hex": "#D4AF37",
+      "es": "Dorado / Dorada",
+      "translations": {
+        "it": "Dorato / Dorata",
+        "pt": "Dourado / Dourada",
+        "fr": "Doré / Dorée",
+        "en": "Gold",
+        "de": "Goldfarben"
+      },
+      "notes": {
+        "de": "Indica color dorado; Gold significa oro (el metal)."
+      },
+      "examples": {
+        "it": {
+          "text": "La cornice è dorata.",
+          "es": "El marco es dorado."
+        },
+        "pt": {
+          "text": "A moldura é dourada.",
+          "es": "El marco es dorado."
+        },
+        "fr": {
+          "text": "Le cadre est doré.",
+          "es": "El marco es dorado."
+        },
+        "en": {
+          "text": "The frame is gold.",
+          "es": "El marco es dorado."
+        },
+        "de": {
+          "text": "Der Rahmen ist goldfarben.",
+          "es": "El marco es dorado."
+        }
       }
     },
     {
@@ -292,8 +782,32 @@
         "de": "Hell"
       },
       "notes": {
-        "es": "Se refiere a la tonalidad de un color.",
-        "de": "Como prefijo se une al color: hellgrün."
+        "es": "(Tonalidad de un color)",
+        "de": "Como prefijo se une al color: hellgrün.",
+        "en": "(Tonalidad de un color) Light también puede significar ligero o luz, según el contexto.",
+        "fr": "(Tonalidad de un color)"
+      },
+      "examples": {
+        "it": {
+          "text": "Preferisco i colori chiari.",
+          "es": "Prefiero los colores claros."
+        },
+        "pt": {
+          "text": "Prefiro as cores claras.",
+          "es": "Prefiero los colores claros."
+        },
+        "fr": {
+          "text": "Je préfère les couleurs claires.",
+          "es": "Prefiero los colores claros."
+        },
+        "en": {
+          "text": "I prefer light colors.",
+          "es": "Prefiero los colores claros."
+        },
+        "de": {
+          "text": "Ich mag helle Farben lieber.",
+          "es": "Prefiero los colores claros."
+        }
       }
     },
     {
@@ -309,8 +823,32 @@
         "de": "Dunkel"
       },
       "notes": {
-        "es": "Se refiere a la tonalidad de un color.",
-        "de": "Como prefijo se une al color: dunkelblau."
+        "es": "(Tonalidad de un color)",
+        "de": "Como prefijo se une al color: dunkelblau.",
+        "en": "(Tonalidad de un color)",
+        "fr": "(Tonalidad de un color)"
+      },
+      "examples": {
+        "it": {
+          "text": "Mi piacciono i colori scuri.",
+          "es": "Me gustan los colores oscuros."
+        },
+        "pt": {
+          "text": "Gosto de cores escuras.",
+          "es": "Me gustan los colores oscuros."
+        },
+        "fr": {
+          "text": "J'aime les couleurs foncées.",
+          "es": "Me gustan los colores oscuros."
+        },
+        "en": {
+          "text": "I like dark colors.",
+          "es": "Me gustan los colores oscuros."
+        },
+        "de": {
+          "text": "Ich mag dunkle Farben.",
+          "es": "Me gustan los colores oscuros."
+        }
       }
     }
   ]
