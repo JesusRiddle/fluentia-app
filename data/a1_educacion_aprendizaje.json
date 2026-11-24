@@ -4,399 +4,1619 @@
   "cards": [
     {
       "id": "ea1",
-      "es": "Educación y aprendizaje",
+      "es": "La educación y el aprendizaje",
       "translations": {
         "en": "Education and learning",
-        "pt": "Educação e aprendizagem",
-        "fr": "Éducation et apprentissage",
-        "it": "Istruzione e apprendimento"
+        "pt": "A educação e a aprendizagem",
+        "fr": "L'éducation et l'apprentissage",
+        "it": "L'istruzione e l'apprendimento",
+        "de": "Bildung und Lernen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "This book is about education and learning.",
+          "es": "Este libro trata de la educación y el aprendizaje."
+        },
+        "pt": {
+          "text": "Este livro é sobre educação e aprendizagem.",
+          "es": "Este libro trata de la educación y el aprendizaje."
+        },
+        "fr": {
+          "text": "Ce livre parle d'éducation et d'apprentissage.",
+          "es": "Este libro trata de la educación y el aprendizaje."
+        },
+        "it": {
+          "text": "Questo libro parla di istruzione e apprendimento.",
+          "es": "Este libro trata de la educación y el aprendizaje."
+        },
+        "de": {
+          "text": "In diesem Buch geht es um Bildung und Lernen.",
+          "es": "Este libro trata de la educación y el aprendizaje."
+        }
+      }
     },
     {
       "id": "ea2",
-      "es": "Aula / Salón de clases",
+      "es": "El salón de clases / El aula",
       "translations": {
-        "en": "Classroom",
-        "pt": "Sala de aula",
-        "fr": "Salle de classe",
-        "it": "Aula"
+        "en": "The classroom",
+        "pt": "A sala de aula",
+        "fr": "La salle de classe",
+        "it": "L'aula",
+        "de": "Das Klassenzimmer"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The classrooms)",
+        "pt": "(Plural: As salas de aula)",
+        "fr": "(Plural: Les salles de classe)",
+        "it": "(Plural: Le aule)",
+        "de": "(Plural: Die Klassenzimmer)"
+      },
+      "examples": {
+        "en": {
+          "text": "The classroom is open.",
+          "es": "El salón de clases está abierto."
+        },
+        "pt": {
+          "text": "A sala de aula está aberta.",
+          "es": "El salón de clases está abierto."
+        },
+        "fr": {
+          "text": "La salle de classe est ouverte.",
+          "es": "El salón de clases está abierto."
+        },
+        "it": {
+          "text": "L'aula è aperta.",
+          "es": "El salón de clases está abierto."
+        },
+        "de": {
+          "text": "Das Klassenzimmer ist offen.",
+          "es": "El salón de clases está abierto."
+        }
+      }
     },
     {
       "id": "ea3",
-      "es": "Lección (unidad de aprendizaje)",
+      "es": "La lección",
       "translations": {
-        "en": "Lesson",
-        "pt": "Lição",
-        "fr": "Leçon",
-        "it": "Lezione"
+        "en": "The lesson",
+        "pt": "A lição",
+        "fr": "La leçon",
+        "it": "La lezione",
+        "de": "Die Lektion"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Unidad de aprendizaje)",
+        "en": "(Plural: The lessons)",
+        "pt": "(Plural: As lições)",
+        "fr": "(Plural: Les leçons)",
+        "it": "(Plural: Le lezioni)",
+        "de": "(Plural: Die Lektionen)"
+      },
+      "examples": {
+        "en": {
+          "text": "Today's lesson is short.",
+          "es": "La lección de hoy es corta."
+        },
+        "pt": {
+          "text": "A lição de hoje é curta.",
+          "es": "La lección de hoy es corta."
+        },
+        "fr": {
+          "text": "La leçon d'aujourd'hui est courte.",
+          "es": "La lección de hoy es corta."
+        },
+        "it": {
+          "text": "La lezione di oggi è breve.",
+          "es": "La lección de hoy es corta."
+        },
+        "de": {
+          "text": "Die heutige Lektion ist kurz.",
+          "es": "La lección de hoy es corta."
+        }
+      }
     },
     {
       "id": "ea4",
-      "es": "Curso (conjunto de clases)",
+      "es": "El curso",
       "translations": {
-        "en": "Course",
-        "pt": "Curso",
-        "fr": "Cours",
-        "it": "Corso"
+        "en": "The course",
+        "pt": "O curso",
+        "fr": "Le cours",
+        "it": "Il corso",
+        "de": "Der Kurs"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Conjunto de clases)",
+        "en": "(Plural: The courses)",
+        "pt": "(Plural: Os cursos)",
+        "fr": "(Plural: Les cours)",
+        "it": "(Plural: I corsi)",
+        "de": "(Plural: Die Kurse)"
+      },
+      "examples": {
+        "en": {
+          "text": "The course starts on Monday.",
+          "es": "El curso empieza el lunes."
+        },
+        "pt": {
+          "text": "O curso começa na segunda-feira.",
+          "es": "El curso empieza el lunes."
+        },
+        "fr": {
+          "text": "Le cours commence lundi.",
+          "es": "El curso empieza el lunes."
+        },
+        "it": {
+          "text": "Il corso inizia lunedì.",
+          "es": "El curso empieza el lunes."
+        },
+        "de": {
+          "text": "Der Kurs beginnt am Montag.",
+          "es": "El curso empieza el lunes."
+        }
+      }
     },
     {
       "id": "ea5",
-      "es": "Materia / Asignatura",
+      "es": "La materia / La asignatura",
       "translations": {
-        "en": "Subject",
-        "pt": "Matéria / Disciplina",
-        "fr": "Matière",
-        "it": "Materia"
+        "en": "The subject",
+        "pt": "A matéria / A disciplina",
+        "fr": "La matière",
+        "it": "La materia",
+        "de": "Das Schulfach"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The subjects)",
+        "pt": "(Plural: As matérias / As disciplinas)",
+        "fr": "(Plural: Les matières)",
+        "it": "(Plural: Le materie)",
+        "de": "(Plural: Die Schulfächer)"
+      },
+      "examples": {
+        "en": {
+          "text": "My favorite subject is math.",
+          "es": "Mi materia favorita es matemáticas."
+        },
+        "pt": {
+          "text": "Minha matéria favorita é matemática.",
+          "es": "Mi materia favorita es matemáticas."
+        },
+        "fr": {
+          "text": "Ma matière préférée, ce sont les maths.",
+          "es": "Mi materia favorita es matemáticas."
+        },
+        "it": {
+          "text": "La mia materia preferita è matematica.",
+          "es": "Mi materia favorita es matemáticas."
+        },
+        "de": {
+          "text": "Mathe ist mein liebstes Schulfach.",
+          "es": "Mi materia favorita es matemáticas."
+        }
+      }
+    },
+    {
+      "id": "ea90",
+      "es": "El libro",
+      "translations": {
+        "en": "The book",
+        "pt": "O livro",
+        "fr": "Le livre",
+        "it": "Il libro",
+        "de": "Das Buch"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The books)",
+        "pt": "(Plural: Os livros)",
+        "fr": "(Plural: Les livres)",
+        "it": "(Plural: I libri)",
+        "de": "(Plural: Die Bücher)"
+      },
+      "examples": {
+        "en": {
+          "text": "The book is in the backpack.",
+          "es": "El libro está en la mochila."
+        },
+        "pt": {
+          "text": "O livro está na mochila.",
+          "es": "El libro está en la mochila."
+        },
+        "fr": {
+          "text": "Le livre est dans le sac à dos.",
+          "es": "El libro está en la mochila."
+        },
+        "it": {
+          "text": "Il libro è nello zaino.",
+          "es": "El libro está en la mochila."
+        },
+        "de": {
+          "text": "Das Buch ist im Rucksack.",
+          "es": "El libro está en la mochila."
+        }
+      }
+    },
+    {
+      "id": "ea91",
+      "es": "El cuaderno",
+      "translations": {
+        "en": "The notebook",
+        "pt": "O caderno",
+        "fr": "Le cahier",
+        "it": "Il quaderno",
+        "de": "Das Heft"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The notebooks)",
+        "pt": "(Plural: Os cadernos)",
+        "fr": "(Plural: Les cahiers)",
+        "it": "(Plural: I quaderni)",
+        "de": "(Plural: Die Hefte)"
+      },
+      "examples": {
+        "en": {
+          "text": "I write the date in my notebook.",
+          "es": "Escribo la fecha en mi cuaderno."
+        },
+        "pt": {
+          "text": "Escrevo a data no meu caderno.",
+          "es": "Escribo la fecha en mi cuaderno."
+        },
+        "fr": {
+          "text": "J'écris la date dans mon cahier.",
+          "es": "Escribo la fecha en mi cuaderno."
+        },
+        "it": {
+          "text": "Scrivo la data sul mio quaderno.",
+          "es": "Escribo la fecha en mi cuaderno."
+        },
+        "de": {
+          "text": "Ich schreibe das Datum in mein Heft.",
+          "es": "Escribo la fecha en mi cuaderno."
+        }
+      }
     },
     {
       "id": "ea6",
-      "es": "Pizarra / Pizarrón",
+      "es": "El pizarrón / La pizarra",
       "translations": {
-        "en": "Board / Blackboard",
-        "pt": "Quadro / Lousa",
-        "fr": "Tableau",
-        "it": "Lavagna"
+        "en": "The board",
+        "pt": "O quadro / A lousa",
+        "fr": "Le tableau",
+        "it": "La lavagna",
+        "de": "Die Tafel"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The boards)",
+        "pt": "(Plural: Os quadros / As lousas)",
+        "fr": "(Plural: Les tableaux)",
+        "it": "(Plural: Le lavagne)",
+        "de": "(Plural: Die Tafeln)"
+      },
+      "examples": {
+        "en": {
+          "text": "The teacher is writing on the board.",
+          "es": "El maestro está escribiendo en el pizarrón."
+        },
+        "pt": {
+          "text": "O professor escreve no quadro.",
+          "es": "El maestro escribe en el pizarrón."
+        },
+        "fr": {
+          "text": "Le professeur écrit au tableau.",
+          "es": "El maestro escribe en el pizarrón."
+        },
+        "it": {
+          "text": "Il professore scrive alla lavagna.",
+          "es": "El maestro escribe en el pizarrón."
+        },
+        "de": {
+          "text": "Der Lehrer schreibt an die Tafel.",
+          "es": "El maestro escribe en el pizarrón."
+        }
+      }
     },
     {
       "id": "ea7",
-      "es": "Pizarra blanca (para marcadores)",
+      "es": "El pizarrón blanco",
       "translations": {
-        "en": "Whiteboard",
-        "pt": "Quadro branco",
-        "fr": "Tableau blanc",
-        "it": "Lavagna bianca"
+        "en": "The whiteboard",
+        "pt": "O quadro branco",
+        "fr": "Le tableau blanc",
+        "it": "La lavagna bianca",
+        "de": "Das Whiteboard"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The whiteboards)",
+        "pt": "(Plural: Os quadros brancos)",
+        "fr": "(Plural: Les tableaux blancs)",
+        "it": "(Plural: Le lavagne bianche)",
+        "de": "(Plural: Die Whiteboards)"
+      },
+      "examples": {
+        "en": {
+          "text": "Write your name on the whiteboard.",
+          "es": "Escribe tu nombre en el pizarrón blanco."
+        },
+        "pt": {
+          "text": "Escreva seu nome no quadro branco.",
+          "es": "Escribe tu nombre en el pizarrón blanco."
+        },
+        "fr": {
+          "text": "Écris ton nom sur le tableau blanc.",
+          "es": "Escribe tu nombre en el pizarrón blanco."
+        },
+        "it": {
+          "text": "Scrivi il tuo nome sulla lavagna bianca.",
+          "es": "Escribe tu nombre en el pizarrón blanco."
+        },
+        "de": {
+          "text": "Schreib deinen Namen auf das Whiteboard.",
+          "es": "Escribe tu nombre en el pizarrón blanco."
+        }
+      }
     },
     {
       "id": "ea8",
-      "es": "Tiza / Gis",
+      "es": "El gis / La tiza",
       "translations": {
-        "en": "Chalk",
-        "pt": "Giz",
-        "fr": "Craie",
-        "it": "Gesso"
+        "en": "The chalk",
+        "pt": "O giz",
+        "fr": "La craie",
+        "it": "Il gesso",
+        "de": "Die Kreide"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Material para escribir en el pizarrón)"
+      },
+      "examples": {
+        "en": {
+          "text": "I need some chalk for the board.",
+          "es": "Necesito gis para el pizarrón."
+        },
+        "pt": {
+          "text": "Preciso de giz para o quadro.",
+          "es": "Necesito gis para el pizarrón."
+        },
+        "fr": {
+          "text": "J'ai besoin de craie pour le tableau.",
+          "es": "Necesito gis para el pizarrón."
+        },
+        "it": {
+          "text": "Mi serve del gesso per la lavagna.",
+          "es": "Necesito gis para el pizarrón."
+        },
+        "de": {
+          "text": "Ich brauche Kreide für die Tafel.",
+          "es": "Necesito gis para el pizarrón."
+        }
+      }
+    },
+    {
+      "id": "ea92",
+      "es": "El lápiz",
+      "translations": {
+        "en": "The pencil",
+        "pt": "O lápis",
+        "fr": "Le crayon à papier",
+        "it": "La matita",
+        "de": "Der Bleistift"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The pencils)",
+        "pt": "(Plural: Os lápis)",
+        "fr": "(Plural: Les crayons à papier) También se usa «le crayon» cuando el contexto es claro.",
+        "it": "(Plural: Le matite)",
+        "de": "(Plural: Die Bleistifte)"
+      },
+      "examples": {
+        "en": {
+          "text": "I draw a circle with a pencil.",
+          "es": "Dibujo un círculo con un lápiz."
+        },
+        "pt": {
+          "text": "Desenho um círculo com um lápis.",
+          "es": "Dibujo un círculo con un lápiz."
+        },
+        "fr": {
+          "text": "Je dessine un cercle avec un crayon à papier.",
+          "es": "Dibujo un círculo con un lápiz."
+        },
+        "it": {
+          "text": "Disegno un cerchio con una matita.",
+          "es": "Dibujo un círculo con un lápiz."
+        },
+        "de": {
+          "text": "Ich zeichne mit einem Bleistift einen Kreis.",
+          "es": "Dibujo un círculo con un lápiz."
+        }
+      }
+    },
+    {
+      "id": "ea93",
+      "es": "La pluma / El bolígrafo",
+      "translations": {
+        "en": "The ballpoint pen",
+        "pt": "A caneta esferográfica",
+        "fr": "Le stylo à bille",
+        "it": "La penna a sfera",
+        "de": "Der Kugelschreiber"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The ballpoint pens)",
+        "pt": "(Plural: As canetas esferográficas)",
+        "fr": "(Plural: Les stylos à bille)",
+        "it": "(Plural: Le penne a sfera)",
+        "de": "(Plural: Die Kugelschreiber)",
+        "es": "(De tinta, con punta de bola)"
+      },
+      "examples": {
+        "en": {
+          "text": "I write my name with a blue ballpoint pen.",
+          "es": "Escribo mi nombre con un bolígrafo azul."
+        },
+        "pt": {
+          "text": "Escrevo meu nome com uma caneta esferográfica azul.",
+          "es": "Escribo mi nombre con un bolígrafo azul."
+        },
+        "fr": {
+          "text": "J'écris mon nom avec un stylo à bille bleu.",
+          "es": "Escribo mi nombre con un bolígrafo azul."
+        },
+        "it": {
+          "text": "Scrivo il mio nome con una penna a sfera blu.",
+          "es": "Escribo mi nombre con un bolígrafo azul."
+        },
+        "de": {
+          "text": "Ich schreibe meinen Namen mit einem blauen Kugelschreiber.",
+          "es": "Escribo mi nombre con un bolígrafo azul."
+        }
+      }
     },
     {
       "id": "ea9",
-      "es": "Marcador / Plumón (de punta de fieltro)",
+      "es": "El plumón / El marcador",
       "translations": {
-        "en": "Marker / Felt-tip pen",
-        "pt": "Caneta hidrográfica",
-        "fr": "Feutre / Marqueur",
-        "it": "Pennarello"
+        "en": "The marker",
+        "pt": "A caneta hidrográfica",
+        "fr": "Le feutre",
+        "it": "Il pennarello",
+        "de": "Der Filzstift"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(De punta de fieltro)",
+        "fr": "«Feutre» es el plumón de punta de fieltro. (Plural: Les feutres)",
+        "de": "«Filzstift» es un plumón de punta de fieltro; para pizarrón blanco se usa «Whiteboardmarker». (Plural: Die Filzstifte)",
+        "en": "(Plural: The markers)",
+        "pt": "(Plural: As canetas hidrográficas)",
+        "it": "(Plural: I pennarelli)"
+      },
+      "examples": {
+        "en": {
+          "text": "I have a red marker.",
+          "es": "Tengo un plumón rojo."
+        },
+        "pt": {
+          "text": "Tenho uma caneta hidrográfica vermelha.",
+          "es": "Tengo un plumón rojo."
+        },
+        "fr": {
+          "text": "J'ai un feutre rouge.",
+          "es": "Tengo un plumón rojo."
+        },
+        "it": {
+          "text": "Ho un pennarello rosso.",
+          "es": "Tengo un plumón rojo."
+        },
+        "de": {
+          "text": "Ich habe einen roten Filzstift.",
+          "es": "Tengo un plumón rojo."
+        }
+      }
     },
     {
       "id": "ea10",
-      "es": "Borrador / Goma de borrar",
+      "es": "La goma de borrar / El borrador",
       "translations": {
-        "en": "Eraser",
-        "pt": "Borracha",
-        "fr": "Gomme",
-        "it": "Gomma per cancellare"
+        "en": "The eraser",
+        "pt": "A borracha",
+        "fr": "La gomme",
+        "it": "La gomma per cancellare",
+        "de": "Der Radiergummi"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Para borrar trazos de lápiz)",
+        "en": "(Plural: The erasers)",
+        "pt": "(Plural: As borrachas)",
+        "fr": "(Plural: Les gommes)",
+        "it": "(Plural: Le gomme per cancellare)",
+        "de": "(Plural: Die Radiergummis)"
+      },
+      "examples": {
+        "en": {
+          "text": "Can I borrow your eraser?",
+          "es": "¿Me prestas tu goma de borrar?"
+        },
+        "pt": {
+          "text": "Você me empresta sua borracha?",
+          "es": "¿Me prestas tu goma de borrar?"
+        },
+        "fr": {
+          "text": "Tu me prêtes ta gomme ?",
+          "es": "¿Me prestas tu goma de borrar?"
+        },
+        "it": {
+          "text": "Mi presti la tua gomma?",
+          "es": "¿Me prestas tu goma de borrar?"
+        },
+        "de": {
+          "text": "Leihst du mir deinen Radiergummi?",
+          "es": "¿Me prestas tu goma de borrar?"
+        }
+      }
     },
     {
       "id": "ea11",
-      "es": "Regla (para medir)",
+      "es": "La regla",
       "translations": {
-        "en": "Ruler",
-        "pt": "Régua",
-        "fr": "Règle",
-        "it": "Righello"
+        "en": "The ruler",
+        "pt": "A régua",
+        "fr": "La règle",
+        "it": "Il righello",
+        "de": "Das Lineal"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Instrumento para medir)",
+        "en": "(Plural: The rulers)",
+        "pt": "(Plural: As réguas)",
+        "fr": "(Plural: Les règles)",
+        "it": "(Plural: I righelli)",
+        "de": "(Plural: Die Lineale)"
+      },
+      "examples": {
+        "en": {
+          "text": "Draw a line with the ruler.",
+          "es": "Traza una línea con la regla."
+        },
+        "pt": {
+          "text": "Trace uma linha com a régua.",
+          "es": "Traza una línea con la regla."
+        },
+        "fr": {
+          "text": "Trace une ligne avec la règle.",
+          "es": "Traza una línea con la regla."
+        },
+        "it": {
+          "text": "Traccia una linea con il righello.",
+          "es": "Traza una línea con la regla."
+        },
+        "de": {
+          "text": "Zieh mit dem Lineal eine Linie.",
+          "es": "Traza una línea con la regla."
+        }
+      }
     },
     {
       "id": "ea12",
-      "es": "Sacapuntas",
+      "es": "El sacapuntas",
       "translations": {
-        "en": "Pencil sharpener",
-        "pt": "Apontador",
-        "fr": "Taille-crayon",
-        "it": "Temperamatite"
+        "en": "The pencil sharpener",
+        "pt": "O apontador",
+        "fr": "Le taille-crayon",
+        "it": "Il temperamatite",
+        "de": "Der Anspitzer"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The pencil sharpeners)",
+        "pt": "(Plural: Os apontadores)",
+        "fr": "(Plural: Les taille-crayons)",
+        "it": "(Plural: I temperamatite)",
+        "de": "(Plural: Die Anspitzer)"
+      },
+      "examples": {
+        "en": {
+          "text": "The pencil sharpener is in my backpack.",
+          "es": "El sacapuntas está en mi mochila."
+        },
+        "pt": {
+          "text": "O apontador está na minha mochila.",
+          "es": "El sacapuntas está en mi mochila."
+        },
+        "fr": {
+          "text": "Le taille-crayon est dans mon sac à dos.",
+          "es": "El sacapuntas está en mi mochila."
+        },
+        "it": {
+          "text": "Il temperamatite è nel mio zaino.",
+          "es": "El sacapuntas está en mi mochila."
+        },
+        "de": {
+          "text": "Der Anspitzer ist in meinem Rucksack.",
+          "es": "El sacapuntas está en mi mochila."
+        }
+      }
     },
     {
       "id": "ea13",
-      "es": "Hoja (de papel)",
+      "es": "La hoja de papel",
       "translations": {
-        "en": "Sheet of paper",
-        "pt": "Folha de papel",
-        "fr": "Feuille de papier",
-        "it": "Foglio di carta"
+        "en": "The sheet of paper",
+        "pt": "A folha de papel",
+        "fr": "La feuille de papier",
+        "it": "Il foglio di carta",
+        "de": "Das Blatt Papier"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The sheets of paper)",
+        "pt": "(Plural: As folhas de papel)",
+        "fr": "(Plural: Les feuilles de papier)",
+        "it": "(Plural: I fogli di carta)",
+        "de": "(Plural: Die Blätter Papier)"
+      },
+      "examples": {
+        "en": {
+          "text": "I need a sheet of paper.",
+          "es": "Necesito una hoja de papel."
+        },
+        "pt": {
+          "text": "Preciso de uma folha de papel.",
+          "es": "Necesito una hoja de papel."
+        },
+        "fr": {
+          "text": "J'ai besoin d'une feuille de papier.",
+          "es": "Necesito una hoja de papel."
+        },
+        "it": {
+          "text": "Mi serve un foglio di carta.",
+          "es": "Necesito una hoja de papel."
+        },
+        "de": {
+          "text": "Ich brauche ein Blatt Papier.",
+          "es": "Necesito una hoja de papel."
+        }
+      }
     },
     {
       "id": "ea14",
-      "es": "Página",
+      "es": "La página",
       "translations": {
-        "en": "Page",
-        "pt": "Página",
-        "fr": "Page",
-        "it": "Pagina"
+        "en": "The page",
+        "pt": "A página",
+        "fr": "La page",
+        "it": "La pagina",
+        "de": "Die Seite"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "Con números de página se usa normalmente «auf Seite». (Plural: Die Seiten)",
+        "en": "(Plural: The pages)",
+        "pt": "(Plural: As páginas)",
+        "fr": "(Plural: Les pages)",
+        "it": "(Plural: Le pagine)"
+      },
+      "examples": {
+        "en": {
+          "text": "There's a photo on page twenty.",
+          "es": "La página veinte tiene una foto."
+        },
+        "pt": {
+          "text": "Tem uma foto na página vinte.",
+          "es": "La página veinte tiene una foto."
+        },
+        "fr": {
+          "text": "Il y a une photo à la page vingt.",
+          "es": "La página veinte tiene una foto."
+        },
+        "it": {
+          "text": "C'è una foto a pagina venti.",
+          "es": "La página veinte tiene una foto."
+        },
+        "de": {
+          "text": "Auf Seite zwanzig ist ein Foto.",
+          "es": "La página veinte tiene una foto."
+        }
+      }
     },
     {
       "id": "ea15",
-      "es": "Diccionario",
+      "es": "El diccionario",
       "translations": {
-        "en": "Dictionary",
-        "pt": "Dicionário",
-        "fr": "Dictionnaire",
-        "it": "Dizionario"
+        "en": "The dictionary",
+        "pt": "O dicionário",
+        "fr": "Le dictionnaire",
+        "it": "Il dizionario",
+        "de": "Das Wörterbuch"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The dictionaries)",
+        "pt": "(Plural: Os dicionários)",
+        "fr": "(Plural: Les dictionnaires)",
+        "it": "(Plural: I dizionari)",
+        "de": "(Plural: Die Wörterbücher)"
+      },
+      "examples": {
+        "en": {
+          "text": "I'm looking up a word in the dictionary.",
+          "es": "Busco una palabra en el diccionario."
+        },
+        "pt": {
+          "text": "Estou procurando uma palavra no dicionário.",
+          "es": "Busco una palabra en el diccionario."
+        },
+        "fr": {
+          "text": "Je cherche un mot dans le dictionnaire.",
+          "es": "Busco una palabra en el diccionario."
+        },
+        "it": {
+          "text": "Cerco una parola nel dizionario.",
+          "es": "Busco una palabra en el diccionario."
+        },
+        "de": {
+          "text": "Ich schlage ein Wort im Wörterbuch nach.",
+          "es": "Busco una palabra en el diccionario."
+        }
+      }
     },
     {
       "id": "ea16",
-      "es": "Texto (contenido escrito)",
+      "es": "El texto",
       "translations": {
-        "en": "Text",
-        "pt": "Texto",
-        "fr": "Texte",
-        "it": "Testo"
+        "en": "The text",
+        "pt": "O texto",
+        "fr": "Le texte",
+        "it": "Il testo",
+        "de": "Der Text"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Contenido escrito)",
+        "en": "(Plural: The texts)",
+        "pt": "(Plural: Os textos)",
+        "fr": "(Plural: Les textes)",
+        "it": "(Plural: I testi)",
+        "de": "(Plural: Die Texte)"
+      },
+      "examples": {
+        "en": {
+          "text": "The text is about a family.",
+          "es": "El texto habla de una familia."
+        },
+        "pt": {
+          "text": "O texto fala de uma família.",
+          "es": "El texto habla de una familia."
+        },
+        "fr": {
+          "text": "Le texte parle d'une famille.",
+          "es": "El texto habla de una familia."
+        },
+        "it": {
+          "text": "Il testo parla di una famiglia.",
+          "es": "El texto habla de una familia."
+        },
+        "de": {
+          "text": "Im Text geht es um eine Familie.",
+          "es": "El texto habla de una familia."
+        }
+      }
     },
     {
       "id": "ea17",
-      "es": "Palabra",
+      "es": "La palabra",
       "translations": {
-        "en": "Word",
-        "pt": "Palavra",
-        "fr": "Mot",
-        "it": "Parola"
+        "en": "The word",
+        "pt": "A palavra",
+        "fr": "Le mot",
+        "it": "La parola",
+        "de": "Das Wort"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Wörter» son palabras individuales; «Worte» suele aludir a lo que alguien dijo. (Plural: Die Wörter)",
+        "en": "(Plural: The words)",
+        "pt": "(Plural: As palavras)",
+        "fr": "(Plural: Les mots)",
+        "it": "(Plural: Le parole)"
+      },
+      "examples": {
+        "en": {
+          "text": "I don't understand this word.",
+          "es": "No entiendo esta palabra."
+        },
+        "pt": {
+          "text": "Não entendo esta palavra.",
+          "es": "No entiendo esta palabra."
+        },
+        "fr": {
+          "text": "Je ne comprends pas ce mot.",
+          "es": "No entiendo esta palabra."
+        },
+        "it": {
+          "text": "Non capisco questa parola.",
+          "es": "No entiendo esta palabra."
+        },
+        "de": {
+          "text": "Ich verstehe dieses Wort nicht.",
+          "es": "No entiendo esta palabra."
+        }
+      }
     },
     {
       "id": "ea18",
-      "es": "Frase / Oración (enunciado)",
+      "es": "La oración / La frase",
       "translations": {
-        "en": "Sentence",
-        "pt": "Frase / Oração",
-        "fr": "Phrase",
-        "it": "Frase"
+        "en": "The sentence",
+        "pt": "A frase",
+        "fr": "La phrase",
+        "it": "La frase",
+        "de": "Der Satz"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Enunciado completo)",
+        "en": "(Plural: The sentences)",
+        "pt": "(Plural: As frases)",
+        "fr": "(Plural: Les phrases)",
+        "it": "(Plural: Le frasi)",
+        "de": "(Plural: Die Sätze)"
+      },
+      "examples": {
+        "en": {
+          "text": "Write a sentence about your family.",
+          "es": "Escribe una oración sobre tu familia."
+        },
+        "pt": {
+          "text": "Escreva uma frase sobre sua família.",
+          "es": "Escribe una oración sobre tu familia."
+        },
+        "fr": {
+          "text": "Écris une phrase sur ta famille.",
+          "es": "Escribe una oración sobre tu familia."
+        },
+        "it": {
+          "text": "Scrivi una frase sulla tua famiglia.",
+          "es": "Escribe una oración sobre tu familia."
+        },
+        "de": {
+          "text": "Schreib einen Satz über deine Familie.",
+          "es": "Escribe una oración sobre tu familia."
+        }
+      }
     },
     {
       "id": "ea19",
-      "es": "Pregunta",
+      "es": "La pregunta",
       "translations": {
-        "en": "Question",
-        "pt": "Pergunta",
-        "fr": "Question",
-        "it": "Domanda"
+        "en": "The question",
+        "pt": "A pergunta",
+        "fr": "La question",
+        "it": "La domanda",
+        "de": "Die Frage"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The questions)",
+        "pt": "(Plural: As perguntas)",
+        "fr": "(Plural: Les questions)",
+        "it": "(Plural: Le domande)",
+        "de": "(Plural: Die Fragen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The first question is easy.",
+          "es": "La primera pregunta es fácil."
+        },
+        "pt": {
+          "text": "A primeira pergunta é fácil.",
+          "es": "La primera pregunta es fácil."
+        },
+        "fr": {
+          "text": "La première question est facile.",
+          "es": "La primera pregunta es fácil."
+        },
+        "it": {
+          "text": "La prima domanda è facile.",
+          "es": "La primera pregunta es fácil."
+        },
+        "de": {
+          "text": "Die erste Frage ist leicht.",
+          "es": "La primera pregunta es fácil."
+        }
+      }
     },
     {
       "id": "ea20",
-      "es": "Respuesta",
+      "es": "La respuesta",
       "translations": {
-        "en": "Answer / Response",
-        "pt": "Resposta",
-        "fr": "Réponse",
-        "it": "Risposta"
+        "en": "The answer",
+        "pt": "A resposta",
+        "fr": "La réponse",
+        "it": "La risposta",
+        "de": "Die Antwort"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The answers)",
+        "pt": "(Plural: As respostas)",
+        "fr": "(Plural: Les réponses)",
+        "it": "(Plural: Le risposte)",
+        "de": "(Plural: Die Antworten)"
+      },
+      "examples": {
+        "en": {
+          "text": "Write your answer here.",
+          "es": "Escribe tu respuesta aquí."
+        },
+        "pt": {
+          "text": "Escreva sua resposta aqui.",
+          "es": "Escribe tu respuesta aquí."
+        },
+        "fr": {
+          "text": "Écris ta réponse ici.",
+          "es": "Escribe tu respuesta aquí."
+        },
+        "it": {
+          "text": "Scrivi qui la tua risposta.",
+          "es": "Escribe tu respuesta aquí."
+        },
+        "de": {
+          "text": "Schreib deine Antwort hierhin.",
+          "es": "Escribe tu respuesta aquí."
+        }
+      }
     },
     {
       "id": "ea21",
-      "es": "Ejemplo",
+      "es": "El ejemplo",
       "translations": {
-        "en": "Example",
-        "pt": "Exemplo",
-        "fr": "Exemple",
-        "it": "Esempio"
+        "en": "The example",
+        "pt": "O exemplo",
+        "fr": "L'exemple",
+        "it": "L'esempio",
+        "de": "Das Beispiel"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The examples)",
+        "pt": "(Plural: Os exemplos)",
+        "fr": "(Plural: Les exemples)",
+        "it": "(Plural: Gli esempi)",
+        "de": "(Plural: Die Beispiele)"
+      },
+      "examples": {
+        "en": {
+          "text": "Here's an example.",
+          "es": "Aquí hay un ejemplo."
+        },
+        "pt": {
+          "text": "Aqui vai um exemplo.",
+          "es": "Aquí hay un ejemplo."
+        },
+        "fr": {
+          "text": "Voici un exemple.",
+          "es": "Aquí hay un ejemplo."
+        },
+        "it": {
+          "text": "Ecco un esempio.",
+          "es": "Aquí hay un ejemplo."
+        },
+        "de": {
+          "text": "Hier ist ein Beispiel.",
+          "es": "Aquí hay un ejemplo."
+        }
+      }
     },
     {
       "id": "ea22",
-      "es": "Explicación",
+      "es": "La explicación",
       "translations": {
-        "en": "Explanation",
-        "pt": "Explicação",
-        "fr": "Explication",
-        "it": "Spiegazione"
+        "en": "The explanation",
+        "pt": "A explicação",
+        "fr": "L'explication",
+        "it": "La spiegazione",
+        "de": "Die Erklärung"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The explanations)",
+        "pt": "(Plural: As explicações)",
+        "fr": "(Plural: Les explications)",
+        "it": "(Plural: Le spiegazioni)",
+        "de": "(Plural: Die Erklärungen)"
+      },
+      "examples": {
+        "en": {
+          "text": "Thanks for the explanation.",
+          "es": "Gracias por la explicación."
+        },
+        "pt": {
+          "text": "Obrigado pela explicação.",
+          "es": "Gracias por la explicación."
+        },
+        "fr": {
+          "text": "Merci pour l'explication.",
+          "es": "Gracias por la explicación."
+        },
+        "it": {
+          "text": "Grazie per la spiegazione.",
+          "es": "Gracias por la explicación."
+        },
+        "de": {
+          "text": "Danke für die Erklärung.",
+          "es": "Gracias por la explicación."
+        }
+      }
     },
     {
       "id": "ea23",
-      "es": "Instrucciones (de un ejercicio)",
+      "es": "Las instrucciones",
       "translations": {
-        "en": "Instructions",
-        "pt": "Instruções",
-        "fr": "Consignes / Instructions",
-        "it": "Istruzioni"
+        "en": "The instructions",
+        "pt": "As instruções",
+        "fr": "Les consignes",
+        "it": "Le istruzioni",
+        "de": "Die Anweisungen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Indicaciones de un ejercicio)",
+        "fr": "«Consigne» es la instrucción concreta que se da para realizar una actividad.",
+        "de": "También se usa «die Aufgabenstellung» para el enunciado de una tarea."
+      },
+      "examples": {
+        "en": {
+          "text": "Read the instructions first.",
+          "es": "Primero lee las instrucciones."
+        },
+        "pt": {
+          "text": "Leia primeiro as instruções.",
+          "es": "Primero lee las instrucciones."
+        },
+        "fr": {
+          "text": "Lis d'abord les consignes.",
+          "es": "Primero lee las instrucciones."
+        },
+        "it": {
+          "text": "Leggi prima le istruzioni.",
+          "es": "Primero lee las instrucciones."
+        },
+        "de": {
+          "text": "Lies zuerst die Anweisungen.",
+          "es": "Primero lee las instrucciones."
+        }
+      }
     },
     {
       "id": "ea24",
-      "es": "Ejercicio (de aprendizaje)",
+      "es": "El ejercicio",
       "translations": {
-        "en": "Exercise",
-        "pt": "Exercício",
-        "fr": "Exercice",
-        "it": "Esercizio"
+        "en": "The exercise",
+        "pt": "O exercício",
+        "fr": "L'exercice",
+        "it": "L'esercizio",
+        "de": "Die Übung"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Actividad de aprendizaje)",
+        "en": "(Plural: The exercises)",
+        "pt": "(Plural: Os exercícios)",
+        "fr": "(Plural: Les exercices)",
+        "it": "(Plural: Gli esercizi)",
+        "de": "(Plural: Die Übungen)"
+      },
+      "examples": {
+        "en": {
+          "text": "This exercise is easy.",
+          "es": "Este ejercicio es fácil."
+        },
+        "pt": {
+          "text": "Este exercício é fácil.",
+          "es": "Este ejercicio es fácil."
+        },
+        "fr": {
+          "text": "Cet exercice est facile.",
+          "es": "Este ejercicio es fácil."
+        },
+        "it": {
+          "text": "Questo esercizio è facile.",
+          "es": "Este ejercicio es fácil."
+        },
+        "de": {
+          "text": "Diese Übung ist leicht.",
+          "es": "Este ejercicio es fácil."
+        }
+      }
     },
     {
       "id": "ea25",
-      "es": "Tarea / Deberes (para hacer en casa)",
+      "es": "La tarea",
       "translations": {
-        "en": "Homework",
-        "pt": "Lição de casa / Dever de casa",
-        "fr": "Devoirs",
-        "it": "Compiti per casa"
+        "en": "The homework",
+        "pt": "A lição de casa / O dever de casa",
+        "fr": "Les devoirs",
+        "it": "I compiti",
+        "de": "Die Hausaufgaben"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Trabajo escolar para hacer en casa)",
+        "pt": "(Plural: As lições de casa / Os deveres de casa)",
+        "de": "«Hausaufgaben» se usa normalmente en plural para hablar de la tarea en general."
+      },
+      "examples": {
+        "en": {
+          "text": "I do my homework after lunch.",
+          "es": "Hago la tarea después de comer."
+        },
+        "pt": {
+          "text": "Faço a lição de casa depois do almoço.",
+          "es": "Hago la tarea después de comer."
+        },
+        "fr": {
+          "text": "Je fais mes devoirs après le déjeuner.",
+          "es": "Hago la tarea después de comer."
+        },
+        "it": {
+          "text": "Faccio i compiti dopo pranzo.",
+          "es": "Hago la tarea después de comer."
+        },
+        "de": {
+          "text": "Nach dem Mittagessen mache ich meine Hausaufgaben.",
+          "es": "Hago la tarea después de comer."
+        }
+      }
     },
     {
       "id": "ea26",
-      "es": "Apuntes / Notas (de una clase)",
+      "es": "Los apuntes",
       "translations": {
-        "en": "Class notes",
-        "pt": "Anotações / Notas de aula",
-        "fr": "Notes de cours",
-        "it": "Appunti"
+        "en": "The class notes",
+        "pt": "As anotações da aula",
+        "fr": "Les notes de cours",
+        "it": "Gli appunti",
+        "de": "Die Mitschrift"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Notas tomadas en clase)",
+        "de": "(Plural: Die Mitschriften)"
+      },
+      "examples": {
+        "en": {
+          "text": "I read my class notes before the exam.",
+          "es": "Leo mis apuntes antes del examen."
+        },
+        "pt": {
+          "text": "Leio minhas anotações da aula antes da prova.",
+          "es": "Leo mis apuntes antes del examen."
+        },
+        "fr": {
+          "text": "Je lis mes notes de cours avant l'examen.",
+          "es": "Leo mis apuntes antes del examen."
+        },
+        "it": {
+          "text": "Leggo i miei appunti prima dell'esame.",
+          "es": "Leo mis apuntes antes del examen."
+        },
+        "de": {
+          "text": "Ich lese meine Mitschrift vor der Prüfung.",
+          "es": "Leo mis apuntes antes del examen."
+        }
+      }
     },
     {
       "id": "ea27",
-      "es": "Error / Equivocación",
+      "es": "El error / La equivocación",
       "translations": {
-        "en": "Mistake / Error",
-        "pt": "Erro",
-        "fr": "Erreur",
-        "it": "Sbaglio / Errore"
+        "en": "The mistake / The error",
+        "pt": "O erro",
+        "fr": "L'erreur",
+        "it": "L'errore / Lo sbaglio",
+        "de": "Der Fehler"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The mistakes / The errors)",
+        "pt": "(Plural: Os erros)",
+        "fr": "(Plural: Les erreurs)",
+        "it": "(Plural: Gli errori / Gli sbagli)",
+        "de": "(Plural: Die Fehler)"
+      },
+      "examples": {
+        "en": {
+          "text": "There's a mistake in the first sentence.",
+          "es": "Hay un error en la primera frase."
+        },
+        "pt": {
+          "text": "Há um erro na primeira frase.",
+          "es": "Hay un error en la primera frase."
+        },
+        "fr": {
+          "text": "Il y a une erreur dans la première phrase.",
+          "es": "Hay un error en la primera frase."
+        },
+        "it": {
+          "text": "C'è un errore nella prima frase.",
+          "es": "Hay un error en la primera frase."
+        },
+        "de": {
+          "text": "Im ersten Satz ist ein Fehler.",
+          "es": "Hay un error en la primera frase."
+        }
+      }
     },
     {
       "id": "ea28",
-      "es": "Corrección",
+      "es": "La corrección",
       "translations": {
-        "en": "Correction",
-        "pt": "Correção",
-        "fr": "Correction",
-        "it": "Correzione"
+        "en": "The correction",
+        "pt": "A correção",
+        "fr": "La correction",
+        "it": "La correzione",
+        "de": "Die Korrektur"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(En un texto o ejercicio)",
+        "en": "(Plural: The corrections)",
+        "pt": "(Plural: As correções)",
+        "fr": "(Plural: Les corrections)",
+        "it": "(Plural: Le correzioni)",
+        "de": "(Plural: Die Korrekturen)"
+      },
+      "examples": {
+        "en": {
+          "text": "Write the correction next to the mistake.",
+          "es": "Escribe la corrección al lado del error."
+        },
+        "pt": {
+          "text": "Escreva a correção ao lado do erro.",
+          "es": "Escribe la corrección al lado del error."
+        },
+        "fr": {
+          "text": "Écris la correction à côté de l'erreur.",
+          "es": "Escribe la corrección al lado del error."
+        },
+        "it": {
+          "text": "Scrivi la correzione accanto all'errore.",
+          "es": "Escribe la corrección al lado del error."
+        },
+        "de": {
+          "text": "Schreib die Korrektur neben den Fehler.",
+          "es": "Escribe la corrección al lado del error."
+        }
+      }
     },
     {
       "id": "ea29",
-      "es": "Examen / Prueba (evaluación)",
+      "es": "El examen / La prueba",
       "translations": {
-        "en": "Exam / Test",
-        "pt": "Prova / Teste",
-        "fr": "Examen / Contrôle",
-        "it": "Esame / Verifica"
+        "en": "The exam / The test",
+        "pt": "A prova / O teste",
+        "fr": "L'examen / Le contrôle",
+        "it": "L'esame / La verifica",
+        "de": "Die Prüfung / Der Test"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Evaluación escolar)",
+        "fr": "«Contrôle» suele ser una prueba de clase; «examen», una evaluación más formal. (Plural: Les examens / Les contrôles)",
+        "it": "«Verifica» suele ser una prueba de clase; «esame», una evaluación más formal. (Plural: Gli esami / Le verifiche)",
+        "de": "«Test» suele ser una prueba corta de clase; «Prüfung», un examen. (Plural: Die Prüfungen / Die Tests)",
+        "en": "(Plural: The exams / The tests)",
+        "pt": "(Plural: As provas / Os testes)"
+      },
+      "examples": {
+        "en": {
+          "text": "We have a test on Friday.",
+          "es": "Tenemos un examen el viernes."
+        },
+        "pt": {
+          "text": "Temos uma prova na sexta-feira.",
+          "es": "Tenemos un examen el viernes."
+        },
+        "fr": {
+          "text": "On a un contrôle vendredi.",
+          "es": "Tenemos un examen el viernes."
+        },
+        "it": {
+          "text": "Abbiamo una verifica venerdì.",
+          "es": "Tenemos un examen el viernes."
+        },
+        "de": {
+          "text": "Wir haben am Freitag eine Prüfung.",
+          "es": "Tenemos un examen el viernes."
+        }
+      }
     },
     {
       "id": "ea30",
-      "es": "Calificación / Nota (evaluación)",
+      "es": "La calificación / La nota",
       "translations": {
-        "en": "Grade",
-        "pt": "Nota",
-        "fr": "Note",
-        "it": "Voto"
+        "en": "The grade",
+        "pt": "A nota",
+        "fr": "La note",
+        "it": "Il voto",
+        "de": "Die Note"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Resultado de una evaluación)",
+        "en": "En Estados Unidos se usa «grade» para el resultado escolar; en otros contextos también significa grado escolar. (Plural: The grades)",
+        "it": "Falso amigo: En clase, «voto» es la calificación, no un voto electoral. (Plural: I voti)",
+        "pt": "(Plural: As notas)",
+        "fr": "(Plural: Les notes)",
+        "de": "(Plural: Die Noten)"
+      },
+      "examples": {
+        "en": {
+          "text": "I got a good grade in English.",
+          "es": "Saqué una buena calificación en inglés."
+        },
+        "pt": {
+          "text": "Tirei uma boa nota em inglês.",
+          "es": "Saqué una buena calificación en inglés."
+        },
+        "fr": {
+          "text": "J'ai eu une bonne note en anglais.",
+          "es": "Saqué una buena calificación en inglés."
+        },
+        "it": {
+          "text": "Ho preso un bel voto in inglese.",
+          "es": "Saqué una buena calificación en inglés."
+        },
+        "de": {
+          "text": "Ich habe eine gute Note in Englisch bekommen.",
+          "es": "Saqué una buena calificación en inglés."
+        }
+      }
     },
     {
       "id": "ea31",
-      "es": "Correcto/a (respuesta)",
+      "es": "Correcto / Correcta",
       "translations": {
         "en": "Correct / Right",
         "pt": "Correto / Correta",
         "fr": "Correct / Correcte",
-        "it": "Corretto / Corretta"
+        "it": "Corretto / Corretta",
+        "de": "Richtig"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Para una respuesta)",
+        "de": "Sin terminación después de «sein»; ante un sustantivo cambia según la concordancia."
+      },
+      "examples": {
+        "en": {
+          "text": "Your answer is correct.",
+          "es": "Tu respuesta es correcta."
+        },
+        "pt": {
+          "text": "Sua resposta está correta.",
+          "es": "Tu respuesta es correcta."
+        },
+        "fr": {
+          "text": "Ta réponse est correcte.",
+          "es": "Tu respuesta es correcta."
+        },
+        "it": {
+          "text": "La tua risposta è corretta.",
+          "es": "Tu respuesta es correcta."
+        },
+        "de": {
+          "text": "Deine Antwort ist richtig.",
+          "es": "Tu respuesta es correcta."
+        }
+      }
     },
     {
       "id": "ea32",
-      "es": "Incorrecto/a (respuesta)",
+      "es": "Incorrecto / Incorrecta",
       "translations": {
         "en": "Incorrect / Wrong",
         "pt": "Incorreto / Incorreta",
         "fr": "Incorrect / Incorrecte",
-        "it": "Sbagliato / Sbagliata"
+        "it": "Sbagliato / Sbagliata",
+        "de": "Falsch"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Para una respuesta)",
+        "de": "Sin terminación después de «sein»; ante un sustantivo cambia según la concordancia. (Respuesta incorrecta)"
+      },
+      "examples": {
+        "en": {
+          "text": "The second answer is incorrect.",
+          "es": "La segunda respuesta es incorrecta."
+        },
+        "pt": {
+          "text": "A segunda resposta está incorreta.",
+          "es": "La segunda respuesta es incorrecta."
+        },
+        "fr": {
+          "text": "La deuxième réponse est incorrecte.",
+          "es": "La segunda respuesta es incorrecta."
+        },
+        "it": {
+          "text": "La seconda risposta è sbagliata.",
+          "es": "La segunda respuesta es incorrecta."
+        },
+        "de": {
+          "text": "Die zweite Antwort ist falsch.",
+          "es": "La segunda respuesta es incorrecta."
+        }
+      }
     },
     {
       "id": "ea33",
-      "es": "Verdadero (información)",
+      "es": "Verdadero / Verdadera",
       "translations": {
         "en": "True",
-        "pt": "Verdadeiro",
-        "fr": "Vrai",
-        "it": "Vero"
+        "pt": "Verdadeiro / Verdadeira",
+        "fr": "Vrai / Vraie",
+        "it": "Vero / Vera",
+        "de": "Wahr"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Para una afirmación)",
+        "de": "Sin terminación después de «sein»; ante un sustantivo cambia según la concordancia."
+      },
+      "examples": {
+        "en": {
+          "text": "What the text says is true.",
+          "es": "Lo que dice el texto es verdad."
+        },
+        "pt": {
+          "text": "O que o texto diz é verdadeiro.",
+          "es": "Lo que dice el texto es verdad."
+        },
+        "fr": {
+          "text": "Ce que dit le texte est vrai.",
+          "es": "Lo que dice el texto es verdad."
+        },
+        "it": {
+          "text": "Quello che dice il testo è vero.",
+          "es": "Lo que dice el texto es verdad."
+        },
+        "de": {
+          "text": "Was im Text steht, ist wahr.",
+          "es": "Lo que dice el texto es verdad."
+        }
+      }
     },
     {
       "id": "ea34",
-      "es": "Falso (información)",
+      "es": "Falso / Falsa",
       "translations": {
         "en": "False",
-        "pt": "Falso",
-        "fr": "Faux",
-        "it": "Falso"
+        "pt": "Falso / Falsa",
+        "fr": "Faux / Fausse",
+        "it": "Falso / Falsa",
+        "de": "Falsch"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Para una afirmación)",
+        "de": "Sin terminación después de «sein»; ante un sustantivo cambia según la concordancia. (Afirmación falsa)"
+      },
+      "examples": {
+        "en": {
+          "text": "This information is false.",
+          "es": "Esta información es falsa."
+        },
+        "pt": {
+          "text": "Essa informação é falsa.",
+          "es": "Esta información es falsa."
+        },
+        "fr": {
+          "text": "Cette information est fausse.",
+          "es": "Esta información es falsa."
+        },
+        "it": {
+          "text": "Questa informazione è falsa.",
+          "es": "Esta información es falsa."
+        },
+        "de": {
+          "text": "Diese Information ist falsch.",
+          "es": "Esta información es falsa."
+        }
+      }
     },
     {
       "id": "ea35",
-      "es": "Repasar (lo aprendido)",
+      "es": "Repasar",
       "translations": {
         "en": "To review",
         "pt": "Revisar",
         "fr": "Réviser / Revoir",
-        "it": "Ripassare"
+        "it": "Ripassare",
+        "de": "Wiederholen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Lo aprendido)",
+        "fr": "«Réviser» es lo habitual al preparar un examen; «revoir» también sirve para volver a ver lo estudiado.",
+        "de": "En clase, «wiederholen» se usa para volver sobre contenidos ya vistos."
+      },
+      "examples": {
+        "en": {
+          "text": "I review new words before class.",
+          "es": "Repaso las palabras nuevas antes de clase."
+        },
+        "pt": {
+          "text": "Reviso as palavras novas antes da aula.",
+          "es": "Repaso las palabras nuevas antes de clase."
+        },
+        "fr": {
+          "text": "Je révise les nouveaux mots avant le cours.",
+          "es": "Repaso las palabras nuevas antes de clase."
+        },
+        "it": {
+          "text": "Ripasso le parole nuove prima della lezione.",
+          "es": "Repaso las palabras nuevas antes de clase."
+        },
+        "de": {
+          "text": "Ich wiederhole die neuen Wörter vor dem Unterricht.",
+          "es": "Repaso las palabras nuevas antes de clase."
+        }
+      }
     },
     {
       "id": "ea36",
-      "es": "Practicar (lo aprendido)",
+      "es": "Practicar",
       "translations": {
         "en": "To practice",
         "pt": "Praticar",
         "fr": "S'exercer / Pratiquer",
-        "it": "Esercitarsi / Fare pratica"
+        "it": "Esercitarsi / Fare pratica",
+        "de": "Üben"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Lo aprendido)"
+      },
+      "examples": {
+        "en": {
+          "text": "I practice with a classmate every day.",
+          "es": "Practico con un compañero de clase todos los días."
+        },
+        "pt": {
+          "text": "Pratico com uma amiga todos os dias.",
+          "es": "Practico con una amiga todos los días."
+        },
+        "fr": {
+          "text": "Je m'exerce avec une amie tous les jours.",
+          "es": "Practico con una amiga todos los días."
+        },
+        "it": {
+          "text": "Faccio pratica con un'amica ogni giorno.",
+          "es": "Practico con una amiga todos los días."
+        },
+        "de": {
+          "text": "Ich übe jeden Tag mit einer Freundin.",
+          "es": "Practico con una amiga todos los días."
+        }
+      }
     },
     {
       "id": "ea37",
@@ -405,42 +1625,141 @@
         "en": "To underline",
         "pt": "Sublinhar",
         "fr": "Souligner",
-        "it": "Sottolineare"
+        "it": "Sottolineare",
+        "de": "Unterstreichen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I underline the date in red.",
+          "es": "Subrayo la fecha con rojo."
+        },
+        "pt": {
+          "text": "Sublinho a data em vermelho.",
+          "es": "Subrayo la fecha con rojo."
+        },
+        "fr": {
+          "text": "Je souligne la date en rouge.",
+          "es": "Subrayo la fecha con rojo."
+        },
+        "it": {
+          "text": "Sottolineo la data in rosso.",
+          "es": "Subrayo la fecha con rojo."
+        },
+        "de": {
+          "text": "Ich unterstreiche das Datum rot.",
+          "es": "Subrayo la fecha con rojo."
+        }
+      }
     },
     {
       "id": "ea38",
-      "es": "Marcar / Seleccionar (una respuesta)",
+      "es": "Marcar una respuesta / Seleccionar una respuesta",
       "translations": {
         "en": "To mark an answer / To select an answer",
         "pt": "Marcar uma resposta / Selecionar uma resposta",
         "fr": "Cocher une réponse / Sélectionner une réponse",
-        "it": "Segnare una risposta / Selezionare una risposta"
+        "it": "Segnare una risposta / Selezionare una risposta",
+        "de": "Eine Antwort ankreuzen / Eine Antwort auswählen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "«Cocher» se usa para marcar una casilla; «sélectionner», para elegir una opción.",
+        "de": "«Ankreuzen» se usa cuando se marca una opción con una cruz."
+      },
+      "examples": {
+        "en": {
+          "text": "I select an answer on the screen.",
+          "es": "Selecciono una respuesta en la pantalla."
+        },
+        "pt": {
+          "text": "Seleciono uma resposta na tela.",
+          "es": "Selecciono una respuesta en la pantalla."
+        },
+        "fr": {
+          "text": "Je sélectionne une réponse à l'écran.",
+          "es": "Selecciono una respuesta en la pantalla."
+        },
+        "it": {
+          "text": "Seleziono una risposta sullo schermo.",
+          "es": "Selecciono una respuesta en la pantalla."
+        },
+        "de": {
+          "text": "Ich wähle auf dem Bildschirm eine Antwort aus.",
+          "es": "Selecciono una respuesta en la pantalla."
+        }
+      }
     },
     {
       "id": "ea39",
-      "es": "Completar (una frase o un espacio en blanco)",
+      "es": "Completar una frase / Llenar un espacio en blanco",
       "translations": {
-        "en": "To complete / To fill in",
-        "pt": "Completar / Preencher",
-        "fr": "Compléter",
-        "it": "Completare"
+        "en": "To complete a sentence / To fill in a blank",
+        "pt": "Completar uma frase / Preencher um espaço em branco",
+        "fr": "Compléter une phrase / Remplir un espace vide",
+        "it": "Completare una frase / Riempire uno spazio vuoto",
+        "de": "Einen Satz ergänzen / Eine Lücke ausfüllen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Ergänzen» es añadir lo que falta; «ausfüllen» se aplica aquí a un espacio en blanco."
+      },
+      "examples": {
+        "en": {
+          "text": "I fill in the blank with my name.",
+          "es": "Completo el espacio en blanco con mi nombre."
+        },
+        "pt": {
+          "text": "Preencho o espaço em branco com meu nome.",
+          "es": "Completo el espacio en blanco con mi nombre."
+        },
+        "fr": {
+          "text": "Je remplis l'espace vide avec mon nom.",
+          "es": "Completo el espacio en blanco con mi nombre."
+        },
+        "it": {
+          "text": "Riempio lo spazio vuoto con il mio nome.",
+          "es": "Completo el espacio en blanco con mi nombre."
+        },
+        "de": {
+          "text": "Ich fülle die Lücke mit meinem Namen aus.",
+          "es": "Completo el espacio en blanco con mi nombre."
+        }
+      }
     },
     {
       "id": "ea40",
-      "es": "Corregir (un error)",
+      "es": "Corregir un error",
       "translations": {
         "en": "To correct a mistake",
         "pt": "Corrigir um erro",
         "fr": "Corriger une erreur",
-        "it": "Correggere un errore"
+        "it": "Correggere un errore",
+        "de": "Einen Fehler korrigieren"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I correct a mistake in my text.",
+          "es": "Corrijo un error en mi texto."
+        },
+        "pt": {
+          "text": "Corrijo um erro no meu texto.",
+          "es": "Corrijo un error en mi texto."
+        },
+        "fr": {
+          "text": "Je corrige une erreur dans mon texte.",
+          "es": "Corrijo un error en mi texto."
+        },
+        "it": {
+          "text": "Correggo un errore nel mio testo.",
+          "es": "Corrijo un error en mi texto."
+        },
+        "de": {
+          "text": "Ich korrigiere einen Fehler in meinem Text.",
+          "es": "Corrijo un error en mi texto."
+        }
+      }
     },
     {
       "id": "ea41",
@@ -449,31 +1768,100 @@
         "en": "To take notes",
         "pt": "Fazer anotações",
         "fr": "Prendre des notes",
-        "it": "Prendere appunti"
+        "it": "Prendere appunti",
+        "de": "Mitschreiben"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I take notes in class.",
+          "es": "Tomo apuntes en clase."
+        },
+        "pt": {
+          "text": "Faço anotações na aula.",
+          "es": "Tomo apuntes en clase."
+        },
+        "fr": {
+          "text": "Je prends des notes en cours.",
+          "es": "Tomo apuntes en clase."
+        },
+        "it": {
+          "text": "Prendo appunti a lezione.",
+          "es": "Tomo apuntes en clase."
+        },
+        "de": {
+          "text": "Ich schreibe im Unterricht mit.",
+          "es": "Tomo apuntes en clase."
+        }
+      }
     },
     {
       "id": "ea42",
       "es": "Entregar una tarea",
       "translations": {
-        "en": "To turn in an assignment / To hand in an assignment",
+        "en": "To turn in an assignment",
         "pt": "Entregar uma atividade",
         "fr": "Rendre un devoir",
-        "it": "Consegnare un compito"
+        "it": "Consegnare un compito",
+        "de": "Eine Hausaufgabe abgeben"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I'm turning in an assignment tomorrow.",
+          "es": "Mañana entrego una tarea."
+        },
+        "pt": {
+          "text": "Amanhã entrego uma atividade.",
+          "es": "Mañana entrego una tarea."
+        },
+        "fr": {
+          "text": "Je rends un devoir demain.",
+          "es": "Mañana entrego una tarea."
+        },
+        "it": {
+          "text": "Domani consegno un compito.",
+          "es": "Mañana entrego una tarea."
+        },
+        "de": {
+          "text": "Morgen muss ich eine Hausaufgabe abgeben.",
+          "es": "Mañana tengo que entregar una tarea."
+        }
+      }
     },
     {
       "id": "ea43",
-      "es": "Comprobar / Revisar (una respuesta)",
+      "es": "Revisar una respuesta / Comprobar una respuesta",
       "translations": {
         "en": "To check an answer",
         "pt": "Conferir uma resposta / Verificar uma resposta",
         "fr": "Vérifier une réponse",
-        "it": "Controllare una risposta"
+        "it": "Controllare una risposta",
+        "de": "Eine Antwort überprüfen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I check my answer in the book.",
+          "es": "Reviso mi respuesta en el libro."
+        },
+        "pt": {
+          "text": "Confiro minha resposta no livro.",
+          "es": "Reviso mi respuesta en el libro."
+        },
+        "fr": {
+          "text": "Je vérifie ma réponse dans le livre.",
+          "es": "Reviso mi respuesta en el libro."
+        },
+        "it": {
+          "text": "Controllo la mia risposta con il libro.",
+          "es": "Reviso mi respuesta con el libro."
+        },
+        "de": {
+          "text": "Ich überprüfe meine Antwort mit den Lösungen im Buch.",
+          "es": "Reviso mi respuesta con las soluciones del libro."
+        }
+      }
     },
     {
       "id": "ea44",
@@ -482,196 +1870,336 @@
         "en": "To memorize",
         "pt": "Memorizar / Decorar",
         "fr": "Mémoriser",
-        "it": "Memorizzare"
+        "it": "Memorizzare",
+        "de": "Auswendig lernen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Falso amigo: Aquí «decorar» significa memorizar, no adornar."
+      },
+      "examples": {
+        "en": {
+          "text": "I memorize three new words a day.",
+          "es": "Memorizo tres palabras nuevas al día."
+        },
+        "pt": {
+          "text": "Memorizo três palavras novas por dia.",
+          "es": "Memorizo tres palabras nuevas al día."
+        },
+        "fr": {
+          "text": "Je mémorise trois nouveaux mots par jour.",
+          "es": "Memorizo tres palabras nuevas al día."
+        },
+        "it": {
+          "text": "Memorizzo tre parole nuove al giorno.",
+          "es": "Memorizo tres palabras nuevas al día."
+        },
+        "de": {
+          "text": "Ich lerne jeden Tag drei neue Wörter auswendig.",
+          "es": "Memorizo tres palabras nuevas al día."
+        }
+      }
     },
     {
       "id": "ea45",
-      "es": "Aprobar (un examen)",
+      "es": "Aprobar un examen / Pasar un examen",
       "translations": {
         "en": "To pass an exam",
         "pt": "Passar em uma prova",
         "fr": "Réussir un examen",
-        "it": "Superare un esame"
+        "it": "Superare un esame",
+        "de": "Eine Prüfung bestehen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I passed the English exam.",
+          "es": "Aprobé el examen de inglés."
+        },
+        "pt": {
+          "text": "Passei na prova de inglês.",
+          "es": "Aprobé el examen de inglés."
+        },
+        "fr": {
+          "text": "J'ai réussi l'examen d'anglais.",
+          "es": "Aprobé el examen de inglés."
+        },
+        "it": {
+          "text": "Ho superato l'esame di inglese.",
+          "es": "Aprobé el examen de inglés."
+        },
+        "de": {
+          "text": "Ich habe die Prüfung in Englisch bestanden.",
+          "es": "Aprobé el examen de inglés."
+        }
+      }
     },
     {
       "id": "ea46",
-      "es": "Reprobar / Suspender (no aprobar un examen)",
+      "es": "Reprobar un examen",
       "translations": {
         "en": "To fail an exam",
-        "pt": "Ser reprovado em uma prova",
+        "pt": "Não passar em uma prova",
         "fr": "Échouer à un examen",
-        "it": "Non superare un esame"
+        "it": "Non superare un esame",
+        "de": "Bei einer Prüfung durchfallen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(España: Suspender un examen)",
+        "de": "«Durchfallen» exige «bei» ante el nombre de la prueba en esta construcción."
+      },
+      "examples": {
+        "en": {
+          "text": "I failed the math test.",
+          "es": "Reprobé el examen de matemáticas."
+        },
+        "pt": {
+          "text": "Não passei na prova de matemática.",
+          "es": "Reprobé el examen de matemáticas."
+        },
+        "fr": {
+          "text": "J'ai échoué à l'examen de maths.",
+          "es": "Reprobé el examen de matemáticas."
+        },
+        "it": {
+          "text": "Non ho superato l'esame di matematica.",
+          "es": "Reprobé el examen de matemáticas."
+        },
+        "de": {
+          "text": "Ich bin bei der Prüfung in Mathe durchgefallen.",
+          "es": "Reprobé el examen de matemáticas."
+        }
+      }
     },
     {
       "id": "ea47",
-      "es": "Abra el libro en la página diez.",
+      "es": "Abre el libro en la página diez. / Abra el libro en la página diez.",
       "translations": {
         "en": "Open your book to page ten.",
         "pt": "Abra o livro na página dez.",
-        "fr": "Ouvrez le livre à la page dix.",
-        "it": "Apra il libro a pagina dieci."
+        "fr": "Ouvre ton livre à la page dix. / Ouvrez votre livre à la page dix.",
+        "it": "Apri il libro a pagina dieci. / Apra il libro a pagina dieci.",
+        "de": "Schlag Seite zehn in deinem Buch auf. / Schlagen Sie Seite zehn in Ihrem Buch auf."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea48",
-      "es": "Lea el texto en silencio.",
+      "es": "Lee el texto en silencio. / Lea el texto en silencio.",
       "translations": {
         "en": "Read the text silently.",
         "pt": "Leia o texto em silêncio.",
-        "fr": "Lisez le texte en silence.",
-        "it": "Legga il testo in silenzio."
+        "fr": "Lis le texte en silence. / Lisez le texte en silence.",
+        "it": "Leggi il testo in silenzio. / Legga il testo in silenzio.",
+        "de": "Lies den Text leise für dich. / Lesen Sie den Text leise für sich."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea49",
-      "es": "Lea la frase en voz alta.",
+      "es": "Lee la frase en voz alta. / Lea la frase en voz alta.",
       "translations": {
         "en": "Read the sentence out loud.",
         "pt": "Leia a frase em voz alta.",
-        "fr": "Lisez la phrase à voix haute.",
-        "it": "Legga la frase ad alta voce."
+        "fr": "Lis la phrase à voix haute. / Lisez la phrase à voix haute.",
+        "it": "Leggi la frase ad alta voce. / Legga la frase ad alta voce.",
+        "de": "Lies den Satz laut vor. / Lesen Sie den Satz laut vor."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea50",
-      "es": "Escriba su nombre en la hoja.",
+      "es": "Escribe tu nombre en la hoja. / Escriba su nombre en la hoja.",
       "translations": {
         "en": "Write your name on the sheet.",
         "pt": "Escreva seu nome na folha.",
-        "fr": "Écrivez votre nom sur la feuille.",
-        "it": "Scriva il suo nome sul foglio."
+        "fr": "Écris ton nom sur la feuille. / Écrivez votre nom sur la feuille.",
+        "it": "Scrivi il tuo nome sul foglio. / Scriva il suo nome sul foglio.",
+        "de": "Schreib deinen Namen auf das Blatt. / Schreiben Sie Ihren Namen auf das Blatt."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea51",
-      "es": "Escuche el audio y responda las preguntas.",
+      "es": "Escucha el audio y responde las preguntas. / Escuche el audio y responda las preguntas.",
       "translations": {
-        "en": "Listen to the audio and answer the questions.",
+        "en": "Listen to the recording and answer the questions.",
         "pt": "Ouça o áudio e responda às perguntas.",
-        "fr": "Écoutez l'audio et répondez aux questions.",
-        "it": "Ascolti l'audio e risponda alle domande."
+        "fr": "Écoute l'enregistrement et réponds aux questions. / Écoutez l'enregistrement et répondez aux questions.",
+        "it": "Ascolta l'audio e rispondi alle domande. / Ascolti l'audio e risponda alle domande.",
+        "de": "Hör dir die Aufnahme an und beantworte die Fragen. / Hören Sie sich die Aufnahme an und beantworten Sie die Fragen."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea52",
-      "es": "Complete la frase.",
+      "es": "Completa la frase. / Complete la frase.",
       "translations": {
         "en": "Complete the sentence.",
         "pt": "Complete a frase.",
-        "fr": "Complétez la phrase.",
-        "it": "Completi la frase."
+        "fr": "Complète la phrase. / Complétez la phrase.",
+        "it": "Completa la frase. / Completi la frase.",
+        "de": "Ergänze den Satz. / Ergänzen Sie den Satz."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea53",
-      "es": "Marque la respuesta correcta.",
+      "es": "Marca la respuesta correcta. / Marque la respuesta correcta.",
       "translations": {
-        "en": "Select the correct answer.",
+        "en": "Mark the correct answer.",
         "pt": "Marque a resposta correta.",
-        "fr": "Cochez la bonne réponse.",
-        "it": "Selezioni la risposta corretta."
+        "fr": "Coche la bonne réponse. / Cochez la bonne réponse.",
+        "it": "Segna la risposta giusta. / Segni la risposta giusta.",
+        "de": "Kreuz die richtige Antwort an. / Kreuzen Sie die richtige Antwort an."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea54",
-      "es": "Subraye las palabras nuevas.",
+      "es": "Subraya las palabras nuevas. / Subraye las palabras nuevas.",
       "translations": {
         "en": "Underline the new words.",
         "pt": "Sublinhe as palavras novas.",
-        "fr": "Soulignez les mots nouveaux.",
-        "it": "Sottolinei le parole nuove."
+        "fr": "Souligne les nouveaux mots. / Soulignez les nouveaux mots.",
+        "it": "Sottolinea le parole nuove. / Sottolinei le parole nuove.",
+        "de": "Unterstreiche die neuen Wörter. / Unterstreichen Sie die neuen Wörter."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea55",
-      "es": "Una las palabras con las imágenes.",
+      "es": "Une las palabras con las imágenes. / Una las palabras con las imágenes.",
       "translations": {
         "en": "Match the words to the pictures.",
         "pt": "Ligue as palavras às imagens.",
-        "fr": "Reliez les mots aux images.",
-        "it": "Colleghi le parole alle immagini."
+        "fr": "Relie les mots aux images. / Reliez les mots aux images.",
+        "it": "Collega le parole alle immagini. / Colleghi le parole alle immagini.",
+        "de": "Verbinde die Wörter mit den Bildern. / Verbinden Sie die Wörter mit den Bildern."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea56",
-      "es": "Indique si es verdadero o falso.",
+      "es": "Indica si es verdadero o falso. / Indique si es verdadero o falso.",
       "translations": {
         "en": "Say whether it's true or false.",
         "pt": "Indique se é verdadeiro ou falso.",
-        "fr": "Indiquez si c'est vrai ou faux.",
-        "it": "Indichi se è vero o falso."
+        "fr": "Indique si c'est vrai ou faux. / Indiquez si c'est vrai ou faux.",
+        "it": "Indica se è vero o falso. / Indichi se è vero o falso.",
+        "de": "Gib an, ob das wahr oder falsch ist. / Geben Sie an, ob das wahr oder falsch ist."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea57",
-      "es": "Busque la palabra en el diccionario.",
+      "es": "Busca la palabra en el diccionario. / Busque la palabra en el diccionario.",
       "translations": {
         "en": "Look up the word in the dictionary.",
         "pt": "Procure a palavra no dicionário.",
-        "fr": "Cherchez le mot dans le dictionnaire.",
-        "it": "Cerchi la parola nel dizionario."
+        "fr": "Cherche le mot dans le dictionnaire. / Cherchez le mot dans le dictionnaire.",
+        "it": "Cerca la parola nel dizionario. / Cerchi la parola nel dizionario.",
+        "de": "Schlag das Wort im Wörterbuch nach. / Schlagen Sie das Wort im Wörterbuch nach."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea58",
-      "es": "Trabajen en parejas. (a un grupo)",
+      "es": "Trabajen en parejas.",
       "translations": {
         "en": "Work in pairs.",
         "pt": "Trabalhem em duplas.",
         "fr": "Travaillez par deux.",
-        "it": "Lavorate a coppie."
+        "it": "Lavorate a coppie.",
+        "de": "Arbeitet zu zweit. / Arbeiten Sie zu zweit."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(A un grupo)",
+        "de": "«Arbeitet» se dirige a varias personas de tú; «Arbeiten Sie» es formal."
+      }
     },
     {
       "id": "ea59",
-      "es": "Comparen sus respuestas. (a un grupo)",
+      "es": "Comparen sus respuestas.",
       "translations": {
         "en": "Compare your answers.",
         "pt": "Comparem suas respostas.",
         "fr": "Comparez vos réponses.",
-        "it": "Confrontate le vostre risposte."
+        "it": "Confrontate le vostre risposte.",
+        "de": "Vergleicht eure Antworten. / Vergleichen Sie Ihre Antworten."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(A un grupo)",
+        "de": "«Eure» acompaña al trato informal plural; «Ihre» al formal."
+      }
     },
     {
       "id": "ea60",
-      "es": "Hagan este ejercicio en casa. (a un grupo)",
+      "es": "Hagan este ejercicio en casa.",
       "translations": {
         "en": "Do this exercise at home.",
         "pt": "Façam este exercício em casa.",
         "fr": "Faites cet exercice à la maison.",
-        "it": "Fate questo esercizio a casa."
+        "it": "Fate questo esercizio a casa.",
+        "de": "Macht diese Übung zu Hause. / Machen Sie diese Übung zu Hause."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(A un grupo)",
+        "de": "«Macht» se dirige a varias personas de tú; «Machen Sie» es formal."
+      }
     },
     {
       "id": "ea61",
-      "es": "Tienen cinco minutos para terminar. (a un grupo)",
+      "es": "Tienen cinco minutos para terminar.",
       "translations": {
         "en": "You have five minutes to finish.",
         "pt": "Vocês têm cinco minutos para terminar.",
         "fr": "Vous avez cinq minutes pour terminer.",
-        "it": "Avete cinque minuti per finire."
+        "it": "Avete cinque minuti per finire.",
+        "de": "Ihr habt fünf Minuten, um fertig zu werden. / Sie haben fünf Minuten, um fertig zu werden."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(A un grupo)",
+        "de": "«Ihr» es el trato informal plural; «Sie» es formal."
+      }
     },
     {
       "id": "ea62",
@@ -680,31 +2208,40 @@
         "en": "I have a question.",
         "pt": "Tenho uma pergunta.",
         "fr": "J'ai une question.",
-        "it": "Ho una domanda."
+        "it": "Ho una domanda.",
+        "de": "Ich habe eine Frage."
       },
       "image_url": ""
     },
     {
       "id": "ea63",
-      "es": "¿Puede darme un ejemplo?",
+      "es": "¿Puedes darme un ejemplo? / ¿Puede darme un ejemplo?",
       "translations": {
         "en": "Can you give me an example?",
         "pt": "Pode me dar um exemplo?",
-        "fr": "Pouvez-vous me donner un exemple ?",
-        "it": "Può farmi un esempio?"
+        "fr": "Tu peux me donner un exemple ? / Pouvez-vous me donner un exemple ?",
+        "it": "Puoi farmi un esempio? / Può farmi un esempio?",
+        "de": "Kannst du mir ein Beispiel geben? / Können Sie mir ein Beispiel geben?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea64",
-      "es": "¿Puede explicar este ejercicio?",
+      "es": "¿Puedes explicar este ejercicio? / ¿Puede explicar este ejercicio?",
       "translations": {
         "en": "Can you explain this exercise?",
         "pt": "Pode explicar este exercício?",
-        "fr": "Pouvez-vous expliquer cet exercice ?",
-        "it": "Può spiegarmi questo esercizio?"
+        "fr": "Tu peux expliquer cet exercice ? / Pouvez-vous expliquer cet exercice ?",
+        "it": "Puoi spiegare questo esercizio? / Può spiegare questo esercizio?",
+        "de": "Kannst du mir diese Übung erklären? / Können Sie mir diese Übung erklären?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea65",
@@ -713,7 +2250,8 @@
         "en": "What do we have to write here?",
         "pt": "O que temos que escrever aqui?",
         "fr": "Qu'est-ce qu'on doit écrire ici ?",
-        "it": "Che cosa dobbiamo scrivere qui?"
+        "it": "Che cosa dobbiamo scrivere qui?",
+        "de": "Was müssen wir hier schreiben?"
       },
       "image_url": ""
     },
@@ -723,8 +2261,9 @@
       "translations": {
         "en": "What page are we on?",
         "pt": "Em que página estamos?",
-        "fr": "À quelle page sommes-nous ?",
-        "it": "A che pagina siamo?"
+        "fr": "On est à quelle page ?",
+        "it": "A che pagina siamo?",
+        "de": "Auf welcher Seite sind wir?"
       },
       "image_url": ""
     },
@@ -735,18 +2274,20 @@
         "en": "Which exercise are we doing now?",
         "pt": "Qual exercício fazemos agora?",
         "fr": "Quel exercice fait-on maintenant ?",
-        "it": "Quale esercizio facciamo adesso?"
+        "it": "Quale esercizio facciamo adesso?",
+        "de": "Welche Übung machen wir jetzt?"
       },
       "image_url": ""
     },
     {
       "id": "ea68",
-      "es": "¿Es trabajo individual o en parejas?",
+      "es": "¿Trabajamos por separado o en parejas?",
       "translations": {
         "en": "Do we work alone or in pairs?",
-        "pt": "É para fazer individualmente ou em duplas?",
-        "fr": "On travaille seul ou à deux ?",
-        "it": "Si lavora da soli o a coppie?"
+        "pt": "Trabalhamos individualmente ou em duplas?",
+        "fr": "On travaille individuellement ou à deux ?",
+        "it": "Si lavora da soli o a coppie?",
+        "de": "Arbeiten wir allein oder zu zweit?"
       },
       "image_url": ""
     },
@@ -757,9 +2298,13 @@
         "en": "Can I answer?",
         "pt": "Posso responder?",
         "fr": "Je peux répondre ?",
-        "it": "Posso rispondere?"
+        "it": "Posso rispondere?",
+        "de": "Darf ich antworten?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Darf ich …?» pide permiso."
+      }
     },
     {
       "id": "ea70",
@@ -768,7 +2313,8 @@
         "en": "I think the answer is B.",
         "pt": "Acho que a resposta é a B.",
         "fr": "Je pense que la réponse est B.",
-        "it": "Secondo me, la risposta è la B."
+        "it": "Secondo me, la risposta è la B.",
+        "de": "Ich glaube, die Antwort ist B."
       },
       "image_url": ""
     },
@@ -779,7 +2325,8 @@
         "en": "I don't know the answer.",
         "pt": "Não sei a resposta.",
         "fr": "Je ne connais pas la réponse.",
-        "it": "Non so la risposta."
+        "it": "Non so la risposta.",
+        "de": "Ich weiß die Antwort nicht."
       },
       "image_url": ""
     },
@@ -790,7 +2337,8 @@
         "en": "Is my answer correct?",
         "pt": "Minha resposta está correta?",
         "fr": "Ma réponse est-elle correcte ?",
-        "it": "La mia risposta è corretta?"
+        "it": "La mia risposta è corretta?",
+        "de": "Ist meine Antwort richtig?"
       },
       "image_url": ""
     },
@@ -801,7 +2349,8 @@
         "en": "How do you spell this word?",
         "pt": "Como se escreve esta palavra?",
         "fr": "Comment s'écrit ce mot ?",
-        "it": "Come si scrive questa parola?"
+        "it": "Come si scrive questa parola?",
+        "de": "Wie schreibt man dieses Wort?"
       },
       "image_url": ""
     },
@@ -811,8 +2360,9 @@
       "translations": {
         "en": "Where is my mistake?",
         "pt": "Onde está meu erro?",
-        "fr": "Où est mon erreur ?",
-        "it": "Dov'è il mio errore?"
+        "fr": "Où est-ce que je me suis trompé ? / Où est-ce que je me suis trompée ?",
+        "it": "Dov'è il mio errore?",
+        "de": "Wo ist mein Fehler?"
       },
       "image_url": ""
     },
@@ -823,29 +2373,38 @@
         "en": "Can I use the dictionary?",
         "pt": "Posso usar o dicionário?",
         "fr": "Je peux utiliser le dictionnaire ?",
-        "it": "Posso usare il dizionario?"
+        "it": "Posso usare il dizionario?",
+        "de": "Darf ich das Wörterbuch benutzen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Darf ich …?» pide permiso."
+      }
     },
     {
       "id": "ea76",
-      "es": "¿Puede ayudarme con este ejercicio?",
+      "es": "¿Puedes ayudarme con este ejercicio? / ¿Puede ayudarme con este ejercicio?",
       "translations": {
         "en": "Can you help me with this exercise?",
         "pt": "Pode me ajudar com este exercício?",
-        "fr": "Pouvez-vous m'aider pour cet exercice ?",
-        "it": "Può aiutarmi con questo esercizio?"
+        "fr": "Tu peux m'aider à faire cet exercice ? / Pouvez-vous m'aider à faire cet exercice ?",
+        "it": "Puoi aiutarmi con questo esercizio? / Può aiutarmi con questo esercizio?",
+        "de": "Kannst du mir bei dieser Übung helfen? / Können Sie mir bei dieser Übung helfen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)"
+      }
     },
     {
       "id": "ea77",
-      "es": "No veo bien la pizarra.",
+      "es": "No veo bien el pizarrón.",
       "translations": {
         "en": "I can't see the board clearly.",
         "pt": "Não consigo ver bem o quadro.",
         "fr": "Je ne vois pas bien le tableau.",
-        "it": "Non vedo bene la lavagna."
+        "it": "Non vedo bene la lavagna.",
+        "de": "Ich kann die Tafel nicht gut sehen."
       },
       "image_url": ""
     },
@@ -856,7 +2415,8 @@
         "en": "Is there homework for tomorrow?",
         "pt": "Tem lição de casa para amanhã?",
         "fr": "Est-ce qu'il y a des devoirs pour demain ?",
-        "it": "Ci sono compiti per domani?"
+        "it": "Ci sono compiti per domani?",
+        "de": "Haben wir Hausaufgaben für morgen?"
       },
       "image_url": ""
     },
@@ -864,10 +2424,11 @@
       "id": "ea79",
       "es": "¿Cuándo hay que entregar la tarea?",
       "translations": {
-        "en": "When do we have to hand in the assignment?",
+        "en": "When do we have to turn in the assignment?",
         "pt": "Quando temos que entregar a atividade?",
         "fr": "Quand doit-on rendre le devoir ?",
-        "it": "Quando dobbiamo consegnare il compito?"
+        "it": "Quando dobbiamo consegnare il compito?",
+        "de": "Wann müssen wir die Hausaufgabe abgeben?"
       },
       "image_url": ""
     },
@@ -878,7 +2439,8 @@
         "en": "Which pages do we have to read?",
         "pt": "Quais páginas temos que ler?",
         "fr": "Quelles pages doit-on lire ?",
-        "it": "Quali pagine dobbiamo leggere?"
+        "it": "Quali pagine dobbiamo leggere?",
+        "de": "Welche Seiten müssen wir lesen?"
       },
       "image_url": ""
     },
@@ -886,23 +2448,28 @@
       "id": "ea81",
       "es": "Necesito practicar más.",
       "translations": {
-        "en": "I need more practice.",
+        "en": "I need to practice more.",
         "pt": "Preciso praticar mais.",
-        "fr": "J'ai besoin de m'exercer davantage.",
-        "it": "Ho bisogno di fare più pratica."
+        "fr": "Je dois m'exercer plus.",
+        "it": "Ho bisogno di fare più pratica.",
+        "de": "Ich muss mehr üben."
       },
       "image_url": ""
     },
     {
       "id": "ea82",
-      "es": "¿Repasamos juntos?",
+      "es": "¿Repasamos juntos? / ¿Repasamos juntas?",
       "translations": {
-        "en": "Shall we review together?",
-        "pt": "Vamos revisar juntos?",
+        "en": "Do you want to review together?",
+        "pt": "Vamos revisar juntos? / Vamos revisar juntas?",
         "fr": "On révise ensemble ?",
-        "it": "Ripassiamo insieme?"
+        "it": "Ripassiamo insieme?",
+        "de": "Wollen wir das zusammen wiederholen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Repasar lo visto en clase)"
+      }
     },
     {
       "id": "ea83",
@@ -911,9 +2478,14 @@
         "en": "Can I borrow your notes?",
         "pt": "Pode me emprestar suas anotações?",
         "fr": "Tu peux me prêter tes notes ? / Pouvez-vous me prêter vos notes ?",
-        "it": "Mi presti i tuoi appunti? / Mi presta i suoi appunti?"
+        "it": "Mi presti i tuoi appunti? / Mi presta i suoi appunti?",
+        "de": "Kannst du mir deine Mitschrift leihen? / Können Sie mir Ihre Mitschrift leihen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Primero trato informal, luego formal)",
+        "de": "«Mitschrift» son notas tomadas mientras se explica algo."
+      }
     },
     {
       "id": "ea84",
@@ -922,40 +2494,44 @@
         "en": "Is there a test this week?",
         "pt": "Tem prova esta semana?",
         "fr": "Est-ce qu'il y a un contrôle cette semaine ?",
-        "it": "C'è una verifica questa settimana?"
+        "it": "C'è una verifica questa settimana?",
+        "de": "Schreiben wir diese Woche einen Test?"
       },
       "image_url": ""
     },
     {
       "id": "ea85",
-      "es": "¿La prueba es oral o escrita?",
+      "es": "¿El examen es oral o escrito?",
       "translations": {
         "en": "Is the test oral or written?",
         "pt": "A prova é oral ou escrita?",
         "fr": "Le contrôle est-il oral ou écrit ?",
-        "it": "La verifica è orale o scritta?"
+        "it": "La verifica è orale o scritta?",
+        "de": "Ist der Test mündlich oder schriftlich?"
       },
       "image_url": ""
     },
     {
       "id": "ea86",
-      "es": "¿Sobre qué temas es el examen?",
+      "es": "¿Qué temas vienen en el examen?",
       "translations": {
         "en": "What topics does the exam cover?",
         "pt": "Quais assuntos caem na prova?",
         "fr": "Sur quels sujets porte l'examen ?",
-        "it": "Su quali argomenti è l'esame?"
+        "it": "Quali argomenti ci sono all'esame?",
+        "de": "Welche Themen kommen in der Prüfung dran?"
       },
       "image_url": ""
     },
     {
       "id": "ea87",
-      "es": "¿Cuántas preguntas tiene la prueba?",
+      "es": "¿Cuántas preguntas tiene el examen?",
       "translations": {
         "en": "How many questions are on the test?",
         "pt": "Quantas perguntas tem a prova?",
         "fr": "Combien de questions y a-t-il dans le contrôle ?",
-        "it": "Quante domande ci sono nella verifica?"
+        "it": "Quante domande ci sono nella verifica?",
+        "de": "Wie viele Fragen hat der Test?"
       },
       "image_url": ""
     },
@@ -966,7 +2542,8 @@
         "en": "How many answers did I get right?",
         "pt": "Quantas respostas acertei?",
         "fr": "Combien de bonnes réponses ai-je ?",
-        "it": "Quante risposte giuste ho?"
+        "it": "Quante risposte giuste ho?",
+        "de": "Wie viele Antworten habe ich richtig?"
       },
       "image_url": ""
     },
@@ -977,7 +2554,8 @@
         "en": "This answer is incomplete.",
         "pt": "Esta resposta está incompleta.",
         "fr": "Cette réponse est incomplète.",
-        "it": "Questa risposta è incompleta."
+        "it": "Questa risposta è incompleta.",
+        "de": "Diese Antwort ist unvollständig."
       },
       "image_url": ""
     }
