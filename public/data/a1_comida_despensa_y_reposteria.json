@@ -1,0 +1,1089 @@
+{
+  "module": "Despensa y repostería",
+  "level": "A1",
+  "cards": [
+    {
+      "id": "food_181",
+      "es": "el trigo",
+      "translations": {
+        "en": "the wheat",
+        "fr": "le blé",
+        "it": "il grano",
+        "pt": "o trigo"
+      },
+      "image_url": "data/img/trigo.jpg"
+    },
+    {
+      "id": "food_211",
+      "es": "el centeno",
+      "translations": {
+        "en": "the rye",
+        "fr": "le seigle",
+        "it": "la segale",
+        "pt": "o centeio"
+      },
+      "image_url": "data/img/centeno.jpg"
+    },
+    {
+      "id": "food_212",
+      "es": "la quinoa",
+      "translations": {
+        "en": "the quinoa",
+        "fr": "le quinoa",
+        "it": "la quinoa",
+        "pt": "a quinoa"
+      },
+      "image_url": "data/img/quinoa.jpg"
+    },
+    {
+      "id": "food_213",
+      "es": "el amaranto",
+      "translations": {
+        "en": "the amaranth",
+        "fr": "l'amarante",
+        "it": "l'amaranto",
+        "pt": "o amaranto"
+      },
+      "image_url": "data/img/amaranto.jpg"
+    },
+    {
+      "id": "food_214",
+      "es": "la sémola",
+      "translations": {
+        "en": "the semolina",
+        "fr": "la semoule",
+        "it": "la semola",
+        "pt": "a sêmola"
+      },
+      "image_url": "data/img/semola.jpg"
+    },
+    {
+      "id": "food_215",
+      "es": "el arroz integral",
+      "translations": {
+        "en": "the brown rice",
+        "fr": "le riz complet",
+        "it": "il riso integrale",
+        "pt": "o arroz integral"
+      },
+      "image_url": "data/img/arroz_integral.jpg"
+    },
+    {
+      "id": "food_216",
+      "es": "el arroz salvaje",
+      "translations": {
+        "en": "the wild rice",
+        "fr": "le riz sauvage",
+        "it": "il riso selvatico",
+        "pt": "o arroz selvagem"
+      },
+      "image_url": "data/img/arroz_salvaje.jpg"
+    },
+    {
+      "id": "food_326",
+      "es": "la sémola de maíz",
+      "translations": {
+        "en": "the cornmeal",
+        "fr": "la semoule de maïs",
+        "it": "la farina di mais a grana grossa",
+        "pt": "o fubá grosso"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Fubá grosso puede variar de granulometría según el productor"
+      }
+    },
+    {
+      "id": "food_82",
+      "es": "la legumbre",
+      "translations": {
+        "en": "the pulse",
+        "fr": "le légume sec",
+        "it": "il legume",
+        "pt": "a leguminosa"
+      },
+      "image_url": "data/img/legumbres.jpg",
+      "notes": {
+        "fr": "Plural: les légumes secs",
+        "en": "Plural: the pulses",
+        "it": "Plural: i legumi",
+        "pt": "Plural: as leguminosas"
+      }
+    },
+    {
+      "id": "food_217",
+      "es": "el frijol negro",
+      "translations": {
+        "en": "the black bean",
+        "fr": "le haricot noir",
+        "it": "il fagiolo nero",
+        "pt": "o feijão preto"
+      },
+      "image_url": "data/img/frijoles_negros.jpg",
+      "notes": {
+        "en": "Plural: the black beans",
+        "fr": "Plural: les haricots noirs",
+        "it": "Plural: i fagioli neri",
+        "pt": "Plural: os feijões pretos"
+      }
+    },
+    {
+      "id": "food_218",
+      "es": "el frijol pinto",
+      "translations": {
+        "en": "the pinto bean",
+        "fr": "le haricot pinto",
+        "it": "il fagiolo pinto",
+        "pt": "o feijão tipo pinto"
+      },
+      "image_url": "data/img/frijoles_pintos.jpg",
+      "notes": {
+        "en": "Plural: the pinto beans",
+        "fr": "Plural: les haricots pinto",
+        "it": "Plural: i fagioli pinto",
+        "pt": "Plural: os feijões tipo pinto"
+      }
+    },
+    {
+      "id": "food_219",
+      "es": "el frijol mungo",
+      "translations": {
+        "en": "the mung bean",
+        "fr": "le haricot mungo",
+        "it": "il fagiolo mungo",
+        "pt": "o feijão mungo"
+      },
+      "image_url": "data/img/frijol_mungo.jpg",
+      "notes": {
+        "en": "Plural: the mung beans",
+        "fr": "Plural: les haricots mungo",
+        "it": "Plural: i fagioli mungo",
+        "pt": "Plural: os feijões mungo"
+      }
+    },
+    {
+      "id": "food_220",
+      "es": "la soya",
+      "translations": {
+        "en": "the soy",
+        "fr": "le soja",
+        "it": "la soia",
+        "pt": "a soja"
+      },
+      "image_url": "data/img/soya.jpg"
+    },
+    {
+      "id": "food_327",
+      "es": "el frijol carioca",
+      "translations": {
+        "en": "the carioca bean",
+        "fr": "le haricot carioca",
+        "it": "il fagiolo carioca",
+        "pt": "o feijão carioca"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: os feijões cariocas",
+        "en": "Plural: the carioca beans",
+        "fr": "Plural: les haricots carioca",
+        "it": "Plural: i fagioli carioca"
+      }
+    },
+    {
+      "id": "food_182",
+      "es": "el fruto seco",
+      "translations": {
+        "en": "the nut",
+        "fr": "le fruit à coque",
+        "it": "la frutta a guscio",
+        "pt": "a oleaginosa"
+      },
+      "image_url": "data/img/frutos_secos.jpg",
+      "notes": {
+        "es": "Frutos de cáscara: nueces, almendras, avellanas, etc.; no incluye necesariamente fruta deshidratada",
+        "en": "Plural: the nuts",
+        "fr": "Plural: les fruits à coque",
+        "it": "Plural: le frutte a guscio",
+        "pt": "Plural: as oleaginosas"
+      }
+    },
+    {
+      "id": "food_221",
+      "es": "el cacahuate",
+      "translations": {
+        "en": "the peanut",
+        "fr": "la cacahuète",
+        "it": "l'arachide",
+        "pt": "o amendoim"
+      },
+      "image_url": "data/img/cacahuate.jpg",
+      "notes": {
+        "en": "Plural: the peanuts",
+        "fr": "Plural: les cacahuètes",
+        "it": "Plural: le arachidi",
+        "pt": "Plural: os amendoins"
+      }
+    },
+    {
+      "id": "food_222",
+      "es": "la almendra",
+      "translations": {
+        "en": "the almond",
+        "fr": "l'amande",
+        "it": "la mandorla",
+        "pt": "a amêndoa"
+      },
+      "image_url": "data/img/almendra.jpg",
+      "notes": {
+        "en": "Plural: the almonds",
+        "fr": "Plural: les amandes",
+        "it": "Plural: le mandorle",
+        "pt": "Plural: as amêndoas"
+      }
+    },
+    {
+      "id": "food_223",
+      "es": "la nuez",
+      "translations": {
+        "en": "the walnut",
+        "fr": "la noix",
+        "it": "la noce",
+        "pt": "a noz"
+      },
+      "image_url": "data/img/nuez.jpg",
+      "notes": {
+        "en": "Plural: the walnuts",
+        "fr": "Plural: les noix",
+        "it": "Plural: le noci",
+        "pt": "Plural: as nozes"
+      }
+    },
+    {
+      "id": "food_224",
+      "es": "la nuez pecana",
+      "translations": {
+        "en": "the pecan",
+        "fr": "la noix de pécan",
+        "it": "la noce pecan",
+        "pt": "a noz-pecã"
+      },
+      "image_url": "data/img/nuez_pecana.jpg",
+      "notes": {
+        "en": "Plural: the pecans",
+        "fr": "Plural: les noix de pécan",
+        "it": "Plural: le noci pecan",
+        "pt": "Plural: as nozes-pecãs"
+      }
+    },
+    {
+      "id": "food_225",
+      "es": "la avellana",
+      "translations": {
+        "en": "the hazelnut",
+        "fr": "la noisette",
+        "it": "la nocciola",
+        "pt": "a avelã"
+      },
+      "image_url": "data/img/avellana.jpg",
+      "notes": {
+        "en": "Plural: the hazelnuts",
+        "fr": "Plural: les noisettes",
+        "it": "Plural: le nocciole",
+        "pt": "Plural: as avelãs"
+      }
+    },
+    {
+      "id": "food_226",
+      "es": "el pistache",
+      "translations": {
+        "en": "the pistachio",
+        "fr": "la pistache",
+        "it": "il pistacchio",
+        "pt": "o pistache"
+      },
+      "image_url": "data/img/pistache.jpg",
+      "notes": {
+        "en": "Plural: the pistachios",
+        "fr": "Plural: les pistaches",
+        "it": "Plural: i pistacchi",
+        "pt": "Plural: os pistaches"
+      }
+    },
+    {
+      "id": "food_227",
+      "es": "la nuez de la India",
+      "translations": {
+        "en": "the cashew",
+        "fr": "la noix de cajou",
+        "it": "l'anacardio",
+        "pt": "a castanha-de-caju"
+      },
+      "image_url": "data/img/nuez_india.jpg",
+      "notes": {
+        "en": "Plural: the cashews",
+        "fr": "Plural: les noix de cajou",
+        "it": "Plural: gli anacardi",
+        "pt": "Plural: as castanhas-de-caju"
+      }
+    },
+    {
+      "id": "food_228",
+      "es": "la macadamia",
+      "translations": {
+        "en": "the macadamia",
+        "fr": "la noix de macadamia",
+        "it": "la noce di macadamia",
+        "pt": "a macadâmia"
+      },
+      "image_url": "data/img/macadamia.jpg",
+      "notes": {
+        "en": "Plural: the macadamias",
+        "fr": "Plural: les noix de macadamia",
+        "it": "Plural: le noci di macadamia",
+        "pt": "Plural: as macadâmias"
+      }
+    },
+    {
+      "id": "food_229",
+      "es": "la castaña",
+      "translations": {
+        "en": "the chestnut",
+        "fr": "la châtaigne",
+        "it": "la castagna",
+        "pt": "a castanha-portuguesa"
+      },
+      "image_url": "data/img/castana.jpg",
+      "notes": {
+        "en": "Plural: the chestnuts",
+        "fr": "Plural: les châtaignes",
+        "it": "Plural: le castagne",
+        "pt": "Plural: as castanhas-portuguesas"
+      }
+    },
+    {
+      "id": "food_230",
+      "es": "el piñón",
+      "translations": {
+        "en": "the pine nut",
+        "fr": "le pignon de pin",
+        "it": "il pinolo",
+        "pt": "o pinhão"
+      },
+      "image_url": "data/img/pinon.jpg",
+      "notes": {
+        "pt": "Plural: os pinolis",
+        "en": "Plural: the pine nuts",
+        "fr": "Plural: les pignons de pin",
+        "it": "Plural: i pinoli"
+      }
+    },
+    {
+      "id": "food_231",
+      "es": "el ajonjolí",
+      "translations": {
+        "en": "the sesame",
+        "fr": "le sésame",
+        "it": "il sesamo",
+        "pt": "o gergelim"
+      },
+      "image_url": "data/img/ajonjoli.jpg"
+    },
+    {
+      "id": "food_232",
+      "es": "la chía",
+      "translations": {
+        "en": "the chia",
+        "fr": "le chia",
+        "it": "la chia",
+        "pt": "a chia"
+      },
+      "image_url": "data/img/chia.jpg"
+    },
+    {
+      "id": "food_233",
+      "es": "la linaza",
+      "translations": {
+        "en": "the flaxseed",
+        "fr": "la graine de lin",
+        "it": "il seme di lino",
+        "pt": "a linhaça"
+      },
+      "image_url": "data/img/linaza.jpg"
+    },
+    {
+      "id": "food_234",
+      "es": "la semilla de girasol",
+      "translations": {
+        "en": "the sunflower seed",
+        "fr": "la graine de tournesol",
+        "it": "il seme di girasole",
+        "pt": "a semente de girassol"
+      },
+      "image_url": "data/img/semilla_girasol.jpg",
+      "notes": {
+        "en": "Plural: the sunflower seeds",
+        "fr": "Plural: les graines de tournesol",
+        "it": "Plural: i semi di girasole",
+        "pt": "Plural: as sementes de girassol"
+      }
+    },
+    {
+      "id": "food_235",
+      "es": "la semilla de calabaza",
+      "translations": {
+        "en": "the pumpkin seed",
+        "fr": "la graine de courge",
+        "it": "il seme di zucca",
+        "pt": "a semente de abóbora"
+      },
+      "image_url": "data/img/semilla_calabaza.jpg",
+      "notes": {
+        "en": "Plural: the pumpkin seeds",
+        "fr": "Plural: les graines de courge",
+        "it": "Plural: i semi di zucca",
+        "pt": "Plural: as sementes de abóbora"
+      }
+    },
+    {
+      "id": "food_236",
+      "es": "la granola",
+      "translations": {
+        "en": "the granola",
+        "fr": "le granola",
+        "it": "la granola",
+        "pt": "a granola"
+      },
+      "image_url": "data/img/granola.jpg"
+    },
+    {
+      "id": "food_358",
+      "es": "la crema de cacahuate",
+      "translations": {
+        "en": "the peanut butter",
+        "fr": "le beurre de cacahuète",
+        "it": "il burro di arachidi",
+        "pt": "a pasta de amendoim"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_53",
+      "es": "la albahaca",
+      "translations": {
+        "en": "the basil",
+        "fr": "le basilic",
+        "it": "il basilico",
+        "pt": "o manjericão"
+      },
+      "image_url": "data/img/albahaca.jpg"
+    },
+    {
+      "id": "food_144",
+      "es": "el cilantro",
+      "translations": {
+        "en": "the cilantro",
+        "fr": "la coriandre",
+        "it": "il coriandolo",
+        "pt": "o coentro"
+      },
+      "image_url": "data/img/cilantro.jpg"
+    },
+    {
+      "id": "food_145",
+      "es": "el romero",
+      "translations": {
+        "en": "the rosemary",
+        "fr": "le romarin",
+        "it": "il rosmarino",
+        "pt": "o alecrim"
+      },
+      "image_url": "data/img/romero.jpg"
+    },
+    {
+      "id": "food_146",
+      "es": "la hoja de laurel",
+      "translations": {
+        "en": "the bay leaf",
+        "fr": "la feuille de laurier",
+        "it": "la foglia di alloro",
+        "pt": "a folha de louro"
+      },
+      "image_url": "data/img/laurel.jpg",
+      "notes": {
+        "en": "Plural: the bay leaves",
+        "fr": "Plural: les feuilles de laurier",
+        "it": "Plural: le foglie di alloro",
+        "pt": "Plural: as folhas de louro"
+      }
+    },
+    {
+      "id": "food_147",
+      "es": "la menta",
+      "translations": {
+        "en": "the mint",
+        "fr": "la menthe",
+        "it": "la menta",
+        "pt": "a hortelã"
+      },
+      "image_url": "data/img/menta.jpg"
+    },
+    {
+      "id": "food_148",
+      "es": "el comino",
+      "translations": {
+        "en": "the cumin",
+        "fr": "le cumin",
+        "it": "il cumino",
+        "pt": "o cominho"
+      },
+      "image_url": "data/img/comino.jpg"
+    },
+    {
+      "id": "food_149",
+      "es": "el perejil",
+      "translations": {
+        "en": "the parsley",
+        "fr": "le persil",
+        "it": "il prezzemolo",
+        "pt": "a salsa"
+      },
+      "image_url": "data/img/perejil.jpg"
+    },
+    {
+      "id": "food_150",
+      "es": "la cúrcuma",
+      "translations": {
+        "en": "the turmeric",
+        "fr": "le curcuma",
+        "it": "la curcuma",
+        "pt": "a cúrcuma"
+      },
+      "image_url": "data/img/curcuma.jpg"
+    },
+    {
+      "id": "food_153",
+      "es": "el clavo de olor",
+      "translations": {
+        "en": "the clove",
+        "fr": "le clou de girofle",
+        "it": "il chiodo di garofano",
+        "pt": "o cravo"
+      },
+      "image_url": "data/img/clavo.jpg"
+    },
+    {
+      "id": "food_154",
+      "es": "la pimienta negra",
+      "translations": {
+        "en": "the black pepper",
+        "fr": "le poivre noir",
+        "it": "il pepe nero",
+        "pt": "a pimenta-do-reino"
+      },
+      "image_url": "data/img/pimienta.jpg"
+    },
+    {
+      "id": "food_155",
+      "es": "la paprika",
+      "translations": {
+        "en": "the paprika",
+        "fr": "le paprika",
+        "it": "la paprika",
+        "pt": "a páprica"
+      },
+      "image_url": "data/img/pimenton.jpg"
+    },
+    {
+      "id": "food_156",
+      "es": "la nuez moscada",
+      "translations": {
+        "en": "the nutmeg",
+        "fr": "la noix de muscade",
+        "it": "la noce moscata",
+        "pt": "a noz-moscada"
+      },
+      "image_url": "data/img/nuez_moscada.jpg"
+    },
+    {
+      "id": "food_157",
+      "es": "el jengibre",
+      "translations": {
+        "en": "the ginger",
+        "fr": "le gingembre",
+        "it": "lo zenzero",
+        "pt": "o gengibre"
+      },
+      "image_url": "data/img/jengibre.jpg"
+    },
+    {
+      "id": "food_333",
+      "es": "la canela",
+      "translations": {
+        "en": "the cinnamon",
+        "fr": "la cannelle",
+        "it": "la cannella",
+        "pt": "a canela"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_334",
+      "es": "el orégano",
+      "translations": {
+        "en": "the oregano",
+        "fr": "l'origan",
+        "it": "l'origano",
+        "pt": "o orégano"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_335",
+      "es": "el tomillo",
+      "translations": {
+        "en": "the thyme",
+        "fr": "le thym",
+        "it": "il timo",
+        "pt": "o tomilho"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_350",
+      "es": "el chile jalapeño",
+      "translations": {
+        "en": "the jalapeño pepper",
+        "fr": "le piment jalapeño",
+        "it": "il peperoncino jalapeño",
+        "pt": "a pimenta jalapeño"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the jalapeño peppers",
+        "fr": "Plural: les piments jalapeño",
+        "it": "Plural: i peperoncini jalapeño",
+        "pt": "Plural: as pimentas jalapeño"
+      }
+    },
+    {
+      "id": "food_351",
+      "es": "el ajo en polvo",
+      "translations": {
+        "en": "the garlic powder",
+        "fr": "l'ail en poudre",
+        "it": "l'aglio in polvere",
+        "pt": "o alho em pó"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_352",
+      "es": "la pimienta blanca",
+      "translations": {
+        "en": "the white pepper",
+        "fr": "le poivre blanc",
+        "it": "il pepe bianco",
+        "pt": "a pimenta-branca"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_75",
+      "es": "la mayonesa",
+      "translations": {
+        "en": "the mayonnaise",
+        "fr": "la mayonnaise",
+        "it": "la maionese",
+        "pt": "a maionese"
+      },
+      "image_url": "data/img/mayonesa.jpg"
+    },
+    {
+      "id": "food_76",
+      "es": "la mostaza",
+      "translations": {
+        "en": "the mustard",
+        "fr": "la moutarde",
+        "it": "la senape",
+        "pt": "a mostarda"
+      },
+      "image_url": "data/img/mostaza.jpg"
+    },
+    {
+      "id": "food_158",
+      "es": "la salsa de soya",
+      "translations": {
+        "en": "the soy sauce",
+        "fr": "la sauce soja",
+        "it": "la salsa di soia",
+        "pt": "o molho de soja"
+      },
+      "image_url": "data/img/salsa_soya.jpg"
+    },
+    {
+      "id": "food_159",
+      "es": "la cátsup",
+      "translations": {
+        "en": "the ketchup",
+        "fr": "le ketchup",
+        "it": "il ketchup",
+        "pt": "o ketchup"
+      },
+      "image_url": "data/img/catsup.jpg"
+    },
+    {
+      "id": "food_339",
+      "es": "la salsa de tomate",
+      "translations": {
+        "en": "the tomato sauce",
+        "fr": "la sauce tomate",
+        "it": "la salsa di pomodoro",
+        "pt": "o molho de tomate"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_349",
+      "es": "el jugo de limón",
+      "translations": {
+        "en": "the lemon juice",
+        "fr": "le jus de citron",
+        "it": "il succo di limone",
+        "pt": "o suco de limão"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_369",
+      "es": "la salsa picante",
+      "translations": {
+        "en": "the hot sauce",
+        "fr": "la sauce piquante",
+        "it": "la salsa piccante",
+        "pt": "o molho de pimenta"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_268",
+      "es": "la harina fina de maíz",
+      "translations": {
+        "en": "the fine corn flour",
+        "fr": "la farine fine de maïs",
+        "it": "la farina fine di mais",
+        "pt": "a farinha fina de milho"
+      },
+      "image_url": "data/img/harina_maiz.jpg",
+      "notes": {
+        "en": "En Estados Unidos, corn flour es harina fina de maíz; cornstarch es fécula de maíz"
+      }
+    },
+    {
+      "id": "food_269",
+      "es": "la harina de arroz",
+      "translations": {
+        "en": "the rice flour",
+        "fr": "la farine de riz",
+        "it": "la farina di riso",
+        "pt": "a farinha de arroz"
+      },
+      "image_url": "data/img/harina_arroz.jpg"
+    },
+    {
+      "id": "food_270",
+      "es": "la harina de almendra",
+      "translations": {
+        "en": "the almond flour",
+        "fr": "la farine d'amande",
+        "it": "la farina di mandorle",
+        "pt": "a farinha de amêndoa"
+      },
+      "image_url": "data/img/harina_almendra.jpg"
+    },
+    {
+      "id": "food_271",
+      "es": "la fécula de maíz",
+      "translations": {
+        "en": "the cornstarch",
+        "fr": "la fécule de maïs",
+        "it": "l'amido di mais",
+        "pt": "o amido de milho"
+      },
+      "image_url": "data/img/fecula_maiz.jpg"
+    },
+    {
+      "id": "food_272",
+      "es": "la levadura de panadería",
+      "translations": {
+        "en": "the yeast",
+        "fr": "la levure boulangère",
+        "it": "il lievito di birra",
+        "pt": "o fermento biológico"
+      },
+      "image_url": "data/img/levadura.jpg",
+      "notes": {
+        "fr": "Levadura de panadería; la de repostería es levure chimique",
+        "it": "Lievito di birra es levadura de panadería, no polvo para hornear"
+      }
+    },
+    {
+      "id": "food_273",
+      "es": "el polvo para hornear",
+      "translations": {
+        "en": "the baking powder",
+        "fr": "la levure chimique",
+        "it": "il lievito chimico in polvere",
+        "pt": "o fermento químico em pó"
+      },
+      "image_url": "data/img/polvo_hornear.jpg"
+    },
+    {
+      "id": "food_274",
+      "es": "el bicarbonato de sodio",
+      "translations": {
+        "en": "the baking soda",
+        "fr": "le bicarbonate de soude",
+        "it": "il bicarbonato di sodio",
+        "pt": "o bicarbonato de sódio"
+      },
+      "image_url": "data/img/bicarbonato_sodio.jpg"
+    },
+    {
+      "id": "food_275",
+      "es": "el cacao",
+      "translations": {
+        "en": "the cacao",
+        "fr": "le cacao",
+        "it": "il cacao",
+        "pt": "o cacau"
+      },
+      "image_url": "data/img/cacao.jpg",
+      "notes": {
+        "en": "Cacao refiere al cacao; cocoa suele usarse para el polvo procesado"
+      }
+    },
+    {
+      "id": "food_276",
+      "es": "el cacao en polvo",
+      "translations": {
+        "en": "the cocoa powder",
+        "fr": "la poudre de cacao",
+        "it": "il cacao in polvere",
+        "pt": "o cacau em pó"
+      },
+      "image_url": "data/img/cacao_polvo.jpg"
+    },
+    {
+      "id": "food_277",
+      "es": "la vainilla",
+      "translations": {
+        "en": "the vanilla",
+        "fr": "la vanille",
+        "it": "la vaniglia",
+        "pt": "a baunilha"
+      },
+      "image_url": "data/img/vainilla.jpg"
+    },
+    {
+      "id": "food_278",
+      "es": "la esencia de vainilla",
+      "translations": {
+        "en": "the vanilla flavoring",
+        "fr": "l'arôme de vanille",
+        "it": "l'aroma di vaniglia",
+        "pt": "a essência de baunilha"
+      },
+      "image_url": "data/img/esencia_vainilla.jpg",
+      "notes": {
+        "es": "Esencia o saborizante; no necesariamente extracto natural"
+      }
+    },
+    {
+      "id": "food_330",
+      "es": "el extracto de vainilla",
+      "translations": {
+        "en": "the vanilla extract",
+        "fr": "l'extrait de vanille",
+        "it": "l'estratto di vaniglia",
+        "pt": "o extrato de baunilha"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_279",
+      "es": "el azúcar morena",
+      "translations": {
+        "en": "the brown sugar",
+        "fr": "la cassonade",
+        "it": "lo zucchero di canna",
+        "pt": "o açúcar mascavo"
+      },
+      "image_url": "data/img/azucar_morena.jpg",
+      "notes": {
+        "fr": "Cassonade es azúcar morena, pero su composición depende del producto"
+      }
+    },
+    {
+      "id": "food_280",
+      "es": "el azúcar glas",
+      "translations": {
+        "en": "the powdered sugar",
+        "fr": "le sucre glace",
+        "it": "lo zucchero a velo",
+        "pt": "o açúcar de confeiteiro"
+      },
+      "image_url": "data/img/azucar_glas.jpg"
+    },
+    {
+      "id": "food_281",
+      "es": "el piloncillo",
+      "translations": {
+        "en": "the piloncillo",
+        "fr": "le piloncillo",
+        "it": "il piloncillo",
+        "pt": "a rapadura mexicana"
+      },
+      "image_url": "data/img/piloncillo.jpg"
+    },
+    {
+      "id": "food_282",
+      "es": "el jarabe de maple",
+      "translations": {
+        "en": "the maple syrup",
+        "fr": "le sirop d'érable",
+        "it": "lo sciroppo d'acero",
+        "pt": "o xarope de bordo"
+      },
+      "image_url": "data/img/jarabe_maple.jpg"
+    },
+    {
+      "id": "food_283",
+      "es": "el jarabe de agave",
+      "translations": {
+        "en": "the agave syrup",
+        "fr": "le sirop d'agave",
+        "it": "lo sciroppo d'agave",
+        "pt": "o xarope de agave"
+      },
+      "image_url": "data/img/jarabe_agave.jpg"
+    },
+    {
+      "id": "food_284",
+      "es": "el edulcorante",
+      "translations": {
+        "en": "the sweetener",
+        "fr": "l'édulcorant",
+        "it": "il dolcificante",
+        "pt": "o adoçante"
+      },
+      "image_url": "data/img/edulcorante.jpg",
+      "notes": {
+        "en": "Plural: the sweeteners",
+        "fr": "Plural: les édulcorants",
+        "it": "Plural: i dolcificanti",
+        "pt": "Plural: os adoçantes"
+      }
+    },
+    {
+      "id": "food_285",
+      "es": "la gelatina sin sabor",
+      "translations": {
+        "en": "the unflavored gelatin",
+        "fr": "la gélatine nature",
+        "it": "la gelatina neutra",
+        "pt": "a gelatina sem sabor"
+      },
+      "image_url": "data/img/gelatina_sin_sabor.jpg"
+    },
+    {
+      "id": "food_286",
+      "es": "el chocolate amargo",
+      "translations": {
+        "en": "the dark chocolate",
+        "fr": "le chocolat noir",
+        "it": "il cioccolato fondente",
+        "pt": "o chocolate amargo"
+      },
+      "image_url": "data/img/chocolate_amargo.jpg"
+    },
+    {
+      "id": "food_287",
+      "es": "la chispa de chocolate",
+      "translations": {
+        "en": "the chocolate chip",
+        "fr": "la pépite de chocolat",
+        "it": "la goccia di cioccolato",
+        "pt": "a gota de chocolate"
+      },
+      "image_url": "data/img/chispas_chocolate.jpg",
+      "notes": {
+        "en": "Plural: the chocolate chips",
+        "fr": "Plural: les pépites de chocolat",
+        "it": "Plural: le gocce di cioccolato",
+        "pt": "Plural: as gotas de chocolate"
+      }
+    },
+    {
+      "id": "food_288",
+      "es": "el coco rallado",
+      "translations": {
+        "en": "the grated coconut",
+        "fr": "la noix de coco râpée",
+        "it": "il cocco grattugiato",
+        "pt": "o coco ralado"
+      },
+      "image_url": "data/img/coco_rallado.jpg"
+    },
+    {
+      "id": "food_289",
+      "es": "la crema pastelera",
+      "translations": {
+        "en": "the pastry cream",
+        "fr": "la crème pâtissière",
+        "it": "la crema pasticcera",
+        "pt": "o creme de confeiteiro"
+      },
+      "image_url": "data/img/crema_pastelera.jpg"
+    },
+    {
+      "id": "food_290",
+      "es": "el mazapán de almendra",
+      "translations": {
+        "en": "the marzipan",
+        "fr": "la pâte d'amande",
+        "it": "il marzapane",
+        "pt": "o marzipã"
+      },
+      "image_url": "data/img/mazapan.jpg"
+    },
+    {
+      "id": "food_328",
+      "es": "la crema chantilly",
+      "translations": {
+        "en": "the Chantilly cream",
+        "fr": "la crème chantilly",
+        "it": "la panna montata zuccherata",
+        "pt": "o chantilly"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_331",
+      "es": "el mazapán de cacahuate",
+      "translations": {
+        "en": "the Mexican peanut mazapán",
+        "fr": "le mazapán mexicain aux cacahuètes",
+        "it": "il dolce messicano alle arachidi",
+        "pt": "o mazapán mexicano de amendoim"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Dulce mexicano de cacahuate; distinto del mazapán europeo de almendra",
+        "en": "Plural: the Mexican peanut mazapáns",
+        "fr": "Plural: les mazapáns mexicains aux cacahuètes",
+        "it": "Plural: i dolci messicani alle arachidi (mazapán)",
+        "pt": "Plural: os mazapáns mexicanos de amendoim"
+      }
+    }
+  ]
+}

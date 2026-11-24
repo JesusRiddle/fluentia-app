@@ -1,0 +1,1185 @@
+{
+  "module": "Carnes, mariscos y lácteos",
+  "level": "A1",
+  "cards": [
+    {
+      "id": "food_96",
+      "es": "la carne de ternera",
+      "translations": {
+        "en": "the veal",
+        "fr": "la viande de veau",
+        "it": "la carne di vitello",
+        "pt": "a carne de vitela"
+      },
+      "image_url": "data/img/ternera.jpg"
+    },
+    {
+      "id": "food_97",
+      "es": "la carne de cordero",
+      "translations": {
+        "en": "the lamb",
+        "fr": "la viande d'agneau",
+        "it": "la carne d'agnello",
+        "pt": "a carne de cordeiro"
+      },
+      "image_url": "data/img/cordero.jpg"
+    },
+    {
+      "id": "food_98",
+      "es": "la carne de ave",
+      "translations": {
+        "en": "the poultry",
+        "fr": "la volaille",
+        "it": "il pollame",
+        "pt": "a carne de ave"
+      },
+      "image_url": "data/img/carne_ave.jpg",
+      "notes": {
+        "fr": "Volaille es nombre colectivo; también puede referirse a un ave de corral"
+      }
+    },
+    {
+      "id": "food_99",
+      "es": "la carne de pavo",
+      "translations": {
+        "en": "the turkey meat",
+        "fr": "la viande de dinde",
+        "it": "la carne di tacchino",
+        "pt": "a carne de peru"
+      },
+      "image_url": "data/img/pavo.jpg",
+      "notes": {
+        "en": "Plural: the turkeys",
+        "fr": "Uso alimentario; el ave macho es le dindon (pl. les dindons)",
+        "it": "Plural: i tacchini",
+        "pt": "Plural: os perus"
+      }
+    },
+    {
+      "id": "food_100",
+      "es": "la carne de venado",
+      "translations": {
+        "en": "the venison",
+        "fr": "la viande de cerf",
+        "it": "la carne di cervo",
+        "pt": "a carne de veado"
+      },
+      "image_url": "data/img/venado.jpg"
+    },
+    {
+      "id": "food_101",
+      "es": "la carne de avestruz",
+      "translations": {
+        "en": "the ostrich meat",
+        "fr": "la viande d'autruche",
+        "it": "la carne di struzzo",
+        "pt": "a carne de avestruz"
+      },
+      "image_url": "data/img/avestruz.jpg"
+    },
+    {
+      "id": "food_237",
+      "es": "el pato",
+      "translations": {
+        "en": "the duck",
+        "fr": "le canard",
+        "it": "l'anatra",
+        "pt": "o pato"
+      },
+      "image_url": "data/img/pato.jpg",
+      "notes": {
+        "en": "Plural: the ducks",
+        "fr": "Plural: les canards",
+        "it": "Plural: le anatre",
+        "pt": "Plural: os patos"
+      }
+    },
+    {
+      "id": "food_238",
+      "es": "el conejo",
+      "translations": {
+        "en": "the rabbit",
+        "fr": "le lapin",
+        "it": "il coniglio",
+        "pt": "o coelho"
+      },
+      "image_url": "data/img/conejo.jpg",
+      "notes": {
+        "en": "Plural: the rabbits",
+        "fr": "Plural: les lapins",
+        "it": "Plural: i conigli",
+        "pt": "Plural: os coelhos"
+      }
+    },
+    {
+      "id": "food_102",
+      "es": "la chuleta",
+      "translations": {
+        "en": "the chop",
+        "fr": "la côtelette",
+        "it": "la costoletta",
+        "pt": "a costeleta"
+      },
+      "image_url": "data/img/chuleta.jpg",
+      "notes": {
+        "en": "Plural: the chops",
+        "fr": "Plural: les côtelettes",
+        "it": "Plural: le costolette",
+        "pt": "Plural: as costeletas"
+      }
+    },
+    {
+      "id": "food_103",
+      "es": "la costilla",
+      "translations": {
+        "en": "the rib",
+        "fr": "la côte",
+        "it": "la costina",
+        "pt": "a costela"
+      },
+      "image_url": "data/img/costilla.jpg",
+      "notes": {
+        "en": "Plural: the ribs",
+        "fr": "Plural: les côtes",
+        "it": "Plural: le costine",
+        "pt": "Plural: as costelas"
+      }
+    },
+    {
+      "id": "food_104",
+      "es": "el bistec",
+      "translations": {
+        "en": "the steak",
+        "fr": "le steak",
+        "it": "la bistecca",
+        "pt": "o bife"
+      },
+      "image_url": "data/img/bistec.jpg",
+      "notes": {
+        "en": "Plural: the steaks",
+        "fr": "Plural: les steaks",
+        "it": "Plural: le bistecche",
+        "pt": "Plural: os bifes"
+      }
+    },
+    {
+      "id": "food_105",
+      "es": "el lomo de cerdo",
+      "translations": {
+        "en": "the pork loin",
+        "fr": "la longe de porc",
+        "it": "la lonza di maiale",
+        "pt": "o lombo de porco"
+      },
+      "image_url": "data/img/lomo.jpg",
+      "notes": {
+        "it": "Plural: le lonze di maiale",
+        "en": "Plural: the pork loins",
+        "fr": "Plural: les longes de porc",
+        "pt": "Plural: os lombos de porco"
+      }
+    },
+    {
+      "id": "food_106",
+      "es": "el chuletón",
+      "translations": {
+        "en": "the bone-in ribeye",
+        "fr": "la côte de bœuf",
+        "it": "la costata di manzo con osso",
+        "pt": "o ribeye com osso"
+      },
+      "image_url": "data/img/chuleton.jpg",
+      "notes": {
+        "es": "Corte de res con hueso",
+        "en": "Plural: the bone-in ribeyes",
+        "fr": "Plural: les côtes de bœuf",
+        "it": "Plural: le costate di manzo con osso",
+        "pt": "Plural: os ribeyes com osso"
+      }
+    },
+    {
+      "id": "food_107",
+      "es": "la carne molida",
+      "translations": {
+        "en": "the ground meat",
+        "fr": "la viande hachée",
+        "it": "la carne macinata",
+        "pt": "a carne moída"
+      },
+      "image_url": "data/img/carne_molida.jpg"
+    },
+    {
+      "id": "food_108",
+      "es": "la pierna de cordero",
+      "translations": {
+        "en": "the leg of lamb",
+        "fr": "le gigot d'agneau",
+        "it": "il cosciotto d'agnello",
+        "pt": "a perna de cordeiro"
+      },
+      "image_url": "data/img/pierna_cordero.jpg",
+      "notes": {
+        "en": "Plural: the legs of lamb",
+        "fr": "Plural: les gigots d'agneau",
+        "it": "Plural: i cosciotti d'agnello",
+        "pt": "Plural: as pernas de cordeiro"
+      }
+    },
+    {
+      "id": "food_316",
+      "es": "el solomillo de cerdo",
+      "translations": {
+        "en": "the pork tenderloin",
+        "fr": "le filet mignon de porc",
+        "it": "il filetto di maiale",
+        "pt": "o filé-mignon suíno"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the pork tenderloins",
+        "fr": "Plural: les filets mignons de porc",
+        "it": "Plural: i filetti di maiale",
+        "pt": "Plural: os filés-mignons suínos"
+      }
+    },
+    {
+      "id": "food_317",
+      "es": "el ribeye sin hueso",
+      "translations": {
+        "en": "the boneless ribeye steak",
+        "fr": "l'entrecôte de bœuf",
+        "it": "la costata disossata",
+        "pt": "o bife ancho"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Entrecot no siempre equivale exactamente a ribeye sin hueso según el despiece",
+        "en": "Plural: the boneless ribeye steaks",
+        "fr": "Plural: les entrecôtes de bœuf",
+        "it": "Plural: le costate disossate",
+        "pt": "Plural: os bifes ancho"
+      }
+    },
+    {
+      "id": "food_109",
+      "es": "el contramuslo de pollo",
+      "translations": {
+        "en": "the chicken thigh",
+        "fr": "le haut de cuisse de poulet",
+        "it": "la sovracoscia di pollo",
+        "pt": "a sobrecoxa de frango"
+      },
+      "image_url": "data/img/muslo_pollo.jpg",
+      "notes": {
+        "es": "Parte superior del muslo; no confundir con la pierna inferior",
+        "en": "Plural: the chicken thighs",
+        "fr": "Plural: les hauts de cuisse de poulet",
+        "it": "Plural: le sovracosce di pollo",
+        "pt": "Plural: as sobrecoxas de frango"
+      }
+    },
+    {
+      "id": "food_110",
+      "es": "el ala de pollo",
+      "translations": {
+        "en": "the chicken wing",
+        "fr": "l’aile de poulet",
+        "it": "l'ala di pollo",
+        "pt": "a asa de frango"
+      },
+      "image_url": "data/img/alitas.jpg",
+      "notes": {
+        "en": "Plural: the chicken wings",
+        "fr": "Plural: les ailes de poulet",
+        "it": "Plural: le ali di pollo",
+        "pt": "Plural: as asas de frango"
+      }
+    },
+    {
+      "id": "food_318",
+      "es": "la pierna de pollo",
+      "translations": {
+        "en": "the chicken drumstick",
+        "fr": "le pilon de poulet",
+        "it": "il fuso di pollo",
+        "pt": "a coxa de frango"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Parte inferior de la pierna; en francés pilon y en inglés drumstick",
+        "en": "Plural: the chicken drumsticks",
+        "fr": "Plural: les pilons de poulet",
+        "it": "Plural: i fusi di pollo",
+        "pt": "Plural: as coxas de frango"
+      }
+    },
+    {
+      "id": "food_340",
+      "es": "la pechuga de pollo",
+      "translations": {
+        "en": "the chicken breast",
+        "fr": "le blanc de poulet",
+        "it": "il petto di pollo",
+        "pt": "o peito de frango"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the chicken breasts",
+        "fr": "Plural: les blancs de poulet",
+        "it": "Plural: i petti di pollo",
+        "pt": "Plural: os peitos de frango"
+      }
+    },
+    {
+      "id": "food_63",
+      "es": "el tocino",
+      "translations": {
+        "en": "the bacon",
+        "fr": "le lard fumé en tranches",
+        "it": "la pancetta affumicata",
+        "pt": "o bacon"
+      },
+      "image_url": "data/img/tocino.jpg",
+      "notes": {
+        "it": "También se usa il bacon; pancetta no siempre significa tocino ahumado"
+      }
+    },
+    {
+      "id": "food_115",
+      "es": "la cecina",
+      "translations": {
+        "en": "the Mexican cecina",
+        "fr": "la cecina mexicaine",
+        "it": "la cecina messicana",
+        "pt": "a cecina mexicana"
+      },
+      "image_url": "data/img/cecina.jpg",
+      "notes": {
+        "es": "Cecina mexicana de res, delgada y salada; no equivale siempre a la cecina española"
+      }
+    },
+    {
+      "id": "food_116",
+      "es": "la carne ahumada",
+      "translations": {
+        "en": "the smoked meat",
+        "fr": "la viande fumée",
+        "it": "la carne affumicata",
+        "pt": "a carne defumada"
+      },
+      "image_url": "data/img/carne_ahumada.jpg"
+    },
+    {
+      "id": "food_117",
+      "es": "los embutidos",
+      "translations": {
+        "en": "the cured meats and sausages",
+        "fr": "les charcuteries",
+        "it": "gli insaccati",
+        "pt": "os embutidos"
+      },
+      "image_url": "data/img/embutidos.jpg",
+      "notes": {
+        "en": "Categoría de embutidos; no equivale a todo tipo de fiambres (cold cuts)"
+      }
+    },
+    {
+      "id": "food_321",
+      "es": "Los fiambres",
+      "translations": {
+        "en": "the cold cuts",
+        "fr": "la charcuterie en tranches",
+        "it": "gli affettati",
+        "pt": "os frios"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Carnes frías rebanadas)",
+        "fr": "Plural: les charcuteries en tranches"
+      }
+    },
+    {
+      "id": "food_239",
+      "es": "el salami",
+      "translations": {
+        "en": "the salami",
+        "fr": "le salami",
+        "it": "il salame",
+        "pt": "o salame"
+      },
+      "image_url": "data/img/salami.jpg",
+      "notes": {
+        "en": "Plural: the salamis",
+        "fr": "Plural: les salamis",
+        "it": "Plural: i salami",
+        "pt": "Plural: os salames"
+      }
+    },
+    {
+      "id": "food_240",
+      "es": "la mortadela",
+      "translations": {
+        "en": "the mortadella",
+        "fr": "la mortadelle",
+        "it": "la mortadella",
+        "pt": "a mortadela"
+      },
+      "image_url": "data/img/mortadela.jpg",
+      "notes": {
+        "en": "Plural: the mortadellas",
+        "fr": "Plural: les mortadelles",
+        "it": "Plural: le mortadelle",
+        "pt": "Plural: as mortadelas"
+      }
+    },
+    {
+      "id": "food_315",
+      "es": "la salchicha fresca",
+      "translations": {
+        "en": "the fresh sausage",
+        "fr": "la saucisse fraîche",
+        "it": "la salsiccia fresca",
+        "pt": "a linguiça fresca"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Embutido fresco para asar; distinto de la salchicha para hot dog",
+        "en": "Plural: the fresh sausages",
+        "fr": "Plural: les saucisses fraîches",
+        "it": "Plural: le salsicce fresche",
+        "pt": "Plural: as linguiças frescas"
+      }
+    },
+    {
+      "id": "food_353",
+      "es": "la salchicha italiana",
+      "translations": {
+        "en": "the Italian sausage",
+        "fr": "la saucisse italienne",
+        "it": "la salsiccia italiana",
+        "pt": "a linguiça italiana"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the Italian sausages",
+        "fr": "Plural: les saucisses italiennes",
+        "it": "Plural: le salsicce italiane",
+        "pt": "Plural: as linguiças italianas"
+      }
+    },
+    {
+      "id": "food_371",
+      "es": "la salchicha para asar",
+      "translations": {
+        "en": "the grilling sausage",
+        "fr": "la saucisse à griller",
+        "it": "la salsiccia da griglia",
+        "pt": "a linguiça para churrasco"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the grilling sausages",
+        "fr": "Plural: les saucisses à griller",
+        "it": "Plural: le salsicce da griglia",
+        "pt": "Plural: as linguiças para churrasco"
+      }
+    },
+    {
+      "id": "food_320",
+      "es": "la carne seca tipo jerky",
+      "translations": {
+        "en": "the beef jerky",
+        "fr": "le bœuf séché",
+        "it": "la carne bovina essiccata",
+        "pt": "a carne bovina desidratada"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Tiras secas de carne, distintas de la carne seca regional preparada para guisos"
+      }
+    },
+    {
+      "id": "food_357",
+      "es": "la manteca de cerdo",
+      "translations": {
+        "en": "the lard",
+        "fr": "le saindoux",
+        "it": "lo strutto",
+        "pt": "a banha de porco"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_119",
+      "es": "el bacalao fresco",
+      "translations": {
+        "en": "the fresh cod",
+        "fr": "le cabillaud",
+        "it": "il merluzzo fresco",
+        "pt": "o bacalhau fresco"
+      },
+      "image_url": "data/img/bacalao.jpg",
+      "notes": {
+        "fr": "Plural: les cabillauds",
+        "it": "Plural: i merluzzi freschi",
+        "pt": "Plural: os bacalhaus frescos"
+      }
+    },
+    {
+      "id": "food_323",
+      "es": "el bacalao salado",
+      "translations": {
+        "en": "the salt cod",
+        "fr": "la morue salée",
+        "it": "il baccalà",
+        "pt": "o bacalhau salgado"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_120",
+      "es": "la sardina",
+      "translations": {
+        "en": "the sardine",
+        "fr": "la sardine",
+        "it": "la sardina",
+        "pt": "a sardinha"
+      },
+      "image_url": "data/img/sardina.jpg",
+      "notes": {
+        "en": "Plural: the sardines",
+        "fr": "Plural: les sardines",
+        "it": "Plural: le sardine",
+        "pt": "Plural: as sardinhas"
+      }
+    },
+    {
+      "id": "food_122",
+      "es": "la trucha",
+      "translations": {
+        "en": "the trout",
+        "fr": "la truite",
+        "it": "la trota",
+        "pt": "a truta"
+      },
+      "image_url": "data/img/trucha.jpg",
+      "notes": {
+        "fr": "Plural: les truites",
+        "it": "Plural: le trote",
+        "pt": "Plural: as trutas"
+      }
+    },
+    {
+      "id": "food_123",
+      "es": "el arenque",
+      "translations": {
+        "en": "the herring",
+        "fr": "le hareng",
+        "it": "l'aringa",
+        "pt": "o arenque"
+      },
+      "image_url": "data/img/arenque.jpg",
+      "notes": {
+        "it": "Plural: le aringhe",
+        "en": "Plural: the herrings",
+        "fr": "Plural: les harengs",
+        "pt": "Plural: os arenques"
+      }
+    },
+    {
+      "id": "food_241",
+      "es": "la tilapia",
+      "translations": {
+        "en": "the tilapia",
+        "fr": "le tilapia",
+        "it": "la tilapia",
+        "pt": "a tilápia"
+      },
+      "image_url": "data/img/tilapia.jpg",
+      "notes": {
+        "en": "Plural: the tilapias",
+        "fr": "Plural: les tilapias",
+        "it": "Plural: le tilapie",
+        "pt": "Plural: as tilápias"
+      }
+    },
+    {
+      "id": "food_355",
+      "es": "el filete de pescado",
+      "translations": {
+        "en": "the fish fillet",
+        "fr": "le filet de poisson",
+        "it": "il filetto di pesce",
+        "pt": "o filé de peixe"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the fish fillets",
+        "fr": "Plural: les filets de poisson",
+        "it": "Plural: i filetti di pesce",
+        "pt": "Plural: os filés de peixe"
+      }
+    },
+    {
+      "id": "food_356",
+      "es": "el salmón ahumado",
+      "translations": {
+        "en": "the smoked salmon",
+        "fr": "le saumon fumé",
+        "it": "il salmone affumicato",
+        "pt": "o salmão defumado"
+      },
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les saumons fumés",
+        "it": "Plural: i salmoni affumicati",
+        "pt": "Plural: os salmões defumados"
+      }
+    },
+    {
+      "id": "food_124",
+      "es": "el pulpo",
+      "translations": {
+        "en": "the octopus",
+        "fr": "le poulpe",
+        "it": "il polpo",
+        "pt": "o polvo"
+      },
+      "image_url": "data/img/pulpo.jpg",
+      "notes": {
+        "en": "Plural: the octopuses",
+        "fr": "Plural: les poulpes",
+        "it": "Plural: i polpi",
+        "pt": "Plural: os polvos"
+      }
+    },
+    {
+      "id": "food_125",
+      "es": "el calamar",
+      "translations": {
+        "en": "the squid",
+        "fr": "le calmar",
+        "it": "il calamaro",
+        "pt": "a lula"
+      },
+      "image_url": "data/img/calamar.jpg",
+      "notes": {
+        "it": "Plural: i calamari",
+        "en": "Plural: the squid (habitual; también squids)",
+        "fr": "Plural: les calmars",
+        "pt": "Plural: as lulas"
+      }
+    },
+    {
+      "id": "food_126",
+      "es": "la almeja",
+      "translations": {
+        "en": "the clam",
+        "fr": "la palourde",
+        "it": "la vongola",
+        "pt": "a amêijoa"
+      },
+      "image_url": "data/img/almeja.jpg",
+      "notes": {
+        "pt": "Plural: as amêijoas",
+        "en": "Plural: the clams",
+        "fr": "Plural: les palourdes",
+        "it": "Plural: le vongole"
+      }
+    },
+    {
+      "id": "food_127",
+      "es": "la ostra",
+      "translations": {
+        "en": "the oyster",
+        "fr": "l'huître",
+        "it": "l'ostrica",
+        "pt": "a ostra"
+      },
+      "image_url": "data/img/ostra.jpg",
+      "notes": {
+        "en": "Plural: the oysters",
+        "fr": "Plural: les huîtres",
+        "it": "Plural: le ostriche",
+        "pt": "Plural: as ostras"
+      }
+    },
+    {
+      "id": "food_128",
+      "es": "la langosta",
+      "translations": {
+        "en": "the spiny lobster",
+        "fr": "la langouste",
+        "it": "l'aragosta",
+        "pt": "a lagosta"
+      },
+      "image_url": "data/img/langosta.jpg",
+      "notes": {
+        "en": "Plural: the spiny lobsters",
+        "fr": "Plural: les langoustes",
+        "it": "Plural: le aragoste",
+        "pt": "Plural: as lagostas"
+      }
+    },
+    {
+      "id": "food_129",
+      "es": "el cangrejo",
+      "translations": {
+        "en": "the crab",
+        "fr": "le crabe",
+        "it": "il granchio",
+        "pt": "o caranguejo"
+      },
+      "image_url": "data/img/cangrejo.jpg",
+      "notes": {
+        "it": "Plural: i granchi",
+        "en": "Plural: the crabs",
+        "fr": "Plural: les crabes",
+        "pt": "Plural: os caranguejos"
+      }
+    },
+    {
+      "id": "food_324",
+      "es": "el bogavante",
+      "translations": {
+        "en": "the clawed lobster",
+        "fr": "le homard",
+        "it": "l'astice",
+        "pt": "a lagosta-americana"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Plural: as lagostas-americanas",
+        "en": "Plural: the clawed lobsters",
+        "fr": "Plural: les homards",
+        "it": "Plural: gli astici"
+      }
+    },
+    {
+      "id": "food_341",
+      "es": "el mejillón",
+      "translations": {
+        "en": "the mussel",
+        "fr": "la moule",
+        "it": "la cozza",
+        "pt": "o mexilhão"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the mussels",
+        "fr": "Plural: les moules",
+        "it": "Plural: le cozze",
+        "pt": "Plural: os mexilhões"
+      }
+    },
+    {
+      "id": "food_243",
+      "es": "la leche descremada",
+      "translations": {
+        "en": "the skim milk",
+        "fr": "le lait écrémé",
+        "it": "il latte scremato",
+        "pt": "o leite desnatado"
+      },
+      "image_url": "data/img/leche_descremada.jpg"
+    },
+    {
+      "id": "food_244",
+      "es": "la leche en polvo",
+      "translations": {
+        "en": "the powdered milk",
+        "fr": "le lait en poudre",
+        "it": "il latte in polvere",
+        "pt": "o leite em pó"
+      },
+      "image_url": "data/img/leche_polvo.jpg"
+    },
+    {
+      "id": "food_245",
+      "es": "la leche evaporada",
+      "translations": {
+        "en": "the evaporated milk",
+        "fr": "le lait concentré non sucré",
+        "it": "il latte evaporato",
+        "pt": "o leite evaporado"
+      },
+      "image_url": "data/img/leche_evaporada.jpg"
+    },
+    {
+      "id": "food_246",
+      "es": "la leche condensada",
+      "translations": {
+        "en": "the condensed milk",
+        "fr": "le lait concentré sucré",
+        "it": "il latte condensato",
+        "pt": "o leite condensado"
+      },
+      "image_url": "data/img/leche_condensada.jpg"
+    },
+    {
+      "id": "food_247",
+      "es": "la crema agria",
+      "translations": {
+        "en": "the sour cream",
+        "fr": "la crème aigre",
+        "it": "la panna acida",
+        "pt": "o creme azedo"
+      },
+      "image_url": "data/img/crema_agria.jpg",
+      "notes": {
+        "fr": "También se encuentra como crème fraîche aigre"
+      }
+    },
+    {
+      "id": "food_248",
+      "es": "la crema para batir",
+      "translations": {
+        "en": "the heavy whipping cream",
+        "fr": "la crème à fouetter",
+        "it": "la panna da montare",
+        "pt": "o creme de leite fresco"
+      },
+      "image_url": "data/img/crema_para_batir.jpg",
+      "notes": {
+        "pt": "Creme de leite fresco para batir; no equivale a crema de leche de caja común"
+      }
+    },
+    {
+      "id": "food_249",
+      "es": "la crema batida",
+      "translations": {
+        "en": "the whipped cream",
+        "fr": "la crème fouettée",
+        "it": "la panna montata",
+        "pt": "o chantilly"
+      },
+      "image_url": "data/img/crema_batida.jpg",
+      "notes": {
+        "pt": "También: o creme de leite batido"
+      }
+    },
+    {
+      "id": "food_250",
+      "es": "el yogur griego",
+      "translations": {
+        "en": "the Greek yogurt",
+        "fr": "le yaourt grec",
+        "it": "lo yogurt greco",
+        "pt": "o iogurte grego"
+      },
+      "image_url": "data/img/yogur_griego.jpg",
+      "notes": {
+        "en": "Plural: the Greek yogurts",
+        "fr": "Plural: les yaourts grecs",
+        "it": "Plural: gli yogurt greci",
+        "pt": "Plural: os iogurtes gregos"
+      }
+    },
+    {
+      "id": "food_251",
+      "es": "el kéfir",
+      "translations": {
+        "en": "the kefir",
+        "fr": "le kéfir",
+        "it": "il kefir",
+        "pt": "o kefir"
+      },
+      "image_url": "data/img/kefir.jpg"
+    },
+    {
+      "id": "food_252",
+      "es": "el queso fresco",
+      "translations": {
+        "en": "the fresh cheese",
+        "fr": "le fromage frais",
+        "it": "il formaggio fresco",
+        "pt": "o queijo fresco"
+      },
+      "image_url": "data/img/queso_fresco.jpg",
+      "notes": {
+        "fr": "Plural: les fromages frais",
+        "it": "Plural: i formaggi freschi",
+        "pt": "Plural: os queijos frescos"
+      }
+    },
+    {
+      "id": "food_253",
+      "es": "el queso crema",
+      "translations": {
+        "en": "the cream cheese",
+        "fr": "le fromage à tartiner",
+        "it": "il formaggio spalmabile",
+        "pt": "o cream cheese"
+      },
+      "image_url": "data/img/queso_crema.jpg",
+      "notes": {
+        "fr": "Plural: les fromages à tartiner",
+        "it": "Plural: i formaggi spalmabili",
+        "pt": "Plural: os cream cheeses"
+      }
+    },
+    {
+      "id": "food_254",
+      "es": "el queso cottage",
+      "translations": {
+        "en": "the cottage cheese",
+        "fr": "le fromage cottage",
+        "it": "il fiocco di latte",
+        "pt": "o queijo cottage"
+      },
+      "image_url": "data/img/queso_cottage.jpg",
+      "notes": {
+        "fr": "Plural: les fromages cottage",
+        "pt": "Plural: os queijos cottage",
+        "it": "Plural: i fiocchi di latte",
+        "en": "Plural: the cottage cheeses"
+      }
+    },
+    {
+      "id": "food_255",
+      "es": "la ricota",
+      "translations": {
+        "en": "the ricotta",
+        "fr": "la ricotta",
+        "it": "la ricotta",
+        "pt": "a ricota"
+      },
+      "image_url": "data/img/ricota.jpg"
+    },
+    {
+      "id": "food_256",
+      "es": "el queso de cabra",
+      "translations": {
+        "en": "the goat cheese",
+        "fr": "le fromage de chèvre",
+        "it": "il formaggio di capra",
+        "pt": "o queijo de cabra"
+      },
+      "image_url": "data/img/queso_cabra.jpg",
+      "notes": {
+        "fr": "Plural: les fromages de chèvre",
+        "it": "Plural: i formaggi di capra",
+        "pt": "Plural: os queijos de cabra"
+      }
+    },
+    {
+      "id": "food_257",
+      "es": "el queso parmesano",
+      "translations": {
+        "en": "the parmesan cheese",
+        "fr": "le parmesan",
+        "it": "il parmigiano",
+        "pt": "o queijo parmesão"
+      },
+      "image_url": "data/img/queso_parmesano.jpg",
+      "notes": {
+        "fr": "Plural: les parmesans",
+        "it": "Plural: i parmigiani (variedades o piezas de queso)",
+        "pt": "Plural: os queijos parmesão"
+      }
+    },
+    {
+      "id": "food_258",
+      "es": "el queso mozzarella",
+      "translations": {
+        "en": "the mozzarella cheese",
+        "fr": "la mozzarella",
+        "it": "la mozzarella",
+        "pt": "o queijo muçarela"
+      },
+      "image_url": "data/img/queso_mozzarella.jpg",
+      "notes": {
+        "fr": "Plural: les mozzarellas",
+        "it": "Plural: le mozzarelle",
+        "pt": "Plural: os queijos muçarela"
+      }
+    },
+    {
+      "id": "food_259",
+      "es": "el queso azul",
+      "translations": {
+        "en": "the blue cheese",
+        "fr": "le fromage bleu",
+        "it": "il formaggio erborinato",
+        "pt": "o queijo azul"
+      },
+      "image_url": "data/img/queso_azul.jpg",
+      "notes": {
+        "fr": "Plural: les fromages bleus",
+        "it": "Plural: i formaggi erborinati",
+        "pt": "Plural: os queijos azuis"
+      }
+    },
+    {
+      "id": "food_260",
+      "es": "el queso feta",
+      "translations": {
+        "en": "the feta cheese",
+        "fr": "la feta",
+        "it": "la feta",
+        "pt": "o queijo feta"
+      },
+      "image_url": "data/img/queso_feta.jpg",
+      "notes": {
+        "fr": "Plural: les fetas",
+        "it": "Plural: le feta",
+        "pt": "Plural: os queijos feta"
+      }
+    },
+    {
+      "id": "food_261",
+      "es": "el queso manchego español",
+      "translations": {
+        "en": "the Spanish Manchego cheese",
+        "fr": "le manchego espagnol",
+        "it": "il formaggio manchego spagnolo",
+        "pt": "o queijo manchego espanhol"
+      },
+      "image_url": "data/img/queso_manchego.jpg",
+      "notes": {
+        "es": "Queso español elaborado con leche de oveja; distinto del manchego mexicano",
+        "fr": "Plural: les manchegos espagnols",
+        "it": "Plural: i formaggi manchego spagnoli",
+        "pt": "Plural: os queijos manchegos espanhóis"
+      }
+    },
+    {
+      "id": "food_325",
+      "es": "el queso gorgonzola",
+      "translations": {
+        "en": "the Gorgonzola cheese",
+        "fr": "le gorgonzola",
+        "it": "il gorgonzola",
+        "pt": "o queijo gorgonzola"
+      },
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les gorgonzolas",
+        "it": "Plural: i gorgonzola",
+        "pt": "Plural: os queijos gorgonzola"
+      }
+    },
+    {
+      "id": "food_329",
+      "es": "el queso manchego mexicano",
+      "translations": {
+        "en": "the Mexican Manchego-style cheese",
+        "fr": "le fromage mexicain de type manchego",
+        "it": "il formaggio messicano tipo manchego",
+        "pt": "o queijo mexicano tipo manchego"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Queso mexicano de vaca; no es el manchego español de oveja",
+        "fr": "Plural: les fromages mexicains de type manchego",
+        "it": "Plural: i formaggi messicani tipo manchego",
+        "pt": "Plural: os queijos mexicanos tipo manchego"
+      }
+    },
+    {
+      "id": "food_346",
+      "es": "el queso cheddar",
+      "translations": {
+        "en": "the cheddar cheese",
+        "fr": "le cheddar",
+        "it": "il cheddar",
+        "pt": "o queijo cheddar"
+      },
+      "image_url": "",
+      "notes": {
+        "fr": "Plural: les cheddars",
+        "it": "Plural: i cheddar",
+        "pt": "Plural: os queijos cheddar"
+      }
+    },
+    {
+      "id": "food_262",
+      "es": "la clara de huevo",
+      "translations": {
+        "en": "the egg white",
+        "fr": "le blanc d'œuf",
+        "it": "l'albume",
+        "pt": "a clara de ovo"
+      },
+      "image_url": "data/img/clara_huevo.jpg",
+      "notes": {
+        "it": "Plural: gli albumi",
+        "en": "Plural: the egg whites",
+        "fr": "Plural: les blancs d'œuf",
+        "pt": "Plural: as claras de ovo"
+      }
+    },
+    {
+      "id": "food_263",
+      "es": "la yema de huevo",
+      "translations": {
+        "en": "the egg yolk",
+        "fr": "le jaune d'œuf",
+        "it": "il tuorlo",
+        "pt": "a gema de ovo"
+      },
+      "image_url": "data/img/yema_huevo.jpg",
+      "notes": {
+        "it": "Plural: i tuorli",
+        "en": "Plural: the egg yolks",
+        "fr": "Plural: les jaunes d'œuf",
+        "pt": "Plural: as gemas de ovo"
+      }
+    },
+    {
+      "id": "food_264",
+      "es": "la leche de almendra",
+      "translations": {
+        "en": "the almond milk",
+        "fr": "le lait d'amande",
+        "it": "il latte di mandorla",
+        "pt": "o leite de amêndoa"
+      },
+      "image_url": "data/img/leche_almendra.jpg"
+    },
+    {
+      "id": "food_265",
+      "es": "la leche de soya",
+      "translations": {
+        "en": "the soy milk",
+        "fr": "le lait de soja",
+        "it": "il latte di soia",
+        "pt": "o leite de soja"
+      },
+      "image_url": "data/img/leche_soya.jpg"
+    },
+    {
+      "id": "food_266",
+      "es": "la leche de avena",
+      "translations": {
+        "en": "the oat milk",
+        "fr": "le lait d'avoine",
+        "it": "il latte d'avena",
+        "pt": "o leite de aveia"
+      },
+      "image_url": "data/img/leche_avena.jpg"
+    },
+    {
+      "id": "food_267",
+      "es": "la leche de coco",
+      "translations": {
+        "en": "the coconut milk",
+        "fr": "le lait de coco",
+        "it": "il latte di cocco",
+        "pt": "o leite de coco"
+      },
+      "image_url": "data/img/leche_coco.jpg"
+    },
+    {
+      "id": "food_31",
+      "es": "la proteína en polvo",
+      "translations": {
+        "en": "the protein powder",
+        "fr": "la protéine en poudre",
+        "it": "la proteina in polvere",
+        "pt": "a proteína em pó"
+      },
+      "image_url": "data/img/proteina.jpg"
+    }
+  ]
+}

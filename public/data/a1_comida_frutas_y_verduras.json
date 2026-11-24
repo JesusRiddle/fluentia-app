@@ -1,0 +1,784 @@
+{
+  "module": "Frutas y verduras",
+  "level": "A1",
+  "cards": [
+    {
+      "id": "food_348",
+      "es": "la manzana verde",
+      "translations": {
+        "en": "the green apple",
+        "fr": "la pomme verte",
+        "it": "la mela verde",
+        "pt": "a maçã verde"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the green apples",
+        "fr": "Plural: les pommes vertes",
+        "it": "Plural: le mele verdi",
+        "pt": "Plural: as maçãs verdes"
+      }
+    },
+    {
+      "id": "food_7",
+      "es": "el limón amarillo",
+      "translations": {
+        "en": "the lemon",
+        "fr": "le citron",
+        "it": "il limone",
+        "pt": "o limão-siciliano"
+      },
+      "image_url": "data/img/limon.jpg",
+      "notes": {
+        "en": "Plural: the lemons",
+        "fr": "Plural: les citrons",
+        "it": "Plural: i limoni",
+        "pt": "Plural: os limões-sicilianos"
+      }
+    },
+    {
+      "id": "food_184",
+      "es": "la mandarina",
+      "translations": {
+        "en": "the tangerine",
+        "fr": "la mandarine",
+        "it": "il mandarino",
+        "pt": "a tangerina"
+      },
+      "image_url": "data/img/mandarina.jpg",
+      "notes": {
+        "en": "Plural: the tangerines",
+        "fr": "Plural: les mandarines",
+        "it": "Plural: i mandarini",
+        "pt": "Plural: as tangerinas"
+      }
+    },
+    {
+      "id": "food_138",
+      "es": "la toronja",
+      "translations": {
+        "en": "the grapefruit",
+        "fr": "le pamplemousse",
+        "it": "il pompelmo",
+        "pt": "a toranja"
+      },
+      "image_url": "data/img/toronja.jpg",
+      "notes": {
+        "en": "Plural: the grapefruits",
+        "fr": "Plural: les pamplemousses",
+        "it": "Plural: i pompelmi",
+        "pt": "Plural: as toranjas"
+      }
+    },
+    {
+      "id": "food_137",
+      "es": "la granada",
+      "translations": {
+        "en": "the pomegranate",
+        "fr": "la grenade",
+        "it": "la melagrana",
+        "pt": "a romã"
+      },
+      "image_url": "data/img/granada.jpg",
+      "notes": {
+        "en": "Plural: the pomegranates",
+        "fr": "Plural: les grenades",
+        "it": "Plural: le melagrane",
+        "pt": "Plural: as romãs"
+      }
+    },
+    {
+      "id": "food_139",
+      "es": "la ciruela",
+      "translations": {
+        "en": "the plum",
+        "fr": "la prune",
+        "it": "la prugna",
+        "pt": "a ameixa"
+      },
+      "image_url": "data/img/ciruela.jpg",
+      "notes": {
+        "en": "Plural: the plums",
+        "fr": "Plural: les prunes",
+        "it": "Plural: le prugne",
+        "pt": "Plural: as ameixas"
+      }
+    },
+    {
+      "id": "food_140",
+      "es": "la cereza",
+      "translations": {
+        "en": "the cherry",
+        "fr": "la cerise",
+        "it": "la ciliegia",
+        "pt": "a cereja"
+      },
+      "image_url": "data/img/cereza.jpg",
+      "notes": {
+        "it": "Plural: le ciliegie",
+        "en": "Plural: the cherries",
+        "fr": "Plural: les cerises",
+        "pt": "Plural: as cerejas"
+      }
+    },
+    {
+      "id": "food_143",
+      "es": "el durazno",
+      "translations": {
+        "en": "the peach",
+        "fr": "la pêche",
+        "it": "la pesca",
+        "pt": "o pêssego"
+      },
+      "image_url": "data/img/durazno.jpg",
+      "notes": {
+        "en": "Plural: the peaches",
+        "fr": "Plural: les pêches",
+        "it": "Plural: le pesche",
+        "pt": "Plural: os pêssegos"
+      }
+    },
+    {
+      "id": "food_193",
+      "es": "el chabacano",
+      "translations": {
+        "en": "the apricot",
+        "fr": "l'abricot",
+        "it": "l'albicocca",
+        "pt": "o damasco"
+      },
+      "image_url": "data/img/chabacano.jpg",
+      "notes": {
+        "en": "Plural: the apricots",
+        "fr": "Plural: les abricots",
+        "it": "Plural: le albicocche",
+        "pt": "Plural: os damascos"
+      }
+    },
+    {
+      "id": "food_5",
+      "es": "la mora azul",
+      "translations": {
+        "en": "the blueberry",
+        "fr": "la myrtille",
+        "it": "il mirtillo",
+        "pt": "o mirtilo"
+      },
+      "image_url": "data/img/moraazul.jpg",
+      "notes": {
+        "en": "Plural: the blueberries",
+        "fr": "Plural: les myrtilles",
+        "it": "Plural: i mirtilli",
+        "pt": "Plural: os mirtilos"
+      }
+    },
+    {
+      "id": "food_142",
+      "es": "el arándano rojo",
+      "translations": {
+        "en": "the cranberry",
+        "fr": "la canneberge",
+        "it": "il mirtillo rosso americano",
+        "pt": "o oxicoco"
+      },
+      "image_url": "data/img/arandano_rojo.jpg",
+      "notes": {
+        "it": "Plural: i mirtilli rossi americani",
+        "en": "Plural: the cranberries",
+        "fr": "Plural: les canneberges",
+        "pt": "Plural: os oxicocos"
+      }
+    },
+    {
+      "id": "food_189",
+      "es": "la frambuesa",
+      "translations": {
+        "en": "the raspberry",
+        "fr": "la framboise",
+        "it": "il lampone",
+        "pt": "a framboesa"
+      },
+      "image_url": "data/img/frambuesa.jpg",
+      "notes": {
+        "en": "Plural: the raspberries",
+        "fr": "Plural: les framboises",
+        "it": "Plural: i lamponi",
+        "pt": "Plural: as framboesas"
+      }
+    },
+    {
+      "id": "food_190",
+      "es": "la zarzamora",
+      "translations": {
+        "en": "the blackberry",
+        "fr": "la mûre",
+        "it": "la mora",
+        "pt": "a amora"
+      },
+      "image_url": "data/img/zarzamora.jpg",
+      "notes": {
+        "en": "Plural: the blackberries",
+        "fr": "Plural: les mûres",
+        "it": "Plural: le more",
+        "pt": "Plural: as amoras"
+      }
+    },
+    {
+      "id": "food_141",
+      "es": "el coco",
+      "translations": {
+        "en": "the coconut",
+        "fr": "la noix de coco",
+        "it": "la noce di cocco",
+        "pt": "o coco"
+      },
+      "image_url": "data/img/coco.jpg",
+      "notes": {
+        "en": "Plural: the coconuts",
+        "fr": "Plural: les noix de coco",
+        "it": "Plural: le noci di cocco",
+        "pt": "Plural: os cocos"
+      }
+    },
+    {
+      "id": "food_187",
+      "es": "la guayaba",
+      "translations": {
+        "en": "the guava",
+        "fr": "la goyave",
+        "it": "la guava",
+        "pt": "a goiaba"
+      },
+      "image_url": "data/img/guayaba.jpg",
+      "notes": {
+        "en": "Plural: the guavas",
+        "fr": "Plural: les goyaves",
+        "it": "Plural: le guave",
+        "pt": "Plural: as goiabas"
+      }
+    },
+    {
+      "id": "food_188",
+      "es": "el kiwi",
+      "translations": {
+        "en": "the kiwi",
+        "fr": "le kiwi",
+        "it": "il kiwi",
+        "pt": "o kiwi"
+      },
+      "image_url": "data/img/kiwi.jpg",
+      "notes": {
+        "en": "Plural: the kiwis",
+        "fr": "Plural: les kiwis",
+        "it": "Plural: i kiwi",
+        "pt": "Plural: os kiwis"
+      }
+    },
+    {
+      "id": "food_191",
+      "es": "el higo",
+      "translations": {
+        "en": "the fig",
+        "fr": "la figue",
+        "it": "il fico",
+        "pt": "o figo"
+      },
+      "image_url": "data/img/higo.jpg",
+      "notes": {
+        "en": "Plural: the figs",
+        "fr": "Plural: les figues",
+        "it": "Plural: i fichi",
+        "pt": "Plural: os figos"
+      }
+    },
+    {
+      "id": "food_194",
+      "es": "el maracuyá",
+      "translations": {
+        "en": "the passion fruit",
+        "fr": "le fruit de la passion",
+        "it": "il frutto della passione",
+        "pt": "o maracujá"
+      },
+      "image_url": "data/img/maracuya.jpg",
+      "notes": {
+        "fr": "Plural: les fruits de la passion",
+        "it": "Plural: i frutti della passione",
+        "pt": "Plural: os maracujás"
+      }
+    },
+    {
+      "id": "food_195",
+      "es": "la tuna",
+      "translations": {
+        "en": "the prickly pear",
+        "fr": "la figue de Barbarie",
+        "it": "il fico d'India",
+        "pt": "o figo-da-índia"
+      },
+      "image_url": "data/img/tuna.jpg",
+      "notes": {
+        "en": "Plural: the prickly pears",
+        "fr": "Plural: les figues de Barbarie",
+        "it": "Plural: i fichi d'India",
+        "pt": "Plural: os figos-da-índia"
+      }
+    },
+    {
+      "id": "food_196",
+      "es": "el tamarindo",
+      "translations": {
+        "en": "the tamarind",
+        "fr": "le tamarin",
+        "it": "il tamarindo",
+        "pt": "o tamarindo"
+      },
+      "image_url": "data/img/tamarindo.jpg",
+      "notes": {
+        "en": "Plural: the tamarinds",
+        "fr": "Plural: les tamarins",
+        "it": "Plural: i tamarindi",
+        "pt": "Plural: os tamarindos"
+      }
+    },
+    {
+      "id": "food_197",
+      "es": "la guanábana",
+      "translations": {
+        "en": "the soursop",
+        "fr": "le corossol",
+        "it": "la graviola",
+        "pt": "a graviola"
+      },
+      "image_url": "data/img/guanabana.jpg",
+      "notes": {
+        "en": "Plural: the soursops",
+        "fr": "Plural: les corossols",
+        "it": "Plural: le graviole",
+        "pt": "Plural: as graviolas"
+      }
+    },
+    {
+      "id": "food_337",
+      "es": "la aceituna",
+      "translations": {
+        "en": "the olive",
+        "fr": "l'olive",
+        "it": "l'oliva",
+        "pt": "a azeitona"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the olives",
+        "fr": "Plural: les olives",
+        "it": "Plural: le olive",
+        "pt": "Plural: as azeitonas"
+      }
+    },
+    {
+      "id": "food_199",
+      "es": "la fruta deshidratada",
+      "translations": {
+        "en": "the dried fruit",
+        "fr": "le fruit déshydraté",
+        "it": "la frutta disidratata",
+        "pt": "a fruta desidratada"
+      },
+      "image_url": "data/img/fruta_deshidratada.jpg"
+    },
+    {
+      "id": "food_198",
+      "es": "la ciruela pasa",
+      "translations": {
+        "en": "the prune",
+        "fr": "le pruneau",
+        "it": "la prugna secca",
+        "pt": "a ameixa seca"
+      },
+      "image_url": "data/img/ciruela_pasa.jpg",
+      "notes": {
+        "en": "Plural: the prunes",
+        "fr": "Plural: les pruneaux",
+        "it": "Plural: le prugne secche",
+        "pt": "Plural: as ameixas secas"
+      }
+    },
+    {
+      "id": "food_342",
+      "es": "la pasa",
+      "translations": {
+        "en": "the raisin",
+        "fr": "le raisin sec",
+        "it": "l'uvetta",
+        "pt": "a uva-passa"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Plural: the raisins",
+        "fr": "Plural: les raisins secs",
+        "it": "Uso colectivo: l’uvetta; una pasa individual: l’acino d’uva passa",
+        "pt": "Plural: as uvas-passas"
+      }
+    },
+    {
+      "id": "food_192",
+      "es": "el dátil",
+      "translations": {
+        "en": "the date",
+        "fr": "la datte",
+        "it": "il dattero",
+        "pt": "a tâmara"
+      },
+      "image_url": "data/img/datil.jpg",
+      "notes": {
+        "en": "Plural: the dates",
+        "fr": "Plural: les dattes",
+        "it": "Plural: i datteri",
+        "pt": "Plural: as tâmaras"
+      }
+    },
+    {
+      "id": "food_55",
+      "es": "la berenjena",
+      "translations": {
+        "en": "the eggplant",
+        "fr": "l'aubergine",
+        "it": "la melanzana",
+        "pt": "a berinjela"
+      },
+      "image_url": "data/img/berenjena.jpg",
+      "notes": {
+        "it": "Plural: le melanzane",
+        "en": "Plural: the eggplants",
+        "fr": "Plural: les aubergines",
+        "pt": "Plural: as berinjelas"
+      }
+    },
+    {
+      "id": "food_56",
+      "es": "el apio",
+      "translations": {
+        "en": "the celery",
+        "fr": "le céleri",
+        "it": "il sedano",
+        "pt": "o aipo"
+      },
+      "image_url": "data/img/apio.jpg",
+      "notes": {
+        "pt": "También: o salsão"
+      }
+    },
+    {
+      "id": "food_57",
+      "es": "la coliflor",
+      "translations": {
+        "en": "the cauliflower",
+        "fr": "le chou-fleur",
+        "it": "il cavolfiore",
+        "pt": "a couve-flor"
+      },
+      "image_url": "data/img/coliflor.jpg",
+      "notes": {
+        "en": "Plural: the cauliflowers",
+        "fr": "Plural: les choux-fleurs",
+        "it": "Plural: i cavolfiori",
+        "pt": "Plural: as couves-flores"
+      }
+    },
+    {
+      "id": "food_58",
+      "es": "el repollo",
+      "translations": {
+        "en": "the cabbage",
+        "fr": "le chou",
+        "it": "il cavolo",
+        "pt": "o repolho"
+      },
+      "image_url": "data/img/repollo.jpg",
+      "notes": {
+        "en": "Plural: the cabbages",
+        "fr": "Plural: les choux",
+        "it": "Plural: i cavoli",
+        "pt": "Plural: os repolhos"
+      }
+    },
+    {
+      "id": "food_130",
+      "es": "los brotes de soya",
+      "translations": {
+        "en": "the soybean sprouts",
+        "fr": "les pousses de soja",
+        "it": "i germogli di soia",
+        "pt": "os brotos de soja"
+      },
+      "image_url": "data/img/brotes_soya.jpg",
+      "notes": {
+        "en": "Los brotes comercializados como brotes de soja suelen ser de frijol mungo"
+      }
+    },
+    {
+      "id": "food_131",
+      "es": "el brote de alfalfa",
+      "translations": {
+        "en": "the alfalfa sprout",
+        "fr": "la pousse de luzerne",
+        "it": "il germoglio di erba medica",
+        "pt": "o broto de alfafa"
+      },
+      "image_url": "data/img/brotes_alfalfa.jpg",
+      "notes": {
+        "en": "Plural: the alfalfa sprouts",
+        "fr": "Plural: les pousses de luzerne",
+        "it": "Plural: i germogli di erba medica",
+        "pt": "Plural: os brotos de alfafa"
+      }
+    },
+    {
+      "id": "food_132",
+      "es": "el haba",
+      "translations": {
+        "en": "the broad bean",
+        "fr": "la fève",
+        "it": "la fava",
+        "pt": "a fava"
+      },
+      "image_url": "data/img/haba.jpg",
+      "notes": {
+        "en": "Plural: the broad beans",
+        "fr": "Plural: les fèves",
+        "it": "Plural: le fave",
+        "pt": "Plural: as favas"
+      }
+    },
+    {
+      "id": "food_133",
+      "es": "el camote",
+      "translations": {
+        "en": "the sweet potato",
+        "fr": "la patate douce",
+        "it": "la patata dolce",
+        "pt": "a batata-doce"
+      },
+      "image_url": "data/img/camote.jpg",
+      "notes": {
+        "en": "Plural: the sweet potatoes",
+        "fr": "Plural: les patates douces",
+        "it": "Plural: le patate dolci",
+        "pt": "Plural: as batatas-doces"
+      }
+    },
+    {
+      "id": "food_134",
+      "es": "el rábano",
+      "translations": {
+        "en": "the radish",
+        "fr": "le radis",
+        "it": "il ravanello",
+        "pt": "o rabanete"
+      },
+      "image_url": "data/img/rabano.jpg",
+      "notes": {
+        "en": "Plural: the radishes",
+        "fr": "Plural: les radis",
+        "it": "Plural: i ravanelli",
+        "pt": "Plural: os rabanetes"
+      }
+    },
+    {
+      "id": "food_135",
+      "es": "el espárrago",
+      "translations": {
+        "en": "the asparagus",
+        "fr": "l'asperge",
+        "it": "l'asparago",
+        "pt": "o aspargo"
+      },
+      "image_url": "data/img/esparrago.jpg",
+      "notes": {
+        "en": "Plural: the asparagus (invariable como alimento)",
+        "fr": "Plural: les asperges",
+        "it": "Plural: gli asparagi",
+        "pt": "Plural: os aspargos"
+      }
+    },
+    {
+      "id": "food_136",
+      "es": "el poro",
+      "translations": {
+        "en": "the leek",
+        "fr": "le poireau",
+        "it": "il porro",
+        "pt": "o alho-poró"
+      },
+      "image_url": "data/img/poro.jpg",
+      "notes": {
+        "en": "Plural: the leeks",
+        "fr": "Plural: les poireaux",
+        "it": "Plural: i porri",
+        "pt": "Plural: os alhos-porós"
+      }
+    },
+    {
+      "id": "food_200",
+      "es": "el betabel",
+      "translations": {
+        "en": "the beet",
+        "fr": "la betterave",
+        "it": "la barbabietola",
+        "pt": "a beterraba"
+      },
+      "image_url": "data/img/betabel.jpg",
+      "notes": {
+        "en": "Plural: the beets",
+        "fr": "Plural: les betteraves",
+        "it": "Plural: le barbabietole",
+        "pt": "Plural: as beterrabas"
+      }
+    },
+    {
+      "id": "food_201",
+      "es": "la alcachofa",
+      "translations": {
+        "en": "the artichoke",
+        "fr": "l'artichaut",
+        "it": "il carciofo",
+        "pt": "a alcachofra"
+      },
+      "image_url": "data/img/alcachofa.jpg",
+      "notes": {
+        "en": "Plural: the artichokes",
+        "fr": "Plural: les artichauts",
+        "it": "Plural: i carciofi",
+        "pt": "Plural: as alcachofras"
+      }
+    },
+    {
+      "id": "food_202",
+      "es": "la col rizada",
+      "translations": {
+        "en": "the kale",
+        "fr": "le chou kale",
+        "it": "il cavolo riccio",
+        "pt": "a couve kale"
+      },
+      "image_url": "data/img/col_rizada.jpg",
+      "notes": {
+        "pt": "Couve-crespa puede referirse a variedades de col de hojas rizadas; kale es una variedad específica",
+        "fr": "También: le chou frisé, término más amplio"
+      }
+    },
+    {
+      "id": "food_203",
+      "es": "la arúgula",
+      "translations": {
+        "en": "the arugula",
+        "fr": "la roquette",
+        "it": "la rucola",
+        "pt": "a rúcula"
+      },
+      "image_url": "data/img/arugula.jpg"
+    },
+    {
+      "id": "food_204",
+      "es": "el chayote",
+      "translations": {
+        "en": "the chayote",
+        "fr": "la chayotte",
+        "it": "il chayote",
+        "pt": "o chuchu"
+      },
+      "image_url": "data/img/chayote.jpg",
+      "notes": {
+        "fr": "Plural: les chayottes",
+        "en": "Plural: the chayotes",
+        "it": "Plural: i chayote (préstamo invariable)",
+        "pt": "Plural: os chuchus"
+      }
+    },
+    {
+      "id": "food_205",
+      "es": "la jícama",
+      "translations": {
+        "en": "the jicama",
+        "fr": "le pois patate",
+        "it": "la jicama",
+        "pt": "a jícama"
+      },
+      "image_url": "data/img/jicama.jpg",
+      "notes": {
+        "en": "Plural: the jicamas",
+        "fr": "Plural: les pois patates",
+        "it": "Plural: le jicame",
+        "pt": "Plural: as jícamas"
+      }
+    },
+    {
+      "id": "food_206",
+      "es": "el nopal",
+      "translations": {
+        "en": "the cactus paddle",
+        "fr": "le nopal",
+        "it": "il nopal",
+        "pt": "o nopal"
+      },
+      "image_url": "data/img/nopal.jpg",
+      "notes": {
+        "pt": "Plural: os nopais",
+        "en": "Plural: the cactus paddles",
+        "fr": "Plural: les nopals",
+        "it": "Plural: i nopal"
+      }
+    },
+    {
+      "id": "food_208",
+      "es": "el elote",
+      "translations": {
+        "en": "the corn on the cob",
+        "fr": "l'épi de maïs",
+        "it": "la pannocchia",
+        "pt": "a espiga de milho"
+      },
+      "image_url": "data/img/elote.jpg",
+      "notes": {
+        "en": "Plural: the ears of corn",
+        "fr": "Plural: les épis de maïs",
+        "it": "Plural: le pannocchie",
+        "pt": "Plural: as espigas de milho"
+      }
+    },
+    {
+      "id": "food_209",
+      "es": "la flor de calabaza",
+      "translations": {
+        "en": "the squash blossom",
+        "fr": "la fleur de courgette",
+        "it": "il fiore di zucca",
+        "pt": "a flor de abóbora"
+      },
+      "image_url": "data/img/flor_calabaza.jpg",
+      "notes": {
+        "en": "Plural: the squash blossoms",
+        "fr": "Plural: les fleurs de courgette",
+        "it": "Plural: i fiori di zucca",
+        "pt": "Plural: as flores de abóbora"
+      }
+    },
+    {
+      "id": "food_210",
+      "es": "el hongo portobello",
+      "translations": {
+        "en": "the portobello mushroom",
+        "fr": "le champignon portobello",
+        "it": "il fungo portobello",
+        "pt": "o cogumelo portobello"
+      },
+      "image_url": "data/img/hongo_portobello.jpg",
+      "notes": {
+        "en": "Plural: the portobello mushrooms",
+        "fr": "Plural: les champignons portobello",
+        "it": "Plural: i funghi portobello",
+        "pt": "Plural: os cogumelos portobello"
+      }
+    }
+  ]
+}
