@@ -6,7 +6,7 @@ Versión 1.0 · 23 de noviembre de 2026
 
 Esta guía es la referencia para crear, ampliar, corregir y auditar los módulos JSON de `public/data/`. Aplica a toda contribución humana o asistida por IA. Su objetivo es garantizar calidad lingüística, coherencia pedagógica e integridad de los datos sin congelar el contenido ni imponer cantidades fijas de tarjetas.
 
-Clasificación: **O** = obligatoria; **C** = obligatoria cuando se cumple la condición indicada; **R** = recomendación editorial. Las decisiones pendientes no son requisitos vigentes.
+Clasificación: **O** = obligatoria; **C** = obligatoria cuando se cumple la condición indicada; **R** = recomendación editorial. Las reglas específicas prevalecen sobre las generales en su ámbito; los ejemplos ilustran la regla sin imponer listas cerradas.
 
 ## 2. Idiomas y equivalencia
 
@@ -29,10 +29,11 @@ Clasificación: **O** = obligatoria; **C** = obligatoria cuando se cumple la con
 
 - **DAT-01 (O).** Usar JSON válido en UTF-8, sin comentarios, comas finales ni claves duplicadas.
 - **DAT-02 (O).** Consultar el esquema y los consumidores reales del módulo antes de editarlo; conservar los tipos, campos obligatorios y estructura compatibles. No introducir campos nuevos sin verificar soporte.
-- **DAT-03 (O).** Cada tarjeta tendrá un identificador único en el ámbito exigido por la aplicación. Conservar los identificadores existentes al corregir una tarjeta; asignar identificadores nuevos a conceptos nuevos, sin reutilizar los eliminados para otros conceptos.
+- **DAT-03 (O).** Cada tarjeta tendrá un identificador de texto no vacío, único dentro del módulo (incluida su representación como cadena). Conservar los identificadores existentes al corregir una tarjeta; asignar identificadores nuevos a conceptos nuevos, sin reutilizar los eliminados para otros conceptos.
 - **DAT-04 (O).** Preservar `image_url`, imágenes asignadas y otros campos adicionales, excepto cuando exista una corrección explícita y justificada. No eliminar metadatos al reescribir el archivo.
 - **DAT-05 (O).** Preservar o mejorar el orden semántico del arreglo `cards`, conforme a NOM-04; insertar nuevas tarjetas en su bloque temático sin renumerar identificadores ni reorganizar indiscriminadamente.
-- **DAT-06 (C).** Al añadir un módulo, verificar su registro, ruta, configuración e integración con los conteos de tarjetas existentes.
+- **DAT-06 (C).** Al añadir un módulo, verificar su registro en `src/data/modules.js`, ruta, nivel, configuración e integración con los conteos de tarjetas existentes. No editar manualmente los conteos generados.
+- **DAT-08 (O).** Preservar los valores de `module` y `level` de los módulos existentes: junto con el idioma son la clave de las tarjetas marcadas para repasar. No cambiar estos valores por motivos cosméticos; cualquier cambio de identidad requiere evaluar sus efectos y tratarlo por separado.
 - **DAT-07 (O).** Entregar el JSON completo y un registro de cambios que identifique altas, bajas, correcciones y reorganizaciones. No sustituir el archivo por fragmentos incompletos.
 
 ## 4. Artículos definidos
@@ -49,7 +50,7 @@ Clasificación: **O** = obligatoria; **C** = obligatoria cuando se cumple la con
 | pt | A casa |
 | de | Das Haus |
 
-Los ejemplos ilustran la convención de artículos, no una regla general de capitalización.
+Los ejemplos aplican la convención de artículos y la capitalización de presentación de CAP-01.
 
 ## 5. Género y variantes
 
@@ -57,6 +58,7 @@ Los ejemplos ilustran la convención de artículos, no una regla general de capi
 - **GEN-02 (C).** En adjetivos, incluir las formas de género pertinentes en el texto principal; no inventar flexiones en idiomas o palabras sin variación.
 - **GEN-03 (C).** En sustantivos, conservar la forma principal y explicar las variantes pertinentes en las notas del idioma.
 - **GEN-04 (O).** No crear tarjetas independientes únicamente por una flexión gramatical. Sí separar conceptos distintos, por ejemplo, la vaca y el toro cuando se enseñen como vocabulario diferenciado.
+- **GEN-06 (C).** En oraciones completas, conservar la concordancia de género y número en cada alternativa. Repetir la expresión completa si una forma aislada perdería el sentido: `Estoy cansado. / Estoy cansada.`, no `Estoy cansado / cansada.` ni `Estoy cansado/a.`
 - **GEN-05 (C).** Explicar en notas las terminaciones gramaticales del alemán cuando sean relevantes; distinguir la forma léxica de las flexiones dependientes del contexto.
 
 ## 6. Plurales
@@ -85,6 +87,7 @@ Ejemplo ilustrativo del objeto de notas, sujeto al esquema vigente del módulo:
 - **NOT-02 (O).** El campo `es` contiene el término o expresión principal. Trasladar aclaraciones editoriales entre paréntesis a las notas; conservar paréntesis que sean parte genuina de la expresión si corresponde.
 - **NOT-03 (O).** Asociar cada nota al idioma al que se refiere, respetando el esquema existente.
 - **NOT-04 (C).** Añadir notas para explicar género, número, formalidad, contexto, registro, gramática o diferencias relevantes entre equivalentes cuando aporten valor.
+- **NOT-06 (O).** Mantener `notes` como objeto opcional con una cadena de texto por clave de idioma; combinar aclaraciones en esa misma cadena sin sobrescribir información útil. No introducir arreglos ni objetos anidados. Omitir claves de notas sin contenido.
 - **NOT-05 (R).** Mantener notas breves, claras y adecuadas al espacio de las tarjetas. Usar ejemplos cortos solo cuando aporten valor pedagógico; evitar explicaciones obvias o redundantes.
 
 ## 8. Alternativas y pronunciación
@@ -92,6 +95,7 @@ Ejemplo ilustrativo del objeto de notas, sujeto al esquema vigente del módulo:
 - **ALT-01 (O).** Separar alternativas mediante ` / `, con palabras o expresiones completas.
 - **ALT-02 (O).** Incluir solo alternativas naturales que correspondan al mismo concepto o intención; no acumular sinónimos indiscriminadamente ni mezclar sentidos incompatibles.
 - **ALT-03 (O).** Las barras representan separación entre alternativas y deben producir pausas naturales en la síntesis de voz. No alterar el texto visible ni insertar caracteres artificiales para corregir la pronunciación; resolver la transformación en la capa de reproducción.
+- **ALT-05 (O).** Cada alternativa debe poder leerse de forma autónoma cuando representa una palabra, número u oración completa. No abreviar segmentos compartidos si ello altera su significado o audio (p. ej. `Menos um / Menos uma`, no `Menos um / Uma`). Reservar ` / ` para alternativas; no modificar barras propias de fechas, fracciones o símbolos.
 - **ALT-04 (C).** Si las alternativas difieren en registro o contexto, aclarar esa diferencia en las notas.
 
 ## 9. Duplicados y organización
@@ -99,7 +103,7 @@ Ejemplo ilustrativo del objeto de notas, sujeto al esquema vigente del módulo:
 - **DUP-01 (O).** Eliminar duplicados exactos y redundancias semánticas que no aporten aprendizaje, previa revisión del contexto y de los identificadores.
 - **DUP-02 (O).** Mantener una tarjeta por concepto o intención comunicativa; conservar tarjetas distintas cuando exista una diferencia significativa de sentido, contexto o intención.
 - **DUP-03 (C).** Revisar duplicidades dentro del módulo y entre módulos y niveles relacionados. Conservar repeticiones pedagógicamente justificadas; no aplicar deduplicación mecánica global.
-- **DUP-04 (R).** Agrupar las tarjetas en un orden semántico que facilite su estudio.
+- **DUP-04 (O).** Agrupar las tarjetas en un orden semántico que facilite su estudio, según NOM-04.
 
 ## 10. Progresión pedagógica
 
@@ -138,8 +142,8 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 ### Pasada 1: estructural
 
 - [ ] JSON válido, codificación, campos y tipos compatibles.
-- [ ] Identificadores únicos y estables; imágenes y metadatos preservados.
-- [ ] Cobertura de idiomas habilitados completa.
+- [ ] Identificadores únicos y estables, identidad del módulo preservada y excepciones técnicas de números respetadas; imágenes y metadatos preservados.
+- [ ] Cobertura de idiomas habilitados completa, incluidas todas las tarjetas nuevas; idiomas todavía no disponibles sin traducciones parciales.
 - [ ] Rutas y registro correctos si se creó un módulo.
 
 ### Pasada 2: lingüística
@@ -149,7 +153,7 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - [ ] Infinitivos y construcciones pronominales naturales; sin notas de conjugación en tarjetas ordinarias.
 - [ ] Alternativas completas con el separador establecido.
 - [ ] Contracciones naturales, coloquialismos y abreviaturas en notas cuando corresponda; apóstrofos rectos.
-- [ ] Notas en español, breves y asociadas al idioma pertinente.
+- [ ] Notas en español, breves y asociadas al idioma pertinente; el campo `notes`, si se incluye, es un objeto de cadenas por idioma, no un arreglo de notas.
 - [ ] Registro, intensidad y significado conservados; variantes de tratamiento ordenadas, etiquetas de registro y diferencias regionales significativas en notas.
 - [ ] Falsos amigos relevantes aclarados en notas.
 - [ ] Significados distintos separados y ambigüedades aclaradas mediante notas parentéticas cuando corresponda.
@@ -160,14 +164,15 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - [ ] Conceptos esenciales cubiertos sin inflar el conteo.
 - [ ] Duplicados revisados; repeticiones entre módulos y niveles justificadas por autonomía temática, progresión o nuevos sentidos.
 - [ ] Cambios de contenido documentados.
+- [ ] Coincidencias y ambigüedades del modo práctica revisadas según PRA-01 a PRA-04.
 
 **Criterio de cierre:** no publicar un módulo con errores conocidos sin resolver. Las dudas lingüísticas pendientes deben documentarse y verificarse; no dar por realizada una revisión que no se efectuó. La revisión es manual/editorial: esta versión no introduce pruebas automatizadas ni cambios en el pipeline.
 
 ## 13. Capitalización y puntuación
 
-- **CAP-01 (O).** Utilizar mayúscula inicial de presentación en cada tarjeta y en cada alternativa separada por ` / `. Respetar las mayúsculas y minúsculas ortográficas propias de cada idioma en el resto del texto (por ejemplo, sustantivos alemanes, días y meses ingleses).
+- **CAP-01 (O).** Utilizar mayúscula inicial de presentación en cada tarjeta y en cada alternativa separada por ` / `. Respetar las mayúsculas y minúsculas ortográficas propias de cada idioma en el resto del texto (por ejemplo, sustantivos alemanes, días y meses ingleses). Conservar grafías cuyo aprendizaje depende de la distinción de caja, como letras del alfabeto, símbolos y unidades (`m`, `mm`, `kg`); los números y signos no requieren capitalización.
 - **CAP-02 (O).** No añadir punto final a palabras aisladas, frases nominales ni saludos breves: `Lunes`, `La casa`, `Rojo / Roja`, `Buenos días`.
-- **CAP-03 (O).** Añadir punto final a las oraciones declarativas completas y notas explicativas. Usar los signos de interrogación y exclamación y sus espacios según la ortografía del idioma: `¿Cómo estás?`, `How are you?`, `Comment vas-tu ?`.
+- **CAP-03 (O).** Añadir punto final a las oraciones declarativas completas y a las notas redactadas como oraciones; las etiquetas y aclaraciones nominales no requieren punto final (PLU-01, POL-02 y TRA-03). Usar los signos de interrogación y exclamación y sus espacios según la ortografía del idioma: `¿Cómo estás?`, `How are you?`, `Comment vas-tu ?`.
 - **CAP-04 (O).** En ejemplos dentro de notas, aplicar la ortografía natural del idioma, sin trasladar artificialmente la mayúscula inicial de presentación.
 
 ## 14. Verbos: infinitivos, reflexivos e irregulares
@@ -181,8 +186,8 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 ## 15. Contracciones, abreviaturas y siglas
 
 - **CON-01 (O).** Usar contracciones habituales y naturales del idioma sin duplicar sistemáticamente la forma completa. Respetar las elisiones y contracciones gramaticalmente obligatorias: `I'm leaving`, `J'ai un problème`, `È l'una`.
-- **CON-02 (C).** Usar la forma estándar en el texto principal y registrar las variantes coloquiales pertinentes en las notas del idioma correspondiente con la etiqueta `Coloquial:`. Ejemplos: `Coloquial: Gonna.`, `Coloquial: Tô.`, `Coloquial: Pra.` Incluir una aclaración breve de contexto o registro cuando sea necesaria. No añadir variantes coloquiales indiscriminadamente. Si la propia expresión coloquial es el objeto explícito de aprendizaje, puede aparecer en el texto principal con su registro aclarado en notas.
-- **CON-03 (C).** Presentar la forma completa de abreviaturas y siglas en el texto principal y consignar la abreviatura o sigla en notas, respetando su grafía convencional (por ejemplo, `Abreviatura: Dr.`, `Sigla: ASAP.`). Si la abreviatura o sigla es el objeto explícito de aprendizaje, puede aparecer en el texto principal y explicarse en notas.
+- **CON-02 (C).** Usar la forma estándar en el texto principal y registrar las variantes coloquiales pertinentes en las notas del idioma correspondiente con la etiqueta `Coloquial:`. Ejemplos: `Coloquial: Gonna`, `Coloquial: Tô`, `Coloquial: Pra` Incluir una aclaración breve de contexto o registro cuando sea necesaria. No añadir variantes coloquiales indiscriminadamente. Si la propia expresión coloquial es el objeto explícito de aprendizaje, puede aparecer en el texto principal con su registro aclarado en notas.
+- **CON-03 (C).** Presentar la forma completa de abreviaturas y siglas en el texto principal y consignar la abreviatura o sigla en notas, respetando su grafía convencional (por ejemplo, `Abreviatura: Dr.`, `Sigla: ASAP`). Si la abreviatura o sigla es el objeto explícito de aprendizaje, puede aparecer en el texto principal y explicarse en notas.
 - **CON-04 (O).** Usar apóstrofo recto ASCII (`'`, U+0027) en los textos lingüísticos y notas de los JSON, en lugar del apóstrofo tipográfico (`’`, U+2019). No confundir apóstrofos con otros signos ortográficos ni modificar identificadores, URLs o metadatos ajenos al contenido lingüístico.
 
 ## 16. Imágenes y representación de colores
@@ -203,7 +208,7 @@ Ejemplo: `En realidad` → `Actually`. Nota en inglés: `Falso amigo: No signifi
 ## 18. Homónimos y polisemia
 
 - **POL-01 (O).** Crear tarjetas independientes para cada significado relevante de una palabra cuando cambie el concepto o la equivalencia lingüística. El separador ` / ` se reserva para alternativas del mismo significado, conforme a ALT-02.
-- **POL-02 (C).** Cuando el texto principal sea ambiguo, añadir una aclaración breve entre paréntesis en las notas correspondientes, sin la etiqueta «Contexto:». Para fragmentos nominales no usar punto: `(Entidad financiera)`, `(Asiento para varias personas)`. Si la nota parentética constituye una oración completa autónoma, colocar el punto antes del cierre: `(Se refiere a una entidad financiera.)`.
+- **POL-02 (C).** Cuando el texto principal sea ambiguo, añadir una aclaración breve entre paréntesis en las notas correspondientes, sin la etiqueta «Contexto:». Para fragmentos nominales no usar punto: `(Entidad financiera)`, `(Asiento para varias personas)`. Si la aclaración parentética constituye una oración completa autónoma en español, colocar el punto después del cierre: `(Se refiere a una entidad financiera).` Véase el [DPD, «paréntesis»](https://www.rae.es/dpd/par%C3%A9ntesis).
 - **POL-03 (R).** Preferir expresiones naturales que desambigüen por sí mismas, sin añadir aclaraciones redundantes: `La llave de agua`, `La llave de paso`, `La planta de interior`.
 - **POL-04 (C).** Mantener la aclaración accesible en la cara de la tarjeta que presenta la ambigüedad, especialmente en la nota española cuando el término de referencia admite varios sentidos.
 
@@ -230,7 +235,7 @@ Ejemplo: `En realidad` → `Actually`. Nota en inglés: `Falso amigo: No signifi
 - **NOM-02 (O).** Para módulos nuevos, usar un prefijo temático único seguido de guion bajo y número consecutivo de al menos tres dígitos, por ejemplo `via_001`. En módulos existentes, respetar su convención de IDs.
 - **NOM-03 (O).** Los identificadores son únicos, permanentes e independientes de la posición. No renumerarlos al reorganizar tarjetas ni reutilizar identificadores eliminados para otros conceptos.
 - **NOM-04 (O).** Organizar las tarjetas semánticamente dentro del arreglo `cards`. Insertar toda tarjeta nueva en su bloque temático correspondiente, independientemente de su identificador numérico. No añadirla al final por mera conveniencia ni ordenar por ID. Ejemplo: insertar `food_6` (El melón) junto a las frutas, antes de `food_4` (La zanahoria), sin cambiar los IDs existentes.
-- **NOM-05 (O).** Asignar nuevos números independientemente de la posición, comprobando que no se hayan utilizado previamente; consultar el historial cuando sea necesario. No incorporar un campo de orden adicional: la posición dentro de `cards` define el orden de estudio.
+- **NOM-05 (O).** Asignar nuevos números independientemente de la posición, comprobando que no se hayan utilizado previamente; consultar el historial cuando sea necesario. Excepción técnica: en `a1_numeros.json` los IDs `n` seguidos del valor entero (p. ej. `n21`, `n-1`) son interpretados por `src/utils/numberRanges.js` para filtrar rangos. Mantener esa correspondencia y no sustituirla por una secuencia arbitraria. No incorporar un campo de orden adicional: la posición dentro de `cards` define el orden de estudio.
 
 ## 22. Incorporación de idiomas
 
@@ -238,7 +243,7 @@ Esta sección documenta la estrategia existente de Fluentia; no requiere cambios
 
 - **IDI-06 (O).** Mantener un único JSON multilingüe por módulo. Incorporar el idioma mediante su clave en `translations` y, cuando corresponda, en `notes`, sin crear archivos independientes por idioma.
 - **IDI-07 (O).** Definir antes de incorporar un idioma su clave, variante regional, sistema de escritura y convenciones lingüísticas pertinentes. Documentar las reglas particulares cuando se decida incorporar ese idioma.
-- **IDI-08 (O).** Incorporar nuevos idiomas progresivamente, módulo por módulo, como se hace actualmente con alemán. Traducir y revisar todas las tarjetas del módulo antes de publicar el idioma en él. No publicar traducciones parciales ni añadir una traducción provisional a la primera tarjeta.
+- **IDI-08 (O).** Incorporar nuevos idiomas progresivamente, módulo por módulo, como se hace actualmente con alemán. Traducir y revisar todas las tarjetas del módulo antes de publicar el idioma en él. No publicar traducciones parciales ni añadir una traducción provisional a la primera tarjeta. Al añadir una tarjeta a un módulo existente, completar todos los idiomas ya disponibles en ese módulo, incluido alemán cuando corresponda, antes de publicar. Para un idioma todavía no disponible, omitir su clave de traducción de todas las tarjetas publicadas hasta completar la migración; no dejar un módulo parcialmente traducido.
 - **IDI-09 (O).** Preservar los identificadores, el orden semántico, las traducciones y notas de los demás idiomas y los metadatos existentes. No eliminar conceptos por dificultad de traducción. Realizar las tres pasadas de auditoría antes de publicar.
 - **IDI-10 (C).** Cuando se incorpore efectivamente un idioma nuevo a la aplicación, registrar su opción en el selector de `src/App.jsx` y su configuración regional de síntesis de voz en `src/components/StudyMode.jsx` y `src/components/PracticeMode.jsx`. Esta guía no modifica dichas configuraciones actuales.
 
@@ -256,7 +261,16 @@ Si la primera traducción existe, la aplicación considera disponible el módulo
 
 Los módulos que aún no se hayan migrado al alemán conservan su cobertura anterior. La migración se realizará por módulos completos, sin imponer un calendario ni alterar la arquitectura existente.
 
-## 23. Mantenimiento de la guía
+## 23. Compatibilidad con el modo práctica
+
+El modo práctica selecciona distractores por ID, reproduce la traducción del idioma objetivo y muestra como opciones el texto español. Las notas se muestran después de acertar. Por tanto, dos tarjetas con distinto ID pueden producir respuestas indistinguibles o igualmente correctas.
+
+- **PRA-01 (O).** Revisar coincidencias del texto español y de las traducciones completas o alternativas dentro del mismo módulo, por cada idioma disponible. Distinguir duplicados editoriales de equivalencias lingüísticas legítimas; no eliminar estas últimas automáticamente.
+- **PRA-02 (R).** Preferir expresiones naturales que aporten contexto suficiente para distinguir conceptos cuando ello no cambie el objetivo de aprendizaje.
+- **PRA-03 (O).** Documentar las ambigüedades legítimas que no puedan resolverse sin alterar el contenido o la lógica de práctica. No inventar diferencias de traducción ni introducir cambios funcionales para resolverlas dentro de una actualización editorial.
+- **PRA-04 (C).** Para módulos destinados también a práctica, considerar que la implementación necesita al menos cuatro tarjetas con IDs distintos para generar preguntas. Este es un requisito técnico de ese modo, no una cuota editorial de tarjetas.
+
+## 24. Mantenimiento de la guía
 
 Actualizar este documento cuando se acuerde una nueva regla editorial. Registrar las excepciones justificadas en el cambio correspondiente. Los ejemplos son ilustrativos, no listas exhaustivas ni esquemas alternativos. Ante una incompatibilidad técnica, resolverla explícitamente antes de cambiar el formato de los JSON.
 
