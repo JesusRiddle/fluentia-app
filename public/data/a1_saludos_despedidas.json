@@ -66,13 +66,10 @@
       "translations": {
         "en": "To say goodbye",
         "fr": "Dire au revoir",
-        "it": "Congedarsi / Salutarsi",
+        "it": "Congedarsi",
         "pt": "Despedir-se"
       },
       "image_url": "",
-      "notes": {
-        "it": "Salutarsi también puede referirse a saludarse al encontrarse; congedarsi especifica la despedida."
-      },
       "examples": {
         "en": {
           "text": "It's time to say goodbye.",
@@ -335,7 +332,10 @@
       "image_url": "",
       "notes": {
         "es": "(Tratamiento al dirigirse a un hombre)",
-        "en": "Sir se emplea al dirigirse cortésmente a un hombre; mister va normalmente con un apellido."
+        "en": "Sir se usa al dirigirse cortésmente a un hombre; Mr. (abreviatura de mister) va normalmente con un apellido.",
+        "fr": "Como sustantivo de tratamiento: (Plural: Messieurs)",
+        "it": "(Plural: I signori)",
+        "pt": "(Plural: Os senhores)"
       },
       "examples": {
         "en": {
@@ -368,7 +368,10 @@
       "image_url": "",
       "notes": {
         "es": "(Tratamiento al dirigirse a una mujer)",
-        "en": "Ma'am es un tratamiento cortés; Mrs. se usa normalmente con un apellido."
+        "en": "Ma'am es un tratamiento cortés; Mrs. se utiliza normalmente con un apellido.",
+        "fr": "Como sustantivo de tratamiento: (Plural: Mesdames)",
+        "it": "(Plural: Le signore)",
+        "pt": "(Plural: As senhoras)"
       },
       "examples": {
         "en": {
@@ -420,12 +423,12 @@
     },
     {
       "id": "sd_042",
-      "es": "Bienvenido de nuevo / Bienvenida de nuevo",
+      "es": "Bienvenido de nuevo / Bienvenida de nuevo / Bienvenidos de nuevo / Bienvenidas de nuevo",
       "translations": {
         "en": "Welcome back",
         "fr": "Bon retour parmi nous",
-        "it": "Bentornato / Bentornata",
-        "pt": "Bem-vindo de volta / Bem-vinda de volta"
+        "it": "Bentornato / Bentornata / Bentornati / Bentornate",
+        "pt": "Bem-vindo de volta / Bem-vinda de volta / Bem-vindos de volta / Bem-vindas de volta"
       },
       "image_url": "",
       "examples": {
@@ -486,7 +489,10 @@
         "it": "Come state?",
         "pt": "Como vocês estão?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Vous puede referirse a varias personas o a una sola persona tratada de usted."
+      }
     },
     {
       "id": "sd_017",
@@ -504,7 +510,7 @@
       "es": "¿Cómo van las cosas? / ¿Cómo va todo?",
       "translations": {
         "en": "How are things going? / How's everything going?",
-        "fr": "Comment vont les choses ? / Comment ça se passe ?",
+        "fr": "Comment vont les choses ? / Comment ça va en général ?",
         "it": "Come vanno le cose? / Come va tutto?",
         "pt": "Como vão as coisas? / Como vai tudo?"
       },
@@ -527,7 +533,7 @@
       "translations": {
         "en": "What's new?",
         "fr": "Quoi de neuf ?",
-        "it": "Che novità?",
+        "it": "Che c'è di nuovo?",
         "pt": "O que há de novo?"
       },
       "image_url": ""
@@ -537,14 +543,14 @@
       "es": "¿Qué onda? / ¿Qué pasa?",
       "translations": {
         "en": "What's up?",
-        "fr": "Quoi de neuf ? / Ça roule ?",
+        "fr": "Ça roule ? / Quoi de neuf ?",
         "it": "Che si dice? / Come butta?",
         "pt": "E aí?"
       },
       "image_url": "",
       "notes": {
         "es": "(Coloquial, como saludo)",
-        "fr": "(Informal) Quoi de neuf ? también significa «¿Qué hay de nuevo?»; ça roule ? es más coloquial.",
+        "fr": "Ça roule ? es coloquial; quoi de neuf ? también significa «¿Qué hay de nuevo?».",
         "it": "(Coloquial) Come butta? es más familiar.",
         "pt": "(Coloquial)"
       }
@@ -616,7 +622,25 @@
         "it": "Tutto bene.",
         "pt": "Tudo bem."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "All good, I'm at home.",
+          "es": "Todo bien, estoy en casa."
+        },
+        "fr": {
+          "text": "Tout va bien, je suis chez moi.",
+          "es": "Todo bien, estoy en casa."
+        },
+        "it": {
+          "text": "Tutto bene, sono a casa.",
+          "es": "Todo bien, estoy en casa."
+        },
+        "pt": {
+          "text": "Tudo bem, estou em casa.",
+          "es": "Todo bien, estoy en casa."
+        }
+      }
     },
     {
       "id": "sd_037",
@@ -723,11 +747,11 @@
         "en": "I'm fine, thanks. And you?",
         "fr": "Je vais bien, merci. Et toi ? / Je vais bien, merci. Et vous ?",
         "it": "Sto bene, grazie. E tu? / Sto bene, grazie. E lei?",
-        "pt": "Estou bem, obrigado. E você? / Estou bem, obrigada. E você? / Estou bem, obrigado. E o senhor? / Estou bem, obrigada. E o senhor? / Estou bem, obrigado. E a senhora? / Estou bem, obrigada. E a senhora?"
+        "pt": "Estou bem, obrigado. E você? / Estou bem, obrigada. E você?"
       },
       "image_url": "",
       "notes": {
-        "pt": "Obrigado / obrigada depende de quien habla; o senhor / a senhora de la persona a quien se dirige."
+        "pt": "Obrigado si habla un hombre; obrigada si habla una mujer. Para el trato formal, usa «E o senhor?» o «E a senhora?»."
       }
     },
     {
@@ -742,6 +766,24 @@
       "image_url": "",
       "notes": {
         "es": "(Reencuentro después de mucho tiempo)"
+      },
+      "examples": {
+        "en": {
+          "text": "Long time no see! How have you been?",
+          "es": "¡Cuánto tiempo! ¿Cómo has estado?"
+        },
+        "fr": {
+          "text": "Ça fait longtemps ! Comment vas-tu ?",
+          "es": "¡Cuánto tiempo! ¿Cómo estás?"
+        },
+        "it": {
+          "text": "Da quanto tempo! Come stai?",
+          "es": "¡Cuánto tiempo! ¿Cómo estás?"
+        },
+        "pt": {
+          "text": "Quanto tempo! Como você tem passado?",
+          "es": "¡Cuánto tiempo! ¿Cómo has estado?"
+        }
       }
     },
     {
@@ -753,7 +795,25 @@
         "it": "Che sorpresa!",
         "pt": "Que surpresa!"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "What a surprise! You're here!",
+          "es": "¡Qué sorpresa! ¡Estás aquí!"
+        },
+        "fr": {
+          "text": "Quelle surprise ! Tu es là !",
+          "es": "¡Qué sorpresa! ¡Estás aquí!"
+        },
+        "it": {
+          "text": "Che sorpresa! Sei qui!",
+          "es": "¡Qué sorpresa! ¡Estás aquí!"
+        },
+        "pt": {
+          "text": "Que surpresa! Você está aqui!",
+          "es": "¡Qué sorpresa! ¡Estás aquí!"
+        }
+      }
     },
     {
       "id": "sd_027",
@@ -869,13 +929,14 @@
       "es": "Igualmente, mucho gusto",
       "translations": {
         "en": "Nice to meet you too",
-        "fr": "Enchanté également / Enchantée également",
+        "fr": "Ravi de te rencontrer aussi / Ravie de te rencontrer aussi / Ravi de vous rencontrer aussi / Ravie de vous rencontrer aussi",
         "it": "Piacere mio",
         "pt": "Prazer em conhecer você também"
       },
       "image_url": "",
       "notes": {
-        "es": "(Respuesta al conocer a alguien)"
+        "es": "(Respuesta al conocer a alguien)",
+        "fr": "Ravi si habla un hombre; ravie si habla una mujer. Te es informal y vous formal o plural."
       }
     },
     {
@@ -947,7 +1008,7 @@
     },
     {
       "id": "sd_045",
-      "es": "Hasta luego / Nos vemos luego",
+      "es": "Hasta luego / Nos vemos luego.",
       "translations": {
         "en": "See you later",
         "fr": "À plus tard / On se voit plus tard.",
@@ -958,7 +1019,7 @@
     },
     {
       "id": "sd_047",
-      "es": "Hasta pronto / Nos vemos pronto",
+      "es": "Hasta pronto / Nos vemos pronto.",
       "translations": {
         "en": "See you soon",
         "fr": "À bientôt / On se voit bientôt.",
@@ -984,12 +1045,12 @@
       },
       "examples": {
         "en": {
-          "text": "She said farewell to her friend.",
-          "es": "Ella se despidió de su amigo."
+          "text": "He said a final farewell to his friend.",
+          "es": "Se despidió de su amigo por última vez."
         },
         "fr": {
           "text": "Il dit adieu à son ami.",
-          "es": "Él se despide para siempre de su amigo."
+          "es": "Se despide para siempre de su amigo."
         },
         "it": {
           "text": "Dice addio al suo amico.",
@@ -1003,7 +1064,7 @@
     },
     {
       "id": "sd_049",
-      "es": "Hasta mañana / Nos vemos mañana",
+      "es": "Hasta mañana / Nos vemos mañana.",
       "translations": {
         "en": "See you tomorrow",
         "fr": "À demain / On se voit demain.",
@@ -1014,7 +1075,7 @@
     },
     {
       "id": "sd_050",
-      "es": "Nos vemos en un momento",
+      "es": "Nos vemos en un momento.",
       "translations": {
         "en": "See you in a moment",
         "fr": "À tout de suite",
@@ -1029,12 +1090,30 @@
       "translations": {
         "en": "See you in a bit",
         "fr": "À tout à l'heure",
-        "it": "A più tardi",
+        "it": "A tra un po'",
         "pt": "Até daqui a pouco"
       },
       "image_url": "",
       "notes": {
         "fr": "À tout à l'heure se usa cuando se espera volver a ver a alguien ese mismo día."
+      },
+      "examples": {
+        "en": {
+          "text": "See you in a bit, I'm going to get a coffee.",
+          "es": "Hasta dentro de un rato, voy por un café."
+        },
+        "fr": {
+          "text": "À tout à l'heure, je vais prendre un café.",
+          "es": "Hasta dentro de un rato, voy por un café."
+        },
+        "it": {
+          "text": "A tra un po', vado a prendere un caffè.",
+          "es": "Hasta dentro de un rato, voy por un café."
+        },
+        "pt": {
+          "text": "Até daqui a pouco, vou tomar um café.",
+          "es": "Hasta dentro de un rato, voy por un café."
+        }
       }
     },
     {
@@ -1068,11 +1147,11 @@
     },
     {
       "id": "sd_053",
-      "es": "Nos vemos",
+      "es": "Nos vemos.",
       "translations": {
         "en": "See you",
         "fr": "À plus",
-        "it": "Ci vediamo",
+        "it": "Ci vediamo.",
         "pt": "Até mais"
       },
       "image_url": "",
@@ -1115,7 +1194,7 @@
       "examples": {
         "en": {
           "text": "See you tomorrow morning, get some rest.",
-          "es": "Hasta mañana por la mañana, que descanses."
+          "es": "Hasta mañana por la mañana, descansa."
         },
         "fr": {
           "text": "À demain matin, repose-toi bien.",
@@ -1205,8 +1284,8 @@
           "es": "Hasta el mes que viene, que te vaya bien."
         },
         "fr": {
-          "text": "Au mois prochain, bonne continuation.",
-          "es": "Hasta el mes que viene, que te vaya bien."
+          "text": "Au mois prochain, bonne continuation !",
+          "es": "Hasta el mes que viene, ¡que te vaya bien!"
         },
         "it": {
           "text": "Al mese prossimo, buon proseguimento.",
@@ -1544,7 +1623,7 @@
       "id": "sd_078",
       "es": "Que descanses / Que descanse",
       "translations": {
-        "en": "Have a good rest",
+        "en": "Rest well / Have a good rest",
         "fr": "Repose-toi bien / Reposez-vous bien",
         "it": "Buon riposo",
         "pt": "Bom descanso"
@@ -1553,7 +1632,7 @@
     },
     {
       "id": "sd_071",
-      "es": "Que duermas bien / Que duerma bien",
+      "es": "Duerme bien / Duerma bien / Que duermas bien / Que duerma bien",
       "translations": {
         "en": "Sleep well",
         "fr": "Dors bien / Dormez bien",
@@ -1586,7 +1665,7 @@
         },
         "it": {
           "text": "Sogni d'oro, ti voglio bene.",
-          "es": "Dulces sueños, te quiero mucho."
+          "es": "Dulces sueños, te quiero."
         },
         "pt": {
           "text": "Bons sonhos, eu te amo.",
@@ -1606,6 +1685,24 @@
       "image_url": "",
       "notes": {
         "es": "(Al contestar el teléfono en México)"
+      },
+      "examples": {
+        "en": {
+          "text": "Hello? Who am I speaking to?",
+          "es": "¿Bueno? ¿Con quién hablo?"
+        },
+        "fr": {
+          "text": "Allô ? C'est qui ?",
+          "es": "¿Bueno? ¿Quién habla?"
+        },
+        "it": {
+          "text": "Pronto? Con chi parlo?",
+          "es": "¿Bueno? ¿Con quién hablo?"
+        },
+        "pt": {
+          "text": "Alô? Com quem estou falando?",
+          "es": "¿Bueno? ¿Con quién hablo?"
+        }
       }
     },
     {
@@ -1718,14 +1815,14 @@
       "es": "Saludos",
       "translations": {
         "en": "Regards",
-        "fr": "Salutations",
+        "fr": "Cordialement",
         "it": "Saluti",
         "pt": "Saudações"
       },
       "image_url": "",
       "notes": {
         "es": "(Cierre de mensaje)",
-        "fr": "Salutations se encuentra en fórmulas escritas; cordialement es más habitual en correos."
+        "fr": "Cordialement es una fórmula habitual de cierre en correos; también puede equivaler a «atentamente»."
       }
     },
     {
@@ -1750,7 +1847,7 @@
       },
       "image_url": "",
       "notes": {
-        "fr": "Cordialement es común en correos; las cartas muy formales usan fórmulas de cierre más largas."
+        "fr": "Cordialement es común en correos; en cartas muy formales se prefieren fórmulas más largas."
       }
     },
     {
@@ -1758,7 +1855,7 @@
       "es": "Con cariño",
       "translations": {
         "en": "With love",
-        "fr": "Avec affection / Affectueusement",
+        "fr": "Affectueusement",
         "it": "Con affetto",
         "pt": "Com carinho"
       },
@@ -1769,8 +1866,8 @@
           "es": "Con cariño, te mando un abrazo."
         },
         "fr": {
-          "text": "Je t'écris avec affection.",
-          "es": "Te escribo con cariño."
+          "text": "Je pense à toi affectueusement.",
+          "es": "Pienso en ti con cariño."
         },
         "it": {
           "text": "Con affetto, ti mando un abbraccio.",
@@ -1786,7 +1883,7 @@
       "id": "sd_090",
       "es": "Un abrazo",
       "translations": {
-        "en": "Hugs",
+        "en": "A hug / Hugs",
         "fr": "Je t'embrasse",
         "it": "Un abbraccio",
         "pt": "Um abraço"
@@ -1794,7 +1891,7 @@
       "image_url": "",
       "examples": {
         "en": {
-          "text": "I'm sending you hugs from Mexico.",
+          "text": "I'm sending you a hug from Mexico.",
           "es": "Te mando un abrazo desde México."
         },
         "fr": {
@@ -1904,7 +2001,7 @@
       "translations": {
         "en": "Say hello to your family for me.",
         "fr": "Passe le bonjour à ta famille. / Passez le bonjour à votre famille.",
-        "it": "Salutami la tua famiglia. / Mi saluti la sua famiglia.",
+        "it": "Salutami la tua famiglia. / Saluti la sua famiglia da parte mia.",
         "pt": "Mande lembranças à sua família."
       },
       "image_url": ""
@@ -1916,11 +2013,12 @@
         "en": "Say hello to everyone for me",
         "fr": "Passe le bonjour à tout le monde / Passez le bonjour à tout le monde",
         "it": "Un saluto a tutti",
-        "pt": "Um abraço a todos"
+        "pt": "Um abraço a todos / Lembranças a todos"
       },
       "image_url": "",
       "notes": {
-        "es": "(Saludos transmitidos a un grupo ausente)"
+        "es": "(Saludos transmitidos a un grupo ausente)",
+        "pt": "Um abraço a todos es afectuoso; lembranças a todos transmite saludos a terceros."
       }
     },
     {
@@ -1939,16 +2037,16 @@
           "es": "Feliz cumpleaños, espero que tengas un gran día."
         },
         "fr": {
-          "text": "Joyeux anniversaire, j'espère que tu passeras une belle journée.",
-          "es": "Feliz cumpleaños, espero que tengas un gran día."
+          "text": "Joyeux anniversaire, passe une belle journée !",
+          "es": "Feliz cumpleaños, ¡que tengas un bonito día!"
         },
         "it": {
-          "text": "Buon compleanno, spero che tu passi una bella giornata.",
-          "es": "Feliz cumpleaños, espero que tengas un gran día."
+          "text": "Buon compleanno, passa una bella giornata!",
+          "es": "Feliz cumpleaños, ¡que tengas un bonito día!"
         },
         "pt": {
-          "text": "Feliz aniversário, espero que você tenha um ótimo dia.",
-          "es": "Feliz cumpleaños, espero que tengas un gran día."
+          "text": "Feliz aniversário, tenha um ótimo dia!",
+          "es": "Feliz cumpleaños, ¡que tengas un gran día!"
         }
       }
     },
