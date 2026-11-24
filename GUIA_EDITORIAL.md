@@ -151,6 +151,7 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - [ ] Contracciones naturales, coloquialismos y abreviaturas en notas cuando corresponda; apóstrofos rectos.
 - [ ] Notas en español, breves y asociadas al idioma pertinente.
 - [ ] Registro, intensidad y significado conservados.
+- [ ] Falsos amigos relevantes aclarados en notas.
 
 ### Pasada 3: pedagógica
 
@@ -190,17 +191,25 @@ El Marco Común Europeo de Referencia (MCER) orienta la complejidad comunicativa
 - **IMG-03 (C).** El módulo de colores es la excepción visual: utilizar el campo `hex` para representar los colores y tonalidades mediante muestras cromáticas, sin archivos de imagen. Usar códigos hexadecimales válidos y adecuados al color representado; conservar el valor vacío cuando el concepto no tenga un color concreto (por ejemplo, claro u oscuro).
 - **IMG-04 (O).** No condicionar la publicación de módulos lingüísticos a la disponibilidad de imágenes.
 
-## 17. Decisiones pendientes
+## 17. Falsos amigos
+
+- **FAL-01 (O).** Mantener en el texto principal la equivalencia semántica correcta, sin traducir por semejanza ortográfica o fonética con el español.
+- **FAL-02 (C).** Cuando exista un riesgo real de confusión para un hispanohablante, añadir una nota en el idioma correspondiente con la etiqueta `Falso amigo:`. Explicar brevemente el significado erróneo que debe evitarse y, cuando resulte útil, indicar la equivalencia correcta de la palabra española confundida.
+- **FAL-03 (O).** No presentar como falsos amigos términos que compartan un significado válido sin aclarar el sentido concreto en que difieren.
+
+Ejemplo: `En realidad` → `Actually`. Nota en inglés: `Falso amigo: No significa «actualmente». Para expresar «actualmente» se utiliza «currently».`
+
+## 18. Decisiones pendientes
 
 Los siguientes temas requieren una definición posterior y no constituyen nuevas reglas obligatorias:
 
-- Falsos amigos, homónimos y polisemia.
+- Homónimos y polisemia.
 - Tratamientos personales y formalidad: convenciones detalladas.
 - Criterios específicos de repetición entre niveles.
 - Nomenclatura de archivos e identificadores nuevos.
 - Incorporación de futuros idiomas y plan de migración de módulos al alemán.
 
-## 18. Mantenimiento de la guía
+## 19. Mantenimiento de la guía
 
 Actualizar este documento cuando se acuerde una nueva regla editorial. Registrar las excepciones justificadas en el cambio correspondiente. Los ejemplos son ilustrativos, no listas exhaustivas ni esquemas alternativos. Ante una incompatibilidad técnica, resolverla explícitamente antes de cambiar el formato de los JSON.
 
