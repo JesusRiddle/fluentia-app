@@ -9,7 +9,8 @@
         "en": "To be",
         "pt": "Ser / Estar",
         "fr": "Être",
-        "it": "Essere / Stare"
+        "it": "Essere / Stare",
+        "de": "Sein"
       },
       "image_url": "",
       "notes": {
@@ -17,7 +18,30 @@
         "en": "«To be» puede traducir tanto «ser» como «estar»; el contexto determina el sentido.",
         "fr": "«Être» equivale normalmente tanto a «ser» como a «estar».",
         "it": "«Essere» es la opción general; «stare» se usa en contextos como «stare bene» (estar bien) o «stare fermo» (quedarse quieto), pero no sustituye siempre a «essere».",
-        "pt": "Como en español, «ser» y «estar» expresan contrastes de identidad/característica frente a estado/ubicación, con excepciones de uso."
+        "pt": "Como en español, «ser» y «estar» expresan contrastes de identidad/característica frente a estado/ubicación, con excepciones de uso.",
+        "de": "«Sein» sirve para identidad, estado o ubicación; el alemán no distingue estos usos con dos verbos como el español."
+      },
+      "examples": {
+        "en": {
+          "text": "I'm at home.",
+          "es": "Estoy en casa."
+        },
+        "fr": {
+          "text": "Je suis à la maison.",
+          "es": "Estoy en casa."
+        },
+        "it": {
+          "text": "Sono a casa.",
+          "es": "Estoy en casa."
+        },
+        "pt": {
+          "text": "Estou em casa.",
+          "es": "Estoy en casa."
+        },
+        "de": {
+          "text": "Ich bin zu Hause.",
+          "es": "Estoy en casa."
+        }
       }
     },
     {
@@ -27,25 +51,72 @@
         "en": "To have",
         "pt": "Ter",
         "fr": "Avoir",
-        "it": "Avere"
+        "it": "Avere",
+        "de": "Haben"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I have a question.",
+          "es": "Tengo una pregunta."
+        },
+        "fr": {
+          "text": "J'ai une question.",
+          "es": "Tengo una pregunta."
+        },
+        "it": {
+          "text": "Ho una domanda.",
+          "es": "Tengo una pregunta."
+        },
+        "pt": {
+          "text": "Tenho uma pergunta.",
+          "es": "Tengo una pregunta."
+        },
+        "de": {
+          "text": "Ich habe eine Frage.",
+          "es": "Tengo una pregunta."
+        }
+      }
     },
     {
       "id": "va3",
-      "es": "Haber (hay)",
+      "es": "Haber",
       "translations": {
         "en": "There is / There are",
-        "pt": "Há / Tem",
+        "pt": "Há",
         "fr": "Il y a",
-        "it": "C'è / Ci sono"
+        "it": "C'è / Ci sono",
+        "de": "Es gibt"
       },
       "image_url": "",
       "notes": {
-        "es": "Aquí se estudia la existencia («hay»), no el auxiliar «haber» de «he comido».",
+        "es": "(Existencia: «hay», no el auxiliar de «he comido»)",
         "en": "«There is» (singular) y «there are» (plural) expresan existencia; no equivalen al verbo auxiliar «to have» de otros contextos.",
-        "pt": "«Há» es estándar; «tem» con sentido de «hay» es muy frecuente en portugués brasileño informal.",
-        "it": "«C’è» se usa con singular y «ci sono» con plural."
+        "pt": "Coloquial: «Tem» con sentido de «hay» es frecuente en el portugués brasileño hablado.",
+        "it": "«C'è» se usa con singular y «ci sono» con plural.",
+        "de": "En el sentido de existencia, «es gibt» va seguido de acusativo."
+      },
+      "examples": {
+        "en": {
+          "text": "There's a park near here.",
+          "es": "Hay un parque cerca de aquí."
+        },
+        "fr": {
+          "text": "Il y a un parc près d'ici.",
+          "es": "Hay un parque cerca de aquí."
+        },
+        "it": {
+          "text": "C'è un parco qui vicino.",
+          "es": "Hay un parque cerca de aquí."
+        },
+        "pt": {
+          "text": "Há um parque aqui perto.",
+          "es": "Hay un parque cerca de aquí."
+        },
+        "de": {
+          "text": "Es gibt hier in der Nähe einen Park.",
+          "es": "Hay un parque cerca de aquí."
+        }
       }
     },
     {
@@ -55,11 +126,34 @@
         "en": "To do / To make",
         "pt": "Fazer / Realizar",
         "fr": "Faire",
-        "it": "Fare"
+        "it": "Fare",
+        "de": "Machen"
       },
       "image_url": "",
       "notes": {
         "en": "«To do» suele emplearse para acciones o tareas; «to make» para crear, producir o preparar algo. No son intercambiables."
+      },
+      "examples": {
+        "en": {
+          "text": "I make dinner.",
+          "es": "Hago la cena."
+        },
+        "fr": {
+          "text": "Je fais le dîner.",
+          "es": "Hago la cena."
+        },
+        "it": {
+          "text": "Faccio la cena.",
+          "es": "Hago la cena."
+        },
+        "pt": {
+          "text": "Faço o jantar.",
+          "es": "Hago la cena."
+        },
+        "de": {
+          "text": "Ich mache das Abendessen.",
+          "es": "Hago la cena."
+        }
       }
     },
     {
@@ -69,9 +163,32 @@
         "en": "To want",
         "pt": "Querer",
         "fr": "Vouloir",
-        "it": "Volere"
+        "it": "Volere",
+        "de": "Wollen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I want a glass of water.",
+          "es": "Quiero un vaso de agua."
+        },
+        "fr": {
+          "text": "Je veux un verre d'eau.",
+          "es": "Quiero un vaso de agua."
+        },
+        "it": {
+          "text": "Voglio un bicchiere d'acqua.",
+          "es": "Quiero un vaso de agua."
+        },
+        "pt": {
+          "text": "Quero um copo de água.",
+          "es": "Quiero un vaso de agua."
+        },
+        "de": {
+          "text": "Ich will ein Glas Wasser.",
+          "es": "Quiero un vaso de agua."
+        }
+      }
     },
     {
       "id": "va6",
@@ -80,12 +197,36 @@
         "en": "To need",
         "pt": "Precisar / Necessitar",
         "fr": "Avoir besoin de",
-        "it": "Avere bisogno di / Necessitare di"
+        "it": "Avere bisogno di / Necessitare di",
+        "de": "Brauchen"
       },
       "image_url": "",
       "notes": {
-        "fr": "«Avoir besoin de» requiere «de»: «J’ai besoin d’aide» (necesito ayuda).",
-        "it": "«Avere bisogno di» es la forma habitual; «necessitare di» es más formal."
+        "fr": "«Avoir besoin de» requiere «de»: «J'ai besoin d'aide» (necesito ayuda).",
+        "it": "«Avere bisogno di» es la forma habitual; «necessitare di» es más formal.",
+        "de": "Para una cosa, «brauchen» admite un sustantivo directo; para decir que es necesario hacer algo suele usarse «müssen»."
+      },
+      "examples": {
+        "en": {
+          "text": "I need more paper.",
+          "es": "Necesito más papel."
+        },
+        "fr": {
+          "text": "J'ai besoin de plus de papier.",
+          "es": "Necesito más papel."
+        },
+        "it": {
+          "text": "Ho bisogno di altra carta.",
+          "es": "Necesito más papel."
+        },
+        "pt": {
+          "text": "Preciso de mais papel.",
+          "es": "Necesito más papel."
+        },
+        "de": {
+          "text": "Ich brauche mehr Papier.",
+          "es": "Necesito más papel."
+        }
       }
     },
     {
@@ -95,12 +236,36 @@
         "en": "Can / To be able to",
         "pt": "Poder",
         "fr": "Pouvoir",
-        "it": "Potere"
+        "it": "Potere",
+        "de": "Können / Dürfen"
       },
       "image_url": "",
       "notes": {
         "es": "Puede indicar capacidad, posibilidad o permiso; el sentido depende del contexto.",
-        "en": "«Can» no tiene infinitivo propio en uso común; para «poder hacer» como infinitivo se usa «to be able to»."
+        "en": "«Can» no tiene infinitivo propio en uso común; para «poder hacer» como infinitivo se usa «to be able to».",
+        "de": "«Können» indica capacidad o posibilidad; «dürfen» indica permiso."
+      },
+      "examples": {
+        "en": {
+          "text": "I can swim.",
+          "es": "Puedo nadar."
+        },
+        "fr": {
+          "text": "Je peux nager.",
+          "es": "Puedo nadar."
+        },
+        "it": {
+          "text": "Posso nuotare.",
+          "es": "Puedo nadar."
+        },
+        "pt": {
+          "text": "Posso nadar.",
+          "es": "Puedo nadar."
+        },
+        "de": {
+          "text": "Ich kann schwimmen.",
+          "es": "Puedo nadar."
+        }
       }
     },
     {
@@ -110,12 +275,36 @@
         "en": "Must / To have to",
         "pt": "Dever / Ter que / Ter de",
         "fr": "Devoir",
-        "it": "Dovere"
+        "it": "Dovere",
+        "de": "Müssen / Sollen"
       },
       "image_url": "",
       "notes": {
         "es": "Aquí indican obligación; «deber» también puede expresar probabilidad en otros contextos.",
-        "en": "«Must» suele expresar necesidad u obligación fuerte; «have to» puede indicar una obligación externa. En negativo, «must not» prohíbe, mientras «don’t have to» indica que no es necesario."
+        "en": "«Must» suele expresar necesidad u obligación fuerte; «have to» puede indicar una obligación externa. En negativo, «must not» prohíbe, mientras «don't have to» indica que no es necesario.",
+        "de": "«Müssen» expresa necesidad u obligación; «sollen» suele transmitir una instrucción o expectativa de otra persona."
+      },
+      "examples": {
+        "en": {
+          "text": "I have to work tomorrow.",
+          "es": "Tengo que trabajar mañana."
+        },
+        "fr": {
+          "text": "Je dois travailler demain.",
+          "es": "Tengo que trabajar mañana."
+        },
+        "it": {
+          "text": "Devo lavorare domani.",
+          "es": "Tengo que trabajar mañana."
+        },
+        "pt": {
+          "text": "Tenho que trabalhar amanhã.",
+          "es": "Tengo que trabajar mañana."
+        },
+        "de": {
+          "text": "Ich muss morgen arbeiten.",
+          "es": "Tengo que trabajar mañana."
+        }
       }
     },
     {
@@ -125,14 +314,38 @@
         "en": "To know / To know how to",
         "pt": "Saber",
         "fr": "Savoir",
-        "it": "Sapere"
+        "it": "Sapere",
+        "de": "Wissen"
       },
       "image_url": "",
       "notes": {
         "es": "Se usa para información, hechos o habilidades aprendidas, como «sé nadar».",
         "en": "«To know» puede ser tanto «saber» como «conocer»; para una habilidad se dice «to know how to».",
         "fr": "«Savoir» se usa para datos, respuestas o saber hacer algo, frente a «connaître» para personas o lugares.",
-        "it": "«Sapere» expresa conocimiento de hechos o cómo hacer algo; «conoscere» se emplea para personas, lugares y familiaridad."
+        "it": "«Sapere» expresa conocimiento de hechos o cómo hacer algo; «conoscere» se emplea para personas, lugares y familiaridad.",
+        "de": "Se usa con hechos, información o con «wie» para decir cómo se hace algo. «Kennen» expresa familiaridad."
+      },
+      "examples": {
+        "en": {
+          "text": "I know where Ana lives.",
+          "es": "Sé dónde vive Ana."
+        },
+        "fr": {
+          "text": "Je sais où Ana habite.",
+          "es": "Sé dónde vive Ana."
+        },
+        "it": {
+          "text": "So dove abita Ana.",
+          "es": "Sé dónde vive Ana."
+        },
+        "pt": {
+          "text": "Sei onde a Ana mora.",
+          "es": "Sé dónde vive Ana."
+        },
+        "de": {
+          "text": "Ich weiß, wo Ana wohnt.",
+          "es": "Sé dónde vive Ana."
+        }
       }
     },
     {
@@ -142,14 +355,38 @@
         "en": "To know / To be familiar with",
         "pt": "Conhecer",
         "fr": "Connaître",
-        "it": "Conoscere"
+        "it": "Conoscere",
+        "de": "Kennen"
       },
       "image_url": "",
       "notes": {
         "es": "Se usa con personas y lugares, o para indicar familiaridad, no para decir que sabes una respuesta.",
         "en": "«To know» también significa «saber». Aquí expresa conocer a alguien o estar familiarizado con algo.",
         "fr": "«Connaître» se usa para personas, lugares y familiaridad; para saber información concreta suele usarse «savoir».",
-        "it": "«Conoscere» se usa para personas, lugares o familiaridad, frente a «sapere» para datos o habilidades."
+        "it": "«Conoscere» se usa para personas, lugares o familiaridad, frente a «sapere» para datos o habilidades.",
+        "de": "«Kennen» se usa con personas, lugares o cosas conocidas. Para hechos o información se usa «wissen»."
+      },
+      "examples": {
+        "en": {
+          "text": "I know this neighborhood.",
+          "es": "Conozco este barrio."
+        },
+        "fr": {
+          "text": "Je connais ce quartier.",
+          "es": "Conozco este barrio."
+        },
+        "it": {
+          "text": "Conosco questo quartiere.",
+          "es": "Conozco este barrio."
+        },
+        "pt": {
+          "text": "Conheço este bairro.",
+          "es": "Conozco este barrio."
+        },
+        "de": {
+          "text": "Ich kenne dieses Viertel.",
+          "es": "Conozco este barrio."
+        }
       }
     },
     {
@@ -159,12 +396,36 @@
         "en": "To manage to / To succeed in",
         "pt": "Conseguir",
         "fr": "Réussir à / Arriver à",
-        "it": "Riuscire a"
+        "it": "Riuscire a",
+        "de": "Es schaffen"
       },
       "image_url": "",
       "notes": {
         "es": "Se refiere a lograr una acción; «conseguir una cosa» (obtenerla) es otra tarjeta.",
-        "it": "«Riuscire a» va seguido de infinitivo: «Riesco a farlo» (logro hacerlo)."
+        "it": "«Riuscire a» va seguido de infinitivo: «Riesco a farlo» (logro hacerlo).",
+        "de": "«Es schaffen» expresa que se logra hacer algo: «Ich schaffe es, pünktlich zu kommen» (logro llegar a tiempo)."
+      },
+      "examples": {
+        "en": {
+          "text": "I managed to open the window.",
+          "es": "Logré abrir la ventana."
+        },
+        "fr": {
+          "text": "J'ai réussi à ouvrir la fenêtre.",
+          "es": "Logré abrir la ventana."
+        },
+        "it": {
+          "text": "Sono riuscito ad aprire la finestra.",
+          "es": "Logré abrir la ventana."
+        },
+        "pt": {
+          "text": "Consegui abrir a janela.",
+          "es": "Logré abrir la ventana."
+        },
+        "de": {
+          "text": "Ich habe es geschafft, das Fenster zu öffnen.",
+          "es": "Logré abrir la ventana."
+        }
       }
     },
     {
@@ -174,11 +435,34 @@
         "en": "To try / To attempt",
         "pt": "Tentar",
         "fr": "Essayer de / Tenter de",
-        "it": "Provare a / Cercare di"
+        "it": "Provare a / Cercare di",
+        "de": "Versuchen"
       },
       "image_url": "",
       "notes": {
         "it": "«Provare a» y «cercare di» van seguidos de infinitivo; «cercare» sin «di» también puede significar «buscar»."
+      },
+      "examples": {
+        "en": {
+          "text": "I'm trying to sleep.",
+          "es": "Intento dormir."
+        },
+        "fr": {
+          "text": "J'essaie de dormir.",
+          "es": "Intento dormir."
+        },
+        "it": {
+          "text": "Provo a dormire.",
+          "es": "Intento dormir."
+        },
+        "pt": {
+          "text": "Estou tentando dormir.",
+          "es": "Intento dormir."
+        },
+        "de": {
+          "text": "Ich versuche zu schlafen.",
+          "es": "Intento dormir."
+        }
       }
     },
     {
@@ -188,14 +472,38 @@
         "en": "To ask for / To request",
         "pt": "Pedir / Solicitar",
         "fr": "Demander",
-        "it": "Chiedere / Richiedere"
+        "it": "Chiedere / Richiedere",
+        "de": "Um etwas bitten"
       },
       "image_url": "",
       "notes": {
         "es": "Solicitar algo (ayuda, un favor, un objeto), no formular una pregunta.",
         "en": "«To ask for» es pedir algo; «to ask» sin «for» suele ser preguntar.",
         "fr": "«Demander» significa tanto «pedir» como «preguntar»; lo diferencia el complemento.",
-        "it": "«Chiedere» sirve tanto para pedir algo como para preguntar; el contexto aclara el significado."
+        "it": "«Chiedere» sirve tanto para pedir algo como para preguntar; el contexto aclara el significado.",
+        "de": "«Um etwas bitten» es pedir algo; «fragen» es preguntar."
+      },
+      "examples": {
+        "en": {
+          "text": "I ask for help at the station.",
+          "es": "Pido ayuda en la estación."
+        },
+        "fr": {
+          "text": "Je demande de l'aide à la gare.",
+          "es": "Pido ayuda en la estación."
+        },
+        "it": {
+          "text": "Chiedo aiuto alla stazione.",
+          "es": "Pido ayuda en la estación."
+        },
+        "pt": {
+          "text": "Peço ajuda na estação.",
+          "es": "Pido ayuda en la estación."
+        },
+        "de": {
+          "text": "Ich bitte am Bahnhof um Hilfe.",
+          "es": "Pido ayuda en la estación."
+        }
       }
     },
     {
@@ -205,7 +513,8 @@
         "en": "To ask / To ask a question",
         "pt": "Perguntar",
         "fr": "Demander / Poser une question",
-        "it": "Chiedere / Fare una domanda"
+        "it": "Chiedere / Fare una domanda",
+        "de": "Fragen / Eine Frage stellen"
       },
       "image_url": "",
       "notes": {
@@ -213,21 +522,67 @@
         "en": "«To ask» es preguntar; «to ask for» equivale a pedir algo.",
         "fr": "«Demander» también significa «pedir»; «poser une question» especifica que se formula una pregunta.",
         "it": "«Chiedere» también significa «pedir»; «fare una domanda» indica explícitamente «hacer una pregunta»."
+      },
+      "examples": {
+        "en": {
+          "text": "I ask Ana where she lives.",
+          "es": "Le pregunto a Ana dónde vive."
+        },
+        "fr": {
+          "text": "Je demande à Ana où elle habite.",
+          "es": "Le pregunto a Ana dónde vive."
+        },
+        "it": {
+          "text": "Chiedo ad Ana dove abita.",
+          "es": "Le pregunto a Ana dónde vive."
+        },
+        "pt": {
+          "text": "Pergunto à Ana onde ela mora.",
+          "es": "Le pregunto a Ana dónde vive."
+        },
+        "de": {
+          "text": "Ich frage Ana, wo sie wohnt.",
+          "es": "Le pregunto a Ana dónde vive."
+        }
       }
     },
     {
       "id": "va15",
       "es": "Obtener / Conseguir",
       "translations": {
-        "en": "To get / To obtain",
+        "en": "To get something / To obtain something",
         "pt": "Obter / Conseguir",
         "fr": "Obtenir / Se procurer",
-        "it": "Ottenere / Procurarsi"
+        "it": "Ottenere / Procurarsi",
+        "de": "Bekommen / Erhalten"
       },
       "image_url": "",
       "notes": {
         "es": "Adquirir o recibir algo; distinto de «lograr hacer algo».",
-        "fr": "«Obtenir» expresa conseguir un resultado u objeto; «se procurer» enfatiza procurárselo o conseguirlo por medios propios."
+        "fr": "«Obtenir» expresa conseguir un resultado u objeto; «se procurer» enfatiza procurárselo o conseguirlo por medios propios.",
+        "de": "«Bekommen» es recibir u obtener; «erhalten» tiene un tono más formal en este sentido."
+      },
+      "examples": {
+        "en": {
+          "text": "I got a permit.",
+          "es": "Conseguí un permiso."
+        },
+        "fr": {
+          "text": "J'ai obtenu une autorisation.",
+          "es": "Conseguí un permiso."
+        },
+        "it": {
+          "text": "Ho ottenuto un permesso.",
+          "es": "Conseguí un permiso."
+        },
+        "pt": {
+          "text": "Consegui uma autorização.",
+          "es": "Conseguí un permiso."
+        },
+        "de": {
+          "text": "Ich habe eine Genehmigung bekommen.",
+          "es": "Conseguí un permiso."
+        }
       }
     },
     {
@@ -237,12 +592,36 @@
         "en": "To allow / To let",
         "pt": "Permitir / Deixar",
         "fr": "Permettre / Laisser",
-        "it": "Permettere / Lasciare"
+        "it": "Permettere / Lasciare",
+        "de": "Erlauben / Lassen"
       },
       "image_url": "",
       "notes": {
         "es": "«Dejar» aquí significa autorizar algo, no abandonar o colocar un objeto.",
-        "en": "«To let» puede ir seguido de objeto + verbo sin «to»: «Let me go» (déjame ir)."
+        "en": "«To let» puede ir seguido de objeto + verbo sin «to»: «Let me go» (déjame ir).",
+        "de": "«Erlauben» expresa dar permiso; «lassen» puede equivaler a «dejar» seguido de otra acción."
+      },
+      "examples": {
+        "en": {
+          "text": "My mom lets me go out.",
+          "es": "Mi mamá me deja salir."
+        },
+        "fr": {
+          "text": "Ma mère me laisse sortir.",
+          "es": "Mi mamá me deja salir."
+        },
+        "it": {
+          "text": "Mia mamma mi lascia uscire.",
+          "es": "Mi mamá me deja salir."
+        },
+        "pt": {
+          "text": "Minha mãe me deixa sair.",
+          "es": "Mi mamá me deja salir."
+        },
+        "de": {
+          "text": "Meine Mutter lässt mich rausgehen.",
+          "es": "Mi mamá me deja salir."
+        }
       }
     },
     {
@@ -252,9 +631,32 @@
         "en": "To go",
         "pt": "Ir",
         "fr": "Aller",
-        "it": "Andare"
+        "it": "Andare",
+        "de": "Gehen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I go to the market on foot.",
+          "es": "Voy al mercado a pie."
+        },
+        "fr": {
+          "text": "Je vais au marché à pied.",
+          "es": "Voy al mercado a pie."
+        },
+        "it": {
+          "text": "Vado al mercato a piedi.",
+          "es": "Voy al mercado a pie."
+        },
+        "pt": {
+          "text": "Vou ao mercado a pé.",
+          "es": "Voy al mercado a pie."
+        },
+        "de": {
+          "text": "Ich gehe zu Fuß zum Markt.",
+          "es": "Voy al mercado a pie."
+        }
+      }
     },
     {
       "id": "va18",
@@ -263,9 +665,32 @@
         "en": "To come",
         "pt": "Vir",
         "fr": "Venir",
-        "it": "Venire"
+        "it": "Venire",
+        "de": "Kommen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Ana is coming to my house today.",
+          "es": "Ana viene a mi casa hoy."
+        },
+        "fr": {
+          "text": "Ana vient chez moi aujourd'hui.",
+          "es": "Ana viene a mi casa hoy."
+        },
+        "it": {
+          "text": "Ana viene a casa mia oggi.",
+          "es": "Ana viene a mi casa hoy."
+        },
+        "pt": {
+          "text": "A Ana vem à minha casa hoje.",
+          "es": "Ana viene a mi casa hoy."
+        },
+        "de": {
+          "text": "Ana kommt heute zu mir nach Hause.",
+          "es": "Ana viene a mi casa hoy."
+        }
+      }
     },
     {
       "id": "va19",
@@ -274,9 +699,32 @@
         "en": "To arrive / To get there",
         "pt": "Chegar",
         "fr": "Arriver",
-        "it": "Arrivare"
+        "it": "Arrivare",
+        "de": "Ankommen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The train arrives at eight.",
+          "es": "El tren llega a las ocho."
+        },
+        "fr": {
+          "text": "Le train arrive à huit heures.",
+          "es": "El tren llega a las ocho."
+        },
+        "it": {
+          "text": "Il treno arriva alle otto.",
+          "es": "El tren llega a las ocho."
+        },
+        "pt": {
+          "text": "O trem chega às oito.",
+          "es": "El tren llega a las ocho."
+        },
+        "de": {
+          "text": "Der Zug kommt um acht Uhr an.",
+          "es": "El tren llega a las ocho."
+        }
+      }
     },
     {
       "id": "va20",
@@ -285,9 +733,35 @@
         "en": "To enter / To go in",
         "pt": "Entrar",
         "fr": "Entrer",
-        "it": "Entrare"
+        "it": "Entrare",
+        "de": "Hineingehen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "Coloquial: «Reingehen» es habitual al hablar."
+      },
+      "examples": {
+        "en": {
+          "text": "I go into the store.",
+          "es": "Entro a la tienda."
+        },
+        "fr": {
+          "text": "J'entre dans le magasin.",
+          "es": "Entro a la tienda."
+        },
+        "it": {
+          "text": "Entro nel negozio.",
+          "es": "Entro a la tienda."
+        },
+        "pt": {
+          "text": "Entro na loja.",
+          "es": "Entro a la tienda."
+        },
+        "de": {
+          "text": "Ich gehe in den Laden hinein.",
+          "es": "Entro a la tienda."
+        }
+      }
     },
     {
       "id": "va21",
@@ -296,11 +770,35 @@
         "en": "To go out / To exit",
         "pt": "Sair",
         "fr": "Sortir",
-        "it": "Uscire"
+        "it": "Uscire",
+        "de": "Hinausgehen"
       },
       "image_url": "",
       "notes": {
-        "es": "Salir de un lugar hacia el exterior; no «irse definitivamente» ni «salir con alguien»."
+        "es": "Salir de un lugar hacia el exterior; no «irse definitivamente» ni «salir con alguien».",
+        "de": "Coloquial: «Rausgehen» es habitual al hablar."
+      },
+      "examples": {
+        "en": {
+          "text": "I go out into the garden.",
+          "es": "Salgo al jardín."
+        },
+        "fr": {
+          "text": "Je sors dans le jardin.",
+          "es": "Salgo al jardín."
+        },
+        "it": {
+          "text": "Esco in giardino.",
+          "es": "Salgo al jardín."
+        },
+        "pt": {
+          "text": "Saio para o jardim.",
+          "es": "Salgo al jardín."
+        },
+        "de": {
+          "text": "Ich gehe in den Garten hinaus.",
+          "es": "Salgo al jardín."
+        }
       }
     },
     {
@@ -308,13 +806,36 @@
       "es": "Irse / Marcharse",
       "translations": {
         "en": "To leave / To go away",
-        "pt": "Ir embora / Sair",
+        "pt": "Ir embora",
         "fr": "Partir / S'en aller",
-        "it": "Andarsene / Partire"
+        "it": "Andarsene / Partire",
+        "de": "Weggehen / Gehen"
       },
       "image_url": "",
       "notes": {
         "es": "Abandonar un lugar o alejarse de él; no necesariamente «salir al exterior»."
+      },
+      "examples": {
+        "en": {
+          "text": "I'm leaving at nine.",
+          "es": "Me voy a las nueve."
+        },
+        "fr": {
+          "text": "Je pars à neuf heures.",
+          "es": "Me voy a las nueve."
+        },
+        "it": {
+          "text": "Me ne vado alle nove.",
+          "es": "Me voy a las nueve."
+        },
+        "pt": {
+          "text": "Vou embora às nove.",
+          "es": "Me voy a las nueve."
+        },
+        "de": {
+          "text": "Ich gehe um neun Uhr weg.",
+          "es": "Me voy a las nueve."
+        }
       }
     },
     {
@@ -324,11 +845,34 @@
         "en": "To come back / To return",
         "pt": "Voltar / Regressar",
         "fr": "Revenir / Retourner",
-        "it": "Tornare / Ritornare"
+        "it": "Tornare / Ritornare",
+        "de": "Zurückkommen / Zurückkehren"
       },
       "image_url": "",
       "notes": {
         "fr": "«Revenir» suele indicar volver hacia el lugar de referencia; «retourner» suele expresar regresar a otro lugar. Depende del punto de vista."
+      },
+      "examples": {
+        "en": {
+          "text": "I'm coming back tomorrow.",
+          "es": "Regreso mañana."
+        },
+        "fr": {
+          "text": "Je reviens demain.",
+          "es": "Regreso mañana."
+        },
+        "it": {
+          "text": "Torno domani.",
+          "es": "Regreso mañana."
+        },
+        "pt": {
+          "text": "Volto amanhã.",
+          "es": "Regreso mañana."
+        },
+        "de": {
+          "text": "Ich komme morgen zurück.",
+          "es": "Regreso mañana."
+        }
       }
     },
     {
@@ -338,23 +882,70 @@
         "en": "To stay / To remain",
         "pt": "Ficar / Permanecer",
         "fr": "Rester",
-        "it": "Restare / Rimanere"
+        "it": "Restare / Rimanere",
+        "de": "Bleiben"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I'm staying home on Sunday.",
+          "es": "Me quedo en casa el domingo."
+        },
+        "fr": {
+          "text": "Je reste à la maison dimanche.",
+          "es": "Me quedo en casa el domingo."
+        },
+        "it": {
+          "text": "Domenica resto a casa.",
+          "es": "Me quedo en casa el domingo."
+        },
+        "pt": {
+          "text": "Fico em casa no domingo.",
+          "es": "Me quedo en casa el domingo."
+        },
+        "de": {
+          "text": "Am Sonntag bleibe ich zu Hause.",
+          "es": "Me quedo en casa el domingo."
+        }
+      }
     },
     {
       "id": "va25",
-      "es": "Esperar",
+      "es": "Esperar / Aguardar",
       "translations": {
         "en": "To wait",
         "pt": "Esperar / Aguardar",
         "fr": "Attendre",
-        "it": "Aspettare / Attendere"
+        "it": "Aspettare / Attendere",
+        "de": "Warten"
       },
       "image_url": "",
       "notes": {
         "es": "Aquí significa aguardar a una persona o un acontecimiento; no «tener esperanza».",
-        "en": "«To wait» significa aguardar; «to hope» es esperar que algo deseado ocurra."
+        "en": "«To wait» significa aguardar; «to hope» es esperar que algo deseado ocurra.",
+        "de": "Para indicar a quién o qué se espera, se usa «auf» seguido de acusativo."
+      },
+      "examples": {
+        "en": {
+          "text": "I wait for the bus on the corner.",
+          "es": "Espero el autobús en la esquina."
+        },
+        "fr": {
+          "text": "J'attends le bus au coin de la rue.",
+          "es": "Espero el autobús en la esquina."
+        },
+        "it": {
+          "text": "Aspetto l'autobus all'angolo.",
+          "es": "Espero el autobús en la esquina."
+        },
+        "pt": {
+          "text": "Espero o ônibus na esquina.",
+          "es": "Espero el autobús en la esquina."
+        },
+        "de": {
+          "text": "Ich warte an der Ecke auf den Bus.",
+          "es": "Espero el autobús en la esquina."
+        }
       }
     },
     {
@@ -364,12 +955,35 @@
         "en": "To hope",
         "pt": "Esperar / Ter esperança",
         "fr": "Espérer",
-        "it": "Sperare"
+        "it": "Sperare",
+        "de": "Hoffen"
       },
       "image_url": "",
       "notes": {
         "es": "Desear o confiar en que algo suceda; distinto de aguardar a alguien.",
         "en": "«To hope» expresa esperanza; «to wait» es aguardar."
+      },
+      "examples": {
+        "en": {
+          "text": "I hope Ana comes.",
+          "es": "Espero que venga Ana."
+        },
+        "fr": {
+          "text": "J'espère qu'Ana viendra.",
+          "es": "Espero que venga Ana."
+        },
+        "it": {
+          "text": "Spero che Ana venga.",
+          "es": "Espero que venga Ana."
+        },
+        "pt": {
+          "text": "Espero que a Ana venha.",
+          "es": "Espero que venga Ana."
+        },
+        "de": {
+          "text": "Ich hoffe, dass Ana kommt.",
+          "es": "Espero que venga Ana."
+        }
       }
     },
     {
@@ -379,20 +993,72 @@
         "en": "To follow",
         "pt": "Seguir",
         "fr": "Suivre",
-        "it": "Seguire"
+        "it": "Seguire",
+        "de": "Jemandem folgen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "La persona a la que se sigue va en dativo."
+      },
+      "examples": {
+        "en": {
+          "text": "I follow the guide in the museum.",
+          "es": "Sigo al guía en el museo."
+        },
+        "fr": {
+          "text": "Je suis le guide dans le musée.",
+          "es": "Sigo al guía en el museo."
+        },
+        "it": {
+          "text": "Seguo la guida nel museo.",
+          "es": "Sigo al guía en el museo."
+        },
+        "pt": {
+          "text": "Sigo o guia no museu.",
+          "es": "Sigo al guía en el museo."
+        },
+        "de": {
+          "text": "Ich folge dem Museumsführer.",
+          "es": "Sigo al guía en el museo."
+        }
+      }
     },
     {
       "id": "va28",
       "es": "Continuar / Seguir haciendo algo",
       "translations": {
-        "en": "To continue / To keep going",
+        "en": "To continue / To keep doing something",
         "pt": "Continuar",
         "fr": "Continuer",
-        "it": "Continuare"
+        "it": "Continuare",
+        "de": "Weitermachen / Fortfahren"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "En Brasil es natural «continuar» seguido de gerundio: «continuo trabalhando» (sigo trabajando)."
+      },
+      "examples": {
+        "en": {
+          "text": "I keep working after lunch.",
+          "es": "Sigo trabajando después de comer."
+        },
+        "fr": {
+          "text": "Je continue à travailler après le déjeuner.",
+          "es": "Sigo trabajando después de comer."
+        },
+        "it": {
+          "text": "Continuo a lavorare dopo pranzo.",
+          "es": "Sigo trabajando después de comer."
+        },
+        "pt": {
+          "text": "Continuo trabalhando depois do almoço.",
+          "es": "Sigo trabajando después de comer."
+        },
+        "de": {
+          "text": "Nach dem Mittagessen mache ich mit der Arbeit weiter.",
+          "es": "Sigo trabajando después de comer."
+        }
+      }
     },
     {
       "id": "va29",
@@ -401,9 +1067,35 @@
         "en": "To stop",
         "pt": "Parar",
         "fr": "S'arrêter",
-        "it": "Fermarsi"
+        "it": "Fermarsi",
+        "de": "Anhalten / Stehen bleiben"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Anhalten» encaja con vehículos; «stehen bleiben» también se dice de personas que dejan de caminar."
+      },
+      "examples": {
+        "en": {
+          "text": "The car stops at the traffic light.",
+          "es": "El auto se detiene en el semáforo."
+        },
+        "fr": {
+          "text": "La voiture s'arrête au feu.",
+          "es": "El auto se detiene en el semáforo."
+        },
+        "it": {
+          "text": "L'auto si ferma al semaforo.",
+          "es": "El auto se detiene en el semáforo."
+        },
+        "pt": {
+          "text": "O carro para no semáforo.",
+          "es": "El auto se detiene en el semáforo."
+        },
+        "de": {
+          "text": "Das Auto hält an der Ampel an.",
+          "es": "El auto se detiene en el semáforo."
+        }
+      }
     },
     {
       "id": "va30",
@@ -412,11 +1104,34 @@
         "en": "To go up",
         "pt": "Subir",
         "fr": "Monter",
-        "it": "Salire"
+        "it": "Salire",
+        "de": "Hinaufgehen / Hochgehen"
       },
       "image_url": "",
       "notes": {
         "es": "Desplazarse hacia arriba (por ejemplo, por unas escaleras); «subir algo» puede requerir otra construcción."
+      },
+      "examples": {
+        "en": {
+          "text": "I go up the stairs.",
+          "es": "Subo por las escaleras."
+        },
+        "fr": {
+          "text": "Je monte l'escalier.",
+          "es": "Subo por las escaleras."
+        },
+        "it": {
+          "text": "Salgo le scale.",
+          "es": "Subo por las escaleras."
+        },
+        "pt": {
+          "text": "Subo a escada.",
+          "es": "Subo por las escaleras."
+        },
+        "de": {
+          "text": "Ich gehe die Treppe hoch.",
+          "es": "Subo por las escaleras."
+        }
       }
     },
     {
@@ -426,23 +1141,70 @@
         "en": "To go down",
         "pt": "Descer",
         "fr": "Descendre",
-        "it": "Scendere"
+        "it": "Scendere",
+        "de": "Hinuntergehen"
       },
       "image_url": "",
       "notes": {
-        "es": "Desplazarse hacia abajo; «bajar algo» puede requerir una construcción distinta."
+        "es": "Desplazarse hacia abajo; «bajar algo» puede requerir una construcción distinta.",
+        "de": "Coloquial: «Runtergehen» es habitual al hablar."
+      },
+      "examples": {
+        "en": {
+          "text": "I go down the stairs.",
+          "es": "Bajo por las escaleras."
+        },
+        "fr": {
+          "text": "Je descends l'escalier.",
+          "es": "Bajo por las escaleras."
+        },
+        "it": {
+          "text": "Scendo le scale.",
+          "es": "Bajo por las escaleras."
+        },
+        "pt": {
+          "text": "Desço a escada.",
+          "es": "Bajo por las escaleras."
+        },
+        "de": {
+          "text": "Ich gehe die Treppe hinunter.",
+          "es": "Bajo por las escaleras."
+        }
       }
     },
     {
       "id": "va32",
       "es": "Pasar por / Atravesar",
       "translations": {
-        "en": "To pass / To go through",
-        "pt": "Passar",
-        "fr": "Passer",
-        "it": "Passare"
+        "en": "To pass through / To go through",
+        "pt": "Passar por / Atravessar",
+        "fr": "Passer par / Traverser",
+        "it": "Passare per / Attraversare",
+        "de": "Durch etwas gehen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I go through the tunnel on foot.",
+          "es": "Paso por el túnel a pie."
+        },
+        "fr": {
+          "text": "Je passe par le tunnel à pied.",
+          "es": "Paso por el túnel a pie."
+        },
+        "it": {
+          "text": "Passo per il tunnel a piedi.",
+          "es": "Paso por el túnel a pie."
+        },
+        "pt": {
+          "text": "Passo pelo túnel a pé.",
+          "es": "Paso por el túnel a pie."
+        },
+        "de": {
+          "text": "Ich gehe zu Fuß durch den Tunnel.",
+          "es": "Paso por el túnel a pie."
+        }
+      }
     },
     {
       "id": "va33",
@@ -451,9 +1213,35 @@
         "en": "To move something / To shift something",
         "pt": "Mover / Deslocar",
         "fr": "Déplacer / Bouger",
-        "it": "Spostare / Muovere"
+        "it": "Spostare / Muovere",
+        "de": "Etwas bewegen / Etwas verschieben"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Etwas bewegen» es mover un objeto; «etwas verschieben» indica cambiarlo de posición."
+      },
+      "examples": {
+        "en": {
+          "text": "I move the table toward the window.",
+          "es": "Muevo la mesa hacia la ventana."
+        },
+        "fr": {
+          "text": "Je déplace la table vers la fenêtre.",
+          "es": "Muevo la mesa hacia la ventana."
+        },
+        "it": {
+          "text": "Sposto il tavolo verso la finestra.",
+          "es": "Muevo la mesa hacia la ventana."
+        },
+        "pt": {
+          "text": "Movo a mesa na direção da janela.",
+          "es": "Muevo la mesa hacia la ventana."
+        },
+        "de": {
+          "text": "Ich verschiebe den Tisch in Richtung Fenster.",
+          "es": "Muevo la mesa hacia la ventana."
+        }
+      }
     },
     {
       "id": "va34",
@@ -462,9 +1250,32 @@
         "en": "To move / To move around",
         "pt": "Mover-se / Mexer-se",
         "fr": "Bouger / Se déplacer",
-        "it": "Muoversi / Spostarsi"
+        "it": "Muoversi / Spostarsi",
+        "de": "Sich bewegen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I move slowly.",
+          "es": "Me muevo despacio."
+        },
+        "fr": {
+          "text": "Je bouge lentement.",
+          "es": "Me muevo despacio."
+        },
+        "it": {
+          "text": "Mi muovo lentamente.",
+          "es": "Me muevo despacio."
+        },
+        "pt": {
+          "text": "Eu me mexo devagar.",
+          "es": "Me muevo despacio."
+        },
+        "de": {
+          "text": "Ich bewege mich langsam.",
+          "es": "Me muevo despacio."
+        }
+      }
     },
     {
       "id": "va35",
@@ -473,9 +1284,32 @@
         "en": "To sit down",
         "pt": "Sentar-se",
         "fr": "S'asseoir",
-        "it": "Sedersi"
+        "it": "Sedersi",
+        "de": "Sich hinsetzen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I sit down by the window.",
+          "es": "Me siento junto a la ventana."
+        },
+        "fr": {
+          "text": "Je m'assois près de la fenêtre.",
+          "es": "Me siento junto a la ventana."
+        },
+        "it": {
+          "text": "Mi siedo vicino alla finestra.",
+          "es": "Me siento junto a la ventana."
+        },
+        "pt": {
+          "text": "Eu me sento perto da janela.",
+          "es": "Me siento junto a la ventana."
+        },
+        "de": {
+          "text": "Ich setze mich ans Fenster.",
+          "es": "Me siento junto a la ventana."
+        }
+      }
     },
     {
       "id": "va36",
@@ -484,13 +1318,36 @@
         "en": "To stand up / To get up",
         "pt": "Levantar-se / Ficar de pé",
         "fr": "Se lever",
-        "it": "Alzarsi / Mettersi in piedi"
+        "it": "Alzarsi / Mettersi in piedi",
+        "de": "Aufstehen / Sich hinstellen"
       },
       "image_url": "",
       "notes": {
         "en": "«To stand up» es ponerse de pie; «to get up» también puede significar levantarse de la cama.",
         "fr": "«Se lever» puede significar ponerse de pie o levantarse de la cama, según el contexto.",
         "it": "«Alzarsi» puede significar levantarse de una silla o de la cama."
+      },
+      "examples": {
+        "en": {
+          "text": "I get up from the chair.",
+          "es": "Me levanto de la silla."
+        },
+        "fr": {
+          "text": "Je me lève de la chaise.",
+          "es": "Me levanto de la silla."
+        },
+        "it": {
+          "text": "Mi alzo dalla sedia.",
+          "es": "Me levanto de la silla."
+        },
+        "pt": {
+          "text": "Eu me levanto da cadeira.",
+          "es": "Me levanto de la silla."
+        },
+        "de": {
+          "text": "Ich stehe vom Stuhl auf.",
+          "es": "Me levanto de la silla."
+        }
       }
     },
     {
@@ -500,9 +1357,32 @@
         "en": "To fall / To fall down",
         "pt": "Cair",
         "fr": "Tomber",
-        "it": "Cadere"
+        "it": "Cadere",
+        "de": "Fallen / Hinfallen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I fell down in the park.",
+          "es": "Me caí en el parque."
+        },
+        "fr": {
+          "text": "Je suis tombé dans le parc.",
+          "es": "Me caí en el parque."
+        },
+        "it": {
+          "text": "Sono caduto al parco.",
+          "es": "Me caí en el parque."
+        },
+        "pt": {
+          "text": "Caí no parque.",
+          "es": "Me caí en el parque."
+        },
+        "de": {
+          "text": "Ich bin im Park hingefallen.",
+          "es": "Me caí en el parque."
+        }
+      }
     },
     {
       "id": "va38",
@@ -511,9 +1391,32 @@
         "en": "To escape / To flee",
         "pt": "Escapar / Fugir",
         "fr": "S'échapper / Fuir",
-        "it": "Scappare / Fuggire"
+        "it": "Scappare / Fuggire",
+        "de": "Fliehen / Entkommen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The rabbit escaped from the garden.",
+          "es": "El conejo se escapó del jardín."
+        },
+        "fr": {
+          "text": "Le lapin s'est échappé du jardin.",
+          "es": "El conejo se escapó del jardín."
+        },
+        "it": {
+          "text": "Il coniglio è scappato dal giardino.",
+          "es": "El conejo se escapó del jardín."
+        },
+        "pt": {
+          "text": "O coelho fugiu do jardim.",
+          "es": "El conejo se escapó del jardín."
+        },
+        "de": {
+          "text": "Das Kaninchen ist aus dem Garten entkommen.",
+          "es": "El conejo se escapó del jardín."
+        }
+      }
     },
     {
       "id": "va39",
@@ -522,9 +1425,32 @@
         "en": "To open",
         "pt": "Abrir",
         "fr": "Ouvrir",
-        "it": "Aprire"
+        "it": "Aprire",
+        "de": "Öffnen / Aufmachen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I open the window in the morning.",
+          "es": "Abro la ventana en la mañana."
+        },
+        "fr": {
+          "text": "J'ouvre la fenêtre le matin.",
+          "es": "Abro la ventana en la mañana."
+        },
+        "it": {
+          "text": "Apro la finestra la mattina.",
+          "es": "Abro la ventana en la mañana."
+        },
+        "pt": {
+          "text": "Abro a janela de manhã.",
+          "es": "Abro la ventana en la mañana."
+        },
+        "de": {
+          "text": "Morgens mache ich das Fenster auf.",
+          "es": "Abro la ventana en la mañana."
+        }
+      }
     },
     {
       "id": "va40",
@@ -533,23 +1459,70 @@
         "en": "To close / To shut",
         "pt": "Fechar",
         "fr": "Fermer",
-        "it": "Chiudere"
+        "it": "Chiudere",
+        "de": "Schließen / Zumachen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I close the door when I leave.",
+          "es": "Cierro la puerta cuando salgo."
+        },
+        "fr": {
+          "text": "Je ferme la porte en partant.",
+          "es": "Cierro la puerta cuando salgo."
+        },
+        "it": {
+          "text": "Chiudo la porta quando esco.",
+          "es": "Cierro la puerta cuando salgo."
+        },
+        "pt": {
+          "text": "Fecho a porta quando saio.",
+          "es": "Cierro la puerta cuando salgo."
+        },
+        "de": {
+          "text": "Ich mache die Tür zu, wenn ich gehe.",
+          "es": "Cierro la puerta cuando salgo."
+        }
+      }
     },
     {
       "id": "va41",
-      "es": "Tomar / Agarrar",
+      "es": "Agarrar / Recoger",
       "translations": {
         "en": "To take / To pick up",
         "pt": "Pegar / Agarrar",
-        "fr": "Prendre",
-        "it": "Prendere"
+        "fr": "Prendre / Ramasser",
+        "it": "Prendere / Raccogliere",
+        "de": "Nehmen / Aufheben"
       },
       "image_url": "",
       "notes": {
         "es": "Aquí significa sujetar o recoger una cosa, no beber algo.",
-        "pt": "En portugués de Brasil, «pegar» es habitual para agarrar o recoger algo. «Apanhar» puede entenderse como recibir golpes y es menos adecuado como traducción principal."
+        "pt": "En portugués de Brasil, «pegar» es habitual para agarrar o recoger algo. «Apanhar» puede entenderse como recibir golpes y es menos adecuado como traducción principal.",
+        "de": "«Aufheben» significa recoger algo del suelo en este sentido."
+      },
+      "examples": {
+        "en": {
+          "text": "I pick up the keys from the floor.",
+          "es": "Recojo las llaves del suelo."
+        },
+        "fr": {
+          "text": "Je ramasse les clés par terre.",
+          "es": "Recojo las llaves del suelo."
+        },
+        "it": {
+          "text": "Raccolgo le chiavi da terra.",
+          "es": "Recojo las llaves del suelo."
+        },
+        "pt": {
+          "text": "Pego as chaves do chão.",
+          "es": "Recojo las llaves del suelo."
+        },
+        "de": {
+          "text": "Ich hebe die Schlüssel vom Boden auf.",
+          "es": "Recojo las llaves del suelo."
+        }
       }
     },
     {
@@ -559,9 +1532,32 @@
         "en": "To give",
         "pt": "Dar",
         "fr": "Donner",
-        "it": "Dare"
+        "it": "Dare",
+        "de": "Geben"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I give Ana my train ticket.",
+          "es": "Le doy a Ana mi boleto del tren."
+        },
+        "fr": {
+          "text": "Je donne mon billet de train à Ana.",
+          "es": "Le doy a Ana mi boleto del tren."
+        },
+        "it": {
+          "text": "Do ad Ana il mio biglietto del treno.",
+          "es": "Le doy a Ana mi boleto del tren."
+        },
+        "pt": {
+          "text": "Dou minha passagem de trem à Ana.",
+          "es": "Le doy a Ana mi boleto del tren."
+        },
+        "de": {
+          "text": "Ich gebe Ana meine Zugfahrkarte.",
+          "es": "Le doy a Ana mi boleto del tren."
+        }
+      }
     },
     {
       "id": "va43",
@@ -570,20 +1566,72 @@
         "en": "To receive / To get",
         "pt": "Receber",
         "fr": "Recevoir",
-        "it": "Ricevere"
+        "it": "Ricevere",
+        "de": "Bekommen / Erhalten"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Bekommen» es habitual para algo que llega o que alguien te da; «erhalten» tiene un registro más formal."
+      },
+      "examples": {
+        "en": {
+          "text": "I get a message every morning.",
+          "es": "Recibo un mensaje cada mañana."
+        },
+        "fr": {
+          "text": "Je reçois un message tous les matins.",
+          "es": "Recibo un mensaje cada mañana."
+        },
+        "it": {
+          "text": "Ricevo un messaggio ogni mattina.",
+          "es": "Recibo un mensaje cada mañana."
+        },
+        "pt": {
+          "text": "Recebo uma mensagem todas as manhãs.",
+          "es": "Recibo un mensaje cada mañana."
+        },
+        "de": {
+          "text": "Ich bekomme jeden Morgen eine Nachricht.",
+          "es": "Recibo un mensaje cada mañana."
+        }
+      }
     },
     {
       "id": "va44",
       "es": "Entregar",
       "translations": {
-        "en": "To hand over / To deliver",
+        "en": "To hand in / To hand over / To deliver",
         "pt": "Entregar",
         "fr": "Remettre / Livrer",
-        "it": "Consegnare"
+        "it": "Consegnare",
+        "de": "Abgeben / Übergeben / Liefern"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Abgeben» es entregar algo en un lugar; «übergeben» es entregárselo a alguien; «liefern» se usa al hacer una entrega."
+      },
+      "examples": {
+        "en": {
+          "text": "I hand in the form at the front desk.",
+          "es": "Entrego el formulario en recepción."
+        },
+        "fr": {
+          "text": "Je remets le formulaire à l'accueil.",
+          "es": "Entrego el formulario en recepción."
+        },
+        "it": {
+          "text": "Consegno il modulo alla reception.",
+          "es": "Entrego el formulario en recepción."
+        },
+        "pt": {
+          "text": "Entrego o formulário na recepção.",
+          "es": "Entrego el formulario en recepción."
+        },
+        "de": {
+          "text": "Ich gebe das Formular an der Rezeption ab.",
+          "es": "Entrego el formulario en recepción."
+        }
+      }
     },
     {
       "id": "va45",
@@ -592,12 +1640,36 @@
         "en": "To take / To carry",
         "pt": "Levar",
         "fr": "Emporter / Porter",
-        "it": "Portare"
+        "it": "Portare",
+        "de": "Tragen / Mitnehmen"
       },
       "image_url": "",
       "notes": {
         "es": "Transportar un objeto hacia otro lugar, no «llevar puesto».",
-        "fr": "«Emporter» es llevarse una cosa; «porter» es cargarla o sostenerla. Para llevar a una persona a otro lugar suele emplearse «emmener»."
+        "fr": "«Emporter» es llevarse una cosa; «porter» es cargarla o sostenerla. Para llevar a una persona a otro lugar suele emplearse «emmener».",
+        "de": "«Tragen» enfatiza cargar algo; «mitnehmen» equivale a llevarlo contigo."
+      },
+      "examples": {
+        "en": {
+          "text": "I carry the suitcase to the car.",
+          "es": "Llevo la maleta al auto."
+        },
+        "fr": {
+          "text": "Je porte la valise jusqu'à la voiture.",
+          "es": "Llevo la maleta al auto."
+        },
+        "it": {
+          "text": "Porto la valigia fino alla macchina.",
+          "es": "Llevo la maleta al auto."
+        },
+        "pt": {
+          "text": "Levo a mala até o carro.",
+          "es": "Llevo la maleta al auto."
+        },
+        "de": {
+          "text": "Ich trage den Koffer zum Auto.",
+          "es": "Llevo la maleta al auto."
+        }
       }
     },
     {
@@ -607,36 +1679,109 @@
         "en": "To bring",
         "pt": "Trazer",
         "fr": "Apporter",
-        "it": "Portare qui"
+        "it": "Portare qui",
+        "de": "Bringen / Mitbringen"
       },
       "image_url": "",
       "notes": {
         "es": "Transportar algo hacia quien habla o hacia el lugar de referencia.",
         "fr": "«Apporter» es traer una cosa; para traer o acompañar a una persona suele usarse «amener».",
-        "it": "«Portare» puede significar «llevar» o «traer»; «portare qui» aclara la dirección hacia aquí."
+        "it": "«Portare» puede significar «llevar» o «traer»; «portare qui» aclara la dirección hacia aquí.",
+        "de": "«Bringen» es traer algo; «mitbringen» enfatiza traerlo contigo."
+      },
+      "examples": {
+        "en": {
+          "text": "I bring bread to dinner.",
+          "es": "Traigo pan a la cena."
+        },
+        "fr": {
+          "text": "J'apporte du pain pour le dîner.",
+          "es": "Traigo pan a la cena."
+        },
+        "it": {
+          "text": "Porto il pane per la cena.",
+          "es": "Traigo pan a la cena."
+        },
+        "pt": {
+          "text": "Trago pão para o jantar.",
+          "es": "Traigo pan a la cena."
+        },
+        "de": {
+          "text": "Ich bringe Brot zum Abendessen mit.",
+          "es": "Traigo pan a la cena."
+        }
       }
     },
     {
       "id": "va47",
       "es": "Dejar algo en un lugar",
       "translations": {
-        "en": "To leave something",
-        "pt": "Deixar algo",
-        "fr": "Laisser quelque chose",
-        "it": "Lasciare qualcosa"
+        "en": "To leave something somewhere",
+        "pt": "Deixar algo em algum lugar",
+        "fr": "Laisser quelque chose quelque part",
+        "it": "Lasciare qualcosa da qualche parte",
+        "de": "Etwas irgendwo lassen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I leave the keys on the table.",
+          "es": "Dejo las llaves en la mesa."
+        },
+        "fr": {
+          "text": "Je laisse les clés sur la table.",
+          "es": "Dejo las llaves en la mesa."
+        },
+        "it": {
+          "text": "Lascio le chiavi sul tavolo.",
+          "es": "Dejo las llaves en la mesa."
+        },
+        "pt": {
+          "text": "Deixo as chaves na mesa.",
+          "es": "Dejo las llaves en la mesa."
+        },
+        "de": {
+          "text": "Ich lasse die Schlüssel auf dem Tisch.",
+          "es": "Dejo las llaves en la mesa."
+        }
+      }
     },
     {
       "id": "va48",
-      "es": "Sacar / Poner algo fuera",
+      "es": "Sacar / Poner algo afuera",
       "translations": {
         "en": "To take out",
-        "pt": "Tirar para fora",
-        "fr": "Sortir / Retirer quelque chose",
-        "it": "Tirare fuori"
+        "pt": "Tirar / Tirar para fora",
+        "fr": "Sortir quelque chose / Retirer quelque chose",
+        "it": "Tirare fuori",
+        "de": "Herausnehmen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "Coloquial: «Rausnehmen» es habitual al hablar."
+      },
+      "examples": {
+        "en": {
+          "text": "I take my phone out of my bag.",
+          "es": "Saco el teléfono de mi bolsa."
+        },
+        "fr": {
+          "text": "Je sors mon téléphone de mon sac.",
+          "es": "Saco el teléfono de mi bolsa."
+        },
+        "it": {
+          "text": "Tiro fuori il telefono dalla borsa.",
+          "es": "Saco el teléfono de mi bolsa."
+        },
+        "pt": {
+          "text": "Tiro o celular da bolsa.",
+          "es": "Saco el teléfono de mi bolsa."
+        },
+        "de": {
+          "text": "Ich nehme mein Handy aus der Tasche heraus.",
+          "es": "Saco el teléfono de mi bolsa."
+        }
+      }
     },
     {
       "id": "va49",
@@ -645,9 +1790,35 @@
         "en": "To put in / To put inside",
         "pt": "Colocar dentro / Pôr dentro",
         "fr": "Mettre dedans",
-        "it": "Mettere dentro"
+        "it": "Mettere dentro",
+        "de": "Hineinlegen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Hineinlegen» sirve al meter algo dejándolo acostado o apoyado; para colocarlo de pie se usa «hineinstellen». Coloquial: «Reinlegen» es usual para el primer caso."
+      },
+      "examples": {
+        "en": {
+          "text": "I put the keys in my bag.",
+          "es": "Meto las llaves en mi bolsa."
+        },
+        "fr": {
+          "text": "Je mets les clés dans mon sac.",
+          "es": "Meto las llaves en mi bolsa."
+        },
+        "it": {
+          "text": "Metto le chiavi nella borsa.",
+          "es": "Meto las llaves en mi bolsa."
+        },
+        "pt": {
+          "text": "Coloco as chaves na bolsa.",
+          "es": "Meto las llaves en mi bolsa."
+        },
+        "de": {
+          "text": "Ich lege die Schlüssel in die Tasche hinein.",
+          "es": "Meto las llaves en mi bolsa."
+        }
+      }
     },
     {
       "id": "va50",
@@ -656,11 +1827,35 @@
         "en": "To put / To place",
         "pt": "Pôr / Colocar",
         "fr": "Mettre / Poser",
-        "it": "Mettere / Collocare"
+        "it": "Mettere / Collocare",
+        "de": "Hinstellen / Hinlegen"
       },
       "image_url": "",
       "notes": {
-        "it": "«Posare» significa más precisamente posar o dejar algo sobre una superficie; «mettere» y «collocare» se acercan al sentido general de colocar."
+        "it": "«Posare» significa más precisamente posar o dejar algo sobre una superficie; «mettere» y «collocare» se acercan al sentido general de colocar.",
+        "de": "«Hinstellen» se usa si el objeto queda de pie; «hinlegen», si queda acostado o apoyado."
+      },
+      "examples": {
+        "en": {
+          "text": "I put the glass on the table.",
+          "es": "Pongo el vaso en la mesa."
+        },
+        "fr": {
+          "text": "Je pose le verre sur la table.",
+          "es": "Pongo el vaso en la mesa."
+        },
+        "it": {
+          "text": "Metto il bicchiere sul tavolo.",
+          "es": "Pongo el vaso en la mesa."
+        },
+        "pt": {
+          "text": "Coloco o copo na mesa.",
+          "es": "Pongo el vaso en la mesa."
+        },
+        "de": {
+          "text": "Ich stelle das Glas auf den Tisch.",
+          "es": "Pongo el vaso en la mesa."
+        }
       }
     },
     {
@@ -670,9 +1865,32 @@
         "en": "To remove / To take off",
         "pt": "Tirar / Retirar",
         "fr": "Enlever / Retirer",
-        "it": "Togliere / Rimuovere"
+        "it": "Togliere / Rimuovere",
+        "de": "Wegnehmen / Entfernen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I remove the dust from the table.",
+          "es": "Quito el polvo de la mesa."
+        },
+        "fr": {
+          "text": "J'enlève la poussière de la table.",
+          "es": "Quito el polvo de la mesa."
+        },
+        "it": {
+          "text": "Tolgo la polvere dal tavolo.",
+          "es": "Quito el polvo de la mesa."
+        },
+        "pt": {
+          "text": "Tiro a poeira da mesa.",
+          "es": "Quito el polvo de la mesa."
+        },
+        "de": {
+          "text": "Ich entferne den Staub vom Tisch.",
+          "es": "Quito el polvo de la mesa."
+        }
+      }
     },
     {
       "id": "va52",
@@ -681,9 +1899,32 @@
         "en": "To use",
         "pt": "Usar / Utilizar",
         "fr": "Utiliser / Se servir de",
-        "it": "Usare / Utilizzare"
+        "it": "Usare / Utilizzare",
+        "de": "Benutzen / Verwenden"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I use my phone to pay.",
+          "es": "Uso mi teléfono para pagar."
+        },
+        "fr": {
+          "text": "J'utilise mon téléphone pour payer.",
+          "es": "Uso mi teléfono para pagar."
+        },
+        "it": {
+          "text": "Uso il telefono per pagare.",
+          "es": "Uso mi teléfono para pagar."
+        },
+        "pt": {
+          "text": "Uso o celular para pagar.",
+          "es": "Uso mi teléfono para pagar."
+        },
+        "de": {
+          "text": "Ich benutze mein Handy zum Bezahlen.",
+          "es": "Uso mi teléfono para pagar."
+        }
+      }
     },
     {
       "id": "va53",
@@ -692,9 +1933,32 @@
         "en": "To look for / To search for",
         "pt": "Procurar / Buscar",
         "fr": "Chercher",
-        "it": "Cercare"
+        "it": "Cercare",
+        "de": "Suchen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I'm looking for my keys.",
+          "es": "Busco mis llaves."
+        },
+        "fr": {
+          "text": "Je cherche mes clés.",
+          "es": "Busco mis llaves."
+        },
+        "it": {
+          "text": "Cerco le chiavi.",
+          "es": "Busco mis llaves."
+        },
+        "pt": {
+          "text": "Estou procurando minhas chaves.",
+          "es": "Busco mis llaves."
+        },
+        "de": {
+          "text": "Ich suche meine Schlüssel.",
+          "es": "Busco mis llaves."
+        }
+      }
     },
     {
       "id": "va54",
@@ -703,9 +1967,32 @@
         "en": "To find",
         "pt": "Encontrar / Achar",
         "fr": "Trouver",
-        "it": "Trovare"
+        "it": "Trovare",
+        "de": "Finden"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I found my keys in the kitchen.",
+          "es": "Encontré mis llaves en la cocina."
+        },
+        "fr": {
+          "text": "J'ai trouvé mes clés dans la cuisine.",
+          "es": "Encontré mis llaves en la cocina."
+        },
+        "it": {
+          "text": "Ho trovato le chiavi in cucina.",
+          "es": "Encontré mis llaves en la cocina."
+        },
+        "pt": {
+          "text": "Achei minhas chaves na cozinha.",
+          "es": "Encontré mis llaves en la cocina."
+        },
+        "de": {
+          "text": "Ich habe meine Schlüssel in der Küche gefunden.",
+          "es": "Encontré mis llaves en la cocina."
+        }
+      }
     },
     {
       "id": "va55",
@@ -714,9 +2001,32 @@
         "en": "To choose / To select",
         "pt": "Escolher / Selecionar",
         "fr": "Choisir",
-        "it": "Scegliere"
+        "it": "Scegliere",
+        "de": "Wählen / Aussuchen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I choose a blue shirt.",
+          "es": "Escojo una camisa azul."
+        },
+        "fr": {
+          "text": "Je choisis une chemise bleue.",
+          "es": "Escojo una camisa azul."
+        },
+        "it": {
+          "text": "Scelgo una camicia blu.",
+          "es": "Escojo una camisa azul."
+        },
+        "pt": {
+          "text": "Escolho uma camisa azul.",
+          "es": "Escojo una camisa azul."
+        },
+        "de": {
+          "text": "Ich suche mir ein blaues Hemd aus.",
+          "es": "Escojo una camisa azul."
+        }
+      }
     },
     {
       "id": "va56",
@@ -725,11 +2035,35 @@
         "en": "To change / To switch",
         "pt": "Mudar / Trocar",
         "fr": "Changer",
-        "it": "Cambiare"
+        "it": "Cambiare",
+        "de": "Wechseln / Ändern"
       },
       "image_url": "",
       "notes": {
-        "pt": "«Trocar» suele usarse para intercambiar o sustituir; «mudar» se usa mucho para modificar o cambiar de estado, lugar o situación."
+        "pt": "«Trocar» suele usarse para intercambiar o sustituir; «mudar» se usa mucho para modificar o cambiar de estado, lugar o situación.",
+        "de": "«Wechseln» se usa al cambiar de asiento o sustituir una cosa por otra; «ändern» es modificar algo."
+      },
+      "examples": {
+        "en": {
+          "text": "I switch seats on the train.",
+          "es": "Cambio de asiento en el tren."
+        },
+        "fr": {
+          "text": "Je change de place dans le train.",
+          "es": "Cambio de asiento en el tren."
+        },
+        "it": {
+          "text": "Cambio posto sul treno.",
+          "es": "Cambio de asiento en el tren."
+        },
+        "pt": {
+          "text": "Troco de lugar no trem.",
+          "es": "Cambio de asiento en el tren."
+        },
+        "de": {
+          "text": "Ich wechsle im Zug den Platz.",
+          "es": "Cambio de asiento en el tren."
+        }
       }
     },
     {
@@ -739,11 +2073,34 @@
         "en": "To return something / To give back",
         "pt": "Devolver",
         "fr": "Rendre / Retourner un article",
-        "it": "Restituire / Rendere"
+        "it": "Restituire / Rendere",
+        "de": "Etwas zurückgeben"
       },
       "image_url": "",
       "notes": {
         "fr": "«Rendre» es devolver a su dueño; «retourner un article» puede usarse para devolver un producto a una tienda."
+      },
+      "examples": {
+        "en": {
+          "text": "I give the book back to Ana.",
+          "es": "Devuelvo el libro a Ana."
+        },
+        "fr": {
+          "text": "Je rends le livre à Ana.",
+          "es": "Devuelvo el libro a Ana."
+        },
+        "it": {
+          "text": "Restituisco il libro ad Ana.",
+          "es": "Devuelvo el libro a Ana."
+        },
+        "pt": {
+          "text": "Devolvo o livro à Ana.",
+          "es": "Devuelvo el libro a Ana."
+        },
+        "de": {
+          "text": "Ich gebe Ana das Buch zurück.",
+          "es": "Devuelvo el libro a Ana."
+        }
       }
     },
     {
@@ -753,9 +2110,32 @@
         "en": "To buy / To purchase",
         "pt": "Comprar",
         "fr": "Acheter",
-        "it": "Comprare / Acquistare"
+        "it": "Comprare / Acquistare",
+        "de": "Kaufen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I buy bread in the morning.",
+          "es": "Compro pan en la mañana."
+        },
+        "fr": {
+          "text": "J'achète du pain le matin.",
+          "es": "Compro pan en la mañana."
+        },
+        "it": {
+          "text": "Compro il pane la mattina.",
+          "es": "Compro pan en la mañana."
+        },
+        "pt": {
+          "text": "Compro pão de manhã.",
+          "es": "Compro pan en la mañana."
+        },
+        "de": {
+          "text": "Morgens kaufe ich Brot.",
+          "es": "Compro pan en la mañana."
+        }
+      }
     },
     {
       "id": "va59",
@@ -764,9 +2144,32 @@
         "en": "To sell",
         "pt": "Vender",
         "fr": "Vendre",
-        "it": "Vendere"
+        "it": "Vendere",
+        "de": "Verkaufen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I'm selling my bike.",
+          "es": "Vendo mi bicicleta."
+        },
+        "fr": {
+          "text": "Je vends mon vélo.",
+          "es": "Vendo mi bicicleta."
+        },
+        "it": {
+          "text": "Vendo la mia bici.",
+          "es": "Vendo mi bicicleta."
+        },
+        "pt": {
+          "text": "Estou vendendo minha bicicleta.",
+          "es": "Vendo mi bicicleta."
+        },
+        "de": {
+          "text": "Ich verkaufe mein Fahrrad.",
+          "es": "Vendo mi bicicleta."
+        }
+      }
     },
     {
       "id": "va60",
@@ -775,9 +2178,32 @@
         "en": "To pay",
         "pt": "Pagar",
         "fr": "Payer",
-        "it": "Pagare"
+        "it": "Pagare",
+        "de": "Bezahlen / Zahlen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I pay by card.",
+          "es": "Pago con tarjeta."
+        },
+        "fr": {
+          "text": "Je paie par carte.",
+          "es": "Pago con tarjeta."
+        },
+        "it": {
+          "text": "Pago con la carta.",
+          "es": "Pago con tarjeta."
+        },
+        "pt": {
+          "text": "Pago com cartão.",
+          "es": "Pago con tarjeta."
+        },
+        "de": {
+          "text": "Ich bezahle mit Karte.",
+          "es": "Pago con tarjeta."
+        }
+      }
     },
     {
       "id": "va61",
@@ -786,12 +2212,36 @@
         "en": "To charge",
         "pt": "Cobrar",
         "fr": "Faire payer / Facturer",
-        "it": "Far pagare / Addebitare"
+        "it": "Far pagare / Addebitare",
+        "de": "Für etwas Geld verlangen / Berechnen"
       },
       "image_url": "",
       "notes": {
         "es": "Aquí significa exigir o recibir el pago de un precio; no «cobrar el sueldo».",
-        "it": "«Far pagare» es cobrar un precio; «addebitare» indica cargar un importe a una cuenta o tarjeta."
+        "it": "«Far pagare» es cobrar un precio; «addebitare» indica cargar un importe a una cuenta o tarjeta.",
+        "de": "«Geld verlangen» expresa pedir un precio; «berechnen» se usa al cargar o facturar un importe."
+      },
+      "examples": {
+        "en": {
+          "text": "The store charges ten pesos for the bag.",
+          "es": "La tienda cobra diez pesos por la bolsa."
+        },
+        "fr": {
+          "text": "Le magasin fait payer dix pesos pour le sac.",
+          "es": "La tienda cobra diez pesos por la bolsa."
+        },
+        "it": {
+          "text": "Il negozio fa pagare dieci pesos per il sacchetto.",
+          "es": "La tienda cobra diez pesos por la bolsa."
+        },
+        "pt": {
+          "text": "A loja cobra dez pesos pela sacola.",
+          "es": "La tienda cobra diez pesos por la bolsa."
+        },
+        "de": {
+          "text": "Der Laden verlangt zehn Pesos für die Tüte.",
+          "es": "La tienda cobra diez pesos por la bolsa."
+        }
       }
     },
     {
@@ -801,12 +2251,35 @@
         "en": "To book / To reserve",
         "pt": "Reservar",
         "fr": "Réserver",
-        "it": "Prenotare"
+        "it": "Prenotare",
+        "de": "Reservieren / Buchen"
       },
       "image_url": "",
       "notes": {
         "es": "Apartar un lugar, servicio o fecha; no «guardar algo para después».",
         "en": "«To book» es muy habitual para hoteles, viajes o citas; «to reserve» también se usa en reservas formales."
+      },
+      "examples": {
+        "en": {
+          "text": "I book a table for two.",
+          "es": "Reservo una mesa para dos."
+        },
+        "fr": {
+          "text": "Je réserve une table pour deux.",
+          "es": "Reservo una mesa para dos."
+        },
+        "it": {
+          "text": "Prenoto un tavolo per due.",
+          "es": "Reservo una mesa para dos."
+        },
+        "pt": {
+          "text": "Reservo uma mesa para duas pessoas.",
+          "es": "Reservo una mesa para dos."
+        },
+        "de": {
+          "text": "Ich reserviere einen Tisch für zwei.",
+          "es": "Reservo una mesa para dos."
+        }
       }
     },
     {
@@ -816,9 +2289,32 @@
         "en": "To confirm",
         "pt": "Confirmar",
         "fr": "Confirmer",
-        "it": "Confermare"
+        "it": "Confermare",
+        "de": "Bestätigen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I confirm my dentist appointment by phone.",
+          "es": "Confirmo mi cita con el dentista por teléfono."
+        },
+        "fr": {
+          "text": "Je confirme mon rendez-vous chez le dentiste par téléphone.",
+          "es": "Confirmo mi cita con el dentista por teléfono."
+        },
+        "it": {
+          "text": "Confermo l'appuntamento dal dentista per telefono.",
+          "es": "Confirmo mi cita con el dentista por teléfono."
+        },
+        "pt": {
+          "text": "Confirmo minha consulta com o dentista por telefone.",
+          "es": "Confirmo mi cita con el dentista por teléfono."
+        },
+        "de": {
+          "text": "Ich bestätige meinen Zahnarzttermin am Telefon.",
+          "es": "Confirmo mi cita con el dentista por teléfono."
+        }
+      }
     },
     {
       "id": "va64",
@@ -827,11 +2323,35 @@
         "en": "To cancel",
         "pt": "Cancelar / Anular",
         "fr": "Annuler",
-        "it": "Annullare / Cancellare"
+        "it": "Annullare / Cancellare",
+        "de": "Absagen / Stornieren"
       },
       "image_url": "",
       "notes": {
-        "it": "«Annullare» es cancelar una cita o reserva; «cancellare» también puede significar borrar o eliminar información."
+        "it": "«Annullare» es cancelar una cita o reserva; «cancellare» también puede significar borrar o eliminar información.",
+        "de": "«Absagen» se usa, por ejemplo, para citas; «stornieren» para reservas o compras anuladas."
+      },
+      "examples": {
+        "en": {
+          "text": "I cancel the hotel reservation.",
+          "es": "Cancelo la reserva del hotel."
+        },
+        "fr": {
+          "text": "J'annule la réservation d'hôtel.",
+          "es": "Cancelo la reserva del hotel."
+        },
+        "it": {
+          "text": "Annullo la prenotazione dell'hotel.",
+          "es": "Cancelo la reserva del hotel."
+        },
+        "pt": {
+          "text": "Cancelo a reserva do hotel.",
+          "es": "Cancelo la reserva del hotel."
+        },
+        "de": {
+          "text": "Ich storniere die Hotelbuchung.",
+          "es": "Cancelo la reserva del hotel."
+        }
       }
     },
     {
@@ -840,13 +2360,36 @@
       "translations": {
         "en": "To work / To function",
         "pt": "Funcionar",
-        "fr": "Fonctionner",
-        "it": "Funzionare"
+        "fr": "Fonctionner / Marcher",
+        "it": "Funzionare",
+        "de": "Funktionieren"
       },
       "image_url": "",
       "notes": {
         "es": "Aquí se refiere a aparatos y servicios, no a «trabajar» como empleo.",
         "en": "«To work» también significa «trabajar»; en este contexto es «funcionar»."
+      },
+      "examples": {
+        "en": {
+          "text": "The washing machine works now.",
+          "es": "La lavadora ya funciona."
+        },
+        "fr": {
+          "text": "La machine à laver fonctionne maintenant.",
+          "es": "La lavadora ya funciona."
+        },
+        "it": {
+          "text": "Ora la lavatrice funziona.",
+          "es": "La lavadora ya funciona."
+        },
+        "pt": {
+          "text": "A máquina de lavar está funcionando agora.",
+          "es": "La lavadora ya funciona."
+        },
+        "de": {
+          "text": "Die Waschmaschine funktioniert jetzt.",
+          "es": "La lavadora ya funciona."
+        }
       }
     },
     {
@@ -856,11 +2399,34 @@
         "en": "To repair / To fix",
         "pt": "Consertar / Reparar",
         "fr": "Réparer",
-        "it": "Riparare / Aggiustare"
+        "it": "Riparare / Aggiustare",
+        "de": "Reparieren"
       },
       "image_url": "",
       "notes": {
         "es": "Reparar una avería o un objeto dañado, no «arreglarse» personalmente."
+      },
+      "examples": {
+        "en": {
+          "text": "I fix my bike.",
+          "es": "Reparo mi bicicleta."
+        },
+        "fr": {
+          "text": "Je répare mon vélo.",
+          "es": "Reparo mi bicicleta."
+        },
+        "it": {
+          "text": "Riparo la mia bici.",
+          "es": "Reparo mi bicicleta."
+        },
+        "pt": {
+          "text": "Conserto minha bicicleta.",
+          "es": "Reparo mi bicicleta."
+        },
+        "de": {
+          "text": "Ich repariere mein Fahrrad.",
+          "es": "Reparo mi bicicleta."
+        }
       }
     },
     {
@@ -870,9 +2436,32 @@
         "en": "To break something",
         "pt": "Quebrar / Romper",
         "fr": "Casser / Briser",
-        "it": "Rompere"
+        "it": "Rompere",
+        "de": "Etwas kaputtmachen / Etwas zerbrechen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I broke a glass by accident.",
+          "es": "Rompí un vaso sin querer."
+        },
+        "fr": {
+          "text": "J'ai cassé un verre sans le vouloir.",
+          "es": "Rompí un vaso sin querer."
+        },
+        "it": {
+          "text": "Ho rotto un bicchiere per sbaglio.",
+          "es": "Rompí un vaso sin querer."
+        },
+        "pt": {
+          "text": "Quebrei um copo sem querer.",
+          "es": "Rompí un vaso sin querer."
+        },
+        "de": {
+          "text": "Ich habe aus Versehen ein Glas zerbrochen.",
+          "es": "Rompí un vaso sin querer."
+        }
+      }
     },
     {
       "id": "va68",
@@ -881,9 +2470,35 @@
         "en": "To push",
         "pt": "Empurrar",
         "fr": "Pousser",
-        "it": "Spingere"
+        "it": "Spingere",
+        "de": "Schieben / Drücken"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Schieben» indica empujar algo para desplazarlo; «drücken» es hacer presión, como en una puerta."
+      },
+      "examples": {
+        "en": {
+          "text": "I push the shopping cart.",
+          "es": "Empujo el carrito del súper."
+        },
+        "fr": {
+          "text": "Je pousse le chariot du supermarché.",
+          "es": "Empujo el carrito del súper."
+        },
+        "it": {
+          "text": "Spingo il carrello della spesa.",
+          "es": "Empujo el carrito del súper."
+        },
+        "pt": {
+          "text": "Empurro o carrinho de compras.",
+          "es": "Empujo el carrito del súper."
+        },
+        "de": {
+          "text": "Ich schiebe den Einkaufswagen.",
+          "es": "Empujo el carrito del súper."
+        }
+      }
     },
     {
       "id": "va69",
@@ -892,11 +2507,35 @@
         "en": "To pull",
         "pt": "Puxar",
         "fr": "Tirer",
-        "it": "Tirare"
+        "it": "Tirare",
+        "de": "Ziehen / An etwas ziehen"
       },
       "image_url": "",
       "notes": {
-        "it": "«Tirare» significa «jalar» o «tirar de»; no corresponde a todos los usos de «tirar» en español (por ejemplo, «tirar a la basura»)."
+        "it": "«Tirare» significa «jalar» o «tirar de»; no corresponde a todos los usos de «tirar» en español (por ejemplo, «tirar a la basura»).",
+        "de": "«Ziehen» se usa al tirar de algo hacia uno; «an etwas ziehen» recalca de qué objeto se tira."
+      },
+      "examples": {
+        "en": {
+          "text": "I pull the door to open it.",
+          "es": "Jalo la puerta para abrirla."
+        },
+        "fr": {
+          "text": "Je tire la porte pour l'ouvrir.",
+          "es": "Jalo la puerta para abrirla."
+        },
+        "it": {
+          "text": "Tiro la porta per aprirla.",
+          "es": "Jalo la puerta para abrirla."
+        },
+        "pt": {
+          "text": "Puxo a porta para abrir.",
+          "es": "Jalo la puerta para abrirla."
+        },
+        "de": {
+          "text": "Ich ziehe die Tür auf.",
+          "es": "Jalo la puerta para abrirla."
+        }
       }
     },
     {
@@ -906,12 +2545,36 @@
         "en": "To turn on / To switch on",
         "pt": "Ligar",
         "fr": "Allumer",
-        "it": "Accendere"
+        "it": "Accendere",
+        "de": "Einschalten"
       },
       "image_url": "",
       "notes": {
         "es": "Aquí significa poner en funcionamiento un aparato.",
-        "pt": "«Ligar» puede significar encender, llamar por teléfono o conectar, según el contexto."
+        "pt": "«Ligar» puede significar encender, llamar por teléfono o conectar, según el contexto.",
+        "de": "Coloquial: «Anmachen» se usa, por ejemplo, para prender la tele."
+      },
+      "examples": {
+        "en": {
+          "text": "I turn on the TV after dinner.",
+          "es": "Prendo la tele después de cenar."
+        },
+        "fr": {
+          "text": "J'allume la télé après le dîner.",
+          "es": "Prendo la tele después de cenar."
+        },
+        "it": {
+          "text": "Accendo la TV dopo cena.",
+          "es": "Prendo la tele después de cenar."
+        },
+        "pt": {
+          "text": "Ligo a TV depois do jantar.",
+          "es": "Prendo la tele después de cenar."
+        },
+        "de": {
+          "text": "Nach dem Abendessen schalte ich den Fernseher ein.",
+          "es": "Prendo la tele después de cenar."
+        }
       }
     },
     {
@@ -921,12 +2584,36 @@
         "en": "To turn off / To switch off",
         "pt": "Desligar",
         "fr": "Éteindre",
-        "it": "Spegnere"
+        "it": "Spegnere",
+        "de": "Ausschalten"
       },
       "image_url": "",
       "notes": {
         "es": "Aquí es apagar un aparato, no borrar un archivo.",
-        "pt": "«Desligar» es apagar o desconectar; «apagar» en portugués suele significar borrar, aunque también se usa para apagar luces o fuego."
+        "pt": "«Desligar» es apagar o desconectar; «apagar» en portugués suele significar borrar, aunque también se usa para apagar luces o fuego.",
+        "de": "Coloquial: «Ausmachen» se usa, por ejemplo, para apagar la luz."
+      },
+      "examples": {
+        "en": {
+          "text": "I turn off the light before going to sleep.",
+          "es": "Apago la luz antes de dormir."
+        },
+        "fr": {
+          "text": "J'éteins la lumière avant de dormir.",
+          "es": "Apago la luz antes de dormir."
+        },
+        "it": {
+          "text": "Spengo la luce prima di dormire.",
+          "es": "Apago la luz antes de dormir."
+        },
+        "pt": {
+          "text": "Desligo a luz antes de dormir.",
+          "es": "Apago la luz antes de dormir."
+        },
+        "de": {
+          "text": "Vor dem Schlafen schalte ich das Licht aus.",
+          "es": "Apago la luz antes de dormir."
+        }
       }
     },
     {
@@ -936,9 +2623,32 @@
         "en": "To charge a battery",
         "pt": "Carregar a bateria",
         "fr": "Charger une batterie",
-        "it": "Caricare una batteria"
+        "it": "Caricare una batteria",
+        "de": "Einen Akku aufladen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I charge my phone battery at night.",
+          "es": "Cargo la batería del teléfono en la noche."
+        },
+        "fr": {
+          "text": "Je recharge la batterie de mon téléphone le soir.",
+          "es": "Cargo la batería del teléfono en la noche."
+        },
+        "it": {
+          "text": "Carico la batteria del telefono la sera.",
+          "es": "Cargo la batería del teléfono en la noche."
+        },
+        "pt": {
+          "text": "Carrego a bateria do celular à noite.",
+          "es": "Cargo la batería del teléfono en la noche."
+        },
+        "de": {
+          "text": "Abends lade ich den Akku meines Handys auf.",
+          "es": "Cargo la batería del teléfono en la noche."
+        }
+      }
     },
     {
       "id": "va73",
@@ -947,45 +2657,141 @@
         "en": "To speak / To talk",
         "pt": "Falar",
         "fr": "Parler",
-        "it": "Parlare"
+        "it": "Parlare",
+        "de": "Sprechen / Reden"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I talk to Ana every day.",
+          "es": "Hablo con Ana todos los días."
+        },
+        "fr": {
+          "text": "Je parle avec Ana tous les jours.",
+          "es": "Hablo con Ana todos los días."
+        },
+        "it": {
+          "text": "Parlo con Ana tutti i giorni.",
+          "es": "Hablo con Ana todos los días."
+        },
+        "pt": {
+          "text": "Falo com a Ana todos os dias.",
+          "es": "Hablo con Ana todos los días."
+        },
+        "de": {
+          "text": "Ich spreche jeden Tag mit Ana.",
+          "es": "Hablo con Ana todos los días."
+        }
+      }
     },
     {
       "id": "va74",
       "es": "Decir",
       "translations": {
-        "en": "To say / To tell",
+        "en": "To say something / To tell someone something",
         "pt": "Dizer",
         "fr": "Dire",
-        "it": "Dire"
+        "it": "Dire",
+        "de": "Sagen"
       },
       "image_url": "",
       "notes": {
-        "en": "«To say» enfatiza lo que se dice; «to tell» normalmente introduce a quién se le dice algo («tell me»)."
+        "en": "«To say» enfatiza lo que se dice; «to tell» normalmente introduce a quién se le dice algo («tell me»).",
+        "de": "«Sagen» expresa decir algo. Para contar una historia se usa «erzählen»."
+      },
+      "examples": {
+        "en": {
+          "text": "I tell Ana the truth.",
+          "es": "Le digo la verdad a Ana."
+        },
+        "fr": {
+          "text": "Je dis la vérité à Ana.",
+          "es": "Le digo la verdad a Ana."
+        },
+        "it": {
+          "text": "Dico la verità ad Ana.",
+          "es": "Le digo la verdad a Ana."
+        },
+        "pt": {
+          "text": "Digo a verdade à Ana.",
+          "es": "Le digo la verdad a Ana."
+        },
+        "de": {
+          "text": "Ich sage Ana die Wahrheit.",
+          "es": "Le digo la verdad a Ana."
+        }
       }
     },
     {
       "id": "va75",
-      "es": "Contar / Relatar una historia",
+      "es": "Contar una historia / Relatar una historia",
       "translations": {
-        "en": "To tell a story / To recount",
-        "pt": "Contar uma história / Relatar",
+        "en": "To tell a story / To recount a story",
+        "pt": "Contar uma história / Relatar uma história",
         "fr": "Raconter",
-        "it": "Raccontare"
+        "it": "Raccontare",
+        "de": "Eine Geschichte erzählen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My grandpa tells a story.",
+          "es": "Mi abuelo cuenta una historia."
+        },
+        "fr": {
+          "text": "Mon grand-père raconte une histoire.",
+          "es": "Mi abuelo cuenta una historia."
+        },
+        "it": {
+          "text": "Mio nonno racconta una storia.",
+          "es": "Mi abuelo cuenta una historia."
+        },
+        "pt": {
+          "text": "Meu avô conta uma história.",
+          "es": "Mi abuelo cuenta una historia."
+        },
+        "de": {
+          "text": "Mein Opa erzählt eine Geschichte.",
+          "es": "Mi abuelo cuenta una historia."
+        }
+      }
     },
     {
       "id": "va76",
-      "es": "Contar números / Cantidades",
+      "es": "Contar números / Contar cantidades",
       "translations": {
         "en": "To count",
         "pt": "Contar",
         "fr": "Compter",
-        "it": "Contare"
+        "it": "Contare",
+        "de": "Zählen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí «contar» significa determinar cuántos objetos hay o decir números en orden, no narrar."
+      },
+      "examples": {
+        "en": {
+          "text": "I count the chairs in the room.",
+          "es": "Cuento las sillas del salón."
+        },
+        "fr": {
+          "text": "Je compte les chaises dans la salle.",
+          "es": "Cuento las sillas del salón."
+        },
+        "it": {
+          "text": "Conto le sedie nella sala.",
+          "es": "Cuento las sillas del salón."
+        },
+        "pt": {
+          "text": "Conto as cadeiras da sala.",
+          "es": "Cuento las sillas del salón."
+        },
+        "de": {
+          "text": "Ich zähle die Stühle im Raum.",
+          "es": "Cuento las sillas del salón."
+        }
+      }
     },
     {
       "id": "va77",
@@ -994,9 +2800,35 @@
         "en": "To explain",
         "pt": "Explicar",
         "fr": "Expliquer",
-        "it": "Spiegare"
+        "it": "Spiegare",
+        "de": "Erklären"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "La persona a la que se explica algo va en dativo, y lo que se explica va en acusativo."
+      },
+      "examples": {
+        "en": {
+          "text": "The teacher explains the game.",
+          "es": "La maestra explica el juego."
+        },
+        "fr": {
+          "text": "La maîtresse explique le jeu.",
+          "es": "La maestra explica el juego."
+        },
+        "it": {
+          "text": "La maestra spiega il gioco.",
+          "es": "La maestra explica el juego."
+        },
+        "pt": {
+          "text": "A professora explica o jogo.",
+          "es": "La maestra explica el juego."
+        },
+        "de": {
+          "text": "Die Lehrerin erklärt das Spiel.",
+          "es": "La maestra explica el juego."
+        }
+      }
     },
     {
       "id": "va78",
@@ -1005,9 +2837,35 @@
         "en": "To answer / To reply",
         "pt": "Responder",
         "fr": "Répondre",
-        "it": "Rispondere"
+        "it": "Rispondere",
+        "de": "Antworten"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "Se usa «auf» para introducir la pregunta a la que se responde."
+      },
+      "examples": {
+        "en": {
+          "text": "I answer the question.",
+          "es": "Respondo la pregunta."
+        },
+        "fr": {
+          "text": "Je réponds à la question.",
+          "es": "Respondo la pregunta."
+        },
+        "it": {
+          "text": "Rispondo alla domanda.",
+          "es": "Respondo la pregunta."
+        },
+        "pt": {
+          "text": "Respondo à pergunta.",
+          "es": "Respondo la pregunta."
+        },
+        "de": {
+          "text": "Ich antworte auf die Frage.",
+          "es": "Respondo la pregunta."
+        }
+      }
     },
     {
       "id": "va79",
@@ -1016,9 +2874,32 @@
         "en": "To repeat",
         "pt": "Repetir",
         "fr": "Répéter",
-        "it": "Ripetere"
+        "it": "Ripetere",
+        "de": "Wiederholen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I repeat the word slowly.",
+          "es": "Repito la palabra despacio."
+        },
+        "fr": {
+          "text": "Je répète le mot lentement.",
+          "es": "Repito la palabra despacio."
+        },
+        "it": {
+          "text": "Ripeto la parola lentamente.",
+          "es": "Repito la palabra despacio."
+        },
+        "pt": {
+          "text": "Repito a palavra devagar.",
+          "es": "Repito la palabra despacio."
+        },
+        "de": {
+          "text": "Ich wiederhole das Wort langsam.",
+          "es": "Repito la palabra despacio."
+        }
+      }
     },
     {
       "id": "va80",
@@ -1027,9 +2908,32 @@
         "en": "To understand",
         "pt": "Entender / Compreender",
         "fr": "Comprendre",
-        "it": "Capire / Comprendere"
+        "it": "Capire / Comprendere",
+        "de": "Verstehen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I don't understand the question.",
+          "es": "No entiendo la pregunta."
+        },
+        "fr": {
+          "text": "Je ne comprends pas la question.",
+          "es": "No entiendo la pregunta."
+        },
+        "it": {
+          "text": "Non capisco la domanda.",
+          "es": "No entiendo la pregunta."
+        },
+        "pt": {
+          "text": "Não entendo a pergunta.",
+          "es": "No entiendo la pregunta."
+        },
+        "de": {
+          "text": "Ich verstehe die Frage nicht.",
+          "es": "No entiendo la pregunta."
+        }
+      }
     },
     {
       "id": "va81",
@@ -1038,13 +2942,36 @@
         "en": "To hear",
         "pt": "Ouvir",
         "fr": "Entendre",
-        "it": "Sentire"
+        "it": "Sentire",
+        "de": "Hören"
       },
       "image_url": "",
       "notes": {
         "es": "Percibir un sonido sin necesidad de prestar atención; «escuchar» implica atención intencional.",
         "fr": "«Entendre» es oír, pero también puede significar entender en ciertos contextos; «écouter» implica escuchar con atención.",
         "it": "«Sentire» se usa para oír y también para sentir; para escuchar atentamente se utiliza «ascoltare»."
+      },
+      "examples": {
+        "en": {
+          "text": "I hear a noise in the kitchen.",
+          "es": "Oigo un ruido en la cocina."
+        },
+        "fr": {
+          "text": "J'entends un bruit dans la cuisine.",
+          "es": "Oigo un ruido en la cocina."
+        },
+        "it": {
+          "text": "Sento un rumore in cucina.",
+          "es": "Oigo un ruido en la cocina."
+        },
+        "pt": {
+          "text": "Ouço um barulho na cozinha.",
+          "es": "Oigo un ruido en la cocina."
+        },
+        "de": {
+          "text": "Ich höre ein Geräusch in der Küche.",
+          "es": "Oigo un ruido en la cocina."
+        }
       }
     },
     {
@@ -1054,11 +2981,35 @@
         "en": "To listen / To listen to",
         "pt": "Escutar / Ouvir com atenção",
         "fr": "Écouter",
-        "it": "Ascoltare"
+        "it": "Ascoltare",
+        "de": "Zuhören / Sich etwas anhören"
       },
       "image_url": "",
       "notes": {
-        "es": "Prestar atención voluntariamente a un sonido, a diferencia de simplemente «oír»."
+        "es": "Prestar atención voluntariamente a un sonido, a diferencia de simplemente «oír».",
+        "de": "«Zuhören» se usa al prestar atención a alguien; «sich etwas anhören» al escuchar algo, por ejemplo un programa."
+      },
+      "examples": {
+        "en": {
+          "text": "I listen to a radio show in the morning.",
+          "es": "Escucho un programa de radio en la mañana."
+        },
+        "fr": {
+          "text": "J'écoute une émission de radio le matin.",
+          "es": "Escucho un programa de radio en la mañana."
+        },
+        "it": {
+          "text": "Ascolto un programma radiofonico la mattina.",
+          "es": "Escucho un programa de radio en la mañana."
+        },
+        "pt": {
+          "text": "Escuto um programa de rádio de manhã.",
+          "es": "Escucho un programa de radio en la mañana."
+        },
+        "de": {
+          "text": "Morgens höre ich mir eine Radiosendung an.",
+          "es": "Escucho un programa de radio en la mañana."
+        }
       }
     },
     {
@@ -1068,11 +3019,34 @@
         "en": "To see",
         "pt": "Ver",
         "fr": "Voir",
-        "it": "Vedere"
+        "it": "Vedere",
+        "de": "Sehen"
       },
       "image_url": "",
       "notes": {
         "es": "Percibir con la vista; distinto de «mirar» con atención deliberada."
+      },
+      "examples": {
+        "en": {
+          "text": "I can see the sea from here.",
+          "es": "Veo el mar desde aquí."
+        },
+        "fr": {
+          "text": "Je vois la mer d'ici.",
+          "es": "Veo el mar desde aquí."
+        },
+        "it": {
+          "text": "Vedo il mare da qui.",
+          "es": "Veo el mar desde aquí."
+        },
+        "pt": {
+          "text": "Vejo o mar daqui.",
+          "es": "Veo el mar desde aquí."
+        },
+        "de": {
+          "text": "Ich sehe von hier aus das Meer.",
+          "es": "Veo el mar desde aquí."
+        }
       }
     },
     {
@@ -1082,11 +3056,34 @@
         "en": "To look / To look at",
         "pt": "Olhar",
         "fr": "Regarder",
-        "it": "Guardare"
+        "it": "Guardare",
+        "de": "Schauen / Sich etwas ansehen"
       },
       "image_url": "",
       "notes": {
         "es": "Dirigir la mirada hacia algo o alguien; distinto de «ver» como percepción."
+      },
+      "examples": {
+        "en": {
+          "text": "I look at the photo.",
+          "es": "Miro la foto."
+        },
+        "fr": {
+          "text": "Je regarde la photo.",
+          "es": "Miro la foto."
+        },
+        "it": {
+          "text": "Guardo la foto.",
+          "es": "Miro la foto."
+        },
+        "pt": {
+          "text": "Olho para a foto.",
+          "es": "Miro la foto."
+        },
+        "de": {
+          "text": "Ich sehe mir das Foto an.",
+          "es": "Miro la foto."
+        }
       }
     },
     {
@@ -1096,11 +3093,34 @@
         "en": "To show",
         "pt": "Mostrar",
         "fr": "Montrer",
-        "it": "Mostrare / Far vedere"
+        "it": "Mostrare / Far vedere",
+        "de": "Zeigen"
       },
       "image_url": "",
       "notes": {
         "es": "Aquí «enseñar» significa mostrar para que alguien vea, no impartir una lección."
+      },
+      "examples": {
+        "en": {
+          "text": "I show Ana my ticket.",
+          "es": "Le muestro mi boleto a Ana."
+        },
+        "fr": {
+          "text": "Je montre mon billet à Ana.",
+          "es": "Le muestro mi boleto a Ana."
+        },
+        "it": {
+          "text": "Mostro il mio biglietto ad Ana.",
+          "es": "Le muestro mi boleto a Ana."
+        },
+        "pt": {
+          "text": "Mostro minha passagem à Ana.",
+          "es": "Le muestro mi boleto a Ana."
+        },
+        "de": {
+          "text": "Ich zeige Ana meine Fahrkarte.",
+          "es": "Le muestro mi boleto a Ana."
+        }
       }
     },
     {
@@ -1110,23 +3130,73 @@
         "en": "To call / To phone",
         "pt": "Ligar / Telefonar",
         "fr": "Appeler / Téléphoner",
-        "it": "Chiamare / Telefonare"
+        "it": "Chiamare / Telefonare",
+        "de": "Anrufen / Telefonieren"
       },
       "image_url": "",
       "notes": {
-        "pt": "En portugués brasileño «ligar» es llamar por teléfono y también encender aparatos."
+        "pt": "En portugués brasileño «ligar» es llamar por teléfono y también encender aparatos.",
+        "de": "«Anrufen» se usa para llamar a alguien; «telefonieren» es hablar por teléfono o hacer una llamada."
+      },
+      "examples": {
+        "en": {
+          "text": "I call my mom every day.",
+          "es": "Llamo a mi mamá todos los días."
+        },
+        "fr": {
+          "text": "J'appelle ma mère tous les jours.",
+          "es": "Llamo a mi mamá todos los días."
+        },
+        "it": {
+          "text": "Chiamo mia mamma tutti i giorni.",
+          "es": "Llamo a mi mamá todos los días."
+        },
+        "pt": {
+          "text": "Ligo para minha mãe todos os dias.",
+          "es": "Llamo a mi mamá todos los días."
+        },
+        "de": {
+          "text": "Ich rufe meine Mutter jeden Tag an.",
+          "es": "Llamo a mi mamá todos los días."
+        }
       }
     },
     {
       "id": "va87",
-      "es": "Enviar / Mandar (un mensaje o paquete)",
+      "es": "Enviar / Mandar",
       "translations": {
         "en": "To send",
         "pt": "Enviar / Mandar",
         "fr": "Envoyer",
-        "it": "Inviare / Mandare"
+        "it": "Inviare / Mandare",
+        "de": "Schicken / Senden"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Un mensaje o paquete)"
+      },
+      "examples": {
+        "en": {
+          "text": "I'll send you a photo.",
+          "es": "Te mando una foto."
+        },
+        "fr": {
+          "text": "Je t'envoie une photo.",
+          "es": "Te mando una foto."
+        },
+        "it": {
+          "text": "Ti mando una foto.",
+          "es": "Te mando una foto."
+        },
+        "pt": {
+          "text": "Vou te mandar uma foto.",
+          "es": "Te mando una foto."
+        },
+        "de": {
+          "text": "Ich schicke dir ein Foto.",
+          "es": "Te mando una foto."
+        }
+      }
     },
     {
       "id": "va88",
@@ -1135,9 +3205,32 @@
         "en": "To remember",
         "pt": "Lembrar / Lembrar-se",
         "fr": "Se souvenir de / Se rappeler",
-        "it": "Ricordare / Ricordarsi"
+        "it": "Ricordare / Ricordarsi",
+        "de": "Sich an etwas erinnern"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I remember your first name.",
+          "es": "Me acuerdo de tu nombre de pila."
+        },
+        "fr": {
+          "text": "Je me souviens de ton prénom.",
+          "es": "Me acuerdo de tu nombre de pila."
+        },
+        "it": {
+          "text": "Mi ricordo del tuo nome di battesimo.",
+          "es": "Me acuerdo de tu nombre de pila."
+        },
+        "pt": {
+          "text": "Eu me lembro do seu primeiro nome.",
+          "es": "Me acuerdo de tu nombre de pila."
+        },
+        "de": {
+          "text": "Ich erinnere mich an deinen Vornamen.",
+          "es": "Me acuerdo de tu nombre de pila."
+        }
+      }
     },
     {
       "id": "va89",
@@ -1146,9 +3239,32 @@
         "en": "To forget",
         "pt": "Esquecer / Esquecer-se",
         "fr": "Oublier",
-        "it": "Dimenticare / Dimenticarsi"
+        "it": "Dimenticare / Dimenticarsi",
+        "de": "Vergessen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I forgot my password.",
+          "es": "Olvidé mi contraseña."
+        },
+        "fr": {
+          "text": "J'ai oublié mon mot de passe.",
+          "es": "Olvidé mi contraseña."
+        },
+        "it": {
+          "text": "Ho dimenticato la mia password.",
+          "es": "Olvidé mi contraseña."
+        },
+        "pt": {
+          "text": "Esqueci minha senha.",
+          "es": "Olvidé mi contraseña."
+        },
+        "de": {
+          "text": "Ich habe mein Passwort vergessen.",
+          "es": "Olvidé mi contraseña."
+        }
+      }
     },
     {
       "id": "va90",
@@ -1157,13 +3273,36 @@
         "en": "To think / To believe",
         "pt": "Achar / Pensar / Acreditar",
         "fr": "Penser / Croire",
-        "it": "Pensare / Credere"
+        "it": "Pensare / Credere",
+        "de": "Denken / Glauben"
       },
       "image_url": "",
       "notes": {
         "es": "Aquí expresa una opinión o creencia («creo que...»), no pensar en silencio ni confiar en alguien.",
         "en": "«To think» suele introducir una opinión; «to believe» puede expresar una creencia o convicción más firme.",
         "pt": "«Achar» es muy frecuente en Brasil para opiniones: «Acho que sim» (creo que sí)."
+      },
+      "examples": {
+        "en": {
+          "text": "I think it's going to rain today.",
+          "es": "Creo que hoy va a llover."
+        },
+        "fr": {
+          "text": "Je pense qu'il va pleuvoir aujourd'hui.",
+          "es": "Creo que hoy va a llover."
+        },
+        "it": {
+          "text": "Penso che oggi pioverà.",
+          "es": "Creo que hoy va a llover."
+        },
+        "pt": {
+          "text": "Acho que hoje vai chover.",
+          "es": "Creo que hoy va a llover."
+        },
+        "de": {
+          "text": "Ich glaube, dass es heute regnet.",
+          "es": "Creo que hoy va a llover."
+        }
       }
     },
     {
@@ -1173,9 +3312,32 @@
         "en": "To learn",
         "pt": "Aprender",
         "fr": "Apprendre",
-        "it": "Imparare / Apprendere"
+        "it": "Imparare / Apprendere",
+        "de": "Lernen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I learn German at school.",
+          "es": "Aprendo alemán en la escuela."
+        },
+        "fr": {
+          "text": "J'apprends l'allemand à l'école.",
+          "es": "Aprendo alemán en la escuela."
+        },
+        "it": {
+          "text": "Imparo il tedesco a scuola.",
+          "es": "Aprendo alemán en la escuela."
+        },
+        "pt": {
+          "text": "Aprendo alemão na escola.",
+          "es": "Aprendo alemán en la escuela."
+        },
+        "de": {
+          "text": "Ich lerne in der Schule Deutsch.",
+          "es": "Aprendo alemán en la escuela."
+        }
+      }
     },
     {
       "id": "va92",
@@ -1184,12 +3346,36 @@
         "en": "To teach",
         "pt": "Ensinar",
         "fr": "Enseigner / Apprendre à quelqu'un",
-        "it": "Insegnare"
+        "it": "Insegnare",
+        "de": "Unterrichten / Jemandem etwas beibringen"
       },
       "image_url": "",
       "notes": {
         "es": "Ayudar a alguien a aprender; diferente de «enseñar» en el sentido de «mostrar».",
-        "fr": "«Apprendre à quelqu’un» también puede significar enseñar algo a alguien, mientras «apprendre» a secas suele significar aprender. «Enseigner» es la opción inequívoca."
+        "fr": "«Apprendre à quelqu'un» también puede significar enseñar algo a alguien, mientras «apprendre» a secas suele significar aprender. «Enseigner» es la opción inequívoca.",
+        "de": "«Unterrichten» es impartir clases; «jemandem etwas beibringen» es enseñarle algo a alguien."
+      },
+      "examples": {
+        "en": {
+          "text": "My sister teaches Spanish.",
+          "es": "Mi hermana enseña español."
+        },
+        "fr": {
+          "text": "Ma sœur enseigne l'espagnol.",
+          "es": "Mi hermana enseña español."
+        },
+        "it": {
+          "text": "Mia sorella insegna spagnolo.",
+          "es": "Mi hermana enseña español."
+        },
+        "pt": {
+          "text": "Minha irmã ensina espanhol.",
+          "es": "Mi hermana enseña español."
+        },
+        "de": {
+          "text": "Meine Schwester unterrichtet Spanisch.",
+          "es": "Mi hermana enseña español."
+        }
       }
     },
     {
@@ -1199,9 +3385,32 @@
         "en": "To eat",
         "pt": "Comer",
         "fr": "Manger",
-        "it": "Mangiare"
+        "it": "Mangiare",
+        "de": "Essen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I eat an apple after school.",
+          "es": "Como una manzana después de la escuela."
+        },
+        "fr": {
+          "text": "Je mange une pomme après l'école.",
+          "es": "Como una manzana después de la escuela."
+        },
+        "it": {
+          "text": "Mangio una mela dopo la scuola.",
+          "es": "Como una manzana después de la escuela."
+        },
+        "pt": {
+          "text": "Como uma maçã depois da escola.",
+          "es": "Como una manzana después de la escuela."
+        },
+        "de": {
+          "text": "Nach der Schule esse ich einen Apfel.",
+          "es": "Como una manzana después de la escuela."
+        }
+      }
     },
     {
       "id": "va94",
@@ -1210,11 +3419,34 @@
         "en": "To drink",
         "pt": "Beber / Tomar",
         "fr": "Boire",
-        "it": "Bere"
+        "it": "Bere",
+        "de": "Trinken"
       },
       "image_url": "",
       "notes": {
         "es": "Aquí «tomar» equivale a beber, no a agarrar o recoger algo."
+      },
+      "examples": {
+        "en": {
+          "text": "I drink water at breakfast.",
+          "es": "Tomo agua en el desayuno."
+        },
+        "fr": {
+          "text": "Je bois de l'eau au petit déjeuner.",
+          "es": "Tomo agua en el desayuno."
+        },
+        "it": {
+          "text": "Bevo acqua a colazione.",
+          "es": "Tomo agua en el desayuno."
+        },
+        "pt": {
+          "text": "Bebo água no café da manhã.",
+          "es": "Tomo agua en el desayuno."
+        },
+        "de": {
+          "text": "Zum Frühstück trinke ich Wasser.",
+          "es": "Tomo agua en el desayuno."
+        }
       }
     },
     {
@@ -1224,9 +3456,32 @@
         "en": "To sleep",
         "pt": "Dormir",
         "fr": "Dormir",
-        "it": "Dormire"
+        "it": "Dormire",
+        "de": "Schlafen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I sleep eight hours every night.",
+          "es": "Duermo ocho horas cada noche."
+        },
+        "fr": {
+          "text": "Je dors huit heures par nuit.",
+          "es": "Duermo ocho horas cada noche."
+        },
+        "it": {
+          "text": "Dormo otto ore ogni notte.",
+          "es": "Duermo ocho horas cada noche."
+        },
+        "pt": {
+          "text": "Durmo oito horas por noite.",
+          "es": "Duermo ocho horas cada noche."
+        },
+        "de": {
+          "text": "Ich schlafe jede Nacht acht Stunden.",
+          "es": "Duermo ocho horas cada noche."
+        }
+      }
     },
     {
       "id": "va96",
@@ -1235,9 +3490,32 @@
         "en": "To wake up",
         "pt": "Acordar / Despertar",
         "fr": "Se réveiller",
-        "it": "Svegliarsi"
+        "it": "Svegliarsi",
+        "de": "Aufwachen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I wake up at seven.",
+          "es": "Me despierto a las siete."
+        },
+        "fr": {
+          "text": "Je me réveille à sept heures.",
+          "es": "Me despierto a las siete."
+        },
+        "it": {
+          "text": "Mi sveglio alle sette.",
+          "es": "Me despierto a las siete."
+        },
+        "pt": {
+          "text": "Acordo às sete.",
+          "es": "Me despierto a las siete."
+        },
+        "de": {
+          "text": "Ich wache um sieben Uhr auf.",
+          "es": "Me despierto a las siete."
+        }
+      }
     },
     {
       "id": "va97",
@@ -1246,9 +3524,32 @@
         "en": "To wake someone up",
         "pt": "Acordar alguém / Despertar alguém",
         "fr": "Réveiller quelqu'un",
-        "it": "Svegliare qualcuno"
+        "it": "Svegliare qualcuno",
+        "de": "Jemanden wecken"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I wake my brother up at seven.",
+          "es": "Despierto a mi hermano a las siete."
+        },
+        "fr": {
+          "text": "Je réveille mon frère à sept heures.",
+          "es": "Despierto a mi hermano a las siete."
+        },
+        "it": {
+          "text": "Sveglio mio fratello alle sette.",
+          "es": "Despierto a mi hermano a las siete."
+        },
+        "pt": {
+          "text": "Acordo meu irmão às sete.",
+          "es": "Despierto a mi hermano a las siete."
+        },
+        "de": {
+          "text": "Ich wecke meinen Bruder um sieben Uhr.",
+          "es": "Despierto a mi hermano a las siete."
+        }
+      }
     },
     {
       "id": "va98",
@@ -1257,13 +3558,36 @@
         "en": "To feel",
         "pt": "Sentir",
         "fr": "Sentir / Ressentir",
-        "it": "Sentire / Provare"
+        "it": "Sentire / Provare",
+        "de": "Fühlen / Spüren"
       },
       "image_url": "",
       "notes": {
-        "es": "Aquí se refiere a emociones o sensaciones físicas; no al sentido italiano de «oír».",
+        "es": "(Emoción o sensación física, no percepción auditiva)",
         "fr": "«Ressentir» suele expresar emociones o sensaciones vividas; «sentir» también puede referirse a olores.",
         "it": "«Sentire» puede significar sentir, oír o percibir; «provare» es frecuente para experimentar una emoción."
+      },
+      "examples": {
+        "en": {
+          "text": "My hands feel cold.",
+          "es": "Siento frío en las manos."
+        },
+        "fr": {
+          "text": "Je sens le froid dans mes mains.",
+          "es": "Siento frío en las manos."
+        },
+        "it": {
+          "text": "Sento il freddo alle mani.",
+          "es": "Siento frío en las manos."
+        },
+        "pt": {
+          "text": "Sinto frio nas mãos.",
+          "es": "Siento frío en las manos."
+        },
+        "de": {
+          "text": "Ich spüre die Kälte in meinen Händen.",
+          "es": "Siento frío en las manos."
+        }
       }
     },
     {
@@ -1273,9 +3597,32 @@
         "en": "To take care of / To look after",
         "pt": "Cuidar de",
         "fr": "S'occuper de / Prendre soin de",
-        "it": "Prendersi cura di / Badare a"
+        "it": "Prendersi cura di / Badare a",
+        "de": "Sich um jemanden kümmern / Auf jemanden aufpassen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I look after my nephew on Saturdays.",
+          "es": "Cuido a mi sobrino los sábados."
+        },
+        "fr": {
+          "text": "Je m'occupe de mon neveu le samedi.",
+          "es": "Cuido a mi sobrino los sábados."
+        },
+        "it": {
+          "text": "Bado a mio nipote il sabato.",
+          "es": "Cuido a mi sobrino los sábados."
+        },
+        "pt": {
+          "text": "Cuido do meu sobrinho aos sábados.",
+          "es": "Cuido a mi sobrino los sábados."
+        },
+        "de": {
+          "text": "Samstags passe ich auf meinen Neffen auf.",
+          "es": "Cuido a mi sobrino los sábados."
+        }
+      }
     },
     {
       "id": "va100",
@@ -1284,9 +3631,35 @@
         "en": "To help",
         "pt": "Ajudar",
         "fr": "Aider",
-        "it": "Aiutare"
+        "it": "Aiutare",
+        "de": "Helfen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "La persona a la que ayudas va en dativo."
+      },
+      "examples": {
+        "en": {
+          "text": "I help my brother with his homework.",
+          "es": "Ayudo a mi hermano con la tarea."
+        },
+        "fr": {
+          "text": "J'aide mon frère à faire ses devoirs.",
+          "es": "Ayudo a mi hermano con la tarea."
+        },
+        "it": {
+          "text": "Aiuto mio fratello a fare i compiti.",
+          "es": "Ayudo a mi hermano con la tarea."
+        },
+        "pt": {
+          "text": "Ajudo meu irmão com a lição de casa.",
+          "es": "Ayudo a mi hermano con la tarea."
+        },
+        "de": {
+          "text": "Ich helfe meinem Bruder bei den Hausaufgaben.",
+          "es": "Ayudo a mi hermano con la tarea."
+        }
+      }
     },
     {
       "id": "va101",
@@ -1295,9 +3668,32 @@
         "en": "To protect",
         "pt": "Proteger",
         "fr": "Protéger",
-        "it": "Proteggere"
+        "it": "Proteggere",
+        "de": "Schützen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The hat protects me from the sun.",
+          "es": "El sombrero me protege del sol."
+        },
+        "fr": {
+          "text": "Le chapeau me protège du soleil.",
+          "es": "El sombrero me protege del sol."
+        },
+        "it": {
+          "text": "Il cappello mi protegge dal sole.",
+          "es": "El sombrero me protege del sol."
+        },
+        "pt": {
+          "text": "O chapéu me protege do sol.",
+          "es": "El sombrero me protege del sol."
+        },
+        "de": {
+          "text": "Der Hut schützt mich vor der Sonne.",
+          "es": "El sombrero me protege del sol."
+        }
+      }
     },
     {
       "id": "va102",
@@ -1306,9 +3702,32 @@
         "en": "To warn / To alert",
         "pt": "Avisar / Alertar",
         "fr": "Avertir / Prévenir",
-        "it": "Avvisare / Avvertire"
+        "it": "Avvisare / Avvertire",
+        "de": "Vor einer Gefahr warnen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Ana warns me about the danger.",
+          "es": "Ana me advierte del peligro."
+        },
+        "fr": {
+          "text": "Ana m'avertit du danger.",
+          "es": "Ana me advierte del peligro."
+        },
+        "it": {
+          "text": "Ana mi avverte del pericolo.",
+          "es": "Ana me advierte del peligro."
+        },
+        "pt": {
+          "text": "A Ana me alerta sobre o perigo.",
+          "es": "Ana me advierte del peligro."
+        },
+        "de": {
+          "text": "Ana warnt mich vor der Gefahr.",
+          "es": "Ana me advierte del peligro."
+        }
+      }
     },
     {
       "id": "va103",
@@ -1317,23 +3736,70 @@
         "en": "To shout / To yell",
         "pt": "Gritar",
         "fr": "Crier",
-        "it": "Gridare / Urlare"
+        "it": "Gridare / Urlare",
+        "de": "Schreien / Laut rufen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The boy shouted for help.",
+          "es": "El niño gritó para pedir ayuda."
+        },
+        "fr": {
+          "text": "Le garçon a crié au secours.",
+          "es": "El niño gritó para pedir ayuda."
+        },
+        "it": {
+          "text": "Il bambino ha gridato aiuto.",
+          "es": "El niño gritó para pedir ayuda."
+        },
+        "pt": {
+          "text": "O menino gritou por socorro.",
+          "es": "El niño gritó para pedir ayuda."
+        },
+        "de": {
+          "text": "Der Junge hat laut um Hilfe gerufen.",
+          "es": "El niño gritó para pedir ayuda."
+        }
+      }
     },
     {
       "id": "va104",
       "es": "Robar",
       "translations": {
         "en": "To steal",
-        "pt": "Roubar / Furtar",
+        "pt": "Roubar",
         "fr": "Voler",
-        "it": "Rubare"
+        "it": "Rubare",
+        "de": "Stehlen"
       },
       "image_url": "",
       "notes": {
         "en": "«To steal» suele llevar como objeto lo robado («steal a wallet»); «to rob» suele llevar como objeto a la persona o lugar («rob a bank»).",
-        "pt": "En portugués de Brasil, «roubar» es la palabra corriente; «furtar» suele ser más técnica o jurídica y alude a sustraer sin violencia o amenaza."
+        "pt": "En portugués de Brasil, «roubar» es la palabra corriente; «furtar» suele ser más técnica o jurídica y alude a sustraer sin violencia o amenaza.",
+        "de": "«Stehlen» lleva como objeto lo que se roba. Para asaltar a una persona o un lugar se usa «überfallen»."
+      },
+      "examples": {
+        "en": {
+          "text": "Someone stole my bike.",
+          "es": "Alguien robó mi bicicleta."
+        },
+        "fr": {
+          "text": "Quelqu'un a volé mon vélo.",
+          "es": "Alguien robó mi bicicleta."
+        },
+        "it": {
+          "text": "Qualcuno ha rubato la mia bici.",
+          "es": "Alguien robó mi bicicleta."
+        },
+        "pt": {
+          "text": "Alguém roubou minha bicicleta.",
+          "es": "Alguien robó mi bicicleta."
+        },
+        "de": {
+          "text": "Jemand hat mein Fahrrad gestohlen.",
+          "es": "Alguien robó mi bicicleta."
+        }
       }
     },
     {
@@ -1343,7 +3809,8 @@
         "en": "I want to leave.",
         "pt": "Quero ir embora.",
         "fr": "Je veux partir.",
-        "it": "Voglio andarmene."
+        "it": "Voglio andarmene.",
+        "de": "Ich will gehen."
       },
       "image_url": ""
     },
@@ -1354,7 +3821,8 @@
         "en": "I don't want to buy anything.",
         "pt": "Não quero comprar nada.",
         "fr": "Je ne veux rien acheter.",
-        "it": "Non voglio comprare niente."
+        "it": "Non voglio comprare niente.",
+        "de": "Ich will nichts kaufen."
       },
       "image_url": ""
     },
@@ -1365,7 +3833,8 @@
         "en": "I'd like to speak to the person in charge.",
         "pt": "Gostaria de falar com a pessoa responsável.",
         "fr": "Je voudrais parler à la personne responsable.",
-        "it": "Vorrei parlare con il responsabile. / Vorrei parlare con la responsabile."
+        "it": "Vorrei parlare con il responsabile. / Vorrei parlare con la responsabile.",
+        "de": "Ich würde gern mit der zuständigen Person sprechen."
       },
       "image_url": ""
     },
@@ -1376,7 +3845,8 @@
         "en": "I want to make a phone call.",
         "pt": "Quero fazer uma ligação.",
         "fr": "Je veux passer un appel.",
-        "it": "Voglio fare una telefonata."
+        "it": "Voglio fare una telefonata.",
+        "de": "Ich möchte telefonieren."
       },
       "image_url": ""
     },
@@ -1387,7 +3857,8 @@
         "en": "I want to change seats.",
         "pt": "Quero trocar de assento.",
         "fr": "Je veux changer de place.",
-        "it": "Voglio cambiare posto."
+        "it": "Voglio cambiare posto.",
+        "de": "Ich möchte den Sitzplatz wechseln."
       },
       "image_url": ""
     },
@@ -1398,7 +3869,8 @@
         "en": "I need to charge my phone.",
         "pt": "Preciso carregar meu celular.",
         "fr": "Je dois recharger mon téléphone.",
-        "it": "Ho bisogno di caricare il cellulare."
+        "it": "Ho bisogno di caricare il cellulare.",
+        "de": "Ich muss mein Handy aufladen."
       },
       "image_url": ""
     },
@@ -1409,7 +3881,8 @@
         "en": "I need to use the bathroom.",
         "pt": "Preciso usar o banheiro.",
         "fr": "J'ai besoin d'aller aux toilettes.",
-        "it": "Ho bisogno di andare in bagno."
+        "it": "Ho bisogno di andare in bagno.",
+        "de": "Ich muss auf die Toilette."
       },
       "image_url": ""
     },
@@ -1420,7 +3893,8 @@
         "en": "I need to sit down for a moment.",
         "pt": "Preciso me sentar um momento.",
         "fr": "J'ai besoin de m'asseoir un instant.",
-        "it": "Ho bisogno di sedermi un momento."
+        "it": "Ho bisogno di sedermi un momento.",
+        "de": "Ich muss mich kurz hinsetzen."
       },
       "image_url": ""
     },
@@ -1431,7 +3905,8 @@
         "en": "We need to leave now.",
         "pt": "Precisamos sair agora.",
         "fr": "Nous devons partir maintenant.",
-        "it": "Dobbiamo andare via adesso."
+        "it": "Dobbiamo andare via adesso.",
+        "de": "Wir müssen jetzt raus."
       },
       "image_url": ""
     },
@@ -1442,7 +3917,8 @@
         "en": "I need more time.",
         "pt": "Preciso de mais tempo.",
         "fr": "J'ai besoin de plus de temps.",
-        "it": "Ho bisogno di più tempo."
+        "it": "Ho bisogno di più tempo.",
+        "de": "Ich brauche mehr Zeit."
       },
       "image_url": ""
     },
@@ -1453,7 +3929,8 @@
         "en": "I don't need a bag.",
         "pt": "Não preciso de uma sacola.",
         "fr": "Je n'ai pas besoin de sac.",
-        "it": "Non ho bisogno di un sacchetto."
+        "it": "Non ho bisogno di un sacchetto.",
+        "de": "Ich brauche keine Tüte."
       },
       "image_url": ""
     },
@@ -1464,7 +3941,8 @@
         "en": "I have a problem.",
         "pt": "Tenho um problema.",
         "fr": "J'ai un problème.",
-        "it": "Ho un problema."
+        "it": "Ho un problema.",
+        "de": "Ich habe ein Problem."
       },
       "image_url": ""
     },
@@ -1475,7 +3953,8 @@
         "en": "I don't have any money with me.",
         "pt": "Não tenho dinheiro comigo.",
         "fr": "Je n'ai pas d'argent sur moi.",
-        "it": "Non ho soldi con me."
+        "it": "Non ho soldi con me.",
+        "de": "Ich habe kein Geld dabei."
       },
       "image_url": ""
     },
@@ -1486,7 +3965,8 @@
         "en": "I have to arrive before six.",
         "pt": "Tenho que chegar antes das seis.",
         "fr": "Je dois arriver avant six heures.",
-        "it": "Devo arrivare prima delle sei."
+        "it": "Devo arrivare prima delle sei.",
+        "de": "Ich muss vor sechs Uhr ankommen."
       },
       "image_url": ""
     },
@@ -1497,7 +3977,8 @@
         "en": "What do I have to do?",
         "pt": "O que tenho que fazer?",
         "fr": "Qu'est-ce que je dois faire ?",
-        "it": "Che cosa devo fare?"
+        "it": "Che cosa devo fare?",
+        "de": "Was muss ich tun?"
       },
       "image_url": ""
     },
@@ -1508,14 +3989,16 @@
         "en": "I don't have to go today. / I don't need to go today.",
         "pt": "Não preciso ir hoje.",
         "fr": "Je ne suis pas obligé d'y aller aujourd'hui. / Je ne suis pas obligée d'y aller aujourd'hui.",
-        "it": "Non sono obbligato ad andare oggi. / Non sono obbligata ad andare oggi."
+        "it": "Non sono obbligato ad andare oggi. / Non sono obbligata ad andare oggi.",
+        "de": "Ich muss heute nicht gehen."
       },
       "image_url": "",
       "notes": {
-        "es": "Significa que no es necesario ir; NO expresa prohibición.",
-        "en": "«Don’t have to» = no es necesario. «Must not» = está prohibido.",
+        "es": "Significa que no es necesario ir; no expresa prohibición.",
+        "en": "«Don't have to» = no es necesario. «Must not» = está prohibido.",
         "fr": "«Ne pas être obligé de» = no estar obligado; «ne pas devoir» puede resultar ambiguo según el contexto.",
-        "it": "«Non essere obbligato a» indica ausencia de obligación, no prohibición."
+        "it": "«Non essere obbligato a» indica ausencia de obligación, no prohibición.",
+        "de": "«Nicht müssen» indica que no es necesario; «nicht dürfen» indica que no está permitido."
       }
     },
     {
@@ -1524,8 +4007,9 @@
       "translations": {
         "en": "Can I use your phone?",
         "pt": "Posso usar seu telefone?",
-        "fr": "Puis-je utiliser votre téléphone ?",
-        "it": "Posso usare il suo telefono?"
+        "fr": "Est-ce que je peux utiliser votre téléphone ?",
+        "it": "Posso usare il suo telefono?",
+        "de": "Darf ich Ihr Telefon benutzen?"
       },
       "image_url": ""
     },
@@ -1536,27 +4020,30 @@
         "en": "You can't enter. / Entry is not allowed.",
         "pt": "Não é permitido entrar.",
         "fr": "Il est interdit d'entrer.",
-        "it": "Non è permesso entrare. / È vietato entrare."
+        "it": "Non è permesso entrare. / È vietato entrare.",
+        "de": "Hier darf man nicht rein. / Der Zutritt ist nicht erlaubt."
       },
       "image_url": "",
       "notes": {
         "es": "Aquí «no se puede» indica prohibición, no incapacidad física.",
-        "en": "«You can’t enter» puede sonar a prohibición o imposibilidad; «Entry is not allowed» deja explícita la prohibición."
+        "en": "«You can't enter» puede sonar a prohibición o imposibilidad; «Entry is not allowed» deja explícita la prohibición."
       }
     },
     {
       "id": "va123",
       "es": "No puedo abrir esta puerta.",
       "translations": {
-        "en": "I can't open this door.",
+        "en": "I can't get this door open.",
         "pt": "Não consigo abrir esta porta.",
         "fr": "Je n'arrive pas à ouvrir cette porte.",
-        "it": "Non riesco ad aprire questa porta."
+        "it": "Non riesco ad aprire questa porta.",
+        "de": "Ich kann diese Tür nicht öffnen."
       },
       "image_url": "",
       "notes": {
         "es": "No lo consigo (por ejemplo, está atascada); no significa «no tengo permiso».",
-        "en": "«I can’t open...» puede indicar incapacidad o falta de permiso; aquí es incapacidad."
+        "en": "«I can't get this door open» indica que no logro abrirla, no que me falte permiso.",
+        "de": "Aquí «nicht können» comunica que no se logra abrir la puerta; «nicht dürfen» expresaría que no se tiene permiso."
       }
     },
     {
@@ -1566,7 +4053,8 @@
         "en": "They won't let me in.",
         "pt": "Não me deixam entrar.",
         "fr": "On ne me laisse pas entrer.",
-        "it": "Non mi lasciano entrare."
+        "it": "Non mi lasciano entrare.",
+        "de": "Man lässt mich nicht rein."
       },
       "image_url": ""
     },
@@ -1577,7 +4065,8 @@
         "en": "I know how to use this device.",
         "pt": "Sei usar este aparelho.",
         "fr": "Je sais utiliser cet appareil.",
-        "it": "So usare questo apparecchio."
+        "it": "So usare questo apparecchio.",
+        "de": "Ich weiß, wie man dieses Gerät benutzt."
       },
       "image_url": ""
     },
@@ -1588,7 +4077,8 @@
         "en": "I don't know how to do it.",
         "pt": "Não sei como fazer isso.",
         "fr": "Je ne sais pas comment faire.",
-        "it": "Non so come farlo."
+        "it": "Non so come farlo.",
+        "de": "Ich weiß nicht, wie das geht."
       },
       "image_url": ""
     },
@@ -1599,7 +4089,8 @@
         "en": "I don't know that person.",
         "pt": "Não conheço essa pessoa.",
         "fr": "Je ne connais pas cette personne.",
-        "it": "Non conosco quella persona."
+        "it": "Non conosco quella persona.",
+        "de": "Ich kenne diese Person nicht."
       },
       "image_url": ""
     },
@@ -1610,7 +4101,8 @@
         "en": "Do you know where the exit is?",
         "pt": "Você sabe onde fica a saída?",
         "fr": "Tu sais où est la sortie ? / Vous savez où est la sortie ?",
-        "it": "Sai dov'è l'uscita? / Sa dov'è l'uscita?"
+        "it": "Sai dov'è l'uscita? / Sa dov'è l'uscita?",
+        "de": "Weißt du, wo der Ausgang ist? / Wissen Sie, wo der Ausgang ist?"
       },
       "image_url": ""
     },
@@ -1619,22 +4111,30 @@
       "es": "Hay alguien afuera.",
       "translations": {
         "en": "There's someone outside.",
-        "pt": "Tem alguém lá fora.",
+        "pt": "Há alguém lá fora.",
         "fr": "Il y a quelqu'un dehors.",
-        "it": "C'è qualcuno fuori."
+        "it": "C'è qualcuno fuori.",
+        "de": "Draußen ist jemand."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Coloquial: «Tem alguém lá fora» es habitual en el portugués brasileño hablado."
+      }
     },
     {
       "id": "va130",
       "es": "No hay nadie aquí.",
       "translations": {
         "en": "There's nobody here.",
-        "pt": "Não tem ninguém aqui.",
+        "pt": "Não há ninguém aqui.",
         "fr": "Il n'y a personne ici.",
-        "it": "Non c'è nessuno qui."
+        "it": "Non c'è nessuno qui.",
+        "de": "Hier ist niemand."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Coloquial: «Não tem ninguém aqui» es habitual en el portugués brasileño hablado."
+      }
     },
     {
       "id": "va131",
@@ -1643,7 +4143,8 @@
         "en": "I'm the person who made the reservation.",
         "pt": "Sou a pessoa que fez a reserva.",
         "fr": "Je suis la personne qui a fait la réservation.",
-        "it": "Sono la persona che ha fatto la prenotazione."
+        "it": "Sono la persona che ha fatto la prenotazione.",
+        "de": "Ich bin die Person, die reserviert hat."
       },
       "image_url": ""
     },
@@ -1654,18 +4155,20 @@
         "en": "We're near the entrance.",
         "pt": "Estamos perto da entrada.",
         "fr": "Nous sommes près de l'entrée.",
-        "it": "Siamo vicino all'ingresso."
+        "it": "Siamo vicino all'ingresso.",
+        "de": "Wir sind in der Nähe des Eingangs."
       },
       "image_url": ""
     },
     {
       "id": "va133",
-      "es": "Estoy listo/a.",
+      "es": "Estoy listo. / Estoy lista.",
       "translations": {
         "en": "I'm ready.",
         "pt": "Estou pronto. / Estou pronta.",
         "fr": "Je suis prêt. / Je suis prête.",
-        "it": "Sono pronto. / Sono pronta."
+        "it": "Sono pronto. / Sono pronta.",
+        "de": "Ich bin bereit."
       },
       "image_url": ""
     },
@@ -1676,7 +4179,8 @@
         "en": "It doesn't work. / It's not working.",
         "pt": "Não funciona. / Não está funcionando.",
         "fr": "Ça ne fonctionne pas. / Ça ne marche pas.",
-        "it": "Non funziona."
+        "it": "Non funziona.",
+        "de": "Es funktioniert nicht."
       },
       "image_url": "",
       "notes": {
@@ -1690,7 +4194,8 @@
         "en": "I think this is mine.",
         "pt": "Acho que isto é meu.",
         "fr": "Je crois que c'est à moi.",
-        "it": "Credo che questo sia mio."
+        "it": "Credo che questo sia mio.",
+        "de": "Ich glaube, das gehört mir."
       },
       "image_url": ""
     },
@@ -1701,7 +4206,8 @@
         "en": "I'm going to try again.",
         "pt": "Vou tentar de novo.",
         "fr": "Je vais essayer encore une fois.",
-        "it": "Ci riprovo."
+        "it": "Ci riprovo.",
+        "de": "Ich versuche es noch einmal."
       },
       "image_url": ""
     },
@@ -1712,7 +4218,8 @@
         "en": "What happened?",
         "pt": "O que aconteceu?",
         "fr": "Qu'est-ce qui s'est passé ?",
-        "it": "Che cosa è successo?"
+        "it": "Che cosa è successo?",
+        "de": "Was ist passiert?"
       },
       "image_url": ""
     },
@@ -1723,7 +4230,8 @@
         "en": "I don't remember where I left it.",
         "pt": "Não lembro onde deixei.",
         "fr": "Je ne me souviens pas où je l'ai laissé.",
-        "it": "Non ricordo dove l'ho lasciato."
+        "it": "Non ricordo dove l'ho lasciato.",
+        "de": "Ich weiß nicht mehr, wo ich es gelassen habe."
       },
       "image_url": ""
     },
@@ -1734,7 +4242,8 @@
         "en": "Can you show me how to use it?",
         "pt": "Pode me mostrar como se usa?",
         "fr": "Pouvez-vous me montrer comment l'utiliser ?",
-        "it": "Può mostrarmi come si usa?"
+        "it": "Può mostrarmi come si usa?",
+        "de": "Können Sie mir zeigen, wie man das benutzt?"
       },
       "image_url": ""
     },
@@ -1745,7 +4254,8 @@
         "en": "Can you lend me a phone?",
         "pt": "Pode me emprestar um telefone?",
         "fr": "Pouvez-vous me prêter un téléphone ?",
-        "it": "Può prestarmi un telefono?"
+        "it": "Può prestarmi un telefono?",
+        "de": "Können Sie mir ein Telefon leihen?"
       },
       "image_url": ""
     },
@@ -1756,7 +4266,8 @@
         "en": "Did you find it?",
         "pt": "Você encontrou?",
         "fr": "Tu l'as trouvé ? / Vous l'avez trouvé ?",
-        "it": "L'hai trovato? / L'ha trovato?"
+        "it": "L'hai trovato? / L'ha trovato?",
+        "de": "Hast du es gefunden? / Haben Sie es gefunden?"
       },
       "image_url": ""
     },
@@ -1767,7 +4278,8 @@
         "en": "Yes, here it is.",
         "pt": "Sim, está aqui.",
         "fr": "Oui, le voilà.",
-        "it": "Sì, eccolo qui."
+        "it": "Sì, eccolo qui.",
+        "de": "Ja, hier ist es."
       },
       "image_url": ""
     },
@@ -1778,7 +4290,8 @@
         "en": "Come here!",
         "pt": "Venha aqui!",
         "fr": "Viens ici ! / Venez ici !",
-        "it": "Vieni qui! / Venga qui!"
+        "it": "Vieni qui! / Venga qui!",
+        "de": "Komm her! / Kommen Sie her!"
       },
       "image_url": ""
     },
@@ -1789,9 +4302,13 @@
         "en": "Stop!",
         "pt": "Pare!",
         "fr": "Arrête-toi ! / Arrêtez-vous !",
-        "it": "Fermati! / Si fermi!"
+        "it": "Fermati! / Si fermi!",
+        "de": "Stopp!"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Stopp!» sirve tanto con trato informal como formal; en una orden menos brusca se puede decir «Bleib stehen!» o «Bleiben Sie stehen!»."
+      }
     },
     {
       "id": "va145",
@@ -1800,7 +4317,8 @@
         "en": "Don't move.",
         "pt": "Não se mexa.",
         "fr": "Ne bouge pas. / Ne bougez pas.",
-        "it": "Non muoverti. / Non si muova."
+        "it": "Non muoverti. / Non si muova.",
+        "de": "Beweg dich nicht. / Bewegen Sie sich nicht."
       },
       "image_url": ""
     },
@@ -1809,9 +4327,10 @@
       "es": "Espérame aquí. / Espéreme aquí.",
       "translations": {
         "en": "Wait for me here.",
-        "pt": "Espere por mim aqui.",
+        "pt": "Espere aqui por mim.",
         "fr": "Attends-moi ici. / Attendez-moi ici.",
-        "it": "Aspettami qui. / Mi aspetti qui."
+        "it": "Aspettami qui. / Mi aspetti qui.",
+        "de": "Warte hier auf mich. / Warten Sie hier auf mich."
       },
       "image_url": ""
     },
@@ -1822,7 +4341,8 @@
         "en": "Follow me.",
         "pt": "Siga-me.",
         "fr": "Suis-moi. / Suivez-moi.",
-        "it": "Seguimi. / Mi segua."
+        "it": "Seguimi. / Mi segua.",
+        "de": "Folge mir. / Folgen Sie mir."
       },
       "image_url": ""
     },
@@ -1833,7 +4353,8 @@
         "en": "Open the door.",
         "pt": "Abra a porta.",
         "fr": "Ouvre la porte. / Ouvrez la porte.",
-        "it": "Apri la porta. / Apra la porta."
+        "it": "Apri la porta. / Apra la porta.",
+        "de": "Mach die Tür auf. / Machen Sie die Tür auf."
       },
       "image_url": ""
     },
@@ -1844,7 +4365,8 @@
         "en": "Lock the door.",
         "pt": "Tranque a porta.",
         "fr": "Ferme la porte à clé. / Fermez la porte à clé.",
-        "it": "Chiudi la porta a chiave. / Chiuda la porta a chiave."
+        "it": "Chiudi la porta a chiave. / Chiuda la porta a chiave.",
+        "de": "Schließ die Tür ab. / Schließen Sie die Tür ab."
       },
       "image_url": ""
     },
@@ -1855,18 +4377,20 @@
         "en": "Push.",
         "pt": "Empurre.",
         "fr": "Pousse. / Poussez.",
-        "it": "Spingi. / Spinga."
+        "it": "Spingi. / Spinga.",
+        "de": "Drück. / Drücken Sie."
       },
       "image_url": ""
     },
     {
       "id": "va151",
-      "es": "Jala. / Tire hacia usted.",
+      "es": "Jala. / Jale.",
       "translations": {
         "en": "Pull.",
         "pt": "Puxe.",
         "fr": "Tire. / Tirez.",
-        "it": "Tira. / Tiri."
+        "it": "Tira. / Tiri.",
+        "de": "Zieh. / Ziehen Sie."
       },
       "image_url": ""
     },
@@ -1875,9 +4399,10 @@
       "es": "Mira esto. / Mire esto.",
       "translations": {
         "en": "Look at this.",
-        "pt": "Olhe isto.",
+        "pt": "Olhe isso.",
         "fr": "Regarde ça. / Regardez ça.",
-        "it": "Guarda questo. / Guardi questo."
+        "it": "Guarda questo. / Guardi questo.",
+        "de": "Schau dir das an. / Schauen Sie sich das an."
       },
       "image_url": ""
     },
@@ -1888,7 +4413,8 @@
         "en": "Show me the message.",
         "pt": "Mostre-me a mensagem.",
         "fr": "Montre-moi le message. / Montrez-moi le message.",
-        "it": "Mostrami il messaggio. / Mi mostri il messaggio."
+        "it": "Mostrami il messaggio. / Mi mostri il messaggio.",
+        "de": "Zeig mir die Nachricht. / Zeigen Sie mir die Nachricht."
       },
       "image_url": ""
     },
@@ -1899,7 +4425,8 @@
         "en": "Tell me what happened.",
         "pt": "Me diga o que aconteceu.",
         "fr": "Dis-moi ce qui s'est passé. / Dites-moi ce qui s'est passé.",
-        "it": "Dimmi che cosa è successo. / Mi dica che cosa è successo."
+        "it": "Dimmi che cosa è successo. / Mi dica che cosa è successo.",
+        "de": "Sag mir, was passiert ist. / Sagen Sie mir, was passiert ist."
       },
       "image_url": ""
     },
@@ -1910,7 +4437,8 @@
         "en": "Let's go out this way.",
         "pt": "Vamos sair por aqui.",
         "fr": "Sortons par ici.",
-        "it": "Usciamo da questa parte."
+        "it": "Usciamo da questa parte.",
+        "de": "Gehen wir hier raus."
       },
       "image_url": ""
     },
@@ -1921,7 +4449,8 @@
         "en": "We have to wait outside.",
         "pt": "Temos que esperar lá fora.",
         "fr": "Il faut attendre dehors.",
-        "it": "Bisogna aspettare fuori."
+        "it": "Bisogna aspettare fuori.",
+        "de": "Wir müssen draußen warten."
       },
       "image_url": ""
     },
@@ -1932,11 +4461,13 @@
         "en": "Should I wait here? / Do I have to wait here?",
         "pt": "Devo esperar aqui?",
         "fr": "Je dois attendre ici ?",
-        "it": "Devo aspettare qui?"
+        "it": "Devo aspettare qui?",
+        "de": "Soll ich hier warten? / Muss ich hier warten?"
       },
       "image_url": "",
       "notes": {
-        "en": "«Should I…?» pide consejo o confirmación; «Do I have to…?» pregunta si existe obligación."
+        "en": "«Should I…?» pide consejo o confirmación; «Do I have to…?» pregunta si existe obligación.",
+        "de": "«Soll ich …?» pide una indicación; «Muss ich …?» pregunta si es obligatorio."
       }
     },
     {
@@ -1946,7 +4477,8 @@
         "en": "What do we do now?",
         "pt": "O que fazemos agora?",
         "fr": "Qu'est-ce qu'on fait maintenant ?",
-        "it": "Che cosa facciamo adesso?"
+        "it": "Che cosa facciamo adesso?",
+        "de": "Was machen wir jetzt?"
       },
       "image_url": ""
     },
@@ -1957,7 +4489,8 @@
         "en": "Can you come with me?",
         "pt": "Pode vir comigo?",
         "fr": "Tu peux venir avec moi ? / Pouvez-vous venir avec moi ?",
-        "it": "Puoi venire con me? / Può venire con me?"
+        "it": "Puoi venire con me? / Può venire con me?",
+        "de": "Kannst du mit mir kommen? / Können Sie mit mir kommen?"
       },
       "image_url": ""
     },
@@ -1968,7 +4501,8 @@
         "en": "Wait, I haven't finished yet.",
         "pt": "Espere, ainda não terminei.",
         "fr": "Attendez, je n'ai pas encore terminé.",
-        "it": "Aspetti, non ho ancora finito."
+        "it": "Aspetti, non ho ancora finito.",
+        "de": "Warten Sie, ich bin noch nicht fertig."
       },
       "image_url": ""
     },
@@ -1979,7 +4513,8 @@
         "en": "You can leave it here.",
         "pt": "Pode deixar aqui.",
         "fr": "Vous pouvez le laisser ici.",
-        "it": "Può lasciarlo qui."
+        "it": "Può lasciarlo qui.",
+        "de": "Sie können es hier lassen."
       },
       "image_url": ""
     },
@@ -1990,7 +4525,8 @@
         "en": "We need to turn off this device.",
         "pt": "Precisamos desligar este aparelho.",
         "fr": "Il faut éteindre cet appareil.",
-        "it": "Bisogna spegnere questo apparecchio."
+        "it": "Bisogna spegnere questo apparecchio.",
+        "de": "Wir müssen dieses Gerät ausschalten."
       },
       "image_url": ""
     },
@@ -2001,7 +4537,8 @@
         "en": "Don't touch that cable.",
         "pt": "Não toque nesse cabo.",
         "fr": "Ne touchez pas ce câble.",
-        "it": "Non tocchi quel cavo."
+        "it": "Non tocchi quel cavo.",
+        "de": "Fassen Sie dieses Kabel nicht an."
       },
       "image_url": ""
     },
@@ -2012,7 +4549,8 @@
         "en": "Help!",
         "pt": "Socorro!",
         "fr": "Au secours !",
-        "it": "Aiuto!"
+        "it": "Aiuto!",
+        "de": "Hilfe!"
       },
       "image_url": ""
     },
@@ -2023,7 +4561,8 @@
         "en": "I need urgent help.",
         "pt": "Preciso de ajuda urgente.",
         "fr": "J'ai besoin d'aide de toute urgence.",
-        "it": "Ho bisogno di aiuto urgente."
+        "it": "Ho bisogno di aiuto urgente.",
+        "de": "Ich brauche dringend Hilfe."
       },
       "image_url": ""
     },
@@ -2033,8 +4572,9 @@
       "translations": {
         "en": "Watch out! / Look out!",
         "pt": "Cuidado! / Atenção!",
-        "fr": "Attention ! / Fais attention !",
-        "it": "Attenzione! / Attento! / Attenta!"
+        "fr": "Attention !",
+        "it": "Attenzione!",
+        "de": "Vorsicht! / Achtung!"
       },
       "image_url": "",
       "notes": {
@@ -2048,7 +4588,8 @@
         "en": "I'm in danger.",
         "pt": "Estou em perigo.",
         "fr": "Je suis en danger.",
-        "it": "Sono in pericolo."
+        "it": "Sono in pericolo.",
+        "de": "Ich bin in Gefahr."
       },
       "image_url": ""
     },
@@ -2059,7 +4600,8 @@
         "en": "We're not safe here.",
         "pt": "Não estamos seguros aqui.",
         "fr": "Nous ne sommes pas en sécurité ici.",
-        "it": "Non siamo al sicuro qui."
+        "it": "Non siamo al sicuro qui.",
+        "de": "Hier sind wir nicht sicher."
       },
       "image_url": ""
     },
@@ -2070,7 +4612,8 @@
         "en": "Call the police, please.",
         "pt": "Chame a polícia, por favor.",
         "fr": "Appelez la police, s'il vous plaît.",
-        "it": "Chiami la polizia, per favore."
+        "it": "Chiami la polizia, per favore.",
+        "de": "Rufen Sie bitte die Polizei."
       },
       "image_url": ""
     },
@@ -2081,7 +4624,20 @@
         "en": "Call the fire department.",
         "pt": "Chame os bombeiros.",
         "fr": "Appelez les pompiers.",
-        "it": "Chiami i vigili del fuoco."
+        "it": "Chiami i vigili del fuoco.",
+        "de": "Rufen Sie die Feuerwehr."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "va204",
+      "es": "Llame a una ambulancia, por favor.",
+      "translations": {
+        "en": "Call an ambulance, please.",
+        "pt": "Chame uma ambulância, por favor.",
+        "fr": "Appelez une ambulance, s'il vous plaît.",
+        "it": "Chiami un'ambulanza, per favore.",
+        "de": "Rufen Sie bitte einen Krankenwagen."
       },
       "image_url": ""
     },
@@ -2092,9 +4648,13 @@
         "en": "There's a fire! / Fire!",
         "pt": "Há um incêndio! / Fogo!",
         "fr": "Il y a un incendie ! / Au feu !",
-        "it": "C'è un incendio! / Al fuoco!"
+        "it": "C'è un incendio! / Al fuoco!",
+        "de": "Es brennt! / Feuer!"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Es brennt!» y «Feuer!» son formas corrientes de alertar de un incendio."
+      }
     },
     {
       "id": "va172",
@@ -2103,7 +4663,8 @@
         "en": "Call the local emergency number.",
         "pt": "Ligue para o número local de emergência.",
         "fr": "Appelez le numéro d'urgence local.",
-        "it": "Chiami il numero locale di emergenza."
+        "it": "Chiami il numero locale di emergenza.",
+        "de": "Rufen Sie die örtliche Notrufnummer an."
       },
       "image_url": ""
     },
@@ -2114,7 +4675,8 @@
         "en": "What's the emergency number here?",
         "pt": "Qual é o número de emergência aqui?",
         "fr": "Quel est le numéro d'urgence ici ?",
-        "it": "Qual è il numero di emergenza qui?"
+        "it": "Qual è il numero di emergenza qui?",
+        "de": "Wie lautet hier die Notrufnummer?"
       },
       "image_url": ""
     },
@@ -2125,7 +4687,8 @@
         "en": "Someone is trapped inside.",
         "pt": "Há alguém preso lá dentro.",
         "fr": "Quelqu'un est coincé à l'intérieur.",
-        "it": "C'è qualcuno intrappolato dentro."
+        "it": "C'è qualcuno intrappolato dentro.",
+        "de": "Drinnen ist jemand eingeschlossen."
       },
       "image_url": ""
     },
@@ -2136,7 +4699,8 @@
         "en": "I can't get out.",
         "pt": "Não consigo sair.",
         "fr": "Je n'arrive pas à sortir.",
-        "it": "Non riesco a uscire."
+        "it": "Non riesco a uscire.",
+        "de": "Ich komme nicht raus."
       },
       "image_url": ""
     },
@@ -2147,7 +4711,8 @@
         "en": "The exit is blocked.",
         "pt": "A saída está bloqueada.",
         "fr": "La sortie est bloquée.",
-        "it": "L'uscita è bloccata."
+        "it": "L'uscita è bloccata.",
+        "de": "Der Ausgang ist versperrt."
       },
       "image_url": ""
     },
@@ -2155,10 +4720,11 @@
       "id": "va177",
       "es": "Hay alguien en peligro en el agua.",
       "translations": {
-        "en": "Someone is in trouble in the water.",
+        "en": "Someone is in danger in the water.",
         "pt": "Há alguém em perigo na água.",
-        "fr": "Quelqu'un est en difficulté dans l'eau.",
-        "it": "C'è qualcuno in pericolo in acqua."
+        "fr": "Quelqu'un est en danger dans l'eau.",
+        "it": "C'è qualcuno in pericolo in acqua.",
+        "de": "Jemand im Wasser ist in Gefahr."
       },
       "image_url": ""
     },
@@ -2169,7 +4735,8 @@
         "en": "Don't touch me!",
         "pt": "Não me toque!",
         "fr": "Ne me touche pas ! / Ne me touchez pas !",
-        "it": "Non mi toccare! / Non mi tocchi!"
+        "it": "Non mi toccare! / Non mi tocchi!",
+        "de": "Fass mich nicht an! / Fassen Sie mich nicht an!"
       },
       "image_url": ""
     },
@@ -2180,7 +4747,8 @@
         "en": "Leave me alone!",
         "pt": "Me deixe em paz!",
         "fr": "Laisse-moi tranquille ! / Laissez-moi tranquille !",
-        "it": "Lasciami in pace! / Mi lasci in pace!"
+        "it": "Lasciami in pace! / Mi lasci in pace!",
+        "de": "Lass mich in Ruhe! / Lassen Sie mich in Ruhe!"
       },
       "image_url": ""
     },
@@ -2191,7 +4759,8 @@
         "en": "Get away from me!",
         "pt": "Afaste-se de mim!",
         "fr": "Éloigne-toi de moi ! / Éloignez-vous de moi !",
-        "it": "Allontanati da me! / Si allontani da me!"
+        "it": "Allontanati da me! / Si allontani da me!",
+        "de": "Geh weg von mir! / Gehen Sie weg von mir!"
       },
       "image_url": ""
     },
@@ -2202,7 +4771,8 @@
         "en": "Someone is following me.",
         "pt": "Alguém está me seguindo.",
         "fr": "Quelqu'un me suit.",
-        "it": "Qualcuno mi sta seguendo."
+        "it": "Qualcuno mi sta seguendo.",
+        "de": "Jemand verfolgt mich."
       },
       "image_url": ""
     },
@@ -2213,34 +4783,38 @@
         "en": "My wallet was stolen.",
         "pt": "Roubaram minha carteira.",
         "fr": "On m'a volé mon portefeuille.",
-        "it": "Mi hanno rubato il portafoglio."
+        "it": "Mi hanno rubato il portafoglio.",
+        "de": "Meine Geldbörse wurde gestohlen."
       },
       "image_url": ""
     },
     {
       "id": "va183",
-      "es": "He perdido mi pasaporte.",
+      "es": "Perdí mi pasaporte.",
       "translations": {
-        "en": "I've lost my passport.",
+        "en": "I lost my passport.",
         "pt": "Perdi meu passaporte.",
         "fr": "J'ai perdu mon passeport.",
-        "it": "Ho perso il passaporto."
+        "it": "Ho perso il passaporto.",
+        "de": "Ich habe meinen Reisepass verloren."
       },
       "image_url": ""
     },
     {
       "id": "va184",
-      "es": "Mi hijo/a está desaparecido/a.",
+      "es": "Mi hijo está desaparecido. / Mi hija está desaparecida.",
       "translations": {
         "en": "My child is missing.",
         "pt": "Meu filho está desaparecido. / Minha filha está desaparecida.",
         "fr": "Mon enfant a disparu.",
-        "it": "Mio figlio è scomparso. / Mia figlia è scomparsa."
+        "it": "Mio figlio è scomparso. / Mia figlia è scomparsa.",
+        "de": "Mein Kind wird vermisst."
       },
       "image_url": "",
       "notes": {
-        "es": "Se usa cuando no sabes dónde está tu hijo/a y necesitas ayuda para localizarlo; es una situación urgente.",
-        "en": "«Missing» indica paradero desconocido; no implica necesariamente que se haya confirmado un delito."
+        "es": "Se usa cuando no sabes dónde está tu hijo o tu hija y necesitas ayuda para localizarlo.",
+        "en": "«Missing» indica paradero desconocido; no implica necesariamente que se haya confirmado un delito.",
+        "de": "«Mein Kind wird vermisst» no indica si se trata de un hijo o una hija."
       }
     },
     {
@@ -2248,9 +4822,10 @@
       "es": "Quisiera reportar lo ocurrido.",
       "translations": {
         "en": "I'd like to report what happened.",
-        "pt": "Gostaria de registrar o que aconteceu.",
+        "pt": "Gostaria de comunicar o que aconteceu.",
         "fr": "Je voudrais signaler ce qui s'est passé.",
-        "it": "Vorrei segnalare quello che è successo."
+        "it": "Vorrei segnalare quello che è successo.",
+        "de": "Ich möchte melden, was passiert ist."
       },
       "image_url": ""
     },
@@ -2261,7 +4836,8 @@
         "en": "I can't call; my phone's battery is dead.",
         "pt": "Não consigo ligar; meu celular está sem bateria.",
         "fr": "Je ne peux pas appeler ; mon téléphone n'a plus de batterie.",
-        "it": "Non posso chiamare; il cellulare è scarico."
+        "it": "Non posso chiamare; il cellulare è scarico.",
+        "de": "Ich kann nicht anrufen; der Akku meines Handys ist leer."
       },
       "image_url": ""
     },
@@ -2272,7 +4848,8 @@
         "en": "Send help to this address, please.",
         "pt": "Envie ajuda para este endereço, por favor.",
         "fr": "Envoyez de l'aide à cette adresse, s'il vous plaît.",
-        "it": "Mandi aiuto a questo indirizzo, per favore."
+        "it": "Mandi aiuto a questo indirizzo, per favore.",
+        "de": "Schicken Sie bitte Hilfe an diese Adresse."
       },
       "image_url": ""
     },
@@ -2283,7 +4860,8 @@
         "en": "Where are you right now?",
         "pt": "Onde você está agora?",
         "fr": "Où êtes-vous en ce moment ?",
-        "it": "Dove si trova adesso?"
+        "it": "Dove si trova adesso?",
+        "de": "Wo sind Sie gerade?"
       },
       "image_url": ""
     },
@@ -2294,7 +4872,8 @@
         "en": "I'm on the main street, across from the bank.",
         "pt": "Estou na rua principal, em frente ao banco.",
         "fr": "Je suis dans la rue principale, en face de la banque.",
-        "it": "Sono sulla strada principale, di fronte alla banca."
+        "it": "Sono sulla strada principale, di fronte alla banca.",
+        "de": "Ich bin auf der Hauptstraße gegenüber der Bank."
       },
       "image_url": ""
     },
@@ -2305,11 +4884,13 @@
         "en": "I'm one floor above the ground floor.",
         "pt": "Estou um andar acima do térreo.",
         "fr": "Je suis un étage au-dessus du rez-de-chaussée.",
-        "it": "Sono un piano sopra il piano terra."
+        "it": "Sono un piano sopra il piano terra.",
+        "de": "Ich bin ein Stockwerk über dem Erdgeschoss."
       },
       "image_url": "",
       "notes": {
-        "en": "En inglés estadounidense la planta baja suele llamarse «first floor» y el piso de arriba «second floor»; en inglés británico se usa «ground floor» y luego «first floor». La frase principal evita esa ambigüedad."
+        "en": "En inglés estadounidense la planta baja suele llamarse «first floor» y el piso de arriba «second floor»; en inglés británico se usa «ground floor» y luego «first floor». La frase principal evita esa ambigüedad.",
+        "de": "En Alemania, «Erdgeschoss» es la planta baja; «erster Stock» suele ser el primer piso por encima de ella."
       }
     },
     {
@@ -2319,7 +4900,8 @@
         "en": "I'm at the entrance to the building.",
         "pt": "Estou na entrada do prédio.",
         "fr": "Je suis à l'entrée du bâtiment.",
-        "it": "Sono all'ingresso dell'edificio."
+        "it": "Sono all'ingresso dell'edificio.",
+        "de": "Ich bin am Eingang des Gebäudes."
       },
       "image_url": ""
     },
@@ -2330,7 +4912,8 @@
         "en": "I don't know the exact address.",
         "pt": "Não sei o endereço exato.",
         "fr": "Je ne connais pas l'adresse exacte.",
-        "it": "Non so l'indirizzo esatto."
+        "it": "Non so l'indirizzo esatto.",
+        "de": "Ich kenne die genaue Adresse nicht."
       },
       "image_url": ""
     },
@@ -2341,7 +4924,8 @@
         "en": "I can send my location.",
         "pt": "Posso enviar minha localização.",
         "fr": "Je peux envoyer ma position.",
-        "it": "Posso inviare la mia posizione."
+        "it": "Posso inviare la mia posizione.",
+        "de": "Ich kann meinen Standort schicken."
       },
       "image_url": ""
     },
@@ -2352,7 +4936,8 @@
         "en": "What number are you calling from?",
         "pt": "De que número você está ligando?",
         "fr": "De quel numéro appelez-vous ?",
-        "it": "Da quale numero sta chiamando?"
+        "it": "Da quale numero sta chiamando?",
+        "de": "Von welcher Nummer aus rufen Sie an?"
       },
       "image_url": ""
     },
@@ -2363,18 +4948,20 @@
         "en": "I'll give you my phone number.",
         "pt": "Vou passar meu número de telefone.",
         "fr": "Je vous donne mon numéro de téléphone.",
-        "it": "Le do il mio numero di telefono."
+        "it": "Le do il mio numero di telefono.",
+        "de": "Ich gebe Ihnen meine Telefonnummer."
       },
       "image_url": ""
     },
     {
       "id": "va196",
-      "es": "Estoy solo/a y necesito que alguien venga.",
+      "es": "Estoy solo y necesito que alguien venga. / Estoy sola y necesito que alguien venga.",
       "translations": {
         "en": "I'm alone and I need someone to come.",
         "pt": "Estou sozinho e preciso que alguém venha. / Estou sozinha e preciso que alguém venha.",
         "fr": "Je suis seul et j'ai besoin que quelqu'un vienne. / Je suis seule et j'ai besoin que quelqu'un vienne.",
-        "it": "Sono solo e ho bisogno che venga qualcuno. / Sono sola e ho bisogno che venga qualcuno."
+        "it": "Sono solo e ho bisogno che venga qualcuno. / Sono sola e ho bisogno che venga qualcuno.",
+        "de": "Ich bin allein und brauche jemanden, der kommt."
       },
       "image_url": ""
     },
@@ -2385,7 +4972,8 @@
         "en": "Help is on the way.",
         "pt": "A ajuda já está a caminho.",
         "fr": "Les secours sont en route.",
-        "it": "I soccorsi stanno arrivando."
+        "it": "I soccorsi stanno arrivando.",
+        "de": "Hilfe ist unterwegs."
       },
       "image_url": ""
     },
@@ -2396,7 +4984,8 @@
         "en": "How long will it take you to get here?",
         "pt": "Quanto tempo vocês vão levar para chegar?",
         "fr": "Dans combien de temps arriverez-vous ?",
-        "it": "Quanto tempo ci metterete ad arrivare?"
+        "it": "Quanto tempo ci metterete ad arrivare?",
+        "de": "Wie lange brauchen Sie noch bis hierher?"
       },
       "image_url": ""
     },
@@ -2407,7 +4996,8 @@
         "en": "Don't hang up.",
         "pt": "Não desligue o telefone.",
         "fr": "Ne raccrochez pas.",
-        "it": "Non riattacchi."
+        "it": "Non riattacchi.",
+        "de": "Legen Sie nicht auf."
       },
       "image_url": ""
     },
@@ -2418,18 +5008,20 @@
         "en": "I'm going to wait here.",
         "pt": "Vou esperar aqui.",
         "fr": "Je vais attendre ici.",
-        "it": "Aspetterò qui."
+        "it": "Aspetterò qui.",
+        "de": "Ich warte hier."
       },
       "image_url": ""
     },
     {
       "id": "va201",
-      "es": "No escucho bien por el ruido.",
+      "es": "No oigo bien por el ruido.",
       "translations": {
         "en": "I can't hear well because of the noise.",
         "pt": "Não consigo ouvir bem por causa do barulho.",
         "fr": "Je n'entends pas bien à cause du bruit.",
-        "it": "Non sento bene per il rumore."
+        "it": "Non sento bene per il rumore.",
+        "de": "Wegen des Lärms höre ich nicht gut."
       },
       "image_url": ""
     },
@@ -2440,7 +5032,8 @@
         "en": "I don't understand that instruction.",
         "pt": "Não entendo essa instrução.",
         "fr": "Je ne comprends pas cette instruction.",
-        "it": "Non capisco questa istruzione."
+        "it": "Non capisco questa istruzione.",
+        "de": "Ich verstehe diese Anweisung nicht."
       },
       "image_url": ""
     },
@@ -2451,7 +5044,8 @@
         "en": "I understand. I'll do it.",
         "pt": "Entendi. Vou fazer isso.",
         "fr": "J'ai compris. Je vais le faire.",
-        "it": "Ho capito. Lo farò."
+        "it": "Ho capito. Lo farò.",
+        "de": "Verstanden. Ich mache es."
       },
       "image_url": ""
     }
