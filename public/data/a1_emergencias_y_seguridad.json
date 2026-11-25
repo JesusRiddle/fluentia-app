@@ -16,24 +16,24 @@
       "image_url": "",
       "examples": {
         "en": {
-          "text": "The rabbit escaped from the garden.",
-          "es": "El conejo se escapó del jardín."
+          "text": "The family escaped from the building.",
+          "es": "La familia escapó del edificio."
         },
         "fr": {
-          "text": "Le lapin s'est échappé du jardin.",
-          "es": "El conejo se escapó del jardín."
+          "text": "La famille s'est échappée du bâtiment.",
+          "es": "La familia escapó del edificio."
         },
         "it": {
-          "text": "Il coniglio è scappato dal giardino.",
-          "es": "El conejo se escapó del jardín."
+          "text": "La famiglia è scappata dall'edificio.",
+          "es": "La familia escapó del edificio."
         },
         "pt": {
-          "text": "O coelho fugiu do jardim.",
-          "es": "El conejo se escapó del jardín."
+          "text": "A família escapou do prédio.",
+          "es": "La familia escapó del edificio."
         },
         "de": {
-          "text": "Das Kaninchen ist aus dem Garten entkommen.",
-          "es": "El conejo se escapó del jardín."
+          "text": "Die Familie ist aus dem Gebäude geflohen.",
+          "es": "La familia huyó del edificio."
         }
       }
     },
@@ -73,12 +73,12 @@
     },
     {
       "id": "va102",
-      "es": "Avisar / Advertir de un peligro",
+      "es": "Avisar de un peligro / Advertir de un peligro",
       "translations": {
-        "en": "To warn / To alert",
-        "pt": "Avisar / Alertar",
-        "fr": "Avertir / Prévenir",
-        "it": "Avvisare / Avvertire",
+        "en": "To warn of danger / To alert someone to danger",
+        "pt": "Avisar de um perigo / Alertar sobre um perigo",
+        "fr": "Avertir d'un danger / Prévenir d'un danger",
+        "it": "Avvisare di un pericolo / Avvertire di un pericolo",
         "de": "Vor einer Gefahr warnen"
       },
       "image_url": "",
@@ -103,6 +103,9 @@
           "text": "Ana warnt mich vor der Gefahr.",
           "es": "Ana me advierte del peligro."
         }
+      },
+      "notes": {
+        "fr": "«Prévenir quelqu'un d'un danger» significa avisarle del peligro. Con otro complemento, «prévenir» puede significar prevenir o evitar que ocurra algo."
       }
     },
     {
@@ -209,7 +212,7 @@
         "en": "I need urgent help.",
         "pt": "Preciso de ajuda urgente.",
         "fr": "J'ai besoin d'aide de toute urgence.",
-        "it": "Ho bisogno di aiuto urgente.",
+        "it": "Ho urgente bisogno di aiuto.",
         "de": "Ich brauche dringend Hilfe."
       },
       "image_url": ""
@@ -336,7 +339,7 @@
         "pt": "Há alguém preso lá dentro.",
         "fr": "Quelqu'un est coincé à l'intérieur.",
         "it": "C'è qualcuno intrappolato dentro.",
-        "de": "Drinnen ist jemand eingeschlossen."
+        "de": "Drinnen sitzt jemand fest."
       },
       "image_url": ""
     },
@@ -348,9 +351,12 @@
         "pt": "Não consigo sair.",
         "fr": "Je n'arrive pas à sortir.",
         "it": "Non riesco a uscire.",
-        "de": "Ich komme nicht raus."
+        "de": "Ich komme nicht hinaus."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "Coloquial: Ich komme nicht raus."
+      }
     },
     {
       "id": "va176",
@@ -372,7 +378,7 @@
         "pt": "Há alguém em perigo na água.",
         "fr": "Quelqu'un est en danger dans l'eau.",
         "it": "C'è qualcuno in pericolo in acqua.",
-        "de": "Jemand im Wasser ist in Gefahr."
+        "de": "Im Wasser ist jemand in Gefahr."
       },
       "image_url": ""
     },
@@ -386,19 +392,32 @@
         "it": "Non mi toccare! / Non mi tocchi!",
         "de": "Fass mich nicht an! / Fassen Sie mich nicht an!"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "La primera forma es de tuteo; la segunda, de usted.",
+        "fr": "La primera forma usa «tu»; la segunda, «vous».",
+        "it": "La primera forma usa «tu»; la segunda, «Lei».",
+        "de": "La primera forma usa «du»; la segunda, «Sie»."
+      }
     },
     {
       "id": "va179",
       "es": "¡Déjame en paz! / ¡Déjeme en paz!",
       "translations": {
         "en": "Leave me alone!",
-        "pt": "Me deixe em paz!",
+        "pt": "Deixe-me em paz!",
         "fr": "Laisse-moi tranquille ! / Laissez-moi tranquille !",
         "it": "Lasciami in pace! / Mi lasci in pace!",
         "de": "Lass mich in Ruhe! / Lassen Sie mich in Ruhe!"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "La primera forma es de tuteo; la segunda, de usted.",
+        "pt": "Coloquial: Me deixe em paz!",
+        "fr": "La primera forma usa «tu»; la segunda, «vous».",
+        "it": "La primera forma usa «tu»; la segunda, «Lei».",
+        "de": "La primera forma usa «du»; la segunda, «Sie»."
+      }
     },
     {
       "id": "va180",
@@ -410,7 +429,13 @@
         "it": "Allontanati da me! / Si allontani da me!",
         "de": "Geh weg von mir! / Gehen Sie weg von mir!"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "La primera forma es de tuteo; la segunda, de usted.",
+        "fr": "La primera forma usa «tu»; la segunda, «vous».",
+        "it": "La primera forma usa «tu»; la segunda, «Lei».",
+        "de": "La primera forma usa «du»; la segunda, «Sie»."
+      }
     },
     {
       "id": "va181",
@@ -420,7 +445,7 @@
         "pt": "Alguém está me seguindo.",
         "fr": "Quelqu'un me suit.",
         "it": "Qualcuno mi sta seguendo.",
-        "de": "Jemand verfolgt mich."
+        "de": "Jemand folgt mir."
       },
       "image_url": ""
     },
@@ -609,13 +634,13 @@
         "pt": "Estou sozinho e preciso que alguém venha. / Estou sozinha e preciso que alguém venha.",
         "fr": "Je suis seul et j'ai besoin que quelqu'un vienne. / Je suis seule et j'ai besoin que quelqu'un vienne.",
         "it": "Sono solo e ho bisogno che venga qualcuno. / Sono sola e ho bisogno che venga qualcuno.",
-        "de": "Ich bin allein und brauche jemanden, der kommt."
+        "de": "Ich bin allein und brauche jemanden, der zu mir kommt."
       },
       "image_url": ""
     },
     {
       "id": "va197",
-      "es": "La ayuda ya viene en camino.",
+      "es": "La ayuda ya está en camino.",
       "translations": {
         "en": "Help is on the way.",
         "pt": "A ajuda já está a caminho.",
@@ -679,7 +704,7 @@
       "translations": {
         "en": "I don't understand that instruction.",
         "pt": "Não entendo essa instrução.",
-        "fr": "Je ne comprends pas cette instruction.",
+        "fr": "Je ne comprends pas cette consigne.",
         "it": "Non capisco questa istruzione.",
         "de": "Ich verstehe diese Anweisung nicht."
       },
@@ -693,7 +718,7 @@
         "pt": "Entendi. Vou fazer isso.",
         "fr": "J'ai compris. Je vais le faire.",
         "it": "Ho capito. Lo farò.",
-        "de": "Verstanden. Ich mache es."
+        "de": "Verstanden. Ich mache das."
       },
       "image_url": ""
     }

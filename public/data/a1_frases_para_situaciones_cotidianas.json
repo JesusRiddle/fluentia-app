@@ -47,7 +47,7 @@
         "pt": "Quero fazer uma ligação.",
         "fr": "Je veux passer un appel.",
         "it": "Voglio fare una telefonata.",
-        "de": "Ich möchte telefonieren."
+        "de": "Ich will telefonieren."
       },
       "image_url": ""
     },
@@ -59,7 +59,7 @@
         "pt": "Quero trocar de assento.",
         "fr": "Je veux changer de place.",
         "it": "Voglio cambiare posto.",
-        "de": "Ich möchte den Sitzplatz wechseln."
+        "de": "Ich will den Sitzplatz wechseln."
       },
       "image_url": ""
     },
@@ -107,7 +107,7 @@
         "pt": "Precisamos sair agora.",
         "fr": "Nous devons partir maintenant.",
         "it": "Dobbiamo andare via adesso.",
-        "de": "Wir müssen jetzt raus."
+        "de": "Wir müssen jetzt gehen."
       },
       "image_url": ""
     },
@@ -218,16 +218,17 @@
       "id": "va122",
       "es": "No se puede entrar.",
       "translations": {
-        "en": "You can't enter. / Entry is not allowed.",
+        "en": "You're not allowed to go in. / Entry is not allowed.",
         "pt": "Não é permitido entrar.",
         "fr": "Il est interdit d'entrer.",
         "it": "Non è permesso entrare. / È vietato entrare.",
-        "de": "Hier darf man nicht rein. / Der Zutritt ist nicht erlaubt."
+        "de": "Hier darf man nicht hinein. / Der Zutritt ist nicht erlaubt."
       },
       "image_url": "",
       "notes": {
         "es": "Aquí «no se puede» indica prohibición, no incapacidad física.",
-        "en": "«You can't enter» puede sonar a prohibición o imposibilidad; «Entry is not allowed» deja explícita la prohibición."
+        "en": "«You're not allowed to go in» es habitual al hablar con alguien; «Entry is not allowed» es más impersonal y puede aparecer en avisos.",
+        "de": "«Hier darf man nicht hinein» es una advertencia oral; «Der Zutritt ist nicht erlaubt» es más impersonal y puede aparecer en avisos."
       }
     },
     {
@@ -255,9 +256,12 @@
         "pt": "Não me deixam entrar.",
         "fr": "On ne me laisse pas entrer.",
         "it": "Non mi lasciano entrare.",
-        "de": "Man lässt mich nicht rein."
+        "de": "Man lässt mich nicht hinein."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "Coloquial: Man lässt mich nicht rein."
+      }
     },
     {
       "id": "va125",
@@ -385,7 +389,8 @@
       },
       "image_url": "",
       "notes": {
-        "es": "Se refiere a un aparato o servicio, no al desempeño de una persona."
+        "es": "Se refiere a un aparato o servicio, no al desempeño de una persona.",
+        "fr": "«Ça ne marche pas» es habitual en la conversación; «Ça ne fonctionne pas» también sirve en contextos más formales."
       }
     },
     {
@@ -407,7 +412,7 @@
         "en": "I'm going to try again.",
         "pt": "Vou tentar de novo.",
         "fr": "Je vais essayer encore une fois.",
-        "it": "Ci riprovo.",
+        "it": "Proverò di nuovo.",
         "de": "Ich versuche es noch einmal."
       },
       "image_url": ""
@@ -432,7 +437,7 @@
         "pt": "Não lembro onde deixei.",
         "fr": "Je ne me souviens pas où je l'ai laissé.",
         "it": "Non ricordo dove l'ho lasciato.",
-        "de": "Ich weiß nicht mehr, wo ich es gelassen habe."
+        "de": "Ich weiß nicht mehr, wo ich es liegen gelassen habe."
       },
       "image_url": ""
     },
@@ -561,7 +566,7 @@
     },
     {
       "id": "va149",
-      "es": "Cierra con llave. / Cierre con llave.",
+      "es": "Cierra la puerta con llave. / Cierre la puerta con llave.",
       "translations": {
         "en": "Lock the door.",
         "pt": "Tranque a porta.",
@@ -639,9 +644,12 @@
         "pt": "Vamos sair por aqui.",
         "fr": "Sortons par ici.",
         "it": "Usciamo da questa parte.",
-        "de": "Gehen wir hier raus."
+        "de": "Gehen wir hier hinaus."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "Coloquial: Gehen wir hier raus."
+      }
     },
     {
       "id": "va156",
@@ -659,16 +667,17 @@
       "id": "va157",
       "es": "¿Debo esperar aquí?",
       "translations": {
-        "en": "Should I wait here? / Do I have to wait here?",
+        "en": "Should I wait here?",
         "pt": "Devo esperar aqui?",
         "fr": "Je dois attendre ici ?",
         "it": "Devo aspettare qui?",
-        "de": "Soll ich hier warten? / Muss ich hier warten?"
+        "de": "Soll ich hier warten?"
       },
       "image_url": "",
       "notes": {
-        "en": "«Should I…?» pide consejo o confirmación; «Do I have to…?» pregunta si existe obligación.",
-        "de": "«Soll ich …?» pide una indicación; «Muss ich …?» pregunta si es obligatorio."
+        "en": "«Should I wait here?» pide una indicación; «Do I have to wait here?» pregunta si es obligatorio.",
+        "de": "«Soll ich hier warten?» pide una indicación; «Muss ich hier warten?» pregunta si es obligatorio.",
+        "es": "Se pide una indicación; para preguntar si es obligatorio, se puede decir «¿Tengo que esperar aquí?»."
       }
     },
     {
