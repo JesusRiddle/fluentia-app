@@ -10,7 +10,8 @@
         "en": "Shopping",
         "fr": "Les achats",
         "it": "Gli acquisti",
-        "pt": "As compras"
+        "pt": "As compras",
+        "de": "Das Einkaufen"
       },
       "image_url": "",
       "notes": {
@@ -18,6 +19,28 @@
         "en": "Shopping es incontable.",
         "fr": "Uso habitual en plural.",
         "it": "Uso habitual en plural."
+      },
+      "examples": {
+        "en": {
+          "text": "I do my shopping on Saturdays.",
+          "es": "Hago las compras los sábados."
+        },
+        "fr": {
+          "text": "Je fais mes achats le samedi.",
+          "es": "Hago las compras los sábados."
+        },
+        "it": {
+          "text": "Faccio i miei acquisti il sabato.",
+          "es": "Hago las compras los sábados."
+        },
+        "pt": {
+          "text": "Faço as compras aos sábados.",
+          "es": "Hago las compras los sábados."
+        },
+        "de": {
+          "text": "Samstags habe ich Zeit zum Einkaufen.",
+          "es": "Los sábados tengo tiempo para hacer las compras."
+        }
       }
     },
     {
@@ -25,34 +48,82 @@
       "es": "El producto / El artículo",
       "translations": {
         "en": "The product / The item",
-        "fr": "Le produit / L’article",
-        "it": "Il prodotto / L’articolo",
-        "pt": "O produto / O artigo"
+        "fr": "Le produit / L'article",
+        "it": "Il prodotto / L'articolo",
+        "pt": "O produto / O artigo",
+        "de": "Das Produkt / Der Artikel"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the products / the items",
-        "fr": "Plural: les produits / les articles",
-        "it": "Plural: i prodotti / gli articoli",
-        "pt": "Plural: os produtos / os artigos"
+        "en": "(Plural: The products / The items)",
+        "fr": "(Plural: Les produits / Les articles)",
+        "it": "(Plural: I prodotti / Gli articoli)",
+        "pt": "(Plural: Os produtos / Os artigos)",
+        "de": "(Plural: Die Produkte / Die Artikel)"
+      },
+      "examples": {
+        "en": {
+          "text": "This product costs ten pesos.",
+          "es": "Este producto cuesta diez pesos."
+        },
+        "fr": {
+          "text": "Ce produit coûte dix pesos.",
+          "es": "Este producto cuesta diez pesos."
+        },
+        "it": {
+          "text": "Questo prodotto costa dieci pesos.",
+          "es": "Este producto cuesta diez pesos."
+        },
+        "pt": {
+          "text": "Este produto custa dez pesos.",
+          "es": "Este producto cuesta diez pesos."
+        },
+        "de": {
+          "text": "Dieses Produkt kostet zehn Pesos.",
+          "es": "Este producto cuesta diez pesos."
+        }
       }
     },
     {
       "id": "cd3",
       "es": "La caja",
       "translations": {
-        "en": "The checkout",
+        "en": "The checkout counter",
         "fr": "La caisse",
         "it": "La cassa",
-        "pt": "O caixa"
+        "pt": "O caixa",
+        "de": "Die Kasse"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the checkouts",
-        "fr": "Plural: les caisses",
-        "it": "Plural: le casse",
-        "pt": "Plural: os caixas",
-        "es": "Punto de pago de una tienda."
+        "en": "(Plural: The checkout counters) También se usa «checkout» en el mismo sentido.",
+        "fr": "(Plural: Les caisses)",
+        "it": "(Plural: Le casse)",
+        "pt": "(Plural: Os caixas) El punto de pago es masculino: «o caixa». La caja registradora es femenina: «a caixa registradora».",
+        "es": "(Punto de pago de una tienda)",
+        "de": "(Plural: Die Kassen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The checkout counter by the entrance is open.",
+          "es": "La caja de la entrada está abierta."
+        },
+        "fr": {
+          "text": "La caisse près de l'entrée est ouverte.",
+          "es": "La caja de la entrada está abierta."
+        },
+        "it": {
+          "text": "La cassa vicino all'ingresso è aperta.",
+          "es": "La caja de la entrada está abierta."
+        },
+        "pt": {
+          "text": "O caixa perto da entrada está aberto.",
+          "es": "La caja de la entrada está abierta."
+        },
+        "de": {
+          "text": "Die Kasse am Eingang ist offen.",
+          "es": "La caja de la entrada está abierta."
+        }
       }
     },
     {
@@ -62,14 +133,38 @@
         "en": "The cash register",
         "fr": "La caisse enregistreuse",
         "it": "Il registratore di cassa",
-        "pt": "A caixa registradora"
+        "pt": "A caixa registradora",
+        "de": "Die Registrierkasse"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the cash registers",
-        "fr": "Plural: les caisses enregistreuses",
-        "it": "Plural: i registratori di cassa",
-        "pt": "Plural: as caixas registradoras"
+        "en": "(Plural: The cash registers)",
+        "fr": "(Plural: Les caisses enregistreuses)",
+        "it": "(Plural: I registratori di cassa)",
+        "pt": "(Plural: As caixas registradoras)",
+        "de": "(Plural: Die Registrierkassen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The cash register isn't working.",
+          "es": "La caja registradora no funciona."
+        },
+        "fr": {
+          "text": "La caisse enregistreuse ne fonctionne pas.",
+          "es": "La caja registradora no funciona."
+        },
+        "it": {
+          "text": "Il registratore di cassa non funziona.",
+          "es": "La caja registradora no funciona."
+        },
+        "pt": {
+          "text": "A caixa registradora não funciona.",
+          "es": "La caja registradora no funciona."
+        },
+        "de": {
+          "text": "Die Registrierkasse funktioniert nicht.",
+          "es": "La caja registradora no funciona."
+        }
       }
     },
     {
@@ -77,16 +172,40 @@
       "es": "El carrito de compras",
       "translations": {
         "en": "The shopping cart",
-        "fr": "Le chariot",
+        "fr": "Le chariot de supermarché",
         "it": "Il carrello della spesa",
-        "pt": "O carrinho de compras"
+        "pt": "O carrinho de compras",
+        "de": "Der Einkaufswagen"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the shopping carts",
-        "fr": "Plural: les chariots",
-        "it": "Plural: i carrelli della spesa",
-        "pt": "Plural: os carrinhos de compras"
+        "en": "(Plural: The shopping carts)",
+        "fr": "(Plural: Les chariots de supermarché) En el supermercado suele abreviarse a «chariot».",
+        "it": "(Plural: I carrelli della spesa)",
+        "pt": "(Plural: Os carrinhos de compras)",
+        "de": "(Plural: Die Einkaufswagen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The shopping cart is full.",
+          "es": "El carrito de compras está lleno."
+        },
+        "fr": {
+          "text": "Le chariot de supermarché est plein.",
+          "es": "El carrito de compras está lleno."
+        },
+        "it": {
+          "text": "Il carrello della spesa è pieno.",
+          "es": "El carrito de compras está lleno."
+        },
+        "pt": {
+          "text": "O carrinho de compras está cheio.",
+          "es": "El carrito de compras está lleno."
+        },
+        "de": {
+          "text": "Der Einkaufswagen ist voll.",
+          "es": "El carrito de compras está lleno."
+        }
       }
     },
     {
@@ -96,14 +215,38 @@
         "en": "The shopping basket",
         "fr": "Le panier de courses",
         "it": "Il cestino della spesa",
-        "pt": "A cesta de compras"
+        "pt": "A cesta de compras",
+        "de": "Der Einkaufskorb"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the shopping baskets",
-        "fr": "Plural: les paniers de courses",
-        "it": "Plural: i cestini della spesa",
-        "pt": "Plural: as cestas de compras"
+        "en": "(Plural: The shopping baskets)",
+        "fr": "(Plural: Les paniers de courses)",
+        "it": "(Plural: I cestini della spesa)",
+        "pt": "(Plural: As cestas de compras)",
+        "de": "(Plural: Die Einkaufskörbe)"
+      },
+      "examples": {
+        "en": {
+          "text": "I put the bread in the shopping basket.",
+          "es": "Pongo el pan en la canasta de compras."
+        },
+        "fr": {
+          "text": "Je mets le pain dans le panier de courses.",
+          "es": "Pongo el pan en la canasta de compras."
+        },
+        "it": {
+          "text": "Metto il pane nel cestino della spesa.",
+          "es": "Pongo el pan en la canasta de compras."
+        },
+        "pt": {
+          "text": "Coloco o pão na cesta de compras.",
+          "es": "Pongo el pan en la canasta de compras."
+        },
+        "de": {
+          "text": "Ich lege das Brot in den Einkaufskorb.",
+          "es": "Pongo el pan en la canasta de compras."
+        }
       }
     },
     {
@@ -111,33 +254,83 @@
       "es": "El pasillo",
       "translations": {
         "en": "The aisle",
-        "fr": "L’allée",
+        "fr": "L'allée",
         "it": "La corsia",
-        "pt": "O corredor"
+        "pt": "O corredor",
+        "de": "Der Gang"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the aisles",
-        "fr": "Plural: les allées",
-        "it": "Plural: le corsie",
-        "pt": "Plural: os corredores"
+        "en": "(Plural: The aisles)",
+        "fr": "(Plural: Les allées)",
+        "it": "(Plural: Le corsie)",
+        "pt": "(Plural: Os corredores)",
+        "de": "(Plural: Die Gänge)",
+        "es": "(Pasillo entre estantes de una tienda)"
+      },
+      "examples": {
+        "en": {
+          "text": "The sugar is in this aisle.",
+          "es": "El azúcar está en este pasillo."
+        },
+        "fr": {
+          "text": "Le sucre est dans cette allée.",
+          "es": "El azúcar está en este pasillo."
+        },
+        "it": {
+          "text": "Lo zucchero è in questa corsia.",
+          "es": "El azúcar está en este pasillo."
+        },
+        "pt": {
+          "text": "O açúcar fica neste corredor.",
+          "es": "El azúcar está en este pasillo."
+        },
+        "de": {
+          "text": "Der Zucker ist in diesem Gang.",
+          "es": "El azúcar está en este pasillo."
+        }
       }
     },
     {
       "id": "cd8",
-      "es": "La sección / El departamento",
+      "es": "El departamento / La sección",
       "translations": {
         "en": "The section / The department",
-        "fr": "Le rayon / Le département",
-        "it": "Il reparto / La sezione",
-        "pt": "A seção / O departamento"
+        "fr": "Le rayon",
+        "it": "Il reparto",
+        "pt": "A seção / O departamento",
+        "de": "Die Abteilung"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the sections / the departments",
-        "fr": "Plural: les rayons / les départements",
-        "it": "Plural: i reparti / le sezioni",
-        "pt": "Plural: as seções / os departamentos"
+        "en": "(Plural: The sections / The departments)",
+        "fr": "(Plural: Les rayons) En una tienda se dice «rayon», no «département» para la sección de productos.",
+        "it": "(Plural: I reparti)",
+        "pt": "(Plural: As seções / Os departamentos)",
+        "de": "(Plural: Die Abteilungen)",
+        "es": "(Área de una tienda organizada por productos)"
+      },
+      "examples": {
+        "en": {
+          "text": "The jackets are in the clothing department.",
+          "es": "Las chamarras están en el departamento de ropa."
+        },
+        "fr": {
+          "text": "Les vestes sont au rayon vêtements.",
+          "es": "Las chamarras están en el departamento de ropa."
+        },
+        "it": {
+          "text": "Le giacche sono nel reparto abbigliamento.",
+          "es": "Las chamarras están en el departamento de ropa."
+        },
+        "pt": {
+          "text": "As jaquetas estão na seção de roupas.",
+          "es": "Las chamarras están en el departamento de ropa."
+        },
+        "de": {
+          "text": "Die Jacken sind in der Bekleidungsabteilung.",
+          "es": "Las chamarras están en el departamento de ropa."
+        }
       }
     },
     {
@@ -145,16 +338,40 @@
       "es": "La etiqueta de precio",
       "translations": {
         "en": "The price tag",
-        "fr": "L’étiquette de prix",
+        "fr": "L'étiquette de prix",
         "it": "Il cartellino del prezzo",
-        "pt": "A etiqueta de preço"
+        "pt": "A etiqueta de preço",
+        "de": "Das Preisschild"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the price tags",
-        "fr": "Plural: les étiquettes de prix",
-        "it": "Plural: i cartellini del prezzo",
-        "pt": "Plural: as etiquetas de preço"
+        "en": "(Plural: The price tags)",
+        "fr": "(Plural: Les étiquettes de prix)",
+        "it": "(Plural: I cartellini del prezzo)",
+        "pt": "(Plural: As etiquetas de preço)",
+        "de": "(Plural: Die Preisschilder)"
+      },
+      "examples": {
+        "en": {
+          "text": "I can't see the price tag.",
+          "es": "No veo la etiqueta de precio."
+        },
+        "fr": {
+          "text": "Je ne vois pas l'étiquette de prix.",
+          "es": "No veo la etiqueta de precio."
+        },
+        "it": {
+          "text": "Non vedo il cartellino del prezzo.",
+          "es": "No veo la etiqueta de precio."
+        },
+        "pt": {
+          "text": "Não vejo a etiqueta de preço.",
+          "es": "No veo la etiqueta de precio."
+        },
+        "de": {
+          "text": "Ich sehe das Preisschild nicht.",
+          "es": "No veo la etiqueta de precio."
+        }
       }
     },
     {
@@ -164,14 +381,38 @@
         "en": "The barcode",
         "fr": "Le code-barres",
         "it": "Il codice a barre",
-        "pt": "O código de barras"
+        "pt": "O código de barras",
+        "de": "Der Strichcode"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the barcodes",
-        "fr": "Plural: les codes-barres",
-        "it": "Plural: i codici a barre",
-        "pt": "Plural: os códigos de barras"
+        "en": "(Plural: The barcodes)",
+        "fr": "(Plural: Les codes-barres)",
+        "it": "(Plural: I codici a barre)",
+        "pt": "(Plural: Os códigos de barras)",
+        "de": "(Plural: Die Strichcodes)"
+      },
+      "examples": {
+        "en": {
+          "text": "The barcode is on the bottom of the box.",
+          "es": "El código de barras está en la parte de abajo de la caja."
+        },
+        "fr": {
+          "text": "Le code-barres est imprimé sous la boîte.",
+          "es": "El código de barras está impreso en la parte de abajo de la caja."
+        },
+        "it": {
+          "text": "Il codice a barre è stampato sul fondo della scatola.",
+          "es": "El código de barras está impreso en la parte de abajo de la caja."
+        },
+        "pt": {
+          "text": "O código de barras está impresso no fundo da caixa.",
+          "es": "El código de barras está impreso en la parte de abajo de la caja."
+        },
+        "de": {
+          "text": "Der Strichcode ist unten auf der Schachtel.",
+          "es": "El código de barras está en la parte de abajo de la caja."
+        }
       }
     },
     {
@@ -179,16 +420,40 @@
       "es": "La oferta / La promoción",
       "translations": {
         "en": "The special offer / The promotion",
-        "fr": "L’offre spéciale / La promotion",
-        "it": "L’offerta / La promozione",
-        "pt": "A oferta / A promoção"
+        "fr": "L'offre spéciale / La promotion",
+        "it": "L'offerta / La promozione",
+        "pt": "A oferta / A promoção",
+        "de": "Das Sonderangebot"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the special offers / the promotions",
-        "fr": "Plural: les offres spéciales / les promotions",
-        "it": "Plural: le offerte / le promozioni",
-        "pt": "Plural: as ofertas / as promoções"
+        "en": "(Plural: The special offers / The promotions)",
+        "fr": "(Plural: Les offres spéciales / Les promotions)",
+        "it": "(Plural: Le offerte / Le promozioni)",
+        "pt": "(Plural: As ofertas / As promoções)",
+        "de": "(Plural: Die Sonderangebote)"
+      },
+      "examples": {
+        "en": {
+          "text": "There's a special offer on coffee this week.",
+          "es": "Esta semana hay una oferta de café."
+        },
+        "fr": {
+          "text": "Il y a une offre spéciale sur le café cette semaine.",
+          "es": "Esta semana hay una oferta de café."
+        },
+        "it": {
+          "text": "Questa settimana c'è un'offerta sul caffè.",
+          "es": "Esta semana hay una oferta de café."
+        },
+        "pt": {
+          "text": "Tem uma oferta de café esta semana.",
+          "es": "Esta semana hay una oferta de café."
+        },
+        "de": {
+          "text": "Diese Woche gibt es ein Sonderangebot für Kaffee.",
+          "es": "Esta semana hay una oferta de café."
+        }
       }
     },
     {
@@ -198,32 +463,122 @@
         "en": "The discount",
         "fr": "La réduction / La remise",
         "it": "Lo sconto",
-        "pt": "O desconto"
+        "pt": "O desconto",
+        "de": "Der Rabatt"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the discounts",
-        "fr": "Plural: les réductions / les remises",
-        "it": "Plural: gli sconti",
-        "pt": "Plural: os descontos"
+        "en": "(Plural: The discounts)",
+        "fr": "(Plural: Les réductions / Les remises)",
+        "it": "(Plural: Gli sconti)",
+        "pt": "(Plural: Os descontos)",
+        "de": "(Plural: Die Rabatte)"
+      },
+      "examples": {
+        "en": {
+          "text": "I get a discount on the second pair.",
+          "es": "Me dan un descuento en el segundo par."
+        },
+        "fr": {
+          "text": "J'ai une réduction sur la deuxième paire.",
+          "es": "Me dan un descuento en el segundo par."
+        },
+        "it": {
+          "text": "Ho uno sconto sul secondo paio.",
+          "es": "Me dan un descuento en el segundo par."
+        },
+        "pt": {
+          "text": "Ganho um desconto no segundo par.",
+          "es": "Me dan un descuento en el segundo par."
+        },
+        "de": {
+          "text": "Auf das zweite Paar bekomme ich einen Rabatt.",
+          "es": "Me dan un descuento en el segundo par."
+        }
       }
     },
     {
       "id": "cd13",
-      "es": "Las rebajas / La liquidación",
+      "es": "Las rebajas",
       "translations": {
-        "en": "The sale / The clearance sale",
-        "fr": "Les soldes / Le déstockage",
-        "it": "I saldi / La liquidazione",
-        "pt": "A liquidação"
+        "en": "The sale",
+        "fr": "Les soldes",
+        "it": "I saldi",
+        "pt": "As liquidações de temporada",
+        "de": "Der Saisonschlussverkauf"
       },
       "image_url": "",
       "notes": {
-        "pt": "Plural: as liquidações",
-        "es": "Descuentos de temporada o venta de liquidación.",
-        "en": "Sale y clearance sale no son completamente intercambiables.",
-        "fr": "Les soldes son rebajas reglamentadas; déstockage es liquidación.",
-        "it": "I saldi son rebajas de temporada; liquidazione es liquidación."
+        "pt": "Uso habitual en plural. «Descontos de temporada» es otra manera de decirlo.",
+        "es": "(Descuentos de temporada) La liquidación, en cambio, busca terminar las existencias.",
+        "en": "«Clearance sale» es una liquidación de existencias. «Sale» también puede referirse a otras rebajas.",
+        "fr": "Uso habitual en plural. «Déstockage» es liquidación de existencias, no necesariamente rebajas de temporada.",
+        "it": "Uso habitual en plural. «Liquidazione» indica una liquidación de existencias.",
+        "de": "(Plural: Die Saisonschlussverkäufe) «Räumungsverkauf» es la liquidación de existencias."
+      },
+      "examples": {
+        "en": {
+          "text": "I buy shoes during the end-of-season sale.",
+          "es": "Compro zapatos en las rebajas de fin de temporada."
+        },
+        "fr": {
+          "text": "J'achète des chaussures pendant les soldes de fin de saison.",
+          "es": "Compro zapatos en las rebajas de fin de temporada."
+        },
+        "it": {
+          "text": "Compro le scarpe durante i saldi di fine stagione.",
+          "es": "Compro zapatos en las rebajas de fin de temporada."
+        },
+        "pt": {
+          "text": "Compro sapatos nas liquidações de fim de temporada.",
+          "es": "Compro zapatos en las rebajas de fin de temporada."
+        },
+        "de": {
+          "text": "Ich kaufe Schuhe im Saisonschlussverkauf.",
+          "es": "Compro zapatos en las rebajas de fin de temporada."
+        }
+      }
+    },
+    {
+      "id": "cd112",
+      "es": "La liquidación de mercancía",
+      "image_url": "",
+      "translations": {
+        "en": "The clearance sale",
+        "fr": "La vente de liquidation",
+        "it": "La vendita di liquidazione",
+        "pt": "A queima de estoque",
+        "de": "Der Räumungsverkauf"
+      },
+      "notes": {
+        "es": "(Venta para agotar las existencias, no solo rebajas de temporada)",
+        "en": "(Plural: The clearance sales)",
+        "fr": "(Plural: Les ventes de liquidation) Aquí se usa para liquidar existencias antes del cierre de la tienda; «déstockage» es más general.",
+        "it": "(Plural: Le vendite di liquidazione)",
+        "pt": "(Plural: As queimas de estoque)",
+        "de": "(Plural: Die Räumungsverkäufe)"
+      },
+      "examples": {
+        "en": {
+          "text": "The store is having a clearance sale before it closes.",
+          "es": "La tienda hace una liquidación de mercancía antes de cerrar."
+        },
+        "fr": {
+          "text": "Le magasin organise une vente de liquidation avant de fermer.",
+          "es": "La tienda hace una liquidación de mercancía antes de cerrar."
+        },
+        "it": {
+          "text": "Il negozio fa una vendita di liquidazione prima di chiudere.",
+          "es": "La tienda hace una liquidación de mercancía antes de cerrar."
+        },
+        "pt": {
+          "text": "A loja faz uma queima de estoque antes de fechar.",
+          "es": "La tienda hace una liquidación de mercancía antes de cerrar."
+        },
+        "de": {
+          "text": "Das Geschäft macht vor der Schließung einen Räumungsverkauf.",
+          "es": "La tienda hace una liquidación de mercancía antes de cerrar."
+        }
       }
     },
     {
@@ -233,9 +588,37 @@
         "en": "Expensive",
         "fr": "Cher / Chère",
         "it": "Caro / Cara",
-        "pt": "Caro / Cara"
+        "pt": "Caro / Cara",
+        "de": "Teuer"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "«Cher» es masculino; «chère» es femenino.",
+        "it": "«Caro» es masculino; «cara» es femenino.",
+        "pt": "«Caro» es masculino; «cara» es femenino."
+      },
+      "examples": {
+        "en": {
+          "text": "This backpack is expensive.",
+          "es": "Esta mochila es cara."
+        },
+        "fr": {
+          "text": "Ce sac à dos est cher.",
+          "es": "Esta mochila es cara."
+        },
+        "it": {
+          "text": "Questo zaino è caro.",
+          "es": "Esta mochila es cara."
+        },
+        "pt": {
+          "text": "Esta mochila é cara.",
+          "es": "Esta mochila es cara."
+        },
+        "de": {
+          "text": "Dieser Rucksack ist teuer.",
+          "es": "Esta mochila es cara."
+        }
+      }
     },
     {
       "id": "cd15",
@@ -244,9 +627,36 @@
         "en": "Cheap / Inexpensive",
         "fr": "Bon marché / Pas cher / Pas chère",
         "it": "Economico / Economica / A buon mercato",
-        "pt": "Barato / Barata / Econômico / Econômica"
+        "pt": "Barato / Barata / Econômico / Econômica",
+        "de": "Günstig / Preiswert"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "«Cheap» puede sugerir mala calidad; «inexpensive» es neutral.",
+        "fr": "«Bon marché» es invariable. En «pas cher», el adjetivo concuerda: «une chemise pas chère»."
+      },
+      "examples": {
+        "en": {
+          "text": "I found a cheap T-shirt.",
+          "es": "Encontré una playera barata."
+        },
+        "fr": {
+          "text": "J'ai trouvé un tee-shirt bon marché.",
+          "es": "Encontré una playera barata."
+        },
+        "it": {
+          "text": "Ho trovato una maglietta economica.",
+          "es": "Encontré una playera barata."
+        },
+        "pt": {
+          "text": "Achei uma camiseta barata.",
+          "es": "Encontré una playera barata."
+        },
+        "de": {
+          "text": "Ich habe ein günstiges T-Shirt gefunden.",
+          "es": "Encontré una playera barata."
+        }
+      }
     },
     {
       "id": "cd16",
@@ -255,14 +665,38 @@
         "en": "The budget",
         "fr": "Le budget",
         "it": "Il budget",
-        "pt": "O orçamento"
+        "pt": "O orçamento",
+        "de": "Das Budget"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the budgets",
-        "fr": "Plural: les budgets",
-        "it": "Plural: i budget",
-        "pt": "Plural: os orçamentos"
+        "en": "(Plural: The budgets)",
+        "fr": "(Plural: Les budgets)",
+        "it": "(Plural: I budget)",
+        "pt": "(Plural: Os orçamentos)",
+        "de": "(Plural: Die Budgets)"
+      },
+      "examples": {
+        "en": {
+          "text": "My budget for clothes is fifty euros.",
+          "es": "Mi presupuesto para la ropa es de cincuenta euros."
+        },
+        "fr": {
+          "text": "Mon budget pour les vêtements est de cinquante euros.",
+          "es": "Mi presupuesto para la ropa es de cincuenta euros."
+        },
+        "it": {
+          "text": "Il mio budget per i vestiti è di cinquanta euro.",
+          "es": "Mi presupuesto para la ropa es de cincuenta euros."
+        },
+        "pt": {
+          "text": "Meu orçamento para roupas é de cinquenta euros.",
+          "es": "Mi presupuesto para la ropa es de cincuenta euros."
+        },
+        "de": {
+          "text": "Mein Budget für Kleidung beträgt fünfzig Euro.",
+          "es": "Mi presupuesto para la ropa es de cincuenta euros."
+        }
       }
     },
     {
@@ -271,32 +705,80 @@
       "translations": {
         "en": "The amount",
         "fr": "Le montant",
-        "it": "L’importo",
-        "pt": "O valor / A quantia"
+        "it": "L'importo",
+        "pt": "O valor / A quantia",
+        "de": "Der Betrag"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the amounts",
-        "fr": "Plural: les montants",
-        "it": "Plural: gli importi",
-        "pt": "Plural: os valores / as quantias"
+        "en": "(Plural: The amounts)",
+        "fr": "(Plural: Les montants)",
+        "it": "(Plural: Gli importi)",
+        "pt": "(Plural: Os valores / As quantias)",
+        "de": "(Plural: Die Beträge)"
+      },
+      "examples": {
+        "en": {
+          "text": "I write the amount on the form.",
+          "es": "Escribo el monto en el formulario."
+        },
+        "fr": {
+          "text": "J'écris le montant sur le formulaire.",
+          "es": "Escribo el monto en el formulario."
+        },
+        "it": {
+          "text": "Scrivo l'importo sul modulo.",
+          "es": "Escribo el monto en el formulario."
+        },
+        "pt": {
+          "text": "Escrevo o valor no formulário.",
+          "es": "Escribo el monto en el formulario."
+        },
+        "de": {
+          "text": "Ich schreibe den Betrag auf das Formular.",
+          "es": "Escribo el monto en el formulario."
+        }
       }
     },
     {
       "id": "cd18",
       "es": "Las monedas sueltas",
       "translations": {
-        "en": "The loose change",
+        "en": "Loose change",
         "fr": "La petite monnaie",
         "it": "Gli spiccioli",
-        "pt": "As moedas soltas"
+        "pt": "As moedas soltas",
+        "de": "Das Kleingeld"
       },
       "image_url": "",
       "notes": {
-        "es": "Monedas de poco valor.",
+        "es": "(Monedas sueltas) Se refiere a las monedas que uno trae, no necesariamente al cambio de un pago.",
         "en": "Change es incontable.",
         "fr": "Monnaie es incontable en este sentido.",
-        "it": "Plural de uso habitual."
+        "it": "Plural de uso habitual.",
+        "de": "Incontable en este sentido. «Rückgeld» se refiere al dinero devuelto tras pagar."
+      },
+      "examples": {
+        "en": {
+          "text": "I have loose change in my pocket.",
+          "es": "Tengo monedas sueltas en el bolsillo."
+        },
+        "fr": {
+          "text": "J'ai de la petite monnaie dans ma poche.",
+          "es": "Tengo monedas sueltas en el bolsillo."
+        },
+        "it": {
+          "text": "Ho degli spiccioli in tasca.",
+          "es": "Tengo monedas sueltas en el bolsillo."
+        },
+        "pt": {
+          "text": "Tenho moedas soltas no bolso.",
+          "es": "Tengo monedas sueltas en el bolsillo."
+        },
+        "de": {
+          "text": "Ich habe Kleingeld in der Tasche.",
+          "es": "Tengo monedas sueltas en el bolsillo."
+        }
       }
     },
     {
@@ -306,15 +788,39 @@
         "en": "The cent",
         "fr": "Le centime",
         "it": "Il centesimo",
-        "pt": "O centavo"
+        "pt": "O centavo",
+        "de": "Der Cent"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the cents",
-        "fr": "Plural: les centimes",
-        "it": "Plural: i centesimi",
-        "pt": "Plural: os centavos",
-        "es": "Unidad monetaria equivalente a una centésima de ciertas monedas."
+        "en": "(Plural: The cents)",
+        "fr": "(Plural: Les centimes)",
+        "it": "(Plural: I centesimi)",
+        "pt": "(Plural: Os centavos)",
+        "es": "(Centésima de una unidad monetaria)",
+        "de": "(Plural: Die Cent / Die Cents) Con cantidades se usa habitualmente «Cent»: «fünfzig Cent»."
+      },
+      "examples": {
+        "en": {
+          "text": "I'm one cent short.",
+          "es": "Me falta un centavo."
+        },
+        "fr": {
+          "text": "Il me manque un centime.",
+          "es": "Me falta un centavo."
+        },
+        "it": {
+          "text": "Mi manca un centesimo.",
+          "es": "Me falta un centavo."
+        },
+        "pt": {
+          "text": "Falta um centavo.",
+          "es": "Me falta un centavo."
+        },
+        "de": {
+          "text": "Mir fehlt ein Cent.",
+          "es": "Me falta un centavo."
+        }
       }
     },
     {
@@ -324,14 +830,38 @@
         "en": "The US dollar",
         "fr": "Le dollar américain",
         "it": "Il dollaro statunitense",
-        "pt": "O dólar americano"
+        "pt": "O dólar americano",
+        "de": "Der US-Dollar"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the US dollars",
-        "fr": "Plural: les dollars américains",
-        "it": "Plural: i dollari statunitensi",
-        "pt": "Plural: os dólares americanos"
+        "en": "(Plural: The US dollars)",
+        "fr": "(Plural: Les dollars américains)",
+        "it": "(Plural: I dollari statunitensi)",
+        "pt": "(Plural: Os dólares americanos)",
+        "de": "(Plural: Die US-Dollar)"
+      },
+      "examples": {
+        "en": {
+          "text": "I have ten US dollars in cash.",
+          "es": "Tengo diez dólares estadounidenses en efectivo."
+        },
+        "fr": {
+          "text": "J'ai dix dollars américains en espèces.",
+          "es": "Tengo diez dólares estadounidenses en efectivo."
+        },
+        "it": {
+          "text": "Ho dieci dollari statunitensi in contanti.",
+          "es": "Tengo diez dólares estadounidenses en efectivo."
+        },
+        "pt": {
+          "text": "Tenho dez dólares americanos em espécie.",
+          "es": "Tengo diez dólares estadounidenses en efectivo."
+        },
+        "de": {
+          "text": "Ich habe zehn US-Dollar in bar.",
+          "es": "Tengo diez dólares estadounidenses en efectivo."
+        }
       }
     },
     {
@@ -339,16 +869,40 @@
       "es": "El euro",
       "translations": {
         "en": "The euro",
-        "fr": "L’euro",
-        "it": "L’euro",
-        "pt": "O euro"
+        "fr": "L'euro",
+        "it": "L'euro",
+        "pt": "O euro",
+        "de": "Der Euro"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the euros",
-        "fr": "Plural: les euros",
-        "it": "Plural: gli euro",
-        "pt": "Plural: os euros"
+        "en": "(Plural: The euros)",
+        "fr": "(Plural: Les euros)",
+        "it": "(Plural: Gli euro)",
+        "pt": "(Plural: Os euros)",
+        "de": "(Plural: Die Euro / Die Euros)"
+      },
+      "examples": {
+        "en": {
+          "text": "The bag costs one euro.",
+          "es": "La bolsa cuesta un euro."
+        },
+        "fr": {
+          "text": "Le sac coûte un euro.",
+          "es": "La bolsa cuesta un euro."
+        },
+        "it": {
+          "text": "Il sacchetto costa un euro.",
+          "es": "La bolsa cuesta un euro."
+        },
+        "pt": {
+          "text": "A sacola custa um euro.",
+          "es": "La bolsa cuesta un euro."
+        },
+        "de": {
+          "text": "Die Tüte kostet einen Euro.",
+          "es": "La bolsa cuesta un euro."
+        }
       }
     },
     {
@@ -358,14 +912,38 @@
         "en": "The Brazilian real",
         "fr": "Le réal brésilien",
         "it": "Il real brasiliano",
-        "pt": "O real brasileiro"
+        "pt": "O real brasileiro",
+        "de": "Der brasilianische Real"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the Brazilian reals",
-        "fr": "Plural: les réals brésiliens Plural poco frecuente en el uso cotidiano.",
-        "it": "Plural: i real brasiliani",
-        "pt": "Plural: os reais brasileiros"
+        "en": "(Plural: The Brazilian reals)",
+        "fr": "(Plural: Les réaux brésiliens)",
+        "it": "(Plural: I reais brasiliani)",
+        "pt": "(Plural: Os reais brasileiros)",
+        "de": "(Plural: Die brasilianischen Reais) Con cantidades también se usa «Real»: «fünfzig Real»."
+      },
+      "examples": {
+        "en": {
+          "text": "This piece of candy costs one Brazilian real.",
+          "es": "Este dulce cuesta un real brasileño."
+        },
+        "fr": {
+          "text": "Ce bonbon coûte un réal brésilien.",
+          "es": "Este dulce cuesta un real brasileño."
+        },
+        "it": {
+          "text": "Questa caramella costa un real brasiliano.",
+          "es": "Este dulce cuesta un real brasileño."
+        },
+        "pt": {
+          "text": "Este doce custa um real brasileiro.",
+          "es": "Este dulce cuesta un real brasileño."
+        },
+        "de": {
+          "text": "Diese Süßigkeit kostet einen brasilianischen Real.",
+          "es": "Este dulce cuesta un real brasileño."
+        }
       }
     },
     {
@@ -375,14 +953,38 @@
         "en": "The Mexican peso",
         "fr": "Le peso mexicain",
         "it": "Il peso messicano",
-        "pt": "O peso mexicano"
+        "pt": "O peso mexicano",
+        "de": "Der mexikanische Peso"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the Mexican pesos",
-        "fr": "Plural: les pesos mexicains",
-        "it": "Plural: i pesos messicani",
-        "pt": "Plural: os pesos mexicanos"
+        "en": "(Plural: The Mexican pesos)",
+        "fr": "(Plural: Les pesos mexicains)",
+        "it": "(Plural: I pesos messicani)",
+        "pt": "(Plural: Os pesos mexicanos)",
+        "de": "(Plural: Die mexikanischen Pesos)"
+      },
+      "examples": {
+        "en": {
+          "text": "I pay in Mexican pesos at this store.",
+          "es": "En esta tienda pago en pesos mexicanos."
+        },
+        "fr": {
+          "text": "Dans ce magasin, je paie en pesos mexicains.",
+          "es": "En esta tienda pago en pesos mexicanos."
+        },
+        "it": {
+          "text": "In questo negozio pago in pesos messicani.",
+          "es": "En esta tienda pago en pesos mexicanos."
+        },
+        "pt": {
+          "text": "Nesta loja, pago em pesos mexicanos.",
+          "es": "En esta tienda pago en pesos mexicanos."
+        },
+        "de": {
+          "text": "In diesem Geschäft bezahle ich mit mexikanischen Pesos.",
+          "es": "En esta tienda pago en pesos mexicanos."
+        }
       }
     },
     {
@@ -392,15 +994,39 @@
         "en": "The quantity",
         "fr": "La quantité",
         "it": "La quantità",
-        "pt": "A quantidade"
+        "pt": "A quantidade",
+        "de": "Die Menge"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the quantities",
-        "fr": "Plural: les quantités",
-        "it": "Plural: le quantità",
-        "pt": "Plural: as quantidades",
-        "es": "De productos; no de dinero."
+        "en": "(Plural: The quantities)",
+        "fr": "(Plural: Les quantités)",
+        "it": "(Plural: Le quantità)",
+        "pt": "(Plural: As quantidades)",
+        "es": "(Cantidad de productos, no monto de dinero)",
+        "de": "(Plural: Die Mengen)"
+      },
+      "examples": {
+        "en": {
+          "text": "I write down the quantity of apples.",
+          "es": "Anoto la cantidad de manzanas."
+        },
+        "fr": {
+          "text": "Je note la quantité de pommes.",
+          "es": "Anoto la cantidad de manzanas."
+        },
+        "it": {
+          "text": "Annoto la quantità di mele.",
+          "es": "Anoto la cantidad de manzanas."
+        },
+        "pt": {
+          "text": "Anoto a quantidade de maçãs.",
+          "es": "Anoto la cantidad de manzanas."
+        },
+        "de": {
+          "text": "Ich notiere die Menge an Äpfeln.",
+          "es": "Anoto la cantidad de manzanas."
+        }
       }
     },
     {
@@ -408,16 +1034,40 @@
       "es": "La unidad / La pieza",
       "translations": {
         "en": "The unit / The piece",
-        "fr": "L’unité / La pièce",
-        "it": "L’unità / Il pezzo",
-        "pt": "A unidade / A peça"
+        "fr": "L'unité / La pièce",
+        "it": "L'unità / Il pezzo",
+        "pt": "A unidade / A peça",
+        "de": "Die Einheit / Das Stück"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the units / the pieces",
-        "fr": "Plural: les unités / les pièces",
-        "it": "Plural: le unità / i pezzi",
-        "pt": "Plural: as unidades / as peças"
+        "en": "(Plural: The units / The pieces)",
+        "fr": "(Plural: Les unités / Les pièces)",
+        "it": "(Plural: Le unità / I pezzi)",
+        "pt": "(Plural: As unidades / As peças)",
+        "de": "(Plural: Die Einheiten / Die Stücke)"
+      },
+      "examples": {
+        "en": {
+          "text": "They sell this soap by the piece.",
+          "es": "Venden este jabón por pieza."
+        },
+        "fr": {
+          "text": "On vend ce savon à la pièce.",
+          "es": "Venden este jabón por pieza."
+        },
+        "it": {
+          "text": "Vendono questo sapone al pezzo.",
+          "es": "Venden este jabón por pieza."
+        },
+        "pt": {
+          "text": "Vendem este sabonete por unidade.",
+          "es": "Venden este jabón por pieza."
+        },
+        "de": {
+          "text": "Sie verkaufen diese Seife pro Stück.",
+          "es": "Venden este jabón por pieza."
+        }
       }
     },
     {
@@ -427,14 +1077,38 @@
         "en": "The pair",
         "fr": "La paire",
         "it": "Il paio",
-        "pt": "O par"
+        "pt": "O par",
+        "de": "Das Paar"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the pairs",
-        "fr": "Plural: les paires",
-        "it": "Plural: le paia",
-        "pt": "Plural: os pares"
+        "en": "(Plural: The pairs)",
+        "fr": "(Plural: Les paires)",
+        "it": "(Plural: Le paia)",
+        "pt": "(Plural: Os pares)",
+        "de": "(Plural: Die Paare)"
+      },
+      "examples": {
+        "en": {
+          "text": "I need a pair of socks.",
+          "es": "Necesito un par de calcetines."
+        },
+        "fr": {
+          "text": "J'ai besoin d'une paire de chaussettes.",
+          "es": "Necesito un par de calcetines."
+        },
+        "it": {
+          "text": "Mi serve un paio di calzini.",
+          "es": "Necesito un par de calcetines."
+        },
+        "pt": {
+          "text": "Preciso de um par de meias.",
+          "es": "Necesito un par de calcetines."
+        },
+        "de": {
+          "text": "Ich brauche ein Paar Socken.",
+          "es": "Necesito un par de calcetines."
+        }
       }
     },
     {
@@ -444,14 +1118,38 @@
         "en": "The dozen",
         "fr": "La douzaine",
         "it": "La dozzina",
-        "pt": "A dúzia"
+        "pt": "A dúzia",
+        "de": "Das Dutzend"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the dozens",
-        "fr": "Plural: les douzaines",
-        "it": "Plural: le dozzine",
-        "pt": "Plural: as dúzias"
+        "en": "(Plural: The dozens)",
+        "fr": "(Plural: Les douzaines)",
+        "it": "(Plural: Le dozzine)",
+        "pt": "(Plural: As dúzias)",
+        "de": "(Plural: Die Dutzend) Con cantidades exactas se usa «Dutzend»: «zwei Dutzend Eier». «Dutzende» suele expresar una cantidad grande e imprecisa."
+      },
+      "examples": {
+        "en": {
+          "text": "I buy a dozen eggs.",
+          "es": "Compro una docena de huevos."
+        },
+        "fr": {
+          "text": "J'achète une douzaine d'œufs.",
+          "es": "Compro una docena de huevos."
+        },
+        "it": {
+          "text": "Compro una dozzina di uova.",
+          "es": "Compro una docena de huevos."
+        },
+        "pt": {
+          "text": "Compro uma dúzia de ovos.",
+          "es": "Compro una docena de huevos."
+        },
+        "de": {
+          "text": "Ich kaufe ein Dutzend Eier.",
+          "es": "Compro una docena de huevos."
+        }
       }
     },
     {
@@ -461,14 +1159,38 @@
         "en": "The package / The pack",
         "fr": "Le paquet",
         "it": "La confezione / Il pacco",
-        "pt": "O pacote"
+        "pt": "O pacote",
+        "de": "Die Packung"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the packages / the packs",
-        "fr": "Plural: les paquets",
-        "it": "Plural: le confezioni / i pacchi",
-        "pt": "Plural: os pacotes"
+        "en": "(Plural: The packages / The packs)",
+        "fr": "(Plural: Les paquets)",
+        "it": "(Plural: Le confezioni / I pacchi)",
+        "pt": "(Plural: Os pacotes)",
+        "de": "(Plural: Die Packungen)"
+      },
+      "examples": {
+        "en": {
+          "text": "I open a pack of cookies.",
+          "es": "Abro un paquete de galletas."
+        },
+        "fr": {
+          "text": "J'ouvre un paquet de biscuits.",
+          "es": "Abro un paquete de galletas."
+        },
+        "it": {
+          "text": "Apro una confezione di biscotti.",
+          "es": "Abro un paquete de galletas."
+        },
+        "pt": {
+          "text": "Abro um pacote de biscoitos.",
+          "es": "Abro un paquete de galletas."
+        },
+        "de": {
+          "text": "Ich öffne eine Packung Kekse.",
+          "es": "Abro un paquete de galletas."
+        }
       }
     },
     {
@@ -478,15 +1200,39 @@
         "en": "The weight",
         "fr": "Le poids",
         "it": "Il peso",
-        "pt": "O peso"
+        "pt": "O peso",
+        "de": "Das Gewicht"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the weights",
-        "fr": "Plural: les poids",
-        "it": "Plural: i pesi",
-        "pt": "Plural: os pesos",
-        "es": "Masa de un producto."
+        "en": "(Plural: The weights)",
+        "fr": "(Plural: Les poids)",
+        "it": "(Plural: I pesi)",
+        "pt": "(Plural: Os pesos)",
+        "es": "(Peso de un producto, no la moneda)",
+        "de": "(Plural: Die Gewichte)"
+      },
+      "examples": {
+        "en": {
+          "text": "The label shows the weight of the cheese.",
+          "es": "La etiqueta indica el peso del queso."
+        },
+        "fr": {
+          "text": "L'étiquette indique le poids du fromage.",
+          "es": "La etiqueta indica el peso del queso."
+        },
+        "it": {
+          "text": "L'etichetta indica il peso del formaggio.",
+          "es": "La etiqueta indica el peso del queso."
+        },
+        "pt": {
+          "text": "A etiqueta indica o peso do queijo.",
+          "es": "La etiqueta indica el peso del queso."
+        },
+        "de": {
+          "text": "Auf dem Etikett steht das Gewicht des Käses.",
+          "es": "La etiqueta indica el peso del queso."
+        }
       }
     },
     {
@@ -496,14 +1242,38 @@
         "en": "The gram",
         "fr": "Le gramme",
         "it": "Il grammo",
-        "pt": "O grama"
+        "pt": "O grama",
+        "de": "Das Gramm"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the grams",
-        "fr": "Plural: les grammes",
-        "it": "Plural: i grammi",
-        "pt": "Plural: os gramas"
+        "en": "(Plural: The grams)",
+        "fr": "(Plural: Les grammes)",
+        "it": "(Plural: I grammi)",
+        "pt": "(Plural: Os gramas)",
+        "de": "(Plural: Die Gramme) Con cantidades se usa «Gramm»: «fünf Gramm»."
+      },
+      "examples": {
+        "en": {
+          "text": "This coin weighs five grams.",
+          "es": "Esta moneda pesa cinco gramos."
+        },
+        "fr": {
+          "text": "Cette pièce pèse cinq grammes.",
+          "es": "Esta moneda pesa cinco gramos."
+        },
+        "it": {
+          "text": "Questa moneta pesa cinque grammi.",
+          "es": "Esta moneda pesa cinco gramos."
+        },
+        "pt": {
+          "text": "Esta moeda pesa cinco gramas.",
+          "es": "Esta moneda pesa cinco gramos."
+        },
+        "de": {
+          "text": "Diese Münze wiegt fünf Gramm.",
+          "es": "Esta moneda pesa cinco gramos."
+        }
       }
     },
     {
@@ -513,14 +1283,38 @@
         "en": "The kilogram / The kilo",
         "fr": "Le kilogramme / Le kilo",
         "it": "Il chilogrammo / Il chilo",
-        "pt": "O quilograma / O quilo"
+        "pt": "O quilograma / O quilo",
+        "de": "Das Kilogramm / Das Kilo"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the kilograms / the kilos",
-        "fr": "Plural: les kilogrammes / les kilos",
-        "it": "Plural: i chilogrammi / i chili",
-        "pt": "Plural: os quilogramas / os quilos"
+        "en": "(Plural: The kilograms / The kilos)",
+        "fr": "(Plural: Les kilogrammes / Les kilos)",
+        "it": "(Plural: I chilogrammi / I chili)",
+        "pt": "(Plural: Os quilogramas / Os quilos)",
+        "de": "(Plural: Die Kilogramm / Die Kilogramme / Die Kilos) Con cantidades se usa «Kilogramm» o «Kilo»: «zwei Kilogramm Reis»."
+      },
+      "examples": {
+        "en": {
+          "text": "I buy a kilo of rice.",
+          "es": "Compro un kilo de arroz."
+        },
+        "fr": {
+          "text": "J'achète un kilo de riz.",
+          "es": "Compro un kilo de arroz."
+        },
+        "it": {
+          "text": "Compro un chilo di riso.",
+          "es": "Compro un kilo de arroz."
+        },
+        "pt": {
+          "text": "Compro um quilo de arroz.",
+          "es": "Compro un kilo de arroz."
+        },
+        "de": {
+          "text": "Ich kaufe ein Kilo Reis.",
+          "es": "Compro un kilo de arroz."
+        }
       }
     },
     {
@@ -530,14 +1324,38 @@
         "en": "The liter",
         "fr": "Le litre",
         "it": "Il litro",
-        "pt": "O litro"
+        "pt": "O litro",
+        "de": "Der Liter"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the liters",
-        "fr": "Plural: les litres",
-        "it": "Plural: i litri",
-        "pt": "Plural: os litros"
+        "en": "(Plural: The liters)",
+        "fr": "(Plural: Les litres)",
+        "it": "(Plural: I litri)",
+        "pt": "(Plural: Os litros)",
+        "de": "(Plural: Die Liter)"
+      },
+      "examples": {
+        "en": {
+          "text": "The bottle holds one liter of water.",
+          "es": "La botella trae un litro de agua."
+        },
+        "fr": {
+          "text": "La bouteille contient un litre d'eau.",
+          "es": "La botella trae un litro de agua."
+        },
+        "it": {
+          "text": "La bottiglia contiene un litro d'acqua.",
+          "es": "La botella trae un litro de agua."
+        },
+        "pt": {
+          "text": "A garrafa contém um litro de água.",
+          "es": "La botella trae un litro de agua."
+        },
+        "de": {
+          "text": "In der Flasche ist ein Liter Wasser.",
+          "es": "La botella trae un litro de agua."
+        }
       }
     },
     {
@@ -545,17 +1363,41 @@
       "es": "La libra",
       "translations": {
         "en": "The pound",
-        "fr": "La livre",
+        "fr": "La livre anglaise",
         "it": "La libbra",
-        "pt": "A libra"
+        "pt": "A libra",
+        "de": "Das englische Pfund"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the pounds",
-        "fr": "Plural: les livres",
-        "it": "Plural: le libbre",
-        "pt": "Plural: as libras",
-        "es": "Unidad de masa (lb)."
+        "en": "(Plural: The pounds)",
+        "fr": "(Plural: Les livres anglaises) En Francia «une livre» también puede indicar 500 gramos.",
+        "it": "(Plural: Le libbre)",
+        "pt": "(Plural: As libras)",
+        "es": "(Unidad de masa, lb)",
+        "de": "(Plural: Die englischen Pfunde) «Pfund» sin más equivale normalmente a 500 g en Alemania; la libra anglosajona equivale a unos 454 g."
+      },
+      "examples": {
+        "en": {
+          "text": "I asked for a pound of cheese.",
+          "es": "Pedí una libra de queso."
+        },
+        "fr": {
+          "text": "Une livre anglaise pèse environ 454 grammes.",
+          "es": "Una libra anglosajona pesa aproximadamente 454 gramos."
+        },
+        "it": {
+          "text": "Ho chiesto una libbra di formaggio.",
+          "es": "Pedí una libra de queso."
+        },
+        "pt": {
+          "text": "Pedi uma libra de queijo.",
+          "es": "Pedí una libra de queso."
+        },
+        "de": {
+          "text": "Im Rezept steht ein englisches Pfund Mehl.",
+          "es": "La receta pide una libra de harina."
+        }
       }
     },
     {
@@ -563,17 +1405,41 @@
       "es": "La onza",
       "translations": {
         "en": "The ounce",
-        "fr": "L’once",
-        "it": "L’oncia",
-        "pt": "A onça"
+        "fr": "L'once",
+        "it": "L'oncia",
+        "pt": "A onça",
+        "de": "Die Unze"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the ounces",
-        "fr": "Plural: les onces",
-        "it": "Plural: le once",
-        "pt": "Plural: as onças",
-        "es": "Unidad de masa (oz)."
+        "en": "(Plural: The ounces)",
+        "fr": "(Plural: Les onces)",
+        "it": "(Plural: Le once)",
+        "pt": "(Plural: As onças) «Onça» también puede nombrar al jaguar; aquí es una unidad de masa.",
+        "es": "(Unidad de masa, oz)",
+        "de": "(Plural: Die Unzen)"
+      },
+      "examples": {
+        "en": {
+          "text": "This piece of chocolate weighs one ounce.",
+          "es": "Este pedazo de chocolate pesa una onza."
+        },
+        "fr": {
+          "text": "Ce morceau de chocolat pèse une once.",
+          "es": "Este pedazo de chocolate pesa una onza."
+        },
+        "it": {
+          "text": "Questo pezzo di cioccolato pesa un'oncia.",
+          "es": "Este pedazo de chocolate pesa una onza."
+        },
+        "pt": {
+          "text": "Este pedaço de chocolate pesa uma onça.",
+          "es": "Este pedazo de chocolate pesa una onza."
+        },
+        "de": {
+          "text": "Dieses Stück Schokolade wiegt eine Unze.",
+          "es": "Este pedazo de chocolate pesa una onza."
+        }
       }
     },
     {
@@ -583,12 +1449,15 @@
         "en": "How many would you like?",
         "pt": "Quantos você quer?",
         "fr": "Combien en voulez-vous ?",
-        "it": "Quanti ne desidera?"
+        "it": "Quanti ne desidera?",
+        "de": "Wie viele möchten Sie?"
       },
       "image_url": "",
       "notes": {
-        "es": "Para productos contables.",
-        "it": "Tratamiento formal."
+        "es": "(Productos que se pueden contar)",
+        "it": "(Formal) «Ne» representa lo que se está comprando.",
+        "fr": "(Formal) «En» representa lo que se está comprando. También se oye con cantidades por peso o volumen.",
+        "de": "(Formal) «Viele» se usa con unidades que se pueden contar."
       }
     },
     {
@@ -597,12 +1466,16 @@
       "translations": {
         "en": "How much would you like?",
         "pt": "Quanto você quer?",
-        "fr": "Vous en voulez quelle quantité ?",
-        "it": "Quanto ne vuole?"
+        "fr": "Quelle quantité voulez-vous ?",
+        "it": "Quanto ne desidera?",
+        "de": "Wie viel möchten Sie?"
       },
       "image_url": "",
       "notes": {
-        "es": "Para cantidades por peso o volumen."
+        "es": "(Cantidad por peso o volumen)",
+        "fr": "(Formal) También se usa «Combien en voulez-vous ?», tanto con productos contables como con cantidades por peso o volumen.",
+        "it": "(Formal) «Ne» representa lo que se está comprando.",
+        "de": "(Formal) «Viel» se usa con cantidades no contables."
       }
     },
     {
@@ -612,7 +1485,8 @@
         "en": "Just one, please.",
         "pt": "Só um, por favor.",
         "fr": "Un seul, s'il vous plaît.",
-        "it": "Uno solo, per favore."
+        "it": "Uno solo, per favore.",
+        "de": "Nur eins, bitte."
       },
       "image_url": ""
     },
@@ -623,7 +1497,8 @@
         "en": "One of each, please.",
         "pt": "Um de cada, por favor.",
         "fr": "Un de chaque, s'il vous plaît.",
-        "it": "Uno di ciascuno, per favore."
+        "it": "Uno di ciascuno, per favore.",
+        "de": "Von jedem eins, bitte."
       },
       "image_url": ""
     },
@@ -634,7 +1509,8 @@
         "en": "I'd like half a kilo, please.",
         "pt": "Gostaria de meio quilo, por favor.",
         "fr": "Je voudrais un demi-kilo, s'il vous plaît.",
-        "it": "Vorrei mezzo chilo, per favore."
+        "it": "Vorrei mezzo chilo, per favore.",
+        "de": "Ich hätte gern ein halbes Kilo, bitte."
       },
       "image_url": ""
     },
@@ -645,7 +1521,8 @@
         "en": "Two packs of this product, please.",
         "pt": "Dois pacotes deste produto, por favor.",
         "fr": "Deux paquets de ce produit, s'il vous plaît.",
-        "it": "Due confezioni di questo prodotto, per favore."
+        "it": "Due confezioni di questo prodotto, per favore.",
+        "de": "Zwei Packungen davon, bitte."
       },
       "image_url": ""
     },
@@ -656,7 +1533,8 @@
         "en": "Is it sold individually or by weight?",
         "pt": "É vendido por unidade ou por peso?",
         "fr": "C'est vendu à la pièce ou au poids ?",
-        "it": "Si vende al pezzo o a peso?"
+        "it": "Si vende al pezzo o a peso?",
+        "de": "Wird das pro Stück oder nach Gewicht verkauft?"
       },
       "image_url": ""
     },
@@ -667,7 +1545,8 @@
         "en": "How many items are in the pack?",
         "pt": "Quantas unidades vêm no pacote?",
         "fr": "Combien d'unités y a-t-il dans le paquet ?",
-        "it": "Quanti pezzi ci sono nella confezione?"
+        "it": "Quanti pezzi ci sono nella confezione?",
+        "de": "Wie viele Stücke sind in der Packung?"
       },
       "image_url": ""
     },
@@ -678,7 +1557,8 @@
         "en": "I need two more.",
         "pt": "Preciso de mais dois.",
         "fr": "Il m'en faut deux de plus.",
-        "it": "Me ne servono altri due."
+        "it": "Me ne servono altri due.",
+        "de": "Ich brauche noch zwei."
       },
       "image_url": ""
     },
@@ -687,9 +1567,10 @@
       "es": "Son demasiados.",
       "translations": {
         "en": "That's too many.",
-        "pt": "São muitos.",
+        "pt": "São muitos demais.",
         "fr": "Il y en a trop.",
-        "it": "Sono troppi."
+        "it": "Sono troppi.",
+        "de": "Das sind zu viele."
       },
       "image_url": ""
     },
@@ -700,7 +1581,8 @@
         "en": "How much does this cost?",
         "pt": "Quanto custa isso?",
         "fr": "Combien ça coûte ?",
-        "it": "Quanto costa questo?"
+        "it": "Quanto costa questo?",
+        "de": "Wie viel kostet das?"
       },
       "image_url": ""
     },
@@ -711,7 +1593,8 @@
         "en": "Is that the price for one item?",
         "pt": "Esse é o preço de uma unidade?",
         "fr": "C'est le prix pour une unité ?",
-        "it": "È il prezzo di un pezzo?"
+        "it": "È il prezzo per un pezzo?",
+        "de": "Ist das der Preis für ein Stück?"
       },
       "image_url": ""
     },
@@ -721,8 +1604,9 @@
       "translations": {
         "en": "It costs ten dollars and fifty cents.",
         "pt": "Custa dez dólares e cinquenta centavos.",
-        "fr": "Ça coûte dix dollars cinquante.",
-        "it": "Costa dieci dollari e cinquanta centesimi."
+        "fr": "Ça coûte dix dollars et cinquante cents.",
+        "it": "Costa dieci dollari e cinquanta centesimi.",
+        "de": "Das kostet zehn Dollar und fünfzig Cent."
       },
       "image_url": ""
     },
@@ -733,7 +1617,8 @@
         "en": "That's twenty euros altogether.",
         "pt": "São vinte euros no total.",
         "fr": "Ça fait vingt euros au total.",
-        "it": "Sono venti euro in tutto."
+        "it": "Sono venti euro in tutto.",
+        "de": "Das macht insgesamt zwanzig Euro."
       },
       "image_url": ""
     },
@@ -742,9 +1627,10 @@
       "es": "¿Los dos cuestan lo mismo?",
       "translations": {
         "en": "Do they both cost the same?",
-        "pt": "Os dois custam a mesma coisa?",
+        "pt": "Os dois custam o mesmo?",
         "fr": "Les deux coûtent-ils le même prix ?",
-        "it": "Costano tutti e due uguale?"
+        "it": "Costano lo stesso?",
+        "de": "Kosten beide gleich viel?"
       },
       "image_url": ""
     },
@@ -755,7 +1641,8 @@
         "en": "It's too expensive for me.",
         "pt": "É caro demais para mim.",
         "fr": "C'est trop cher pour moi.",
-        "it": "È troppo caro per me."
+        "it": "È troppo caro per me.",
+        "de": "Das ist mir zu teuer."
       },
       "image_url": ""
     },
@@ -766,9 +1653,13 @@
         "en": "Do you have anything cheaper?",
         "pt": "Tem algo mais barato?",
         "fr": "Avez-vous quelque chose de moins cher ?",
-        "it": "Ha qualcosa di più economico?"
+        "it": "Ha qualcosa di più economico?",
+        "de": "Haben Sie etwas Günstigeres?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Formal)"
+      }
     },
     {
       "id": "cd52",
@@ -777,7 +1668,8 @@
         "en": "Which one is the cheapest?",
         "pt": "Qual é o mais barato?",
         "fr": "Lequel est le moins cher ?",
-        "it": "Qual è il più economico?"
+        "it": "Qual è il più economico?",
+        "de": "Welches ist am günstigsten?"
       },
       "image_url": ""
     },
@@ -788,7 +1680,8 @@
         "en": "I don't want to spend more than twenty euros.",
         "pt": "Não quero gastar mais de vinte euros.",
         "fr": "Je ne veux pas dépenser plus de vingt euros.",
-        "it": "Non voglio spendere più di venti euro."
+        "it": "Non voglio spendere più di venti euro.",
+        "de": "Ich möchte nicht mehr als zwanzig Euro ausgeben."
       },
       "image_url": ""
     },
@@ -799,7 +1692,8 @@
         "en": "Is this item on sale?",
         "pt": "Este produto está em promoção?",
         "fr": "Ce produit est-il en promotion ?",
-        "it": "Questo prodotto è in offerta?"
+        "it": "Questo prodotto è in offerta?",
+        "de": "Ist dieser Artikel im Angebot?"
       },
       "image_url": ""
     },
@@ -810,7 +1704,8 @@
         "en": "The discount is ten percent.",
         "pt": "O desconto é de dez por cento.",
         "fr": "La réduction est de dix pour cent.",
-        "it": "Lo sconto è del dieci per cento."
+        "it": "Lo sconto è del dieci per cento.",
+        "de": "Der Rabatt beträgt zehn Prozent."
       },
       "image_url": ""
     },
@@ -821,7 +1716,8 @@
         "en": "The price tag says fifteen euros.",
         "pt": "A etiqueta diz quinze euros.",
         "fr": "L'étiquette indique quinze euros.",
-        "it": "Il cartellino indica quindici euro."
+        "it": "Il cartellino indica quindici euro.",
+        "de": "Auf dem Preisschild steht fünfzehn Euro."
       },
       "image_url": ""
     },
@@ -832,7 +1728,8 @@
         "en": "How much does the bag cost?",
         "pt": "Quanto custa a sacola?",
         "fr": "Combien coûte le sac ?",
-        "it": "Quanto costa il sacchetto?"
+        "it": "Quanto costa il sacchetto?",
+        "de": "Wie viel kostet die Tüte?"
       },
       "image_url": ""
     },
@@ -843,9 +1740,13 @@
         "en": "Do you have this product?",
         "pt": "Tem este produto?",
         "fr": "Avez-vous ce produit ?",
-        "it": "Ha questo prodotto?"
+        "it": "Ha questo prodotto?",
+        "de": "Haben Sie dieses Produkt?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Formal)"
+      }
     },
     {
       "id": "cd59",
@@ -854,7 +1755,8 @@
         "en": "Where can I find this item?",
         "pt": "Onde encontro este artigo?",
         "fr": "Où puis-je trouver cet article ?",
-        "it": "Dove posso trovare questo articolo?"
+        "it": "Dove posso trovare questo articolo?",
+        "de": "Wo finde ich diesen Artikel?"
       },
       "image_url": ""
     },
@@ -865,9 +1767,13 @@
         "en": "Which aisle is it in?",
         "pt": "Em que corredor fica?",
         "fr": "Dans quelle allée est-il ?",
-        "it": "In quale corsia si trova?"
+        "it": "In quale corsia si trova?",
+        "de": "In welchem Gang ist das?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Pasillo de una tienda)"
+      }
     },
     {
       "id": "cd61",
@@ -875,8 +1781,9 @@
       "translations": {
         "en": "It's in aisle three.",
         "pt": "Fica no corredor três.",
-        "fr": "C’est dans l’allée trois.",
-        "it": "Si trova nella corsia tre."
+        "fr": "C'est dans l'allée trois.",
+        "it": "Si trova nella corsia tre.",
+        "de": "Das ist in Gang drei."
       },
       "image_url": ""
     },
@@ -887,7 +1794,8 @@
         "en": "It's next to the checkout.",
         "pt": "Fica ao lado do caixa.",
         "fr": "C'est à côté de la caisse.",
-        "it": "È accanto alla cassa."
+        "it": "È accanto alla cassa.",
+        "de": "Das ist neben der Kasse."
       },
       "image_url": ""
     },
@@ -898,7 +1806,8 @@
         "en": "There's only one left.",
         "pt": "Só resta um.",
         "fr": "Il n'en reste qu'un.",
-        "it": "Ne è rimasto solo uno."
+        "it": "Ne è rimasto solo uno.",
+        "de": "Es ist nur noch eins da."
       },
       "image_url": ""
     },
@@ -909,7 +1818,8 @@
         "en": "There aren't any left.",
         "pt": "Não tem mais.",
         "fr": "Il n'y en a plus.",
-        "it": "Non ce ne sono più."
+        "it": "Non ce ne sono più.",
+        "de": "Es sind keine mehr da."
       },
       "image_url": ""
     },
@@ -920,20 +1830,28 @@
         "en": "Do you have another item from this brand?",
         "pt": "Tem outro produto dessa marca?",
         "fr": "Avez-vous un autre article de cette marque ?",
-        "it": "Ha un altro articolo di questa marca?"
+        "it": "Ha un altro articolo di questa marca?",
+        "de": "Haben Sie noch einen Artikel von dieser Marke?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Formal)"
+      }
     },
     {
       "id": "cd66",
       "es": "¿Me puede mostrar ese producto?",
       "translations": {
         "en": "Can you show me that product?",
-        "pt": "Pode me mostrar esse produto?",
+        "pt": "Pode me mostrar aquele produto?",
         "fr": "Pouvez-vous me montrer ce produit ?",
-        "it": "Può mostrarmi quel prodotto?"
+        "it": "Può mostrarmi quel prodotto?",
+        "de": "Können Sie mir das Produkt dort zeigen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Formal)"
+      }
     },
     {
       "id": "cd67",
@@ -942,7 +1860,8 @@
         "en": "Can I see the one on top?",
         "pt": "Posso ver o de cima?",
         "fr": "Je peux voir celui du haut ?",
-        "it": "Posso vedere quello in alto?"
+        "it": "Posso vedere quello in alto?",
+        "de": "Kann ich das da oben sehen?"
       },
       "image_url": ""
     },
@@ -951,9 +1870,10 @@
       "es": "Prefiero este, gracias.",
       "translations": {
         "en": "I prefer this one, thank you.",
-        "pt": "Prefiro este, obrigado / Prefiro este, obrigada",
+        "pt": "Prefiro este, obrigado. / Prefiro este, obrigada.",
         "fr": "Je préfère celui-ci, merci.",
-        "it": "Preferisco questo, grazie."
+        "it": "Preferisco questo, grazie.",
+        "de": "Dieses hier gefällt mir besser, danke."
       },
       "image_url": "",
       "notes": {
@@ -967,7 +1887,8 @@
         "en": "I'll take this item.",
         "pt": "Vou levar este produto.",
         "fr": "Je prends cet article.",
-        "it": "Prendo questo articolo."
+        "it": "Prendo questo articolo.",
+        "de": "Ich nehme diesen Artikel."
       },
       "image_url": ""
     },
@@ -976,9 +1897,10 @@
       "es": "Solo estoy mirando, gracias.",
       "translations": {
         "en": "I'm just looking, thanks.",
-        "pt": "Estou só olhando, obrigado / Estou só olhando, obrigada",
-        "fr": "Je regarde, merci.",
-        "it": "Sto solo guardando, grazie."
+        "pt": "Estou só olhando, obrigado. / Estou só olhando, obrigada.",
+        "fr": "Je regarde seulement, merci.",
+        "it": "Sto solo guardando, grazie.",
+        "de": "Ich schaue mich nur um, danke."
       },
       "image_url": "",
       "notes": {
@@ -991,8 +1913,9 @@
       "translations": {
         "en": "I have everything I need now.",
         "pt": "Já tenho tudo o que preciso.",
-        "fr": "J'ai tout ce qu'il me faut.",
-        "it": "Ho tutto quello che mi serve."
+        "fr": "J'ai déjà tout ce qu'il me faut.",
+        "it": "Ho già tutto quello che mi serve.",
+        "de": "Ich habe schon alles, was ich brauche."
       },
       "image_url": ""
     },
@@ -1001,9 +1924,10 @@
       "es": "Este no, gracias.",
       "translations": {
         "en": "Not this one, thank you.",
-        "pt": "Este não, obrigado / Este não, obrigada",
+        "pt": "Este não, obrigado. / Este não, obrigada.",
         "fr": "Pas celui-ci, merci.",
-        "it": "Questo no, grazie."
+        "it": "Questo no, grazie.",
+        "de": "Dieses hier nicht, danke."
       },
       "image_url": "",
       "notes": {
@@ -1017,7 +1941,8 @@
         "en": "Where are the checkouts?",
         "pt": "Onde ficam os caixas?",
         "fr": "Où sont les caisses ?",
-        "it": "Dove sono le casse?"
+        "it": "Dove sono le casse?",
+        "de": "Wo sind die Kassen?"
       },
       "image_url": ""
     },
@@ -1027,8 +1952,9 @@
       "translations": {
         "en": "Is this the line to pay?",
         "pt": "Esta é a fila para pagar?",
-        "fr": "C’est la file pour payer ?",
-        "it": "È questa la fila per pagare?"
+        "fr": "C'est la file pour payer ?",
+        "it": "È questa la fila per pagare?",
+        "de": "Ist das die Schlange zum Bezahlen?"
       },
       "image_url": ""
     },
@@ -1039,7 +1965,8 @@
         "en": "Is this checkout open?",
         "pt": "Este caixa está aberto?",
         "fr": "Cette caisse est-elle ouverte ?",
-        "it": "Questa cassa è aperta?"
+        "it": "Questa cassa è aperta?",
+        "de": "Ist diese Kasse offen?"
       },
       "image_url": ""
     },
@@ -1050,9 +1977,16 @@
         "en": "It's your turn.",
         "pt": "É a sua vez.",
         "fr": "C'est votre tour.",
-        "it": "È il suo turno."
+        "it": "È il suo turno.",
+        "de": "Sie sind dran."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Turno en la fila)",
+        "fr": "(Formal)",
+        "it": "(Formal)",
+        "de": "(Formal)"
+      }
     },
     {
       "id": "cd77",
@@ -1061,7 +1995,8 @@
         "en": "I only have cash.",
         "pt": "Só tenho dinheiro em espécie.",
         "fr": "Je n'ai que de l'argent liquide.",
-        "it": "Ho solo contanti."
+        "it": "Ho solo contanti.",
+        "de": "Ich habe nur Bargeld."
       },
       "image_url": ""
     },
@@ -1072,45 +2007,57 @@
         "en": "I don't have enough money.",
         "pt": "Não tenho dinheiro suficiente.",
         "fr": "Je n'ai pas assez d'argent.",
-        "it": "Non ho abbastanza soldi."
+        "it": "Non ho abbastanza soldi.",
+        "de": "Ich habe nicht genug Geld."
       },
       "image_url": ""
     },
     {
       "id": "cd79",
-      "es": "Tengo el importe exacto.",
+      "es": "Traigo el importe exacto.",
       "translations": {
         "en": "I have the exact amount.",
         "pt": "Tenho o valor exato.",
         "fr": "J'ai l'appoint.",
-        "it": "Ho l'importo esatto."
+        "it": "Ho l'importo esatto.",
+        "de": "Ich habe es passend."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "«Avoir l'appoint» significa traer el importe exacto para pagar, sin que el comercio deba devolver cambio.",
+        "de": "«Es passend haben» se usa al pagar con el importe exacto."
+      }
     },
     {
       "id": "cd80",
       "es": "¿Tiene cambio para un billete de veinte?",
       "translations": {
-        "en": "Do you have change for a twenty-dollar bill?",
-        "pt": "Tem troco para uma nota de vinte reais?",
-        "fr": "Avez-vous de la monnaie pour un billet de vingt euros ?",
-        "it": "Ha da cambiare una banconota da venti euro?"
+        "en": "Do you have change for a twenty?",
+        "pt": "Tem troco para uma nota de vinte?",
+        "fr": "Avez-vous de la monnaie pour un billet de vingt ?",
+        "it": "Ha da cambiare una banconota da venti?",
+        "de": "Haben Sie Wechselgeld für einen Zwanziger?"
       },
       "image_url": "",
       "notes": {
-        "es": "La moneda depende del país; el billete de veinte no es necesariamente de la misma divisa en todas las traducciones."
+        "es": "(Billete de veinte en la moneda del lugar)",
+        "de": "«Ein Zwanziger» puede ser un billete de veinte euros en Alemania. La expresión no nombra la moneda."
       }
     },
     {
       "id": "cd81",
       "es": "¿Puede cambiarme este billete por monedas?",
       "translations": {
-        "en": "Can you give me coins for this bill?",
+        "en": "Can you change this bill into coins?",
         "pt": "Pode trocar esta nota por moedas?",
         "fr": "Pouvez-vous changer ce billet en pièces ?",
-        "it": "Può cambiarmi questa banconota in monete?"
+        "it": "Può cambiarmi questa banconota in monete?",
+        "de": "Können Sie mir diesen Schein in Münzen wechseln?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Formal)"
+      }
     },
     {
       "id": "cd82",
@@ -1118,10 +2065,14 @@
       "translations": {
         "en": "Do you have a smaller bill?",
         "pt": "Tem uma nota de menor valor?",
-        "fr": "Avez-vous un billet de plus petite valeur ?",
-        "it": "Ha una banconota di taglio più piccolo?"
+        "fr": "Avez-vous un billet de valeur inférieure ?",
+        "it": "Ha una banconota di taglio più basso?",
+        "de": "Haben Sie einen kleineren Schein?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Formal)"
+      }
     },
     {
       "id": "cd83",
@@ -1130,7 +2081,8 @@
         "en": "I'm two euros short.",
         "pt": "Faltam dois euros.",
         "fr": "Il me manque deux euros.",
-        "it": "Mi mancano due euro."
+        "it": "Mi mancano due euro.",
+        "de": "Mir fehlen zwei Euro."
       },
       "image_url": ""
     },
@@ -1138,12 +2090,16 @@
       "id": "cd84",
       "es": "El cambio es de cinco euros.",
       "translations": {
-        "en": "Your change is five euros.",
+        "en": "The change is five euros.",
         "pt": "O troco é de cinco euros.",
-        "fr": "Votre monnaie est de cinq euros.",
-        "it": "Il resto è di cinque euro."
+        "fr": "Il y a cinq euros de monnaie.",
+        "it": "Il resto è di cinque euro.",
+        "de": "Das Rückgeld beträgt fünf Euro."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Dinero que se devuelve después del pago)"
+      }
     },
     {
       "id": "cd85",
@@ -1152,7 +2108,8 @@
         "en": "My change is one euro short.",
         "pt": "Falta um euro no troco.",
         "fr": "Il manque un euro dans la monnaie.",
-        "it": "Manca un euro nel resto."
+        "it": "Manca un euro nel resto.",
+        "de": "Beim Rückgeld fehlt ein Euro."
       },
       "image_url": ""
     },
@@ -1163,7 +2120,8 @@
         "en": "This item isn't mine.",
         "pt": "Este artigo não é meu.",
         "fr": "Cet article n'est pas à moi.",
-        "it": "Questo articolo non è mio."
+        "it": "Questo articolo non è mio.",
+        "de": "Dieser Artikel gehört mir nicht."
       },
       "image_url": ""
     },
@@ -1173,10 +2131,14 @@
       "translations": {
         "en": "Can you take this item off my bill?",
         "pt": "Pode tirar este produto da minha compra?",
-        "fr": "Pouvez-vous retirer cet article de mon ticket ?",
-        "it": "Può togliere questo articolo dalla mia spesa?"
+        "fr": "Pouvez-vous enlever cet article du total ?",
+        "it": "Può togliere questo articolo dal totale?",
+        "de": "Können Sie diesen Artikel bitte von der Rechnung nehmen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Formal)"
+      }
     },
     {
       "id": "cd88",
@@ -1185,9 +2147,13 @@
         "en": "I have my own bag.",
         "pt": "Estou com minha própria sacola.",
         "fr": "J'ai mon propre sac.",
-        "it": "Ho la mia borsa."
+        "it": "Ho la mia borsa con me.",
+        "de": "Ich habe meine eigene Tasche dabei."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "«Una borsa» puede ser una bolsa reutilizable; «un sacchetto» es una bolsa pequeña."
+      }
     },
     {
       "id": "cd89",
@@ -1196,9 +2162,13 @@
         "en": "Do you need a bag?",
         "pt": "Precisa de uma sacola?",
         "fr": "Avez-vous besoin d'un sac ?",
-        "it": "Ha bisogno di un sacchetto?"
+        "it": "Ha bisogno di un sacchetto?",
+        "de": "Brauchen Sie eine Tüte?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Formal)"
+      }
     },
     {
       "id": "cd90",
@@ -1207,7 +2177,8 @@
         "en": "Can I take it without a bag?",
         "pt": "Posso levar sem sacola?",
         "fr": "Je peux l'emporter sans sac ?",
-        "it": "Posso portarlo via senza sacchetto?"
+        "it": "Posso portarlo via senza sacchetto?",
+        "de": "Kann ich es ohne Tüte mitnehmen?"
       },
       "image_url": ""
     },
@@ -1215,12 +2186,16 @@
       "id": "cd91",
       "es": "¿Necesita ayuda para empacar sus compras?",
       "translations": {
-        "en": "Do you need help bagging your groceries?",
+        "en": "Do you need help bagging your purchases?",
         "pt": "Precisa de ajuda para colocar as compras nas sacolas?",
-        "fr": "Avez-vous besoin d’aide pour mettre vos courses dans les sacs ?",
-        "it": "Ha bisogno di aiuto per imbustare la spesa?"
+        "fr": "Avez-vous besoin d'aide pour mettre vos courses dans les sacs ?",
+        "it": "Ha bisogno di aiuto per imbustare la spesa?",
+        "de": "Brauchen Sie Hilfe beim Einpacken Ihrer Einkäufe?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Formal)"
+      }
     },
     {
       "id": "cd92",
@@ -1229,14 +2204,38 @@
         "en": "The store",
         "fr": "Le magasin",
         "it": "Il negozio",
-        "pt": "A loja"
+        "pt": "A loja",
+        "de": "Das Geschäft"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the stores",
-        "fr": "Plural: les magasins",
-        "it": "Plural: i negozi",
-        "pt": "Plural: as lojas"
+        "en": "(Plural: The stores)",
+        "fr": "(Plural: Les magasins)",
+        "it": "(Plural: I negozi)",
+        "pt": "(Plural: As lojas)",
+        "de": "(Plural: Die Geschäfte)"
+      },
+      "examples": {
+        "en": {
+          "text": "The store closes at eight.",
+          "es": "La tienda cierra a las ocho."
+        },
+        "fr": {
+          "text": "Le magasin ferme à huit heures.",
+          "es": "La tienda cierra a las ocho."
+        },
+        "it": {
+          "text": "Il negozio chiude alle otto.",
+          "es": "La tienda cierra a las ocho."
+        },
+        "pt": {
+          "text": "A loja fecha às oito.",
+          "es": "La tienda cierra a las ocho."
+        },
+        "de": {
+          "text": "Das Geschäft schließt um acht Uhr.",
+          "es": "La tienda cierra a las ocho."
+        }
       }
     },
     {
@@ -1246,39 +2245,113 @@
         "en": "The price",
         "fr": "Le prix",
         "it": "Il prezzo",
-        "pt": "O preço"
+        "pt": "O preço",
+        "de": "Der Preis"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the prices",
-        "fr": "Plural: les prix",
-        "it": "Plural: i prezzi",
-        "pt": "Plural: os preços"
+        "en": "(Plural: The prices)",
+        "fr": "(Plural: Les prix)",
+        "it": "(Plural: I prezzi)",
+        "pt": "(Plural: Os preços)",
+        "de": "(Plural: Die Preise)"
+      },
+      "examples": {
+        "en": {
+          "text": "The price includes taxes.",
+          "es": "El precio incluye los impuestos."
+        },
+        "fr": {
+          "text": "Le prix comprend les taxes.",
+          "es": "El precio incluye los impuestos."
+        },
+        "it": {
+          "text": "Il prezzo include le tasse.",
+          "es": "El precio incluye los impuestos."
+        },
+        "pt": {
+          "text": "O preço inclui os impostos.",
+          "es": "El precio incluye los impuestos."
+        },
+        "de": {
+          "text": "Im Preis sind die Steuern enthalten.",
+          "es": "El precio incluye los impuestos."
+        }
       }
     },
     {
       "id": "cd94",
       "es": "El dinero",
       "translations": {
-        "en": "The money",
-        "fr": "L’argent",
+        "en": "Money",
+        "fr": "L'argent",
         "it": "Il denaro",
-        "pt": "O dinheiro"
+        "pt": "O dinheiro",
+        "de": "Das Geld"
       },
       "image_url": "",
-      "notes": {}
+      "notes": {
+        "en": "Incontable en este sentido."
+      },
+      "examples": {
+        "en": {
+          "text": "I keep the money in my wallet.",
+          "es": "Guardo el dinero en mi cartera."
+        },
+        "fr": {
+          "text": "Je garde l'argent dans mon portefeuille.",
+          "es": "Guardo el dinero en mi cartera."
+        },
+        "it": {
+          "text": "Tengo il denaro nel portafoglio.",
+          "es": "Guardo el dinero en mi cartera."
+        },
+        "pt": {
+          "text": "Guardo o dinheiro na carteira.",
+          "es": "Guardo el dinero en mi cartera."
+        },
+        "de": {
+          "text": "Ich bewahre das Geld in meiner Geldbörse auf.",
+          "es": "Guardo el dinero en mi cartera."
+        }
+      }
     },
     {
       "id": "cd95",
       "es": "El efectivo",
       "translations": {
-        "en": "The cash",
-        "fr": "L’argent liquide",
+        "en": "Cash",
+        "fr": "L'argent liquide",
         "it": "I contanti",
-        "pt": "O dinheiro em espécie"
+        "pt": "O dinheiro em espécie",
+        "de": "Das Bargeld"
       },
       "image_url": "",
-      "notes": {}
+      "notes": {
+        "en": "Incontable en este sentido."
+      },
+      "examples": {
+        "en": {
+          "text": "I pay for the coffee in cash.",
+          "es": "Pago el café en efectivo."
+        },
+        "fr": {
+          "text": "Je paie le café avec de l'argent liquide.",
+          "es": "Pago el café en efectivo."
+        },
+        "it": {
+          "text": "Pago il caffè in contanti.",
+          "es": "Pago el café en efectivo."
+        },
+        "pt": {
+          "text": "Pago o café com dinheiro em espécie.",
+          "es": "Pago el café en efectivo."
+        },
+        "de": {
+          "text": "Ich bezahle den Kaffee mit Bargeld.",
+          "es": "Pago el café en efectivo."
+        }
+      }
     },
     {
       "id": "cd96",
@@ -1287,14 +2360,38 @@
         "en": "The credit card",
         "fr": "La carte de crédit",
         "it": "La carta di credito",
-        "pt": "O cartão de crédito"
+        "pt": "O cartão de crédito",
+        "de": "Die Kreditkarte"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the credit cards",
-        "fr": "Plural: les cartes de crédit",
-        "it": "Plural: le carte di credito",
-        "pt": "Plural: os cartões de crédito"
+        "en": "(Plural: The credit cards)",
+        "fr": "(Plural: Les cartes de crédit)",
+        "it": "(Plural: Le carte di credito)",
+        "pt": "(Plural: Os cartões de crédito)",
+        "de": "(Plural: Die Kreditkarten)"
+      },
+      "examples": {
+        "en": {
+          "text": "I use my credit card for this purchase.",
+          "es": "Uso mi tarjeta de crédito para esta compra."
+        },
+        "fr": {
+          "text": "J'utilise ma carte de crédit pour cet achat.",
+          "es": "Uso mi tarjeta de crédito para esta compra."
+        },
+        "it": {
+          "text": "Uso la carta di credito per questo acquisto.",
+          "es": "Uso mi tarjeta de crédito para esta compra."
+        },
+        "pt": {
+          "text": "Uso o cartão de crédito para esta compra.",
+          "es": "Uso mi tarjeta de crédito para esta compra."
+        },
+        "de": {
+          "text": "Für diesen Einkauf benutze ich meine Kreditkarte.",
+          "es": "Uso mi tarjeta de crédito para esta compra."
+        }
       }
     },
     {
@@ -1304,14 +2401,38 @@
         "en": "The debit card",
         "fr": "La carte de débit",
         "it": "La carta di debito",
-        "pt": "O cartão de débito"
+        "pt": "O cartão de débito",
+        "de": "Die Debitkarte"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the debit cards",
-        "fr": "Plural: les cartes de débit",
-        "it": "Plural: le carte di debito",
-        "pt": "Plural: os cartões de débito"
+        "en": "(Plural: The debit cards)",
+        "fr": "(Plural: Les cartes de débit)",
+        "it": "(Plural: Le carte di debito)",
+        "pt": "(Plural: Os cartões de débito)",
+        "de": "(Plural: Die Debitkarten)"
+      },
+      "examples": {
+        "en": {
+          "text": "I pay for groceries with my debit card.",
+          "es": "Pago las compras con mi tarjeta de débito."
+        },
+        "fr": {
+          "text": "Je paie mes courses avec ma carte de débit.",
+          "es": "Pago las compras con mi tarjeta de débito."
+        },
+        "it": {
+          "text": "Pago la spesa con la mia carta di debito.",
+          "es": "Pago las compras con mi tarjeta de débito."
+        },
+        "pt": {
+          "text": "Pago as compras com meu cartão de débito.",
+          "es": "Pago las compras con mi tarjeta de débito."
+        },
+        "de": {
+          "text": "Ich bezahle den Einkauf mit meiner Debitkarte.",
+          "es": "Pago las compras con mi tarjeta de débito."
+        }
       }
     },
     {
@@ -1321,14 +2442,38 @@
         "en": "The receipt",
         "fr": "Le ticket de caisse",
         "it": "Lo scontrino",
-        "pt": "O comprovante de compra"
+        "pt": "O comprovante de compra",
+        "de": "Der Kassenbon"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the receipts",
-        "fr": "Plural: les tickets de caisse",
-        "it": "Plural: gli scontrini",
-        "pt": "Plural: os comprovantes de compra"
+        "en": "(Plural: The receipts) «Receipt» es comprobante de pago; «recipe» es receta de cocina.",
+        "fr": "(Plural: Les tickets de caisse)",
+        "it": "(Plural: Gli scontrini)",
+        "pt": "(Plural: Os comprovantes de compra)",
+        "de": "(Plural: Die Kassenbons)"
+      },
+      "examples": {
+        "en": {
+          "text": "I keep the receipt in the bag.",
+          "es": "Guardo el recibo en la bolsa."
+        },
+        "fr": {
+          "text": "Je garde le ticket de caisse dans le sac.",
+          "es": "Guardo el recibo en la bolsa."
+        },
+        "it": {
+          "text": "Tengo lo scontrino nel sacchetto.",
+          "es": "Guardo el recibo en la bolsa."
+        },
+        "pt": {
+          "text": "Guardo o comprovante de compra na sacola.",
+          "es": "Guardo el recibo en la bolsa."
+        },
+        "de": {
+          "text": "Ich stecke den Kassenbon in die Tüte.",
+          "es": "Guardo el recibo en la bolsa."
+        }
       }
     },
     {
@@ -1338,26 +2483,79 @@
         "en": "The change",
         "fr": "La monnaie",
         "it": "Il resto",
-        "pt": "O troco"
+        "pt": "O troco",
+        "de": "Das Rückgeld"
       },
       "image_url": "",
-      "notes": {}
+      "notes": {
+        "es": "(Dinero que se devuelve al pagar de más)",
+        "fr": "«Monnaie» también significa dinero en monedas; aquí es lo que se devuelve al pagar.",
+        "en": "Incontable en este sentido.",
+        "de": "Incontable en este sentido; no confundir con «Kleingeld» (monedas sueltas)."
+      },
+      "examples": {
+        "en": {
+          "text": "The cashier gives me my change.",
+          "es": "La cajera me da el cambio."
+        },
+        "fr": {
+          "text": "La caissière me rend la monnaie.",
+          "es": "La cajera me da el cambio."
+        },
+        "it": {
+          "text": "La cassiera mi dà il resto.",
+          "es": "La cajera me da el cambio."
+        },
+        "pt": {
+          "text": "A caixa me dá o troco.",
+          "es": "La cajera me da el cambio."
+        },
+        "de": {
+          "text": "Die Kassiererin gibt mir das Rückgeld.",
+          "es": "La cajera me da el cambio."
+        }
+      }
     },
     {
       "id": "cd100",
       "es": "El billete",
       "translations": {
-        "en": "The banknote / The bill",
+        "en": "The bill / The banknote",
         "fr": "Le billet",
         "it": "La banconota",
-        "pt": "A nota"
+        "pt": "A nota",
+        "de": "Der Geldschein"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the banknotes / the bills",
-        "fr": "Plural: les billets",
-        "it": "Plural: le banconote",
-        "pt": "Plural: as notas"
+        "en": "(Plural: The bills / The banknotes) «Bill» es usual en Estados Unidos para un billete; también puede significar «cuenta».",
+        "fr": "(Plural: Les billets) Aquí es papel moneda, no boleto.",
+        "it": "(Plural: Le banconote)",
+        "pt": "(Plural: As notas)",
+        "de": "(Plural: Die Geldscheine)",
+        "es": "(Papel moneda, no boleto)"
+      },
+      "examples": {
+        "en": {
+          "text": "I pay with a ten-euro bill.",
+          "es": "Pago con un billete de diez euros."
+        },
+        "fr": {
+          "text": "Je paie avec un billet de dix euros.",
+          "es": "Pago con un billete de diez euros."
+        },
+        "it": {
+          "text": "Pago con una banconota da dieci euro.",
+          "es": "Pago con un billete de diez euros."
+        },
+        "pt": {
+          "text": "Pago com uma nota de dez euros.",
+          "es": "Pago con un billete de diez euros."
+        },
+        "de": {
+          "text": "Ich bezahle mit einem Geldschein.",
+          "es": "Pago con un billete."
+        }
       }
     },
     {
@@ -1367,24 +2565,49 @@
         "en": "The coin",
         "fr": "La pièce de monnaie",
         "it": "La moneta",
-        "pt": "A moeda"
+        "pt": "A moeda",
+        "de": "Die Münze"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the coins",
-        "fr": "Plural: les pièces de monnaie",
-        "it": "Plural: le monete",
-        "pt": "Plural: as moedas"
+        "en": "(Plural: The coins)",
+        "fr": "(Plural: Les pièces de monnaie)",
+        "it": "(Plural: Le monete)",
+        "pt": "(Plural: As moedas)",
+        "de": "(Plural: Die Münzen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The machine only accepts coins.",
+          "es": "La máquina solo acepta monedas."
+        },
+        "fr": {
+          "text": "La machine n'accepte que les pièces de monnaie.",
+          "es": "La máquina solo acepta monedas."
+        },
+        "it": {
+          "text": "La macchina accetta solo monete.",
+          "es": "La máquina solo acepta monedas."
+        },
+        "pt": {
+          "text": "A máquina só aceita moedas.",
+          "es": "La máquina solo acepta monedas."
+        },
+        "de": {
+          "text": "Der Automat nimmt nur Münzen an.",
+          "es": "La máquina solo acepta monedas."
+        }
       }
     },
     {
       "id": "cd102",
       "es": "¿Puedo pagar con tarjeta?",
       "translations": {
-        "en": "Can I pay by card?",
+        "en": "Can I pay with a card?",
         "fr": "Je peux payer par carte ?",
         "it": "Posso pagare con la carta?",
-        "pt": "Posso pagar com cartão?"
+        "pt": "Posso pagar com cartão?",
+        "de": "Kann ich mit Karte bezahlen?"
       },
       "image_url": ""
     },
@@ -1395,18 +2618,23 @@
         "en": "Do you accept cash?",
         "fr": "Vous acceptez les espèces ?",
         "it": "Accettate contanti?",
-        "pt": "Aceitam dinheiro?"
+        "pt": "Aceitam dinheiro em espécie?",
+        "de": "Nehmen Sie Bargeld an?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Formal)"
+      }
     },
     {
       "id": "cd104",
       "es": "¿Me da el recibo, por favor?",
       "translations": {
         "en": "Can I have the receipt, please?",
-        "fr": "Je peux avoir le ticket de caisse, s’il vous plaît ?",
+        "fr": "Je peux avoir le ticket de caisse, s'il vous plaît ?",
         "it": "Posso avere lo scontrino, per favore?",
-        "pt": "Pode me dar o comprovante, por favor?"
+        "pt": "Pode me dar o comprovante, por favor?",
+        "de": "Kann ich bitte den Kassenbon haben?"
       },
       "image_url": ""
     },
@@ -1417,7 +2645,8 @@
         "en": "Where can I pay?",
         "fr": "Où est-ce que je peux payer ?",
         "it": "Dove posso pagare?",
-        "pt": "Onde posso pagar?"
+        "pt": "Onde posso pagar?",
+        "de": "Wo kann ich bezahlen?"
       },
       "image_url": ""
     },
@@ -1427,15 +2656,39 @@
       "translations": {
         "en": "The card terminal",
         "fr": "Le terminal de paiement",
-        "it": "Il POS",
-        "pt": "A maquininha de cartão"
+        "it": "Il terminale di pagamento",
+        "pt": "A maquininha de cartão",
+        "de": "Das Kartenterminal"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the card terminals",
-        "fr": "Plural: les terminaux de paiement",
-        "it": "Plural: i POS",
-        "pt": "Plural: as maquininhas de cartão"
+        "en": "(Plural: The card terminals)",
+        "fr": "(Plural: Les terminaux de paiement)",
+        "it": "(Plural: I terminali di pagamento) Sigla habitual: POS.",
+        "pt": "(Plural: As maquininhas de cartão) Denominación habitual en comercios brasileños.",
+        "de": "(Plural: Die Kartenterminals)"
+      },
+      "examples": {
+        "en": {
+          "text": "Hold your card near the card terminal.",
+          "es": "Acerca tu tarjeta a la terminal de pago."
+        },
+        "fr": {
+          "text": "Approche ta carte du terminal de paiement.",
+          "es": "Acerca tu tarjeta a la terminal de pago."
+        },
+        "it": {
+          "text": "Avvicina la carta al terminale di pagamento.",
+          "es": "Acerca tu tarjeta a la terminal de pago."
+        },
+        "pt": {
+          "text": "Aproxime seu cartão da maquininha de cartão.",
+          "es": "Acerca tu tarjeta a la terminal de pago."
+        },
+        "de": {
+          "text": "Halte deine Karte an das Kartenterminal.",
+          "es": "Acerca tu tarjeta a la terminal de pago."
+        }
       }
     },
     {
@@ -1443,16 +2696,41 @@
       "es": "La fila",
       "translations": {
         "en": "The line",
-        "fr": "La file d’attente",
+        "fr": "La file d'attente",
         "it": "La fila",
-        "pt": "A fila"
+        "pt": "A fila",
+        "de": "Die Warteschlange"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the lines",
-        "fr": "Plural: les files d’attente",
-        "it": "Plural: le file",
-        "pt": "Plural: as filas"
+        "en": "(Plural: The lines)",
+        "fr": "(Plural: Les files d'attente)",
+        "it": "(Plural: Le file)",
+        "pt": "(Plural: As filas)",
+        "de": "(Plural: Die Warteschlangen)",
+        "es": "(Personas que esperan su turno)"
+      },
+      "examples": {
+        "en": {
+          "text": "The checkout line is long.",
+          "es": "La fila de la caja es larga."
+        },
+        "fr": {
+          "text": "La file d'attente à la caisse est longue.",
+          "es": "La fila de la caja es larga."
+        },
+        "it": {
+          "text": "La fila alla cassa è lunga.",
+          "es": "La fila de la caja es larga."
+        },
+        "pt": {
+          "text": "A fila do caixa é longa.",
+          "es": "La fila de la caja es larga."
+        },
+        "de": {
+          "text": "Die Warteschlange an der Kasse ist lang.",
+          "es": "La fila de la caja es larga."
+        }
       }
     },
     {
@@ -1462,14 +2740,39 @@
         "en": "The return",
         "fr": "Le retour",
         "it": "Il reso",
-        "pt": "A devolução"
+        "pt": "A devolução",
+        "de": "Die Rückgabe"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the returns",
-        "fr": "Plural: les retours",
-        "it": "Plural: i resi",
-        "pt": "Plural: as devoluções"
+        "en": "(Plural: The returns)",
+        "fr": "(Plural: Les retours)",
+        "it": "(Plural: I resi)",
+        "pt": "(Plural: As devoluções)",
+        "de": "(Plural: Die Rückgaben)",
+        "es": "(Entregar de vuelta un producto; no el dinero)"
+      },
+      "examples": {
+        "en": {
+          "text": "I have the receipt for the return.",
+          "es": "Tengo el recibo para la devolución."
+        },
+        "fr": {
+          "text": "Le retour de la veste a été facile.",
+          "es": "La devolución de la chamarra fue fácil."
+        },
+        "it": {
+          "text": "Il reso della giacca è stato facile.",
+          "es": "La devolución de la chamarra fue fácil."
+        },
+        "pt": {
+          "text": "A devolução da jaqueta foi fácil.",
+          "es": "La devolución de la chamarra fue fácil."
+        },
+        "de": {
+          "text": "Die Rückgabe der Jacke war einfach.",
+          "es": "La devolución de la chamarra fue fácil."
+        }
       }
     },
     {
@@ -1479,14 +2782,39 @@
         "en": "The refund",
         "fr": "Le remboursement",
         "it": "Il rimborso",
-        "pt": "O reembolso"
+        "pt": "O reembolso",
+        "de": "Die Rückerstattung"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the refunds",
-        "fr": "Plural: les remboursements",
-        "it": "Plural: i rimborsi",
-        "pt": "Plural: os reembolsos"
+        "en": "(Plural: The refunds)",
+        "fr": "(Plural: Les remboursements)",
+        "it": "(Plural: I rimborsi)",
+        "pt": "(Plural: Os reembolsos)",
+        "de": "(Plural: Die Rückerstattungen)",
+        "es": "(Dinero devuelto por un pago)"
+      },
+      "examples": {
+        "en": {
+          "text": "I got the refund yesterday.",
+          "es": "Recibí el reembolso ayer."
+        },
+        "fr": {
+          "text": "J'ai reçu le remboursement hier.",
+          "es": "Recibí el reembolso ayer."
+        },
+        "it": {
+          "text": "Ho ricevuto il rimborso ieri.",
+          "es": "Recibí el reembolso ayer."
+        },
+        "pt": {
+          "text": "Recebi o reembolso ontem.",
+          "es": "Recibí el reembolso ayer."
+        },
+        "de": {
+          "text": "Ich habe gestern die Rückerstattung bekommen.",
+          "es": "Recibí el reembolso ayer."
+        }
       }
     },
     {
@@ -1495,8 +2823,9 @@
       "translations": {
         "en": "Can I return it?",
         "fr": "Je peux le rapporter ?",
-        "it": "Posso restituirlo?",
-        "pt": "Posso devolver?"
+        "it": "Posso riportarlo?",
+        "pt": "Posso devolver?",
+        "de": "Kann ich es zurückgeben?"
       },
       "image_url": ""
     },
@@ -1507,14 +2836,39 @@
         "en": "The size",
         "fr": "La taille",
         "it": "La taglia",
-        "pt": "O tamanho"
+        "pt": "O tamanho",
+        "de": "Die Größe"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the sizes",
-        "fr": "Plural: les tailles",
-        "it": "Plural: le taglie",
-        "pt": "Plural: os tamanhos"
+        "en": "(Plural: The sizes)",
+        "fr": "(Plural: Les tailles)",
+        "it": "(Plural: Le taglie)",
+        "pt": "(Plural: Os tamanhos)",
+        "de": "(Plural: Die Größen) Para hablar específicamente de ropa también se usa «Kleidergröße».",
+        "es": "(Talla de ropa)"
+      },
+      "examples": {
+        "en": {
+          "text": "This T-shirt isn't my size.",
+          "es": "Esta playera no es de mi talla."
+        },
+        "fr": {
+          "text": "Ce tee-shirt n'est pas à ma taille.",
+          "es": "Esta playera no es de mi talla."
+        },
+        "it": {
+          "text": "Questa maglietta non è della mia taglia.",
+          "es": "Esta playera no es de mi talla."
+        },
+        "pt": {
+          "text": "Esta camiseta não é do meu tamanho.",
+          "es": "Esta playera no es de mi talla."
+        },
+        "de": {
+          "text": "Dieses T-Shirt hat nicht meine Größe.",
+          "es": "Esta playera no es de mi talla."
+        }
       }
     }
   ]
