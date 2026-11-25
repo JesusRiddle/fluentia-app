@@ -553,7 +553,7 @@
       "notes": {
         "es": "(Venta para agotar las existencias, no solo rebajas de temporada)",
         "en": "(Plural: The clearance sales)",
-        "fr": "(Plural: Les ventes de liquidation)",
+        "fr": "(Plural: Les ventes de liquidation) Aquí se usa para liquidar existencias antes del cierre de la tienda; «déstockage» es más general.",
         "it": "(Plural: Le vendite di liquidazione)",
         "pt": "(Plural: As queimas de estoque)",
         "de": "(Plural: Die Räumungsverkäufe)"
@@ -918,7 +918,7 @@
       "image_url": "",
       "notes": {
         "en": "(Plural: The Brazilian reals)",
-        "fr": "(Plural: Les réals brésiliens)",
+        "fr": "(Plural: Les réaux brésiliens)",
         "it": "(Plural: I reais brasiliani)",
         "pt": "(Plural: Os reais brasileiros)",
         "de": "(Plural: Die brasilianischen Reais) Con cantidades también se usa «Real»: «fünfzig Real»."
@@ -1127,7 +1127,7 @@
         "fr": "(Plural: Les douzaines)",
         "it": "(Plural: Le dozzine)",
         "pt": "(Plural: As dúzias)",
-        "de": "(Plural: Die Dutzend / Die Dutzende)"
+        "de": "(Plural: Die Dutzend) Con cantidades exactas se usa «Dutzend»: «zwei Dutzend Eier». «Dutzende» suele expresar una cantidad grande e imprecisa."
       },
       "examples": {
         "en": {
@@ -1292,7 +1292,7 @@
         "fr": "(Plural: Les kilogrammes / Les kilos)",
         "it": "(Plural: I chilogrammi / I chili)",
         "pt": "(Plural: Os quilogramas / Os quilos)",
-        "de": "(Plural: Die Kilogramm / Die Kilos)"
+        "de": "(Plural: Die Kilogramm / Die Kilogramme / Die Kilos) Con cantidades se usa «Kilogramm» o «Kilo»: «zwei Kilogramm Reis»."
       },
       "examples": {
         "en": {
@@ -1456,7 +1456,7 @@
       "notes": {
         "es": "(Productos que se pueden contar)",
         "it": "(Formal) «Ne» representa lo que se está comprando.",
-        "fr": "(Formal) «En» representa lo que se está comprando. Se usa la misma pregunta para cantidad por peso o volumen.",
+        "fr": "(Formal) «En» representa lo que se está comprando. También se oye con cantidades por peso o volumen.",
         "de": "(Formal) «Viele» se usa con unidades que se pueden contar."
       }
     },
@@ -1593,7 +1593,7 @@
         "en": "Is that the price for one item?",
         "pt": "Esse é o preço de uma unidade?",
         "fr": "C'est le prix pour une unité ?",
-        "it": "È il prezzo di un pezzo?",
+        "it": "È il prezzo per un pezzo?",
         "de": "Ist das der Preis für ein Stück?"
       },
       "image_url": ""
@@ -1627,7 +1627,7 @@
       "es": "¿Los dos cuestan lo mismo?",
       "translations": {
         "en": "Do they both cost the same?",
-        "pt": "Os dois custam a mesma coisa?",
+        "pt": "Os dois custam o mesmo?",
         "fr": "Les deux coûtent-ils le même prix ?",
         "it": "Costano lo stesso?",
         "de": "Kosten beide gleich viel?"
@@ -1873,7 +1873,7 @@
         "pt": "Prefiro este, obrigado. / Prefiro este, obrigada.",
         "fr": "Je préfère celui-ci, merci.",
         "it": "Preferisco questo, grazie.",
-        "de": "Ich nehme lieber dieses hier, danke."
+        "de": "Dieses hier gefällt mir besser, danke."
       },
       "image_url": "",
       "notes": {
@@ -2131,9 +2131,9 @@
       "translations": {
         "en": "Can you take this item off my bill?",
         "pt": "Pode tirar este produto da minha compra?",
-        "fr": "Pouvez-vous retirer cet article de mon ticket ?",
-        "it": "Può togliere questo articolo dalla mia spesa?",
-        "de": "Können Sie diesen Artikel bitte aus meinem Einkauf herausnehmen?"
+        "fr": "Pouvez-vous enlever cet article du total ?",
+        "it": "Può togliere questo articolo dal totale?",
+        "de": "Können Sie diesen Artikel bitte von der Rechnung nehmen?"
       },
       "image_url": "",
       "notes": {
@@ -2274,7 +2274,7 @@
           "es": "El precio incluye los impuestos."
         },
         "de": {
-          "text": "Der Preis enthält die Steuern.",
+          "text": "Im Preis sind die Steuern enthalten.",
           "es": "El precio incluye los impuestos."
         }
       }
@@ -2336,7 +2336,7 @@
           "es": "Pago el café en efectivo."
         },
         "fr": {
-          "text": "Je paie le café en espèces.",
+          "text": "Je paie le café avec de l'argent liquide.",
           "es": "Pago el café en efectivo."
         },
         "it": {
@@ -2344,7 +2344,7 @@
           "es": "Pago el café en efectivo."
         },
         "pt": {
-          "text": "Pago o café em espécie.",
+          "text": "Pago o café com dinheiro em espécie.",
           "es": "Pago el café en efectivo."
         },
         "de": {
@@ -2414,24 +2414,24 @@
       },
       "examples": {
         "en": {
-          "text": "My debit card is in my wallet.",
-          "es": "Mi tarjeta de débito está en mi cartera."
+          "text": "I pay for groceries with my debit card.",
+          "es": "Pago las compras con mi tarjeta de débito."
         },
         "fr": {
-          "text": "Ma carte de débit est dans mon portefeuille.",
-          "es": "Mi tarjeta de débito está en mi cartera."
+          "text": "Je paie mes courses avec ma carte de débit.",
+          "es": "Pago las compras con mi tarjeta de débito."
         },
         "it": {
-          "text": "La mia carta di debito è nel portafoglio.",
-          "es": "Mi tarjeta de débito está en mi cartera."
+          "text": "Pago la spesa con la mia carta di debito.",
+          "es": "Pago las compras con mi tarjeta de débito."
         },
         "pt": {
-          "text": "Meu cartão de débito está na carteira.",
-          "es": "Mi tarjeta de débito está en mi cartera."
+          "text": "Pago as compras com meu cartão de débito.",
+          "es": "Pago las compras con mi tarjeta de débito."
         },
         "de": {
-          "text": "Meine Debitkarte ist in meiner Geldbörse.",
-          "es": "Mi tarjeta de débito está en mi cartera."
+          "text": "Ich bezahle den Einkauf mit meiner Debitkarte.",
+          "es": "Pago las compras con mi tarjeta de débito."
         }
       }
     },
@@ -2603,7 +2603,7 @@
       "id": "cd102",
       "es": "¿Puedo pagar con tarjeta?",
       "translations": {
-        "en": "Can I pay by card?",
+        "en": "Can I pay with a card?",
         "fr": "Je peux payer par carte ?",
         "it": "Posso pagare con la carta?",
         "pt": "Posso pagar com cartão?",
@@ -2754,8 +2754,8 @@
       },
       "examples": {
         "en": {
-          "text": "Returning the jacket was easy.",
-          "es": "La devolución de la chamarra fue fácil."
+          "text": "I have the receipt for the return.",
+          "es": "Tengo el recibo para la devolución."
         },
         "fr": {
           "text": "Le retour de la veste a été facile.",
