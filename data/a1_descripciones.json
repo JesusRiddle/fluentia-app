@@ -9,14 +9,38 @@
       "translations": {
         "en": "The physical appearance",
         "pt": "A aparência física",
-        "fr": "L’apparence physique",
-        "it": "L’aspetto fisico"
+        "fr": "L'apparence physique",
+        "it": "L'aspetto fisico",
+        "de": "Das Aussehen"
       },
       "image_url": "",
       "notes": {
-        "fr": "Plural: les apparences physiques",
-        "it": "Plural: gli aspetti fisici",
-        "pt": "Plural: as aparências físicas"
+        "fr": "Se usa sobre todo en singular al describir el aspecto de una persona.",
+        "it": "(Plural: Gli aspetti fisici)",
+        "pt": "(Plural: As aparências físicas)",
+        "de": "No se usa normalmente en plural para el aspecto físico general."
+      },
+      "examples": {
+        "en": {
+          "text": "Her physical appearance changed over the years.",
+          "es": "Su apariencia física cambió con los años."
+        },
+        "fr": {
+          "text": "Son apparence physique a changé avec les années.",
+          "es": "Su apariencia física cambió con los años."
+        },
+        "it": {
+          "text": "Il suo aspetto fisico è cambiato con gli anni.",
+          "es": "Su apariencia física cambió con los años."
+        },
+        "pt": {
+          "text": "A aparência física dela mudou com os anos.",
+          "es": "Su apariencia física cambió con los años."
+        },
+        "de": {
+          "text": "Ihr Aussehen hat sich mit den Jahren verändert.",
+          "es": "Su apariencia física cambió con los años."
+        }
       }
     },
     {
@@ -26,9 +50,40 @@
         "en": "The height",
         "pt": "A altura",
         "fr": "La taille",
-        "it": "L’altezza"
+        "it": "L'altezza",
+        "de": "Die Körpergröße"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Altura de una persona)",
+        "en": "En esta acepción se usa sobre todo en singular.",
+        "fr": "En esta acepción se usa sobre todo en singular.",
+        "it": "En esta acepción se usa sobre todo en singular.",
+        "pt": "En esta acepción se usa sobre todo en singular.",
+        "de": "(Plural: Die Körpergrößen)"
+      },
+      "examples": {
+        "en": {
+          "text": "We're the same height.",
+          "es": "Tenemos la misma estatura."
+        },
+        "fr": {
+          "text": "Nous avons la même taille.",
+          "es": "Tenemos la misma estatura."
+        },
+        "it": {
+          "text": "Abbiamo la stessa altezza.",
+          "es": "Tenemos la misma estatura."
+        },
+        "pt": {
+          "text": "Temos a mesma altura.",
+          "es": "Tenemos la misma estatura."
+        },
+        "de": {
+          "text": "Wir haben die gleiche Körpergröße.",
+          "es": "Tenemos la misma estatura."
+        }
+      }
     },
     {
       "id": "df3",
@@ -37,22 +92,68 @@
         "en": "Tall",
         "pt": "Alto / Alta",
         "fr": "Grand / Grande",
-        "it": "Alto / Alta"
+        "it": "Alto / Alta",
+        "de": "Groß"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My brother is tall and plays basketball.",
+          "es": "Mi hermano es alto y juega básquetbol."
+        },
+        "fr": {
+          "text": "Mon frère est grand et joue au basket.",
+          "es": "Mi hermano es alto y juega básquetbol."
+        },
+        "it": {
+          "text": "Mio fratello è alto e gioca a basket.",
+          "es": "Mi hermano es alto y juega básquetbol."
+        },
+        "pt": {
+          "text": "Meu irmão é alto e joga basquete.",
+          "es": "Mi hermano es alto y juega básquetbol."
+        },
+        "de": {
+          "text": "Mein Bruder ist groß und spielt Basketball.",
+          "es": "Mi hermano es alto y juega básquetbol."
+        }
+      }
     },
     {
       "id": "df4",
       "es": "Bajo / Baja",
       "translations": {
-        "en": "Short",
+        "en": "Short in stature",
         "pt": "Baixo / Baixa",
         "fr": "Petit / Petite",
-        "it": "Basso / Bassa"
+        "it": "Basso / Bassa",
+        "de": "Klein"
       },
       "image_url": "",
       "notes": {
-        "es": "de poca estatura"
+        "es": "(De poca estatura)"
+      },
+      "examples": {
+        "en": {
+          "text": "My cousin is short, and I'm tall.",
+          "es": "Mi prima es baja y yo soy alto."
+        },
+        "fr": {
+          "text": "Ma cousine est petite et je suis grand.",
+          "es": "Mi prima es baja y yo soy alto."
+        },
+        "it": {
+          "text": "Mia cugina è bassa e io sono alto.",
+          "es": "Mi prima es baja y yo soy alto."
+        },
+        "pt": {
+          "text": "Minha prima é baixa e eu sou alto.",
+          "es": "Mi prima es baja y yo soy alto."
+        },
+        "de": {
+          "text": "Meine Cousine ist klein und ich bin groß.",
+          "es": "Mi prima es baja y yo soy alto."
+        }
       }
     },
     {
@@ -62,9 +163,32 @@
         "en": "Of average height",
         "pt": "De altura média",
         "fr": "De taille moyenne",
-        "it": "Di statura media"
+        "it": "Di statura media",
+        "de": "Mittelgroß"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The new teacher is of average height.",
+          "es": "La nueva maestra es de estatura media."
+        },
+        "fr": {
+          "text": "La nouvelle prof est de taille moyenne.",
+          "es": "La nueva maestra es de estatura media."
+        },
+        "it": {
+          "text": "La nuova insegnante è di statura media.",
+          "es": "La nueva maestra es de estatura media."
+        },
+        "pt": {
+          "text": "A nova professora é de altura média.",
+          "es": "La nueva maestra es de estatura media."
+        },
+        "de": {
+          "text": "Die neue Lehrerin ist mittelgroß.",
+          "es": "La nueva maestra es de estatura media."
+        }
+      }
     },
     {
       "id": "df6",
@@ -73,26 +197,72 @@
         "en": "Slim",
         "pt": "Magro / Magra",
         "fr": "Mince",
-        "it": "Snello / Snella"
+        "it": "Snello / Snella",
+        "de": "Schlank"
       },
       "image_url": "",
       "notes": {
-        "es": "complexión"
+        "es": "(Complexión)"
+      },
+      "examples": {
+        "en": {
+          "text": "My sister is slim and tall.",
+          "es": "Mi hermana es delgada y alta."
+        },
+        "fr": {
+          "text": "Ma sœur est mince et grande.",
+          "es": "Mi hermana es delgada y alta."
+        },
+        "it": {
+          "text": "Mia sorella è snella e alta.",
+          "es": "Mi hermana es delgada y alta."
+        },
+        "pt": {
+          "text": "Minha irmã é magra e alta.",
+          "es": "Mi hermana es delgada y alta."
+        },
+        "de": {
+          "text": "Meine Schwester ist schlank und groß.",
+          "es": "Mi hermana es delgada y alta."
+        }
       }
     },
     {
       "id": "df7",
       "es": "Muy delgado / Muy delgada",
       "translations": {
-        "en": "Very thin / Skinny",
+        "en": "Very thin",
         "pt": "Muito magro / Muito magra",
-        "fr": "Très maigre",
-        "it": "Molto magro / Molto magra"
+        "fr": "Très mince",
+        "it": "Molto magro / Molto magra",
+        "de": "Sehr dünn"
       },
       "image_url": "",
       "notes": {
-        "es": "a veces con sentido poco favorable",
-        "en": "Skinny puede resultar despectivo."
+        "es": "(Descripción de complexión)",
+        "en": "Coloquial: Skinny; puede sonar despectivo."
+      },
+      "examples": {
+        "en": {
+          "text": "My brother was very thin as a child.",
+          "es": "Mi hermano era muy delgado de niño."
+        },
+        "fr": {
+          "text": "Mon frère était très mince quand il était enfant.",
+          "es": "Mi hermano era muy delgado de niño."
+        },
+        "it": {
+          "text": "Mio fratello era molto magro da bambino.",
+          "es": "Mi hermano era muy delgado de niño."
+        },
+        "pt": {
+          "text": "Meu irmão era muito magro quando era criança.",
+          "es": "Mi hermano era muy delgado de niño."
+        },
+        "de": {
+          "text": "Mein Bruder war als Kind sehr dünn.",
+          "es": "Mi hermano era muy delgado de niño."
+        }
       }
     },
     {
@@ -102,11 +272,34 @@
         "en": "Fat",
         "pt": "Gordo / Gorda",
         "fr": "Gros / Grosse",
-        "it": "Grasso / Grassa"
+        "it": "Grasso / Grassa",
+        "de": "Dick"
       },
       "image_url": "",
       "notes": {
-        "es": "Descripción directa; puede resultar ofensiva."
+        "es": "Puede resultar ofensivo al describir directamente a una persona. «Con sobrepeso» tiene un registro más neutral."
+      },
+      "examples": {
+        "en": {
+          "text": "The man in the drawing is fat and has a beard.",
+          "es": "El hombre del dibujo es gordo y tiene barba."
+        },
+        "fr": {
+          "text": "L'homme sur le dessin est gros et porte une barbe.",
+          "es": "El hombre del dibujo es gordo y tiene barba."
+        },
+        "it": {
+          "text": "L'uomo nel disegno è grasso e ha la barba.",
+          "es": "El hombre del dibujo es gordo y tiene barba."
+        },
+        "pt": {
+          "text": "O homem do desenho é gordo e tem barba.",
+          "es": "El hombre del dibujo es gordo y tiene barba."
+        },
+        "de": {
+          "text": "Der Mann auf der Zeichnung ist dick und hat einen Bart.",
+          "es": "El hombre del dibujo es gordo y tiene barba."
+        }
       }
     },
     {
@@ -116,9 +309,32 @@
         "en": "Overweight",
         "pt": "Acima do peso",
         "fr": "En surpoids",
-        "it": "In sovrappeso"
+        "it": "In sovrappeso",
+        "de": "Übergewichtig"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The doctor told me I'm overweight.",
+          "es": "El médico me dijo que tengo sobrepeso."
+        },
+        "fr": {
+          "text": "Le médecin m'a dit que j'étais en surpoids.",
+          "es": "El médico me dijo que tengo sobrepeso."
+        },
+        "it": {
+          "text": "Il medico mi ha detto che sono in sovrappeso.",
+          "es": "El médico me dijo que tengo sobrepeso."
+        },
+        "pt": {
+          "text": "O médico me disse que estou acima do peso.",
+          "es": "El médico me dijo que tengo sobrepeso."
+        },
+        "de": {
+          "text": "Der Arzt hat mir gesagt, dass ich übergewichtig bin.",
+          "es": "El médico me dijo que tengo sobrepeso."
+        }
+      }
     },
     {
       "id": "df10",
@@ -127,9 +343,32 @@
         "en": "Stocky",
         "pt": "Atarracado / Atarracada",
         "fr": "Trapu / Trapue",
-        "it": "Tarchiato / Tarchiata"
+        "it": "Tarchiato / Tarchiata",
+        "de": "Stämmig"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The stocky man in the photo is my uncle.",
+          "es": "El hombre robusto de la foto es mi tío."
+        },
+        "fr": {
+          "text": "L'homme trapu sur la photo est mon oncle.",
+          "es": "El hombre robusto de la foto es mi tío."
+        },
+        "it": {
+          "text": "L'uomo tarchiato nella foto è mio zio.",
+          "es": "El hombre robusto de la foto es mi tío."
+        },
+        "pt": {
+          "text": "O homem atarracado da foto é meu tio.",
+          "es": "El hombre robusto de la foto es mi tío."
+        },
+        "de": {
+          "text": "Der stämmige Mann auf dem Foto ist mein Onkel.",
+          "es": "El hombre robusto de la foto es mi tío."
+        }
+      }
     },
     {
       "id": "df11",
@@ -138,9 +377,32 @@
         "en": "Muscular",
         "pt": "Musculoso / Musculosa",
         "fr": "Musclé / Musclée",
-        "it": "Muscoloso / Muscolosa"
+        "it": "Muscoloso / Muscolosa",
+        "de": "Muskulös"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My brother is muscular: he works out every day.",
+          "es": "Mi hermano es musculoso: entrena todos los días."
+        },
+        "fr": {
+          "text": "Mon frère est musclé : il s'entraîne tous les jours.",
+          "es": "Mi hermano es musculoso: entrena todos los días."
+        },
+        "it": {
+          "text": "Mio fratello è muscoloso: si allena ogni giorno.",
+          "es": "Mi hermano es musculoso: entrena todos los días."
+        },
+        "pt": {
+          "text": "Meu irmão é musculoso: ele treina todo dia.",
+          "es": "Mi hermano es musculoso: entrena todos los días."
+        },
+        "de": {
+          "text": "Mein Bruder ist muskulös: Er trainiert jeden Tag.",
+          "es": "Mi hermano es musculoso: entrena todos los días."
+        }
+      }
     },
     {
       "id": "df12",
@@ -149,9 +411,32 @@
         "en": "Athletic",
         "pt": "Atlético / Atlética",
         "fr": "Athlétique",
-        "it": "Atletico / Atletica"
+        "it": "Atletico / Atletica",
+        "de": "Athletisch"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Ana is athletic and runs every day.",
+          "es": "Ana es atlética y corre todos los días."
+        },
+        "fr": {
+          "text": "Ana est athlétique et court tous les jours.",
+          "es": "Ana es atlética y corre todos los días."
+        },
+        "it": {
+          "text": "Ana è atletica e corre ogni giorno.",
+          "es": "Ana es atlética y corre todos los días."
+        },
+        "pt": {
+          "text": "Ana é atlética e corre todo dia.",
+          "es": "Ana es atlética y corre todos los días."
+        },
+        "de": {
+          "text": "Ana ist athletisch und läuft jeden Tag.",
+          "es": "Ana es atlética y corre todos los días."
+        }
+      }
     },
     {
       "id": "df13",
@@ -160,9 +445,32 @@
         "en": "Strong",
         "pt": "Forte",
         "fr": "Fort / Forte",
-        "it": "Forte"
+        "it": "Forte",
+        "de": "Stark"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My mom is strong and carries the box by herself.",
+          "es": "Mi mamá es fuerte y carga la caja sola."
+        },
+        "fr": {
+          "text": "Ma mère est forte et porte la boîte toute seule.",
+          "es": "Mi mamá es fuerte y carga la caja sola."
+        },
+        "it": {
+          "text": "Mia madre è forte e porta la scatola da sola.",
+          "es": "Mi mamá es fuerte y carga la caja sola."
+        },
+        "pt": {
+          "text": "Minha mãe é forte e carrega a caixa sozinha.",
+          "es": "Mi mamá es fuerte y carga la caja sola."
+        },
+        "de": {
+          "text": "Meine Mutter ist stark und trägt die Kiste allein.",
+          "es": "Mi mamá es fuerte y carga la caja sola."
+        }
+      }
     },
     {
       "id": "df14",
@@ -171,9 +479,32 @@
         "en": "Weak",
         "pt": "Fraco / Fraca",
         "fr": "Faible",
-        "it": "Debole"
+        "it": "Debole",
+        "de": "Schwach"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I feel weak because I haven't eaten.",
+          "es": "Me siento débil porque no he comido."
+        },
+        "fr": {
+          "text": "Je me sens faible parce que je n'ai pas mangé.",
+          "es": "Me siento débil porque no he comido."
+        },
+        "it": {
+          "text": "Mi sento debole perché non ho mangiato.",
+          "es": "Me siento débil porque no he comido."
+        },
+        "pt": {
+          "text": "Estou me sentindo fraca porque não comi.",
+          "es": "Me siento débil porque no he comido."
+        },
+        "de": {
+          "text": "Ich fühle mich schwach, weil ich nichts gegessen habe.",
+          "es": "Me siento débil porque no he comido."
+        }
+      }
     },
     {
       "id": "df15",
@@ -182,9 +513,32 @@
         "en": "Young",
         "pt": "Jovem",
         "fr": "Jeune",
-        "it": "Giovane"
+        "it": "Giovane",
+        "de": "Jung"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My dad looks young in this photo.",
+          "es": "Mi papá parece joven en esta foto."
+        },
+        "fr": {
+          "text": "Mon père a l'air jeune sur cette photo.",
+          "es": "Mi papá parece joven en esta foto."
+        },
+        "it": {
+          "text": "Mio padre sembra giovane in questa foto.",
+          "es": "Mi papá parece joven en esta foto."
+        },
+        "pt": {
+          "text": "Meu pai parece jovem nesta foto.",
+          "es": "Mi papá parece joven en esta foto."
+        },
+        "de": {
+          "text": "Mein Vater sieht auf diesem Foto jung aus.",
+          "es": "Mi papá parece joven en esta foto."
+        }
+      }
     },
     {
       "id": "df16",
@@ -193,9 +547,36 @@
         "en": "Adult",
         "pt": "Adulto / Adulta",
         "fr": "Adulte",
-        "it": "Adulto / Adulta"
+        "it": "Adulto / Adulta",
+        "de": "Erwachsen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Adjetivo que indica que alguien ya no es menor de edad)",
+        "en": "Aquí «adult» funciona como adjetivo; «an adult» es el sustantivo."
+      },
+      "examples": {
+        "en": {
+          "text": "My brother is an adult now and lives alone.",
+          "es": "Mi hermano ya es adulto y vive solo."
+        },
+        "fr": {
+          "text": "Mon frère est adulte maintenant et vit seul.",
+          "es": "Mi hermano ya es adulto y vive solo."
+        },
+        "it": {
+          "text": "Mio fratello è già adulto e vive da solo.",
+          "es": "Mi hermano ya es adulto y vive solo."
+        },
+        "pt": {
+          "text": "Meu irmão já é adulto e mora sozinho.",
+          "es": "Mi hermano ya es adulto y vive solo."
+        },
+        "de": {
+          "text": "Mein Bruder ist schon erwachsen und wohnt allein.",
+          "es": "Mi hermano ya es adulto y vive solo."
+        }
+      }
     },
     {
       "id": "df17",
@@ -204,9 +585,32 @@
         "en": "Middle-aged",
         "pt": "De meia-idade",
         "fr": "D'âge moyen",
-        "it": "Di mezza età"
+        "it": "Di mezza età",
+        "de": "Mittleren Alters"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "There's a middle-aged man in the photo.",
+          "es": "En la foto hay un hombre de mediana edad."
+        },
+        "fr": {
+          "text": "Sur la photo, il y a un homme d'âge moyen.",
+          "es": "En la foto hay un hombre de mediana edad."
+        },
+        "it": {
+          "text": "Nella foto c'è un uomo di mezza età.",
+          "es": "En la foto hay un hombre de mediana edad."
+        },
+        "pt": {
+          "text": "Na foto há um homem de meia-idade.",
+          "es": "En la foto hay un hombre de mediana edad."
+        },
+        "de": {
+          "text": "Auf dem Foto ist ein Mann mittleren Alters.",
+          "es": "En la foto hay un hombre de mediana edad."
+        }
+      }
     },
     {
       "id": "df18",
@@ -215,11 +619,35 @@
         "en": "Elderly",
         "pt": "Idoso / Idosa",
         "fr": "Âgé / Âgée",
-        "it": "Anziano / Anziana"
+        "it": "Anziano / Anziana",
+        "de": "Im hohen Alter"
       },
       "image_url": "",
       "notes": {
-        "es": "edad, sin comparación"
+        "es": "(Edad, sin comparación)",
+        "en": "«Elderly» puede sonar categórico; «older» suele resultar más neutral."
+      },
+      "examples": {
+        "en": {
+          "text": "My grandmother is elderly and still walks every day.",
+          "es": "Mi abuela es de edad avanzada y todavía camina todos los días."
+        },
+        "fr": {
+          "text": "Ma grand-mère est âgée et marche encore tous les jours.",
+          "es": "Mi abuela es de edad avanzada y todavía camina todos los días."
+        },
+        "it": {
+          "text": "Mia nonna è anziana e cammina ancora ogni giorno.",
+          "es": "Mi abuela es de edad avanzada y todavía camina todos los días."
+        },
+        "pt": {
+          "text": "Minha avó é idosa e ainda caminha todo dia.",
+          "es": "Mi abuela es de edad avanzada y todavía camina todos los días."
+        },
+        "de": {
+          "text": "Meine Oma ist im hohen Alter noch jeden Tag zu Fuß unterwegs.",
+          "es": "Mi abuela es de edad avanzada y todavía camina todos los días."
+        }
       }
     },
     {
@@ -229,11 +657,34 @@
         "en": "Old",
         "pt": "Velho / Velha",
         "fr": "Vieux / Vieille",
-        "it": "Vecchio / Vecchia"
+        "it": "Vecchio / Vecchia",
+        "de": "Alt"
       },
       "image_url": "",
       "notes": {
         "es": "Puede resultar descortés al describir personas."
+      },
+      "examples": {
+        "en": {
+          "text": "In the story, the king is old and has white hair.",
+          "es": "En el cuento, el rey es viejo y tiene el cabello blanco."
+        },
+        "fr": {
+          "text": "Dans l'histoire, le roi est vieux et a les cheveux blancs.",
+          "es": "En el cuento, el rey es viejo y tiene el cabello blanco."
+        },
+        "it": {
+          "text": "Nella storia il re è vecchio e ha i capelli bianchi.",
+          "es": "En el cuento, el rey es viejo y tiene el cabello blanco."
+        },
+        "pt": {
+          "text": "Na história, o rei é velho e tem cabelo branco.",
+          "es": "En el cuento, el rey es viejo y tiene el cabello blanco."
+        },
+        "de": {
+          "text": "In der Geschichte ist der König alt und hat weißes Haar.",
+          "es": "En el cuento, el rey es viejo y tiene el cabello blanco."
+        }
       }
     },
     {
@@ -243,9 +694,32 @@
         "en": "Good-looking",
         "pt": "Bonito / Bonita",
         "fr": "Beau / Belle",
-        "it": "Bello / Bella"
+        "it": "Bello / Bella",
+        "de": "Gut aussehend"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Your brother is really good-looking.",
+          "es": "Tu hermano es muy guapo."
+        },
+        "fr": {
+          "text": "Ton frère est très beau sur cette photo.",
+          "es": "Tu hermano sale muy guapo en esa foto."
+        },
+        "it": {
+          "text": "Tuo fratello è molto bello in quella foto.",
+          "es": "Tu hermano sale muy guapo en esa foto."
+        },
+        "pt": {
+          "text": "Seu irmão está muito bonito nessa foto.",
+          "es": "Tu hermano sale muy guapo en esa foto."
+        },
+        "de": {
+          "text": "Dein Bruder ist wirklich gut aussehend.",
+          "es": "Tu hermano es muy guapo."
+        }
+      }
     },
     {
       "id": "df21",
@@ -254,9 +728,32 @@
         "en": "Ugly",
         "pt": "Feio / Feia",
         "fr": "Laid / Laide",
-        "it": "Brutto / Brutta"
+        "it": "Brutto / Brutta",
+        "de": "Hässlich"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "In the story, the monster is ugly but kind.",
+          "es": "En el cuento, el monstruo es feo pero amable."
+        },
+        "fr": {
+          "text": "Dans l'histoire, le monstre est laid mais gentil.",
+          "es": "En el cuento, el monstruo es feo pero amable."
+        },
+        "it": {
+          "text": "Nella storia il mostro è brutto ma gentile.",
+          "es": "En el cuento, el monstruo es feo pero amable."
+        },
+        "pt": {
+          "text": "Na história, o monstro é feio, mas gentil.",
+          "es": "En el cuento, el monstruo es feo pero amable."
+        },
+        "de": {
+          "text": "In der Geschichte ist das Monster hässlich, aber freundlich.",
+          "es": "En el cuento, el monstruo es feo pero amable."
+        }
+      }
     },
     {
       "id": "df22",
@@ -265,9 +762,32 @@
         "en": "Attractive",
         "pt": "Atraente",
         "fr": "Attirant / Attirante",
-        "it": "Attraente"
+        "it": "Attraente",
+        "de": "Attraktiv"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The main character in the movie is attractive.",
+          "es": "La protagonista de la película es atractiva."
+        },
+        "fr": {
+          "text": "L'héroïne du film est attirante.",
+          "es": "La protagonista de la película es atractiva."
+        },
+        "it": {
+          "text": "La protagonista del film è attraente.",
+          "es": "La protagonista de la película es atractiva."
+        },
+        "pt": {
+          "text": "A protagonista do filme é atraente.",
+          "es": "La protagonista de la película es atractiva."
+        },
+        "de": {
+          "text": "Die Hauptfigur im Film ist attraktiv.",
+          "es": "La protagonista de la película es atractiva."
+        }
+      }
     },
     {
       "id": "df23",
@@ -276,9 +796,32 @@
         "en": "Adorable",
         "pt": "Adorável",
         "fr": "Adorable",
-        "it": "Adorabile"
+        "it": "Adorabile",
+        "de": "Süß"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My nephew is adorable when he smiles.",
+          "es": "Mi sobrino es adorable cuando sonríe."
+        },
+        "fr": {
+          "text": "Mon neveu est adorable quand il sourit.",
+          "es": "Mi sobrino es adorable cuando sonríe."
+        },
+        "it": {
+          "text": "Mio nipote è adorabile quando sorride.",
+          "es": "Mi sobrino es adorable cuando sonríe."
+        },
+        "pt": {
+          "text": "Meu sobrinho é adorável quando sorri.",
+          "es": "Mi sobrino es adorable cuando sonríe."
+        },
+        "de": {
+          "text": "Mein Neffe ist süß, wenn er lächelt.",
+          "es": "Mi sobrino es adorable cuando sonríe."
+        }
+      }
     },
     {
       "id": "df24",
@@ -287,20 +830,69 @@
         "en": "Well-groomed",
         "pt": "Bem-arrumado / Bem-arrumada",
         "fr": "Soigné / Soignée",
-        "it": "Curato / Curata"
+        "it": "Curato / Curata",
+        "de": "Gepflegt"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Aspecto cuidado)"
+      },
+      "examples": {
+        "en": {
+          "text": "The man at the interview is well-groomed.",
+          "es": "El hombre de la entrevista está bien arreglado."
+        },
+        "fr": {
+          "text": "L'homme à l'entretien est très soigné.",
+          "es": "El hombre de la entrevista está bien arreglado."
+        },
+        "it": {
+          "text": "L'uomo al colloquio ha un aspetto curato.",
+          "es": "El hombre de la entrevista está bien arreglado."
+        },
+        "pt": {
+          "text": "O homem da entrevista está bem-arrumado.",
+          "es": "El hombre de la entrevista está bien arreglado."
+        },
+        "de": {
+          "text": "Der Mann beim Vorstellungsgespräch sieht gepflegt aus.",
+          "es": "El hombre de la entrevista está bien arreglado."
+        }
+      }
     },
     {
       "id": "df25",
       "es": "Desaliñado / Desaliñada",
       "translations": {
-        "en": "Unkempt / Scruffy",
+        "en": "Unkempt",
         "pt": "Desleixado / Desleixada",
         "fr": "Négligé / Négligée",
-        "it": "Trasandato / Trasandata"
+        "it": "Trasandato / Trasandata",
+        "de": "Ungepflegt"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "He looks unkempt after the trip.",
+          "es": "Después del viaje, se ve desaliñado."
+        },
+        "fr": {
+          "text": "Après le voyage, il a l'air négligé.",
+          "es": "Después del viaje, se ve desaliñado."
+        },
+        "it": {
+          "text": "Dopo il viaggio ha un aspetto trasandato.",
+          "es": "Después del viaje, se ve desaliñado."
+        },
+        "pt": {
+          "text": "Depois da viagem, ele parece desleixado.",
+          "es": "Después del viaje, se ve desaliñado."
+        },
+        "de": {
+          "text": "Nach der Reise sieht er ungepflegt aus.",
+          "es": "Después del viaje, se ve desaliñado."
+        }
+      }
     },
     {
       "id": "df26",
@@ -309,9 +901,32 @@
         "en": "Elegant",
         "pt": "Elegante",
         "fr": "Élégant / Élégante",
-        "it": "Elegante"
+        "it": "Elegante",
+        "de": "Elegant"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "You look elegant in that dress.",
+          "es": "Con ese vestido te ves elegante."
+        },
+        "fr": {
+          "text": "Tu es élégante dans cette robe.",
+          "es": "Con ese vestido te ves elegante."
+        },
+        "it": {
+          "text": "Con quel vestito sei elegante.",
+          "es": "Con ese vestido te ves elegante."
+        },
+        "pt": {
+          "text": "Você fica elegante com esse vestido.",
+          "es": "Con ese vestido te ves elegante."
+        },
+        "de": {
+          "text": "In dem Kleid siehst du elegant aus.",
+          "es": "Con ese vestido te ves elegante."
+        }
+      }
     },
     {
       "id": "df27",
@@ -320,12 +935,35 @@
         "en": "Casual",
         "pt": "Casual",
         "fr": "Décontracté / Décontractée",
-        "it": "Casual"
+        "it": "Casual",
+        "de": "Lässig"
       },
       "image_url": "",
       "notes": {
-        "es": "estilo de vestir",
-        "en": "Casual describe la ropa; informal también puede referirse al trato."
+        "es": "(Estilo de vestir)",
+        "en": "«Casual» se refiere aquí a la ropa, no al trato."
+      },
+      "examples": {
+        "en": {
+          "text": "I'm wearing casual clothes to the party.",
+          "es": "Para la fiesta llevo ropa informal."
+        },
+        "fr": {
+          "text": "Je porte une tenue décontractée pour la fête.",
+          "es": "Para la fiesta llevo ropa informal."
+        },
+        "it": {
+          "text": "Per la festa indosso abiti casual.",
+          "es": "Para la fiesta llevo ropa informal."
+        },
+        "pt": {
+          "text": "Vou usar roupa casual na festa.",
+          "es": "Para la fiesta llevo ropa informal."
+        },
+        "de": {
+          "text": "Zur Party trage ich lässige Kleidung.",
+          "es": "Para la fiesta llevo ropa informal."
+        }
       }
     },
     {
@@ -335,13 +973,78 @@
         "en": "The hair",
         "pt": "O cabelo",
         "fr": "Les cheveux",
-        "it": "I capelli"
+        "it": "I capelli",
+        "de": "Die Haare"
       },
       "image_url": "",
       "notes": {
-        "fr": "Singular: le cheveu (un cabello individual)",
-        "it": "Singular: il capello (un cabello individual)",
-        "pt": "Plural: os cabelos"
+        "fr": "Singular: Le cheveu (un cabello individual)",
+        "it": "Singular: Il capello (un cabello individual)",
+        "pt": "El singular «o cabelo» suele designar el pelo en conjunto.",
+        "de": "Singular: Das Haar. «Die Haare» es la forma corriente para el pelo en conjunto."
+      },
+      "examples": {
+        "en": {
+          "text": "I wash my hair in the morning.",
+          "es": "Me lavo el cabello por la mañana."
+        },
+        "fr": {
+          "text": "Je me lave les cheveux le matin.",
+          "es": "Me lavo el cabello por la mañana."
+        },
+        "it": {
+          "text": "Mi lavo i capelli al mattino.",
+          "es": "Me lavo el cabello por la mañana."
+        },
+        "pt": {
+          "text": "Eu lavo o cabelo de manhã.",
+          "es": "Me lavo el cabello por la mañana."
+        },
+        "de": {
+          "text": "Ich wasche mir morgens die Haare.",
+          "es": "Me lavo el cabello por la mañana."
+        }
+      }
+    },
+    {
+      "id": "df176",
+      "es": "La cara",
+      "translations": {
+        "en": "The face",
+        "pt": "O rosto",
+        "fr": "Le visage",
+        "it": "Il viso",
+        "de": "Das Gesicht"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The faces)",
+        "fr": "(Plural: Les visages)",
+        "it": "(Plural: I visi)",
+        "pt": "(Plural: Os rostos)",
+        "de": "(Plural: Die Gesichter)"
+      },
+      "examples": {
+        "en": {
+          "text": "I wash my face with cold water.",
+          "es": "Me lavo la cara con agua fría."
+        },
+        "fr": {
+          "text": "Je me lave le visage à l'eau froide.",
+          "es": "Me lavo la cara con agua fría."
+        },
+        "it": {
+          "text": "Mi lavo il viso con acqua fredda.",
+          "es": "Me lavo la cara con agua fría."
+        },
+        "pt": {
+          "text": "Lavo o rosto com água fria.",
+          "es": "Me lavo la cara con agua fría."
+        },
+        "de": {
+          "text": "Ich wasche mein Gesicht mit kaltem Wasser.",
+          "es": "Me lavo la cara con agua fría."
+        }
       }
     },
     {
@@ -351,14 +1054,325 @@
         "en": "The eyes",
         "pt": "Os olhos",
         "fr": "Les yeux",
-        "it": "Gli occhi"
+        "it": "Gli occhi",
+        "de": "Die Augen"
       },
       "image_url": "",
       "notes": {
-        "en": "Singular: the eye",
-        "fr": "Singular: l’œil",
-        "it": "Singular: l’occhio",
-        "pt": "Singular: o olho"
+        "en": "Singular: The eye",
+        "fr": "Singular: L'œil",
+        "it": "Singular: L'occhio",
+        "pt": "Singular: O olho",
+        "de": "Singular: Das Auge"
+      },
+      "examples": {
+        "en": {
+          "text": "The girl closes her eyes to sleep.",
+          "es": "La niña cierra los ojos para dormir."
+        },
+        "fr": {
+          "text": "La petite fille ferme les yeux pour dormir.",
+          "es": "La niña cierra los ojos para dormir."
+        },
+        "it": {
+          "text": "La bambina chiude gli occhi per dormire.",
+          "es": "La niña cierra los ojos para dormir."
+        },
+        "pt": {
+          "text": "A menina fecha os olhos para dormir.",
+          "es": "La niña cierra los ojos para dormir."
+        },
+        "de": {
+          "text": "Das Mädchen schließt die Augen zum Schlafen.",
+          "es": "La niña cierra los ojos para dormir."
+        }
+      }
+    },
+    {
+      "id": "df178",
+      "es": "Los ojos azules",
+      "translations": {
+        "en": "The blue eyes",
+        "pt": "Os olhos azuis",
+        "fr": "Les yeux bleus",
+        "it": "Gli occhi azzurri",
+        "de": "Die blauen Augen"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Singular: The blue eye",
+        "fr": "Singular: L'œil bleu",
+        "it": "Singular: L'occhio azzurro",
+        "pt": "Singular: O olho azul",
+        "de": "Singular: Das blaue Auge"
+      },
+      "examples": {
+        "en": {
+          "text": "The baby has blue eyes.",
+          "es": "El bebé tiene los ojos azules."
+        },
+        "fr": {
+          "text": "Le bébé a les yeux bleus.",
+          "es": "El bebé tiene los ojos azules."
+        },
+        "it": {
+          "text": "Il bambino ha gli occhi azzurri.",
+          "es": "El bebé tiene los ojos azules."
+        },
+        "pt": {
+          "text": "O bebê tem os olhos azuis.",
+          "es": "El bebé tiene los ojos azules."
+        },
+        "de": {
+          "text": "Das Baby hat blaue Augen.",
+          "es": "El bebé tiene los ojos azules."
+        }
+      }
+    },
+    {
+      "id": "df179",
+      "es": "Los ojos verdes",
+      "translations": {
+        "en": "The green eyes",
+        "pt": "Os olhos verdes",
+        "fr": "Les yeux verts",
+        "it": "Gli occhi verdi",
+        "de": "Die grünen Augen"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Singular: The green eye",
+        "fr": "Singular: L'œil vert",
+        "it": "Singular: L'occhio verde",
+        "pt": "Singular: O olho verde",
+        "de": "Singular: Das grüne Auge"
+      },
+      "examples": {
+        "en": {
+          "text": "My grandmother has green eyes.",
+          "es": "Mi abuela tiene los ojos verdes."
+        },
+        "fr": {
+          "text": "Ma grand-mère a les yeux verts.",
+          "es": "Mi abuela tiene los ojos verdes."
+        },
+        "it": {
+          "text": "Mia nonna ha gli occhi verdi.",
+          "es": "Mi abuela tiene los ojos verdes."
+        },
+        "pt": {
+          "text": "Minha avó tem os olhos verdes.",
+          "es": "Mi abuela tiene los ojos verdes."
+        },
+        "de": {
+          "text": "Meine Oma hat grüne Augen.",
+          "es": "Mi abuela tiene los ojos verdes."
+        }
+      }
+    },
+    {
+      "id": "df180",
+      "es": "Los ojos cafés",
+      "translations": {
+        "en": "The brown eyes",
+        "pt": "Os olhos castanhos",
+        "fr": "Les yeux marron",
+        "it": "Gli occhi marroni",
+        "de": "Die braunen Augen"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Singular: The brown eye",
+        "fr": "Singular: L'œil marron",
+        "it": "Singular: L'occhio marrone",
+        "pt": "Singular: O olho castanho",
+        "de": "Singular: Das braune Auge"
+      },
+      "examples": {
+        "en": {
+          "text": "The two brothers have brown eyes.",
+          "es": "Los dos hermanos tienen los ojos cafés."
+        },
+        "fr": {
+          "text": "Les deux frères ont les yeux marron.",
+          "es": "Los dos hermanos tienen los ojos cafés."
+        },
+        "it": {
+          "text": "I due fratelli hanno gli occhi marroni.",
+          "es": "Los dos hermanos tienen los ojos cafés."
+        },
+        "pt": {
+          "text": "Os dois irmãos têm olhos castanhos.",
+          "es": "Los dos hermanos tienen los ojos cafés."
+        },
+        "de": {
+          "text": "Die beiden Brüder haben braune Augen.",
+          "es": "Los dos hermanos tienen los ojos cafés."
+        }
+      }
+    },
+    {
+      "id": "df52",
+      "es": "Los ojos color avellana",
+      "translations": {
+        "en": "The hazel eyes",
+        "pt": "Os olhos cor de avelã",
+        "fr": "Les yeux noisette",
+        "it": "Gli occhi color nocciola",
+        "de": "Die haselnussbraunen Augen"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Singular: The hazel eye",
+        "fr": "Singular: L'œil noisette",
+        "it": "Singular: L'occhio color nocciola",
+        "pt": "Singular: O olho cor de avelã",
+        "de": "Singular: Das haselnussbraune Auge"
+      },
+      "examples": {
+        "en": {
+          "text": "My mom has hazel eyes.",
+          "es": "Mi mamá tiene los ojos color avellana."
+        },
+        "fr": {
+          "text": "Ma mère a les yeux noisette.",
+          "es": "Mi mamá tiene los ojos color avellana."
+        },
+        "it": {
+          "text": "Mia madre ha gli occhi color nocciola.",
+          "es": "Mi mamá tiene los ojos color avellana."
+        },
+        "pt": {
+          "text": "Minha mãe tem olhos cor de avelã.",
+          "es": "Mi mamá tiene los ojos color avellana."
+        },
+        "de": {
+          "text": "Meine Mutter hat haselnussbraune Augen.",
+          "es": "Mi mamá tiene los ojos color avellana."
+        }
+      }
+    },
+    {
+      "id": "df174",
+      "es": "La nariz",
+      "translations": {
+        "en": "The nose",
+        "pt": "O nariz",
+        "fr": "Le nez",
+        "it": "Il naso",
+        "de": "Die Nase"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The noses)",
+        "fr": "(Plural: Les nez)",
+        "it": "(Plural: I nasi)",
+        "pt": "(Plural: Os narizes)",
+        "de": "(Plural: Die Nasen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The clown has a red nose.",
+          "es": "El payaso tiene la nariz roja."
+        },
+        "fr": {
+          "text": "Le clown a le nez rouge.",
+          "es": "El payaso tiene la nariz roja."
+        },
+        "it": {
+          "text": "Il pagliaccio ha il naso rosso.",
+          "es": "El payaso tiene la nariz roja."
+        },
+        "pt": {
+          "text": "O palhaço tem o nariz vermelho.",
+          "es": "El payaso tiene la nariz roja."
+        },
+        "de": {
+          "text": "Der Clown hat eine rote Nase.",
+          "es": "El payaso tiene la nariz roja."
+        }
+      }
+    },
+    {
+      "id": "df175",
+      "es": "Los labios",
+      "translations": {
+        "en": "The lips",
+        "pt": "Os lábios",
+        "fr": "Les lèvres",
+        "it": "Le labbra",
+        "de": "Die Lippen"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Singular: The lip",
+        "fr": "Singular: La lèvre",
+        "it": "Singular: Il labbro",
+        "pt": "Singular: O lábio",
+        "de": "Singular: Die Lippe"
+      },
+      "examples": {
+        "en": {
+          "text": "My lips get dry in cold weather.",
+          "es": "Se me resecan los labios con el frío."
+        },
+        "fr": {
+          "text": "J'ai les lèvres sèches quand il fait froid.",
+          "es": "Se me resecan los labios con el frío."
+        },
+        "it": {
+          "text": "Con il freddo mi si seccano le labbra.",
+          "es": "Se me resecan los labios con el frío."
+        },
+        "pt": {
+          "text": "Meus lábios ressecam no frio.",
+          "es": "Se me resecan los labios con el frío."
+        },
+        "de": {
+          "text": "Bei Kälte werden meine Lippen trocken.",
+          "es": "Se me resecan los labios con el frío."
+        }
+      }
+    },
+    {
+      "id": "df173",
+      "es": "La sonrisa",
+      "translations": {
+        "en": "The smile",
+        "pt": "O sorriso",
+        "fr": "Le sourire",
+        "it": "Il sorriso",
+        "de": "Das Lächeln"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The smiles)",
+        "fr": "(Plural: Les sourires)",
+        "it": "(Plural: I sorrisi)",
+        "pt": "(Plural: Os sorrisos)",
+        "de": "(Plural: Die Lächeln)"
+      },
+      "examples": {
+        "en": {
+          "text": "Your daughter has a beautiful smile.",
+          "es": "Tu hija tiene una sonrisa muy bonita."
+        },
+        "fr": {
+          "text": "Ta fille a un très beau sourire.",
+          "es": "Tu hija tiene una sonrisa muy bonita."
+        },
+        "it": {
+          "text": "Tua figlia ha un sorriso molto bello.",
+          "es": "Tu hija tiene una sonrisa muy bonita."
+        },
+        "pt": {
+          "text": "Sua filha tem um sorriso muito bonito.",
+          "es": "Tu hija tiene una sonrisa muy bonita."
+        },
+        "de": {
+          "text": "Deine Tochter hat ein sehr schönes Lächeln.",
+          "es": "Tu hija tiene una sonrisa muy bonita."
+        }
       }
     },
     {
@@ -368,326 +1382,39 @@
         "en": "The skin",
         "pt": "A pele",
         "fr": "La peau",
-        "it": "La pelle"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df31",
-      "es": "La barba",
-      "translations": {
-        "en": "The beard",
-        "pt": "A barba",
-        "fr": "La barbe",
-        "it": "La barba"
+        "it": "La pelle",
+        "de": "Die Haut"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the beards",
-        "fr": "Plural: les barbes",
-        "it": "Plural: le barbe",
-        "pt": "Plural: as barbas"
-      }
-    },
-    {
-      "id": "df32",
-      "es": "El bigote",
-      "translations": {
-        "en": "The mustache",
-        "pt": "O bigode",
-        "fr": "La moustache",
-        "it": "I baffi"
+        "es": "(Piel humana)",
+        "en": "Aquí «skin» se usa como incontable.",
+        "fr": "Aquí «peau» se refiere a la piel en conjunto.",
+        "it": "Aquí «pelle» se refiere a la piel en conjunto.",
+        "pt": "Aquí «pele» se refiere a la piel en conjunto.",
+        "de": "Aquí «Haut» se refiere a la piel en conjunto."
       },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the mustaches",
-        "fr": "Plural: les moustaches",
-        "it": "Singular: il baffo (un pelo del bigote)",
-        "pt": "Plural: os bigodes"
-      }
-    },
-    {
-      "id": "df33",
-      "es": "Las pecas",
-      "translations": {
-        "en": "The freckles",
-        "pt": "As sardas",
-        "fr": "Les taches de rousseur",
-        "it": "Le lentiggini"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Singular: the freckle",
-        "fr": "Singular: la tache de rousseur",
-        "it": "Singular: la lentiggine",
-        "pt": "Singular: a sarda"
-      }
-    },
-    {
-      "id": "df34",
-      "es": "Las arrugas",
-      "translations": {
-        "en": "The wrinkles",
-        "pt": "As rugas",
-        "fr": "Les rides",
-        "it": "Le rughe"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Singular: the wrinkle",
-        "fr": "Singular: la ride",
-        "it": "Singular: la ruga",
-        "pt": "Singular: a ruga"
-      }
-    },
-    {
-      "id": "df35",
-      "es": "La cicatriz",
-      "translations": {
-        "en": "The scar",
-        "pt": "A cicatriz",
-        "fr": "La cicatrice",
-        "it": "La cicatrice"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the scars",
-        "fr": "Plural: les cicatrices",
-        "it": "Plural: le cicatrici",
-        "pt": "Plural: as cicatrizes"
-      }
-    },
-    {
-      "id": "df36",
-      "es": "El lunar",
-      "translations": {
-        "en": "The mole",
-        "pt": "A pinta",
-        "fr": "Le grain de beauté",
-        "it": "Il neo"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the moles",
-        "fr": "Plural: les grains de beauté",
-        "it": "Plural: i nei",
-        "pt": "Plural: as pintas"
-      }
-    },
-    {
-      "id": "df37",
-      "es": "Los hoyuelos",
-      "translations": {
-        "en": "The dimples",
-        "pt": "As covinhas",
-        "fr": "Les fossettes",
-        "it": "Le fossette"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Singular: the dimple",
-        "fr": "Singular: la fossette",
-        "it": "Singular: la fossetta",
-        "pt": "Singular: a covinha"
-      }
-    },
-    {
-      "id": "df38",
-      "es": "Los lentes",
-      "translations": {
-        "en": "The glasses",
-        "pt": "Os óculos",
-        "fr": "Les lunettes",
-        "it": "Gli occhiali"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "En México se dice lentes; en España, gafas."
-      }
-    },
-    {
-      "id": "df39",
-      "es": "Rubio / Rubia",
-      "translations": {
-        "en": "Blond / Blonde",
-        "pt": "Loiro / Loira",
-        "fr": "Blond / Blonde",
-        "it": "Biondo / Bionda"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df40",
-      "es": "El cabello castaño",
-      "translations": {
-        "en": "The brown hair",
-        "pt": "O cabelo castanho",
-        "fr": "Les cheveux châtains",
-        "it": "I capelli castani"
-      },
-      "image_url": "",
-      "notes": {
-        "fr": "Singular: le cheveu châtain (un cabello individual)",
-        "it": "Singular: il capello castano (un cabello individual)",
-        "pt": "Plural: os cabelos castanhos"
-      }
-    },
-    {
-      "id": "df41",
-      "es": "Moreno / Morena",
-      "translations": {
-        "en": "Dark-haired",
-        "pt": "De cabelos escuros",
-        "fr": "Brun / Brune",
-        "it": "Bruno / Bruna"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Aquí se refiere al cabello oscuro, no al tono de piel."
-      }
-    },
-    {
-      "id": "df42",
-      "es": "Pelirrojo / Pelirroja",
-      "translations": {
-        "en": "Red-haired / Ginger",
-        "pt": "Ruivo / Ruiva",
-        "fr": "Roux / Rousse",
-        "it": "Rosso / Rossa"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Ginger es coloquial."
-      }
-    },
-    {
-      "id": "df43",
-      "es": "Canoso / Canosa",
-      "translations": {
-        "en": "Gray-haired",
-        "pt": "Grisalho / Grisalha",
-        "fr": "Grisonnant / Grisonnante",
-        "it": "Brizzolato / Brizzolata"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df44",
-      "es": "Calvo / Calva",
-      "translations": {
-        "en": "Bald",
-        "pt": "Careca",
-        "fr": "Chauve",
-        "it": "Calvo / Calva"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df45",
-      "es": "Con entradas",
-      "translations": {
-        "en": "With a receding hairline",
-        "pt": "Com entradas no cabelo",
-        "fr": "Avec les tempes dégarnies",
-        "it": "Stempiato / Stempiata"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "retroceso de la línea del cabello"
-      }
-    },
-    {
-      "id": "df46",
-      "es": "Lacio / Lacia",
-      "translations": {
-        "en": "Straight",
-        "pt": "Liso / Lisa",
-        "fr": "Raide",
-        "it": "Liscio / Liscia"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df47",
-      "es": "Rizado / Rizada",
-      "translations": {
-        "en": "Curly",
-        "pt": "Cacheado / Cacheada",
-        "fr": "Bouclé / Bouclée",
-        "it": "Riccio / Riccia"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "En México también se dice cabello chino."
-      }
-    },
-    {
-      "id": "df48",
-      "es": "Ondulado / Ondulada",
-      "translations": {
-        "en": "Wavy",
-        "pt": "Ondulado / Ondulada",
-        "fr": "Ondulé / Ondulée",
-        "it": "Mosso / Mossa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df49",
-      "es": "Crespo / Crespa",
-      "translations": {
-        "en": "Coily / Tightly curled",
-        "pt": "Crespo / Crespa",
-        "fr": "Crépu / Crépue",
-        "it": "Crespo / Crespa"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Cabello con rizos muy cerrados."
-      }
-    },
-    {
-      "id": "df50",
-      "es": "El cabello teñido",
-      "translations": {
-        "en": "The dyed hair",
-        "pt": "O cabelo tingido",
-        "fr": "Les cheveux teints",
-        "it": "I capelli tinti"
-      },
-      "image_url": "",
-      "notes": {
-        "pt": "Plural: os cabelos tingidos",
-        "fr": "Singular: le cheveu teint (un cabello individual)",
-        "it": "Singular: il capello tinto (un cabello individual)"
-      }
-    },
-    {
-      "id": "df51",
-      "es": "Largo / Larga",
-      "translations": {
-        "en": "Long",
-        "pt": "Comprido / Comprida",
-        "fr": "Long / Longue",
-        "it": "Lungo / Lunga"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df52",
-      "es": "Los ojos color avellana",
-      "translations": {
-        "en": "The hazel eyes",
-        "pt": "Os olhos cor de avelã",
-        "fr": "Les yeux noisette",
-        "it": "Gli occhi color nocciola"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Singular: the hazel eye",
-        "fr": "Singular: l’œil noisette",
-        "it": "Singular: l’occhio color nocciola",
-        "pt": "Singular: o olho cor de avelã"
+      "examples": {
+        "en": {
+          "text": "My skin is dry in the winter.",
+          "es": "Mi piel está seca en invierno."
+        },
+        "fr": {
+          "text": "J'ai la peau sèche en hiver.",
+          "es": "Tengo la piel seca en invierno."
+        },
+        "it": {
+          "text": "In inverno ho la pelle secca.",
+          "es": "Tengo la piel seca en invierno."
+        },
+        "pt": {
+          "text": "Minha pele fica seca no inverno.",
+          "es": "Mi piel se reseca en invierno."
+        },
+        "de": {
+          "text": "Im Winter ist meine Haut trocken.",
+          "es": "Mi piel está seca en invierno."
+        }
       }
     },
     {
@@ -697,9 +1424,35 @@
         "en": "The fair skin",
         "pt": "A pele clara",
         "fr": "La peau claire",
-        "it": "La pelle chiara"
+        "it": "La pelle chiara",
+        "de": "Die helle Haut"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Tono de piel)"
+      },
+      "examples": {
+        "en": {
+          "text": "I have fair skin and get sunburned easily.",
+          "es": "Tengo la piel clara y me quemo fácilmente al sol."
+        },
+        "fr": {
+          "text": "J'ai la peau claire et je prends facilement des coups de soleil.",
+          "es": "Tengo la piel clara y me quemo fácilmente al sol."
+        },
+        "it": {
+          "text": "Ho la pelle chiara e mi scotto facilmente al sole.",
+          "es": "Tengo la piel clara y me quemo fácilmente al sol."
+        },
+        "pt": {
+          "text": "Tenho a pele clara e me queimo com facilidade no sol.",
+          "es": "Tengo la piel clara y me quemo fácilmente al sol."
+        },
+        "de": {
+          "text": "Ich habe helle Haut und bekomme schnell einen Sonnenbrand.",
+          "es": "Tengo la piel clara y me quemo fácilmente al sol."
+        }
+      }
     },
     {
       "id": "df54",
@@ -708,9 +1461,35 @@
         "en": "The dark skin",
         "pt": "A pele escura",
         "fr": "La peau foncée",
-        "it": "La pelle scura"
+        "it": "La pelle scura",
+        "de": "Die dunkle Haut"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Tono de piel)"
+      },
+      "examples": {
+        "en": {
+          "text": "The girl in the drawing has dark skin and short hair.",
+          "es": "La niña del dibujo tiene la piel oscura y el cabello corto."
+        },
+        "fr": {
+          "text": "La fille sur le dessin a la peau foncée et les cheveux courts.",
+          "es": "La niña del dibujo tiene la piel oscura y el cabello corto."
+        },
+        "it": {
+          "text": "La bambina nel disegno ha la pelle scura e i capelli corti.",
+          "es": "La niña del dibujo tiene la piel oscura y el cabello corto."
+        },
+        "pt": {
+          "text": "A menina do desenho tem pele escura e cabelo curto.",
+          "es": "La niña del dibujo tiene la piel oscura y el cabello corto."
+        },
+        "de": {
+          "text": "Das Mädchen auf der Zeichnung hat dunkle Haut und kurzes Haar.",
+          "es": "La niña del dibujo tiene la piel oscura y el cabello corto."
+        }
+      }
     },
     {
       "id": "df55",
@@ -719,11 +1498,34 @@
         "en": "Tanned",
         "pt": "Bronzeado / Bronzeada",
         "fr": "Bronzé / Bronzée",
-        "it": "Abbronzato / Abbronzata"
+        "it": "Abbronzato / Abbronzata",
+        "de": "Gebräunt"
       },
       "image_url": "",
       "notes": {
-        "es": "por el sol"
+        "es": "(Por el sol)"
+      },
+      "examples": {
+        "en": {
+          "text": "I came back from the beach very tanned.",
+          "es": "Volví de la playa muy bronceada."
+        },
+        "fr": {
+          "text": "Je suis rentrée de la plage très bronzée.",
+          "es": "Volví de la playa muy bronceada."
+        },
+        "it": {
+          "text": "Sono tornata dalla spiaggia molto abbronzata.",
+          "es": "Volví de la playa muy bronceada."
+        },
+        "pt": {
+          "text": "Voltei da praia bem bronzeada.",
+          "es": "Volví de la playa muy bronceada."
+        },
+        "de": {
+          "text": "Ich bin sehr gebräunt vom Strand zurückgekommen.",
+          "es": "Volví de la playa muy bronceada."
+        }
       }
     },
     {
@@ -733,1082 +1535,880 @@
         "en": "Pale",
         "pt": "Pálido / Pálida",
         "fr": "Pâle",
-        "it": "Pallido / Pallida"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df57",
-      "es": "El estado de ánimo",
-      "translations": {
-        "en": "The mood",
-        "pt": "O estado de espírito",
-        "fr": "L’humeur",
-        "it": "Lo stato d’animo"
+        "it": "Pallido / Pallida",
+        "de": "Blass"
       },
       "image_url": "",
-      "notes": {
-        "en": "Plural: the moods",
-        "fr": "Plural: les humeurs",
-        "it": "Plural: gli stati d’animo",
-        "pt": "Plural: os estados de espírito"
+      "examples": {
+        "en": {
+          "text": "You look pale. Are you feeling okay?",
+          "es": "Te ves pálido. ¿Te sientes bien?"
+        },
+        "fr": {
+          "text": "Tu es pâle. Tu te sens bien ?",
+          "es": "Estás pálido. ¿Te sientes bien?"
+        },
+        "it": {
+          "text": "Sei pallido. Ti senti bene?",
+          "es": "Estás pálido. ¿Te sientes bien?"
+        },
+        "pt": {
+          "text": "Você está pálido. Está se sentindo bem?",
+          "es": "Estás pálido. ¿Te sientes bien?"
+        },
+        "de": {
+          "text": "Du bist blass. Geht es dir gut?",
+          "es": "Estás pálido. ¿Te sientes bien?"
+        }
       }
     },
     {
-      "id": "df58",
-      "es": "Feliz / Contento / Contenta",
+      "id": "df31",
+      "es": "La barba",
       "translations": {
-        "en": "Happy / Glad",
-        "pt": "Feliz / Contente",
-        "fr": "Heureux / Heureuse / Content / Contente",
-        "it": "Felice / Contento / Contenta"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df59",
-      "es": "Triste",
-      "translations": {
-        "en": "Sad",
-        "pt": "Triste",
-        "fr": "Triste",
-        "it": "Triste"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df60",
-      "es": "Tranquilo / Tranquila",
-      "translations": {
-        "en": "Calm",
-        "pt": "Tranquilo / Tranquila / Calmo / Calma",
-        "fr": "Calme",
-        "it": "Tranquillo / Tranquilla / Calmo / Calma"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df61",
-      "es": "Relajado / Relajada",
-      "translations": {
-        "en": "Relaxed",
-        "pt": "Relaxado / Relaxada",
-        "fr": "Détendu / Détendue",
-        "it": "Rilassato / Rilassata"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df62",
-      "es": "Nervioso / Nerviosa",
-      "translations": {
-        "en": "Nervous",
-        "pt": "Nervoso / Nervosa",
-        "fr": "Nerveux / Nerveuse",
-        "it": "Nervoso / Nervosa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df63",
-      "es": "Preocupado / Preocupada",
-      "translations": {
-        "en": "Worried",
-        "pt": "Preocupado / Preocupada",
-        "fr": "Inquiet / Inquiète / Préoccupé / Préoccupée",
-        "it": "Preoccupato / Preoccupata"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df64",
-      "es": "Ansioso / Ansiosa",
-      "translations": {
-        "en": "Anxious",
-        "pt": "Ansioso / Ansiosa",
-        "fr": "Anxieux / Anxieuse",
-        "it": "Ansioso / Ansiosa"
+        "en": "The beard",
+        "pt": "A barba",
+        "fr": "La barbe",
+        "it": "La barba",
+        "de": "Der Bart"
       },
       "image_url": "",
       "notes": {
-        "es": "con inquietud o ansiedad"
+        "en": "(Plural: The beards)",
+        "fr": "(Plural: Les barbes)",
+        "it": "(Plural: Le barbe)",
+        "pt": "(Plural: As barbas)",
+        "de": "(Plural: Die Bärte)"
+      },
+      "examples": {
+        "en": {
+          "text": "My uncle trims his beard on Sundays.",
+          "es": "Mi tío se recorta la barba los domingos."
+        },
+        "fr": {
+          "text": "Mon oncle taille sa barbe le dimanche.",
+          "es": "Mi tío se recorta la barba los domingos."
+        },
+        "it": {
+          "text": "Mio zio si accorcia la barba la domenica.",
+          "es": "Mi tío se recorta la barba los domingos."
+        },
+        "pt": {
+          "text": "Meu tio apara a barba aos domingos.",
+          "es": "Mi tío se recorta la barba los domingos."
+        },
+        "de": {
+          "text": "Mein Onkel stutzt sonntags seinen Bart.",
+          "es": "Mi tío se recorta la barba los domingos."
+        }
       }
     },
     {
-      "id": "df65",
-      "es": "Entusiasmado / Entusiasmada",
+      "id": "df32",
+      "es": "El bigote",
       "translations": {
-        "en": "Excited",
-        "pt": "Empolgado / Empolgada",
-        "fr": "Enthousiaste",
-        "it": "Entusiasta"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df66",
-      "es": "Conmovido / Conmovida",
-      "translations": {
-        "en": "Moved / Touched",
-        "pt": "Comovido / Comovida",
-        "fr": "Ému / Émue",
-        "it": "Commosso / Commossa"
+        "en": "The mustache",
+        "pt": "O bigode",
+        "fr": "La moustache",
+        "it": "I baffi",
+        "de": "Der Schnurrbart"
       },
       "image_url": "",
       "notes": {
-        "es": "tocado/a emocionalmente"
+        "en": "(Plural: The mustaches)",
+        "fr": "(Plural: Les moustaches)",
+        "it": "«I baffi» suele designar el bigote completo; «il baffo» puede designar una de sus mitades o también el bigote.",
+        "pt": "(Plural: Os bigodes)",
+        "de": "(Plural: Die Schnurrbärte)"
+      },
+      "examples": {
+        "en": {
+          "text": "My grandfather has a white mustache.",
+          "es": "Mi abuelo tiene un bigote blanco."
+        },
+        "fr": {
+          "text": "Mon grand-père a une moustache blanche.",
+          "es": "Mi abuelo tiene un bigote blanco."
+        },
+        "it": {
+          "text": "Mio nonno ha i baffi bianchi.",
+          "es": "Mi abuelo tiene un bigote blanco."
+        },
+        "pt": {
+          "text": "Meu avô tem um bigode branco.",
+          "es": "Mi abuelo tiene un bigote blanco."
+        },
+        "de": {
+          "text": "Mein Opa hat einen weißen Schnurrbart.",
+          "es": "Mi abuelo tiene un bigote blanco."
+        }
       }
     },
     {
-      "id": "df67",
-      "es": "Sorprendido / Sorprendida",
+      "id": "df33",
+      "es": "Las pecas",
       "translations": {
-        "en": "Surprised",
-        "pt": "Surpreso / Surpresa",
-        "fr": "Surpris / Surprise",
-        "it": "Sorpreso / Sorpresa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df68",
-      "es": "Confundido / Confundida",
-      "translations": {
-        "en": "Confused",
-        "pt": "Confuso / Confusa",
-        "fr": "Perdu / Perdue",
-        "it": "Confuso / Confusa"
+        "en": "The freckles",
+        "pt": "As sardas",
+        "fr": "Les taches de rousseur",
+        "it": "Le lentiggini",
+        "de": "Die Sommersprossen"
       },
       "image_url": "",
       "notes": {
-        "es": "no entiendo algo",
-        "fr": "Perdu expresa desconcierto; confus / confuse también es posible."
+        "en": "Singular: The freckle",
+        "fr": "Singular: La tache de rousseur",
+        "it": "Singular: La lentiggine",
+        "pt": "Singular: A sarda",
+        "de": "Singular: Die Sommersprosse"
+      },
+      "examples": {
+        "en": {
+          "text": "My daughter has freckles on her nose.",
+          "es": "Mi hija tiene pecas en la nariz."
+        },
+        "fr": {
+          "text": "Ma fille a des taches de rousseur sur le nez.",
+          "es": "Mi hija tiene pecas en la nariz."
+        },
+        "it": {
+          "text": "Mia figlia ha le lentiggini sul naso.",
+          "es": "Mi hija tiene pecas en la nariz."
+        },
+        "pt": {
+          "text": "Minha filha tem sardas no nariz.",
+          "es": "Mi hija tiene pecas en la nariz."
+        },
+        "de": {
+          "text": "Meine Tochter hat Sommersprossen auf der Nase.",
+          "es": "Mi hija tiene pecas en la nariz."
+        }
       }
     },
     {
-      "id": "df69",
-      "es": "Enojado / Enojada",
+      "id": "df34",
+      "es": "Las arrugas",
       "translations": {
-        "en": "Angry / Mad",
-        "pt": "Zangado / Zangada",
-        "fr": "En colère / Fâché / Fâchée",
-        "it": "Arrabbiato / Arrabbiata"
+        "en": "The wrinkles",
+        "pt": "As rugas",
+        "fr": "Les rides",
+        "it": "Le rughe",
+        "de": "Die Falten"
       },
       "image_url": "",
       "notes": {
-        "en": "Mad significa enojado en EE. UU.; en otros contextos puede significar loco."
+        "en": "Singular: The wrinkle",
+        "fr": "Singular: La ride",
+        "it": "Singular: La ruga",
+        "pt": "Singular: A ruga",
+        "de": "Singular: Die Falte"
+      },
+      "examples": {
+        "en": {
+          "text": "My grandmother has wrinkles around her eyes.",
+          "es": "Mi abuela tiene arrugas alrededor de los ojos."
+        },
+        "fr": {
+          "text": "Ma grand-mère a des rides autour des yeux.",
+          "es": "Mi abuela tiene arrugas alrededor de los ojos."
+        },
+        "it": {
+          "text": "Mia nonna ha delle rughe intorno agli occhi.",
+          "es": "Mi abuela tiene arrugas alrededor de los ojos."
+        },
+        "pt": {
+          "text": "Minha avó tem rugas ao redor dos olhos.",
+          "es": "Mi abuela tiene arrugas alrededor de los ojos."
+        },
+        "de": {
+          "text": "Meine Oma hat Falten um die Augen.",
+          "es": "Mi abuela tiene arrugas alrededor de los ojos."
+        }
       }
     },
     {
-      "id": "df70",
-      "es": "Molesto / Molesta",
+      "id": "df35",
+      "es": "La cicatriz",
       "translations": {
-        "en": "Annoyed",
-        "pt": "Irritado / Irritada",
-        "fr": "Agacé / Agacée",
-        "it": "Infastidito / Infastidita"
+        "en": "The scar",
+        "pt": "A cicatriz",
+        "fr": "La cicatrice",
+        "it": "La cicatrice",
+        "de": "Die Narbe"
       },
       "image_url": "",
       "notes": {
-        "es": "siento fastidio"
+        "en": "(Plural: The scars)",
+        "fr": "(Plural: Les cicatrices)",
+        "it": "(Plural: Le cicatrici)",
+        "pt": "(Plural: As cicatrizes)",
+        "de": "(Plural: Die Narben)"
+      },
+      "examples": {
+        "en": {
+          "text": "I have a scar on my hand.",
+          "es": "Tengo una cicatriz en la mano."
+        },
+        "fr": {
+          "text": "J'ai une cicatrice sur la main.",
+          "es": "Tengo una cicatriz en la mano."
+        },
+        "it": {
+          "text": "Ho una cicatrice sulla mano.",
+          "es": "Tengo una cicatriz en la mano."
+        },
+        "pt": {
+          "text": "Tenho uma cicatriz na mão.",
+          "es": "Tengo una cicatriz en la mano."
+        },
+        "de": {
+          "text": "Ich habe eine Narbe an der Hand.",
+          "es": "Tengo una cicatriz en la mano."
+        }
       }
     },
     {
-      "id": "df71",
-      "es": "Frustrado / Frustrada",
+      "id": "df36",
+      "es": "El lunar",
       "translations": {
-        "en": "Frustrated",
-        "pt": "Frustrado / Frustrada",
-        "fr": "Frustré / Frustrée",
-        "it": "Frustrato / Frustrata"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df72",
-      "es": "Decepcionado / Decepcionada",
-      "translations": {
-        "en": "Disappointed",
-        "pt": "Decepcionado / Decepcionada",
-        "fr": "Déçu / Déçue",
-        "it": "Deluso / Delusa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df73",
-      "es": "Avergonzado / Avergonzada",
-      "translations": {
-        "en": "Embarrassed",
-        "pt": "Envergonhado / Envergonhada",
-        "fr": "Gêné / Gênée / Embarrassé / Embarrassée",
-        "it": "Imbarazzato / Imbarazzata"
+        "en": "The mole",
+        "pt": "A pinta",
+        "fr": "Le grain de beauté",
+        "it": "Il neo",
+        "de": "Das Muttermal"
       },
       "image_url": "",
       "notes": {
-        "es": "por una situación incómoda",
-        "en": "Embarrassed significa avergonzado, no embarazado."
+        "en": "(Plural: The moles)",
+        "fr": "(Plural: Les grains de beauté)",
+        "it": "(Plural: I nei)",
+        "pt": "(Plural: As pintas)",
+        "de": "(Plural: Die Muttermale)"
+      },
+      "examples": {
+        "en": {
+          "text": "I have a mole on my shoulder.",
+          "es": "Tengo un lunar en el hombro."
+        },
+        "fr": {
+          "text": "J'ai un grain de beauté sur l'épaule.",
+          "es": "Tengo un lunar en el hombro."
+        },
+        "it": {
+          "text": "Ho un neo sulla spalla.",
+          "es": "Tengo un lunar en el hombro."
+        },
+        "pt": {
+          "text": "Tenho uma pinta no ombro.",
+          "es": "Tengo un lunar en el hombro."
+        },
+        "de": {
+          "text": "Ich habe ein Muttermal auf der Schulter.",
+          "es": "Tengo un lunar en el hombro."
+        }
       }
     },
     {
-      "id": "df74",
-      "es": "Orgulloso / Orgullosa",
+      "id": "df37",
+      "es": "Los hoyuelos",
       "translations": {
-        "en": "Proud",
-        "pt": "Orgulhoso / Orgulhosa",
-        "fr": "Fier / Fière",
-        "it": "Orgoglioso / Orgogliosa"
+        "en": "The dimples",
+        "pt": "As covinhas",
+        "fr": "Les fossettes",
+        "it": "Le fossette",
+        "de": "Die Grübchen"
       },
       "image_url": "",
       "notes": {
-        "es": "satisfacción, sin implicar arrogancia"
+        "en": "Singular: The dimple",
+        "fr": "Singular: La fossette",
+        "it": "Singular: La fossetta",
+        "pt": "Singular: A covinha",
+        "de": "Singular: Das Grübchen"
+      },
+      "examples": {
+        "en": {
+          "text": "You can see her dimples when she smiles.",
+          "es": "Cuando sonríe, se le ven los hoyuelos."
+        },
+        "fr": {
+          "text": "Quand elle sourit, on voit ses fossettes.",
+          "es": "Cuando sonríe, se le ven los hoyuelos."
+        },
+        "it": {
+          "text": "Quando sorride, si vedono le sue fossette.",
+          "es": "Cuando sonríe, se le ven los hoyuelos."
+        },
+        "pt": {
+          "text": "Quando ela sorri, dá para ver as covinhas.",
+          "es": "Cuando sonríe, se le ven los hoyuelos."
+        },
+        "de": {
+          "text": "Wenn sie lächelt, sieht man ihre Grübchen.",
+          "es": "Cuando sonríe, se le ven los hoyuelos."
+        }
       }
     },
     {
-      "id": "df75",
-      "es": "Aliviado / Aliviada",
+      "id": "df38",
+      "es": "Los lentes",
       "translations": {
-        "en": "Relieved",
-        "pt": "Aliviado / Aliviada",
-        "fr": "Soulagé / Soulagée",
-        "it": "Sollevato / Sollevata"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df76",
-      "es": "Satisfecho / Satisfecha",
-      "translations": {
-        "en": "Satisfied",
-        "pt": "Satisfeito / Satisfeita",
-        "fr": "Satisfait / Satisfaite",
-        "it": "Soddisfatto / Soddisfatta"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df77",
-      "es": "Desanimado / Desanimada",
-      "translations": {
-        "en": "Discouraged",
-        "pt": "Desanimado / Desanimada",
-        "fr": "Découragé / Découragée",
-        "it": "Scoraggiato / Scoraggiata"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df78",
-      "es": "De buen humor",
-      "translations": {
-        "en": "In a good mood",
-        "pt": "Bem-humorado / Bem-humorada",
-        "fr": "De bonne humeur",
-        "it": "Di buon umore"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df79",
-      "es": "De mal humor",
-      "translations": {
-        "en": "In a bad mood",
-        "pt": "Mal-humorado / Mal-humorada",
-        "fr": "De mauvaise humeur",
-        "it": "Di cattivo umore"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df80",
-      "es": "Cansado / Cansada",
-      "translations": {
-        "en": "Tired",
-        "pt": "Cansado / Cansada",
-        "fr": "Fatigué / Fatiguée",
-        "it": "Stanco / Stanca"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df81",
-      "es": "Agotado / Agotada",
-      "translations": {
-        "en": "Exhausted",
-        "pt": "Exausto / Exausta",
-        "fr": "Épuisé / Épuisée",
-        "it": "Esausto / Esausta"
+        "en": "The glasses",
+        "pt": "Os óculos",
+        "fr": "Les lunettes",
+        "it": "Gli occhiali",
+        "de": "Die Brille"
       },
       "image_url": "",
       "notes": {
-        "es": "muy cansado/a"
+        "es": "En México se dice «lentes»; en España, «gafas».",
+        "de": "(Plural: Die Brillen) Se usa el singular para un solo par de lentes."
+      },
+      "examples": {
+        "en": {
+          "text": "I wear glasses to read.",
+          "es": "Uso lentes para leer."
+        },
+        "fr": {
+          "text": "Je porte des lunettes pour lire.",
+          "es": "Uso lentes para leer."
+        },
+        "it": {
+          "text": "Porto gli occhiali per leggere.",
+          "es": "Uso lentes para leer."
+        },
+        "pt": {
+          "text": "Uso óculos para ler.",
+          "es": "Uso lentes para leer."
+        },
+        "de": {
+          "text": "Zum Lesen trage ich eine Brille.",
+          "es": "Uso lentes para leer."
+        }
       }
     },
     {
-      "id": "df82",
-      "es": "Descansado / Descansada",
+      "id": "df39",
+      "es": "Rubio / Rubia",
       "translations": {
-        "en": "Well-rested",
-        "pt": "Descansado / Descansada",
-        "fr": "Reposé / Reposée",
-        "it": "Riposato / Riposata"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df83",
-      "es": "Tengo sueño.",
-      "translations": {
-        "en": "I'm sleepy.",
-        "pt": "Estou com sono.",
-        "fr": "J'ai sommeil.",
-        "it": "Ho sonno."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df84",
-      "es": "Estoy aburrido. / Estoy aburrida.",
-      "translations": {
-        "en": "I'm bored.",
-        "pt": "Estou entediado. / Estou entediada.",
-        "fr": "Je m'ennuie.",
-        "it": "Sono annoiato. / Sono annoiata."
+        "en": "Blond / Blonde",
+        "pt": "Loiro / Loira",
+        "fr": "Blond / Blonde",
+        "it": "Biondo / Bionda",
+        "de": "Blond"
       },
       "image_url": "",
-      "notes": {
-        "es": "me aburro",
-        "en": "Bored describe a quien siente aburrimiento; boring, lo que lo provoca."
+      "examples": {
+        "en": {
+          "text": "My son is blond; his brother has red hair.",
+          "es": "Mi hijo es rubio; su hermano es pelirrojo."
+        },
+        "fr": {
+          "text": "Mon fils est blond ; son frère est roux.",
+          "es": "Mi hijo es rubio; su hermano es pelirrojo."
+        },
+        "it": {
+          "text": "Mio figlio è biondo; suo fratello è rosso di capelli.",
+          "es": "Mi hijo es rubio; su hermano es pelirrojo."
+        },
+        "pt": {
+          "text": "Meu filho é loiro; o irmão dele é ruivo.",
+          "es": "Mi hijo es rubio; su hermano es pelirrojo."
+        },
+        "de": {
+          "text": "Mein Sohn ist blond; sein Bruder ist rothaarig.",
+          "es": "Mi hijo es rubio; su hermano es pelirrojo."
+        }
       }
     },
     {
-      "id": "df85",
-      "es": "Interesado / Interesada",
+      "id": "df40",
+      "es": "El cabello castaño",
       "translations": {
-        "en": "Interested",
-        "pt": "Interessado / Interessada",
-        "fr": "Intéressé / Intéressée",
-        "it": "Interessato / Interessata"
+        "en": "The brown hair",
+        "pt": "O cabelo castanho",
+        "fr": "Les cheveux châtains",
+        "it": "I capelli castani",
+        "de": "Die braunen Haare"
       },
       "image_url": "",
       "notes": {
-        "es": "algo atrae mi atención"
+        "fr": "Singular: Le cheveu châtain (un cabello individual)",
+        "it": "Singular: Il capello castano (un cabello individual)",
+        "pt": "(Plural: Os cabelos castanhos)",
+        "de": "Para hablar del cabello en conjunto es habitual usar el plural «Haare»."
+      },
+      "examples": {
+        "en": {
+          "text": "My sister has short brown hair.",
+          "es": "Mi hermana tiene el cabello castaño y corto."
+        },
+        "fr": {
+          "text": "Ma sœur a les cheveux châtains et courts.",
+          "es": "Mi hermana tiene el cabello castaño y corto."
+        },
+        "it": {
+          "text": "Mia sorella ha i capelli castani e corti.",
+          "es": "Mi hermana tiene el cabello castaño y corto."
+        },
+        "pt": {
+          "text": "Minha irmã tem cabelo castanho e curto.",
+          "es": "Mi hermana tiene el cabello castaño y corto."
+        },
+        "de": {
+          "text": "Meine Schwester hat kurzes braunes Haar.",
+          "es": "Mi hermana tiene el cabello castaño y corto."
+        }
       }
     },
     {
-      "id": "df86",
-      "es": "Distraído / Distraída",
+      "id": "df41",
+      "es": "De cabello oscuro",
       "translations": {
-        "en": "Distracted",
-        "pt": "Distraído / Distraída",
-        "fr": "Distrait / Distraite",
-        "it": "Distratto / Distratta"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df87",
-      "es": "Concentrado / Concentrada",
-      "translations": {
-        "en": "Focused / Concentrated",
-        "pt": "Concentrado / Concentrada",
-        "fr": "Concentré / Concentrée",
-        "it": "Concentrato / Concentrata"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df88",
-      "es": "Solo / Sola",
-      "translations": {
-        "en": "Alone",
-        "pt": "Sozinho / Sozinha",
-        "fr": "Seul / Seule",
-        "it": "Solo / Sola"
+        "en": "Dark-haired",
+        "pt": "De cabelos escuros",
+        "fr": "Brun / Brune",
+        "it": "Bruno / Bruna",
+        "de": "Dunkelhaarig"
       },
       "image_url": "",
       "notes": {
-        "es": "sin compañía"
+        "es": "Se refiere al cabello oscuro, no al tono de piel.",
+        "fr": "Aquí «brun» se refiere al cabello oscuro, no a la tez.",
+        "it": "Aquí «bruno» se refiere al cabello oscuro, no a la tez."
+      },
+      "examples": {
+        "en": {
+          "text": "Laura is dark-haired and her sister is blond.",
+          "es": "Laura es de cabello oscuro y su hermana es rubia."
+        },
+        "fr": {
+          "text": "Laura est brune et sa sœur est blonde.",
+          "es": "Laura tiene el cabello oscuro y su hermana es rubia."
+        },
+        "it": {
+          "text": "Laura è bruna e sua sorella è bionda.",
+          "es": "Laura tiene el cabello oscuro y su hermana es rubia."
+        },
+        "pt": {
+          "text": "Laura tem cabelos escuros e a irmã dela é loira.",
+          "es": "Laura tiene el cabello oscuro y su hermana es rubia."
+        },
+        "de": {
+          "text": "Laura ist dunkelhaarig und ihre Schwester ist blond.",
+          "es": "Laura tiene el cabello oscuro y su hermana es rubia."
+        }
       }
     },
     {
-      "id": "df89",
-      "es": "Me siento solo. / Me siento sola.",
+      "id": "df42",
+      "es": "Pelirrojo / Pelirroja",
       "translations": {
-        "en": "I feel lonely.",
-        "pt": "Eu me sinto só.",
-        "fr": "Je me sens seul. / Je me sens seule.",
-        "it": "Mi sento solo. / Mi sento sola."
+        "en": "Red-haired",
+        "pt": "Ruivo / Ruiva",
+        "fr": "Roux / Rousse",
+        "it": "Rosso di capelli / Rossa di capelli",
+        "de": "Rothaarig"
       },
       "image_url": "",
       "notes": {
-        "es": "sentimiento de soledad"
+        "en": "Coloquial: Ginger; al referirse a una persona puede sonar burlón según el contexto."
+      },
+      "examples": {
+        "en": {
+          "text": "The red-haired girl in the photo is my cousin.",
+          "es": "La niña pelirroja de la foto es mi prima."
+        },
+        "fr": {
+          "text": "La petite fille rousse sur la photo est ma cousine.",
+          "es": "La niña pelirroja de la foto es mi prima."
+        },
+        "it": {
+          "text": "La bambina con i capelli rossi nella foto è mia cugina.",
+          "es": "La niña pelirroja de la foto es mi prima."
+        },
+        "pt": {
+          "text": "A menina ruiva da foto é minha prima.",
+          "es": "La niña pelirroja de la foto es mi prima."
+        },
+        "de": {
+          "text": "Das rothaarige Mädchen auf dem Foto ist meine Cousine.",
+          "es": "La niña pelirroja de la foto es mi prima."
+        }
       }
     },
     {
-      "id": "df90",
-      "es": "Me siento culpable.",
+      "id": "df43",
+      "es": "Canoso / Canosa",
       "translations": {
-        "en": "I feel guilty.",
-        "pt": "Eu me sinto culpado. / Eu me sinto culpada.",
-        "fr": "Je me sens coupable.",
-        "it": "Mi sento in colpa."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df91",
-      "es": "La personalidad",
-      "translations": {
-        "en": "The personality",
-        "pt": "A personalidade",
-        "fr": "La personnalité",
-        "it": "La personalità"
+        "en": "Gray-haired",
+        "pt": "Grisalho / Grisalha",
+        "fr": "Grisonnant / Grisonnante",
+        "it": "Brizzolato / Brizzolata",
+        "de": "Grauhaarig"
       },
       "image_url": "",
-      "notes": {
-        "en": "Plural: the personalities",
-        "fr": "Plural: les personnalités",
-        "it": "Plural: le personalità",
-        "pt": "Plural: as personalidades"
+      "examples": {
+        "en": {
+          "text": "My uncle is gray-haired and has a beard.",
+          "es": "Mi tío es canoso y lleva barba."
+        },
+        "fr": {
+          "text": "Mon oncle est grisonnant et porte une barbe.",
+          "es": "Mi tío es canoso y lleva barba."
+        },
+        "it": {
+          "text": "Mio zio è brizzolato e ha la barba.",
+          "es": "Mi tío es canoso y lleva barba."
+        },
+        "pt": {
+          "text": "Meu tio é grisalho e tem barba.",
+          "es": "Mi tío es canoso y lleva barba."
+        },
+        "de": {
+          "text": "Mein Onkel ist grauhaarig und trägt einen Bart.",
+          "es": "Mi tío es canoso y lleva barba."
+        }
       }
     },
     {
-      "id": "df92",
-      "es": "Simpático / Simpática",
+      "id": "df44",
+      "es": "Calvo / Calva",
       "translations": {
-        "en": "Friendly",
-        "pt": "Simpático / Simpática",
-        "fr": "Sympathique",
-        "it": "Simpatico / Simpatica"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df93",
-      "es": "Antipático / Antipática",
-      "translations": {
-        "en": "Unfriendly",
-        "pt": "Antipático / Antipática",
-        "fr": "Antipathique",
-        "it": "Antipatico / Antipatica"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df94",
-      "es": "Amable",
-      "translations": {
-        "en": "Kind",
-        "pt": "Gentil",
-        "fr": "Gentil / Gentille",
-        "it": "Gentile"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df95",
-      "es": "Educado / Educada",
-      "translations": {
-        "en": "Polite",
-        "pt": "Educado / Educada",
-        "fr": "Poli / Polie",
-        "it": "Educato / Educata"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df96",
-      "es": "Grosero / Grosera",
-      "translations": {
-        "en": "Rude",
-        "pt": "Grosseiro / Grosseira",
-        "fr": "Grossier / Grossière",
-        "it": "Maleducato / Maleducata"
+        "en": "Bald",
+        "pt": "Careca",
+        "fr": "Chauve",
+        "it": "Calvo / Calva",
+        "de": "Kahlköpfig"
       },
       "image_url": "",
-      "notes": {
-        "es": "modales"
+      "examples": {
+        "en": {
+          "text": "My grandfather is bald and always wears a hat.",
+          "es": "Mi abuelo es calvo y siempre usa sombrero."
+        },
+        "fr": {
+          "text": "Mon grand-père est chauve et porte toujours un chapeau.",
+          "es": "Mi abuelo es calvo y siempre usa sombrero."
+        },
+        "it": {
+          "text": "Mio nonno è calvo e porta sempre un cappello.",
+          "es": "Mi abuelo es calvo y siempre usa sombrero."
+        },
+        "pt": {
+          "text": "Meu avô é careca e sempre usa chapéu.",
+          "es": "Mi abuelo es calvo y siempre usa sombrero."
+        },
+        "de": {
+          "text": "Mein Großvater ist kahlköpfig und trägt immer einen Hut.",
+          "es": "Mi abuelo es calvo y siempre usa sombrero."
+        }
       }
     },
     {
-      "id": "df97",
-      "es": "Culto / Culta",
+      "id": "df45",
+      "es": "Con entradas",
       "translations": {
-        "en": "Well-educated",
-        "pt": "Culto / Culta",
-        "fr": "Cultivé / Cultivée",
-        "it": "Colto / Colta"
+        "en": "With a receding hairline",
+        "pt": "Com entradas no cabelo",
+        "fr": "Avec les tempes dégarnies",
+        "it": "Stempiato / Stempiata",
+        "de": "Mit Geheimratsecken"
       },
       "image_url": "",
       "notes": {
-        "es": "formación o conocimientos"
+        "es": "(Retroceso de la línea del cabello en las sienes)",
+        "de": "Singular: Die Geheimratsecke"
+      },
+      "examples": {
+        "en": {
+          "text": "My dad already had a receding hairline at thirty.",
+          "es": "Mi papá ya tenía entradas a los treinta."
+        },
+        "fr": {
+          "text": "À trente ans, mon père avait déjà les tempes dégarnies.",
+          "es": "Mi papá ya tenía entradas a los treinta."
+        },
+        "it": {
+          "text": "A trent'anni mio padre era già stempiato.",
+          "es": "Mi papá ya tenía entradas a los treinta."
+        },
+        "pt": {
+          "text": "Meu pai já tinha entradas no cabelo aos trinta anos.",
+          "es": "Mi papá ya tenía entradas a los treinta."
+        },
+        "de": {
+          "text": "Mit dreißig hatte mein Vater schon Geheimratsecken.",
+          "es": "Mi papá ya tenía entradas a los treinta."
+        }
       }
     },
     {
-      "id": "df98",
-      "es": "Tímido / Tímida",
+      "id": "df46",
+      "es": "Lacio / Lacia",
       "translations": {
-        "en": "Shy",
-        "pt": "Tímido / Tímida",
-        "fr": "Timide",
-        "it": "Timido / Timida"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df99",
-      "es": "Extrovertido / Extrovertida",
-      "translations": {
-        "en": "Outgoing / Extroverted",
-        "pt": "Extrovertido / Extrovertida",
-        "fr": "Extraverti / Extravertie",
-        "it": "Estroverso / Estroversa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df100",
-      "es": "Introvertido / Introvertida",
-      "translations": {
-        "en": "Introverted",
-        "pt": "Introvertido / Introvertida",
-        "fr": "Introverti / Introvertie",
-        "it": "Introverso / Introversa"
+        "en": "Straight",
+        "pt": "Liso / Lisa",
+        "fr": "Raide",
+        "it": "Liscio / Liscia",
+        "de": "Glatt"
       },
       "image_url": "",
       "notes": {
-        "es": "Ser introvertido no implica necesariamente ser tímido."
+        "es": "(Cabello)",
+        "de": "El adjetivo cambia de terminación delante del sustantivo."
+      },
+      "examples": {
+        "en": {
+          "text": "My sister has straight hair.",
+          "es": "Mi hermana tiene el cabello lacio."
+        },
+        "fr": {
+          "text": "Ma sœur a les cheveux raides.",
+          "es": "Mi hermana tiene el cabello lacio."
+        },
+        "it": {
+          "text": "Mia sorella ha i capelli lisci.",
+          "es": "Mi hermana tiene el cabello lacio."
+        },
+        "pt": {
+          "text": "Minha irmã tem cabelo liso.",
+          "es": "Mi hermana tiene el cabello lacio."
+        },
+        "de": {
+          "text": "Meine Schwester hat glattes Haar.",
+          "es": "Mi hermana tiene el cabello lacio."
+        }
       }
     },
     {
-      "id": "df101",
-      "es": "Reservado / Reservada",
+      "id": "df47",
+      "es": "Rizado / Rizada",
       "translations": {
-        "en": "Reserved",
-        "pt": "Reservado / Reservada",
-        "fr": "Réservé / Réservée",
-        "it": "Riservato / Riservata"
+        "en": "Curly",
+        "pt": "Cacheado / Cacheada",
+        "fr": "Bouclé / Bouclée",
+        "it": "Riccio / Riccia",
+        "de": "Lockig"
       },
       "image_url": "",
       "notes": {
-        "es": "habla poco de sí mismo/a"
+        "es": "En México también se dice «cabello chino».",
+        "de": "«Lockig» es la forma base; delante del sustantivo se flexiona, como en «lockiges Haar»."
+      },
+      "examples": {
+        "en": {
+          "text": "My cousin has curly hair.",
+          "es": "Mi prima tiene el cabello rizado."
+        },
+        "fr": {
+          "text": "Ma cousine a les cheveux bouclés.",
+          "es": "Mi prima tiene el cabello rizado."
+        },
+        "it": {
+          "text": "Mia cugina ha i capelli ricci.",
+          "es": "Mi prima tiene el cabello rizado."
+        },
+        "pt": {
+          "text": "Minha prima tem cabelo cacheado.",
+          "es": "Mi prima tiene el cabello rizado."
+        },
+        "de": {
+          "text": "Meine Cousine hat lockiges Haar.",
+          "es": "Mi prima tiene el cabello rizado."
+        }
       }
     },
     {
-      "id": "df102",
-      "es": "Hablador / Habladora",
+      "id": "df48",
+      "es": "Ondulado / Ondulada",
       "translations": {
-        "en": "Talkative / Chatty",
-        "pt": "Falador / Faladora",
-        "fr": "Bavard / Bavarde",
-        "it": "Chiacchierone / Chiacchierona"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df103",
-      "es": "Callado / Callada",
-      "translations": {
-        "en": "Quiet",
-        "pt": "Calado / Calada",
-        "fr": "Peu bavard / Peu bavarde",
-        "it": "Di poche parole"
+        "en": "Wavy",
+        "pt": "Ondulado / Ondulada",
+        "fr": "Ondulé / Ondulée",
+        "it": "Mosso / Mossa",
+        "de": "Wellig"
       },
       "image_url": "",
       "notes": {
-        "es": "habla poco"
+        "es": "(Cabello)",
+        "de": "El adjetivo cambia de terminación delante del sustantivo."
+      },
+      "examples": {
+        "en": {
+          "text": "My hair looks wavy when it's wet.",
+          "es": "Mi cabello se ve ondulado cuando está mojado."
+        },
+        "fr": {
+          "text": "Mes cheveux sont ondulés quand ils sont mouillés.",
+          "es": "Mi cabello se ve ondulado cuando está mojado."
+        },
+        "it": {
+          "text": "I miei capelli sono mossi quando sono bagnati.",
+          "es": "Mi cabello se ve ondulado cuando está mojado."
+        },
+        "pt": {
+          "text": "Meu cabelo fica ondulado quando está molhado.",
+          "es": "Mi cabello se ve ondulado cuando está mojado."
+        },
+        "de": {
+          "text": "Mein Haar ist wellig, wenn es nass ist.",
+          "es": "Mi cabello se ve ondulado cuando está mojado."
+        }
       }
     },
     {
-      "id": "df104",
-      "es": "Gracioso / Graciosa",
+      "id": "df49",
+      "es": "Crespo / Crespa",
       "translations": {
-        "en": "Funny",
-        "pt": "Engraçado / Engraçada",
-        "fr": "Drôle",
-        "it": "Spiritoso / Spiritosa"
+        "en": "Coily / Tightly curled",
+        "pt": "Crespo / Crespa",
+        "fr": "Crépu / Crépue",
+        "it": "Crespo / Crespa",
+        "de": "Kraus"
       },
       "image_url": "",
       "notes": {
-        "es": "hace reír"
+        "es": "(Cabello con rizos muy cerrados)",
+        "de": "El adjetivo cambia de terminación delante del sustantivo."
+      },
+      "examples": {
+        "en": {
+          "text": "My sister has short, tightly curled hair.",
+          "es": "Mi hermana tiene el cabello crespo y corto."
+        },
+        "fr": {
+          "text": "Ma sœur a les cheveux crépus et courts.",
+          "es": "Mi hermana tiene el cabello crespo y corto."
+        },
+        "it": {
+          "text": "Mia sorella ha i capelli crespi e corti.",
+          "es": "Mi hermana tiene el cabello crespo y corto."
+        },
+        "pt": {
+          "text": "Minha irmã tem cabelo crespo e curto.",
+          "es": "Mi hermana tiene el cabello crespo y corto."
+        },
+        "de": {
+          "text": "Meine Schwester hat kurzes, krauses Haar.",
+          "es": "Mi hermana tiene el cabello crespo y corto."
+        }
       }
     },
     {
-      "id": "df105",
-      "es": "Divertido / Divertida",
+      "id": "df50",
+      "es": "El cabello teñido",
       "translations": {
-        "en": "Fun",
-        "pt": "Divertido / Divertida",
-        "fr": "Amusant / Amusante",
-        "it": "Divertente"
+        "en": "The dyed hair",
+        "pt": "O cabelo tingido",
+        "fr": "Les cheveux teints",
+        "it": "I capelli tinti",
+        "de": "Die gefärbten Haare"
       },
       "image_url": "",
       "notes": {
-        "es": "entretenido/a"
+        "pt": "(Plural: Os cabelos tingidos)",
+        "fr": "Singular: Le cheveu teint (un cabello individual)",
+        "it": "Singular: Il capello tinto (un cabello individual)",
+        "de": "Para hablar del cabello en conjunto es habitual usar el plural «Haare»."
+      },
+      "examples": {
+        "en": {
+          "text": "Her hair is dyed red.",
+          "es": "Su cabello está teñido de rojo."
+        },
+        "fr": {
+          "text": "Ses cheveux sont teints en rouge.",
+          "es": "Su cabello está teñido de rojo."
+        },
+        "it": {
+          "text": "Ha i capelli tinti di rosso.",
+          "es": "Su cabello está teñido de rojo."
+        },
+        "pt": {
+          "text": "O cabelo dela está tingido de vermelho.",
+          "es": "Su cabello está teñido de rojo."
+        },
+        "de": {
+          "text": "Ihr Haar ist rot gefärbt.",
+          "es": "Su cabello está teñido de rojo."
+        }
       }
     },
     {
-      "id": "df106",
-      "es": "Aburrido / Aburrida",
+      "id": "df51",
+      "es": "Largo / Larga",
       "translations": {
-        "en": "Boring",
-        "pt": "Chato / Chata",
-        "fr": "Ennuyeux / Ennuyeuse",
-        "it": "Noioso / Noiosa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df107",
-      "es": "Interesante",
-      "translations": {
-        "en": "Interesting",
-        "pt": "Interessante",
-        "fr": "Intéressant / Intéressante",
-        "it": "Interessante"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df108",
-      "es": "Fastidioso / Fastidiosa",
-      "translations": {
-        "en": "Annoying",
-        "pt": "Irritante",
-        "fr": "Agaçant / Agaçante",
-        "it": "Fastidioso / Fastidiosa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df109",
-      "es": "Inteligente",
-      "translations": {
-        "en": "Intelligent",
-        "pt": "Inteligente",
-        "fr": "Intelligent / Intelligente",
-        "it": "Intelligente"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df110",
-      "es": "Tonto / Tonta",
-      "translations": {
-        "en": "Foolish",
-        "pt": "Bobo / Boba",
-        "fr": "Bête",
-        "it": "Sciocco / Sciocca"
+        "en": "Long",
+        "pt": "Comprido / Comprida",
+        "fr": "Long / Longue",
+        "it": "Lungo / Lunga",
+        "de": "Lang"
       },
       "image_url": "",
       "notes": {
-        "es": "falta de buen juicio; puede ser despectivo"
+        "es": "(Largo del cabello)",
+        "de": "El adjetivo cambia de terminación delante del sustantivo."
+      },
+      "examples": {
+        "en": {
+          "text": "My cousin has long hair down to the middle of her back.",
+          "es": "Mi prima tiene el cabello largo hasta media espalda."
+        },
+        "fr": {
+          "text": "Ma cousine a les cheveux longs jusqu'au milieu du dos.",
+          "es": "Mi prima tiene el cabello largo hasta media espalda."
+        },
+        "it": {
+          "text": "Mia cugina ha i capelli lunghi fino a metà schiena.",
+          "es": "Mi prima tiene el cabello largo hasta media espalda."
+        },
+        "pt": {
+          "text": "Minha prima tem cabelo comprido até o meio das costas.",
+          "es": "Mi prima tiene el cabello largo hasta media espalda."
+        },
+        "de": {
+          "text": "Meine Cousine hat langes Haar bis zur Mitte des Rückens.",
+          "es": "Mi prima tiene el cabello largo hasta media espalda."
+        }
       }
     },
     {
-      "id": "df111",
-      "es": "Sensible",
+      "id": "df177",
+      "es": "Corto / Corta",
       "translations": {
-        "en": "Sensitive",
-        "pt": "Sensível",
-        "fr": "Sensible",
-        "it": "Sensibile"
+        "en": "Short",
+        "pt": "Curto / Curta",
+        "fr": "Court / Courte",
+        "it": "Corto / Corta",
+        "de": "Kurz"
       },
       "image_url": "",
       "notes": {
-        "es": "emocionalmente",
-        "en": "Sensitive significa sensible en lo emocional; sensible significa sensato."
-      }
-    },
-    {
-      "id": "df112",
-      "es": "Sensato / Sensata",
-      "translations": {
-        "en": "Sensible",
-        "pt": "Sensato / Sensata",
-        "fr": "Raisonnable",
-        "it": "Sensato / Sensata"
+        "es": "(Largo del cabello)",
+        "de": "El adjetivo cambia de terminación delante del sustantivo."
       },
-      "image_url": "",
-      "notes": {
-        "en": "Sensible significa sensato, no sensible emocionalmente."
-      }
-    },
-    {
-      "id": "df113",
-      "es": "Paciente",
-      "translations": {
-        "en": "Patient",
-        "pt": "Paciente",
-        "fr": "Patient / Patiente",
-        "it": "Paziente"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df114",
-      "es": "Impaciente",
-      "translations": {
-        "en": "Impatient",
-        "pt": "Impaciente",
-        "fr": "Impatient / Impatiente",
-        "it": "Impaziente"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df115",
-      "es": "Trabajador / Trabajadora",
-      "translations": {
-        "en": "Hardworking",
-        "pt": "Trabalhador / Trabalhadora",
-        "fr": "Travailleur / Travailleuse",
-        "it": "Laborioso / Laboriosa"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "se esfuerza en su trabajo"
-      }
-    },
-    {
-      "id": "df116",
-      "es": "Flojo / Floja",
-      "translations": {
-        "en": "Lazy",
-        "pt": "Preguiçoso / Preguiçosa",
-        "fr": "Paresseux / Paresseuse",
-        "it": "Pigro / Pigra"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "poco dispuesto/a a trabajar"
-      }
-    },
-    {
-      "id": "df117",
-      "es": "Responsable",
-      "translations": {
-        "en": "Responsible",
-        "pt": "Responsável",
-        "fr": "Responsable",
-        "it": "Responsabile"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df118",
-      "es": "Irresponsable",
-      "translations": {
-        "en": "Irresponsible",
-        "pt": "Irresponsável",
-        "fr": "Irresponsable",
-        "it": "Irresponsabile"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df119",
-      "es": "Generoso / Generosa",
-      "translations": {
-        "en": "Generous",
-        "pt": "Generoso / Generosa",
-        "fr": "Généreux / Généreuse",
-        "it": "Generoso / Generosa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df120",
-      "es": "Egoísta",
-      "translations": {
-        "en": "Selfish",
-        "pt": "Egoísta",
-        "fr": "Égoïste",
-        "it": "Egoista"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df121",
-      "es": "Honesto / Honesta",
-      "translations": {
-        "en": "Honest",
-        "pt": "Honesto / Honesta",
-        "fr": "Honnête",
-        "it": "Onesto / Onesta"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "integridad"
-      }
-    },
-    {
-      "id": "df122",
-      "es": "Deshonesto / Deshonesta",
-      "translations": {
-        "en": "Dishonest",
-        "pt": "Desonesto / Desonesta",
-        "fr": "Malhonnête",
-        "it": "Disonesto / Disonesta"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df123",
-      "es": "Sincero / Sincera",
-      "translations": {
-        "en": "Sincere",
-        "pt": "Sincero / Sincera",
-        "fr": "Sincère",
-        "it": "Sincero / Sincera"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "expresa lo que realmente siente o piensa"
-      }
-    },
-    {
-      "id": "df124",
-      "es": "Organizado / Organizada",
-      "translations": {
-        "en": "Organized",
-        "pt": "Organizado / Organizada",
-        "fr": "Organisé / Organisée",
-        "it": "Organizzato / Organizzata"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df125",
-      "es": "Desordenado / Desordenada",
-      "translations": {
-        "en": "Disorganized",
-        "pt": "Desorganizado / Desorganizada",
-        "fr": "Désordonné / Désordonnée",
-        "it": "Disordinato / Disordinata"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df126",
-      "es": "Optimista",
-      "translations": {
-        "en": "Optimistic",
-        "pt": "Otimista",
-        "fr": "Optimiste",
-        "it": "Ottimista"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df127",
-      "es": "Pesimista",
-      "translations": {
-        "en": "Pessimistic",
-        "pt": "Pessimista",
-        "fr": "Pessimiste",
-        "it": "Pessimista"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df128",
-      "es": "Valiente",
-      "translations": {
-        "en": "Brave",
-        "pt": "Corajoso / Corajosa",
-        "fr": "Courageux / Courageuse",
-        "it": "Coraggioso / Coraggiosa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df129",
-      "es": "Miedoso / Miedosa",
-      "translations": {
-        "en": "Fearful",
-        "pt": "Medroso / Medrosa",
-        "fr": "Peureux / Peureuse",
-        "it": "Pauroso / Paurosa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df130",
-      "es": "Seguro de sí mismo / Segura de sí misma",
-      "translations": {
-        "en": "Self-confident",
-        "pt": "Seguro de si / Segura de si",
-        "fr": "Sûr de soi / Sûre de soi",
-        "it": "Sicuro di sé / Sicura di sé"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df131",
-      "es": "Inseguro de sí mismo / Insegura de sí misma",
-      "translations": {
-        "en": "Insecure",
-        "pt": "Inseguro de si / Insegura de si",
-        "fr": "Peu sûr de soi / Peu sûre de soi",
-        "it": "Insicuro di sé / Insicura di sé"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df132",
-      "es": "Confiable",
-      "translations": {
-        "en": "Trustworthy",
-        "pt": "Confiável",
-        "fr": "Digne de confiance",
-        "it": "Affidabile"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df133",
-      "es": "Desconfiado / Desconfiada",
-      "translations": {
-        "en": "Distrustful",
-        "pt": "Desconfiado / Desconfiada",
-        "fr": "Méfiant / Méfiante",
-        "it": "Diffidente"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "le cuesta confiar"
-      }
-    },
-    {
-      "id": "df134",
-      "es": "Comprensivo / Comprensiva",
-      "translations": {
-        "en": "Understanding",
-        "pt": "Compreensivo / Compreensiva",
-        "fr": "Compréhensif / Compréhensive",
-        "it": "Comprensivo / Comprensiva"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df135",
-      "es": "Terco / Terca",
-      "translations": {
-        "en": "Stubborn",
-        "pt": "Teimoso / Teimosa",
-        "fr": "Têtu / Têtue",
-        "it": "Testardo / Testarda"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df136",
-      "es": "Curioso / Curiosa",
-      "translations": {
-        "en": "Curious",
-        "pt": "Curioso / Curiosa",
-        "fr": "Curieux / Curieuse",
-        "it": "Curioso / Curiosa"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "quiere aprender o saber"
-      }
-    },
-    {
-      "id": "df137",
-      "es": "Creativo / Creativa",
-      "translations": {
-        "en": "Creative",
-        "pt": "Criativo / Criativa",
-        "fr": "Créatif / Créative",
-        "it": "Creativo / Creativa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df138",
-      "es": "Cariñoso / Cariñosa",
-      "translations": {
-        "en": "Affectionate",
-        "pt": "Carinhoso / Carinhosa",
-        "fr": "Affectueux / Affectueuse",
-        "it": "Affettuoso / Affettuosa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df139",
-      "es": "Celoso / Celosa",
-      "translations": {
-        "en": "Jealous",
-        "pt": "Ciumento / Ciumenta",
-        "fr": "Jaloux / Jalouse",
-        "it": "Geloso / Gelosa"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df140",
-      "es": "Serio / Seria",
-      "translations": {
-        "en": "Serious",
-        "pt": "Sério / Séria",
-        "fr": "Sérieux / Sérieuse",
-        "it": "Serio / Seria"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df141",
-      "es": "Arrogante",
-      "translations": {
-        "en": "Arrogant",
-        "pt": "Arrogante",
-        "fr": "Arrogant / Arrogante",
-        "it": "Arrogante"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "actitud de superioridad"
-      }
-    },
-    {
-      "id": "df142",
-      "es": "Humilde",
-      "translations": {
-        "en": "Humble",
-        "pt": "Humilde",
-        "fr": "Humble",
-        "it": "Umile"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df143",
-      "es": "Puntual",
-      "translations": {
-        "en": "Punctual",
-        "pt": "Pontual",
-        "fr": "Ponctuel / Ponctuelle",
-        "it": "Puntuale"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df144",
-      "es": "Impuntual",
-      "translations": {
-        "en": "Often late",
-        "pt": "Impontual",
-        "fr": "Souvent en retard",
-        "it": "Poco puntuale"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "llega tarde con frecuencia"
+      "examples": {
+        "en": {
+          "text": "My mom has short hair.",
+          "es": "Mi mamá tiene el cabello corto."
+        },
+        "fr": {
+          "text": "Ma mère a les cheveux courts.",
+          "es": "Mi mamá tiene el cabello corto."
+        },
+        "it": {
+          "text": "Mia madre ha i capelli corti.",
+          "es": "Mi mamá tiene el cabello corto."
+        },
+        "pt": {
+          "text": "Minha mãe tem cabelo curto.",
+          "es": "Mi mamá tiene el cabello corto."
+        },
+        "de": {
+          "text": "Meine Mutter hat kurze Haare.",
+          "es": "Mi mamá tiene el cabello corto."
+        }
       }
     },
     {
@@ -1818,18 +2418,8 @@
         "en": "What does he look like? / What does she look like?",
         "pt": "Como ele é fisicamente? / Como ela é fisicamente?",
         "fr": "Comment est-il physiquement ? / Comment est-elle physiquement ?",
-        "it": "Com'è fisicamente?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df146",
-      "es": "¿Cómo es su personalidad?",
-      "translations": {
-        "en": "What's he like? / What's she like?",
-        "pt": "Como é a personalidade dele? / Como é a personalidade dela?",
-        "fr": "Quel est son caractère ?",
-        "it": "Com'è di carattere?"
+        "it": "Com'è fisicamente?",
+        "de": "Wie sieht er aus? / Wie sieht sie aus?"
       },
       "image_url": ""
     },
@@ -1840,7 +2430,8 @@
         "en": "How do you describe yourself?",
         "pt": "Como você se descreve?",
         "fr": "Comment te décris-tu ? / Comment vous décrivez-vous ?",
-        "it": "Come ti descrivi? / Come si descrive?"
+        "it": "Come ti descrivi? / Come si descrive?",
+        "de": "Wie beschreibst du dich? / Wie beschreiben Sie sich?"
       },
       "image_url": ""
     },
@@ -1851,7 +2442,8 @@
         "en": "How tall are you?",
         "pt": "Qual é a sua altura?",
         "fr": "Combien mesures-tu ? / Combien mesurez-vous ?",
-        "it": "Quanto sei alto? / Quanto sei alta? / Quanto è alto? / Quanto è alta?"
+        "it": "Quanto sei alto? / Quanto sei alta? / Quanto è alto? / Quanto è alta?",
+        "de": "Wie groß bist du? / Wie groß sind Sie?"
       },
       "image_url": ""
     },
@@ -1862,12 +2454,13 @@
         "en": "I'm five feet nine inches tall.",
         "pt": "Tenho um metro e setenta e cinco de altura.",
         "fr": "Je mesure un mètre soixante-quinze.",
-        "it": "Sono alto un metro e settantacinque. / Sono alta un metro e settantacinque."
+        "it": "Sono alto un metro e settantacinque. / Sono alta un metro e settantacinque.",
+        "de": "Ich bin einen Meter fünfundsiebzig groß."
       },
       "image_url": "",
       "notes": {
-        "es": "aprox. cinco pies y nueve pulgadas",
-        "en": "Aproximadamente 1.75 m; se usa el sistema imperial en EE. UU."
+        "es": "(Aproximadamente cinco pies y nueve pulgadas)",
+        "en": "Equivale aproximadamente a 1.75 m; en EE. UU. es habitual expresar estaturas en pies y pulgadas."
       }
     },
     {
@@ -1877,7 +2470,8 @@
         "en": "What color is your hair?",
         "pt": "Qual é a cor do seu cabelo?",
         "fr": "Tes cheveux sont de quelle couleur ? / De quelle couleur sont vos cheveux ?",
-        "it": "Di che colore sono i tuoi capelli? / Di che colore sono i suoi capelli?"
+        "it": "Di che colore sono i tuoi capelli? / Di che colore sono i suoi capelli?",
+        "de": "Welche Haarfarbe hast du? / Welche Haarfarbe haben Sie?"
       },
       "image_url": ""
     },
@@ -1888,7 +2482,8 @@
         "en": "I have long, curly hair.",
         "pt": "Tenho cabelo comprido e cacheado.",
         "fr": "J'ai les cheveux longs et bouclés.",
-        "it": "Ho i capelli lunghi e ricci."
+        "it": "Ho i capelli lunghi e ricci.",
+        "de": "Ich habe langes, lockiges Haar."
       },
       "image_url": ""
     },
@@ -1899,18 +2494,20 @@
         "en": "Does he have a beard?",
         "pt": "Ele tem barba?",
         "fr": "Est-ce qu'il a une barbe ?",
-        "it": "Ha la barba?"
+        "it": "Ha la barba?",
+        "de": "Hat er einen Bart?"
       },
       "image_url": ""
     },
     {
       "id": "df153",
-      "es": "Es la persona que lleva gafas.",
+      "es": "Es la persona que usa lentes.",
       "translations": {
         "en": "It's the person wearing glasses.",
         "pt": "É a pessoa que usa óculos.",
         "fr": "C'est la personne qui porte des lunettes.",
-        "it": "È la persona che porta gli occhiali."
+        "it": "È la persona che porta gli occhiali.",
+        "de": "Das ist die Person mit der Brille."
       },
       "image_url": ""
     },
@@ -1921,7 +2518,8 @@
         "en": "Which one is he? / Which one is she?",
         "pt": "Qual deles é? / Qual delas é?",
         "fr": "Lequel est-ce ? / Laquelle est-ce ?",
-        "it": "Quale di loro è lui? / Quale di loro è lei?"
+        "it": "Quale di loro è lui? / Quale di loro è lei?",
+        "de": "Welcher von ihnen ist er? / Welche von ihnen ist sie?"
       },
       "image_url": ""
     },
@@ -1932,18 +2530,20 @@
         "en": "Who do you look like?",
         "pt": "Com quem você se parece?",
         "fr": "À qui ressembles-tu ? / À qui ressemblez-vous ?",
-        "it": "A chi assomigli? / A chi assomiglia?"
+        "it": "A chi assomigli? / A chi assomiglia?",
+        "de": "Wem siehst du ähnlich? / Wem sehen Sie ähnlich?"
       },
       "image_url": ""
     },
     {
       "id": "df156",
-      "es": "Me parezco a mi madre.",
+      "es": "Me parezco a mi mamá.",
       "translations": {
         "en": "I look like my mother.",
         "pt": "Eu me pareço com minha mãe.",
         "fr": "Je ressemble à ma mère.",
-        "it": "Assomiglio a mia madre."
+        "it": "Assomiglio a mia madre.",
+        "de": "Ich sehe meiner Mutter ähnlich."
       },
       "image_url": ""
     },
@@ -1954,7 +2554,8 @@
         "en": "He's taller than me. / She's taller than me.",
         "pt": "Ele é mais alto do que eu. / Ela é mais alta do que eu.",
         "fr": "Il est plus grand que moi. / Elle est plus grande que moi.",
-        "it": "È più alto di me. / È più alta di me."
+        "it": "È più alto di me. / È più alta di me.",
+        "de": "Er ist größer als ich. / Sie ist größer als ich."
       },
       "image_url": ""
     },
@@ -1965,7 +2566,8 @@
         "en": "We're the same height.",
         "pt": "Temos a mesma altura.",
         "fr": "Nous avons la même taille.",
-        "it": "Abbiamo la stessa altezza."
+        "it": "Abbiamo la stessa altezza.",
+        "de": "Wir sind gleich groß."
       },
       "image_url": ""
     },
@@ -1976,7 +2578,8 @@
         "en": "He looks younger than he is. / She looks younger than she is.",
         "pt": "Ele parece mais jovem do que é. / Ela parece mais jovem do que é.",
         "fr": "Il paraît plus jeune qu'il ne l'est. / Elle paraît plus jeune qu'elle ne l'est.",
-        "it": "Sembra più giovane di quanto sia."
+        "it": "Sembra più giovane di quanto sia.",
+        "de": "Er sieht jünger aus, als er ist. / Sie sieht jünger aus, als sie ist."
       },
       "image_url": ""
     },
@@ -1987,7 +2590,8 @@
         "en": "I don't know how to describe him. / I don't know how to describe her.",
         "pt": "Não sei como descrevê-lo. / Não sei como descrevê-la.",
         "fr": "Je ne sais pas comment le décrire. / Je ne sais pas comment la décrire.",
-        "it": "Non so come descriverlo. / Non so come descriverla."
+        "it": "Non so come descriverlo. / Non so come descriverla.",
+        "de": "Ich weiß nicht, wie ich ihn beschreiben soll. / Ich weiß nicht, wie ich sie beschreiben soll."
       },
       "image_url": ""
     },
@@ -1998,263 +2602,10 @@
         "en": "He has a lovely smile. / She has a lovely smile.",
         "pt": "Ele tem um sorriso muito bonito. / Ela tem um sorriso muito bonito.",
         "fr": "Il a un très beau sourire. / Elle a un très beau sourire.",
-        "it": "Ha un sorriso molto bello."
+        "it": "Ha un sorriso molto bello.",
+        "de": "Er hat ein sehr schönes Lächeln. / Sie hat ein sehr schönes Lächeln."
       },
       "image_url": ""
-    },
-    {
-      "id": "df162",
-      "es": "¿Cómo te sientes? / ¿Cómo se siente usted?",
-      "translations": {
-        "en": "How are you feeling?",
-        "pt": "Como você está se sentindo?",
-        "fr": "Comment te sens-tu ? / Comment vous sentez-vous ?",
-        "it": "Come ti senti? / Come si sente?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df163",
-      "es": "Hoy me siento mejor. / Hoy me siento peor.",
-      "translations": {
-        "en": "I feel better today. / I feel worse today.",
-        "pt": "Hoje me sinto melhor. / Hoje me sinto pior.",
-        "fr": "Aujourd'hui, je me sens mieux. / Aujourd'hui, je me sens moins bien.",
-        "it": "Oggi mi sento meglio. / Oggi mi sento peggio."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df164",
-      "es": "No soy aburrido; estoy aburrido. / No soy aburrida; estoy aburrida.",
-      "translations": {
-        "en": "I'm not boring; I'm bored.",
-        "pt": "Não sou chato; estou entediado. / Não sou chata; estou entediada.",
-        "fr": "Je ne suis pas ennuyeux ; je m'ennuie. / Je ne suis pas ennuyeuse ; je m'ennuie.",
-        "it": "Non sono noioso; sono annoiato. / Non sono noiosa; sono annoiata."
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Boring causa aburrimiento; bored lo siente."
-      }
-    },
-    {
-      "id": "df165",
-      "es": "Me interesa el tema; es interesante.",
-      "translations": {
-        "en": "I'm interested in the topic; it's interesting.",
-        "pt": "Tenho interesse no assunto; ele é interessante.",
-        "fr": "Le sujet m'intéresse ; il est intéressant.",
-        "it": "L'argomento mi interessa; è interessante."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df166",
-      "es": "Soy tranquilo, pero hoy estoy nervioso. / Soy tranquila, pero hoy estoy nerviosa.",
-      "translations": {
-        "en": "I'm a calm person, but I'm nervous today.",
-        "pt": "Sou uma pessoa tranquila, mas hoje estou nervoso. / Sou uma pessoa tranquila, mas hoje estou nervosa.",
-        "fr": "Je suis quelqu'un de calme, mais aujourd'hui, je suis nerveux. / Je suis quelqu'un de calme, mais aujourd'hui, je suis nerveuse.",
-        "it": "Sono una persona tranquilla, ma oggi sono nervoso. / Sono una persona tranquilla, ma oggi sono nervosa."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df167",
-      "es": "Soy tímido al principio. / Soy tímida al principio.",
-      "translations": {
-        "en": "I'm shy at first.",
-        "pt": "Sou tímido no começo. / Sou tímida no começo.",
-        "fr": "Je suis timide au début.",
-        "it": "Sono timido all'inizio. / Sono timida all'inizio."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df168",
-      "es": "Me pongo nervioso cuando hablo con desconocidos. / Me pongo nerviosa cuando hablo con desconocidos.",
-      "translations": {
-        "en": "I get nervous when I talk to strangers.",
-        "pt": "Fico nervoso quando falo com desconhecidos. / Fico nervosa quando falo com desconhecidos.",
-        "fr": "Je deviens nerveux quand je parle à des inconnus. / Je deviens nerveuse quand je parle à des inconnus.",
-        "it": "Divento nervoso quando parlo con persone che non conosco. / Divento nervosa quando parlo con persone che non conosco."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df169",
-      "es": "No es antipático; solo es reservado. / No es antipática; solo es reservada.",
-      "translations": {
-        "en": "He's not unfriendly; he's just reserved. / She's not unfriendly; she's just reserved.",
-        "pt": "Ele não é antipático; só é reservado. / Ela não é antipática; só é reservada.",
-        "fr": "Il n'est pas antipathique ; il est juste réservé. / Elle n'est pas antipathique ; elle est juste réservée.",
-        "it": "Non è antipatico; è solo riservato. / Non è antipatica; è solo riservata."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df170",
-      "es": "Tiene buen sentido del humor.",
-      "translations": {
-        "en": "He has a good sense of humor. / She has a good sense of humor.",
-        "pt": "Ele tem bom senso de humor. / Ela tem bom senso de humor.",
-        "fr": "Il a le sens de l'humour. / Elle a le sens de l'humour.",
-        "it": "Ha un buon senso dell'umorismo."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df171",
-      "es": "Me hace reír.",
-      "translations": {
-        "en": "He makes me laugh. / She makes me laugh.",
-        "pt": "Ele me faz rir. / Ela me faz rir.",
-        "fr": "Il me fait rire. / Elle me fait rire.",
-        "it": "Mi fa ridere."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df172",
-      "es": "Su personalidad es muy diferente de la mía.",
-      "translations": {
-        "en": "His personality is very different from mine. / Her personality is very different from mine.",
-        "pt": "A personalidade dele é muito diferente da minha. / A personalidade dela é muito diferente da minha.",
-        "fr": "Sa personnalité est très différente de la mienne.",
-        "it": "La sua personalità è molto diversa dalla mia."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df173",
-      "es": "La sonrisa",
-      "translations": {
-        "en": "The smile",
-        "pt": "O sorriso",
-        "fr": "Le sourire",
-        "it": "Il sorriso"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the smiles",
-        "fr": "Plural: les sourires",
-        "it": "Plural: i sorrisi",
-        "pt": "Plural: os sorrisos"
-      }
-    },
-    {
-      "id": "df174",
-      "es": "La nariz",
-      "translations": {
-        "en": "The nose",
-        "pt": "O nariz",
-        "fr": "Le nez",
-        "it": "Il naso"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the noses",
-        "fr": "Plural: les nez",
-        "it": "Plural: i nasi",
-        "pt": "Plural: os narizes"
-      }
-    },
-    {
-      "id": "df175",
-      "es": "Los labios",
-      "translations": {
-        "en": "The lips",
-        "pt": "Os lábios",
-        "fr": "Les lèvres",
-        "it": "Le labbra"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Singular: the lip",
-        "fr": "Singular: la lèvre",
-        "it": "Singular: il labbro",
-        "pt": "Singular: o lábio"
-      }
-    },
-    {
-      "id": "df176",
-      "es": "La cara",
-      "translations": {
-        "en": "The face",
-        "pt": "O rosto",
-        "fr": "Le visage",
-        "it": "Il viso"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the faces",
-        "fr": "Plural: les visages",
-        "it": "Plural: i visi",
-        "pt": "Plural: os rostos"
-      }
-    },
-    {
-      "id": "df177",
-      "es": "Corto / Corta",
-      "translations": {
-        "en": "Short",
-        "pt": "Curto / Curta",
-        "fr": "Court / Courte",
-        "it": "Corto / Corta"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "df178",
-      "es": "Los ojos azules",
-      "translations": {
-        "en": "The blue eyes",
-        "pt": "Os olhos azuis",
-        "fr": "Les yeux bleus",
-        "it": "Gli occhi azzurri"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Singular: the blue eye",
-        "fr": "Singular: l’œil bleu",
-        "it": "Singular: l’occhio azzurro",
-        "pt": "Singular: o olho azul"
-      }
-    },
-    {
-      "id": "df179",
-      "es": "Los ojos verdes",
-      "translations": {
-        "en": "The green eyes",
-        "pt": "Os olhos verdes",
-        "fr": "Les yeux verts",
-        "it": "Gli occhi verdi"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Singular: the green eye",
-        "fr": "Singular: l’œil vert",
-        "it": "Singular: l’occhio verde",
-        "pt": "Singular: o olho verde"
-      }
-    },
-    {
-      "id": "df180",
-      "es": "Los ojos cafés",
-      "translations": {
-        "en": "The brown eyes",
-        "pt": "Os olhos castanhos",
-        "fr": "Les yeux marron",
-        "it": "Gli occhi marroni"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Singular: the brown eye",
-        "fr": "Singular: l’œil marron",
-        "it": "Singular: l’occhio marrone",
-        "pt": "Singular: o olho castanho"
-      }
     }
   ]
 }
