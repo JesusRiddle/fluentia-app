@@ -3,7 +3,7 @@ import { LEVELS, CATEGORIES, MODULES } from "../data/modules";
 import cardCounts from "../data/cardCounts.json";
 import "./Home.css";
 
-const PAGE_SIZE = 8;
+const SEARCH_PAGE_SIZE = 8;
 const STORAGE_KEY = "fluentia_home_navigation";
 
 const normalize = (text) =>
@@ -63,15 +63,16 @@ export default function Home({ onSelectModule }) {
         })
         : levelModules.filter((item) => item.category === category);
 
-    const pageCount = Math.max(
-        1,
-        Math.ceil(matchingModules.length / PAGE_SIZE)
-    );
+    const pageCount = searching
+        ? Math.max(1, Math.ceil(matchingModules.length / SEARCH_PAGE_SIZE))
+        : 1;
     const currentPage = Math.min(page, pageCount);
-    const pageModules = matchingModules.slice(
-        (currentPage - 1) * PAGE_SIZE,
-        currentPage * PAGE_SIZE
-    );
+    const displayedModules = searching
+        ? matchingModules.slice(
+            (currentPage - 1) * SEARCH_PAGE_SIZE,
+            currentPage * SEARCH_PAGE_SIZE
+        )
+        : matchingModules;
 
     function selectLevel(nextLevel) {
         setNavigation({
@@ -240,9 +241,9 @@ export default function Home({ onSelectModule }) {
                         Todavía no hay temas registrados para este nivel.
                     </p>
                 )
-            ) : pageModules.length > 0 ? (
+            ) : displayedModules.length > 0 ? (
                 <div className="home-topics">
-                    {pageModules.map((item) => {
+                    {displayedModules.map((item) => {
                         const categoryTitle = CATEGORIES.find(
                             (entry) => entry.id === item.category
                         )?.title;
@@ -305,8 +306,8 @@ export default function Home({ onSelectModule }) {
                 </p>
             )}
 
-            {showingTopics && pageCount > 1 && (
-                <nav className="home-pagination" aria-label="Páginas de temas">
+            {searching && pageCount > 1 && (
+                <nav className="home-pagination" aria-label="Páginas de resultados">
                     <button
                         type="button"
                         className="secondary-btn"
@@ -321,7 +322,7 @@ export default function Home({ onSelectModule }) {
                         Anterior
                     </button>
 
-                    <span aria-live="polite">
+                    <span className="home-page-indicator" aria-live="polite">
                         {currentPage} / {pageCount}
                     </span>
 

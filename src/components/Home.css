@@ -199,8 +199,18 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 12px;
+    gap: 8px;
     margin-top: 20px;
+}
+
+.home-explorer .home-pagination .secondary-btn {
+    flex: 0 0 auto;
+    width: auto;
+}
+
+.home-explorer .home-page-indicator {
+    flex: 0 0 auto;
+    white-space: nowrap;
 }
 
 @media (max-width: 700px) {
