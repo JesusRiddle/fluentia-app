@@ -4,959 +4,1973 @@
   "cards": [
     {
       "id": "fa1",
-      "es": "Familia",
+      "es": "La familia",
       "translations": {
-        "en": "Family",
-        "pt": "Família",
-        "fr": "Famille",
-        "it": "Famiglia"
+        "en": "The family",
+        "pt": "A família",
+        "fr": "La famille",
+        "it": "La famiglia",
+        "de": "Die Familie"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The families)",
+        "pt": "(Plural: As famílias)",
+        "fr": "(Plural: Les familles)",
+        "it": "(Plural: Le famiglie)",
+        "de": "(Plural: Die Familien)"
+      },
+      "examples": {
+        "en": {
+          "text": "My family lives here.",
+          "es": "Mi familia vive aquí."
+        },
+        "pt": {
+          "text": "Minha família mora aqui.",
+          "es": "Mi familia vive aquí."
+        },
+        "fr": {
+          "text": "Ma famille habite ici.",
+          "es": "Mi familia vive aquí."
+        },
+        "it": {
+          "text": "La mia famiglia vive qui.",
+          "es": "Mi familia vive aquí."
+        },
+        "de": {
+          "text": "Meine Familie wohnt hier.",
+          "es": "Mi familia vive aquí."
+        }
+      }
     },
     {
       "id": "fa2",
-      "es": "Pariente / Familiar",
+      "es": "El pariente",
       "translations": {
-        "en": "Relative / Family member",
-        "pt": "Parente / Familiar",
-        "fr": "Membre de la famille",
-        "it": "Parente / Familiare"
+        "en": "The relative",
+        "pt": "O parente",
+        "fr": "Le parent",
+        "it": "Il parente",
+        "de": "Der Verwandte"
       },
       "notes": {
-        "es": "Persona de la familia; «familiar» aquí es sustantivo, no adjetivo.",
-        "en": "En inglés, familiar suele significar «conocido», no «pariente»."
+        "es": "Persona de la familia; «familiar» aquí es sustantivo, no adjetivo. Femenino: La pariente.",
+        "en": "(Plural: The relatives) Falso amigo: El adjetivo «familiar» significa «conocido»; «a relative» es una persona de la familia.",
+        "pt": "(Plural: Os parentes) Femenino: A parente.",
+        "fr": "(Plural: Les parents) Femenino: La parente. «Les parents» también significa «los padres»; el contexto distingue los sentidos.",
+        "it": "(Plural: I parenti) Femenino: La parente. Falso amigo: «Il parente» es «el pariente», no específicamente «el padre» ni «la madre».",
+        "de": "(Plural: Die Verwandten) Femenino: Die Verwandte. Como sustantivo derivado de adjetivo, cambia de terminación: «der Verwandte», pero «ein Verwandter»."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "A relative of mine lives in Puebla.",
+          "es": "Un pariente mío vive en Puebla."
+        },
+        "pt": {
+          "text": "Um parente meu mora em Puebla.",
+          "es": "Un pariente mío vive en Puebla."
+        },
+        "fr": {
+          "text": "Un parent à moi habite à Puebla.",
+          "es": "Un pariente mío vive en Puebla."
+        },
+        "it": {
+          "text": "Un mio parente vive a Puebla.",
+          "es": "Un pariente mío vive en Puebla."
+        },
+        "de": {
+          "text": "Ein Verwandter von mir wohnt in Puebla.",
+          "es": "Un pariente mío vive en Puebla."
+        }
+      }
     },
     {
       "id": "fa3",
-      "es": "Parentesco / Vínculo familiar",
+      "es": "El parentesco",
       "translations": {
-        "en": "Family relationship / Kinship",
-        "pt": "Parentesco",
-        "fr": "Lien de parenté",
-        "it": "Parentela / Legame familiare"
+        "en": "The family relationship",
+        "pt": "O parentesco",
+        "fr": "La parenté",
+        "it": "La parentela",
+        "de": "Die Verwandtschaft"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "There is no family relationship between Ana and me.",
+          "es": "No hay parentesco entre Ana y yo."
+        },
+        "pt": {
+          "text": "Não há parentesco entre Ana e mim.",
+          "es": "No hay parentesco entre Ana y yo."
+        },
+        "fr": {
+          "text": "Ana et moi, nous n'avons aucun lien de parenté.",
+          "es": "No hay parentesco entre Ana y yo."
+        },
+        "it": {
+          "text": "Non c'è parentela tra Ana e me.",
+          "es": "No hay parentesco entre Ana y yo."
+        },
+        "de": {
+          "text": "Zwischen Ana und mir besteht keine Verwandtschaft.",
+          "es": "No hay parentesco entre Ana y yo."
+        }
+      },
+      "notes": {
+        "en": "«Kinship» es otra forma, de uso más técnico."
+      }
     },
     {
       "id": "fa4",
-      "es": "Árbol genealógico",
+      "es": "El árbol genealógico",
       "translations": {
-        "en": "Family tree",
-        "pt": "Árvore genealógica",
-        "fr": "Arbre généalogique",
-        "it": "Albero genealogico"
+        "en": "The family tree",
+        "pt": "A árvore genealógica",
+        "fr": "L'arbre généalogique",
+        "it": "L'albero genealogico",
+        "de": "Der Stammbaum"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The family trees)",
+        "pt": "(Plural: As árvores genealógicas)",
+        "fr": "(Plural: Les arbres généalogiques)",
+        "it": "(Plural: Gli alberi genealogici)",
+        "de": "(Plural: Die Stammbäume)"
+      },
+      "examples": {
+        "en": {
+          "text": "My grandmother made our family tree.",
+          "es": "Mi abuela hizo nuestro árbol genealógico."
+        },
+        "pt": {
+          "text": "Minha avó fez nossa árvore genealógica.",
+          "es": "Mi abuela hizo nuestro árbol genealógico."
+        },
+        "fr": {
+          "text": "Ma grand-mère a fait notre arbre généalogique.",
+          "es": "Mi abuela hizo nuestro árbol genealógico."
+        },
+        "it": {
+          "text": "Mia nonna ha fatto il nostro albero genealogico.",
+          "es": "Mi abuela hizo nuestro árbol genealógico."
+        },
+        "de": {
+          "text": "Meine Oma hat unseren Stammbaum erstellt.",
+          "es": "Mi abuela hizo nuestro árbol genealógico."
+        }
+      }
     },
     {
       "id": "fa5",
-      "es": "Padre / Madre",
+      "es": "El padre / La madre",
       "translations": {
-        "en": "Father / Mother",
-        "pt": "Pai / Mãe",
-        "fr": "Père / Mère",
-        "it": "Padre / Madre"
+        "en": "The father / The mother",
+        "pt": "O pai / A mãe",
+        "fr": "Le père / La mère",
+        "it": "Il padre / La madre",
+        "de": "Der Vater / Die Mutter"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The fathers / The mothers)",
+        "pt": "(Plural: Os pais / As mães)",
+        "fr": "(Plural: Les pères / Les mères)",
+        "it": "(Plural: I padri / Le madri)",
+        "de": "(Plural: Die Väter / Die Mütter)"
+      },
+      "examples": {
+        "en": {
+          "text": "My mother works at a hospital.",
+          "es": "Mi madre trabaja en un hospital."
+        },
+        "pt": {
+          "text": "Minha mãe trabalha em um hospital.",
+          "es": "Mi madre trabaja en un hospital."
+        },
+        "fr": {
+          "text": "Ma mère travaille dans un hôpital.",
+          "es": "Mi madre trabaja en un hospital."
+        },
+        "it": {
+          "text": "Mia madre lavora in un ospedale.",
+          "es": "Mi madre trabaja en un hospital."
+        },
+        "de": {
+          "text": "Meine Mutter arbeitet in einem Krankenhaus.",
+          "es": "Mi madre trabaja en un hospital."
+        }
+      }
     },
     {
       "id": "fa6",
-      "es": "Papá / Mamá",
+      "es": "El papá / La mamá",
       "translations": {
-        "en": "Dad / Mom / Daddy / Mommy",
-        "pt": "Papai / Mamãe",
-        "fr": "Papa / Maman",
-        "it": "Papà / Mamma"
+        "en": "The dad / The mom",
+        "pt": "O papai / A mamãe",
+        "fr": "Le papa / La maman",
+        "it": "Il papà / La mamma",
+        "de": "Der Papa / Die Mama"
       },
       "notes": {
         "es": "Formas familiares o cariñosas de decir «padre» y «madre».",
-        "en": "Daddy / Mommy son formas más infantiles o afectuosas que Dad / Mom."
+        "en": "(Plural: The dads / The moms) Coloquial: Daddy / Mommy. Son variantes más infantiles o afectuosas que «Dad» y «Mom».",
+        "pt": "(Plural: Os papais / As mamães)",
+        "fr": "(Plural: Les papas / Les mamans)",
+        "it": "(Plural: I papà / Le mamme)",
+        "de": "(Plural: Die Papas / Die Mamas)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My dad makes breakfast.",
+          "es": "Mi papá hace el desayuno."
+        },
+        "pt": {
+          "text": "Papai faz o café da manhã.",
+          "es": "Mi papá hace el desayuno."
+        },
+        "fr": {
+          "text": "Mon papa prépare le petit-déjeuner.",
+          "es": "Mi papá hace el desayuno."
+        },
+        "it": {
+          "text": "Il mio papà prepara la colazione.",
+          "es": "Mi papá hace el desayuno."
+        },
+        "de": {
+          "text": "Mein Papa macht das Frühstück.",
+          "es": "Mi papá hace el desayuno."
+        }
+      }
     },
     {
       "id": "fa7",
-      "es": "Padres",
+      "es": "Los padres",
       "translations": {
-        "en": "Parents",
-        "pt": "Pais",
-        "fr": "Parents",
-        "it": "Genitori"
+        "en": "The parents",
+        "pt": "Os pais",
+        "fr": "Les parents",
+        "it": "I genitori",
+        "de": "Die Eltern"
       },
       "notes": {
-        "es": "Se refiere a quienes ejercen el papel de padre o madre, sin exigir que sean progenitores biológicos."
+        "es": "Se refiere a quienes ejercen el papel de padre o madre, sin exigir que sean progenitores biológicos.",
+        "pt": "«Os pais» puede significar «los padres» o «los papás» (varones), según el contexto.",
+        "fr": "«Les parents» puede significar «los padres» o «los parientes», según el contexto."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My parents live near me.",
+          "es": "Mis padres viven cerca de mí."
+        },
+        "pt": {
+          "text": "Meus pais moram perto de mim.",
+          "es": "Mis padres viven cerca de mí."
+        },
+        "fr": {
+          "text": "Mes parents habitent près de chez moi.",
+          "es": "Mis padres viven cerca de mí."
+        },
+        "it": {
+          "text": "I miei genitori abitano vicino a me.",
+          "es": "Mis padres viven cerca de mí."
+        },
+        "de": {
+          "text": "Meine Eltern wohnen in meiner Nähe.",
+          "es": "Mis padres viven cerca de mí."
+        }
+      }
     },
     {
       "id": "fa8",
-      "es": "Hermano/a",
+      "es": "El hermano / La hermana",
       "translations": {
-        "en": "Brother / Sister",
-        "pt": "Irmão / Irmã",
-        "fr": "Frère / Sœur",
-        "it": "Fratello / Sorella"
+        "en": "The brother / The sister",
+        "pt": "O irmão / A irmã",
+        "fr": "Le frère / La sœur",
+        "it": "Il fratello / La sorella",
+        "de": "Der Bruder / Die Schwester"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The brothers / The sisters)",
+        "pt": "(Plural: Os irmãos / As irmãs)",
+        "fr": "(Plural: Les frères / Les sœurs)",
+        "it": "(Plural: I fratelli / Le sorelle)",
+        "de": "(Plural: Die Brüder / Die Schwestern)"
+      },
+      "examples": {
+        "en": {
+          "text": "My sister studies in Puebla.",
+          "es": "Mi hermana estudia en Puebla."
+        },
+        "pt": {
+          "text": "Minha irmã estuda em Puebla.",
+          "es": "Mi hermana estudia en Puebla."
+        },
+        "fr": {
+          "text": "Ma sœur étudie à Puebla.",
+          "es": "Mi hermana estudia en Puebla."
+        },
+        "it": {
+          "text": "Mia sorella studia a Puebla.",
+          "es": "Mi hermana estudia en Puebla."
+        },
+        "de": {
+          "text": "Meine Schwester studiert in Puebla.",
+          "es": "Mi hermana estudia en Puebla."
+        }
+      }
     },
     {
       "id": "fa9",
-      "es": "Hermanos/as",
+      "es": "Los hermanos",
       "translations": {
-        "en": "Siblings / Brothers and sisters",
-        "pt": "Irmãos e irmãs",
-        "fr": "Frères et sœurs",
-        "it": "Fratelli e sorelle"
+        "en": "The siblings",
+        "pt": "Os irmãos",
+        "fr": "Les frères et sœurs",
+        "it": "I fratelli",
+        "de": "Die Geschwister"
       },
       "notes": {
-        "es": "Grupo de hermanos y hermanas, sin limitarse a un solo género."
+        "es": "Grupo de hermanos y hermanas, sin limitarse a un solo género.",
+        "pt": "«Os irmãos» puede designar a los hermanos en general. «As irmãs» designa solo a las hermanas.",
+        "it": "«I fratelli» puede designar a los hermanos en general. «Le sorelle» designa solo a las hermanas."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I have two siblings.",
+          "es": "Tengo dos hermanos."
+        },
+        "pt": {
+          "text": "Tenho dois irmãos.",
+          "es": "Tengo dos hermanos."
+        },
+        "fr": {
+          "text": "J'ai un frère et une sœur.",
+          "es": "Tengo un hermano y una hermana."
+        },
+        "it": {
+          "text": "Ho due fratelli.",
+          "es": "Tengo dos hermanos."
+        },
+        "de": {
+          "text": "Ich habe zwei Geschwister.",
+          "es": "Tengo dos hermanos."
+        }
+      }
     },
     {
       "id": "fa10",
-      "es": "Hijo/a",
+      "es": "El hijo / La hija",
       "translations": {
-        "en": "Son / Daughter",
-        "pt": "Filho / Filha",
-        "fr": "Fils / Fille",
-        "it": "Figlio / Figlia"
+        "en": "The son / The daughter",
+        "pt": "O filho / A filha",
+        "fr": "Le fils / La fille",
+        "it": "Il figlio / La figlia",
+        "de": "Der Sohn / Die Tochter"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The sons / The daughters)",
+        "pt": "(Plural: Os filhos / As filhas)",
+        "fr": "(Plural: Les fils / Les filles)",
+        "it": "(Plural: I figli / Le figlie)",
+        "de": "(Plural: Die Söhne / Die Töchter)"
+      },
+      "examples": {
+        "en": {
+          "text": "My son is six years old.",
+          "es": "Mi hijo tiene seis años."
+        },
+        "pt": {
+          "text": "Meu filho tem seis anos.",
+          "es": "Mi hijo tiene seis años."
+        },
+        "fr": {
+          "text": "Mon fils a six ans.",
+          "es": "Mi hijo tiene seis años."
+        },
+        "it": {
+          "text": "Mio figlio ha sei anni.",
+          "es": "Mi hijo tiene seis años."
+        },
+        "de": {
+          "text": "Mein Sohn ist sechs Jahre alt.",
+          "es": "Mi hijo tiene seis años."
+        }
+      }
     },
     {
       "id": "fa11",
-      "es": "Hijos/as",
+      "es": "Los hijos",
       "translations": {
-        "en": "Children / Kids",
-        "pt": "Filhos / Filhas",
-        "fr": "Enfants",
-        "it": "Figli / Figlie"
+        "en": "The children",
+        "pt": "Os filhos",
+        "fr": "Les enfants",
+        "it": "I figli",
+        "de": "Die Kinder"
       },
       "notes": {
         "es": "Se refiere a los hijos de una persona, aunque ya sean adultos.",
-        "en": "Children puede significar «hijos» de cualquier edad; kids es más informal.",
+        "en": "«Children» puede significar «hijos» de cualquier edad. Coloquial: Kids",
         "fr": "Enfants puede significar «hijos» o «niños», según el contexto."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My children go to the same school.",
+          "es": "Mis hijos van a la misma escuela."
+        },
+        "pt": {
+          "text": "Meus filhos vão à mesma escola.",
+          "es": "Mis hijos van a la misma escuela."
+        },
+        "fr": {
+          "text": "Mes enfants vont à la même école.",
+          "es": "Mis hijos van a la misma escuela."
+        },
+        "it": {
+          "text": "I miei figli vanno alla stessa scuola.",
+          "es": "Mis hijos van a la misma escuela."
+        },
+        "de": {
+          "text": "Meine Kinder gehen auf dieselbe Schule.",
+          "es": "Mis hijos van a la misma escuela."
+        }
+      }
     },
     {
       "id": "fa12",
-      "es": "Abuelo/a",
+      "es": "El abuelo / La abuela",
       "translations": {
-        "en": "Grandfather / Grandmother / Grandpa / Grandma",
-        "pt": "Avô / Avó / Vovô / Vovó",
-        "fr": "Grand-père / Grand-mère / Papy / Mamie",
-        "it": "Nonno / Nonna"
+        "en": "The grandfather / The grandmother",
+        "pt": "O avô / A avó",
+        "fr": "Le grand-père / La grand-mère",
+        "it": "Il nonno / La nonna",
+        "de": "Der Großvater / Die Großmutter"
       },
       "notes": {
-        "en": "Grandpa / Grandma son formas familiares; Grandfather / Grandmother son neutras.",
-        "pt": "Vovô / Vovó son formas cariñosas; avô / avó son más neutras.",
-        "fr": "Papy / Mamie son formas familiares; grand-père / grand-mère son neutras."
+        "en": "(Plural: The grandfathers / The grandmothers) Coloquial: Grandpa / Grandma",
+        "pt": "(Plural: Os avôs / As avós) Coloquial: Vovô / Vovó",
+        "fr": "(Plural: Les grands-pères / Les grands-mères) Coloquial: Papy / Mamie",
+        "de": "(Plural: Die Großväter / Die Großmütter) Coloquial: Opa / Oma",
+        "it": "(Plural: I nonni / Le nonne)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My grandmother makes soup on Sundays.",
+          "es": "Mi abuela prepara sopa los domingos."
+        },
+        "pt": {
+          "text": "Minha avó faz sopa aos domingos.",
+          "es": "Mi abuela prepara sopa los domingos."
+        },
+        "fr": {
+          "text": "Ma grand-mère prépare de la soupe le dimanche.",
+          "es": "Mi abuela prepara sopa los domingos."
+        },
+        "it": {
+          "text": "Mia nonna prepara la zuppa la domenica.",
+          "es": "Mi abuela prepara sopa los domingos."
+        },
+        "de": {
+          "text": "Meine Großmutter kocht sonntags Suppe.",
+          "es": "Mi abuela prepara sopa los domingos."
+        }
+      }
     },
     {
       "id": "fa13",
-      "es": "Abuelos (como grupo, ambos sexos)",
+      "es": "Los abuelos",
       "translations": {
-        "en": "Grandparents",
-        "pt": "Avós",
-        "fr": "Grands-parents",
-        "it": "Nonni"
+        "en": "The grandparents",
+        "pt": "Os avós",
+        "fr": "Les grands-parents",
+        "it": "I nonni",
+        "de": "Die Großeltern"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Abuelo y abuela o varios abuelos en conjunto)",
+        "pt": "En conjunto se usa «os avós»; «os avôs» designa solo a abuelos varones."
+      },
+      "examples": {
+        "en": {
+          "text": "My grandparents live in the countryside.",
+          "es": "Mis abuelos viven en el campo."
+        },
+        "pt": {
+          "text": "Meus avós moram no campo.",
+          "es": "Mis abuelos viven en el campo."
+        },
+        "fr": {
+          "text": "Mes grands-parents habitent à la campagne.",
+          "es": "Mis abuelos viven en el campo."
+        },
+        "it": {
+          "text": "I miei nonni vivono in campagna.",
+          "es": "Mis abuelos viven en el campo."
+        },
+        "de": {
+          "text": "Meine Großeltern wohnen auf dem Land.",
+          "es": "Mis abuelos viven en el campo."
+        }
+      }
     },
     {
       "id": "fa14",
-      "es": "Nieto/a",
+      "es": "El nieto / La nieta",
       "translations": {
-        "en": "Grandson / Granddaughter",
-        "pt": "Neto / Neta",
-        "fr": "Petit-fils / Petite-fille",
-        "it": "Nipote"
+        "en": "The grandson / The granddaughter",
+        "pt": "O neto / A neta",
+        "fr": "Le petit-fils / La petite-fille",
+        "it": "Il nipote / La nipote",
+        "de": "Der Enkel / Die Enkelin"
       },
       "notes": {
         "es": "Hijo o hija de uno de tus hijos.",
-        "it": "Nipote también significa «sobrino/a»; el parentesco se aclara por contexto."
+        "it": "(Plural: I nipoti / Le nipoti) (Nieto o nieta) «Nipote» también puede significar «sobrino» o «sobrina».",
+        "en": "(Plural: The grandsons / The granddaughters)",
+        "pt": "(Plural: Os netos / As netas)",
+        "fr": "(Plural: Les petits-fils / Les petites-filles)",
+        "de": "(Plural: Die Enkel / Die Enkelinnen)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My granddaughter is coming over for lunch today.",
+          "es": "Mi nieta viene a comer hoy."
+        },
+        "pt": {
+          "text": "Minha neta vem almoçar hoje.",
+          "es": "Mi nieta viene a comer hoy."
+        },
+        "fr": {
+          "text": "Ma petite-fille vient déjeuner aujourd'hui.",
+          "es": "Mi nieta viene a comer hoy."
+        },
+        "it": {
+          "text": "Mia nipote è la figlia di mio figlio.",
+          "es": "Mi nieta es la hija de mi hijo."
+        },
+        "de": {
+          "text": "Meine Enkelin kommt heute zum Mittagessen.",
+          "es": "Mi nieta viene a comer hoy."
+        }
+      }
     },
     {
       "id": "fa15",
-      "es": "Nietos/as",
+      "es": "Los nietos",
       "translations": {
-        "en": "Grandchildren / Grandkids",
-        "pt": "Netos / Netas",
-        "fr": "Petits-enfants",
-        "it": "Nipoti"
+        "en": "The grandchildren",
+        "pt": "Os netos",
+        "fr": "Les petits-enfants",
+        "it": "I nipoti",
+        "de": "Die Enkelkinder"
       },
       "notes": {
         "es": "Hijos e hijas de tus hijos, en conjunto.",
-        "it": "Nipoti puede referirse tanto a «nietos» como a «sobrinos»."
+        "it": "(Nietos o nietas) «I nipoti» también puede significar «los sobrinos»."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My grandchildren visit me on Sundays.",
+          "es": "Mis nietos me visitan los domingos."
+        },
+        "pt": {
+          "text": "Meus netos me visitam aos domingos.",
+          "es": "Mis nietos me visitan los domingos."
+        },
+        "fr": {
+          "text": "Mes petits-enfants me rendent visite le dimanche.",
+          "es": "Mis nietos me visitan los domingos."
+        },
+        "it": {
+          "text": "I miei nipoti, i figli di mia figlia, vengono a trovarmi la domenica.",
+          "es": "Mis nietos, los hijos de mi hija, me visitan los domingos."
+        },
+        "de": {
+          "text": "Meine Enkelkinder besuchen mich sonntags.",
+          "es": "Mis nietos me visitan los domingos."
+        }
+      }
     },
     {
       "id": "fa16",
-      "es": "Tío/a",
+      "es": "El tío / La tía",
       "translations": {
-        "en": "Uncle / Aunt",
-        "pt": "Tio / Tia",
-        "fr": "Oncle / Tante",
-        "it": "Zio / Zia"
+        "en": "The uncle / The aunt",
+        "pt": "O tio / A tia",
+        "fr": "L'oncle / La tante",
+        "it": "Lo zio / La zia",
+        "de": "Der Onkel / Die Tante"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The uncles / The aunts)",
+        "pt": "(Plural: Os tios / As tias)",
+        "fr": "(Plural: Les oncles / Les tantes)",
+        "it": "(Plural: Gli zii / Le zie)",
+        "de": "(Plural: Die Onkel / Die Tanten)"
+      },
+      "examples": {
+        "en": {
+          "text": "My aunt works at a bank.",
+          "es": "Mi tía trabaja en un banco."
+        },
+        "pt": {
+          "text": "Minha tia trabalha num banco.",
+          "es": "Mi tía trabaja en un banco."
+        },
+        "fr": {
+          "text": "Ma tante travaille dans une banque.",
+          "es": "Mi tía trabaja en un banco."
+        },
+        "it": {
+          "text": "Mia zia lavora in banca.",
+          "es": "Mi tía trabaja en un banco."
+        },
+        "de": {
+          "text": "Meine Tante arbeitet bei einer Bank.",
+          "es": "Mi tía trabaja en un banco."
+        }
+      }
     },
     {
       "id": "fa17",
-      "es": "Primo/a",
+      "es": "El primo / La prima",
       "translations": {
-        "en": "Cousin",
-        "pt": "Primo / Prima",
-        "fr": "Cousin / Cousine",
-        "it": "Cugino / Cugina"
+        "en": "The cousin",
+        "pt": "O primo / A prima",
+        "fr": "Le cousin / La cousine",
+        "it": "Il cugino / La cugina",
+        "de": "Der Cousin / Die Cousine"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The cousins)",
+        "pt": "(Plural: Os primos / As primas)",
+        "fr": "(Plural: Les cousins / Les cousines)",
+        "it": "(Plural: I cugini / Le cugine)",
+        "de": "(Plural: Die Cousins / Die Cousinen)"
+      },
+      "examples": {
+        "en": {
+          "text": "My cousin plays the piano.",
+          "es": "Mi prima toca el piano."
+        },
+        "pt": {
+          "text": "Minha prima toca piano.",
+          "es": "Mi prima toca el piano."
+        },
+        "fr": {
+          "text": "Ma cousine joue du piano.",
+          "es": "Mi prima toca el piano."
+        },
+        "it": {
+          "text": "Mia cugina suona il pianoforte.",
+          "es": "Mi prima toca el piano."
+        },
+        "de": {
+          "text": "Meine Cousine spielt Klavier.",
+          "es": "Mi prima toca el piano."
+        }
+      }
     },
     {
       "id": "fa18",
-      "es": "Sobrino/a",
+      "es": "El sobrino / La sobrina",
       "translations": {
-        "en": "Nephew / Niece",
-        "pt": "Sobrinho / Sobrinha",
-        "fr": "Neveu / Nièce",
-        "it": "Nipote"
+        "en": "The nephew / The niece",
+        "pt": "O sobrinho / A sobrinha",
+        "fr": "Le neveu / La nièce",
+        "it": "Il nipote / La nipote",
+        "de": "Der Neffe / Die Nichte"
       },
       "notes": {
         "es": "Hijo o hija de un hermano o una hermana.",
-        "it": "Nipote también significa «nieto/a»; es el parentesco el que lo distingue."
+        "it": "(Plural: I nipoti / Le nipoti) (Sobrino o sobrina) «Nipote» también puede significar «nieto» o «nieta».",
+        "en": "(Plural: The nephews / The nieces)",
+        "pt": "(Plural: Os sobrinhos / As sobrinhas)",
+        "fr": "(Plural: Les neveux / Les nièces)",
+        "de": "(Plural: Die Neffen / Die Nichten)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My nephew is my sister's son.",
+          "es": "Mi sobrino es el hijo de mi hermana."
+        },
+        "pt": {
+          "text": "Meu sobrinho é filho da minha irmã.",
+          "es": "Mi sobrino es el hijo de mi hermana."
+        },
+        "fr": {
+          "text": "Mon neveu est le fils de ma sœur.",
+          "es": "Mi sobrino es el hijo de mi hermana."
+        },
+        "it": {
+          "text": "Mio nipote è il figlio di mia sorella.",
+          "es": "Mi sobrino es el hijo de mi hermana."
+        },
+        "de": {
+          "text": "Mein Neffe ist der Sohn meiner Schwester.",
+          "es": "Mi sobrino es el hijo de mi hermana."
+        }
+      }
     },
     {
       "id": "fa19",
-      "es": "Bisabuelo/a",
+      "es": "El bisabuelo / La bisabuela",
       "translations": {
-        "en": "Great-grandfather / Great-grandmother",
-        "pt": "Bisavô / Bisavó",
-        "fr": "Arrière-grand-père / Arrière-grand-mère",
-        "it": "Bisnonno / Bisnonna"
+        "en": "The great-grandfather / The great-grandmother",
+        "pt": "O bisavô / A bisavó",
+        "fr": "L'arrière-grand-père / L'arrière-grand-mère",
+        "it": "Il bisnonno / La bisnonna",
+        "de": "Der Urgroßvater / Die Urgroßmutter"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The great-grandfathers / The great-grandmothers)",
+        "pt": "(Plural: Os bisavôs / As bisavós)",
+        "fr": "(Plural: Les arrière-grands-pères / Les arrière-grands-mères)",
+        "it": "(Plural: I bisnonni / Le bisnonne)",
+        "de": "(Plural: Die Urgroßväter / Die Urgroßmütter)"
+      },
+      "examples": {
+        "en": {
+          "text": "My great-grandfather is my grandmother's father.",
+          "es": "Mi bisabuelo es el papá de mi abuela."
+        },
+        "pt": {
+          "text": "Meu bisavô é o pai da minha avó.",
+          "es": "Mi bisabuelo es el papá de mi abuela."
+        },
+        "fr": {
+          "text": "Mon arrière-grand-père est le père de ma grand-mère.",
+          "es": "Mi bisabuelo es el papá de mi abuela."
+        },
+        "it": {
+          "text": "Il mio bisnonno è il padre di mia nonna.",
+          "es": "Mi bisabuelo es el papá de mi abuela."
+        },
+        "de": {
+          "text": "Mein Urgroßvater ist der Vater meiner Großmutter.",
+          "es": "Mi bisabuelo es el papá de mi abuela."
+        }
+      }
     },
     {
       "id": "fa20",
-      "es": "Bisnieto/a",
+      "es": "El bisnieto / La bisnieta",
       "translations": {
-        "en": "Great-grandson / Great-granddaughter",
-        "pt": "Bisneto / Bisneta",
-        "fr": "Arrière-petit-fils / Arrière-petite-fille",
-        "it": "Pronipote"
+        "en": "The great-grandson / The great-granddaughter",
+        "pt": "O bisneto / A bisneta",
+        "fr": "L'arrière-petit-fils / L'arrière-petite-fille",
+        "it": "Il pronipote / La pronipote",
+        "de": "Der Urenkel / Die Urenkelin"
       },
       "notes": {
-        "it": "Pronipote también puede designar un sobrino nieto; aquí significa bisnieto/a."
+        "it": "(Plural: I pronipoti / Le pronipoti) (Bisnieto o bisnieta) «Pronipote» también puede designar a un sobrino nieto.",
+        "en": "(Plural: The great-grandsons / The great-granddaughters)",
+        "pt": "(Plural: Os bisnetos / As bisnetas)",
+        "fr": "(Plural: Les arrière-petits-fils / Les arrière-petites-filles)",
+        "de": "(Plural: Die Urenkel / Die Urenkelinnen)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I read stories to my great-granddaughter.",
+          "es": "Leo cuentos a mi bisnieta."
+        },
+        "pt": {
+          "text": "Leio histórias para minha bisneta.",
+          "es": "Leo cuentos a mi bisnieta."
+        },
+        "fr": {
+          "text": "Je lis des histoires à mon arrière-petite-fille.",
+          "es": "Leo cuentos a mi bisnieta."
+        },
+        "it": {
+          "text": "Mia pronipote è la nipote di mia figlia.",
+          "es": "Mi bisnieta es la nieta de mi hija."
+        },
+        "de": {
+          "text": "Ich lese meiner Urenkelin Geschichten vor.",
+          "es": "Leo cuentos a mi bisnieta."
+        }
+      }
     },
     {
       "id": "fa21",
-      "es": "Tío/a abuelo/a",
+      "es": "El tío abuelo / La tía abuela",
       "translations": {
-        "en": "Great-uncle / Great-aunt",
-        "pt": "Tio-avô / Tia-avó",
-        "fr": "Grand-oncle / Grand-tante",
-        "it": "Prozio / Prozia"
+        "en": "The great-uncle / The great-aunt",
+        "pt": "O tio-avô / A tia-avó",
+        "fr": "Le grand-oncle / La grand-tante",
+        "it": "Il prozio / La prozia",
+        "de": "Der Großonkel / Die Großtante"
       },
       "notes": {
-        "es": "Hermano o hermana de uno de tus abuelos."
+        "es": "Hermano o hermana de uno de tus abuelos.",
+        "en": "(Plural: The great-uncles / The great-aunts)",
+        "pt": "(Plural: Os tios-avôs / As tias-avós)",
+        "fr": "(Plural: Les grands-oncles / Les grand-tantes)",
+        "it": "(Plural: I prozii / Le prozie)",
+        "de": "(Plural: Die Großonkel / Die Großtanten)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My great-uncle is my grandmother's brother.",
+          "es": "Mi tío abuelo es hermano de mi abuela."
+        },
+        "pt": {
+          "text": "Meu tio-avô é irmão da minha avó.",
+          "es": "Mi tío abuelo es hermano de mi abuela."
+        },
+        "fr": {
+          "text": "Mon grand-oncle est le frère de ma grand-mère.",
+          "es": "Mi tío abuelo es hermano de mi abuela."
+        },
+        "it": {
+          "text": "Il mio prozio è il fratello di mia nonna.",
+          "es": "Mi tío abuelo es hermano de mi abuela."
+        },
+        "de": {
+          "text": "Mein Großonkel ist der Bruder meiner Großmutter.",
+          "es": "Mi tío abuelo es hermano de mi abuela."
+        }
+      }
     },
     {
       "id": "fa22",
-      "es": "Sobrino/a nieto/a",
+      "es": "El sobrino nieto / La sobrina nieta",
       "translations": {
-        "en": "Great-nephew / Great-niece",
-        "pt": "Sobrinho-neto / Sobrinha-neta",
-        "fr": "Petit-neveu / Petite-nièce",
-        "it": "Pronipote"
+        "en": "The great-nephew / The great-niece",
+        "pt": "O sobrinho-neto / A sobrinha-neta",
+        "fr": "Le petit-neveu / La petite-nièce",
+        "it": "Il pronipote / La pronipote",
+        "de": "Der Großneffe / Die Großnichte"
       },
       "notes": {
         "es": "Hijo o hija de un sobrino o una sobrina.",
-        "it": "Pronipote también puede significar bisnieto/a; aquí es hijo/a de un sobrino/a."
+        "it": "(Plural: I pronipoti / Le pronipoti) (Sobrino nieto o sobrina nieta) «Pronipote» también puede significar «bisnieto» o «bisnieta».",
+        "en": "(Plural: The great-nephews / The great-nieces)",
+        "pt": "(Plural: Os sobrinhos-netos / As sobrinhas-netas)",
+        "fr": "(Plural: Les petits-neveux / Les petites-nièces)",
+        "de": "(Plural: Die Großneffen / Die Großnichten)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My great-niece is my nephew's daughter.",
+          "es": "Mi sobrina nieta es la hija de mi sobrino."
+        },
+        "pt": {
+          "text": "Minha sobrinha-neta é filha do meu sobrinho.",
+          "es": "Mi sobrina nieta es la hija de mi sobrino."
+        },
+        "fr": {
+          "text": "Ma petite-nièce est la fille de mon neveu.",
+          "es": "Mi sobrina nieta es la hija de mi sobrino."
+        },
+        "it": {
+          "text": "La figlia di mio nipote è la mia pronipote: io sono la sorella di suo nonno.",
+          "es": "La hija de mi sobrino es mi sobrina nieta: yo soy hermana de su abuelo."
+        },
+        "de": {
+          "text": "Meine Großnichte ist die Tochter meines Neffen.",
+          "es": "Mi sobrina nieta es la hija de mi sobrino."
+        }
+      }
     },
     {
       "id": "fa23",
-      "es": "Pariente lejano/a",
+      "es": "El pariente lejano",
       "translations": {
-        "en": "Distant relative",
-        "pt": "Parente distante",
-        "fr": "Parent éloigné / Parente éloignée",
-        "it": "Parente lontano / Parente lontana"
+        "en": "The distant relative",
+        "pt": "O parente distante",
+        "fr": "Le parent éloigné",
+        "it": "Il parente lontano",
+        "de": "Der entfernte Verwandte"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Femenino: La pariente lejana.",
+        "pt": "(Plural: Os parentes distantes) Femenino: A parente distante.",
+        "fr": "(Plural: Les parents éloignés) Femenino: La parente éloignée.",
+        "it": "(Plural: I parenti lontani) Femenino: La parente lontana.",
+        "de": "(Plural: Die entfernten Verwandten) Femenino: Die entfernte Verwandte.",
+        "en": "(Plural: The distant relatives)"
+      },
+      "examples": {
+        "en": {
+          "text": "I met a distant relative at a party.",
+          "es": "Encontré a un pariente lejano en una fiesta."
+        },
+        "pt": {
+          "text": "Encontrei um parente distante numa festa.",
+          "es": "Encontré a un pariente lejano en una fiesta."
+        },
+        "fr": {
+          "text": "J'ai rencontré un parent éloigné à une fête.",
+          "es": "Encontré a un pariente lejano en una fiesta."
+        },
+        "it": {
+          "text": "Ho incontrato un parente lontano a una festa.",
+          "es": "Encontré a un pariente lejano en una fiesta."
+        },
+        "de": {
+          "text": "Auf einer Party habe ich einen entfernten Verwandten getroffen.",
+          "es": "Encontré a un pariente lejano en una fiesta."
+        }
+      }
     },
     {
       "id": "fa24",
-      "es": "Por parte de madre / Por parte de padre",
+      "es": "Por parte de mamá / Por parte de papá",
       "translations": {
         "en": "On my mother's side / On my father's side",
         "pt": "Por parte de mãe / Por parte de pai",
-        "fr": "Du côté maternel / Du côté paternel",
-        "it": "Da parte di madre / Da parte di padre"
+        "fr": "Du côté de ma mère / Du côté de mon père",
+        "it": "Da parte di madre / Da parte di padre",
+        "de": "Mütterlicherseits / Väterlicherseits"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "These are my cousins on my mother's side.",
+          "es": "Estos son mis primos por parte de mamá."
+        },
+        "pt": {
+          "text": "Estes são meus primos por parte de mãe.",
+          "es": "Estos son mis primos por parte de mamá."
+        },
+        "fr": {
+          "text": "Ce sont mes cousins du côté de ma mère.",
+          "es": "Estos son mis primos por parte de mamá."
+        },
+        "it": {
+          "text": "Questi sono i miei cugini da parte di madre.",
+          "es": "Estos son mis primos por parte de mamá."
+        },
+        "de": {
+          "text": "Das sind meine Cousins mütterlicherseits.",
+          "es": "Estos son mis primos por parte de mamá."
+        }
+      }
     },
     {
       "id": "fa25",
-      "es": "Gemelo/a idéntico/a",
+      "es": "El gemelo idéntico",
       "translations": {
-        "en": "Identical twin",
-        "pt": "Gêmeo idêntico / Gêmea idêntica",
-        "fr": "Vrai jumeau / Vraie jumelle",
-        "it": "Gemello identico / Gemella identica"
+        "en": "The identical twin",
+        "pt": "O gêmeo idêntico",
+        "fr": "Le vrai jumeau",
+        "it": "Il gemello identico",
+        "de": "Der eineiige Zwilling"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Femenino: La gemela idéntica.",
+        "pt": "(Plural: Os gêmeos idênticos / As gêmeas idênticas) Femenino: A gêmea idêntica.",
+        "fr": "(Plural: Les vrais jumeaux / Les vraies jumelles) Femenino: La vraie jumelle.",
+        "it": "(Plural: I gemelli identici / Le gemelle identiche) Femenino: La gemella identica.",
+        "de": "(Plural: Die eineiigen Zwillinge) «Eineiig» significa que ambos proceden del mismo óvulo fecundado.",
+        "en": "(Plural: The identical twins)"
+      },
+      "examples": {
+        "en": {
+          "text": "Tomás and Luis are identical twins.",
+          "es": "Tomás y Luis son gemelos idénticos."
+        },
+        "pt": {
+          "text": "Tomás e Luis são gêmeos idênticos.",
+          "es": "Tomás y Luis son gemelos idénticos."
+        },
+        "fr": {
+          "text": "Tomás et Luis sont de vrais jumeaux.",
+          "es": "Tomás y Luis son gemelos idénticos."
+        },
+        "it": {
+          "text": "Tomás e Luis sono gemelli identici.",
+          "es": "Tomás y Luis son gemelos idénticos."
+        },
+        "de": {
+          "text": "Tomás und Luis sind eineiige Zwillinge.",
+          "es": "Tomás y Luis son gemelos idénticos."
+        }
+      }
     },
     {
       "id": "fa26",
-      "es": "Mellizo/a (gemelo no idéntico)",
+      "es": "El mellizo",
       "translations": {
-        "en": "Fraternal twin / Non-identical twin",
-        "pt": "Gêmeo não idêntico / Gêmea não idêntica",
-        "fr": "Faux jumeau / Fausse jumelle",
-        "it": "Gemello non identico / Gemella non identica"
+        "en": "The fraternal twin",
+        "pt": "O gêmeo não idêntico",
+        "fr": "Le faux jumeau",
+        "it": "Il gemello non identico",
+        "de": "Der zweieiige Zwilling"
       },
-      "image_url": ""
-    },
-    {
-      "id": "fa27",
-      "es": "Esposo/a / Marido / Mujer",
-      "translations": {
-        "en": "Husband / Wife",
-        "pt": "Marido / Esposo / Esposa / Mulher",
-        "fr": "Mari / Femme / Époux / Épouse",
-        "it": "Marito / Moglie"
-      },
+      "image_url": "",
       "notes": {
-        "es": "«Mujer» se usa aquí como sinónimo de esposa, no como «persona de sexo femenino».",
-        "pt": "Mulher también significa «mujer» en general; aquí se usa como «esposa».",
-        "fr": "Femme también significa «mujer»; «ma femme» equivale a «mi esposa»."
+        "es": "(Gemelo no idéntico) Femenino: La melliza.",
+        "pt": "(Plural: Os gêmeos não idênticos / As gêmeas não idênticas) Femenino: A gêmea não idêntica.",
+        "fr": "(Plural: Les faux jumeaux / Les fausses jumelles) Femenino: La fausse jumelle. «Faux» aquí no significa que sean gemelos de mentira.",
+        "it": "(Plural: I gemelli non identici / Le gemelle non identiche) Femenino: La gemella non identica.",
+        "de": "(Plural: Die zweieiigen Zwillinge) «Zweieiig» indica que los gemelos proceden de dos óvulos diferentes.",
+        "en": "(Plural: The fraternal twins)"
       },
-      "image_url": ""
-    },
-    {
-      "id": "fa28",
-      "es": "Cónyuge",
-      "translations": {
-        "en": "Spouse",
-        "pt": "Cônjuge",
-        "fr": "Conjoint / Conjointe",
-        "it": "Coniuge"
-      },
-      "notes": {
-        "es": "Forma formal o jurídica de referirse a esposo o esposa."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa29",
-      "es": "Pareja",
-      "translations": {
-        "en": "Partner / Romantic partner",
-        "pt": "Companheiro / Companheira / Parceiro / Parceira",
-        "fr": "Compagnon / Compagne / Partenaire",
-        "it": "Compagno / Compagna / Partner"
-      },
-      "notes": {
-        "es": "Una persona con quien se mantiene una relación sentimental; no necesariamente hay matrimonio.",
-        "it": "Compagno/a también puede significar «compañero/a» en otros contextos; aquí es pareja sentimental."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa30",
-      "es": "Pareja (dos personas)",
-      "translations": {
-        "en": "Couple",
-        "pt": "Casal",
-        "fr": "Couple",
-        "it": "Coppia"
-      },
-      "notes": {
-        "es": "Las dos personas consideradas como unidad; distinto de «mi pareja» (una persona)."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa31",
-      "es": "Novio/a",
-      "translations": {
-        "en": "Boyfriend / Girlfriend",
-        "pt": "Namorado / Namorada",
-        "fr": "Petit ami / Petite amie / Copain / Copine",
-        "it": "Fidanzato / Fidanzata / Ragazzo / Ragazza"
-      },
-      "notes": {
-        "es": "Relación sentimental sin implicar una promesa de matrimonio.",
-        "fr": "Copain / copine también significa «amigo/a»; petit ami / petite amie deja más clara la relación sentimental.",
-        "it": "Fidanzato/a puede significar «novio/a» o «prometido/a», según el contexto."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa32",
-      "es": "Prometido/a",
-      "translations": {
-        "en": "Fiancé / Fiancée",
-        "pt": "Noivo / Noiva",
-        "fr": "Fiancé / Fiancée",
-        "it": "Promesso sposo / Promessa sposa"
-      },
-      "notes": {
-        "es": "Persona con la que se ha acordado casarse.",
-        "it": "Fidanzato/a también puede usarse para «prometido/a», pero no siempre implica boda; promesso sposo/a es más explícito."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa33",
-      "es": "Novio/a (en la boda)",
-      "translations": {
-        "en": "Groom / Bride",
-        "pt": "Noivo / Noiva",
-        "fr": "Le marié / La mariée",
-        "it": "Sposo / Sposa"
-      },
-      "notes": {
-        "es": "Persona que se casa en la ceremonia; distinto de «novio/a» como pareja sentimental.",
-        "pt": "Noivo / noiva sirve también para «prometido/a»; aquí se refiere a quien se casa."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa34",
-      "es": "Expareja",
-      "translations": {
-        "en": "Ex-partner / Ex",
-        "pt": "Ex-companheiro / Ex-companheira",
-        "fr": "Ex-partenaire",
-        "it": "Ex partner"
-      },
-      "image_url": ""
+      "examples": {
+        "en": {
+          "text": "Ana and Eva are fraternal twins.",
+          "es": "Ana y Eva son mellizas."
+        },
+        "pt": {
+          "text": "Ana e Eva são gêmeas não idênticas.",
+          "es": "Ana y Eva son mellizas."
+        },
+        "fr": {
+          "text": "Ana et Eva sont de fausses jumelles.",
+          "es": "Ana y Eva son mellizas."
+        },
+        "it": {
+          "text": "Ana ed Eva sono gemelle non identiche.",
+          "es": "Ana y Eva son mellizas."
+        },
+        "de": {
+          "text": "Ana und Eva sind zweieiige Zwillinge.",
+          "es": "Ana y Eva son mellizas."
+        }
+      }
     },
     {
       "id": "fa35",
-      "es": "Suegro/a",
+      "es": "El suegro / La suegra",
       "translations": {
-        "en": "Father-in-law / Mother-in-law",
-        "pt": "Sogro / Sogra",
-        "fr": "Beau-père / Belle-mère",
-        "it": "Suocero / Suocera"
+        "en": "The father-in-law / The mother-in-law",
+        "pt": "O sogro / A sogra",
+        "fr": "Le beau-père / La belle-mère",
+        "it": "Il suocero / La suocera",
+        "de": "Der Schwiegervater / Die Schwiegermutter"
       },
       "notes": {
         "es": "Padre o madre de la persona con la que estás casado/a.",
-        "fr": "Beau-père / belle-mère también pueden significar «padrastro / madrastra»."
+        "fr": "(Plural: Les beaux-pères / Les belles-mères) (Padre o madre del cónyuge) «Beau-père» y «belle-mère» también pueden significar «padrastro» y «madrastra».",
+        "en": "(Plural: The fathers-in-law / The mothers-in-law)",
+        "pt": "(Plural: Os sogros / As sogras)",
+        "it": "(Plural: I suoceri / Le suocere)",
+        "de": "(Plural: Die Schwiegerväter / Die Schwiegermütter)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My mother-in-law is my husband's mother.",
+          "es": "Mi suegra es la mamá de mi esposo."
+        },
+        "pt": {
+          "text": "Minha sogra é a mãe do meu marido.",
+          "es": "Mi suegra es la mamá de mi esposo."
+        },
+        "fr": {
+          "text": "Ma belle-mère est la mère de mon mari.",
+          "es": "Mi suegra es la mamá de mi esposo."
+        },
+        "it": {
+          "text": "Mia suocera è la madre di mio marito.",
+          "es": "Mi suegra es la mamá de mi esposo."
+        },
+        "de": {
+          "text": "Meine Schwiegermutter ist die Mutter meines Mannes.",
+          "es": "Mi suegra es la mamá de mi esposo."
+        }
+      }
     },
     {
       "id": "fa36",
-      "es": "Suegros",
+      "es": "Los suegros",
       "translations": {
-        "en": "Parents-in-law / In-laws",
-        "pt": "Sogros",
-        "fr": "Beaux-parents",
-        "it": "Suoceri"
+        "en": "The parents-in-law",
+        "pt": "Os sogros",
+        "fr": "Les beaux-parents",
+        "it": "I suoceri",
+        "de": "Die Schwiegereltern"
       },
       "notes": {
         "es": "Padres de tu cónyuge, considerados como grupo.",
         "fr": "Beaux-parents puede referirse a los suegros o a los padrastros según el contexto."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "We have dinner with my parents-in-law every Friday.",
+          "es": "Cenamos con mis suegros cada viernes."
+        },
+        "pt": {
+          "text": "Jantamos com meus sogros toda sexta-feira.",
+          "es": "Cenamos con mis suegros cada viernes."
+        },
+        "fr": {
+          "text": "Nous dînons avec mes beaux-parents tous les vendredis.",
+          "es": "Cenamos con mis suegros cada viernes."
+        },
+        "it": {
+          "text": "Ceniamo con i miei suoceri ogni venerdì.",
+          "es": "Cenamos con mis suegros cada viernes."
+        },
+        "de": {
+          "text": "Wir essen jeden Freitag mit meinen Schwiegereltern zu Abend.",
+          "es": "Cenamos con mis suegros cada viernes."
+        }
+      }
     },
     {
       "id": "fa37",
-      "es": "Cuñado/a",
+      "es": "El cuñado / La cuñada",
       "translations": {
-        "en": "Brother-in-law / Sister-in-law",
-        "pt": "Cunhado / Cunhada",
-        "fr": "Beau-frère / Belle-sœur",
-        "it": "Cognato / Cognata"
+        "en": "The brother-in-law / The sister-in-law",
+        "pt": "O cunhado / A cunhada",
+        "fr": "Le beau-frère / La belle-sœur",
+        "it": "Il cognato / La cognata",
+        "de": "Der Schwager / Die Schwägerin"
       },
       "notes": {
-        "es": "Hermano/a de tu cónyuge o cónyuge de tu hermano/a."
+        "es": "Hermano/a de tu cónyuge o cónyuge de tu hermano/a.",
+        "en": "(Plural: The brothers-in-law / The sisters-in-law)",
+        "pt": "(Plural: Os cunhados / As cunhadas)",
+        "fr": "(Plural: Les beaux-frères / Les belles-sœurs)",
+        "it": "(Plural: I cognati / Le cognate)",
+        "de": "(Plural: Die Schwäger / Die Schwägerinnen)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My sister-in-law is my wife's sister.",
+          "es": "Mi cuñada es la hermana de mi esposa."
+        },
+        "pt": {
+          "text": "Minha cunhada é a irmã da minha esposa.",
+          "es": "Mi cuñada es la hermana de mi esposa."
+        },
+        "fr": {
+          "text": "Ma belle-sœur est la sœur de ma femme.",
+          "es": "Mi cuñada es la hermana de mi esposa."
+        },
+        "it": {
+          "text": "Mia cognata è la sorella di mia moglie.",
+          "es": "Mi cuñada es la hermana de mi esposa."
+        },
+        "de": {
+          "text": "Meine Schwägerin ist die Schwester meiner Frau.",
+          "es": "Mi cuñada es la hermana de mi esposa."
+        }
+      }
     },
     {
       "id": "fa38",
-      "es": "Yerno / Nuera",
+      "es": "El yerno / La nuera",
       "translations": {
-        "en": "Son-in-law / Daughter-in-law",
-        "pt": "Genro / Nora",
-        "fr": "Gendre / Belle-fille",
-        "it": "Genero / Nuora"
+        "en": "The son-in-law / The daughter-in-law",
+        "pt": "O genro / A nora",
+        "fr": "Le gendre / La belle-fille",
+        "it": "Il genero / La nuora",
+        "de": "Der Schwiegersohn / Die Schwiegertochter"
       },
       "notes": {
         "es": "Cónyuge de tu hijo o hija.",
-        "fr": "Belle-fille también significa «hijastra»; aquí se usa como «nuera»."
+        "fr": "(Plural: Les gendres / Les belles-filles) Belle-fille también significa «hijastra»; aquí se usa como «nuera».",
+        "en": "(Plural: The sons-in-law / The daughters-in-law)",
+        "pt": "(Plural: Os genros / As noras)",
+        "it": "(Plural: I generi / Le nuore)",
+        "de": "(Plural: Die Schwiegersöhne / Die Schwiegertöchter)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My daughter-in-law is my son's wife.",
+          "es": "Mi nuera es la esposa de mi hijo."
+        },
+        "pt": {
+          "text": "Minha nora é a esposa do meu filho.",
+          "es": "Mi nuera es la esposa de mi hijo."
+        },
+        "fr": {
+          "text": "Ma belle-fille est la femme de mon fils.",
+          "es": "Mi nuera es la esposa de mi hijo."
+        },
+        "it": {
+          "text": "Mia nuora è la moglie di mio figlio.",
+          "es": "Mi nuera es la esposa de mi hijo."
+        },
+        "de": {
+          "text": "Meine Schwiegertochter ist die Frau meines Sohnes.",
+          "es": "Mi nuera es la esposa de mi hijo."
+        }
+      }
     },
     {
       "id": "fa39",
-      "es": "Familia política",
+      "es": "La familia política",
       "translations": {
-        "en": "My spouse's family / My in-laws",
-        "pt": "Família do cônjuge",
-        "fr": "Belle-famille",
-        "it": "Famiglia del coniuge"
+        "en": "The in-laws",
+        "pt": "A família do cônjuge",
+        "fr": "La belle-famille",
+        "it": "La famiglia del coniuge",
+        "de": "Die Schwiegerfamilie"
       },
       "notes": {
-        "es": "Parientes adquiridos por matrimonio; no significa que exista parentesco biológico."
+        "es": "Parientes adquiridos por matrimonio; no significa que exista parentesco biológico.",
+        "en": "(Plural: The in-laws) «In-laws» puede designar a toda la familia política o solo a los suegros, según el contexto.",
+        "pt": "(Plural: As famílias dos cônjuges)",
+        "fr": "(Plural: Les belles-familles)",
+        "it": "(Plural: Le famiglie dei coniugi)",
+        "de": "(Plural: Die Schwiegerfamilien)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I spend Christmas with my in-laws.",
+          "es": "Paso la Navidad con mi familia política."
+        },
+        "pt": {
+          "text": "Passo o Natal com a família do meu cônjuge.",
+          "es": "Paso la Navidad con mi familia política."
+        },
+        "fr": {
+          "text": "Je passe Noël avec ma belle-famille.",
+          "es": "Paso la Navidad con mi familia política."
+        },
+        "it": {
+          "text": "Passo il Natale con la famiglia del mio coniuge.",
+          "es": "Paso la Navidad con mi familia política."
+        },
+        "de": {
+          "text": "Ich verbringe Weihnachten mit meiner Schwiegerfamilie.",
+          "es": "Paso la Navidad con mi familia política."
+        }
+      }
     },
     {
       "id": "fa40",
-      "es": "Padrastro / Madrastra",
+      "es": "El padrastro / La madrastra",
       "translations": {
-        "en": "Stepfather / Stepmother",
-        "pt": "Padrasto / Madrasta",
-        "fr": "Beau-père / Belle-mère",
-        "it": "Patrigno / Matrigna"
+        "en": "The stepfather / The stepmother",
+        "pt": "O padrasto / A madrasta",
+        "fr": "Le beau-père / La belle-mère",
+        "it": "Il patrigno / La matrigna",
+        "de": "Der Stiefvater / Die Stiefmutter"
       },
       "notes": {
         "es": "Nueva pareja de uno de tus padres, sin ser necesariamente tu progenitor biológico.",
-        "fr": "Beau-père / belle-mère también significan «suegro / suegra»; aquí son padrastro / madrastra."
+        "fr": "(Plural: Les beaux-pères / Les belles-mères) (Pareja de uno de los padres) «Beau-père» y «belle-mère» también pueden significar «suegro» y «suegra».",
+        "en": "(Plural: The stepfathers / The stepmothers)",
+        "pt": "(Plural: Os padrastos / As madrastas)",
+        "it": "(Plural: I patrigni / Le matrigne)",
+        "de": "(Plural: Die Stiefväter / Die Stiefmütter)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My stepfather is my mother's husband.",
+          "es": "Mi padrastro es el esposo de mi mamá."
+        },
+        "pt": {
+          "text": "Meu padrasto é o marido da minha mãe.",
+          "es": "Mi padrastro es el esposo de mi mamá."
+        },
+        "fr": {
+          "text": "Mon beau-père est le mari de ma mère.",
+          "es": "Mi padrastro es el esposo de mi mamá."
+        },
+        "it": {
+          "text": "Il mio patrigno è il marito di mia madre.",
+          "es": "Mi padrastro es el esposo de mi mamá."
+        },
+        "de": {
+          "text": "Mein Stiefvater ist der Mann meiner Mutter.",
+          "es": "Mi padrastro es el esposo de mi mamá."
+        }
+      }
     },
     {
       "id": "fa41",
-      "es": "Hijastro/a",
+      "es": "El hijastro / La hijastra",
       "translations": {
-        "en": "Stepson / Stepdaughter",
-        "pt": "Enteado / Enteada",
-        "fr": "Beau-fils / Belle-fille",
-        "it": "Figliastro / Figliastra"
+        "en": "The stepson / The stepdaughter",
+        "pt": "O enteado / A enteada",
+        "fr": "Le beau-fils / La belle-fille",
+        "it": "Il figliastro / La figliastra",
+        "de": "Der Stiefsohn / Die Stieftochter"
       },
       "notes": {
         "es": "Hijo o hija que tu pareja tuvo en una relación anterior.",
-        "fr": "Beau-fils / belle-fille también pueden significar «yerno / nuera»."
+        "fr": "(Plural: Les beaux-fils / Les belles-filles) Beau-fils / belle-fille también pueden significar «yerno / nuera».",
+        "en": "(Plural: The stepsons / The stepdaughters)",
+        "pt": "(Plural: Os enteados / As enteadas)",
+        "it": "(Plural: I figliastri / Le figliastre)",
+        "de": "(Plural: Die Stiefsöhne / Die Stieftöchter)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My stepdaughter is my husband's daughter.",
+          "es": "Mi hijastra es la hija de mi esposo."
+        },
+        "pt": {
+          "text": "Minha enteada é a filha do meu marido.",
+          "es": "Mi hijastra es la hija de mi esposo."
+        },
+        "fr": {
+          "text": "Ma belle-fille, c'est la fille que mon mari a eue avant notre mariage.",
+          "es": "Mi hijastra es la hija que tuvo mi esposo antes de nuestra boda."
+        },
+        "it": {
+          "text": "La mia figliastra è la figlia di mio marito.",
+          "es": "Mi hijastra es la hija de mi esposo."
+        },
+        "de": {
+          "text": "Meine Stieftochter ist die Tochter meines Mannes.",
+          "es": "Mi hijastra es la hija de mi esposo."
+        }
+      }
     },
     {
       "id": "fa42",
-      "es": "Medio hermano/a",
+      "es": "El medio hermano / La media hermana",
       "translations": {
-        "en": "Half-brother / Half-sister",
-        "pt": "Meio-irmão / Meia-irmã",
-        "fr": "Demi-frère / Demi-sœur",
-        "it": "Fratellastro / Sorellastra"
+        "en": "The half-brother / The half-sister",
+        "pt": "O meio-irmão / A meia-irmã",
+        "fr": "Le demi-frère / La demi-sœur",
+        "it": "Il fratellastro / La sorellastra",
+        "de": "Der Halbbruder / Die Halbschwester"
       },
       "notes": {
         "es": "Hermano/a con quien compartes un solo progenitor biológico.",
-        "it": "Fratellastro / sorellastra suele usarse para medio hermano/a; también puede ser ambiguo con hermanastro/a."
+        "it": "(Plural: I fratellastri / Le sorellastre) Fratellastro / sorellastra suele usarse para medio hermano/a; también puede ser ambiguo con hermanastro/a.",
+        "de": "(Plural: Die Halbbrüder / Die Halbschwestern) «Halb-» indica que comparten solo uno de los padres.",
+        "en": "(Plural: The half-brothers / The half-sisters)",
+        "pt": "(Plural: Os meios-irmãos / As meias-irmãs)",
+        "fr": "(Plural: Les demi-frères / Les demi-sœurs)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My half-brother and I have the same father.",
+          "es": "Mi medio hermano y yo tenemos el mismo papá."
+        },
+        "pt": {
+          "text": "Meu meio-irmão e eu temos o mesmo pai.",
+          "es": "Mi medio hermano y yo tenemos el mismo papá."
+        },
+        "fr": {
+          "text": "Mon demi-frère et moi avons le même père.",
+          "es": "Mi medio hermano y yo tenemos el mismo papá."
+        },
+        "it": {
+          "text": "Io e il mio fratellastro abbiamo lo stesso padre.",
+          "es": "Mi medio hermano y yo tenemos el mismo papá."
+        },
+        "de": {
+          "text": "Mein Halbbruder und ich haben denselben Vater.",
+          "es": "Mi medio hermano y yo tenemos el mismo papá."
+        }
+      }
     },
     {
       "id": "fa43",
-      "es": "Hermanastro/a",
+      "es": "El hermanastro / La hermanastra",
       "translations": {
-        "en": "Stepbrother / Stepsister",
-        "pt": "Filho / Filha do padrasto ou da madrasta",
-        "fr": "Fils / Fille du beau-père ou de la belle-mère",
-        "it": "Figlio / Figlia del patrigno o della matrigna"
+        "en": "The stepbrother / The stepsister",
+        "pt": "O filho do padrasto ou da madrasta / A filha do padrasto ou da madrasta",
+        "fr": "Le fils du beau-père ou de la belle-mère / La fille du beau-père ou de la belle-mère",
+        "it": "Il figlio del patrigno o della matrigna / La figlia del patrigno o della matrigna",
+        "de": "Der Stiefbruder / Die Stiefschwester"
       },
       "notes": {
         "es": "Hijo/a del padrastro o de la madrastra, sin padres biológicos en común.",
-        "pt": "Meio-irmão / meia-irmã indica que comparten un progenitor; no equivale necesariamente a hermanastro/a.",
-        "fr": "Demi-frère / demi-sœur indica que comparten un progenitor; para hermanastro/a sin parentesco biológico suele explicarse la relación.",
-        "it": "Fratellastro / sorellastra puede usarse también para medio hermano/a; conviene aclarar que aquí no comparten progenitores."
+        "pt": "(Plural: Os filhos do padrasto ou da madrasta / As filhas do padrasto ou da madrasta) Meio-irmão / meia-irmã indica que comparten un progenitor; no equivale necesariamente a hermanastro/a.",
+        "fr": "(Plural: Les fils du beau-père ou de la belle-mère / Les filles du beau-père ou de la belle-mère) Demi-frère / demi-sœur indica que comparten un progenitor; para hermanastro/a sin parentesco biológico suele explicarse la relación.",
+        "it": "(Plural: I figli del patrigno o della matrigna / Le figlie del patrigno o della matrigna) Fratellastro / sorellastra puede usarse también para medio hermano/a; conviene aclarar que aquí no comparten progenitores.",
+        "de": "(Plural: Die Stiefbrüder / Die Stiefschwestern) En esta tarjeta «Stiefbruder» y «Stiefschwester» indican que no comparten padres biológicos. Según el contexto, «Stiefgeschwister» también puede abarcar a quienes comparten uno.",
+        "en": "(Plural: The stepbrothers / The stepsisters)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My stepsister is my stepmother's daughter.",
+          "es": "Mi hermanastra es la hija de mi madrastra."
+        },
+        "pt": {
+          "text": "A filha da minha madrasta mora comigo.",
+          "es": "La hija de mi madrastra vive conmigo."
+        },
+        "fr": {
+          "text": "La fille du mari de ma mère vit avec moi.",
+          "es": "La hija del esposo de mi mamá vive conmigo."
+        },
+        "it": {
+          "text": "La figlia della mia matrigna vive con me.",
+          "es": "La hija de mi madrastra vive conmigo."
+        },
+        "de": {
+          "text": "Meine Stiefschwester ist die Tochter meiner Stiefmutter.",
+          "es": "Mi hermanastra es la hija de mi madrastra."
+        }
+      }
     },
     {
       "id": "fa44",
-      "es": "Padre/madre biológico/a",
+      "es": "El padre biológico / La madre biológica",
       "translations": {
-        "en": "Biological father / Biological mother",
-        "pt": "Pai biológico / Mãe biológica",
-        "fr": "Père biologique / Mère biologique",
-        "it": "Padre biologico / Madre biologica"
+        "en": "The biological father / The biological mother",
+        "pt": "O pai biológico / A mãe biológica",
+        "fr": "Le père biologique / La mère biologique",
+        "it": "Il padre biologico / La madre biologica",
+        "de": "Der leibliche Vater / Die leibliche Mutter"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The biological fathers / The biological mothers)",
+        "pt": "(Plural: Os pais biológicos / As mães biológicas)",
+        "fr": "(Plural: Les pères biologiques / Les mères biologiques)",
+        "it": "(Plural: I padri biologici / Le madri biologiche)",
+        "de": "(Plural: Die leiblichen Väter / Die leiblichen Mütter)"
+      },
+      "examples": {
+        "en": {
+          "text": "My biological mother lives in another city.",
+          "es": "Mi madre biológica vive en otra ciudad."
+        },
+        "pt": {
+          "text": "Minha mãe biológica mora em outra cidade.",
+          "es": "Mi madre biológica vive en otra ciudad."
+        },
+        "fr": {
+          "text": "Ma mère biologique habite dans une autre ville.",
+          "es": "Mi madre biológica vive en otra ciudad."
+        },
+        "it": {
+          "text": "Mia madre biologica vive in un'altra città.",
+          "es": "Mi madre biológica vive en otra ciudad."
+        },
+        "de": {
+          "text": "Meine leibliche Mutter wohnt in einer anderen Stadt.",
+          "es": "Mi madre biológica vive en otra ciudad."
+        }
+      }
     },
     {
       "id": "fa45",
-      "es": "Padre/madre adoptivo/a",
+      "es": "El padre adoptivo / La madre adoptiva",
       "translations": {
-        "en": "Adoptive father / Adoptive mother",
-        "pt": "Pai adotivo / Mãe adotiva",
-        "fr": "Père adoptif / Mère adoptive",
-        "it": "Padre adottivo / Madre adottiva"
+        "en": "The adoptive father / The adoptive mother",
+        "pt": "O pai adotivo / A mãe adotiva",
+        "fr": "Le père adoptif / La mère adoptive",
+        "it": "Il padre adottivo / La madre adottiva",
+        "de": "Der Adoptivvater / Die Adoptivmutter"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The adoptive fathers / The adoptive mothers)",
+        "pt": "(Plural: Os pais adotivos / As mães adotivas)",
+        "fr": "(Plural: Les pères adoptifs / Les mères adoptives)",
+        "it": "(Plural: I padri adottivi / Le madri adottive)",
+        "de": "(Plural: Die Adoptivväter / Die Adoptivmütter)"
+      },
+      "examples": {
+        "en": {
+          "text": "This is a photo of my adoptive father.",
+          "es": "Esta es una foto de mi padre adoptivo."
+        },
+        "pt": {
+          "text": "Esta é uma foto do meu pai adotivo.",
+          "es": "Esta es una foto de mi padre adoptivo."
+        },
+        "fr": {
+          "text": "C'est une photo de mon père adoptif.",
+          "es": "Esta es una foto de mi padre adoptivo."
+        },
+        "it": {
+          "text": "Questa è una foto di mio padre adottivo.",
+          "es": "Esta es una foto de mi padre adoptivo."
+        },
+        "de": {
+          "text": "Das ist ein Foto von meinem Adoptivvater.",
+          "es": "Esta es una foto de mi padre adoptivo."
+        }
+      }
     },
     {
       "id": "fa46",
-      "es": "Hijo/a adoptivo/a",
+      "es": "El hijo adoptivo / La hija adoptiva",
       "translations": {
-        "en": "Adopted son / Adopted daughter",
-        "pt": "Filho adotivo / Filha adotiva",
-        "fr": "Fils adoptif / Fille adoptive",
-        "it": "Figlio adottivo / Figlia adottiva"
+        "en": "The adopted son / The adopted daughter",
+        "pt": "O filho adotivo / A filha adotiva",
+        "fr": "Le fils adoptif / La fille adoptive",
+        "it": "Il figlio adottivo / La figlia adottiva",
+        "de": "Der Adoptivsohn / Die Adoptivtochter"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The adopted sons / The adopted daughters)",
+        "pt": "(Plural: Os filhos adotivos / As filhas adotivas)",
+        "fr": "(Plural: Les fils adoptifs / Les filles adoptives)",
+        "it": "(Plural: I figli adottivi / Le figlie adottive)",
+        "de": "(Plural: Die Adoptivsöhne / Die Adoptivtöchter)"
+      },
+      "examples": {
+        "en": {
+          "text": "My adopted daughter is seven years old.",
+          "es": "Mi hija adoptiva tiene siete años."
+        },
+        "pt": {
+          "text": "Minha filha adotiva tem sete anos.",
+          "es": "Mi hija adoptiva tiene siete años."
+        },
+        "fr": {
+          "text": "Ma fille adoptive a sept ans.",
+          "es": "Mi hija adoptiva tiene siete años."
+        },
+        "it": {
+          "text": "Mia figlia adottiva ha sette anni.",
+          "es": "Mi hija adoptiva tiene siete años."
+        },
+        "de": {
+          "text": "Meine Adoptivtochter ist sieben Jahre alt.",
+          "es": "Mi hija adoptiva tiene siete años."
+        }
+      }
     },
     {
       "id": "fa47",
-      "es": "Familia reconstituida",
+      "es": "La familia reconstituida",
       "translations": {
-        "en": "Blended family / Stepfamily",
-        "pt": "Família reconstituída",
-        "fr": "Famille recomposée",
-        "it": "Famiglia ricostituita"
+        "en": "The blended family",
+        "pt": "A família reconstituída",
+        "fr": "La famille recomposée",
+        "it": "La famiglia ricostituita",
+        "de": "Die Patchworkfamilie"
       },
       "notes": {
         "es": "Familia formada, por ejemplo, por una pareja en la que uno o ambos ya tienen hijos de otras relaciones.",
-        "it": "Famiglia allargata tiene un sentido más amplio; famiglia ricostituita es más preciso para esta situación."
+        "it": "(Plural: Le famiglie ricostituite) Famiglia allargata tiene un sentido más amplio; famiglia ricostituita es más preciso para esta situación.",
+        "en": "(Plural: The blended families)",
+        "pt": "(Plural: As famílias reconstituídas)",
+        "fr": "(Plural: Les familles recomposées)",
+        "de": "(Plural: Die Patchworkfamilien)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "We're a blended family: we both already had children.",
+          "es": "Somos una familia reconstituida: los dos ya teníamos hijos."
+        },
+        "pt": {
+          "text": "Somos uma família reconstituída: nós dois já tínhamos filhos.",
+          "es": "Somos una familia reconstituida: los dos ya teníamos hijos."
+        },
+        "fr": {
+          "text": "Nous sommes une famille recomposée : nous avions déjà des enfants tous les deux.",
+          "es": "Somos una familia reconstituida: los dos ya teníamos hijos."
+        },
+        "it": {
+          "text": "Siamo una famiglia ricostituita: avevamo già figli tutti e due.",
+          "es": "Somos una familia reconstituida: los dos ya teníamos hijos."
+        },
+        "de": {
+          "text": "Wir sind eine Patchworkfamilie: Wir hatten beide schon Kinder.",
+          "es": "Somos una familia reconstituida: los dos ya teníamos hijos."
+        }
+      }
     },
     {
       "id": "fa48",
-      "es": "Familia monoparental",
+      "es": "La familia monoparental",
       "translations": {
-        "en": "Single-parent family",
-        "pt": "Família monoparental",
-        "fr": "Famille monoparentale",
-        "it": "Famiglia monogenitoriale"
+        "en": "The single-parent family",
+        "pt": "A família monoparental",
+        "fr": "La famille monoparentale",
+        "it": "La famiglia monogenitoriale",
+        "de": "Die Einelternfamilie"
       },
       "notes": {
-        "es": "Unidad familiar en la que solo un progenitor está a cargo de los hijos."
+        "es": "Unidad familiar en la que solo un progenitor está a cargo de los hijos.",
+        "en": "(Plural: The single-parent families)",
+        "pt": "(Plural: As famílias monoparentais)",
+        "fr": "(Plural: Les familles monoparentales)",
+        "it": "(Plural: Le famiglie monogenitoriali)",
+        "de": "(Plural: Die Einelternfamilien)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "A mother and her child can be a single-parent family.",
+          "es": "Una madre y su hijo pueden formar una familia monoparental."
+        },
+        "pt": {
+          "text": "Uma mãe e seu filho podem formar uma família monoparental.",
+          "es": "Una madre y su hijo pueden formar una familia monoparental."
+        },
+        "fr": {
+          "text": "Une mère et son fils peuvent former une famille monoparentale.",
+          "es": "Una madre y su hijo pueden formar una familia monoparental."
+        },
+        "it": {
+          "text": "Una madre e suo figlio possono formare una famiglia monogenitoriale.",
+          "es": "Una madre y su hijo pueden formar una familia monoparental."
+        },
+        "de": {
+          "text": "Eine Mutter und ihr Sohn können eine Einelternfamilie bilden.",
+          "es": "Una madre y su hijo pueden formar una familia monoparental."
+        }
+      }
     },
     {
       "id": "fa49",
-      "es": "Familia homoparental",
+      "es": "La familia homoparental",
       "translations": {
-        "en": "Family with same-sex parents",
-        "pt": "Família homoparental",
-        "fr": "Famille homoparentale",
-        "it": "Famiglia omogenitoriale"
+        "en": "The family with same-sex parents",
+        "pt": "A família homoparental",
+        "fr": "La famille homoparentale",
+        "it": "La famiglia omogenitoriale",
+        "de": "Die Familie mit gleichgeschlechtlichen Eltern"
       },
       "notes": {
         "es": "Familia en la que los hijos tienen dos madres o dos padres.",
-        "en": "Family with same-sex parents es una descripción habitual; no se limita a padres biológicos."
+        "en": "(Plural: The families with same-sex parents) Family with same-sex parents es una descripción habitual; no se limita a padres biológicos.",
+        "pt": "(Plural: As famílias homoparentais)",
+        "fr": "(Plural: Les familles homoparentales)",
+        "it": "(Plural: Le famiglie omogenitoriali)",
+        "de": "(Plural: Die Familien mit gleichgeschlechtlichen Eltern)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Lucía has two moms and lives in a family with same-sex parents.",
+          "es": "Lucía tiene dos mamás y vive en una familia homoparental."
+        },
+        "pt": {
+          "text": "Lucía tem duas mães e vive numa família homoparental.",
+          "es": "Lucía tiene dos mamás y vive en una familia homoparental."
+        },
+        "fr": {
+          "text": "Lucía a deux mamans et vit dans une famille homoparentale.",
+          "es": "Lucía tiene dos mamás y vive en una familia homoparental."
+        },
+        "it": {
+          "text": "Lucía ha due mamme e vive in una famiglia omogenitoriale.",
+          "es": "Lucía tiene dos mamás y vive en una familia homoparental."
+        },
+        "de": {
+          "text": "Lucía hat zwei Mütter und lebt in einer Familie mit gleichgeschlechtlichen Eltern.",
+          "es": "Lucía tiene dos mamás y vive en una familia homoparental."
+        }
+      }
     },
     {
       "id": "fa50",
-      "es": "Padre/madre que cría sin pareja",
+      "es": "El padre que cría sin pareja / La madre que cría sin pareja",
       "translations": {
-        "en": "Single father / Single mother",
-        "pt": "Pai solo / Mãe solo",
-        "fr": "Père qui élève seul ses enfants / Mère qui élève seule ses enfants",
-        "it": "Padre che cresce i figli da solo / Madre che cresce i figli da sola"
+        "en": "The single father / The single mother",
+        "pt": "O pai solo / A mãe solo",
+        "fr": "Le père qui élève seul ses enfants / La mère qui élève seule ses enfants",
+        "it": "Il padre che cresce i figli da solo / La madre che cresce i figli da sola",
+        "de": "Der alleinerziehende Vater / Die alleinerziehende Mutter"
       },
       "notes": {
-        "es": "Padre o madre que cría sin pareja; no implica que el otro progenitor haya fallecido."
+        "es": "Padre o madre que cría sin pareja; no implica que el otro progenitor haya fallecido.",
+        "en": "(Plural: The single fathers / The single mothers)",
+        "pt": "(Plural: Os pais solo / As mães solo)",
+        "fr": "(Plural: Les pères qui élèvent seuls leurs enfants / Les mères qui élèvent seules leurs enfants)",
+        "it": "(Plural: I padri che crescono i figli da soli / Le madri che crescono i figli da sole)",
+        "de": "(Plural: Die alleinerziehenden Väter / Die alleinerziehenden Mütter)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My sister is a single mother.",
+          "es": "Mi hermana es mamá y cría sin pareja."
+        },
+        "pt": {
+          "text": "Minha irmã é mãe solo.",
+          "es": "Mi hermana es mamá y cría sin pareja."
+        },
+        "fr": {
+          "text": "Ma sœur élève seule ses enfants.",
+          "es": "Mi hermana cría a sus hijos sin pareja."
+        },
+        "it": {
+          "text": "Mia sorella cresce i figli da sola.",
+          "es": "Mi hermana cría a sus hijos sin pareja."
+        },
+        "de": {
+          "text": "Meine Schwester ist alleinerziehende Mutter.",
+          "es": "Mi hermana es mamá y cría sin pareja."
+        }
+      }
     },
     {
       "id": "fa51",
-      "es": "Familia de acogida",
+      "es": "La familia de acogida",
       "translations": {
-        "en": "Foster family",
-        "pt": "Família acolhedora",
-        "fr": "Famille d'accueil",
-        "it": "Famiglia affidataria"
+        "en": "The foster family",
+        "pt": "A família acolhedora",
+        "fr": "La famille d'accueil",
+        "it": "La famiglia affidataria",
+        "de": "Die Pflegefamilie"
       },
       "notes": {
-        "es": "Acogimiento de un menor; no es lo mismo que adopción, que establece otro vínculo legal."
+        "es": "Acogimiento de un menor; no es lo mismo que adopción, que establece otro vínculo legal.",
+        "en": "(Plural: The foster families)",
+        "pt": "(Plural: As famílias acolhedoras)",
+        "fr": "(Plural: Les familles d'accueil)",
+        "it": "(Plural: Le famiglie affidatarie)",
+        "de": "(Plural: Die Pflegefamilien)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The child lives with a foster family.",
+          "es": "El niño vive con una familia de acogida."
+        },
+        "pt": {
+          "text": "O menino mora com uma família acolhedora.",
+          "es": "El niño vive con una familia de acogida."
+        },
+        "fr": {
+          "text": "L'enfant vit dans une famille d'accueil.",
+          "es": "El niño vive con una familia de acogida."
+        },
+        "it": {
+          "text": "Il bambino vive con una famiglia affidataria.",
+          "es": "El niño vive con una familia de acogida."
+        },
+        "de": {
+          "text": "Das Kind lebt bei einer Pflegefamilie.",
+          "es": "El niño vive con una familia de acogida."
+        }
+      }
     },
     {
       "id": "fa52",
-      "es": "Tutor/a legal",
+      "es": "El tutor legal",
       "translations": {
-        "en": "Legal guardian",
-        "pt": "Tutor legal / Tutora legal",
-        "fr": "Tuteur légal / Tutrice légale",
-        "it": "Tutore legale / Tutrice legale"
+        "en": "The legal guardian",
+        "pt": "O tutor legal",
+        "fr": "Le tuteur légal",
+        "it": "Il tutore legale",
+        "de": "Der gesetzliche Vormund"
       },
       "notes": {
-        "es": "Persona autorizada legalmente para representar o proteger a un menor."
+        "es": "Puede decirse «la tutora legal» para una mujer.",
+        "pt": "(Plural: Os tutores legais / As tutoras legais) Femenino: A tutora legal.",
+        "fr": "(Plural: Les tuteurs légaux / Les tutrices légales) Femenino: La tutrice légale.",
+        "it": "(Plural: I tutori legali / Le tutrici legali) Femenino: La tutrice legale.",
+        "de": "(Plural: Die gesetzlichen Vormünder / Die gesetzlichen Vormundinnen) Femenino: Die gesetzliche Vormundin.",
+        "en": "(Plural: The legal guardians)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "His uncle is his legal guardian.",
+          "es": "Su tío es su tutor legal."
+        },
+        "pt": {
+          "text": "O tio dele é o tutor legal dele.",
+          "es": "Su tío es su tutor legal."
+        },
+        "fr": {
+          "text": "Son oncle est son tuteur légal.",
+          "es": "Su tío es su tutor legal."
+        },
+        "it": {
+          "text": "Suo zio è il suo tutore legale.",
+          "es": "Su tío es su tutor legal."
+        },
+        "de": {
+          "text": "Sein Onkel ist sein gesetzlicher Vormund.",
+          "es": "Su tío es su tutor legal."
+        }
+      }
     },
     {
       "id": "fa53",
-      "es": "Padrino / Madrina",
+      "es": "El padrino / La madrina",
       "translations": {
-        "en": "Godfather / Godmother",
-        "pt": "Padrinho / Madrinha",
-        "fr": "Parrain / Marraine",
-        "it": "Padrino / Madrina"
+        "en": "The godfather / The godmother",
+        "pt": "O padrinho / A madrinha",
+        "fr": "Le parrain / La marraine",
+        "it": "Il padrino / La madrina",
+        "de": "Der Patenonkel / Die Patentante"
       },
       "notes": {
-        "es": "Persona que apadrina a un niño/a, por ejemplo en un bautizo; no es aquí «padrino de boda»."
+        "es": "Persona que apadrina a un niño/a, por ejemplo en un bautizo; no es aquí «padrino de boda».",
+        "en": "(Plural: The godfathers / The godmothers)",
+        "pt": "(Plural: Os padrinhos / As madrinhas)",
+        "fr": "(Plural: Les parrains / Les marraines)",
+        "it": "(Plural: I padrini / Le madrine)",
+        "de": "(Plural: Die Patenonkel / Die Patentanten)"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My godmother came to my baptism.",
+          "es": "Mi madrina vino a mi bautizo."
+        },
+        "pt": {
+          "text": "Minha madrinha veio ao meu batizado.",
+          "es": "Mi madrina vino a mi bautizo."
+        },
+        "fr": {
+          "text": "Ma marraine est venue à mon baptême.",
+          "es": "Mi madrina vino a mi bautizo."
+        },
+        "it": {
+          "text": "La mia madrina è venuta al mio battesimo.",
+          "es": "Mi madrina vino a mi bautizo."
+        },
+        "de": {
+          "text": "Meine Patentante war bei meiner Taufe.",
+          "es": "Mi madrina vino a mi bautizo."
+        }
+      }
     },
     {
       "id": "fa54",
-      "es": "Ahijado/a",
+      "es": "El ahijado / La ahijada",
       "translations": {
-        "en": "Godson / Goddaughter",
-        "pt": "Afilhado / Afilhada",
-        "fr": "Filleul / Filleule",
-        "it": "Figlioccio / Figlioccia"
+        "en": "The godson / The goddaughter",
+        "pt": "O afilhado / A afilhada",
+        "fr": "Le filleul / La filleule",
+        "it": "Il figlioccio / La figlioccia",
+        "de": "Der Patensohn / Die Patentochter"
       },
-      "image_url": ""
-    },
-    {
-      "id": "fa55",
-      "es": "Amigo/a",
-      "translations": {
-        "en": "Friend",
-        "pt": "Amigo / Amiga",
-        "fr": "Ami / Amie",
-        "it": "Amico / Amica"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa56",
-      "es": "Mejor amigo/a",
-      "translations": {
-        "en": "Best friend",
-        "pt": "Melhor amigo / Melhor amiga",
-        "fr": "Meilleur ami / Meilleure amie",
-        "it": "Migliore amico / Migliore amica"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa57",
-      "es": "Amistad",
-      "translations": {
-        "en": "Friendship",
-        "pt": "Amizade",
-        "fr": "Amitié",
-        "it": "Amicizia"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa58",
-      "es": "Conocido/a",
-      "translations": {
-        "en": "Acquaintance",
-        "pt": "Conhecido / Conhecida",
-        "fr": "Connaissance",
-        "it": "Conoscente"
-      },
+      "image_url": "",
       "notes": {
-        "es": "Persona a la que conoces, pero que no necesariamente consideras amiga."
+        "en": "(Plural: The godsons / The goddaughters)",
+        "pt": "(Plural: Os afilhados / As afilhadas)",
+        "fr": "(Plural: Les filleuls / Les filleules)",
+        "it": "(Plural: I figliocci / Le figliocce)",
+        "de": "(Plural: Die Patensöhne / Die Patentöchter)"
       },
-      "image_url": ""
-    },
-    {
-      "id": "fa59",
-      "es": "Vecino/a",
-      "translations": {
-        "en": "Neighbor",
-        "pt": "Vizinho / Vizinha",
-        "fr": "Voisin / Voisine",
-        "it": "Vicino / Vicina"
-      },
-      "notes": {
-        "it": "Vicino / vicina también puede significar «cercano/a» como adjetivo; aquí es una persona vecina."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa60",
-      "es": "Compañero/a de clase",
-      "translations": {
-        "en": "Classmate",
-        "pt": "Colega de turma / Colega de classe",
-        "fr": "Camarade de classe",
-        "it": "Compagno di classe / Compagna di classe"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa61",
-      "es": "Compañero/a de vivienda",
-      "translations": {
-        "en": "Roommate / Housemate",
-        "pt": "Colega de apartamento / Colega de casa",
-        "fr": "Colocataire",
-        "it": "Coinquilino / Coinquilina"
-      },
-      "notes": {
-        "es": "Persona con la que compartes vivienda, aunque no necesariamente la misma habitación.",
-        "en": "En EE. UU., roommate también se usa para compartir vivienda sin compartir cuarto; housemate suele compartir casa."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa62",
-      "es": "Relación de pareja",
-      "translations": {
-        "en": "Romantic relationship",
-        "pt": "Relacionamento amoroso",
-        "fr": "Relation amoureuse",
-        "it": "Relazione sentimentale"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa63",
-      "es": "Amor (sentimiento)",
-      "translations": {
-        "en": "Love",
-        "pt": "Amor",
-        "fr": "Amour",
-        "it": "Amore"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa64",
-      "es": "Cariño / Afecto",
-      "translations": {
-        "en": "Affection",
-        "pt": "Carinho / Afeto",
-        "fr": "Affection / Tendresse",
-        "it": "Affetto"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa65",
-      "es": "Boda / Matrimonio",
-      "translations": {
-        "en": "Wedding / Marriage",
-        "pt": "Casamento",
-        "fr": "Mariage",
-        "it": "Matrimonio"
-      },
-      "notes": {
-        "es": "Boda = ceremonia o celebración; matrimonio = unión o vínculo de casados.",
-        "pt": "Casamento se usa tanto para la boda como para el vínculo matrimonial.",
-        "fr": "Mariage puede referirse a la ceremonia o al vínculo matrimonial.",
-        "it": "Matrimonio se refiere tanto a la boda como al vínculo matrimonial."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa66",
-      "es": "Aniversario de boda",
-      "translations": {
-        "en": "Wedding anniversary",
-        "pt": "Aniversário de casamento",
-        "fr": "Anniversaire de mariage",
-        "it": "Anniversario di matrimonio"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa67",
-      "es": "Casarse",
-      "translations": {
-        "en": "To get married",
-        "pt": "Casar-se",
-        "fr": "Se marier",
-        "it": "Sposarsi"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa68",
-      "es": "Separarse",
-      "translations": {
-        "en": "To separate / To split up",
-        "pt": "Separar-se",
-        "fr": "Se séparer",
-        "it": "Separarsi"
-      },
-      "notes": {
-        "es": "La separación no implica necesariamente un divorcio legal.",
-        "en": "To split up suele referirse al fin de una relación; to separate es habitual al hablar de un matrimonio."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa69",
-      "es": "Divorciarse",
-      "translations": {
-        "en": "To get divorced",
-        "pt": "Divorciar-se",
-        "fr": "Divorcer",
-        "it": "Divorziare"
-      },
-      "image_url": ""
+      "examples": {
+        "en": {
+          "text": "My godson turns ten today.",
+          "es": "Mi ahijado cumple diez años hoy."
+        },
+        "pt": {
+          "text": "Meu afilhado faz dez anos hoje.",
+          "es": "Mi ahijado cumple diez años hoy."
+        },
+        "fr": {
+          "text": "Mon filleul a dix ans aujourd'hui.",
+          "es": "Mi ahijado cumple diez años hoy."
+        },
+        "it": {
+          "text": "Il mio figlioccio compie dieci anni oggi.",
+          "es": "Mi ahijado cumple diez años hoy."
+        },
+        "de": {
+          "text": "Mein Patensohn wird heute zehn.",
+          "es": "Mi ahijado cumple diez años hoy."
+        }
+      }
     },
     {
       "id": "fa70",
-      "es": "Adoptar (a un hijo/a)",
+      "es": "Adoptar a un niño",
       "translations": {
         "en": "To adopt a child",
-        "pt": "Adotar um filho ou uma filha",
+        "pt": "Adotar uma criança",
         "fr": "Adopter un enfant",
-        "it": "Adottare un figlio o una figlia"
+        "it": "Adottare un bambino",
+        "de": "Ein Kind adoptieren"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Ana and Luis want to adopt a child.",
+          "es": "Ana y Luis quieren adoptar a un niño."
+        },
+        "pt": {
+          "text": "Ana e Luis querem adotar uma criança.",
+          "es": "Ana y Luis quieren adoptar a un niño."
+        },
+        "fr": {
+          "text": "Ana et Luis veulent adopter un enfant.",
+          "es": "Ana y Luis quieren adoptar a un niño."
+        },
+        "it": {
+          "text": "Ana e Luis vogliono adottare un bambino.",
+          "es": "Ana y Luis quieren adoptar a un niño."
+        },
+        "de": {
+          "text": "Ana und Luis möchten ein Kind adoptieren.",
+          "es": "Ana y Luis quieren adoptar a un niño."
+        }
+      },
+      "notes": {
+        "es": "«Un niño» se usa aquí por una persona menor de edad, sin restringir la adopción por género."
+      }
     },
     {
       "id": "fa71",
-      "es": "Criar (a un hijo/a)",
+      "es": "Criar a un hijo",
       "translations": {
         "en": "To raise a child",
-        "pt": "Criar um filho ou uma filha",
+        "pt": "Criar um filho",
         "fr": "Élever un enfant",
-        "it": "Crescere un figlio o una figlia"
+        "it": "Crescere un figlio",
+        "de": "Ein Kind großziehen"
       },
-      "image_url": ""
-    },
-    {
-      "id": "fa72",
-      "es": "Cuidar (a alguien)",
-      "translations": {
-        "en": "To take care of someone / To look after someone",
-        "pt": "Cuidar de alguém",
-        "fr": "S'occuper de quelqu'un / Prendre soin de quelqu'un",
-        "it": "Prendersi cura di qualcuno"
-      },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "They raised their son in a small town.",
+          "es": "Criaron a su hijo en un pueblo pequeño."
+        },
+        "pt": {
+          "text": "Eles criaram o filho numa cidade pequena.",
+          "es": "Criaron a su hijo en un pueblo pequeño."
+        },
+        "fr": {
+          "text": "Ils ont élevé leur fils dans une petite ville.",
+          "es": "Criaron a su hijo en un pueblo pequeño."
+        },
+        "it": {
+          "text": "Hanno cresciuto il loro figlio in un paese piccolo.",
+          "es": "Criaron a su hijo en un pueblo pequeño."
+        },
+        "de": {
+          "text": "Sie haben ihren Sohn in einer kleinen Stadt großgezogen.",
+          "es": "Criaron a su hijo en un pueblo pequeño."
+        }
+      }
     },
     {
       "id": "fa73",
-      "es": "¿Tienes hermanos/as? / ¿Tiene hermanos/as?",
+      "es": "¿Tienes hermanos? / ¿Tiene hermanos?",
       "translations": {
-        "en": "Do you have any siblings? / Do you have any brothers or sisters?",
-        "pt": "Você tem irmãos ou irmãs?",
+        "en": "Do you have any brothers or sisters?",
+        "pt": "Você tem irmãos?",
         "fr": "Tu as des frères et sœurs ? / Avez-vous des frères et sœurs ?",
-        "it": "Hai fratelli o sorelle? / Ha fratelli o sorelle?"
+        "it": "Hai fratelli o sorelle? / Ha fratelli o sorelle?",
+        "de": "Hast du Geschwister? / Haben Sie Geschwister?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es habitual en Brasil; no equivale necesariamente al «usted» mexicano."
+      }
     },
     {
       "id": "fa74",
@@ -965,29 +1979,32 @@
         "en": "I have a brother and a sister.",
         "pt": "Tenho um irmão e uma irmã.",
         "fr": "J'ai un frère et une sœur.",
-        "it": "Ho un fratello e una sorella."
+        "it": "Ho un fratello e una sorella.",
+        "de": "Ich habe einen Bruder und eine Schwester."
       },
       "image_url": ""
     },
     {
       "id": "fa75",
-      "es": "Soy hijo/a único/a.",
+      "es": "Soy hijo único. / Soy hija única.",
       "translations": {
         "en": "I'm an only child.",
         "pt": "Sou filho único. / Sou filha única.",
         "fr": "Je suis fils unique. / Je suis fille unique.",
-        "it": "Sono figlio unico. / Sono figlia unica."
+        "it": "Sono figlio unico. / Sono figlia unica.",
+        "de": "Ich bin Einzelkind."
       },
       "image_url": ""
     },
     {
       "id": "fa76",
-      "es": "¿Tienes hijos/as? / ¿Tiene hijos/as?",
+      "es": "¿Tienes hijos? / ¿Tiene hijos?",
       "translations": {
-        "en": "Do you have any children? / Do you have any kids?",
+        "en": "Do you have any children?",
         "pt": "Você tem filhos?",
         "fr": "Tu as des enfants ? / Avez-vous des enfants ?",
-        "it": "Hai figli? / Ha figli?"
+        "it": "Hai figli? / Ha figli?",
+        "de": "Hast du Kinder? / Haben Sie Kinder?"
       },
       "image_url": ""
     },
@@ -998,18 +2015,20 @@
         "en": "I have two children: a boy and a girl.",
         "pt": "Tenho dois filhos: um menino e uma menina.",
         "fr": "J'ai deux enfants : un garçon et une fille.",
-        "it": "Ho due figli: un maschio e una femmina."
+        "it": "Ho due figli: un maschio e una femmina.",
+        "de": "Ich habe zwei Kinder: einen Jungen und ein Mädchen."
       },
       "image_url": ""
     },
     {
       "id": "fa78",
-      "es": "No tengo hijos/as.",
+      "es": "No tengo hijos.",
       "translations": {
         "en": "I don't have any children.",
         "pt": "Não tenho filhos.",
         "fr": "Je n'ai pas d'enfants.",
-        "it": "Non ho figli."
+        "it": "Non ho figli.",
+        "de": "Ich habe keine Kinder."
       },
       "image_url": ""
     },
@@ -1019,8 +2038,9 @@
       "translations": {
         "en": "How many people are in your family?",
         "pt": "Quantas pessoas há na sua família?",
-        "fr": "Il y a combien de personnes dans ta famille ? / Combien de personnes y a-t-il dans votre famille ?",
-        "it": "Quante persone ci sono nella tua famiglia? / Quante persone ci sono nella sua famiglia?"
+        "fr": "Il y a combien de personnes dans ta famille ? / Il y a combien de personnes dans votre famille ?",
+        "it": "Quante persone ci sono nella tua famiglia? / Quante persone ci sono nella sua famiglia?",
+        "de": "Wie viele Personen sind in deiner Familie? / Wie viele Personen sind in Ihrer Familie?"
       },
       "image_url": ""
     },
@@ -1031,18 +2051,20 @@
         "en": "There are five people in my family.",
         "pt": "Somos cinco na minha família.",
         "fr": "Nous sommes cinq dans ma famille.",
-        "it": "Siamo in cinque in famiglia."
+        "it": "Siamo in cinque in famiglia.",
+        "de": "Wir sind zu fünft in meiner Familie."
       },
       "image_url": ""
     },
     {
       "id": "fa81",
-      "es": "Mi familia es grande / Mi familia es pequeña.",
+      "es": "Mi familia es grande. / Mi familia es pequeña.",
       "translations": {
-        "en": "I have a large family / I have a small family.",
-        "pt": "Minha família é grande / Minha família é pequena.",
-        "fr": "J'ai une grande famille / J'ai une petite famille.",
-        "it": "Ho una famiglia numerosa / Ho una famiglia piccola."
+        "en": "I have a large family. / I have a small family.",
+        "pt": "Minha família é grande. / Minha família é pequena.",
+        "fr": "J'ai une grande famille. / J'ai une petite famille.",
+        "it": "Ho una famiglia numerosa. / Ho una famiglia piccola.",
+        "de": "Meine Familie ist groß. / Meine Familie ist klein."
       },
       "image_url": ""
     },
@@ -1053,29 +2075,20 @@
         "en": "How are you related?",
         "pt": "Qual é o parentesco entre vocês?",
         "fr": "Quel est votre lien de parenté ?",
-        "it": "Che rapporto di parentela c'è tra voi?"
+        "it": "Che parentela c'è tra voi?",
+        "de": "Wie seid ihr miteinander verwandt?"
       },
       "image_url": ""
     },
     {
       "id": "fa83",
-      "es": "Somos primos/as.",
+      "es": "Somos primos. / Somos primas.",
       "translations": {
         "en": "We're cousins.",
         "pt": "Somos primos. / Somos primas.",
         "fr": "Nous sommes cousins. / Nous sommes cousines.",
-        "it": "Siamo cugini. / Siamo cugine."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa84",
-      "es": "No somos parientes; somos amigos/as.",
-      "translations": {
-        "en": "We're not related; we're friends.",
-        "pt": "Não somos parentes; somos amigos. / Não somos parentes; somos amigas.",
-        "fr": "Nous ne sommes pas de la même famille ; nous sommes amis. / Nous ne sommes pas de la même famille ; nous sommes amies.",
-        "it": "Non siamo parenti; siamo amici. / Non siamo parenti; siamo amiche."
+        "it": "Siamo cugini. / Siamo cugine.",
+        "de": "Wir sind Cousins. / Wir sind Cousinen."
       },
       "image_url": ""
     },
@@ -1086,18 +2099,8 @@
         "en": "He's my sister's son.",
         "pt": "Ele é filho da minha irmã.",
         "fr": "C'est le fils de ma sœur.",
-        "it": "È il figlio di mia sorella."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa86",
-      "es": "¿Es tu hermano o tu novio? / ¿Es su hermano o su novio?",
-      "translations": {
-        "en": "Is he your brother or your boyfriend?",
-        "pt": "Ele é seu irmão ou seu namorado?",
-        "fr": "C'est ton frère ou ton petit ami ? / C'est votre frère ou votre petit ami ?",
-        "it": "È tuo fratello o il tuo fidanzato? / È suo fratello o il suo fidanzato?"
+        "it": "È il figlio di mia sorella.",
+        "de": "Er ist der Sohn meiner Schwester."
       },
       "image_url": ""
     },
@@ -1108,53 +2111,61 @@
         "en": "We have the same mother but different fathers.",
         "pt": "Temos a mesma mãe, mas pais diferentes.",
         "fr": "Nous avons la même mère, mais des pères différents.",
-        "it": "Abbiamo la stessa madre, ma padri diversi."
+        "it": "Abbiamo la stessa madre, ma padri diversi.",
+        "de": "Wir haben dieselbe Mutter, aber verschiedene Väter."
       },
       "image_url": ""
     },
     {
       "id": "fa88",
-      "es": "Es el hijo de mi padrastro; no tenemos padres en común.",
+      "es": "Es el hijo de mi padrastro; no tenemos papás en común.",
       "translations": {
-        "en": "He's my stepfather's son; we don't share a biological parent.",
+        "en": "He's my stepfather's son; we don't share a parent.",
         "pt": "Ele é filho do meu padrasto; não temos pai nem mãe em comum.",
-        "fr": "C'est le fils de mon beau-père ; nous n'avons aucun parent biologique en commun.",
-        "it": "È il figlio del mio patrigno; non abbiamo genitori biologici in comune."
+        "fr": "C'est le fils du mari de ma mère ; nous n'avons aucun parent en commun.",
+        "it": "È il figlio del mio patrigno; non abbiamo genitori in comune.",
+        "de": "Er ist der Sohn meines Stiefvaters. Wir haben keine gemeinsamen Eltern."
       },
       "image_url": ""
     },
     {
       "id": "fa89",
-      "es": "Mi hermano es mayor que yo / Mi hermana es menor que yo.",
+      "es": "Mi hermano es mayor que yo. Mi hermana es menor que yo.",
       "translations": {
-        "en": "My brother is older than me / My sister is younger than me.",
-        "pt": "Meu irmão é mais velho do que eu / Minha irmã é mais nova do que eu.",
-        "fr": "Mon frère est plus âgé que moi / Ma sœur est plus jeune que moi.",
-        "it": "Mio fratello è più grande di me / Mia sorella è più piccola di me."
+        "en": "My brother is older than me. My sister is younger than me.",
+        "pt": "Meu irmão é mais velho que eu. Minha irmã é mais nova que eu.",
+        "fr": "Mon frère est plus âgé que moi. Ma sœur est plus jeune que moi.",
+        "it": "Mio fratello è più grande di me. Mia sorella è più piccola di me.",
+        "de": "Mein Bruder ist älter als ich. Meine Schwester ist jünger als ich."
       },
       "image_url": ""
     },
     {
       "id": "fa90",
-      "es": "¿Quién es el/la mayor de los hermanos/as?",
+      "es": "¿Quién es el mayor de los hermanos? / ¿Quién es la mayor de los hermanos?",
       "translations": {
         "en": "Who's the oldest sibling?",
         "pt": "Quem é o mais velho dos irmãos? / Quem é a mais velha dos irmãos?",
         "fr": "Qui est l'aîné des enfants ? / Qui est l'aînée des enfants ?",
-        "it": "Chi è il maggiore dei fratelli? / Chi è la maggiore dei fratelli?"
+        "it": "Chi è il maggiore dei fratelli? / Chi è la maggiore dei fratelli?",
+        "de": "Wer ist von den Geschwistern am ältesten?"
       },
       "image_url": ""
     },
     {
       "id": "fa91",
-      "es": "Soy el/la menor de tres hermanos/as.",
+      "es": "Soy el menor de tres hermanos. / Soy la menor de tres hermanos.",
       "translations": {
         "en": "I'm the youngest of three siblings.",
         "pt": "Sou o mais novo de três irmãos. / Sou a mais nova de três irmãos.",
         "fr": "Je suis le plus jeune de trois enfants. / Je suis la plus jeune de trois enfants.",
-        "it": "Sono il più piccolo di tre fratelli. / Sono la più piccola di tre fratelli."
+        "it": "Sono il più piccolo di tre fratelli. / Sono la più piccola di tre fratelli.",
+        "de": "Ich bin von drei Kindern das jüngste."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "«Of three siblings» incluye a la persona que habla."
+      }
     },
     {
       "id": "fa92",
@@ -1163,7 +2174,8 @@
         "en": "There's a three-year age difference between us.",
         "pt": "Temos três anos de diferença.",
         "fr": "Nous avons trois ans de différence.",
-        "it": "Abbiamo tre anni di differenza."
+        "it": "Abbiamo tre anni di differenza.",
+        "de": "Wir sind drei Jahre auseinander."
       },
       "image_url": ""
     },
@@ -1174,7 +2186,8 @@
         "en": "My parents are divorced.",
         "pt": "Meus pais são divorciados.",
         "fr": "Mes parents sont divorcés.",
-        "it": "I miei genitori sono divorziati."
+        "it": "I miei genitori sono divorziati.",
+        "de": "Meine Eltern sind geschieden."
       },
       "image_url": ""
     },
@@ -1185,7 +2198,8 @@
         "en": "My mother remarried.",
         "pt": "Minha mãe se casou de novo.",
         "fr": "Ma mère s'est remariée.",
-        "it": "Mia madre si è risposata."
+        "it": "Mia madre si è risposata.",
+        "de": "Meine Mutter hat wieder geheiratet."
       },
       "image_url": ""
     },
@@ -1196,7 +2210,8 @@
         "en": "How's your family?",
         "pt": "Como está a sua família?",
         "fr": "Comment va ta famille ? / Comment va votre famille ?",
-        "it": "Come sta la tua famiglia? / Come sta la sua famiglia?"
+        "it": "Come sta la tua famiglia? / Come sta la sua famiglia?",
+        "de": "Wie geht es deiner Familie? / Wie geht es Ihrer Familie?"
       },
       "image_url": ""
     },
@@ -1207,237 +2222,8 @@
         "en": "Everyone is doing well.",
         "pt": "Todos estão bem.",
         "fr": "Tout le monde va bien.",
-        "it": "Stanno tutti bene."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa97",
-      "es": "¿Estás casado/a? / ¿Está casado/a?",
-      "translations": {
-        "en": "Are you married?",
-        "pt": "Você é casado? / Você é casada?",
-        "fr": "Tu es marié ? / Tu es mariée ? / Êtes-vous marié ? / Êtes-vous mariée ?",
-        "it": "Sei sposato? / Sei sposata? / È sposato? / È sposata?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa98",
-      "es": "Estoy casado/a.",
-      "translations": {
-        "en": "I'm married.",
-        "pt": "Sou casado. / Sou casada.",
-        "fr": "Je suis marié. / Je suis mariée.",
-        "it": "Sono sposato. / Sono sposata."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa99",
-      "es": "No estoy casado/a.",
-      "translations": {
-        "en": "I'm not married.",
-        "pt": "Não sou casado. / Não sou casada.",
-        "fr": "Je ne suis pas marié. / Je ne suis pas mariée.",
-        "it": "Non sono sposato. / Non sono sposata."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa100",
-      "es": "Soy soltero/a.",
-      "translations": {
-        "en": "I'm single and have never been married.",
-        "pt": "Sou solteiro e nunca me casei. / Sou solteira e nunca me casei.",
-        "fr": "Je suis célibataire et je ne me suis jamais marié. / Je suis célibataire et je ne me suis jamais mariée.",
-        "it": "Sono celibe. / Sono nubile."
-      },
-      "notes": {
-        "es": "Aquí «soltero/a» se entiende como estado civil de quien nunca se ha casado, no solo de quien está sin pareja."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa101",
-      "es": "No tengo pareja. / Estoy soltero/a.",
-      "translations": {
-        "en": "I'm single. / I'm not in a relationship.",
-        "pt": "Estou sem namorado ou namorada. / Não estou em um relacionamento.",
-        "fr": "Je suis célibataire. / Je ne suis pas en couple.",
-        "it": "Sono single. / Non ho una relazione sentimentale."
-      },
-      "notes": {
-        "es": "No tener pareja no define por sí solo el estado civil: también puede ocurrir tras un divorcio.",
-        "fr": "Célibataire se usa tanto para «sin pareja» como para el estado civil, según el contexto."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa102",
-      "es": "Tengo pareja.",
-      "translations": {
-        "en": "I'm in a relationship. / I have a partner.",
-        "pt": "Estou em um relacionamento.",
-        "fr": "Je suis en couple.",
-        "it": "Ho una relazione sentimentale."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa103",
-      "es": "Estoy separado/a.",
-      "translations": {
-        "en": "I'm separated.",
-        "pt": "Sou separado. / Sou separada.",
-        "fr": "Je suis séparé. / Je suis séparée.",
-        "it": "Sono separato. / Sono separata."
-      },
-      "notes": {
-        "es": "«Separado/a» no afirma que haya un divorcio legal."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa104",
-      "es": "Estoy divorciado/a.",
-      "translations": {
-        "en": "I'm divorced.",
-        "pt": "Sou divorciado. / Sou divorciada.",
-        "fr": "Je suis divorcé. / Je suis divorcée.",
-        "it": "Sono divorziato. / Sono divorziata."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa105",
-      "es": "Soy viudo/a.",
-      "translations": {
-        "en": "I'm a widower. / I'm a widow.",
-        "pt": "Sou viúvo. / Sou viúva.",
-        "fr": "Je suis veuf. / Je suis veuve.",
-        "it": "Sono vedovo. / Sono vedova."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa106",
-      "es": "¿Viven juntos?",
-      "translations": {
-        "en": "Do you live together?",
-        "pt": "Vocês moram juntos?",
-        "fr": "Vous vivez ensemble ?",
-        "it": "Vivete insieme?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa107",
-      "es": "Vivimos juntos/as, pero no estamos casados/as.",
-      "translations": {
-        "en": "We live together, but we're not married.",
-        "pt": "Moramos juntos, mas não somos casados. / Moramos juntas, mas não somos casadas.",
-        "fr": "Nous vivons ensemble, mais nous ne sommes pas mariés. / Nous vivons ensemble, mais nous ne sommes pas mariées.",
-        "it": "Viviamo insieme, ma non siamo sposati. / Viviamo insieme, ma non siamo sposate."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa108",
-      "es": "Llevamos dos años juntos.",
-      "translations": {
-        "en": "We've been together for two years.",
-        "pt": "Estamos juntos há dois anos.",
-        "fr": "Nous sommes ensemble depuis deux ans.",
-        "it": "Stiamo insieme da due anni."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa109",
-      "es": "¿Hace cuánto tiempo están casados?",
-      "translations": {
-        "en": "How long have you been married?",
-        "pt": "Há quanto tempo vocês estão casados?",
-        "fr": "Depuis combien de temps êtes-vous mariés ?",
-        "it": "Da quanto tempo siete sposati?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa110",
-      "es": "Llevamos cinco años casados/as.",
-      "translations": {
-        "en": "We've been married for five years.",
-        "pt": "Somos casados há cinco anos. / Somos casadas há cinco anos.",
-        "fr": "Nous sommes mariés depuis cinq ans. / Nous sommes mariées depuis cinq ans.",
-        "it": "Siamo sposati da cinque anni. / Siamo sposate da cinque anni."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa111",
-      "es": "Nos vamos a casar.",
-      "translations": {
-        "en": "We're getting married.",
-        "pt": "Vamos nos casar.",
-        "fr": "Nous allons nous marier.",
-        "it": "Ci sposiamo."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa112",
-      "es": "Nuestra boda es en junio.",
-      "translations": {
-        "en": "Our wedding is in June.",
-        "pt": "Nosso casamento é em junho.",
-        "fr": "Notre mariage est en juin.",
-        "it": "Il nostro matrimonio è a giugno."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa113",
-      "es": "Terminamos nuestra relación.",
-      "translations": {
-        "en": "We broke up.",
-        "pt": "Terminamos nosso relacionamento.",
-        "fr": "Nous nous sommes séparés.",
-        "it": "Ci siamo lasciati."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa114",
-      "es": "¿Con quién vives? / ¿Con quién vive usted?",
-      "translations": {
-        "en": "Who do you live with?",
-        "pt": "Com quem você mora?",
-        "fr": "Tu habites avec qui ? / Avec qui habitez-vous ?",
-        "it": "Con chi vivi? / Con chi vive?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa115",
-      "es": "Vivo con mis padres.",
-      "translations": {
-        "en": "I live with my parents.",
-        "pt": "Moro com meus pais.",
-        "fr": "J'habite avec mes parents.",
-        "it": "Vivo con i miei genitori."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa116",
-      "es": "Vivo solo/a.",
-      "translations": {
-        "en": "I live alone.",
-        "pt": "Moro sozinho. / Moro sozinha.",
-        "fr": "J'habite seul. / J'habite seule.",
-        "it": "Vivo da solo. / Vivo da sola."
+        "it": "Stanno tutti bene.",
+        "de": "Allen geht es gut."
       },
       "image_url": ""
     },
@@ -1448,7 +2234,8 @@
         "en": "My son doesn't live with us anymore.",
         "pt": "Meu filho não mora mais conosco.",
         "fr": "Mon fils n'habite plus avec nous.",
-        "it": "Mio figlio non vive più con noi."
+        "it": "Mio figlio non vive più con noi.",
+        "de": "Mein Sohn wohnt nicht mehr bei uns."
       },
       "image_url": ""
     },
@@ -1459,7 +2246,8 @@
         "en": "My children are adults now.",
         "pt": "Meus filhos já são adultos.",
         "fr": "Mes enfants sont adultes maintenant.",
-        "it": "I miei figli sono già adulti."
+        "it": "I miei figli sono già adulti.",
+        "de": "Meine Kinder sind schon erwachsen."
       },
       "image_url": ""
     },
@@ -1470,18 +2258,8 @@
         "en": "My family lives far away.",
         "pt": "Minha família mora longe.",
         "fr": "Ma famille habite loin.",
-        "it": "La mia famiglia abita lontano."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa120",
-      "es": "Nos vemos los fines de semana.",
-      "translations": {
-        "en": "We see each other on weekends.",
-        "pt": "Nós nos vemos nos fins de semana.",
-        "fr": "Nous nous voyons le week-end.",
-        "it": "Ci vediamo nei fine settimana."
+        "it": "La mia famiglia abita lontano.",
+        "de": "Meine Familie wohnt weit weg."
       },
       "image_url": ""
     },
@@ -1492,7 +2270,8 @@
         "en": "We're going to visit my grandparents.",
         "pt": "Vamos visitar meus avós.",
         "fr": "Nous allons rendre visite à mes grands-parents.",
-        "it": "Andiamo a trovare i miei nonni."
+        "it": "Andiamo a trovare i miei nonni.",
+        "de": "Wir gehen meine Großeltern besuchen."
       },
       "image_url": ""
     },
@@ -1503,20 +2282,25 @@
         "en": "We have a family gathering today.",
         "pt": "Hoje temos um encontro de família.",
         "fr": "Aujourd'hui, nous avons une réunion de famille.",
-        "it": "Oggi abbiamo una riunione di famiglia."
+        "it": "Oggi abbiamo una riunione di famiglia.",
+        "de": "Heute haben wir ein Familientreffen."
       },
       "image_url": ""
     },
     {
       "id": "fa123",
-      "es": "Extraño a mi familia. / Echo de menos a mi familia.",
+      "es": "Extraño a mi familia.",
       "translations": {
         "en": "I miss my family.",
         "pt": "Sinto saudade da minha família.",
         "fr": "Ma famille me manque.",
-        "it": "Mi manca la mia famiglia."
+        "it": "Mi manca la mia famiglia.",
+        "de": "Ich vermisse meine Familie."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "En México se prefiere «extrañar»; en España es común «echar de menos»."
+      }
     },
     {
       "id": "fa124",
@@ -1525,62 +2309,8 @@
         "en": "My family is very close.",
         "pt": "Minha família é muito unida.",
         "fr": "Ma famille est très unie.",
-        "it": "La mia famiglia è molto unita."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa125",
-      "es": "Me llevo bien con mi hermana.",
-      "translations": {
-        "en": "I get along well with my sister.",
-        "pt": "Eu me dou bem com minha irmã.",
-        "fr": "Je m'entends bien avec ma sœur.",
-        "it": "Vado d'accordo con mia sorella."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa126",
-      "es": "Nos ayudamos mucho.",
-      "translations": {
-        "en": "We help each other a lot.",
-        "pt": "Nós nos ajudamos muito.",
-        "fr": "Nous nous aidons beaucoup.",
-        "it": "Ci aiutiamo molto."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa127",
-      "es": "Cuido a mis hijos/as.",
-      "translations": {
-        "en": "I take care of my children.",
-        "pt": "Cuido dos meus filhos.",
-        "fr": "Je m'occupe de mes enfants.",
-        "it": "Mi prendo cura dei miei figli."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa128",
-      "es": "¿Quién cuida a los niños?",
-      "translations": {
-        "en": "Who takes care of the children?",
-        "pt": "Quem cuida das crianças?",
-        "fr": "Qui s'occupe des enfants ?",
-        "it": "Chi si prende cura dei bambini?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "fa129",
-      "es": "Comparto el cuidado de mis hijos con mi expareja.",
-      "translations": {
-        "en": "My ex and I both look after our children.",
-        "pt": "Divido os cuidados dos meus filhos com meu ex. / Divido os cuidados dos meus filhos com minha ex.",
-        "fr": "Mon ex et moi nous occupons tous les deux de nos enfants. / Mon ex et moi nous occupons toutes les deux de nos enfants.",
-        "it": "Io e il mio ex ci dividiamo la cura dei nostri figli. / Io e la mia ex ci dividiamo la cura dei nostri figli."
+        "it": "La mia famiglia è molto unita.",
+        "de": "Meine Familie hält fest zusammen."
       },
       "image_url": ""
     },
@@ -1591,7 +2321,8 @@
         "en": "I'm pregnant.",
         "pt": "Estou grávida.",
         "fr": "Je suis enceinte.",
-        "it": "Sono incinta."
+        "it": "Sono incinta.",
+        "de": "Ich bin schwanger."
       },
       "image_url": ""
     },
@@ -1602,7 +2333,8 @@
         "en": "We're expecting a baby.",
         "pt": "Estamos esperando um bebê.",
         "fr": "Nous attendons un bébé.",
-        "it": "Aspettiamo un bambino."
+        "it": "Aspettiamo un bambino.",
+        "de": "Wir erwarten ein Baby."
       },
       "image_url": ""
     },
@@ -1613,7 +2345,8 @@
         "en": "My grandfather passed away.",
         "pt": "Meu avô faleceu.",
         "fr": "Mon grand-père est décédé.",
-        "it": "Mio nonno è venuto a mancare."
+        "it": "Mio nonno è venuto a mancare.",
+        "de": "Mein Großvater ist verstorben."
       },
       "image_url": ""
     },
@@ -1624,18 +2357,20 @@
         "en": "Can you show me a photo of your family?",
         "pt": "Pode me mostrar uma foto da sua família?",
         "fr": "Tu peux me montrer une photo de ta famille ? / Pouvez-vous me montrer une photo de votre famille ?",
-        "it": "Mi fai vedere una foto della tua famiglia? / Mi fa vedere una foto della sua famiglia?"
+        "it": "Mi fai vedere una foto della tua famiglia? / Mi fa vedere una foto della sua famiglia?",
+        "de": "Kannst du mir ein Foto von deiner Familie zeigen? / Können Sie mir ein Foto von Ihrer Familie zeigen?"
       },
       "image_url": ""
     },
     {
       "id": "fa134",
-      "es": "Esta es una foto de cuando éramos niños/as.",
+      "es": "Esta es una foto de nuestra infancia.",
       "translations": {
-        "en": "This is a photo of when we were children.",
-        "pt": "Esta é uma foto de quando éramos crianças.",
-        "fr": "C'est une photo de quand nous étions enfants.",
-        "it": "Questa è una foto di quando eravamo bambini."
+        "en": "This is a photo from our childhood.",
+        "pt": "Esta é uma foto da nossa infância.",
+        "fr": "C'est une photo de notre enfance.",
+        "it": "Questa è una foto della nostra infanzia.",
+        "de": "Das ist ein Foto aus unserer Kindheit."
       },
       "image_url": ""
     }
