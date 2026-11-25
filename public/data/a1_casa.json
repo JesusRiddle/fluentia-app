@@ -101,7 +101,7 @@
       "notes": {
         "en": "(Plural: The apartment buildings)",
         "fr": "(Plural: Les immeubles d'habitation)",
-        "it": "(Plural: I condomini)",
+        "it": "(Plural: I condomini) Aquí se refiere al edificio con varios departamentos, no a la forma de propiedad.",
         "pt": "(Plural: Os prédios de apartamentos)",
         "de": "(Plural: Die Mehrfamilienhäuser)"
       },
@@ -440,8 +440,8 @@
           "es": "El estudio tiene espacio para dos escritorios."
         },
         "fr": {
-          "text": "Le bureau à domicile a de la place pour deux bureaux.",
-          "es": "El estudio tiene espacio para dos escritorios."
+          "text": "Je travaille dans mon bureau à domicile.",
+          "es": "Trabajo en mi estudio."
         },
         "it": {
           "text": "Lo studio ha spazio per due scrivanie.",
@@ -1036,6 +1036,47 @@
       }
     },
     {
+      "id": "ca230",
+      "es": "El tapete de entrada",
+      "translations": {
+        "en": "The doormat",
+        "fr": "Le paillasson",
+        "it": "Lo zerbino",
+        "pt": "O capacho",
+        "de": "Die Fußmatte"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The doormats)",
+        "fr": "(Plural: Les paillassons)",
+        "it": "(Plural: Gli zerbini)",
+        "pt": "(Plural: Os capachos)",
+        "de": "(Plural: Die Fußmatten)"
+      },
+      "examples": {
+        "en": {
+          "text": "The doormat has dirt on it.",
+          "es": "El tapete de entrada tiene tierra encima."
+        },
+        "fr": {
+          "text": "Le paillasson est couvert de terre.",
+          "es": "El tapete de entrada está cubierto de tierra."
+        },
+        "it": {
+          "text": "Lo zerbino è pieno di terra.",
+          "es": "El tapete de entrada está lleno de tierra."
+        },
+        "pt": {
+          "text": "O capacho está cheio de terra.",
+          "es": "El tapete de entrada está lleno de tierra."
+        },
+        "de": {
+          "text": "Die Fußmatte ist voller Erde.",
+          "es": "El tapete de entrada está lleno de tierra."
+        }
+      }
+    },
+    {
       "id": "ca26",
       "es": "La puerta",
       "translations": {
@@ -1114,6 +1155,47 @@
         "de": {
           "text": "Das Fenster lässt frische Luft herein.",
           "es": "La ventana deja entrar el aire fresco."
+        }
+      }
+    },
+    {
+      "id": "ca232",
+      "es": "El mosquitero",
+      "translations": {
+        "en": "The window screen",
+        "fr": "La moustiquaire",
+        "it": "La zanzariera",
+        "pt": "A tela mosquiteira",
+        "de": "Das Fliegengitter"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The window screens)",
+        "fr": "(Plural: Les moustiquaires) Aquí es la malla fija de la ventana; también puede designar un mosquitero de cama.",
+        "it": "(Plural: Le zanzariere)",
+        "pt": "(Plural: As telas mosquiteiras)",
+        "de": "(Plural: Die Fliegengitter)"
+      },
+      "examples": {
+        "en": {
+          "text": "The window screen keeps mosquitoes out.",
+          "es": "El mosquitero no deja entrar a los mosquitos."
+        },
+        "fr": {
+          "text": "La moustiquaire empêche les moustiques d'entrer.",
+          "es": "El mosquitero no deja entrar a los mosquitos."
+        },
+        "it": {
+          "text": "La zanzariera non fa entrare le zanzare.",
+          "es": "El mosquitero no deja entrar a los mosquitos."
+        },
+        "pt": {
+          "text": "A tela mosquiteira não deixa os mosquitos entrarem.",
+          "es": "El mosquitero no deja entrar a los mosquitos."
+        },
+        "de": {
+          "text": "Das Fliegengitter hält Mücken draußen.",
+          "es": "El mosquitero no deja entrar a los mosquitos."
         }
       }
     },
@@ -1262,8 +1344,8 @@
       },
       "examples": {
         "en": {
-          "text": "The roof needs a repair.",
-          "es": "El tejado necesita una reparación."
+          "text": "The roof needs fixing.",
+          "es": "Hay que reparar el tejado."
         },
         "fr": {
           "text": "Le toit a besoin d'être réparé.",
@@ -1304,8 +1386,8 @@
       },
       "examples": {
         "en": {
-          "text": "The story has three apartments.",
-          "es": "El piso del edificio tiene tres departamentos."
+          "text": "The building has four stories.",
+          "es": "El edificio tiene cuatro pisos."
         },
         "fr": {
           "text": "L'étage compte trois appartements.",
@@ -1346,24 +1428,24 @@
       },
       "examples": {
         "en": {
-          "text": "The first floor has the main entrance.",
-          "es": "La planta baja tiene la entrada principal."
+          "text": "The main entrance is on the first floor.",
+          "es": "La entrada principal está en la planta baja."
         },
         "fr": {
-          "text": "Le rez-de-chaussée abrite l'entrée principale.",
-          "es": "La planta baja tiene la entrada principal."
+          "text": "L'entrée principale est au rez-de-chaussée.",
+          "es": "La entrada principal está en la planta baja."
         },
         "it": {
-          "text": "Il piano terra ha l'ingresso principale.",
-          "es": "La planta baja tiene la entrada principal."
+          "text": "L'ingresso principale è al piano terra.",
+          "es": "La entrada principal está en la planta baja."
         },
         "pt": {
-          "text": "O térreo tem a entrada principal.",
-          "es": "La planta baja tiene la entrada principal."
+          "text": "A entrada principal fica no térreo.",
+          "es": "La entrada principal está en la planta baja."
         },
         "de": {
-          "text": "Das Erdgeschoss hat den Haupteingang.",
-          "es": "La planta baja tiene la entrada principal."
+          "text": "Der Haupteingang ist im Erdgeschoss.",
+          "es": "La entrada principal está en la planta baja."
         }
       }
     },
@@ -1451,6 +1533,47 @@
       }
     },
     {
+      "id": "ca252",
+      "es": "El escalón",
+      "translations": {
+        "en": "The step",
+        "fr": "La marche",
+        "it": "Il gradino",
+        "pt": "O degrau",
+        "de": "Die Treppenstufe"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The steps)",
+        "fr": "(Plural: Les marches)",
+        "it": "(Plural: I gradini)",
+        "pt": "(Plural: Os degraus)",
+        "de": "(Plural: Die Treppenstufen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The step is higher than the other steps.",
+          "es": "El escalón es más alto que los demás."
+        },
+        "fr": {
+          "text": "La marche est plus haute que les autres marches.",
+          "es": "El escalón es más alto que los demás."
+        },
+        "it": {
+          "text": "Il gradino è più alto degli altri gradini.",
+          "es": "El escalón es más alto que los demás."
+        },
+        "pt": {
+          "text": "O degrau é mais alto que os outros degraus.",
+          "es": "El escalón es más alto que los demás."
+        },
+        "de": {
+          "text": "Die Treppenstufe ist höher als die anderen Stufen.",
+          "es": "El escalón es más alto que los demás."
+        }
+      }
+    },
+    {
       "id": "ca36",
       "es": "El elevador",
       "translations": {
@@ -1462,7 +1585,7 @@
       },
       "image_url": "",
       "notes": {
-        "en": "(Plural: The elevators)",
+        "en": "(Plural: The elevators) (Reino Unido: The lift)",
         "fr": "(Plural: Les ascenseurs)",
         "it": "(Plural: Gli ascensori)",
         "pt": "(Plural: Os elevadores)",
@@ -1565,8 +1688,8 @@
           "es": "El timbre se oye desde la cocina."
         },
         "pt": {
-          "text": "A campainha dá para ouvir da cozinha.",
-          "es": "El timbre se oye desde la cocina."
+          "text": "Dá para ouvir a campainha mesmo da cozinha.",
+          "es": "El timbre se oye hasta desde la cocina."
         },
         "de": {
           "text": "Die Türklingel ist von der Küche aus zu hören.",
@@ -1595,23 +1718,107 @@
       "examples": {
         "en": {
           "text": "This lock is hard to open.",
-          "es": "Esta cerradura cuesta trabajo abrirla."
+          "es": "Cuesta trabajo abrir esta cerradura."
         },
         "fr": {
           "text": "La serrure est difficile à ouvrir.",
-          "es": "La cerradura cuesta trabajo abrirla."
+          "es": "Cuesta trabajo abrir la cerradura."
         },
         "it": {
           "text": "La serratura è difficile da aprire.",
-          "es": "La cerradura cuesta trabajo abrirla."
+          "es": "Cuesta trabajo abrir la cerradura."
         },
         "pt": {
           "text": "A fechadura é difícil de abrir.",
-          "es": "La cerradura cuesta trabajo abrirla."
+          "es": "Cuesta trabajo abrir la cerradura."
         },
         "de": {
           "text": "Das Türschloss lässt sich schwer öffnen.",
-          "es": "La cerradura cuesta trabajo abrirla."
+          "es": "Cuesta trabajo abrir la cerradura."
+        }
+      }
+    },
+    {
+      "id": "ca229",
+      "es": "La llave",
+      "translations": {
+        "en": "The key",
+        "fr": "La clé",
+        "it": "La chiave",
+        "pt": "A chave",
+        "de": "Der Schlüssel"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The keys)",
+        "fr": "(Plural: Les clés)",
+        "it": "(Plural: Le chiavi)",
+        "pt": "(Plural: As chaves)",
+        "es": "(Objeto para abrir una cerradura, no llave de agua)",
+        "de": "(Plural: Die Schlüssel)"
+      },
+      "examples": {
+        "en": {
+          "text": "The key opens the garage door.",
+          "es": "La llave abre la puerta de la cochera."
+        },
+        "fr": {
+          "text": "La clé ouvre la porte du garage.",
+          "es": "La llave abre la puerta de la cochera."
+        },
+        "it": {
+          "text": "La chiave apre la porta del garage.",
+          "es": "La llave abre la puerta de la cochera."
+        },
+        "pt": {
+          "text": "A chave abre a porta da garagem.",
+          "es": "La llave abre la puerta de la cochera."
+        },
+        "de": {
+          "text": "Der Schlüssel öffnet die Garagentür.",
+          "es": "La llave abre la puerta de la cochera."
+        }
+      }
+    },
+    {
+      "id": "ca231",
+      "es": "El cerrojo",
+      "translations": {
+        "en": "The door bolt",
+        "fr": "Le verrou",
+        "it": "Il catenaccio",
+        "pt": "O ferrolho",
+        "de": "Der Türriegel"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Cerrojo adicional para asegurar puertas; su mecanismo varía.",
+        "en": "(Plural: The door bolts) «Deadbolt» designa un tipo de cerrojo cuyo pestillo se acciona sin resorte.",
+        "fr": "(Plural: Les verrous)",
+        "it": "(Plural: I catenacci)",
+        "pt": "(Plural: Os ferrolhos)",
+        "de": "(Plural: Die Türriegel)"
+      },
+      "examples": {
+        "en": {
+          "text": "The door bolt isn't working properly.",
+          "es": "El cerrojo no funciona bien."
+        },
+        "fr": {
+          "text": "Le verrou ne fonctionne pas bien.",
+          "es": "El cerrojo no funciona bien."
+        },
+        "it": {
+          "text": "Il catenaccio non funziona bene.",
+          "es": "El cerrojo no funciona bien."
+        },
+        "pt": {
+          "text": "O ferrolho não funciona direito.",
+          "es": "El cerrojo no funciona bien."
+        },
+        "de": {
+          "text": "Der Türriegel funktioniert nicht richtig.",
+          "es": "El cerrojo no funciona bien."
         }
       }
     },
@@ -1635,8 +1842,8 @@
       },
       "examples": {
         "en": {
-          "text": "The door handle moves around a little.",
-          "es": "La manija se mueve un poco."
+          "text": "The door handle is loose.",
+          "es": "La manija está floja."
         },
         "fr": {
           "text": "La poignée de porte bouge un peu.",
@@ -1668,7 +1875,7 @@
       },
       "image_url": "",
       "notes": {
-        "en": "(Plural: The electrical outlets)",
+        "en": "(Plural: The electrical outlets) (Reino Unido: The socket)",
         "fr": "(Plural: Les prises de courant)",
         "it": "(Plural: Le prese elettriche)",
         "pt": "(Plural: As tomadas)",
@@ -1754,7 +1961,7 @@
         "fr": "(Plural: Les ampoules)",
         "it": "(Plural: Le lampadine)",
         "pt": "(Plural: As lâmpadas)",
-        "de": "(Plural: Die Glühbirnen)"
+        "de": "(Plural: Die Glühbirnen) «Glühbirne» designa un foco incandescente; para uno LED se usa «die LED-Lampe»."
       },
       "examples": {
         "en": {
@@ -1791,7 +1998,7 @@
       },
       "image_url": "",
       "notes": {
-        "en": "(Plural: The faucets)",
+        "en": "(Plural: The faucets) (Reino Unido: The tap)",
         "fr": "(Plural: Les robinets)",
         "it": "(Plural: I rubinetti)",
         "pt": "(Plural: As torneiras)",
@@ -1817,6 +2024,47 @@
         "de": {
           "text": "Der Wasserhahn tropft den ganzen Tag.",
           "es": "La llave de agua gotea todo el día."
+        }
+      }
+    },
+    {
+      "id": "ca249",
+      "es": "La llave de paso",
+      "translations": {
+        "en": "The shutoff valve",
+        "fr": "Le robinet d'arrêt",
+        "it": "La valvola di intercettazione",
+        "pt": "O registro de água",
+        "de": "Das Wasserabsperrventil"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The shutoff valves)",
+        "fr": "(Plural: Les robinets d'arrêt)",
+        "it": "(Plural: Le valvole di intercettazione)",
+        "pt": "(Plural: Os registros de água)",
+        "de": "(Plural: Die Wasserabsperrventile)"
+      },
+      "examples": {
+        "en": {
+          "text": "The shutoff valve is under the bathroom sink.",
+          "es": "La llave de paso está debajo del lavabo."
+        },
+        "fr": {
+          "text": "Le robinet d'arrêt est sous le lavabo.",
+          "es": "La llave de paso está debajo del lavabo."
+        },
+        "it": {
+          "text": "La valvola di intercettazione è sotto il lavandino.",
+          "es": "La llave de paso está debajo del lavabo."
+        },
+        "pt": {
+          "text": "O registro de água fica embaixo da pia do banheiro.",
+          "es": "La llave de paso está debajo del lavabo."
+        },
+        "de": {
+          "text": "Das Wasserabsperrventil ist unter dem Waschbecken.",
+          "es": "La llave de paso está debajo del lavabo."
         }
       }
     },
@@ -1975,6 +2223,88 @@
         "de": {
           "text": "Der Kamin wärmt das Wohnzimmer.",
           "es": "La chimenea da calor a la sala."
+        }
+      }
+    },
+    {
+      "id": "ca250",
+      "es": "El extintor",
+      "translations": {
+        "en": "The fire extinguisher",
+        "fr": "L'extincteur",
+        "it": "L'estintore",
+        "pt": "O extintor de incêndio",
+        "de": "Der Feuerlöscher"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The fire extinguishers)",
+        "fr": "(Plural: Les extincteurs)",
+        "it": "(Plural: Gli estintori)",
+        "pt": "(Plural: Os extintores de incêndio)",
+        "de": "(Plural: Die Feuerlöscher)"
+      },
+      "examples": {
+        "en": {
+          "text": "The fire extinguisher is near the exit.",
+          "es": "El extintor está cerca de la salida."
+        },
+        "fr": {
+          "text": "L'extincteur est près de la sortie.",
+          "es": "El extintor está cerca de la salida."
+        },
+        "it": {
+          "text": "L'estintore è vicino all'uscita.",
+          "es": "El extintor está cerca de la salida."
+        },
+        "pt": {
+          "text": "O extintor de incêndio fica perto da saída.",
+          "es": "El extintor está cerca de la salida."
+        },
+        "de": {
+          "text": "Der Feuerlöscher ist neben dem Ausgang.",
+          "es": "El extintor está junto a la salida."
+        }
+      }
+    },
+    {
+      "id": "ca251",
+      "es": "El detector de humo",
+      "translations": {
+        "en": "The smoke detector",
+        "fr": "Le détecteur de fumée",
+        "it": "Il rilevatore di fumo",
+        "pt": "O detector de fumaça",
+        "de": "Der Rauchmelder"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The smoke detectors)",
+        "fr": "(Plural: Les détecteurs de fumée)",
+        "it": "(Plural: I rilevatori di fumo)",
+        "pt": "(Plural: Os detectores de fumaça)",
+        "de": "(Plural: Die Rauchmelder)"
+      },
+      "examples": {
+        "en": {
+          "text": "The smoke detector is on the hallway ceiling.",
+          "es": "El detector de humo está en el techo del pasillo."
+        },
+        "fr": {
+          "text": "Le détecteur de fumée est au plafond du couloir.",
+          "es": "El detector de humo está en el techo del pasillo."
+        },
+        "it": {
+          "text": "Il rilevatore di fumo è sul soffitto del corridoio.",
+          "es": "El detector de humo está en el techo del pasillo."
+        },
+        "pt": {
+          "text": "O detector de fumaça fica no teto do corredor.",
+          "es": "El detector de humo está en el techo del pasillo."
+        },
+        "de": {
+          "text": "Der Rauchmelder ist an der Decke im Flur.",
+          "es": "El detector de humo está en el techo del pasillo."
         }
       }
     },
@@ -2472,6 +2802,47 @@
       }
     },
     {
+      "id": "ca239",
+      "es": "La jaladera",
+      "translations": {
+        "en": "The drawer pull",
+        "fr": "La poignée de tiroir",
+        "it": "La maniglia del cassetto",
+        "pt": "O puxador de gaveta",
+        "de": "Der Schubladengriff"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The drawer pulls)",
+        "fr": "(Plural: Les poignées de tiroir)",
+        "it": "(Plural: Le maniglie del cassetto)",
+        "pt": "(Plural: Os puxadores de gaveta)",
+        "de": "(Plural: Die Schubladengriffe)"
+      },
+      "examples": {
+        "en": {
+          "text": "The drawer pull is loose.",
+          "es": "La jaladera está floja."
+        },
+        "fr": {
+          "text": "La poignée de tiroir bouge un peu.",
+          "es": "La jaladera se mueve un poco."
+        },
+        "it": {
+          "text": "La maniglia del cassetto si muove un po'.",
+          "es": "La jaladera se mueve un poco."
+        },
+        "pt": {
+          "text": "O puxador de gaveta se mexe um pouco.",
+          "es": "La jaladera se mueve un poco."
+        },
+        "de": {
+          "text": "Der Schubladengriff wackelt ein bisschen.",
+          "es": "La jaladera se mueve un poco."
+        }
+      }
+    },
+    {
       "id": "ca61",
       "es": "La cómoda",
       "translations": {
@@ -2550,6 +2921,47 @@
         "de": {
           "text": "Der Kleiderschrank hat Platz für alle meine Mäntel.",
           "es": "El ropero tiene espacio para todos mis abrigos."
+        }
+      }
+    },
+    {
+      "id": "ca240",
+      "es": "El gancho para ropa",
+      "translations": {
+        "en": "The clothes hanger",
+        "fr": "Le cintre",
+        "it": "La gruccia",
+        "pt": "O cabide",
+        "de": "Der Kleiderbügel"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The clothes hangers)",
+        "fr": "(Plural: Les cintres)",
+        "it": "(Plural: Le grucce)",
+        "pt": "(Plural: Os cabides)",
+        "de": "(Plural: Die Kleiderbügel)"
+      },
+      "examples": {
+        "en": {
+          "text": "The clothes hanger holds two shirts.",
+          "es": "El gancho para ropa sostiene dos camisas."
+        },
+        "fr": {
+          "text": "J'accroche une chemise à un cintre.",
+          "es": "Cuelgo una camisa en un gancho."
+        },
+        "it": {
+          "text": "La gruccia regge due camicie.",
+          "es": "El gancho para ropa sostiene dos camisas."
+        },
+        "pt": {
+          "text": "O cabide segura duas camisas.",
+          "es": "El gancho para ropa sostiene dos camisas."
+        },
+        "de": {
+          "text": "Am Kleiderbügel hängt ein Hemd.",
+          "es": "Hay una camisa colgada en el gancho."
         }
       }
     },
@@ -2647,7 +3059,7 @@
       },
       "image_url": "",
       "notes": {
-        "en": "(Plural: The single beds) En Estados Unidos, «twin bed» suele designar una cama individual de tamaño estándar.",
+        "en": "(Plural: The single beds) En Estados Unidos, «twin bed» suele designar la cama individual de tamaño estándar.",
         "fr": "(Plural: Les lits une place)",
         "it": "(Plural: I letti singoli)",
         "pt": "(Plural: As camas de solteiro)",
@@ -2771,7 +3183,7 @@
       "image_url": "",
       "notes": {
         "es": "Cuna para bebé, distinta del moisés.",
-        "en": "(Plural: The cribs)",
+        "en": "(Plural: The cribs) (Reino Unido: The cot)",
         "fr": "(Plural: Les lits de bébé)",
         "it": "(Plural: I lettini da neonato)",
         "pt": "(Plural: Os berços)",
@@ -3101,7 +3513,7 @@
       },
       "image_url": "",
       "notes": {
-        "en": "(Plural: The comforters)",
+        "en": "(Plural: The comforters) «Comforter» es un edredón relleno; «duvet» suele usarse con una funda separada.",
         "fr": "(Plural: Les couettes)",
         "it": "(Plural: I piumoni)",
         "pt": "(Plural: Os edredons)",
@@ -3109,24 +3521,65 @@
       },
       "examples": {
         "en": {
-          "text": "The comforter keeps me warm at night.",
-          "es": "El edredón me abriga por la noche."
+          "text": "The comforter is thick and warm.",
+          "es": "El edredón es grueso y abriga."
         },
         "fr": {
-          "text": "La couette me tient chaud la nuit.",
-          "es": "El edredón me abriga por la noche."
+          "text": "La couette est épaisse et tient chaud.",
+          "es": "El edredón es grueso y abriga."
         },
         "it": {
-          "text": "Il piumone mi tiene al caldo di notte.",
-          "es": "El edredón me abriga por la noche."
+          "text": "Il piumone è spesso e tiene caldo.",
+          "es": "El edredón es grueso y abriga."
         },
         "pt": {
-          "text": "O edredom me mantém aquecido à noite.",
-          "es": "El edredón me abriga por la noche."
+          "text": "O edredom é grosso e esquenta bem.",
+          "es": "El edredón es grueso y abriga."
         },
         "de": {
-          "text": "Die Bettdecke hält mich nachts warm.",
-          "es": "El edredón me abriga por la noche."
+          "text": "Die Bettdecke ist dick und warm.",
+          "es": "El edredón es grueso y abriga."
+        }
+      }
+    },
+    {
+      "id": "ca233",
+      "es": "La funda de edredón",
+      "translations": {
+        "en": "The duvet cover",
+        "fr": "La housse de couette",
+        "it": "Il copripiumino",
+        "pt": "A capa de edredom",
+        "de": "Der Bettdeckenbezug"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The duvet covers)",
+        "fr": "(Plural: Les housses de couette)",
+        "it": "(Plural: I copripiumini)",
+        "pt": "(Plural: As capas de edredom)",
+        "de": "(Plural: Die Bettdeckenbezüge)"
+      },
+      "examples": {
+        "en": {
+          "text": "The duvet cover has buttons.",
+          "es": "La funda de edredón tiene botones."
+        },
+        "fr": {
+          "text": "La housse de couette a des boutons.",
+          "es": "La funda de edredón tiene botones."
+        },
+        "it": {
+          "text": "Il copripiumino ha i bottoni.",
+          "es": "La funda de edredón tiene botones."
+        },
+        "pt": {
+          "text": "A capa de edredom tem botões.",
+          "es": "La funda de edredón tiene botones."
+        },
+        "de": {
+          "text": "Der Bettdeckenbezug hat Knöpfe.",
+          "es": "La funda de edredón tiene botones."
         }
       }
     },
@@ -3154,8 +3607,8 @@
           "es": "La colcha cubre toda la cama."
         },
         "fr": {
-          "text": "Le couvre-lit couvre tout le lit.",
-          "es": "La colcha cubre toda la cama."
+          "text": "Je mets le couvre-lit sur le lit le matin.",
+          "es": "Pongo la colcha en la cama por la mañana."
         },
         "it": {
           "text": "Il copriletto copre tutto il letto.",
@@ -3168,6 +3621,48 @@
         "de": {
           "text": "Die Tagesdecke bedeckt das ganze Bett.",
           "es": "La colcha cubre toda la cama."
+        }
+      }
+    },
+    {
+      "id": "ca234",
+      "es": "La cobija ligera",
+      "translations": {
+        "en": "The throw blanket",
+        "fr": "Le plaid",
+        "it": "Il plaid",
+        "pt": "A manta para sofá",
+        "de": "Die Sofadecke"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Cobija ligera para usar sobre el sofá o como complemento.",
+        "en": "(Plural: The throw blankets)",
+        "fr": "(Plural: Les plaids)",
+        "it": "(Plural: I plaid)",
+        "pt": "(Plural: As mantas para sofá)",
+        "de": "(Plural: Die Sofadecken) Aquí se trata de una cobija ligera para usar en el sofá."
+      },
+      "examples": {
+        "en": {
+          "text": "The throw blanket is on the couch.",
+          "es": "La cobija ligera está sobre el sofá."
+        },
+        "fr": {
+          "text": "Le plaid est sur le canapé.",
+          "es": "La cobija ligera está sobre el sofá."
+        },
+        "it": {
+          "text": "Il plaid è sul divano.",
+          "es": "La cobija ligera está sobre el sofá."
+        },
+        "pt": {
+          "text": "A manta para sofá está em cima do sofá.",
+          "es": "La cobija ligera está sobre el sofá."
+        },
+        "de": {
+          "text": "Die Sofadecke liegt auf dem Sofa.",
+          "es": "La cobija ligera está sobre el sofá."
         }
       }
     },
@@ -3514,7 +4009,7 @@
       "image_url": "",
       "notes": {
         "en": "(Plural: The wall clocks)",
-        "fr": "(Plural: Les horloges murale)",
+        "fr": "(Plural: Les horloges murales)",
         "it": "(Plural: Gli orologi da parete)",
         "pt": "(Plural: Os relógios de parede)",
         "de": "(Plural: Die Wanduhren)"
@@ -3604,23 +4099,23 @@
       "examples": {
         "en": {
           "text": "The plant pot has a hole in the bottom.",
-          "es": "La maceta tiene un agujero en la base."
+          "es": "La maceta tiene un agujero en el fondo."
         },
         "fr": {
           "text": "Le pot de fleurs a un trou au fond.",
-          "es": "La maceta tiene un agujero en la base."
+          "es": "La maceta tiene un agujero en el fondo."
         },
         "it": {
           "text": "Il vaso per piante ha un foro sul fondo.",
-          "es": "La maceta tiene un agujero en la base."
+          "es": "La maceta tiene un agujero en el fondo."
         },
         "pt": {
           "text": "O vaso de planta tem um furo no fundo.",
-          "es": "La maceta tiene un agujero en la base."
+          "es": "La maceta tiene un agujero en el fondo."
         },
         "de": {
           "text": "Der Blumentopf hat unten ein Loch.",
-          "es": "La maceta tiene un agujero en la base."
+          "es": "La maceta tiene un agujero en el fondo."
         }
       }
     },
@@ -3660,8 +4155,8 @@
           "es": "El florero tiene tres flores."
         },
         "de": {
-          "text": "Die Blumenvase enthält drei Blumen.",
-          "es": "El florero tiene tres flores."
+          "text": "In der Blumenvase stehen drei Blumen.",
+          "es": "Hay tres flores en el florero."
         }
       }
     },
@@ -3826,15 +4321,15 @@
         },
         "de": {
           "text": "Der Herd hat vier Kochstellen.",
-          "es": "La estufa tiene cuatro quemadores."
+          "es": "La estufa tiene cuatro zonas de cocción."
         }
       }
     },
     {
       "id": "ca94",
-      "es": "El quemador",
+      "es": "El quemador de la estufa",
       "translations": {
-        "en": "The burner",
+        "en": "The stove burner",
         "fr": "Le brûleur",
         "it": "Il fornello",
         "pt": "A boca do fogão",
@@ -3842,8 +4337,8 @@
       },
       "image_url": "",
       "notes": {
-        "es": "Parte de la estufa donde se produce el calor.",
-        "en": "(Plural: The burners)",
+        "es": "Pieza de la estufa de gas por donde sale la llama.",
+        "en": "(Plural: The stove burners)",
         "fr": "(Plural: Les brûleurs)",
         "it": "(Plural: I fornelli)",
         "pt": "(Plural: As bocas do fogão)",
@@ -3851,24 +4346,24 @@
       },
       "examples": {
         "en": {
-          "text": "The burner has a small flame.",
-          "es": "El quemador tiene una llama pequeña."
+          "text": "The stove burner has a small flame.",
+          "es": "El quemador de la estufa tiene una llama pequeña."
         },
         "fr": {
           "text": "Le brûleur a une petite flamme.",
-          "es": "El quemador tiene una llama pequeña."
+          "es": "El quemador de la estufa tiene una llama pequeña."
         },
         "it": {
           "text": "Il fornello ha una fiamma piccola.",
-          "es": "El quemador tiene una llama pequeña."
+          "es": "El quemador de la estufa tiene una llama pequeña."
         },
         "pt": {
           "text": "A boca do fogão tem uma chama pequena.",
-          "es": "El quemador tiene una llama pequeña."
+          "es": "El quemador de la estufa tiene una llama pequeña."
         },
         "de": {
           "text": "Der Gasbrenner hat eine kleine Flamme.",
-          "es": "El quemador tiene una llama pequeña."
+          "es": "El quemador de la estufa tiene una llama pequeña."
         }
       }
     },
@@ -4031,8 +4526,8 @@
           "es": "La licuadora es para hacer licuados."
         },
         "de": {
-          "text": "Der Standmixer ist für Smoothies da.",
-          "es": "La licuadora es para hacer licuados."
+          "text": "Mit dem Standmixer mache ich Smoothies.",
+          "es": "Hago licuados con la licuadora."
         }
       }
     },
@@ -4056,8 +4551,8 @@
       },
       "examples": {
         "en": {
-          "text": "The drip coffee maker already has water and coffee in it.",
-          "es": "La cafetera de filtro ya tiene agua y café."
+          "text": "The drip coffee maker is ready to use.",
+          "es": "La cafetera de filtro ya está lista para usarse."
         },
         "fr": {
           "text": "La cafetière filtre contient déjà de l'eau et du café.",
@@ -4195,8 +4690,8 @@
           "es": "La lavadora ya terminó el ciclo."
         },
         "de": {
-          "text": "Die Waschmaschine ist mit dem Waschgang fertig.",
-          "es": "La lavadora ya terminó el ciclo."
+          "text": "Der Waschgang der Waschmaschine ist fertig.",
+          "es": "El ciclo de la lavadora ya terminó."
         }
       }
     },
@@ -4306,8 +4801,8 @@
           "es": "La tabla de planchar se guarda detrás de la puerta."
         },
         "fr": {
-          "text": "La table à repasser se range derrière la porte.",
-          "es": "La tabla de planchar se guarda detrás de la puerta."
+          "text": "La table à repasser est rangée derrière la porte.",
+          "es": "La tabla de planchar está guardada detrás de la puerta."
         },
         "it": {
           "text": "L'asse da stiro si tiene dietro la porta.",
@@ -4315,11 +4810,11 @@
         },
         "pt": {
           "text": "A tábua de passar fica atrás da porta.",
-          "es": "La tabla de planchar se guarda detrás de la puerta."
+          "es": "La tabla de planchar está detrás de la puerta."
         },
         "de": {
           "text": "Das Bügelbrett steht hinter der Tür.",
-          "es": "La tabla de planchar se guarda detrás de la puerta."
+          "es": "La tabla de planchar está detrás de la puerta."
         }
       }
     },
@@ -4553,8 +5048,8 @@
           "es": "La cubierta de cocina tiene espacio para la licuadora."
         },
         "fr": {
-          "text": "Le plan de travail a de la place pour le mixeur.",
-          "es": "La cubierta de cocina tiene espacio para la licuadora."
+          "text": "Il y a de la place pour le mixeur sur le plan de travail.",
+          "es": "Hay espacio para la licuadora en la cubierta de cocina."
         },
         "it": {
           "text": "Il piano di lavoro ha spazio per il frullatore.",
@@ -4606,8 +5101,8 @@
           "es": "La alacena tiene los vasos de uso diario."
         },
         "de": {
-          "text": "Der Küchenschrank enthält die Gläser für jeden Tag.",
-          "es": "La alacena tiene los vasos de uso diario."
+          "text": "Die Gläser für den Alltag stehen im Küchenschrank.",
+          "es": "Los vasos de uso diario están en la alacena."
         }
       }
     },
@@ -4633,7 +5128,7 @@
       "examples": {
         "en": {
           "text": "The frying pan is hot now.",
-          "es": "La sartén ya se calentó."
+          "es": "La sartén ya está caliente."
         },
         "fr": {
           "text": "La poêle est chaude maintenant.",
@@ -4755,24 +5250,24 @@
       },
       "examples": {
         "en": {
-          "text": "The pot lid doesn't fit the pot.",
-          "es": "La tapa de olla no le queda bien a la olla."
+          "text": "This pot lid is too small.",
+          "es": "Esta tapa de olla es demasiado pequeña."
         },
         "fr": {
-          "text": "Le couvercle de casserole ne va pas sur cette marmite.",
-          "es": "La tapa no le queda a esa olla."
+          "text": "Ce couvercle de casserole est trop petit.",
+          "es": "Esta tapa de olla es demasiado pequeña."
         },
         "it": {
-          "text": "Il coperchio della pentola non va bene per quella pentola.",
-          "es": "La tapa no le queda a esa olla."
+          "text": "Questo coperchio della pentola è troppo piccolo.",
+          "es": "Esta tapa de olla es demasiado pequeña."
         },
         "pt": {
-          "text": "A tampa de panela não encaixa bem na panela.",
-          "es": "La tapa de olla no le queda bien a la olla."
+          "text": "Esta tampa de panela é pequena demais.",
+          "es": "Esta tapa de olla es demasiado pequeña."
         },
         "de": {
-          "text": "Der Topfdeckel passt nicht richtig auf den Topf.",
-          "es": "La tapa de olla no le queda bien a la olla."
+          "text": "Dieser Topfdeckel ist zu klein.",
+          "es": "Esta tapa de olla es demasiado pequeña."
         }
       }
     },
@@ -4801,7 +5296,7 @@
         },
         "fr": {
           "text": "Je coupe des oignons sur la planche à découper.",
-          "es": "Pico cebollas sobre la tabla de picar."
+          "es": "Corto cebollas sobre la tabla de picar."
         },
         "it": {
           "text": "Trito le cipolle sul tagliere.",
@@ -4920,23 +5415,64 @@
       "examples": {
         "en": {
           "text": "I pour the tea through a strainer into the cup.",
-          "es": "Cuelo el té al servirlo en la taza."
+          "es": "Sirvo el té en la taza con un colador."
         },
         "fr": {
           "text": "Je verse le thé dans la tasse avec une passoire fine.",
-          "es": "Cuelo el té al servirlo en la taza."
+          "es": "Sirvo el té en la taza con un colador."
         },
         "it": {
           "text": "Verso il tè nella tazza con un colino.",
-          "es": "Cuelo el té al servirlo en la taza."
+          "es": "Sirvo el té en la taza con un colador."
         },
         "pt": {
           "text": "Despejo o chá na xícara com um coador.",
-          "es": "Cuelo el té al servirlo en la taza."
+          "es": "Sirvo el té en la taza con un colador."
         },
         "de": {
           "text": "Ich gieße den Tee durch ein Küchensieb in die Tasse.",
-          "es": "Cuelo el té al servirlo en la taza."
+          "es": "Sirvo el té en la taza con un colador."
+        }
+      }
+    },
+    {
+      "id": "ca238",
+      "es": "El escurridor de pasta",
+      "translations": {
+        "en": "The colander",
+        "fr": "La passoire à pâtes",
+        "it": "Lo scolapasta",
+        "pt": "O escorredor de macarrão",
+        "de": "Das Nudelsieb"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The colanders)",
+        "fr": "(Plural: Les passoires à pâtes)",
+        "it": "(Plural: Gli scolapasta)",
+        "pt": "(Plural: Os escorredores de macarrão)",
+        "de": "(Plural: Die Nudelsiebe)"
+      },
+      "examples": {
+        "en": {
+          "text": "The colander is on top of the pot.",
+          "es": "El escurridor de pasta está encima de la olla."
+        },
+        "fr": {
+          "text": "La passoire à pâtes est posée sur la marmite.",
+          "es": "El escurridor de pasta está encima de la olla."
+        },
+        "it": {
+          "text": "Lo scolapasta è sopra la pentola.",
+          "es": "El escurridor de pasta está encima de la olla."
+        },
+        "pt": {
+          "text": "O escorredor de macarrão está em cima da panela.",
+          "es": "El escurridor de pasta está encima de la olla."
+        },
+        "de": {
+          "text": "Das Nudelsieb steht auf dem Topf.",
+          "es": "El escurridor de pasta está encima de la olla."
         }
       }
     },
@@ -5023,6 +5559,47 @@
       }
     },
     {
+      "id": "ca237",
+      "es": "El sacacorchos",
+      "translations": {
+        "en": "The corkscrew",
+        "fr": "Le tire-bouchon",
+        "it": "Il cavatappi",
+        "pt": "O saca-rolhas",
+        "de": "Der Korkenzieher"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The corkscrews)",
+        "fr": "(Plural: Les tire-bouchons)",
+        "it": "(Plural: I cavatappi)",
+        "pt": "(Plural: Os saca-rolhas)",
+        "de": "(Plural: Die Korkenzieher)"
+      },
+      "examples": {
+        "en": {
+          "text": "The corkscrew is in the top drawer.",
+          "es": "El sacacorchos está en el cajón de arriba."
+        },
+        "fr": {
+          "text": "Le tire-bouchon est dans le tiroir du haut.",
+          "es": "El sacacorchos está en el cajón de arriba."
+        },
+        "it": {
+          "text": "Il cavatappi è nel cassetto in alto.",
+          "es": "El sacacorchos está en el cajón de arriba."
+        },
+        "pt": {
+          "text": "O saca-rolhas está na gaveta de cima.",
+          "es": "El sacacorchos está en el cajón de arriba."
+        },
+        "de": {
+          "text": "Der Korkenzieher ist in der obersten Schublade.",
+          "es": "El sacacorchos está en el cajón de arriba."
+        }
+      }
+    },
+    {
       "id": "ca123",
       "es": "La vajilla",
       "translations": {
@@ -5061,6 +5638,334 @@
       }
     },
     {
+      "id": "ca242",
+      "es": "El plato",
+      "translations": {
+        "en": "The plate",
+        "fr": "L'assiette",
+        "it": "Il piatto",
+        "pt": "O prato",
+        "de": "Der Teller"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The plates)",
+        "fr": "(Plural: Les assiettes)",
+        "it": "(Plural: I piatti)",
+        "pt": "(Plural: Os pratos)",
+        "de": "(Plural: Die Teller)"
+      },
+      "examples": {
+        "en": {
+          "text": "The plate is in front of my chair.",
+          "es": "El plato está frente a mi silla."
+        },
+        "fr": {
+          "text": "L'assiette est en face de ma chaise.",
+          "es": "El plato está frente a mi silla."
+        },
+        "it": {
+          "text": "Il piatto è di fronte alla mia sedia.",
+          "es": "El plato está frente a mi silla."
+        },
+        "pt": {
+          "text": "O prato está na frente da minha cadeira.",
+          "es": "El plato está frente a mi silla."
+        },
+        "de": {
+          "text": "Der Teller steht auf dem Tisch.",
+          "es": "El plato está sobre la mesa."
+        }
+      }
+    },
+    {
+      "id": "ca243",
+      "es": "El vaso",
+      "translations": {
+        "en": "The drinking glass",
+        "fr": "Le verre",
+        "it": "Il bicchiere",
+        "pt": "O copo",
+        "de": "Das Trinkglas"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The drinking glasses)",
+        "fr": "(Plural: Les verres)",
+        "it": "(Plural: I bicchieri)",
+        "pt": "(Plural: Os copos)",
+        "de": "(Plural: Die Trinkgläser)"
+      },
+      "examples": {
+        "en": {
+          "text": "The drinking glass has cold water in it.",
+          "es": "El vaso tiene agua fría."
+        },
+        "fr": {
+          "text": "Le verre contient de l'eau froide.",
+          "es": "El vaso tiene agua fría."
+        },
+        "it": {
+          "text": "Il bicchiere contiene acqua fredda.",
+          "es": "El vaso tiene agua fría."
+        },
+        "pt": {
+          "text": "O copo tem água fria.",
+          "es": "El vaso tiene agua fría."
+        },
+        "de": {
+          "text": "Im Trinkglas ist kaltes Wasser.",
+          "es": "El vaso tiene agua fría."
+        }
+      }
+    },
+    {
+      "id": "ca244",
+      "es": "La taza",
+      "translations": {
+        "en": "The cup",
+        "fr": "La tasse",
+        "it": "La tazza",
+        "pt": "A xícara",
+        "de": "Die Tasse"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The cups)",
+        "fr": "(Plural: Les tasses)",
+        "it": "(Plural: Le tazze)",
+        "pt": "(Plural: As xícaras)",
+        "de": "(Plural: Die Tassen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The cup is next to the coffee maker.",
+          "es": "La taza está junto a la cafetera."
+        },
+        "fr": {
+          "text": "La tasse est à côté de la cafetière.",
+          "es": "La taza está junto a la cafetera."
+        },
+        "it": {
+          "text": "La tazza è accanto alla macchina del caffè.",
+          "es": "La taza está junto a la cafetera."
+        },
+        "pt": {
+          "text": "A xícara está ao lado da cafeteira.",
+          "es": "La taza está junto a la cafetera."
+        },
+        "de": {
+          "text": "Die Tasse steht neben der Kaffeemaschine.",
+          "es": "La taza está junto a la cafetera."
+        }
+      }
+    },
+    {
+      "id": "ca245",
+      "es": "El tenedor",
+      "translations": {
+        "en": "The fork",
+        "fr": "La fourchette",
+        "it": "La forchetta",
+        "pt": "O garfo",
+        "de": "Die Gabel"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The forks)",
+        "fr": "(Plural: Les fourchettes)",
+        "it": "(Plural: Le forchette)",
+        "pt": "(Plural: Os garfos)",
+        "de": "(Plural: Die Gabeln)"
+      },
+      "examples": {
+        "en": {
+          "text": "The fork is to the left of the plate.",
+          "es": "El tenedor está a la izquierda del plato."
+        },
+        "fr": {
+          "text": "La fourchette est à gauche de l'assiette.",
+          "es": "El tenedor está a la izquierda del plato."
+        },
+        "it": {
+          "text": "La forchetta è a sinistra del piatto.",
+          "es": "El tenedor está a la izquierda del plato."
+        },
+        "pt": {
+          "text": "O garfo está à esquerda do prato.",
+          "es": "El tenedor está a la izquierda del plato."
+        },
+        "de": {
+          "text": "Die Gabel liegt links vom Teller.",
+          "es": "El tenedor está a la izquierda del plato."
+        }
+      }
+    },
+    {
+      "id": "ca246",
+      "es": "El cuchillo",
+      "translations": {
+        "en": "The knife",
+        "fr": "Le couteau",
+        "it": "Il coltello",
+        "pt": "A faca",
+        "de": "Das Messer"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The knives)",
+        "fr": "(Plural: Les couteaux)",
+        "it": "(Plural: I coltelli)",
+        "pt": "(Plural: As facas)",
+        "de": "(Plural: Die Messer)"
+      },
+      "examples": {
+        "en": {
+          "text": "The knife is on the cutting board.",
+          "es": "El cuchillo está sobre la tabla de picar."
+        },
+        "fr": {
+          "text": "Le couteau est sur la planche à découper.",
+          "es": "El cuchillo está sobre la tabla de picar."
+        },
+        "it": {
+          "text": "Il coltello è sul tagliere.",
+          "es": "El cuchillo está sobre la tabla de picar."
+        },
+        "pt": {
+          "text": "A faca está em cima da tábua de cortar.",
+          "es": "El cuchillo está sobre la tabla de picar."
+        },
+        "de": {
+          "text": "Das Messer liegt auf dem Schneidebrett.",
+          "es": "El cuchillo está sobre la tabla de picar."
+        }
+      }
+    },
+    {
+      "id": "ca247",
+      "es": "La cuchara",
+      "translations": {
+        "en": "The spoon",
+        "fr": "La cuillère",
+        "it": "Il cucchiaio",
+        "pt": "A colher",
+        "de": "Der Löffel"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The spoons)",
+        "fr": "(Plural: Les cuillères)",
+        "it": "(Plural: I cucchiai)",
+        "pt": "(Plural: As colheres)",
+        "de": "(Plural: Die Löffel)"
+      },
+      "examples": {
+        "en": {
+          "text": "The spoon is inside the cup.",
+          "es": "La cuchara está dentro de la taza."
+        },
+        "fr": {
+          "text": "La cuillère est dans la tasse.",
+          "es": "La cuchara está dentro de la taza."
+        },
+        "it": {
+          "text": "Il cucchiaio è dentro la tazza.",
+          "es": "La cuchara está dentro de la taza."
+        },
+        "pt": {
+          "text": "A colher está dentro da xícara.",
+          "es": "La cuchara está dentro de la taza."
+        },
+        "de": {
+          "text": "Der Löffel liegt in der Tasse.",
+          "es": "La cuchara está dentro de la taza."
+        }
+      }
+    },
+    {
+      "id": "ca235",
+      "es": "La jarra",
+      "translations": {
+        "en": "The pitcher",
+        "fr": "Le pichet",
+        "it": "La brocca",
+        "pt": "A jarra",
+        "de": "Der Krug"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The pitchers)",
+        "fr": "(Plural: Les pichets)",
+        "it": "(Plural: Le brocche)",
+        "pt": "(Plural: As jarras)",
+        "de": "(Plural: Die Krüge)"
+      },
+      "examples": {
+        "en": {
+          "text": "The pitcher holds ice water.",
+          "es": "La jarra tiene agua con hielo."
+        },
+        "fr": {
+          "text": "Le pichet contient de l'eau avec des glaçons.",
+          "es": "La jarra tiene agua con hielo."
+        },
+        "it": {
+          "text": "La brocca contiene acqua con ghiaccio.",
+          "es": "La jarra tiene agua con hielo."
+        },
+        "pt": {
+          "text": "A jarra tem água com gelo.",
+          "es": "La jarra tiene agua con hielo."
+        },
+        "de": {
+          "text": "Der Krug enthält Wasser mit Eiswürfeln.",
+          "es": "La jarra tiene agua con hielo."
+        }
+      }
+    },
+    {
+      "id": "ca236",
+      "es": "El escurridor de platos",
+      "translations": {
+        "en": "The dish rack",
+        "fr": "L'égouttoir à vaisselle",
+        "it": "Lo scolapiatti",
+        "pt": "O escorredor de louça",
+        "de": "Das Abtropfgestell"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The dish racks)",
+        "fr": "(Plural: Les égouttoirs à vaisselle)",
+        "it": "(Plural: Gli scolapiatti)",
+        "pt": "(Plural: Os escorredores de louça)",
+        "de": "(Plural: Die Abtropfgestelle)"
+      },
+      "examples": {
+        "en": {
+          "text": "The dish rack holds clean plates.",
+          "es": "El escurridor de platos tiene platos limpios."
+        },
+        "fr": {
+          "text": "Les assiettes sèchent dans l'égouttoir à vaisselle.",
+          "es": "Los platos se secan en el escurridor de platos."
+        },
+        "it": {
+          "text": "Lo scolapiatti contiene piatti puliti.",
+          "es": "El escurridor de platos tiene platos limpios."
+        },
+        "pt": {
+          "text": "O escorredor de louça tem pratos limpos.",
+          "es": "El escurridor de platos tiene platos limpios."
+        },
+        "de": {
+          "text": "Im Abtropfgestell trocknen die Teller.",
+          "es": "Los platos se secan en el escurridor de platos."
+        }
+      }
+    },
+    {
       "id": "ca124",
       "es": "El inodoro",
       "translations": {
@@ -5074,15 +5979,15 @@
       "notes": {
         "es": "Sanitario, no el cuarto del baño.",
         "en": "(Plural: The toilets)",
-        "fr": "(Plural: Les WC)",
+        "fr": "(Plural: Les WC) También puede nombrar el cuarto del inodoro; aquí se refiere al sanitario.",
         "it": "(Plural: I water)",
         "pt": "(Plural: Os vasos sanitários)",
         "de": "(Plural: Die Toiletten)"
       },
       "examples": {
         "en": {
-          "text": "The toilet needs a repair.",
-          "es": "El inodoro necesita una reparación."
+          "text": "The toilet needs to be fixed.",
+          "es": "Hay que reparar el inodoro."
         },
         "fr": {
           "text": "Le WC doit être réparé.",
@@ -5099,6 +6004,47 @@
         "de": {
           "text": "Die Toilette muss repariert werden.",
           "es": "El inodoro necesita una reparación."
+        }
+      }
+    },
+    {
+      "id": "ca248",
+      "es": "El cepillo para el inodoro",
+      "translations": {
+        "en": "The toilet brush",
+        "fr": "La brosse WC",
+        "it": "Lo scopino per WC",
+        "pt": "A escova sanitária",
+        "de": "Die Toilettenbürste"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The toilet brushes)",
+        "fr": "(Plural: Les brosses WC)",
+        "it": "(Plural: Gli scopini per WC)",
+        "pt": "(Plural: As escovas sanitárias)",
+        "de": "(Plural: Die Toilettenbürsten)"
+      },
+      "examples": {
+        "en": {
+          "text": "The toilet brush is in the bathroom.",
+          "es": "El cepillo para el inodoro está en el baño."
+        },
+        "fr": {
+          "text": "La brosse WC est dans la salle de bains.",
+          "es": "El cepillo para el inodoro está en el baño."
+        },
+        "it": {
+          "text": "Lo scopino per WC è in bagno.",
+          "es": "El cepillo para el inodoro está en el baño."
+        },
+        "pt": {
+          "text": "A escova sanitária fica no banheiro.",
+          "es": "El cepillo para el inodoro está en el baño."
+        },
+        "de": {
+          "text": "Die Toilettenbürste steht neben der Toilette.",
+          "es": "El cepillo para el inodoro está junto al inodoro."
         }
       }
     },
@@ -5187,43 +6133,43 @@
     },
     {
       "id": "ca228",
-      "es": "La coladera",
+      "es": "La coladera de la regadera",
       "translations": {
-        "en": "The drain",
+        "en": "The shower drain",
         "fr": "La bonde de douche",
         "it": "Lo scarico della doccia",
-        "pt": "O ralo",
+        "pt": "O ralo do chuveiro",
         "de": "Der Duschablauf"
       },
       "image_url": "",
       "notes": {
-        "es": "Desagüe en el piso de una ducha o baño.",
-        "en": "(Plural: The drains)",
+        "es": "Desagüe en el piso de la regadera.",
+        "en": "(Plural: The shower drains)",
         "fr": "(Plural: Les bondes de douche)",
         "it": "(Plural: Gli scarichi della doccia)",
-        "pt": "(Plural: Os ralos)",
+        "pt": "(Plural: Os ralos do chuveiro)",
         "de": "(Plural: Die Duschabläufe)"
       },
       "examples": {
         "en": {
-          "text": "The drain is clogged.",
-          "es": "La coladera está tapada."
+          "text": "The shower drain is clogged.",
+          "es": "La coladera de la regadera está tapada."
         },
         "fr": {
           "text": "La bonde de douche est bouchée.",
-          "es": "La coladera está tapada."
+          "es": "La coladera de la regadera está tapada."
         },
         "it": {
           "text": "Lo scarico della doccia è intasato.",
-          "es": "La coladera está tapada."
+          "es": "La coladera de la regadera está tapada."
         },
         "pt": {
-          "text": "O ralo está entupido.",
-          "es": "La coladera está tapada."
+          "text": "O ralo do chuveiro está entupido.",
+          "es": "La coladera de la regadera está tapada."
         },
         "de": {
           "text": "Der Duschablauf ist verstopft.",
-          "es": "La coladera está tapada."
+          "es": "La coladera de la regadera está tapada."
         }
       }
     },
@@ -5263,8 +6209,8 @@
           "es": "La tina está llena de agua tibia."
         },
         "de": {
-          "text": "Die Badewanne ist mit warmem Wasser gefüllt.",
-          "es": "La tina está llena de agua tibia."
+          "text": "In der Badewanne ist lauwarmes Wasser.",
+          "es": "Hay agua tibia en la tina."
         }
       }
     },
@@ -5453,11 +6399,11 @@
         },
         "it": {
           "text": "Il sapone liquido è in un flacone.",
-          "es": "El jabón líquido está en una botella."
+          "es": "El jabón líquido está en un frasco."
         },
         "pt": {
           "text": "O sabonete líquido está em um frasco.",
-          "es": "El jabón líquido está en una botella."
+          "es": "El jabón líquido está en un frasco."
         },
         "de": {
           "text": "Die Flüssigseife ist in einer Flasche.",
@@ -5619,8 +6565,8 @@
           "es": "La secadora de cabello tiene dos velocidades."
         },
         "de": {
-          "text": "Der Haartrockner hat zwei Stufen.",
-          "es": "La secadora de cabello tiene dos niveles."
+          "text": "Der Haartrockner hat zwei Geschwindigkeitsstufen.",
+          "es": "La secadora de cabello tiene dos niveles de velocidad."
         }
       }
     },
@@ -5864,6 +6810,48 @@
       }
     },
     {
+      "id": "ca241",
+      "es": "El desinfectante",
+      "translations": {
+        "en": "The disinfectant",
+        "fr": "Le désinfectant",
+        "it": "Il disinfettante",
+        "pt": "O desinfetante",
+        "de": "Das Desinfektionsmittel"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Producto para desinfectar superficies.",
+        "fr": "(Plural: Les désinfectants)",
+        "it": "(Plural: I disinfettanti)",
+        "pt": "(Plural: Os desinfetantes)",
+        "en": "(Plural: The disinfectants)",
+        "de": "(Plural: Die Desinfektionsmittel)"
+      },
+      "examples": {
+        "en": {
+          "text": "The disinfectant is in the bathroom.",
+          "es": "El desinfectante está en el baño."
+        },
+        "fr": {
+          "text": "Le désinfectant est dans la salle de bains.",
+          "es": "El desinfectante está en el baño."
+        },
+        "it": {
+          "text": "Il disinfettante è in bagno.",
+          "es": "El desinfectante está en el baño."
+        },
+        "pt": {
+          "text": "O desinfetante fica no banheiro.",
+          "es": "El desinfectante está en el baño."
+        },
+        "de": {
+          "text": "Mit dem Desinfektionsmittel wischen wir das Waschbecken ab.",
+          "es": "Limpiamos el lavabo con el desinfectante."
+        }
+      }
+    },
+    {
       "id": "ca143",
       "es": "La esponja",
       "translations": {
@@ -5973,7 +6961,7 @@
           "es": "La escoba está junto al recogedor."
         },
         "it": {
-          "text": "La scopa è accanto alla paletta.",
+          "text": "La scopa è accanto alla paletta raccoglipolvere.",
           "es": "La escoba está junto al recogedor."
         },
         "pt": {
@@ -5992,7 +6980,7 @@
       "translations": {
         "en": "The dustpan",
         "fr": "La pelle à poussière",
-        "it": "La paletta",
+        "it": "La paletta raccoglipolvere",
         "pt": "A pá de lixo",
         "de": "Die Kehrschaufel"
       },
@@ -6000,7 +6988,7 @@
       "notes": {
         "en": "(Plural: The dustpans)",
         "fr": "(Plural: Les pelles à poussière)",
-        "it": "(Plural: Le palette)",
+        "it": "(Plural: Le palette raccoglipolvere) «Paletta» también puede referirse a otros utensilios pequeños.",
         "pt": "(Plural: As pás de lixo)",
         "de": "(Plural: Die Kehrschaufeln)"
       },
@@ -6014,7 +7002,7 @@
           "es": "El recogedor está debajo de la tarja."
         },
         "it": {
-          "text": "La paletta è sotto il lavello.",
+          "text": "La paletta raccoglipolvere è sotto il lavello.",
           "es": "El recogedor está debajo de la tarja."
         },
         "pt": {
@@ -6349,8 +7337,8 @@
           "es": "Los quehaceres domésticos nos ocupan parte del sábado."
         },
         "de": {
-          "text": "Die Hausarbeiten kosten uns einen Teil des Samstags.",
-          "es": "Los quehaceres domésticos nos ocupan parte del sábado."
+          "text": "Am Samstag machen wir die Hausarbeiten.",
+          "es": "El sábado hacemos los quehaceres domésticos."
         }
       }
     },
@@ -6430,7 +7418,7 @@
       "es": "Guardar las cosas en su lugar",
       "translations": {
         "en": "To put things away",
-        "fr": "Ranger les affaires à leur place",
+        "fr": "Remettre les affaires à leur place",
         "it": "Mettere le cose a posto",
         "pt": "Guardar as coisas no lugar",
         "de": "Die Sachen an ihren Platz legen"
@@ -6442,7 +7430,7 @@
           "es": "Después de jugar, guardamos las cosas en su lugar."
         },
         "fr": {
-          "text": "Après le jeu, on range les affaires à leur place.",
+          "text": "Après avoir joué, on remet les affaires à leur place.",
           "es": "Después de jugar, guardamos las cosas en su lugar."
         },
         "it": {
@@ -6473,23 +7461,23 @@
       "examples": {
         "en": {
           "text": "I sweep the kitchen after lunch.",
-          "es": "Barro la cocina después del almuerzo."
+          "es": "Barro la cocina después de comer."
         },
         "fr": {
           "text": "Je balaie la cuisine après le déjeuner.",
-          "es": "Barro la cocina después del almuerzo."
+          "es": "Barro la cocina después de comer."
         },
         "it": {
           "text": "Spazzo la cucina dopo pranzo.",
-          "es": "Barro la cocina después del almuerzo."
+          "es": "Barro la cocina después de comer."
         },
         "pt": {
           "text": "Varro a cozinha depois do almoço.",
-          "es": "Barro la cocina después del almuerzo."
+          "es": "Barro la cocina después de comer."
         },
         "de": {
           "text": "Ich fege die Küche nach dem Mittagessen.",
-          "es": "Barro la cocina después del almuerzo."
+          "es": "Barro la cocina después de comer."
         }
       }
     },
@@ -6891,7 +7879,7 @@
       "id": "ca170",
       "es": "Tender la ropa",
       "translations": {
-        "en": "To hang clothes out to dry",
+        "en": "To hang clothes to dry",
         "fr": "Étendre le linge",
         "it": "Stendere il bucato",
         "pt": "Estender a roupa",
@@ -6900,7 +7888,7 @@
       "image_url": "",
       "examples": {
         "en": {
-          "text": "I hang the clothes out to dry on the patio.",
+          "text": "I hang the clothes to dry on the patio.",
           "es": "Tiendo la ropa en el patio para que se seque."
         },
         "fr": {
@@ -6997,7 +7985,7 @@
         "fr": "Sortir les poubelles",
         "it": "Portare fuori la spazzatura",
         "pt": "Levar o lixo para fora",
-        "de": "Den Müll rausbringen"
+        "de": "Den Müll hinausbringen"
       },
       "image_url": "",
       "examples": {
@@ -7018,12 +8006,12 @@
           "es": "Saco la basura todas las noches."
         },
         "de": {
-          "text": "Ich bringe jeden Abend den Müll raus.",
+          "text": "Ich bringe jeden Abend den Müll hinaus.",
           "es": "Saco la basura todas las noches."
         }
       },
       "notes": {
-        "de": "Coloquial: Rausbringen. «Den Müll hinausbringen» es otra forma."
+        "de": "Coloquial: Den Müll rausbringen"
       }
     },
     {
@@ -7089,7 +8077,7 @@
           "es": "Riego las plantas del balcón por la mañana."
         },
         "pt": {
-          "text": "Rego as plantas da varanda de manhã.",
+          "text": "Rego as plantas da sacada de manhã.",
           "es": "Riego las plantas del balcón por la mañana."
         },
         "de": {
@@ -7124,7 +8112,7 @@
         },
         "pt": {
           "text": "Limpo o banheiro todo sábado.",
-          "es": "Limpio el baño cada sábado."
+          "es": "Limpio el baño todos los sábados."
         },
         "de": {
           "text": "Ich putze jeden Samstag das Badezimmer.",
@@ -7215,7 +8203,11 @@
       },
       "image_url": "",
       "notes": {
-        "pt": "«Você» es normal en Brasil y no equivale necesariamente a «usted»."
+        "pt": "«Você» es normal en Brasil y no equivale necesariamente a «usted».",
+        "es": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
       }
     },
     {
@@ -7307,7 +8299,7 @@
       "es": "La cocina está abajo.",
       "translations": {
         "en": "The kitchen is downstairs.",
-        "fr": "La cuisine est à l'étage du dessous.",
+        "fr": "La cuisine est à l'étage en dessous.",
         "it": "La cucina è al piano di sotto.",
         "pt": "A cozinha fica no andar de baixo.",
         "de": "Die Küche ist unten."
@@ -7334,7 +8326,7 @@
         "fr": "La boîte est sous le lit.",
         "it": "La scatola è sotto il letto.",
         "pt": "A caixa está debaixo da cama.",
-        "de": "Die Kiste steht unter dem Bett."
+        "de": "Der Karton steht unter dem Bett."
       },
       "image_url": ""
     },
@@ -7404,7 +8396,7 @@
       "translations": {
         "en": "The towels are in the top drawer.",
         "fr": "Les serviettes sont dans le tiroir du haut.",
-        "it": "Gli asciugamani sono nel cassetto in alto.",
+        "it": "Gli asciugamani sono nel cassetto più in alto.",
         "pt": "As toalhas estão na gaveta de cima.",
         "de": "Die Handtücher sind in der obersten Schublade."
       },
@@ -7418,7 +8410,7 @@
         "fr": "Les ordures sont dehors.",
         "it": "La spazzatura è fuori.",
         "pt": "O lixo está lá fora.",
-        "de": "Der Müll steht draußen."
+        "de": "Der Müll ist draußen."
       },
       "image_url": ""
     },
@@ -7432,7 +8424,13 @@
         "pt": "Onde você guarda os produtos de limpeza?",
         "de": "Wo bewahrst du die Putzmittel auf? / Wo bewahren Sie die Putzmittel auf?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
+      }
     },
     {
       "id": "ca198",
@@ -7454,7 +8452,7 @@
         "fr": "La salle de bains est occupée.",
         "it": "Il bagno è occupato.",
         "pt": "O banheiro está ocupado.",
-        "de": "Das Badezimmer ist besetzt."
+        "de": "Das Bad ist besetzt."
       },
       "image_url": ""
     },
@@ -7475,7 +8473,7 @@
       "es": "Voy a casa.",
       "translations": {
         "en": "I'm going home.",
-        "fr": "Je rentre chez moi.",
+        "fr": "Je vais chez moi.",
         "it": "Vado a casa.",
         "pt": "Vou para casa.",
         "de": "Ich gehe nach Hause."
@@ -7490,9 +8488,15 @@
         "fr": "Entre, s'il te plaît. / Entrez, s'il vous plaît.",
         "it": "Entra, per favore. / Entri, per favore.",
         "pt": "Entre, por favor.",
-        "de": "Komm bitte rein. / Kommen Sie bitte herein."
+        "de": "Komm bitte herein. / Kommen Sie bitte herein."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
+      }
     },
     {
       "id": "ca203",
@@ -7504,7 +8508,13 @@
         "pt": "Sente-se, por favor.",
         "de": "Setz dich bitte. / Setzen Sie sich bitte."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
+      }
     },
     {
       "id": "ca204",
@@ -7516,7 +8526,13 @@
         "pt": "Fique à vontade.",
         "de": "Mach es dir bequem. / Machen Sie es sich bequem."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informal) Las dos primeras formas. (Formal) Las dos últimas.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Las dos primeras formas. (Formal) Las dos últimas.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
+      }
     },
     {
       "id": "ca205",
@@ -7526,9 +8542,15 @@
         "fr": "Tu peux enlever tes chaussures en entrant ? / Pouvez-vous enlever vos chaussures en entrant ?",
         "it": "Puoi toglierti le scarpe quando entri? / Può togliersi le scarpe quando entra?",
         "pt": "Pode tirar os sapatos ao entrar?",
-        "de": "Kannst du beim Reinkommen die Schuhe ausziehen? / Können Sie beim Hereinkommen die Schuhe ausziehen?"
+        "de": "Kannst du bitte beim Reinkommen die Schuhe ausziehen? / Können Sie bitte beim Reinkommen die Schuhe ausziehen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
+      }
     },
     {
       "id": "ca206",
@@ -7540,7 +8562,13 @@
         "pt": "Pode abrir a janela?",
         "de": "Kannst du das Fenster öffnen? / Können Sie das Fenster öffnen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
+      }
     },
     {
       "id": "ca207",
@@ -7552,7 +8580,13 @@
         "pt": "Pode fechar a porta?",
         "de": "Kannst du die Tür schließen? / Können Sie die Tür schließen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
+      }
     },
     {
       "id": "ca208",
@@ -7564,7 +8598,13 @@
         "pt": "Acenda a luz, por favor.",
         "de": "Mach bitte das Licht an. / Machen Sie bitte das Licht an."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
+      }
     },
     {
       "id": "ca209",
@@ -7572,11 +8612,17 @@
       "translations": {
         "en": "Could you turn down the TV?",
         "fr": "Tu peux baisser le volume de la télévision ? / Pouvez-vous baisser le volume de la télévision ?",
-        "it": "Puoi abbassare il volume della televisione? / Può abbassare il volume della televisione?",
+        "it": "Puoi abbassare il volume del televisore? / Può abbassare il volume del televisore?",
         "pt": "Pode baixar o volume da televisão?",
         "de": "Kannst du den Fernseher leiser stellen? / Können Sie den Fernseher leiser stellen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
+      }
     },
     {
       "id": "ca210",
@@ -7588,7 +8634,13 @@
         "pt": "Por favor, não faça barulho.",
         "de": "Sei bitte leise. / Seien Sie bitte leise."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
+      }
     },
     {
       "id": "ca211",
@@ -7598,9 +8650,15 @@
         "fr": "C'est à toi de nettoyer aujourd'hui ? / C'est à vous de nettoyer aujourd'hui ?",
         "it": "Tocca a te pulire oggi? / Tocca a Lei pulire oggi?",
         "pt": "É sua vez de limpar hoje?",
-        "de": "Bist du heute mit Putzen dran? / Sind Sie heute mit Putzen dran?"
+        "de": "Bist du heute mit dem Putzen dran? / Sind Sie heute mit dem Putzen dran?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
+      }
     },
     {
       "id": "ca212",
@@ -7638,7 +8696,11 @@
       },
       "image_url": "",
       "notes": {
-        "pt": "«Pode me ajudar» es una petición común en Brasil; no distingue por sí sola entre tú y usted."
+        "pt": "«Pode me ajudar» es una petición común en Brasil; no distingue por sí sola entre tú y usted.",
+        "es": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "fr": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "it": "(Informal) Primera forma. (Formal) Segunda forma.",
+        "de": "(Informal) Primera forma. (Formal) Segunda forma."
       }
     },
     {
@@ -7649,7 +8711,7 @@
         "fr": "Il faut sortir les poubelles.",
         "it": "Bisogna portare fuori la spazzatura.",
         "pt": "Precisamos levar o lixo para fora.",
-        "de": "Wir müssen den Müll rausbringen."
+        "de": "Wir müssen den Müll hinausbringen."
       },
       "image_url": ""
     },
@@ -7761,7 +8823,7 @@
       },
       "image_url": "",
       "notes": {
-        "es": "Variante: El fregadero está tapado, atascado."
+        "es": "Aquí «tarja» se refiere al fregadero de la cocina. También se dice «El fregadero está tapado»."
       }
     },
     {
@@ -7796,997 +8858,15 @@
       "es": "Me quedé afuera sin llaves.",
       "translations": {
         "en": "I'm locked out without my keys.",
-        "fr": "Je suis dehors sans mes clés.",
-        "it": "Sono rimasto fuori senza chiavi. / Sono rimasta fuori senza chiavi.",
-        "pt": "Fiquei do lado de fora sem as chaves.",
+        "fr": "Je suis à la porte sans mes clés.",
+        "it": "Sono rimasto chiuso fuori senza chiavi. / Sono rimasta chiusa fuori senza chiavi.",
+        "pt": "Fiquei trancado do lado de fora sem as chaves. / Fiquei trancada do lado de fora sem as chaves.",
         "de": "Ich habe mich ausgesperrt und habe keinen Schlüssel dabei."
       },
-      "image_url": ""
-    },
-    {
-      "id": "ca229",
-      "es": "La llave",
-      "translations": {
-        "en": "The key",
-        "fr": "La clé",
-        "it": "La chiave",
-        "pt": "A chave",
-        "de": "Der Schlüssel"
-      },
       "image_url": "",
       "notes": {
-        "en": "(Plural: The keys)",
-        "fr": "(Plural: Les clés)",
-        "it": "(Plural: Le chiavi)",
-        "pt": "(Plural: As chaves)",
-        "es": "(Objeto para abrir una cerradura, no llave de agua)",
-        "de": "(Plural: Die Schlüssel)"
-      },
-      "examples": {
-        "en": {
-          "text": "The key opens the garage door.",
-          "es": "La llave abre la puerta de la cochera."
-        },
-        "fr": {
-          "text": "La clé ouvre la porte du garage.",
-          "es": "La llave abre la puerta de la cochera."
-        },
-        "it": {
-          "text": "La chiave apre la porta del garage.",
-          "es": "La llave abre la puerta de la cochera."
-        },
-        "pt": {
-          "text": "A chave abre a porta da garagem.",
-          "es": "La llave abre la puerta de la cochera."
-        },
-        "de": {
-          "text": "Der Schlüssel öffnet die Garagentür.",
-          "es": "La llave abre la puerta de la cochera."
-        }
-      }
-    },
-    {
-      "id": "ca230",
-      "es": "El tapete de entrada",
-      "translations": {
-        "en": "The doormat",
-        "fr": "Le paillasson",
-        "it": "Lo zerbino",
-        "pt": "O capacho",
-        "de": "Die Fußmatte"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The doormats)",
-        "fr": "(Plural: Les paillassons)",
-        "it": "(Plural: Gli zerbini)",
-        "pt": "(Plural: Os capachos)",
-        "de": "(Plural: Die Fußmatten)"
-      },
-      "examples": {
-        "en": {
-          "text": "The doormat has dirt on it.",
-          "es": "El tapete de entrada tiene tierra encima."
-        },
-        "fr": {
-          "text": "Le paillasson est couvert de terre.",
-          "es": "El tapete de entrada tiene tierra encima."
-        },
-        "it": {
-          "text": "Lo zerbino è pieno di terra.",
-          "es": "El tapete de entrada tiene tierra encima."
-        },
-        "pt": {
-          "text": "O capacho está cheio de terra.",
-          "es": "El tapete de entrada tiene tierra encima."
-        },
-        "de": {
-          "text": "Die Fußmatte ist voller Erde.",
-          "es": "El tapete de entrada tiene tierra encima."
-        }
-      }
-    },
-    {
-      "id": "ca231",
-      "es": "El cerrojo",
-      "translations": {
-        "en": "The deadbolt",
-        "fr": "Le verrou",
-        "it": "Il catenaccio",
-        "pt": "O ferrolho",
-        "de": "Der Türriegel"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Cerrojo adicional para asegurar puertas; su mecanismo varía.",
-        "en": "(Plural: The deadbolts)",
-        "fr": "(Plural: Les verrous)",
-        "it": "(Plural: I catenacci)",
-        "pt": "(Plural: Os ferrolhos)",
-        "de": "(Plural: Die Türriegel)"
-      },
-      "examples": {
-        "en": {
-          "text": "The deadbolt isn't working properly.",
-          "es": "El cerrojo no funciona bien."
-        },
-        "fr": {
-          "text": "Le verrou ne fonctionne pas bien.",
-          "es": "El cerrojo no funciona bien."
-        },
-        "it": {
-          "text": "Il catenaccio non funziona bene.",
-          "es": "El cerrojo no funciona bien."
-        },
-        "pt": {
-          "text": "O ferrolho não funciona direito.",
-          "es": "El cerrojo no funciona bien."
-        },
-        "de": {
-          "text": "Der Türriegel funktioniert nicht richtig.",
-          "es": "El cerrojo no funciona bien."
-        }
-      }
-    },
-    {
-      "id": "ca232",
-      "es": "El mosquitero",
-      "translations": {
-        "en": "The window screen",
-        "fr": "La moustiquaire",
-        "it": "La zanzariera",
-        "pt": "A tela mosquiteira",
-        "de": "Das Fliegengitter"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The window screens)",
-        "fr": "(Plural: Les moustiquaires) Aquí es la malla fija de la ventana; también puede designar un mosquitero de cama.",
-        "it": "(Plural: Le zanzariere)",
-        "pt": "(Plural: As telas mosquiteiras)",
-        "de": "(Plural: Die Fliegengitter)"
-      },
-      "examples": {
-        "en": {
-          "text": "The window screen keeps mosquitoes out.",
-          "es": "El mosquitero no deja entrar a los mosquitos."
-        },
-        "fr": {
-          "text": "La moustiquaire empêche les moustiques d'entrer.",
-          "es": "El mosquitero no deja entrar a los mosquitos."
-        },
-        "it": {
-          "text": "La zanzariera non fa entrare le zanzare.",
-          "es": "El mosquitero no deja entrar a los mosquitos."
-        },
-        "pt": {
-          "text": "A tela mosquiteira não deixa os mosquitos entrarem.",
-          "es": "El mosquitero no deja entrar a los mosquitos."
-        },
-        "de": {
-          "text": "Das Fliegengitter hält Mücken draußen.",
-          "es": "El mosquitero no deja entrar a los mosquitos."
-        }
-      }
-    },
-    {
-      "id": "ca233",
-      "es": "La funda de edredón",
-      "translations": {
-        "en": "The duvet cover",
-        "fr": "La housse de couette",
-        "it": "Il copripiumino",
-        "pt": "A capa de edredom",
-        "de": "Der Bettdeckenbezug"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The duvet covers)",
-        "fr": "(Plural: Les housses de couette)",
-        "it": "(Plural: I copripiumini)",
-        "pt": "(Plural: As capas de edredom)",
-        "de": "(Plural: Die Bettdeckenbezüge)"
-      },
-      "examples": {
-        "en": {
-          "text": "The duvet cover has buttons.",
-          "es": "La funda de edredón tiene botones."
-        },
-        "fr": {
-          "text": "La housse de couette a des boutons.",
-          "es": "La funda de edredón tiene botones."
-        },
-        "it": {
-          "text": "Il copripiumino ha i bottoni.",
-          "es": "La funda de edredón tiene botones."
-        },
-        "pt": {
-          "text": "A capa de edredom tem botões.",
-          "es": "La funda de edredón tiene botones."
-        },
-        "de": {
-          "text": "Der Bettdeckenbezug hat Knöpfe.",
-          "es": "La funda de edredón tiene botones."
-        }
-      }
-    },
-    {
-      "id": "ca234",
-      "es": "La cobija ligera",
-      "translations": {
-        "en": "The throw blanket",
-        "fr": "Le plaid",
-        "it": "Il plaid",
-        "pt": "A manta para sofá",
-        "de": "Die Sofadecke"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Cobija ligera para usar sobre el sofá o como complemento.",
-        "en": "(Plural: The throw blankets)",
-        "fr": "(Plural: Les plaids)",
-        "it": "(Plural: I plaid)",
-        "pt": "(Plural: As mantas para sofá)",
-        "de": "(Plural: Die Sofadecken) Aquí se trata de una cobija ligera para usar en el sofá."
-      },
-      "examples": {
-        "en": {
-          "text": "The throw blanket is on the couch.",
-          "es": "La cobija ligera está sobre el sofá."
-        },
-        "fr": {
-          "text": "Le plaid est sur le canapé.",
-          "es": "La cobija ligera está sobre el sofá."
-        },
-        "it": {
-          "text": "Il plaid è sul divano.",
-          "es": "La cobija ligera está sobre el sofá."
-        },
-        "pt": {
-          "text": "A manta para sofá está em cima do sofá.",
-          "es": "La cobija ligera está sobre el sofá."
-        },
-        "de": {
-          "text": "Die Sofadecke liegt auf dem Sofa.",
-          "es": "La cobija ligera está sobre el sofá."
-        }
-      }
-    },
-    {
-      "id": "ca235",
-      "es": "La jarra",
-      "translations": {
-        "en": "The pitcher",
-        "fr": "Le pichet",
-        "it": "La brocca",
-        "pt": "A jarra",
-        "de": "Der Krug"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The pitchers)",
-        "fr": "(Plural: Les pichets)",
-        "it": "(Plural: Le brocche)",
-        "pt": "(Plural: As jarras)",
-        "de": "(Plural: Die Krüge)"
-      },
-      "examples": {
-        "en": {
-          "text": "The pitcher holds ice water.",
-          "es": "La jarra tiene agua con hielo."
-        },
-        "fr": {
-          "text": "Le pichet contient de l'eau avec des glaçons.",
-          "es": "La jarra tiene agua con hielo."
-        },
-        "it": {
-          "text": "La brocca contiene acqua con ghiaccio.",
-          "es": "La jarra tiene agua con hielo."
-        },
-        "pt": {
-          "text": "A jarra tem água com gelo.",
-          "es": "La jarra tiene agua con hielo."
-        },
-        "de": {
-          "text": "Der Krug enthält Wasser mit Eiswürfeln.",
-          "es": "La jarra tiene agua con hielo."
-        }
-      }
-    },
-    {
-      "id": "ca236",
-      "es": "El escurridor de platos",
-      "translations": {
-        "en": "The dish rack",
-        "fr": "L'égouttoir à vaisselle",
-        "it": "Lo scolapiatti",
-        "pt": "O escorredor de louça",
-        "de": "Das Abtropfgestell"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The dish racks)",
-        "fr": "(Plural: Les égouttoirs à vaisselle)",
-        "it": "(Plural: Gli scolapiatti)",
-        "pt": "(Plural: Os escorredores de louça)",
-        "de": "(Plural: Die Abtropfgestelle)"
-      },
-      "examples": {
-        "en": {
-          "text": "The dish rack holds clean plates.",
-          "es": "El escurridor de platos tiene platos limpios."
-        },
-        "fr": {
-          "text": "L'égouttoir à vaisselle contient des assiettes propres.",
-          "es": "El escurridor de platos tiene platos limpios."
-        },
-        "it": {
-          "text": "Lo scolapiatti contiene piatti puliti.",
-          "es": "El escurridor de platos tiene platos limpios."
-        },
-        "pt": {
-          "text": "O escorredor de louça tem pratos limpos.",
-          "es": "El escurridor de platos tiene platos limpios."
-        },
-        "de": {
-          "text": "Das Abtropfgestell enthält saubere Teller.",
-          "es": "El escurridor de platos tiene platos limpios."
-        }
-      }
-    },
-    {
-      "id": "ca237",
-      "es": "El sacacorchos",
-      "translations": {
-        "en": "The corkscrew",
-        "fr": "Le tire-bouchon",
-        "it": "Il cavatappi",
-        "pt": "O saca-rolhas",
-        "de": "Der Korkenzieher"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The corkscrews)",
-        "fr": "(Plural: Les tire-bouchons)",
-        "it": "(Plural: I cavatappi)",
-        "pt": "(Plural: Os saca-rolhas)",
-        "de": "(Plural: Die Korkenzieher)"
-      },
-      "examples": {
-        "en": {
-          "text": "The corkscrew is in the top drawer.",
-          "es": "El sacacorchos está en el cajón de arriba."
-        },
-        "fr": {
-          "text": "Le tire-bouchon est dans le tiroir du haut.",
-          "es": "El sacacorchos está en el cajón de arriba."
-        },
-        "it": {
-          "text": "Il cavatappi è nel cassetto in alto.",
-          "es": "El sacacorchos está en el cajón de arriba."
-        },
-        "pt": {
-          "text": "O saca-rolhas está na gaveta de cima.",
-          "es": "El sacacorchos está en el cajón de arriba."
-        },
-        "de": {
-          "text": "Der Korkenzieher ist in der obersten Schublade.",
-          "es": "El sacacorchos está en el cajón de arriba."
-        }
-      }
-    },
-    {
-      "id": "ca238",
-      "es": "El escurridor de pasta",
-      "translations": {
-        "en": "The colander",
-        "fr": "La passoire à pâtes",
-        "it": "Lo scolapasta",
-        "pt": "O escorredor de macarrão",
-        "de": "Das Nudelsieb"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The colanders)",
-        "fr": "(Plural: Les passoires à pâtes)",
-        "it": "(Plural: Gli scolapasta)",
-        "pt": "(Plural: Os escorredores de macarrão)",
-        "de": "(Plural: Die Nudelsiebe)"
-      },
-      "examples": {
-        "en": {
-          "text": "The colander is on top of the pot.",
-          "es": "El escurridor de pasta está encima de la olla."
-        },
-        "fr": {
-          "text": "La passoire à pâtes est posée sur la marmite.",
-          "es": "El escurridor de pasta está encima de la olla."
-        },
-        "it": {
-          "text": "Lo scolapasta è sopra la pentola.",
-          "es": "El escurridor de pasta está encima de la olla."
-        },
-        "pt": {
-          "text": "O escorredor de macarrão está em cima da panela.",
-          "es": "El escurridor de pasta está encima de la olla."
-        },
-        "de": {
-          "text": "Das Nudelsieb steht auf dem Topf.",
-          "es": "El escurridor de pasta está encima de la olla."
-        }
-      }
-    },
-    {
-      "id": "ca239",
-      "es": "La jaladera",
-      "translations": {
-        "en": "The drawer pull",
-        "fr": "La poignée de tiroir",
-        "it": "La maniglia del cassetto",
-        "pt": "O puxador de gaveta",
-        "de": "Der Schubladengriff"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The drawer pulls)",
-        "fr": "(Plural: Les poignées de tiroir)",
-        "it": "(Plural: Le maniglie del cassetto)",
-        "pt": "(Plural: Os puxadores de gaveta)",
-        "de": "(Plural: Die Schubladengriffe)"
-      },
-      "examples": {
-        "en": {
-          "text": "The drawer pull moves around a little.",
-          "es": "La jaladera se mueve un poco."
-        },
-        "fr": {
-          "text": "La poignée de tiroir bouge un peu.",
-          "es": "La jaladera se mueve un poco."
-        },
-        "it": {
-          "text": "La maniglia del cassetto si muove un po'.",
-          "es": "La jaladera se mueve un poco."
-        },
-        "pt": {
-          "text": "O puxador de gaveta se mexe um pouco.",
-          "es": "La jaladera se mueve un poco."
-        },
-        "de": {
-          "text": "Der Schubladengriff wackelt ein bisschen.",
-          "es": "La jaladera se mueve un poco."
-        }
-      }
-    },
-    {
-      "id": "ca240",
-      "es": "El gancho para ropa",
-      "translations": {
-        "en": "The clothes hanger",
-        "fr": "Le cintre",
-        "it": "La gruccia",
-        "pt": "O cabide",
-        "de": "Der Kleiderbügel"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The clothes hangers)",
-        "fr": "(Plural: Les cintres)",
-        "it": "(Plural: Le grucce)",
-        "pt": "(Plural: Os cabides)",
-        "de": "(Plural: Die Kleiderbügel)"
-      },
-      "examples": {
-        "en": {
-          "text": "The clothes hanger holds two shirts.",
-          "es": "El gancho para ropa sostiene dos camisas."
-        },
-        "fr": {
-          "text": "Le cintre porte deux chemises.",
-          "es": "El gancho para ropa sostiene dos camisas."
-        },
-        "it": {
-          "text": "La gruccia regge due camicie.",
-          "es": "El gancho para ropa sostiene dos camisas."
-        },
-        "pt": {
-          "text": "O cabide segura duas camisas.",
-          "es": "El gancho para ropa sostiene dos camisas."
-        },
-        "de": {
-          "text": "Der Kleiderbügel trägt zwei Hemden.",
-          "es": "El gancho para ropa sostiene dos camisas."
-        }
-      }
-    },
-    {
-      "id": "ca241",
-      "es": "El desinfectante",
-      "translations": {
-        "en": "The disinfectant",
-        "fr": "Le désinfectant",
-        "it": "Il disinfettante",
-        "pt": "O desinfetante",
-        "de": "Das Desinfektionsmittel"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "Producto para desinfectar superficies.",
-        "fr": "(Plural: Les désinfectants)",
-        "it": "(Plural: I disinfettanti)",
-        "pt": "(Plural: Os desinfetantes)"
-      },
-      "examples": {
-        "en": {
-          "text": "The disinfectant is in the bathroom.",
-          "es": "El desinfectante está en el baño."
-        },
-        "fr": {
-          "text": "Le désinfectant est dans la salle de bains.",
-          "es": "El desinfectante está en el baño."
-        },
-        "it": {
-          "text": "Il disinfettante è in bagno.",
-          "es": "El desinfectante está en el baño."
-        },
-        "pt": {
-          "text": "O desinfetante fica no banheiro.",
-          "es": "El desinfectante está en el baño."
-        },
-        "de": {
-          "text": "Mit dem Desinfektionsmittel wischen wir das Waschbecken ab.",
-          "es": "Limpiamos el lavabo con el desinfectante."
-        }
-      }
-    },
-    {
-      "id": "ca242",
-      "es": "El plato",
-      "translations": {
-        "en": "The plate",
-        "fr": "L'assiette",
-        "it": "Il piatto",
-        "pt": "O prato",
-        "de": "Der Teller"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The plates)",
-        "fr": "(Plural: Les assiettes)",
-        "it": "(Plural: I piatti)",
-        "pt": "(Plural: Os pratos)",
-        "de": "(Plural: Die Teller)"
-      },
-      "examples": {
-        "en": {
-          "text": "The plate is in front of my chair.",
-          "es": "El plato está frente a mi silla."
-        },
-        "fr": {
-          "text": "L'assiette est en face de ma chaise.",
-          "es": "El plato está frente a mi silla."
-        },
-        "it": {
-          "text": "Il piatto è di fronte alla mia sedia.",
-          "es": "El plato está frente a mi silla."
-        },
-        "pt": {
-          "text": "O prato está na frente da minha cadeira.",
-          "es": "El plato está frente a mi silla."
-        },
-        "de": {
-          "text": "Der Teller steht vor meinem Stuhl.",
-          "es": "El plato está frente a mi silla."
-        }
-      }
-    },
-    {
-      "id": "ca243",
-      "es": "El vaso",
-      "translations": {
-        "en": "The drinking glass",
-        "fr": "Le verre",
-        "it": "Il bicchiere",
-        "pt": "O copo",
-        "de": "Das Trinkglas"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The drinking glasses)",
-        "fr": "(Plural: Les verres)",
-        "it": "(Plural: I bicchieri)",
-        "pt": "(Plural: Os copos)",
-        "de": "(Plural: Die Trinkgläser)"
-      },
-      "examples": {
-        "en": {
-          "text": "The drinking glass has cold water in it.",
-          "es": "El vaso tiene agua fría."
-        },
-        "fr": {
-          "text": "Le verre contient de l'eau froide.",
-          "es": "El vaso tiene agua fría."
-        },
-        "it": {
-          "text": "Il bicchiere contiene acqua fredda.",
-          "es": "El vaso tiene agua fría."
-        },
-        "pt": {
-          "text": "O copo tem água fria.",
-          "es": "El vaso tiene agua fría."
-        },
-        "de": {
-          "text": "Das Trinkglas enthält kaltes Wasser.",
-          "es": "El vaso tiene agua fría."
-        }
-      }
-    },
-    {
-      "id": "ca244",
-      "es": "La taza",
-      "translations": {
-        "en": "The cup",
-        "fr": "La tasse",
-        "it": "La tazza",
-        "pt": "A xícara",
-        "de": "Die Tasse"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The cups)",
-        "fr": "(Plural: Les tasses)",
-        "it": "(Plural: Le tazze)",
-        "pt": "(Plural: As xícaras)",
-        "de": "(Plural: Die Tassen)"
-      },
-      "examples": {
-        "en": {
-          "text": "The cup is next to the coffee maker.",
-          "es": "La taza está junto a la cafetera."
-        },
-        "fr": {
-          "text": "La tasse est à côté de la cafetière.",
-          "es": "La taza está junto a la cafetera."
-        },
-        "it": {
-          "text": "La tazza è accanto alla macchina del caffè.",
-          "es": "La taza está junto a la cafetera."
-        },
-        "pt": {
-          "text": "A xícara está ao lado da cafeteira.",
-          "es": "La taza está junto a la cafetera."
-        },
-        "de": {
-          "text": "Die Tasse steht neben der Kaffeemaschine.",
-          "es": "La taza está junto a la cafetera."
-        }
-      }
-    },
-    {
-      "id": "ca245",
-      "es": "El tenedor",
-      "translations": {
-        "en": "The fork",
-        "fr": "La fourchette",
-        "it": "La forchetta",
-        "pt": "O garfo",
-        "de": "Die Gabel"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The forks)",
-        "fr": "(Plural: Les fourchettes)",
-        "it": "(Plural: Le forchette)",
-        "pt": "(Plural: Os garfos)",
-        "de": "(Plural: Die Gabeln)"
-      },
-      "examples": {
-        "en": {
-          "text": "The fork is to the left of the plate.",
-          "es": "El tenedor está a la izquierda del plato."
-        },
-        "fr": {
-          "text": "La fourchette est à gauche de l'assiette.",
-          "es": "El tenedor está a la izquierda del plato."
-        },
-        "it": {
-          "text": "La forchetta è a sinistra del piatto.",
-          "es": "El tenedor está a la izquierda del plato."
-        },
-        "pt": {
-          "text": "O garfo está à esquerda do prato.",
-          "es": "El tenedor está a la izquierda del plato."
-        },
-        "de": {
-          "text": "Die Gabel liegt links vom Teller.",
-          "es": "El tenedor está a la izquierda del plato."
-        }
-      }
-    },
-    {
-      "id": "ca246",
-      "es": "El cuchillo",
-      "translations": {
-        "en": "The knife",
-        "fr": "Le couteau",
-        "it": "Il coltello",
-        "pt": "A faca",
-        "de": "Das Messer"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The knives)",
-        "fr": "(Plural: Les couteaux)",
-        "it": "(Plural: I coltelli)",
-        "pt": "(Plural: As facas)",
-        "de": "(Plural: Die Messer)"
-      },
-      "examples": {
-        "en": {
-          "text": "The knife is on the cutting board.",
-          "es": "El cuchillo está sobre la tabla de picar."
-        },
-        "fr": {
-          "text": "Le couteau est sur la planche à découper.",
-          "es": "El cuchillo está sobre la tabla de picar."
-        },
-        "it": {
-          "text": "Il coltello è sul tagliere.",
-          "es": "El cuchillo está sobre la tabla de picar."
-        },
-        "pt": {
-          "text": "A faca está em cima da tábua de cortar.",
-          "es": "El cuchillo está sobre la tabla de picar."
-        },
-        "de": {
-          "text": "Das Messer liegt auf dem Schneidebrett.",
-          "es": "El cuchillo está sobre la tabla de picar."
-        }
-      }
-    },
-    {
-      "id": "ca247",
-      "es": "La cuchara",
-      "translations": {
-        "en": "The spoon",
-        "fr": "La cuillère",
-        "it": "Il cucchiaio",
-        "pt": "A colher",
-        "de": "Der Löffel"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The spoons)",
-        "fr": "(Plural: Les cuillères)",
-        "it": "(Plural: I cucchiai)",
-        "pt": "(Plural: As colheres)",
-        "de": "(Plural: Die Löffel)"
-      },
-      "examples": {
-        "en": {
-          "text": "The spoon is inside the cup.",
-          "es": "La cuchara está dentro de la taza."
-        },
-        "fr": {
-          "text": "La cuillère est dans la tasse.",
-          "es": "La cuchara está dentro de la taza."
-        },
-        "it": {
-          "text": "Il cucchiaio è dentro la tazza.",
-          "es": "La cuchara está dentro de la taza."
-        },
-        "pt": {
-          "text": "A colher está dentro da xícara.",
-          "es": "La cuchara está dentro de la taza."
-        },
-        "de": {
-          "text": "Der Löffel liegt in der Tasse.",
-          "es": "La cuchara está dentro de la taza."
-        }
-      }
-    },
-    {
-      "id": "ca248",
-      "es": "El cepillo para el inodoro",
-      "translations": {
-        "en": "The toilet brush",
-        "fr": "La brosse WC",
-        "it": "Lo scopino per WC",
-        "pt": "A escova sanitária",
-        "de": "Die Toilettenbürste"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The toilet brushes)",
-        "fr": "(Plural: Les brosses WC)",
-        "it": "(Plural: Gli scopini per WC)",
-        "pt": "(Plural: As escovas sanitárias)",
-        "de": "(Plural: Die Toilettenbürsten)"
-      },
-      "examples": {
-        "en": {
-          "text": "The toilet brush is in the bathroom.",
-          "es": "El cepillo para el inodoro está en el baño."
-        },
-        "fr": {
-          "text": "La brosse WC est dans la salle de bains.",
-          "es": "El cepillo para el inodoro está en el baño."
-        },
-        "it": {
-          "text": "Lo scopino per WC è in bagno.",
-          "es": "El cepillo para el inodoro está en el baño."
-        },
-        "pt": {
-          "text": "A escova sanitária fica no banheiro.",
-          "es": "El cepillo para el inodoro está en el baño."
-        },
-        "de": {
-          "text": "Die Toilettenbürste steht neben der Toilette.",
-          "es": "El cepillo para el inodoro está junto al inodoro."
-        }
-      }
-    },
-    {
-      "id": "ca249",
-      "es": "La llave de paso",
-      "translations": {
-        "en": "The shutoff valve",
-        "fr": "Le robinet d'arrêt",
-        "it": "La valvola di intercettazione",
-        "pt": "O registro de água",
-        "de": "Das Wasserabsperrventil"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The shutoff valves)",
-        "fr": "(Plural: Les robinets d'arrêt)",
-        "it": "(Plural: Le valvole di intercettazione)",
-        "pt": "(Plural: Os registros de água)",
-        "de": "(Plural: Die Wasserabsperrventile)"
-      },
-      "examples": {
-        "en": {
-          "text": "The shutoff valve is under the bathroom sink.",
-          "es": "La llave de paso está debajo del lavabo."
-        },
-        "fr": {
-          "text": "Le robinet d'arrêt est sous le lavabo.",
-          "es": "La llave de paso está debajo del lavabo."
-        },
-        "it": {
-          "text": "La valvola di intercettazione è sotto il lavandino.",
-          "es": "La llave de paso está debajo del lavabo."
-        },
-        "pt": {
-          "text": "O registro de água fica embaixo da pia do banheiro.",
-          "es": "La llave de paso está debajo del lavabo."
-        },
-        "de": {
-          "text": "Das Wasserabsperrventil ist unter dem Waschbecken.",
-          "es": "La llave de paso está debajo del lavabo."
-        }
-      }
-    },
-    {
-      "id": "ca250",
-      "es": "El extintor",
-      "translations": {
-        "en": "The fire extinguisher",
-        "fr": "L'extincteur",
-        "it": "L'estintore",
-        "pt": "O extintor de incêndio",
-        "de": "Der Feuerlöscher"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The fire extinguishers)",
-        "fr": "(Plural: Les extincteurs)",
-        "it": "(Plural: Gli estintori)",
-        "pt": "(Plural: Os extintores de incêndio)",
-        "de": "(Plural: Die Feuerlöscher)"
-      },
-      "examples": {
-        "en": {
-          "text": "The fire extinguisher is near the exit.",
-          "es": "El extintor está cerca de la salida."
-        },
-        "fr": {
-          "text": "L'extincteur est près de la sortie.",
-          "es": "El extintor está cerca de la salida."
-        },
-        "it": {
-          "text": "L'estintore è vicino all'uscita.",
-          "es": "El extintor está cerca de la salida."
-        },
-        "pt": {
-          "text": "O extintor de incêndio fica perto da saída.",
-          "es": "El extintor está cerca de la salida."
-        },
-        "de": {
-          "text": "Der Feuerlöscher ist neben dem Ausgang.",
-          "es": "El extintor está junto a la salida."
-        }
-      }
-    },
-    {
-      "id": "ca251",
-      "es": "El detector de humo",
-      "translations": {
-        "en": "The smoke detector",
-        "fr": "Le détecteur de fumée",
-        "it": "Il rilevatore di fumo",
-        "pt": "O detector de fumaça",
-        "de": "Der Rauchmelder"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The smoke detectors)",
-        "fr": "(Plural: Les détecteurs de fumée)",
-        "it": "(Plural: I rilevatori di fumo)",
-        "pt": "(Plural: Os detectores de fumaça)",
-        "de": "(Plural: Die Rauchmelder)"
-      },
-      "examples": {
-        "en": {
-          "text": "The smoke detector is on the hallway ceiling.",
-          "es": "El detector de humo está en el techo del pasillo."
-        },
-        "fr": {
-          "text": "Le détecteur de fumée est au plafond du couloir.",
-          "es": "El detector de humo está en el techo del pasillo."
-        },
-        "it": {
-          "text": "Il rilevatore di fumo è sul soffitto del corridoio.",
-          "es": "El detector de humo está en el techo del pasillo."
-        },
-        "pt": {
-          "text": "O detector de fumaça fica no teto do corredor.",
-          "es": "El detector de humo está en el techo del pasillo."
-        },
-        "de": {
-          "text": "Der Rauchmelder ist an der Decke im Flur.",
-          "es": "El detector de humo está en el techo del pasillo."
-        }
-      }
-    },
-    {
-      "id": "ca252",
-      "es": "El escalón",
-      "translations": {
-        "en": "The step",
-        "fr": "La marche",
-        "it": "Il gradino",
-        "pt": "O degrau",
-        "de": "Die Treppenstufe"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The steps)",
-        "fr": "(Plural: Les marches)",
-        "it": "(Plural: I gradini)",
-        "pt": "(Plural: Os degraus)",
-        "de": "(Plural: Die Treppenstufen)"
-      },
-      "examples": {
-        "en": {
-          "text": "The step is higher than the other steps.",
-          "es": "El escalón es más alto que los demás."
-        },
-        "fr": {
-          "text": "La marche est plus haute que les autres marches.",
-          "es": "El escalón es más alto que los demás."
-        },
-        "it": {
-          "text": "Il gradino è più alto degli altri gradini.",
-          "es": "El escalón es más alto que los demás."
-        },
-        "pt": {
-          "text": "O degrau é mais alto que os outros degraus.",
-          "es": "El escalón es más alto que los demás."
-        },
-        "de": {
-          "text": "Die Treppenstufe ist höher als die anderen Stufen.",
-          "es": "El escalón es más alto que los demás."
-        }
+        "it": "Primera forma en masculino; segunda en femenino.",
+        "pt": "Primera forma en masculino; segunda en femenino."
       }
     }
   ]
