@@ -1,0 +1,1855 @@
+{
+  "module": "Consulta médica, farmacia y urgencias",
+  "level": "A1",
+  "revisado": true,
+  "cards": [
+    {
+      "id": "cs220",
+      "es": "El médico",
+      "translations": {
+        "en": "The doctor",
+        "pt": "O médico",
+        "fr": "Le médecin",
+        "it": "Il medico",
+        "de": "Der Arzt"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: Os médicos) Femenino: a médica; en plural, as médicas.",
+        "fr": "(Plural: Les médecins) Femenino: la médecin; también se encuentra une femme médecin.",
+        "it": "(Plural: I medici) Femenino: la medica; también se usa la dottoressa.",
+        "en": "(Plural: Doctors)",
+        "de": "(Plural: Die Ärzte) Femenino: die Ärztin; en plural, die Ärztinnen."
+      },
+      "examples": {
+        "en": {
+          "text": "The doctor sees patients in the morning.",
+          "es": "El médico atiende pacientes en la mañana."
+        },
+        "pt": {
+          "text": "O médico atende pacientes de manhã.",
+          "es": "El médico atiende pacientes en la mañana."
+        },
+        "fr": {
+          "text": "Le médecin reçoit les patients le matin.",
+          "es": "El médico atiende pacientes en la mañana."
+        },
+        "it": {
+          "text": "Il medico riceve i pazienti la mattina.",
+          "es": "El médico atiende pacientes en la mañana."
+        },
+        "de": {
+          "text": "Der Arzt empfängt morgens Patienten.",
+          "es": "El médico atiende pacientes en la mañana."
+        }
+      }
+    },
+    {
+      "id": "cs221",
+      "es": "El enfermero",
+      "translations": {
+        "en": "The nurse",
+        "pt": "O enfermeiro",
+        "fr": "L'infirmier",
+        "it": "L'infermiere",
+        "de": "Der Krankenpfleger"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: Os enfermeiros) Femenino: a enfermeira; en plural, as enfermeiras.",
+        "fr": "(Plural: Les infirmiers) Femenino: l'infirmière; en plural, les infirmières.",
+        "it": "(Plural: Gli infermieri) Femenino: l'infermiera; en plural, le infermiere.",
+        "en": "(Plural: Nurses)",
+        "de": "(Plural: Die Krankenpfleger) Femenino: die Krankenpflegerin. Pflegefachkraft es otra denominación profesional; se usa para cualquier género."
+      },
+      "examples": {
+        "en": {
+          "text": "The nurse called my name.",
+          "es": "El enfermero dijo mi nombre."
+        },
+        "pt": {
+          "text": "O enfermeiro chamou meu nome.",
+          "es": "El enfermero dijo mi nombre."
+        },
+        "fr": {
+          "text": "L'infirmier a appelé mon nom.",
+          "es": "El enfermero dijo mi nombre."
+        },
+        "it": {
+          "text": "L'infermiere ha chiamato il mio nome.",
+          "es": "El enfermero dijo mi nombre."
+        },
+        "de": {
+          "text": "Der Krankenpfleger hat meinen Namen aufgerufen.",
+          "es": "El enfermero dijo mi nombre."
+        }
+      }
+    },
+    {
+      "id": "cs111",
+      "es": "El paciente",
+      "translations": {
+        "en": "The patient",
+        "pt": "O paciente",
+        "fr": "Le patient",
+        "it": "Il paziente",
+        "de": "Der Patient"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: Os pacientes) Femenino: a paciente; en plural, as pacientes.",
+        "fr": "(Plural: Les patients) Femenino: la patiente; en plural, les patientes.",
+        "it": "(Plural: I pazienti) Femenino: la paziente; en plural, le pazienti.",
+        "en": "(Plural: Patients)",
+        "de": "(Plural: Die Patienten) Femenino: die Patientin; en plural, die Patientinnen."
+      },
+      "examples": {
+        "en": {
+          "text": "The patient is in the waiting room.",
+          "es": "El paciente está en la sala de espera."
+        },
+        "pt": {
+          "text": "O paciente está na sala de espera.",
+          "es": "El paciente está en la sala de espera."
+        },
+        "fr": {
+          "text": "Le patient est dans la salle d'attente.",
+          "es": "El paciente está en la sala de espera."
+        },
+        "it": {
+          "text": "Il paziente è in sala d'attesa.",
+          "es": "El paciente está en la sala de espera."
+        },
+        "de": {
+          "text": "Der Patient ist im Wartezimmer.",
+          "es": "El paciente está en la sala de espera."
+        }
+      }
+    },
+    {
+      "id": "cs105",
+      "es": "El hospital",
+      "translations": {
+        "en": "The hospital",
+        "pt": "O hospital",
+        "fr": "L'hôpital",
+        "it": "L'ospedale",
+        "de": "Das Krankenhaus"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: Os hospitais)",
+        "fr": "(Plural: Les hôpitaux)",
+        "it": "(Plural: Gli ospedali)",
+        "en": "(Plural: Hospitals)",
+        "de": "(Plural: Die Krankenhäuser)"
+      },
+      "examples": {
+        "en": {
+          "text": "The hospital is next to the bus stop.",
+          "es": "El hospital está al lado de la parada de autobús."
+        },
+        "pt": {
+          "text": "O hospital fica ao lado do ponto de ônibus.",
+          "es": "El hospital está al lado de la parada de autobús."
+        },
+        "fr": {
+          "text": "L'hôpital est à côté de l'arrêt de bus.",
+          "es": "El hospital está al lado de la parada de autobús."
+        },
+        "it": {
+          "text": "L'ospedale è accanto alla fermata dell'autobus.",
+          "es": "El hospital está al lado de la parada de autobús."
+        },
+        "de": {
+          "text": "Das Krankenhaus liegt neben der Bushaltestelle.",
+          "es": "El hospital está al lado de la parada de autobús."
+        }
+      }
+    },
+    {
+      "id": "cs106",
+      "es": "La clínica",
+      "translations": {
+        "en": "The clinic",
+        "pt": "A clínica",
+        "fr": "La clinique",
+        "it": "La clinica",
+        "de": "Die Klinik"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: As clínicas)",
+        "fr": "(Plural: Les cliniques)",
+        "it": "(Plural: Le cliniche)",
+        "es": "Un centro de salud puede prestar servicios diferentes a los de una clínica.",
+        "en": "(Plural: Clinics)",
+        "de": "(Plural: Die Kliniken)"
+      },
+      "examples": {
+        "en": {
+          "text": "The clinic opens at eight.",
+          "es": "La clínica abre a las ocho."
+        },
+        "pt": {
+          "text": "A clínica abre às oito.",
+          "es": "La clínica abre a las ocho."
+        },
+        "fr": {
+          "text": "La clinique ouvre à huit heures.",
+          "es": "La clínica abre a las ocho."
+        },
+        "it": {
+          "text": "La clinica apre alle otto.",
+          "es": "La clínica abre a las ocho."
+        },
+        "de": {
+          "text": "Die Klinik öffnet um acht.",
+          "es": "La clínica abre a las ocho."
+        }
+      }
+    },
+    {
+      "id": "cs107",
+      "es": "El consultorio médico",
+      "translations": {
+        "en": "The doctor's office",
+        "pt": "O consultório médico",
+        "fr": "Le cabinet médical",
+        "it": "Lo studio medico",
+        "de": "Die Arztpraxis"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: Os consultórios médicos)",
+        "fr": "(Plural: Les cabinets médicaux)",
+        "it": "(Plural: Gli studi medici)",
+        "en": "(Plural: The doctors' offices)",
+        "de": "(Plural: Die Arztpraxen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The doctor's office is on the first floor.",
+          "es": "El consultorio médico está un piso arriba de la planta baja."
+        },
+        "pt": {
+          "text": "O consultório médico fica no primeiro andar.",
+          "es": "El consultorio médico está un piso arriba de la planta baja."
+        },
+        "fr": {
+          "text": "Le cabinet médical est au premier étage.",
+          "es": "El consultorio médico está un piso arriba de la planta baja."
+        },
+        "it": {
+          "text": "Lo studio medico è al primo piano.",
+          "es": "El consultorio médico está un piso arriba de la planta baja."
+        },
+        "de": {
+          "text": "Die Arztpraxis ist im ersten Stock.",
+          "es": "El consultorio médico está un piso arriba de la planta baja."
+        }
+      }
+    },
+    {
+      "id": "cs108",
+      "es": "La farmacia",
+      "translations": {
+        "en": "The pharmacy",
+        "pt": "A farmácia",
+        "fr": "La pharmacie",
+        "it": "La farmacia",
+        "de": "Die Apotheke"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: As farmácias)",
+        "fr": "(Plural: Les pharmacies)",
+        "it": "(Plural: Le farmacie)",
+        "en": "(Plural: Pharmacies)",
+        "de": "(Plural: Die Apotheken)"
+      },
+      "examples": {
+        "en": {
+          "text": "Is the pharmacy open today?",
+          "es": "¿Está abierta la farmacia hoy?"
+        },
+        "pt": {
+          "text": "A farmácia está aberta hoje?",
+          "es": "¿Está abierta la farmacia hoy?"
+        },
+        "fr": {
+          "text": "La pharmacie est ouverte aujourd'hui ?",
+          "es": "¿Está abierta la farmacia hoy?"
+        },
+        "it": {
+          "text": "La farmacia è aperta oggi?",
+          "es": "¿Está abierta la farmacia hoy?"
+        },
+        "de": {
+          "text": "Hat die Apotheke heute geöffnet?",
+          "es": "¿Está abierta la farmacia hoy?"
+        }
+      }
+    },
+    {
+      "id": "cs109",
+      "es": "El servicio de urgencias",
+      "translations": {
+        "en": "The emergency department",
+        "pt": "O pronto-socorro",
+        "fr": "Les urgences",
+        "it": "Il pronto soccorso",
+        "de": "Die Notaufnahme"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "En Estados Unidos también se dice emergency room, abreviado ER en señalización.",
+        "pt": "Pronto-socorro se usa para el servicio de urgencias.",
+        "it": "(Plural: I pronto soccorso)",
+        "es": "(Servicio hospitalario)",
+        "de": "(Plural: Die Notaufnahmen)",
+        "fr": "En este sentido se usa normalmente el plural les urgences."
+      },
+      "examples": {
+        "en": {
+          "text": "Where is the emergency department?",
+          "es": "¿Dónde está el servicio de urgencias?"
+        },
+        "pt": {
+          "text": "Onde fica o pronto-socorro?",
+          "es": "¿Dónde está el servicio de urgencias?"
+        },
+        "fr": {
+          "text": "Où sont les urgences ?",
+          "es": "¿Dónde está el servicio de urgencias?"
+        },
+        "it": {
+          "text": "Dov'è il pronto soccorso?",
+          "es": "¿Dónde está el servicio de urgencias?"
+        },
+        "de": {
+          "text": "Wo ist die Notaufnahme?",
+          "es": "¿Dónde está el servicio de urgencias?"
+        }
+      }
+    },
+    {
+      "id": "cs110",
+      "es": "La ambulancia",
+      "translations": {
+        "en": "The ambulance",
+        "pt": "A ambulância",
+        "fr": "L'ambulance",
+        "it": "L'ambulanza",
+        "de": "Der Rettungswagen"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: As ambulâncias)",
+        "fr": "(Plural: Les ambulances)",
+        "it": "(Plural: Le ambulanze)",
+        "en": "(Plural: Ambulances)",
+        "de": "(Plural: Die Rettungswagen) Rettungswagen es el término habitual al pedir una ambulancia de urgencias; Krankenwagen se usa también, con un sentido más amplio."
+      },
+      "examples": {
+        "en": {
+          "text": "The ambulance has arrived.",
+          "es": "Ya llegó la ambulancia."
+        },
+        "pt": {
+          "text": "A ambulância chegou.",
+          "es": "Ya llegó la ambulancia."
+        },
+        "fr": {
+          "text": "L'ambulance est arrivée.",
+          "es": "Ya llegó la ambulancia."
+        },
+        "it": {
+          "text": "L'ambulanza è arrivata.",
+          "es": "Ya llegó la ambulancia."
+        },
+        "de": {
+          "text": "Der Rettungswagen ist angekommen.",
+          "es": "Ya llegó la ambulancia."
+        }
+      }
+    },
+    {
+      "id": "cs126",
+      "es": "La silla de ruedas",
+      "translations": {
+        "en": "The wheelchair",
+        "pt": "A cadeira de rodas",
+        "fr": "Le fauteuil roulant",
+        "it": "La sedia a rotelle",
+        "de": "Der Rollstuhl"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: As cadeiras de rodas)",
+        "fr": "(Plural: Les fauteuils roulants)",
+        "it": "(Plural: Le sedie a rotelle)",
+        "en": "(Plural: Wheelchairs)",
+        "de": "(Plural: Die Rollstühle)",
+        "es": "(Dispositivo de movilidad)"
+      },
+      "examples": {
+        "en": {
+          "text": "Is there space for a wheelchair in the elevator?",
+          "es": "¿Hay espacio para una silla de ruedas en el elevador?"
+        },
+        "pt": {
+          "text": "Tem espaço para uma cadeira de rodas no elevador?",
+          "es": "¿Hay espacio para una silla de ruedas en el elevador?"
+        },
+        "fr": {
+          "text": "Il y a de la place pour un fauteuil roulant dans l'ascenseur ?",
+          "es": "¿Hay espacio para una silla de ruedas en el elevador?"
+        },
+        "it": {
+          "text": "C'è spazio per una sedia a rotelle in ascensore?",
+          "es": "¿Hay espacio para una silla de ruedas en el elevador?"
+        },
+        "de": {
+          "text": "Ist im Aufzug Platz für einen Rollstuhl?",
+          "es": "¿Hay espacio para una silla de ruedas en el elevador?"
+        }
+      }
+    },
+    {
+      "id": "cs125",
+      "es": "Las muletas",
+      "translations": {
+        "en": "The crutches",
+        "pt": "As muletas",
+        "fr": "Les béquilles",
+        "it": "Le stampelle",
+        "de": "Die Krücken"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Singular: the crutch",
+        "pt": "Singular: a muleta",
+        "fr": "Singular: la béquille",
+        "it": "Singular: la stampella",
+        "de": "La forma habitual en plural es Krücken; una muleta es eine Krücke."
+      },
+      "examples": {
+        "en": {
+          "text": "I need crutches to walk.",
+          "es": "Necesito muletas para caminar."
+        },
+        "pt": {
+          "text": "Preciso de muletas para andar.",
+          "es": "Necesito muletas para caminar."
+        },
+        "fr": {
+          "text": "J'ai besoin de béquilles pour marcher.",
+          "es": "Necesito muletas para caminar."
+        },
+        "it": {
+          "text": "Mi servono le stampelle per camminare.",
+          "es": "Necesito muletas para caminar."
+        },
+        "de": {
+          "text": "Ich brauche Krücken zum Gehen.",
+          "es": "Necesito muletas para caminar."
+        }
+      }
+    },
+    {
+      "id": "cs112",
+      "es": "La cita médica",
+      "translations": {
+        "en": "The doctor's appointment",
+        "pt": "A consulta médica",
+        "fr": "Le rendez-vous médical",
+        "it": "L'appuntamento medico",
+        "de": "Der Arzttermin"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: As consultas médicas)",
+        "fr": "(Plural: Les rendez-vous médicaux)",
+        "it": "(Plural: Gli appuntamenti medici)",
+        "en": "(Plural: Doctor's appointments)",
+        "de": "(Plural: Die Arzttermine)"
+      },
+      "examples": {
+        "en": {
+          "text": "My doctor's appointment is at three.",
+          "es": "Mi cita médica es a las tres."
+        },
+        "pt": {
+          "text": "Minha consulta médica é às três.",
+          "es": "Mi cita médica es a las tres."
+        },
+        "fr": {
+          "text": "Mon rendez-vous médical est à trois heures.",
+          "es": "Mi cita médica es a las tres."
+        },
+        "it": {
+          "text": "Il mio appuntamento medico è alle tre.",
+          "es": "Mi cita médica es a las tres."
+        },
+        "de": {
+          "text": "Mein Arzttermin ist um drei Uhr.",
+          "es": "Mi cita médica es a las tres."
+        }
+      }
+    },
+    {
+      "id": "cs113",
+      "es": "El seguro médico",
+      "translations": {
+        "en": "Health insurance",
+        "pt": "O seguro-saúde",
+        "fr": "L'assurance maladie",
+        "it": "L'assicurazione sanitaria",
+        "de": "Die Krankenversicherung"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: Os seguros-saúde) Plano de saúde también se usa; no todo plan tiene la misma cobertura.",
+        "fr": "(Plural: Les assurances maladie)",
+        "it": "(Plural: Le assicurazioni sanitarie)",
+        "es": "También: seguro de salud.",
+        "de": "(Plural: Die Krankenversicherungen)",
+        "en": "Health insurance se usa normalmente sin artículo al hablar de la cobertura en general."
+      },
+      "examples": {
+        "en": {
+          "text": "Does this clinic accept my health insurance?",
+          "es": "¿Esta clínica acepta mi seguro médico?"
+        },
+        "pt": {
+          "text": "Esta clínica aceita meu seguro-saúde?",
+          "es": "¿Esta clínica acepta mi seguro médico?"
+        },
+        "fr": {
+          "text": "Cette clinique accepte mon assurance maladie ?",
+          "es": "¿Esta clínica acepta mi seguro médico?"
+        },
+        "it": {
+          "text": "Questa clinica accetta la mia assicurazione sanitaria?",
+          "es": "¿Esta clínica acepta mi seguro médico?"
+        },
+        "de": {
+          "text": "Akzeptiert diese Klinik meine Krankenversicherung?",
+          "es": "¿Esta clínica acepta mi seguro médico?"
+        }
+      }
+    },
+    {
+      "id": "cs184",
+      "es": "Necesito ver a un médico.",
+      "translations": {
+        "en": "I need to see a doctor.",
+        "pt": "Preciso consultar um médico.",
+        "fr": "J'ai besoin de voir un médecin.",
+        "it": "Ho bisogno di vedere un medico.",
+        "de": "Ich muss zum Arzt."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs185",
+      "es": "¿Hay un médico disponible hoy?",
+      "translations": {
+        "en": "Is a doctor available today?",
+        "pt": "Há um médico disponível hoje?",
+        "fr": "Y a-t-il un médecin disponible aujourd'hui ?",
+        "it": "C'è un medico disponibile oggi?",
+        "de": "Ist heute ein Arzt verfügbar?"
+      },
+      "image_url": "",
+      "notes": {
+        "de": "En recepción también se pregunta: Ist heute ein Arzt da?"
+      }
+    },
+    {
+      "id": "cs186",
+      "es": "Quisiera hacer una cita médica.",
+      "translations": {
+        "en": "I'd like to make a doctor's appointment.",
+        "pt": "Gostaria de marcar uma consulta médica.",
+        "fr": "Je voudrais prendre rendez-vous avec un médecin.",
+        "it": "Vorrei prendere un appuntamento con un medico.",
+        "de": "Ich möchte einen Arzttermin vereinbaren."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs187",
+      "es": "No tengo cita.",
+      "translations": {
+        "en": "I don't have an appointment.",
+        "pt": "Não tenho consulta marcada.",
+        "fr": "Je n'ai pas de rendez-vous.",
+        "it": "Non ho un appuntamento.",
+        "de": "Ich habe keinen Termin."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs188",
+      "es": "Necesito un dentista.",
+      "translations": {
+        "en": "I need a dentist.",
+        "pt": "Preciso de um dentista.",
+        "fr": "J'ai besoin de voir un dentiste.",
+        "it": "Ho bisogno di un dentista.",
+        "de": "Ich brauche einen Zahnarzt."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs189",
+      "es": "¿Dónde está la farmacia más cercana?",
+      "translations": {
+        "en": "Where is the nearest pharmacy?",
+        "pt": "Onde fica a farmácia mais próxima?",
+        "fr": "Où est la pharmacie la plus proche ?",
+        "it": "Dov'è la farmacia più vicina?",
+        "de": "Wo ist die nächste Apotheke?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs197",
+      "es": "Necesito un intérprete de español.",
+      "translations": {
+        "en": "I need a Spanish interpreter.",
+        "pt": "Preciso de um intérprete de espanhol.",
+        "fr": "J'ai besoin d'un interprète en espagnol.",
+        "it": "Ho bisogno di un interprete di spagnolo.",
+        "de": "Ich brauche einen Dolmetscher für Spanisch."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Para interpretación oral en una consulta)",
+        "de": "Femenino: eine Dolmetscherin für Spanisch."
+      }
+    },
+    {
+      "id": "cs198",
+      "es": "¿Puedo hablar en privado con el médico?",
+      "translations": {
+        "en": "Can I speak to the doctor in private?",
+        "pt": "Posso falar com o médico em particular?",
+        "fr": "Puis-je parler au médecin en privé ?",
+        "it": "Posso parlare con il medico in privato?",
+        "de": "Kann ich mit dem Arzt unter vier Augen sprechen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs199",
+      "es": "No tengo seguro médico.",
+      "translations": {
+        "en": "I don't have health insurance.",
+        "pt": "Não tenho seguro-saúde.",
+        "fr": "Je n'ai pas d'assurance maladie.",
+        "it": "Non ho un'assicurazione sanitaria.",
+        "de": "Ich habe keine Krankenversicherung."
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "También se dice «Não tenho plano de saúde» cuando se habla de un plan de salud."
+      }
+    },
+    {
+      "id": "cs200",
+      "es": "¿Cuánto cuesta la consulta?",
+      "translations": {
+        "en": "How much does the doctor's visit cost?",
+        "pt": "Quanto custa a consulta?",
+        "fr": "Combien coûte la consultation ?",
+        "it": "Quanto costa la visita?",
+        "de": "Was kostet der Arztbesuch?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs173",
+      "es": "¿Tienes alguna alergia? / ¿Tiene alguna alergia?",
+      "translations": {
+        "en": "Do you have any allergies?",
+        "pt": "Você tem alguma alergia?",
+        "fr": "As-tu des allergies ? / Avez-vous des allergies ?",
+        "it": "Hai qualche allergia? / Ha qualche allergia?",
+        "de": "Hast du Allergien? / Haben Sie Allergien?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Primero tú (informal); después usted (formal).",
+        "fr": "Primero tu (informal); después vous (formal).",
+        "it": "Primero tu (informal); después Lei (formal).",
+        "de": "Primero du (informal); después Sie (formal).",
+        "pt": "Você o la forma verbal correspondiente son habituales en Brasil."
+      }
+    },
+    {
+      "id": "cs174",
+      "es": "Soy alérgico a la penicilina. / Soy alérgica a la penicilina.",
+      "translations": {
+        "en": "I'm allergic to penicillin.",
+        "pt": "Tenho alergia à penicilina.",
+        "fr": "Je suis allergique à la pénicilline.",
+        "it": "Sono allergico alla penicillina. / Sono allergica alla penicillina.",
+        "de": "Ich bin gegen Penicillin allergisch."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs175",
+      "es": "No tengo alergias conocidas.",
+      "translations": {
+        "en": "I have no known allergies.",
+        "pt": "Não tenho alergias conhecidas.",
+        "fr": "Je n'ai pas d'allergies connues.",
+        "it": "Non ho allergie note.",
+        "de": "Ich habe keine bekannten Allergien."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs176",
+      "es": "¿Tomas algún medicamento? / ¿Toma algún medicamento?",
+      "translations": {
+        "en": "Do you take any medication?",
+        "pt": "Você toma algum medicamento?",
+        "fr": "Prends-tu des médicaments ? / Prenez-vous des médicaments ?",
+        "it": "Prendi qualche farmaco? / Prende qualche farmaco?",
+        "de": "Nimmst du Medikamente? / Nehmen Sie Medikamente?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Primero tú (informal); después usted (formal).",
+        "fr": "Primero tu (informal); después vous (formal).",
+        "it": "Primero tu (informal); después Lei (formal).",
+        "de": "Primero du (informal); después Sie (formal).",
+        "pt": "Você o la forma verbal correspondiente son habituales en Brasil."
+      }
+    },
+    {
+      "id": "cs177",
+      "es": "Tomo este medicamento todos los días.",
+      "translations": {
+        "en": "I take this medicine every day.",
+        "pt": "Tomo este remédio todos os dias.",
+        "fr": "Je prends ce médicament tous les jours.",
+        "it": "Prendo questo medicinale tutti i giorni.",
+        "de": "Ich nehme dieses Medikament jeden Tag ein."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs178",
+      "es": "No tomo ningún medicamento.",
+      "translations": {
+        "en": "I don't take any medication.",
+        "pt": "Não tomo nenhum medicamento.",
+        "fr": "Je ne prends aucun médicament.",
+        "it": "Non prendo nessun farmaco.",
+        "de": "Ich nehme keine Medikamente."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs179",
+      "es": "Ya tomé un medicamento para el dolor.",
+      "translations": {
+        "en": "I've already taken medicine for the pain.",
+        "pt": "Já tomei um remédio para a dor.",
+        "fr": "J'ai déjà pris un médicament contre la douleur.",
+        "it": "Ho già preso un medicinale per il dolore.",
+        "de": "Ich habe schon ein Mittel gegen die Schmerzen genommen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs180",
+      "es": "No recuerdo el nombre del medicamento.",
+      "translations": {
+        "en": "I don't remember the name of the medicine.",
+        "pt": "Não lembro o nome do medicamento.",
+        "fr": "Je ne me souviens pas du nom du médicament.",
+        "it": "Non ricordo il nome del medicinale.",
+        "de": "Ich weiß den Namen des Medikaments nicht mehr."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs181",
+      "es": "Tengo asma.",
+      "translations": {
+        "en": "I have asthma.",
+        "pt": "Tenho asma.",
+        "fr": "J'ai de l'asthme.",
+        "it": "Ho l'asma.",
+        "de": "Ich habe Asthma."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Para diabetes: Tengo diabetes.",
+        "en": "Para diabetes: I have diabetes.",
+        "pt": "Para diabetes: Tenho diabetes.",
+        "fr": "Para diabetes: J'ai du diabète.",
+        "it": "Para diabetes: Ho il diabete."
+      }
+    },
+    {
+      "id": "cs182",
+      "es": "Tengo la presión alta.",
+      "translations": {
+        "en": "I have high blood pressure.",
+        "pt": "Tenho pressão alta.",
+        "fr": "J'ai de l'hypertension.",
+        "it": "Ho la pressione alta.",
+        "de": "Ich habe hohen Blutdruck."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Para presión baja: Tengo la presión baja.",
+        "en": "Para presión baja: I have low blood pressure.",
+        "pt": "Para presión baja: Tenho pressão baixa.",
+        "fr": "Para presión baja: J'ai une tension basse.",
+        "it": "Para presión baja: Ho la pressione bassa."
+      }
+    },
+    {
+      "id": "cs183",
+      "es": "Creo que puedo estar embarazada.",
+      "translations": {
+        "en": "I think I might be pregnant.",
+        "pt": "Acho que posso estar grávida.",
+        "fr": "Je crois que je suis peut-être enceinte.",
+        "it": "Penso che potrei essere incinta.",
+        "de": "Ich glaube, ich könnte schwanger sein."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs114",
+      "es": "La receta médica",
+      "translations": {
+        "en": "The prescription",
+        "pt": "A receita médica",
+        "fr": "L'ordonnance",
+        "it": "La ricetta medica",
+        "de": "Das ärztliche Rezept"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: As receitas médicas)",
+        "fr": "(Plural: Les ordonnances)",
+        "it": "(Plural: Le ricette mediche)",
+        "en": "(Plural: Prescriptions)",
+        "de": "(Plural: Die ärztlichen Rezepte) En una farmacia basta decir Rezept; el contexto distingue la receta de cocina.",
+        "es": "(Prescripción de un profesional, no receta de cocina)"
+      },
+      "examples": {
+        "en": {
+          "text": "I forgot my prescription at the hotel.",
+          "es": "Olvidé mi receta médica en el hotel."
+        },
+        "pt": {
+          "text": "Esqueci a receita médica no hotel.",
+          "es": "Olvidé mi receta médica en el hotel."
+        },
+        "fr": {
+          "text": "J'ai oublié mon ordonnance à l'hôtel.",
+          "es": "Olvidé mi receta médica en el hotel."
+        },
+        "it": {
+          "text": "Ho dimenticato la ricetta medica in hotel.",
+          "es": "Olvidé mi receta médica en el hotel."
+        },
+        "de": {
+          "text": "Ich habe das ärztliche Rezept im Hotel vergessen.",
+          "es": "Olvidé mi receta médica en el hotel."
+        }
+      }
+    },
+    {
+      "id": "cs115",
+      "es": "El medicamento",
+      "translations": {
+        "en": "The medication",
+        "pt": "O medicamento",
+        "fr": "Le médicament",
+        "it": "Il farmaco",
+        "de": "Das Medikament"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The medications) También se dice medicine.",
+        "pt": "(Plural: Os medicamentos)",
+        "fr": "(Plural: Les médicaments)",
+        "it": "(Plural: I farmaci)",
+        "es": "También: medicina.",
+        "de": "(Plural: Die Medikamente)"
+      },
+      "examples": {
+        "en": {
+          "text": "Please write down the name of the medication.",
+          "es": "Anote el nombre del medicamento, por favor."
+        },
+        "pt": {
+          "text": "Anote o nome do medicamento, por favor.",
+          "es": "Anote el nombre del medicamento, por favor."
+        },
+        "fr": {
+          "text": "Notez le nom du médicament, s'il vous plaît.",
+          "es": "Anote el nombre del medicamento, por favor."
+        },
+        "it": {
+          "text": "Scriva il nome del farmaco, per favore.",
+          "es": "Anote el nombre del medicamento, por favor."
+        },
+        "de": {
+          "text": "Schreiben Sie bitte den Namen des Medikaments auf.",
+          "es": "Anote el nombre del medicamento, por favor."
+        }
+      }
+    },
+    {
+      "id": "cs116",
+      "es": "La pastilla",
+      "translations": {
+        "en": "The pill",
+        "pt": "O comprimido",
+        "fr": "Le comprimé",
+        "it": "La compressa",
+        "de": "Die Tablette"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: Os comprimidos)",
+        "fr": "(Plural: Les comprimés)",
+        "it": "(Plural: Le compresse)",
+        "es": "En este contexto se usa «pastilla» para un comprimido; la palabra cotidiana puede abarcar otras presentaciones.",
+        "en": "(Plural: Pills)",
+        "de": "(Plural: Die Tabletten)"
+      },
+      "examples": {
+        "en": {
+          "text": "This pill is hard to swallow.",
+          "es": "Esta pastilla es difícil de tragar."
+        },
+        "pt": {
+          "text": "Este comprimido é difícil de engolir.",
+          "es": "Esta pastilla es difícil de tragar."
+        },
+        "fr": {
+          "text": "Ce comprimé est difficile à avaler.",
+          "es": "Esta pastilla es difícil de tragar."
+        },
+        "it": {
+          "text": "Questa compressa è difficile da ingoiare.",
+          "es": "Esta pastilla es difícil de tragar."
+        },
+        "de": {
+          "text": "Diese Tablette lässt sich schwer schlucken.",
+          "es": "Esta pastilla es difícil de tragar."
+        }
+      }
+    },
+    {
+      "id": "cs117",
+      "es": "La cápsula",
+      "translations": {
+        "en": "The capsule",
+        "pt": "A cápsula",
+        "fr": "La gélule",
+        "it": "La capsula",
+        "de": "Die Kapsel"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: As cápsulas)",
+        "fr": "(Plural: Les gélules)",
+        "it": "(Plural: Le capsule)",
+        "en": "(Plural: Capsules)",
+        "de": "(Plural: Die Kapseln)"
+      },
+      "examples": {
+        "en": {
+          "text": "The capsule is in the box.",
+          "es": "La cápsula está en la caja."
+        },
+        "pt": {
+          "text": "A cápsula está na caixa.",
+          "es": "La cápsula está en la caja."
+        },
+        "fr": {
+          "text": "La gélule est dans la boîte.",
+          "es": "La cápsula está en la caja."
+        },
+        "it": {
+          "text": "La capsula è nella scatola.",
+          "es": "La cápsula está en la caja."
+        },
+        "de": {
+          "text": "Die Kapsel ist in der Schachtel.",
+          "es": "La cápsula está en la caja."
+        }
+      }
+    },
+    {
+      "id": "cs118",
+      "es": "El jarabe medicinal",
+      "translations": {
+        "en": "The medicinal syrup",
+        "pt": "O xarope",
+        "fr": "Le sirop",
+        "it": "Lo sciroppo",
+        "de": "Der Arzneisirup"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: Os xaropes)",
+        "fr": "(Plural: Les sirops)",
+        "it": "(Plural: Gli sciroppi)",
+        "en": "(Plural: The medicinal syrups)",
+        "de": "(Plural: Die Arzneisirupe)",
+        "es": "(Medicamento líquido, no jarabe de cocina)"
+      },
+      "examples": {
+        "en": {
+          "text": "Can you show me the syrup the doctor prescribed?",
+          "es": "¿Me puede mostrar el jarabe que recetó el médico?"
+        },
+        "pt": {
+          "text": "Você pode me mostrar o xarope que o médico receitou?",
+          "es": "¿Me puede mostrar el jarabe que recetó el médico?"
+        },
+        "fr": {
+          "text": "Pouvez-vous me montrer le sirop prescrit par le médecin ?",
+          "es": "¿Me puede mostrar el jarabe que recetó el médico?"
+        },
+        "it": {
+          "text": "Può mostrarmi lo sciroppo che mi ha prescritto il medico?",
+          "es": "¿Me puede mostrar el jarabe que recetó el médico?"
+        },
+        "de": {
+          "text": "Können Sie mir den Arzneisirup zeigen, den der Arzt verschrieben hat?",
+          "es": "¿Me puede mostrar el jarabe que recetó el médico?"
+        }
+      }
+    },
+    {
+      "id": "cs119",
+      "es": "Las gotas para los ojos",
+      "translations": {
+        "en": "The eye drops",
+        "pt": "As gotas para os olhos",
+        "fr": "Les gouttes pour les yeux",
+        "it": "Le gocce per gli occhi",
+        "de": "Die Augentropfen"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "También: colirio.",
+        "en": "Forma de uso plural habitual.",
+        "pt": "Forma de uso plural habitual.",
+        "fr": "Forma de uso plural habitual.",
+        "it": "Forma de uso plural habitual.",
+        "de": "Se usa normalmente el plural Augentropfen."
+      },
+      "examples": {
+        "en": {
+          "text": "I left my eye drops at home.",
+          "es": "Dejé mis gotas para los ojos en casa."
+        },
+        "pt": {
+          "text": "Deixei minhas gotas para os olhos em casa.",
+          "es": "Dejé mis gotas para los ojos en casa."
+        },
+        "fr": {
+          "text": "J'ai laissé mes gouttes pour les yeux à la maison.",
+          "es": "Dejé mis gotas para los ojos en casa."
+        },
+        "it": {
+          "text": "Ho lasciato le mie gocce per gli occhi a casa.",
+          "es": "Dejé mis gotas para los ojos en casa."
+        },
+        "de": {
+          "text": "Ich habe meine Augentropfen zu Hause gelassen.",
+          "es": "Dejé mis gotas para los ojos en casa."
+        }
+      }
+    },
+    {
+      "id": "cs120",
+      "es": "El inhalador",
+      "translations": {
+        "en": "The inhaler",
+        "pt": "O inalador",
+        "fr": "L'inhalateur",
+        "it": "L'inalatore",
+        "de": "Der Inhalator"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: Os inaladores)",
+        "fr": "(Plural: Les inhalateurs)",
+        "it": "(Plural: Gli inalatori)",
+        "en": "(Plural: Inhalers)",
+        "de": "(Plural: Die Inhalatoren) El tipo concreto del dispositivo se puede precisar con el profesional."
+      },
+      "examples": {
+        "en": {
+          "text": "My inhaler is in my bag.",
+          "es": "Mi inhalador está en mi bolsa."
+        },
+        "pt": {
+          "text": "Meu inalador está na minha bolsa.",
+          "es": "Mi inhalador está en mi bolsa."
+        },
+        "fr": {
+          "text": "Mon inhalateur est dans mon sac.",
+          "es": "Mi inhalador está en mi bolsa."
+        },
+        "it": {
+          "text": "Il mio inalatore è nella borsa.",
+          "es": "Mi inhalador está en mi bolsa."
+        },
+        "de": {
+          "text": "Mein Inhalator ist in meiner Tasche.",
+          "es": "Mi inhalador está en mi bolsa."
+        }
+      }
+    },
+    {
+      "id": "cs121",
+      "es": "El termómetro",
+      "translations": {
+        "en": "The thermometer",
+        "pt": "O termômetro",
+        "fr": "Le thermomètre",
+        "it": "Il termometro",
+        "de": "Das Thermometer"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: Os termômetros)",
+        "fr": "(Plural: Les thermomètres)",
+        "it": "(Plural: I termometri)",
+        "en": "(Plural: Thermometers)",
+        "de": "(Plural: Die Thermometer)"
+      },
+      "examples": {
+        "en": {
+          "text": "Do you have a thermometer?",
+          "es": "¿Tiene un termómetro?"
+        },
+        "pt": {
+          "text": "Você tem um termômetro?",
+          "es": "¿Tiene un termómetro?"
+        },
+        "fr": {
+          "text": "Vous avez un thermomètre ?",
+          "es": "¿Tiene un termómetro?"
+        },
+        "it": {
+          "text": "Ha un termometro?",
+          "es": "¿Tiene un termómetro?"
+        },
+        "de": {
+          "text": "Haben Sie ein Thermometer?",
+          "es": "¿Tiene un termómetro?"
+        }
+      }
+    },
+    {
+      "id": "cs122",
+      "es": "La curita",
+      "translations": {
+        "en": "The adhesive bandage",
+        "pt": "O curativo adesivo",
+        "fr": "Le pansement adhésif",
+        "it": "Il cerotto",
+        "de": "Das Pflaster"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: Os curativos adesivos)",
+        "fr": "(Plural: Les pansements adhésifs)",
+        "it": "(Plural: I cerotti)",
+        "es": "(Apósito adhesivo pequeño) En España se dice «tirita».",
+        "en": "(Plural: Adhesive bandages)",
+        "de": "(Plural: Die Pflaster)"
+      },
+      "examples": {
+        "en": {
+          "text": "I need an adhesive bandage for my finger.",
+          "es": "Necesito una curita para el dedo."
+        },
+        "pt": {
+          "text": "Preciso de um curativo adesivo para o dedo.",
+          "es": "Necesito una curita para el dedo."
+        },
+        "fr": {
+          "text": "Il me faut un pansement adhésif pour mon doigt.",
+          "es": "Necesito una curita para el dedo."
+        },
+        "it": {
+          "text": "Mi serve un cerotto per il dito.",
+          "es": "Necesito una curita para el dedo."
+        },
+        "de": {
+          "text": "Ich brauche ein Pflaster für den Finger.",
+          "es": "Necesito una curita para el dedo."
+        }
+      }
+    },
+    {
+      "id": "cs123",
+      "es": "La venda",
+      "translations": {
+        "en": "The bandage",
+        "pt": "A atadura",
+        "fr": "La bande de pansement",
+        "it": "La benda",
+        "de": "Der Verband"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: As ataduras)",
+        "fr": "(Plural: Les bandes de pansement)",
+        "it": "(Plural: Le bende)",
+        "en": "(Plural: Bandages)",
+        "de": "(Plural: Die Verbände) Binde puede referirse a la tira de material; Verband suele referirse al vendaje."
+      },
+      "examples": {
+        "en": {
+          "text": "The nurse put on a bandage.",
+          "es": "El enfermero puso una venda."
+        },
+        "pt": {
+          "text": "O enfermeiro colocou uma atadura.",
+          "es": "El enfermero puso una venda."
+        },
+        "fr": {
+          "text": "L'infirmier a posé une bande de pansement.",
+          "es": "El enfermero puso una venda."
+        },
+        "it": {
+          "text": "L'infermiere ha messo una benda.",
+          "es": "El enfermero puso una venda."
+        },
+        "de": {
+          "text": "Der Krankenpfleger hat einen Verband angelegt.",
+          "es": "El enfermero puso una venda."
+        }
+      }
+    },
+    {
+      "id": "cs124",
+      "es": "La gasa",
+      "translations": {
+        "en": "The gauze",
+        "pt": "A gaze",
+        "fr": "La gaze",
+        "it": "La garza",
+        "de": "Der Mull"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: As gazes)",
+        "fr": "(Plural: Les gazes)",
+        "it": "(Plural: Le garze)",
+        "de": "Mull es el material. Una compresa de gasa se llama Mullkompresse.",
+        "en": "Gauze se usa como nombre de material, sin plural habitual."
+      },
+      "examples": {
+        "en": {
+          "text": "The nurse opened a packet of gauze.",
+          "es": "El enfermero abrió un paquete de gasa."
+        },
+        "pt": {
+          "text": "O enfermeiro abriu um pacote de gaze.",
+          "es": "El enfermero abrió un paquete de gasa."
+        },
+        "fr": {
+          "text": "L'infirmier a ouvert un sachet de gaze.",
+          "es": "El enfermero abrió un paquete de gasa."
+        },
+        "it": {
+          "text": "L'infermiere ha aperto una confezione di garza.",
+          "es": "El enfermero abrió un paquete de gasa."
+        },
+        "de": {
+          "text": "Der Krankenpfleger hat eine Packung Mull geöffnet.",
+          "es": "El enfermero abrió un paquete de gasa."
+        }
+      }
+    },
+    {
+      "id": "cs223",
+      "es": "La vacuna",
+      "translations": {
+        "en": "The vaccine",
+        "pt": "A vacina",
+        "fr": "Le vaccin",
+        "it": "Il vaccino",
+        "de": "Der Impfstoff"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(Plural: As vacinas)",
+        "fr": "(Plural: Les vaccins)",
+        "it": "(Plural: I vaccini)",
+        "en": "(Plural: Vaccines)",
+        "de": "(Plural: Die Impfstoffe)"
+      },
+      "examples": {
+        "en": {
+          "text": "I asked the doctor about the vaccine.",
+          "es": "Le pregunté al médico por la vacuna."
+        },
+        "pt": {
+          "text": "Perguntei ao médico sobre a vacina.",
+          "es": "Le pregunté al médico por la vacuna."
+        },
+        "fr": {
+          "text": "J'ai posé une question au médecin sur le vaccin.",
+          "es": "Le pregunté al médico por la vacuna."
+        },
+        "it": {
+          "text": "Ho chiesto al medico del vaccino.",
+          "es": "Le pregunté al médico por la vacuna."
+        },
+        "de": {
+          "text": "Ich habe den Arzt nach dem Impfstoff gefragt.",
+          "es": "Le pregunté al médico por la vacuna."
+        }
+      }
+    },
+    {
+      "id": "cs235",
+      "es": "La jeringa",
+      "translations": {
+        "en": "The syringe",
+        "pt": "A seringa",
+        "fr": "La seringue",
+        "it": "La siringa",
+        "de": "Die Spritze"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: Syringes)",
+        "pt": "(Plural: As seringas)",
+        "fr": "(Plural: Les seringues)",
+        "it": "(Plural: Le siringhe)",
+        "de": "(Plural: Die Spritzen) Spritze también puede referirse a una inyección; aquí designa el instrumento."
+      },
+      "examples": {
+        "en": {
+          "text": "The syringe is still in its package.",
+          "es": "La jeringa sigue en su empaque."
+        },
+        "pt": {
+          "text": "A seringa ainda está na embalagem.",
+          "es": "La jeringa sigue en su empaque."
+        },
+        "fr": {
+          "text": "La seringue est encore dans son emballage.",
+          "es": "La jeringa sigue en su empaque."
+        },
+        "it": {
+          "text": "La siringa è ancora nella confezione.",
+          "es": "La jeringa sigue en su empaque."
+        },
+        "de": {
+          "text": "Die Spritze ist noch in der Verpackung.",
+          "es": "La jeringa sigue en su empaque."
+        }
+      }
+    },
+    {
+      "id": "cs236",
+      "es": "El cubrebocas",
+      "translations": {
+        "en": "The face mask",
+        "pt": "A máscara",
+        "fr": "Le masque",
+        "it": "La mascherina",
+        "de": "Die medizinische Maske"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: Face masks)",
+        "pt": "(Plural: As máscaras) Máscara facial puede referirse también a un producto cosmético, según el contexto.",
+        "fr": "(Plural: Les masques)",
+        "it": "(Plural: Le mascherine)",
+        "de": "(Plural: Die medizinischen Masken) También se usa Mund-Nasen-Schutz o, si el contexto es claro, Maske.",
+        "es": "En México se dice «cubrebocas». También se usa «mascarilla»."
+      },
+      "examples": {
+        "en": {
+          "text": "I put on a face mask before entering the clinic.",
+          "es": "Me puse un cubrebocas antes de entrar a la clínica."
+        },
+        "pt": {
+          "text": "Coloquei uma máscara antes de entrar na clínica.",
+          "es": "Me puse un cubrebocas antes de entrar a la clínica."
+        },
+        "fr": {
+          "text": "J'ai mis un masque avant d'entrer à la clinique.",
+          "es": "Me puse un cubrebocas antes de entrar a la clínica."
+        },
+        "it": {
+          "text": "Ho indossato una mascherina prima di entrare in clinica.",
+          "es": "Me puse un cubrebocas antes de entrar a la clínica."
+        },
+        "de": {
+          "text": "Vor dem Betreten der Klinik habe ich eine medizinische Maske aufgesetzt.",
+          "es": "Me puse un cubrebocas antes de entrar a la clínica."
+        }
+      }
+    },
+    {
+      "id": "cs237",
+      "es": "La inyección",
+      "translations": {
+        "en": "The injection",
+        "pt": "A injeção",
+        "fr": "L'injection",
+        "it": "L'iniezione",
+        "de": "Die Injektion"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: Injections)",
+        "pt": "(Plural: As injeções)",
+        "fr": "(Plural: Les injections)",
+        "it": "(Plural: Le iniezioni)",
+        "de": "(Plural: Die Injektionen) En conversación, eine Spritze bekommen significa «recibir una inyección»."
+      },
+      "examples": {
+        "en": {
+          "text": "I received an injection at the clinic.",
+          "es": "Me pusieron una inyección en la clínica."
+        },
+        "pt": {
+          "text": "Tomei uma injeção na clínica.",
+          "es": "Me pusieron una inyección en la clínica."
+        },
+        "fr": {
+          "text": "J'ai reçu une injection à la clinique.",
+          "es": "Me pusieron una inyección en la clínica."
+        },
+        "it": {
+          "text": "Ho fatto un'iniezione in clinica.",
+          "es": "Me pusieron una inyección en la clínica."
+        },
+        "de": {
+          "text": "Ich habe in der Klinik eine Injektion bekommen.",
+          "es": "Me pusieron una inyección en la clínica."
+        }
+      }
+    },
+    {
+      "id": "cs239",
+      "es": "La prueba de embarazo",
+      "translations": {
+        "en": "The pregnancy test",
+        "pt": "O teste de gravidez",
+        "fr": "Le test de grossesse",
+        "it": "Il test di gravidanza",
+        "de": "Der Schwangerschaftstest"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: Pregnancy tests)",
+        "pt": "(Plural: Os testes de gravidez)",
+        "fr": "(Plural: Les tests de grossesse)",
+        "it": "(Plural: I test di gravidanza)",
+        "de": "(Plural: Die Schwangerschaftstests)"
+      },
+      "examples": {
+        "en": {
+          "text": "The pharmacy sells pregnancy tests.",
+          "es": "La farmacia vende pruebas de embarazo."
+        },
+        "pt": {
+          "text": "A farmácia vende testes de gravidez.",
+          "es": "La farmacia vende pruebas de embarazo."
+        },
+        "fr": {
+          "text": "La pharmacie vend des tests de grossesse.",
+          "es": "La farmacia vende pruebas de embarazo."
+        },
+        "it": {
+          "text": "La farmacia vende test di gravidanza.",
+          "es": "La farmacia vende pruebas de embarazo."
+        },
+        "de": {
+          "text": "In der Apotheke gibt es Schwangerschaftstests.",
+          "es": "La farmacia vende pruebas de embarazo."
+        }
+      }
+    },
+    {
+      "id": "cs104",
+      "es": "Tomar un medicamento",
+      "translations": {
+        "en": "To take a medication",
+        "pt": "Tomar um medicamento",
+        "fr": "Prendre un médicament",
+        "it": "Prendere un medicinale",
+        "de": "Ein Medikament einnehmen"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I took a medication this morning.",
+          "es": "Tomé un medicamento esta mañana."
+        },
+        "pt": {
+          "text": "Tomei um medicamento hoje de manhã.",
+          "es": "Tomé un medicamento esta mañana."
+        },
+        "fr": {
+          "text": "J'ai pris un médicament ce matin.",
+          "es": "Tomé un medicamento esta mañana."
+        },
+        "it": {
+          "text": "Ho preso un medicinale stamattina.",
+          "es": "Tomé un medicamento esta mañana."
+        },
+        "de": {
+          "text": "Ich habe heute Morgen ein Medikament eingenommen.",
+          "es": "Tomé un medicamento esta mañana."
+        }
+      }
+    },
+    {
+      "id": "cs190",
+      "es": "Necesito comprar este medicamento.",
+      "translations": {
+        "en": "I need to buy this medicine.",
+        "pt": "Preciso comprar este medicamento.",
+        "fr": "J'ai besoin d'acheter ce médicament.",
+        "it": "Devo comprare questo medicinale.",
+        "de": "Ich muss dieses Medikament kaufen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs191",
+      "es": "¿Se necesita receta médica?",
+      "translations": {
+        "en": "Do I need a prescription?",
+        "pt": "Precisa de receita médica?",
+        "fr": "Faut-il une ordonnance ?",
+        "it": "Serve una ricetta medica?",
+        "de": "Brauche ich ein Rezept?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs192",
+      "es": "¿Cómo se toma este medicamento?",
+      "translations": {
+        "en": "How do I take this medicine?",
+        "pt": "Como se toma este medicamento?",
+        "fr": "Comment dois-je prendre ce médicament ?",
+        "it": "Come devo prendere questo medicinale?",
+        "de": "Wie soll ich dieses Medikament einnehmen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs193",
+      "es": "¿Cuánto debo tomar y cada cuánto tiempo?",
+      "translations": {
+        "en": "How much should I take, and how often?",
+        "pt": "Quanto devo tomar e de quanto em quanto tempo?",
+        "fr": "Quelle quantité dois-je prendre et à quelle fréquence ?",
+        "it": "Quanto devo prenderne e ogni quanto tempo?",
+        "de": "Wie viel soll ich nehmen und wie oft?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs194",
+      "es": "¿Durante cuántos días debo tomarlo?",
+      "translations": {
+        "en": "For how many days should I take it?",
+        "pt": "Por quantos dias devo tomar esse medicamento?",
+        "fr": "Pendant combien de jours dois-je le prendre ?",
+        "it": "Per quanti giorni devo prenderlo?",
+        "de": "Wie viele Tage soll ich das Medikament nehmen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs195",
+      "es": "¿Debo tomarlo con comida?",
+      "translations": {
+        "en": "Should I take it with food?",
+        "pt": "Devo tomar esse medicamento com comida?",
+        "fr": "Dois-je le prendre avec de la nourriture ?",
+        "it": "Devo prenderlo con il cibo?",
+        "de": "Soll ich das Medikament zum Essen einnehmen?"
+      },
+      "image_url": "",
+      "notes": {
+        "de": "Zum Essen pregunta si debe tomarse junto con la comida; no indica una pauta por sí misma."
+      }
+    },
+    {
+      "id": "cs196",
+      "es": "¿Puedes escribir las indicaciones, por favor? / ¿Puede escribir las indicaciones, por favor?",
+      "translations": {
+        "en": "Could you write down the instructions, please?",
+        "pt": "Pode escrever as instruções, por favor?",
+        "fr": "Peux-tu noter les consignes, s'il te plaît ? / Pouvez-vous noter les consignes, s'il vous plaît ?",
+        "it": "Puoi scrivere le istruzioni, per favore? / Può scrivere le istruzioni, per favore?",
+        "de": "Kannst du die Anweisungen bitte aufschreiben? / Können Sie die Anweisungen bitte aufschreiben?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Primero tú (informal); después usted (formal).",
+        "fr": "Primero tu (informal); después vous (formal).",
+        "it": "Primero tu (informal); después Lei (formal).",
+        "de": "Primero du (informal); después Sie (formal).",
+        "pt": "Você o la forma verbal correspondiente son habituales en Brasil."
+      }
+    },
+    {
+      "id": "cs201",
+      "es": "¿Puedes señalar dónde te duele? / ¿Puede señalar dónde le duele?",
+      "translations": {
+        "en": "Can you point to where it hurts?",
+        "pt": "Pode apontar onde dói?",
+        "fr": "Peux-tu montrer où tu as mal ? / Pouvez-vous montrer où vous avez mal ?",
+        "it": "Puoi indicare dove ti fa male? / Può indicare dove le fa male?",
+        "de": "Kannst du zeigen, wo es wehtut? / Können Sie zeigen, wo es wehtut?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Primero tú (informal); después usted (formal).",
+        "fr": "Primero tu (informal); después vous (formal).",
+        "it": "Primero tu (informal); después Lei (formal).",
+        "de": "Primero du (informal); después Sie (formal).",
+        "pt": "Você o la forma verbal correspondiente son habituales en Brasil."
+      }
+    },
+    {
+      "id": "cs202",
+      "es": "Abre la boca, por favor. / Abra la boca, por favor.",
+      "translations": {
+        "en": "Open your mouth, please.",
+        "pt": "Abra a boca, por favor.",
+        "fr": "Ouvre la bouche, s'il te plaît. / Ouvrez la bouche, s'il vous plaît.",
+        "it": "Apri la bocca, per favore. / Apra la bocca, per favore.",
+        "de": "Mach bitte den Mund auf. / Machen Sie bitte den Mund auf."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Primero tú (informal); después usted (formal).",
+        "fr": "Primero tu (informal); después vous (formal).",
+        "it": "Primero tu (informal); después Lei (formal).",
+        "de": "Primero du (informal); después Sie (formal).",
+        "pt": "Você o la forma verbal correspondiente son habituales en Brasil."
+      }
+    },
+    {
+      "id": "cs203",
+      "es": "Respira hondo, por favor. / Respire hondo, por favor.",
+      "translations": {
+        "en": "Take a deep breath, please.",
+        "pt": "Respire fundo, por favor.",
+        "fr": "Respire profondément, s'il te plaît. / Respirez profondément, s'il vous plaît.",
+        "it": "Fai un respiro profondo, per favore. / Faccia un respiro profondo, per favore.",
+        "de": "Atme bitte tief ein. / Atmen Sie bitte tief ein."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Primero tú (informal); después usted (formal).",
+        "fr": "Primero tu (informal); después vous (formal).",
+        "it": "Primero tu (informal); después Lei (formal).",
+        "de": "Primero du (informal); después Sie (formal).",
+        "pt": "Você o la forma verbal correspondiente son habituales en Brasil."
+      }
+    },
+    {
+      "id": "cs204",
+      "es": "Voy a tomarte la temperatura. / Voy a tomarle la temperatura.",
+      "translations": {
+        "en": "I'm going to take your temperature.",
+        "pt": "Vou medir sua temperatura.",
+        "fr": "Je vais prendre ta température. / Je vais prendre votre température.",
+        "it": "Ti misuro la temperatura. / Le misuro la temperatura.",
+        "de": "Ich messe jetzt deine Temperatur. / Ich messe jetzt Ihre Temperatur."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Primero tú (informal); después usted (formal).",
+        "fr": "Primero tu (informal); después vous (formal).",
+        "it": "Primero tu (informal); después Lei (formal).",
+        "de": "Primero du (informal); después Sie (formal).",
+        "pt": "Você o la forma verbal correspondiente son habituales en Brasil."
+      }
+    },
+    {
+      "id": "cs205",
+      "es": "Voy a medirte la presión. / Voy a medirle la presión.",
+      "translations": {
+        "en": "I'm going to check your blood pressure.",
+        "pt": "Vou medir sua pressão.",
+        "fr": "Je vais prendre ta tension. / Je vais prendre votre tension.",
+        "it": "Ti misuro la pressione. / Le misuro la pressione.",
+        "de": "Ich messe jetzt deinen Blutdruck. / Ich messe jetzt Ihren Blutdruck."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Primero tú (informal); después usted (formal).",
+        "fr": "Primero tu (informal); después vous (formal).",
+        "it": "Primero tu (informal); después Lei (formal).",
+        "de": "Primero du (informal); después Sie (formal).",
+        "pt": "Você o la forma verbal correspondiente son habituales en Brasil."
+      }
+    },
+    {
+      "id": "cs206",
+      "es": "Es una emergencia médica.",
+      "translations": {
+        "en": "It's a medical emergency.",
+        "pt": "É uma emergência médica.",
+        "fr": "C'est une urgence médicale.",
+        "it": "È un'emergenza medica.",
+        "de": "Das ist ein medizinischer Notfall."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs207",
+      "es": "Llama a una ambulancia, por favor. / Llame a una ambulancia, por favor.",
+      "translations": {
+        "en": "Call an ambulance, please.",
+        "pt": "Chame uma ambulância, por favor.",
+        "fr": "Appelle une ambulance, s'il te plaît. / Appelez une ambulance, s'il vous plaît.",
+        "it": "Chiama un'ambulanza, per favore. / Chiami un'ambulanza, per favore.",
+        "de": "Ruf bitte einen Rettungswagen. / Rufen Sie bitte einen Rettungswagen."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Primero tú (informal); después usted (formal).",
+        "fr": "Primero tu (informal); después vous (formal).",
+        "it": "Primero tu (informal); después Lei (formal).",
+        "de": "En una emergencia se pide un Rettungswagen; Krankenwagen también puede usarse para otros traslados.",
+        "pt": "Você o la forma verbal correspondiente son habituales en Brasil."
+      }
+    },
+    {
+      "id": "cs208",
+      "es": "Necesito ayuda médica ahora.",
+      "translations": {
+        "en": "I need medical help now.",
+        "pt": "Preciso de ajuda médica agora.",
+        "fr": "J'ai besoin d'aide médicale maintenant.",
+        "it": "Ho bisogno di assistenza medica adesso.",
+        "de": "Ich brauche jetzt medizinische Hilfe."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs209",
+      "es": "Me cuesta respirar.",
+      "translations": {
+        "en": "I'm having trouble breathing.",
+        "pt": "Estou com dificuldade para respirar.",
+        "fr": "J'ai du mal à respirer.",
+        "it": "Faccio fatica a respirare.",
+        "de": "Ich bekomme schlecht Luft."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "También: me falta el aire.",
+        "en": "También: I'm short of breath.",
+        "pt": "También: Estou com falta de ar.",
+        "fr": "También: Je manque d'air.",
+        "it": "También: Mi manca l'aria.",
+        "de": "También se puede decir «Ich habe Atemnot»; es más clínico."
+      }
+    },
+    {
+      "id": "cs210",
+      "es": "No puedo respirar.",
+      "translations": {
+        "en": "I can't breathe.",
+        "pt": "Não consigo respirar.",
+        "fr": "Je ne peux pas respirer.",
+        "it": "Non riesco a respirare.",
+        "de": "Ich kann nicht atmen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs211",
+      "es": "Creo que me voy a desmayar.",
+      "translations": {
+        "en": "I think I'm going to faint.",
+        "pt": "Acho que vou desmaiar.",
+        "fr": "Je crois que je vais m'évanouir.",
+        "it": "Credo di stare per svenire.",
+        "de": "Ich glaube, ich werde gleich ohnmächtig."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs212",
+      "es": "Esta persona no responde.",
+      "translations": {
+        "en": "This person isn't responding.",
+        "pt": "Esta pessoa não responde.",
+        "fr": "Cette personne ne répond pas.",
+        "it": "Questa persona non risponde.",
+        "de": "Diese Person reagiert nicht."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs213",
+      "es": "Esta persona está inconsciente.",
+      "translations": {
+        "en": "This person is unconscious.",
+        "pt": "Esta pessoa está inconsciente.",
+        "fr": "Cette personne est inconsciente.",
+        "it": "Questa persona è incosciente.",
+        "de": "Diese Person ist bewusstlos."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs214",
+      "es": "Estoy sangrando mucho.",
+      "translations": {
+        "en": "I'm bleeding heavily.",
+        "pt": "Estou sangrando muito.",
+        "fr": "Je saigne beaucoup.",
+        "it": "Sto sanguinando molto.",
+        "de": "Ich blute stark."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cs215",
+      "es": "Tengo una reacción alérgica.",
+      "translations": {
+        "en": "I'm having an allergic reaction.",
+        "pt": "Estou tendo uma reação alérgica.",
+        "fr": "Je fais une réaction allergique.",
+        "it": "Ho una reazione allergica.",
+        "de": "Ich habe eine allergische Reaktion."
+      },
+      "image_url": ""
+    }
+  ]
+}
