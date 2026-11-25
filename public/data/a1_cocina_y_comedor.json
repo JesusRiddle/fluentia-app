@@ -305,7 +305,7 @@
         "es": "Aparato para cocinar con quemadores; no confundir con el espacio de la cocina.",
         "en": "(Plural: The stoves)",
         "fr": "(Plural: Les cuisinières)",
-        "it": "(Plural: Le cucine con fornelli) En este contexto «cucina» significa la estufa, no el cuarto. «Fornello» es un quemador individual.",
+        "it": "(Plural: Le cucine con fornelli) En este contexto «cucina» significa la estufa, no el cuarto. «Fornello» es un quemador individual. «Piano cottura» es la superficie de cocción; no incluye necesariamente un horno.",
         "pt": "(Plural: Os fogões)",
         "de": "(Plural: Die Herde)"
       },
@@ -329,6 +329,47 @@
         "de": {
           "text": "Der Herd hat vier Kochstellen.",
           "es": "La estufa tiene cuatro zonas de cocción."
+        }
+      }
+    },
+    {
+      "id": "ca295",
+      "es": "La parrilla de inducción",
+      "translations": {
+        "en": "The induction cooktop",
+        "fr": "La plaque à induction",
+        "it": "Il piano cottura a induzione",
+        "pt": "O cooktop de indução",
+        "de": "Das Induktionskochfeld"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The induction cooktops)",
+        "fr": "(Plural: Les plaques à induction)",
+        "it": "(Plural: I piani cottura a induzione)",
+        "pt": "(Plural: Os cooktops de indução)",
+        "de": "(Plural: Die Induktionskochfelder)"
+      },
+      "examples": {
+        "en": {
+          "text": "There's an induction cooktop in the kitchen.",
+          "es": "En la cocina hay una parrilla de inducción."
+        },
+        "fr": {
+          "text": "Il y a une plaque à induction dans la cuisine.",
+          "es": "En la cocina hay una parrilla de inducción."
+        },
+        "it": {
+          "text": "In cucina c'è un piano cottura a induzione.",
+          "es": "En la cocina hay una parrilla de inducción."
+        },
+        "pt": {
+          "text": "Tem um cooktop de indução na cozinha.",
+          "es": "En la cocina hay una parrilla de inducción."
+        },
+        "de": {
+          "text": "In der Küche gibt es ein Induktionskochfeld.",
+          "es": "En la cocina hay una parrilla de inducción."
         }
       }
     },
@@ -455,6 +496,30 @@
           "es": "El microondas está arriba de la tarja."
         }
       }
+    },
+    {
+      "id": "ca296",
+      "es": "El refrigerador no enfría.",
+      "translations": {
+        "en": "The fridge isn't keeping things cold.",
+        "fr": "Le réfrigérateur ne refroidit pas.",
+        "it": "Il frigorifero non raffredda.",
+        "pt": "A geladeira não está gelando.",
+        "de": "Der Kühlschrank kühlt nicht."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ca297",
+      "es": "El microondas prende, pero no calienta la comida.",
+      "translations": {
+        "en": "The microwave turns on, but it doesn't heat up the food.",
+        "fr": "Le micro-ondes s'allume, mais il ne chauffe pas les aliments.",
+        "it": "Il microonde si accende, ma non scalda il cibo.",
+        "pt": "O micro-ondas liga, mas não esquenta a comida.",
+        "de": "Die Mikrowelle geht an, aber sie wärmt das Essen nicht auf."
+      },
+      "image_url": ""
     },
     {
       "id": "ca97",
@@ -662,6 +727,18 @@
       }
     },
     {
+      "id": "ca298",
+      "es": "¿Cómo se prende la estufa?",
+      "translations": {
+        "en": "How do I turn on the stove?",
+        "fr": "Comment est-ce qu'on allume la cuisinière ?",
+        "it": "Come si accendono i fornelli?",
+        "pt": "Como faço para ligar o fogão?",
+        "de": "Wie schalte ich den Herd ein?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "ca110",
       "es": "La tarja",
       "translations": {
@@ -826,6 +903,18 @@
           "es": "La sartén ya está caliente."
         }
       }
+    },
+    {
+      "id": "ca299",
+      "es": "¿Esta sartén sirve para la parrilla de inducción?",
+      "translations": {
+        "en": "Does this frying pan work on the induction cooktop?",
+        "fr": "Est-ce que cette poêle fonctionne sur la plaque à induction ?",
+        "it": "Questa padella va bene per il piano cottura a induzione?",
+        "pt": "Esta frigideira funciona no cooktop de indução?",
+        "de": "Kann ich diese Pfanne auf dem Induktionskochfeld benutzen?"
+      },
+      "image_url": ""
     },
     {
       "id": "ca114",
@@ -1684,6 +1773,18 @@
       }
     },
     {
+      "id": "ca300",
+      "es": "¿Dónde está el jabón para trastes?",
+      "translations": {
+        "en": "Where's the dish soap?",
+        "fr": "Où est le liquide vaisselle ?",
+        "it": "Dov'è il detersivo per i piatti?",
+        "pt": "Onde está o detergente para louça?",
+        "de": "Wo ist das Spülmittel?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "ca162",
       "es": "Lavar los trastes",
       "translations": {
@@ -1920,6 +2021,18 @@
       "image_url": ""
     },
     {
+      "id": "ca301",
+      "es": "¿Se puede tomar el agua de la llave?",
+      "translations": {
+        "en": "Is it safe to drink the tap water?",
+        "fr": "Est-ce que l'eau du robinet est potable ?",
+        "it": "L'acqua del rubinetto è potabile?",
+        "pt": "Dá para beber a água da torneira?",
+        "de": "Kann man das Leitungswasser trinken?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "ca220",
       "es": "El lavavajillas está lleno.",
       "translations": {
@@ -1928,6 +2041,18 @@
         "it": "La lavastoviglie è piena.",
         "pt": "A máquina de lavar louça está cheia.",
         "de": "Die Spülmaschine ist voll."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ca302",
+      "es": "¿Cómo se pone en marcha el lavavajillas?",
+      "translations": {
+        "en": "How do I start the dishwasher?",
+        "fr": "Comment est-ce qu'on lance le lave-vaisselle ?",
+        "it": "Come si avvia la lavastoviglie?",
+        "pt": "Como faço para ligar a máquina de lavar louça?",
+        "de": "Wie starte ich die Spülmaschine?"
       },
       "image_url": ""
     },
@@ -1957,6 +2082,18 @@
       "notes": {
         "es": "Aquí «tarja» se refiere al fregadero de la cocina. También se dice «El fregadero está tapado»."
       }
+    },
+    {
+      "id": "ca303",
+      "es": "Hay una fuga debajo de la tarja.",
+      "translations": {
+        "en": "There's a leak under the kitchen sink.",
+        "fr": "Il y a une fuite sous l'évier.",
+        "it": "C'è una perdita sotto il lavello.",
+        "pt": "Tem um vazamento embaixo da pia da cozinha.",
+        "de": "Unter der Küchenspüle tritt Wasser aus."
+      },
+      "image_url": ""
     }
   ]
 }
