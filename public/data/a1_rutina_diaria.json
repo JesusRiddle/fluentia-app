@@ -4,58 +4,210 @@
   "cards": [
     {
       "id": "rd1",
-      "es": "Rutina diaria",
+      "es": "La rutina diaria",
       "translations": {
-        "en": "Daily routine",
-        "pt": "Rotina diária",
-        "fr": "Routine quotidienne",
-        "it": "Routine quotidiana"
+        "en": "The daily routine",
+        "pt": "A rotina diária",
+        "fr": "La routine quotidienne",
+        "it": "La routine quotidiana",
+        "de": "Der Tagesablauf"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The daily routines)",
+        "pt": "(Plural: As rotinas diárias)",
+        "fr": "(Plural: Les routines quotidiennes)",
+        "it": "(Plural: Le routine quotidiane)",
+        "de": "(Plural: Die Tagesabläufe)"
+      },
+      "examples": {
+        "en": {
+          "text": "My daily routine starts at seven.",
+          "es": "Mi rutina diaria empieza a las siete."
+        },
+        "pt": {
+          "text": "Minha rotina diária começa às sete.",
+          "es": "Mi rutina diaria empieza a las siete."
+        },
+        "fr": {
+          "text": "Ma routine quotidienne commence à sept heures.",
+          "es": "Mi rutina diaria empieza a las siete."
+        },
+        "it": {
+          "text": "La mia routine quotidiana comincia alle sette.",
+          "es": "Mi rutina diaria empieza a las siete."
+        },
+        "de": {
+          "text": "Mein Tagesablauf beginnt um sieben Uhr.",
+          "es": "Mi rutina diaria empieza a las siete."
+        }
+      }
     },
     {
       "id": "rd2",
-      "es": "Hábito / Costumbre (personal)",
+      "es": "El hábito / La costumbre",
       "translations": {
-        "en": "Habit",
-        "pt": "Hábito / Costume",
-        "fr": "Habitude",
-        "it": "Abitudine"
+        "en": "The habit",
+        "pt": "O hábito / O costume",
+        "fr": "L'habitude",
+        "it": "L'abitudine",
+        "de": "Die Gewohnheit"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Costumbre personal, no colectiva)",
+        "en": "(Plural: The habits)",
+        "pt": "(Plural: Os hábitos / Os costumes)",
+        "fr": "(Plural: Les habitudes)",
+        "it": "(Plural: Le abitudini)",
+        "de": "(Plural: Die Gewohnheiten)"
+      },
+      "examples": {
+        "en": {
+          "text": "Reading before bed is a good habit.",
+          "es": "Leer antes de acostarse es un buen hábito."
+        },
+        "pt": {
+          "text": "Ler antes de dormir é um bom hábito.",
+          "es": "Leer antes de dormir es un buen hábito."
+        },
+        "fr": {
+          "text": "Lire avant de dormir est une bonne habitude.",
+          "es": "Leer antes de dormir es un buen hábito."
+        },
+        "it": {
+          "text": "Leggere prima di dormire è una buona abitudine.",
+          "es": "Leer antes de dormir es un buen hábito."
+        },
+        "de": {
+          "text": "Lesen vor dem Schlafengehen ist eine gute Gewohnheit.",
+          "es": "Leer antes de acostarse es un buen hábito."
+        }
+      }
     },
     {
       "id": "rd3",
-      "es": "Lista de tareas",
+      "es": "La lista de tareas",
       "translations": {
-        "en": "To-do list",
-        "pt": "Lista de tarefas",
-        "fr": "Liste des choses à faire",
-        "it": "Lista delle cose da fare"
+        "en": "The to-do list",
+        "pt": "A lista de tarefas",
+        "fr": "La liste de choses à faire",
+        "it": "La lista delle cose da fare",
+        "de": "Die Aufgabenliste"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The to-do lists)",
+        "pt": "(Plural: As listas de tarefas)",
+        "fr": "(Plural: Les listes de choses à faire)",
+        "it": "(Plural: Le liste delle cose da fare)",
+        "de": "(Plural: Die Aufgabenlisten)"
+      },
+      "examples": {
+        "en": {
+          "text": "I write my to-do list in the morning.",
+          "es": "Escribo mi lista de tareas en la mañana."
+        },
+        "pt": {
+          "text": "Escrevo minha lista de tarefas de manhã.",
+          "es": "Escribo mi lista de tareas en la mañana."
+        },
+        "fr": {
+          "text": "J'écris ma liste de choses à faire le matin.",
+          "es": "Escribo mi lista de tareas en la mañana."
+        },
+        "it": {
+          "text": "Scrivo la mia lista delle cose da fare la mattina.",
+          "es": "Escribo mi lista de tareas en la mañana."
+        },
+        "de": {
+          "text": "Ich schreibe morgens meine Aufgabenliste.",
+          "es": "Escribo mi lista de tareas en la mañana."
+        }
+      }
     },
     {
       "id": "rd4",
-      "es": "Día de descanso / Día libre (sin trabajo)",
+      "es": "El día libre / El día de descanso",
       "translations": {
-        "en": "Day off",
-        "pt": "Dia de folga",
-        "fr": "Jour de congé",
-        "it": "Giorno libero"
+        "en": "The day off",
+        "pt": "O dia de folga",
+        "fr": "Le jour de congé",
+        "it": "Il giorno libero",
+        "de": "Der freie Tag"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Día en que no se trabaja)",
+        "en": "(Plural: The days off)",
+        "pt": "(Plural: Os dias de folga)",
+        "fr": "(Plural: Les jours de congé)",
+        "it": "(Plural: I giorni liberi)",
+        "de": "(Plural: Die freien Tage)"
+      },
+      "examples": {
+        "en": {
+          "text": "I have a day off tomorrow.",
+          "es": "Mañana tengo un día libre."
+        },
+        "pt": {
+          "text": "Amanhã tenho um dia de folga.",
+          "es": "Mañana tengo un día libre."
+        },
+        "fr": {
+          "text": "Demain, j'ai un jour de congé.",
+          "es": "Mañana tengo un día libre."
+        },
+        "it": {
+          "text": "Domani ho un giorno libero.",
+          "es": "Mañana tengo un día libre."
+        },
+        "de": {
+          "text": "Morgen habe ich einen freien Tag.",
+          "es": "Mañana tengo un día libre."
+        }
+      }
     },
     {
       "id": "rd5",
-      "es": "Hora de acostarse",
+      "es": "La hora de acostarse",
       "translations": {
-        "en": "Bedtime",
-        "pt": "Hora de dormir",
-        "fr": "Heure du coucher",
-        "it": "Ora di andare a letto"
+        "en": "The bedtime",
+        "pt": "A hora de dormir",
+        "fr": "L'heure du coucher",
+        "it": "L'ora di andare a letto",
+        "de": "Die Schlafenszeit"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The bedtimes)",
+        "pt": "(Plural: As horas de dormir)",
+        "fr": "(Plural: Les heures du coucher)",
+        "it": "(Plural: Le ore di andare a letto)",
+        "de": "(Plural: Die Schlafenszeiten)"
+      },
+      "examples": {
+        "en": {
+          "text": "The kids' bedtime is at eight.",
+          "es": "La hora de acostarse de los niños es a las ocho."
+        },
+        "pt": {
+          "text": "A hora de dormir das crianças é às oito.",
+          "es": "La hora de acostarse de los niños es a las ocho."
+        },
+        "fr": {
+          "text": "L'heure du coucher des enfants est à huit heures.",
+          "es": "La hora de acostarse de los niños es a las ocho."
+        },
+        "it": {
+          "text": "L'ora di andare a letto per i bambini è alle otto.",
+          "es": "La hora de acostarse de los niños es a las ocho."
+        },
+        "de": {
+          "text": "Die Schlafenszeit der Kinder ist um acht Uhr.",
+          "es": "La hora de acostarse de los niños es a las ocho."
+        }
+      }
     },
     {
       "id": "rd6",
@@ -64,31 +216,106 @@
         "en": "To set an alarm",
         "pt": "Programar um alarme",
         "fr": "Régler une alarme",
-        "it": "Impostare una sveglia"
+        "it": "Impostare una sveglia",
+        "de": "Den Wecker stellen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I set an alarm for six.",
+          "es": "Pongo una alarma para las seis."
+        },
+        "pt": {
+          "text": "Programo um alarme para as seis.",
+          "es": "Pongo una alarma para las seis."
+        },
+        "fr": {
+          "text": "Je règle une alarme pour six heures.",
+          "es": "Pongo una alarma para las seis."
+        },
+        "it": {
+          "text": "Imposto una sveglia per le sei.",
+          "es": "Pongo una alarma para las seis."
+        },
+        "de": {
+          "text": "Ich stelle den Wecker auf sechs Uhr.",
+          "es": "Pongo una alarma para las seis."
+        }
+      }
     },
     {
       "id": "rd7",
-      "es": "Prepararse / Alistarse (para salir)",
+      "es": "Prepararse / Alistarse",
       "translations": {
         "en": "To get ready",
-        "pt": "Preparar-se / Se arrumar",
+        "pt": "Se arrumar / Se preparar",
         "fr": "Se préparer",
-        "it": "Prepararsi"
+        "it": "Prepararsi",
+        "de": "Sich fertig machen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Para salir)"
+      },
+      "examples": {
+        "en": {
+          "text": "I get ready for school.",
+          "es": "Me preparo para ir a la escuela."
+        },
+        "pt": {
+          "text": "Eu me arrumo para ir à escola.",
+          "es": "Me preparo para ir a la escuela."
+        },
+        "fr": {
+          "text": "Je me prépare pour aller à l'école.",
+          "es": "Me preparo para ir a la escuela."
+        },
+        "it": {
+          "text": "Mi preparo per andare a scuola.",
+          "es": "Me preparo para ir a la escuela."
+        },
+        "de": {
+          "text": "Ich mache mich für die Schule fertig.",
+          "es": "Me preparo para ir a la escuela."
+        }
+      }
     },
     {
       "id": "rd8",
-      "es": "Ducharse / Bañarse (en regadera)",
+      "es": "Bañarse en la regadera / Ducharse",
       "translations": {
         "en": "To take a shower / To shower",
         "pt": "Tomar banho / Tomar uma ducha",
         "fr": "Prendre une douche / Se doucher",
-        "it": "Fare la doccia"
+        "it": "Fare la doccia",
+        "de": "Duschen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "En Brasil «tomar banho» suele referirse a la ducha cuando no se menciona la tina."
+      },
+      "examples": {
+        "en": {
+          "text": "I take a shower after running.",
+          "es": "Me baño en la regadera después de correr."
+        },
+        "pt": {
+          "text": "Tomo banho depois de correr.",
+          "es": "Me baño en la regadera después de correr."
+        },
+        "fr": {
+          "text": "Je prends une douche après avoir couru.",
+          "es": "Me baño en la regadera después de correr."
+        },
+        "it": {
+          "text": "Faccio la doccia dopo aver corso.",
+          "es": "Me baño en la regadera después de correr."
+        },
+        "de": {
+          "text": "Nach dem Laufen dusche ich.",
+          "es": "Me baño en la regadera después de correr."
+        }
+      }
     },
     {
       "id": "rd9",
@@ -97,9 +324,36 @@
         "en": "To take a bath",
         "pt": "Tomar banho de banheira",
         "fr": "Prendre un bain",
-        "it": "Fare un bagno"
+        "it": "Fare un bagno in vasca",
+        "de": "Ein Bad nehmen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "En este contexto se entiende un baño en tina, no bañarse en el mar.",
+        "de": "En este contexto es un baño en tina, no nadar."
+      },
+      "examples": {
+        "en": {
+          "text": "On Sunday I take a bath instead of a shower.",
+          "es": "El domingo me baño en la tina en vez de usar la regadera."
+        },
+        "pt": {
+          "text": "Tomo banho de banheira no domingo.",
+          "es": "Tomo un baño de tina el domingo."
+        },
+        "fr": {
+          "text": "Je prends un bain dans la baignoire dimanche.",
+          "es": "Tomo un baño de tina el domingo."
+        },
+        "it": {
+          "text": "Domenica faccio un bagno in vasca.",
+          "es": "El domingo tomo un baño de tina."
+        },
+        "de": {
+          "text": "Am Sonntag nehme ich ein Bad in der Badewanne.",
+          "es": "Tomo un baño de tina el domingo."
+        }
+      }
     },
     {
       "id": "rd10",
@@ -108,9 +362,32 @@
         "en": "To wash your face",
         "pt": "Lavar o rosto",
         "fr": "Se laver le visage",
-        "it": "Lavarsi il viso"
+        "it": "Lavarsi il viso",
+        "de": "Sich das Gesicht waschen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I wash my face before bed.",
+          "es": "Me lavo la cara antes de acostarme."
+        },
+        "pt": {
+          "text": "Lavo o rosto antes de dormir.",
+          "es": "Me lavo la cara antes de dormir."
+        },
+        "fr": {
+          "text": "Je me lave le visage avant de dormir.",
+          "es": "Me lavo la cara antes de dormir."
+        },
+        "it": {
+          "text": "Mi lavo il viso prima di dormire.",
+          "es": "Me lavo la cara antes de dormir."
+        },
+        "de": {
+          "text": "Vor dem Schlafengehen wasche ich mir das Gesicht.",
+          "es": "Me lavo la cara antes de acostarme."
+        }
+      }
     },
     {
       "id": "rd11",
@@ -119,20 +396,66 @@
         "en": "To wash your hands",
         "pt": "Lavar as mãos",
         "fr": "Se laver les mains",
-        "it": "Lavarsi le mani"
+        "it": "Lavarsi le mani",
+        "de": "Sich die Hände waschen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "We wash our hands before we eat.",
+          "es": "Nos lavamos las manos antes de comer."
+        },
+        "pt": {
+          "text": "Lavamos as mãos antes de comer.",
+          "es": "Nos lavamos las manos antes de comer."
+        },
+        "fr": {
+          "text": "On se lave les mains avant de manger.",
+          "es": "Nos lavamos las manos antes de comer."
+        },
+        "it": {
+          "text": "Ci laviamo le mani prima di mangiare.",
+          "es": "Nos lavamos las manos antes de comer."
+        },
+        "de": {
+          "text": "Wir waschen uns vor dem Essen die Hände.",
+          "es": "Nos lavamos las manos antes de comer."
+        }
+      }
     },
     {
       "id": "rd12",
-      "es": "Cepillarse / Lavarse los dientes",
+      "es": "Cepillarse los dientes / Lavarse los dientes",
       "translations": {
         "en": "To brush your teeth",
         "pt": "Escovar os dentes",
         "fr": "Se brosser les dents",
-        "it": "Lavarsi i denti"
+        "it": "Lavarsi i denti",
+        "de": "Sich die Zähne putzen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I brush my teeth twice a day.",
+          "es": "Me cepillo los dientes dos veces al día."
+        },
+        "pt": {
+          "text": "Escovo os dentes duas vezes por dia.",
+          "es": "Me cepillo los dientes dos veces al día."
+        },
+        "fr": {
+          "text": "Je me brosse les dents deux fois par jour.",
+          "es": "Me cepillo los dientes dos veces al día."
+        },
+        "it": {
+          "text": "Mi lavo i denti due volte al giorno.",
+          "es": "Me cepillo los dientes dos veces al día."
+        },
+        "de": {
+          "text": "Ich putze mir zweimal am Tag die Zähne.",
+          "es": "Me cepillo los dientes dos veces al día."
+        }
+      }
     },
     {
       "id": "rd13",
@@ -141,31 +464,103 @@
         "en": "To comb your hair",
         "pt": "Pentear o cabelo",
         "fr": "Se peigner",
-        "it": "Pettinarsi"
+        "it": "Pettinarsi",
+        "de": "Sich kämmen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I comb my hair in front of the mirror.",
+          "es": "Me peino frente al espejo."
+        },
+        "pt": {
+          "text": "Penteio o cabelo na frente do espelho.",
+          "es": "Me peino frente al espejo."
+        },
+        "fr": {
+          "text": "Je me peigne devant le miroir.",
+          "es": "Me peino frente al espejo."
+        },
+        "it": {
+          "text": "Mi pettino davanti allo specchio.",
+          "es": "Me peino frente al espejo."
+        },
+        "de": {
+          "text": "Ich kämme mich vor dem Spiegel.",
+          "es": "Me peino frente al espejo."
+        }
+      }
     },
     {
       "id": "rd14",
-      "es": "Afeitarse / Rasurarse",
+      "es": "Rasurarse / Afeitarse",
       "translations": {
         "en": "To shave",
         "pt": "Fazer a barba / Se barbear",
         "fr": "Se raser",
-        "it": "Farsi la barba / Radersi"
+        "it": "Farsi la barba / Radersi",
+        "de": "Sich rasieren"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Fazer a barba» se refiere a rasurarse la barba; «se barbear» también se usa en el mismo contexto."
+      },
+      "examples": {
+        "en": {
+          "text": "My brother shaves before going to work.",
+          "es": "Mi hermano se rasura antes de ir al trabajo."
+        },
+        "pt": {
+          "text": "Meu irmão faz a barba antes de ir para o trabalho.",
+          "es": "Mi hermano se rasura antes de ir al trabajo."
+        },
+        "fr": {
+          "text": "Mon frère se rase avant d'aller au travail.",
+          "es": "Mi hermano se rasura antes de ir al trabajo."
+        },
+        "it": {
+          "text": "Mio fratello si fa la barba prima di andare al lavoro.",
+          "es": "Mi hermano se rasura antes de ir al trabajo."
+        },
+        "de": {
+          "text": "Mein Bruder rasiert sich, bevor er zur Arbeit geht.",
+          "es": "Mi hermano se rasura antes de ir al trabajo."
+        }
+      }
     },
     {
       "id": "rd15",
       "es": "Maquillarse",
       "translations": {
         "en": "To put on makeup",
-        "pt": "Se maquiar / Passar maquiagem",
+        "pt": "Passar maquiagem / Se maquiar",
         "fr": "Se maquiller",
-        "it": "Truccarsi"
+        "it": "Truccarsi",
+        "de": "Sich schminken"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "She puts on makeup for the party.",
+          "es": "Ella se maquilla para la fiesta."
+        },
+        "pt": {
+          "text": "Ela passa maquiagem para a festa.",
+          "es": "Ella se maquilla para la fiesta."
+        },
+        "fr": {
+          "text": "Elle se maquille pour la fête.",
+          "es": "Ella se maquilla para la fiesta."
+        },
+        "it": {
+          "text": "Si trucca per la festa.",
+          "es": "Ella se maquilla para la fiesta."
+        },
+        "de": {
+          "text": "Sie schminkt sich für die Party.",
+          "es": "Ella se maquilla para la fiesta."
+        }
+      }
     },
     {
       "id": "rd16",
@@ -174,20 +569,69 @@
         "en": "To have breakfast",
         "pt": "Tomar café da manhã",
         "fr": "Prendre le petit-déjeuner",
-        "it": "Fare colazione"
+        "it": "Fare colazione",
+        "de": "Frühstücken"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I have breakfast with my sister.",
+          "es": "Desayuno con mi hermana."
+        },
+        "pt": {
+          "text": "Tomo café da manhã com minha irmã.",
+          "es": "Desayuno con mi hermana."
+        },
+        "fr": {
+          "text": "Je prends le petit-déjeuner avec ma sœur.",
+          "es": "Desayuno con mi hermana."
+        },
+        "it": {
+          "text": "Faccio colazione con mia sorella.",
+          "es": "Desayuno con mi hermana."
+        },
+        "de": {
+          "text": "Ich frühstücke mit meiner Schwester.",
+          "es": "Desayuno con mi hermana."
+        }
+      }
     },
     {
       "id": "rd17",
-      "es": "Almorzar / Comer (comida del mediodía)",
+      "es": "Comer / Almorzar",
       "translations": {
         "en": "To have lunch",
         "pt": "Almoçar",
         "fr": "Déjeuner",
-        "it": "Pranzare"
+        "it": "Pranzare",
+        "de": "Zu Mittag essen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Comida del mediodía)"
+      },
+      "examples": {
+        "en": {
+          "text": "We have lunch at noon at work.",
+          "es": "Comemos al mediodía en el trabajo."
+        },
+        "pt": {
+          "text": "Almoçamos ao meio-dia no trabalho.",
+          "es": "Comemos al mediodía en el trabajo."
+        },
+        "fr": {
+          "text": "On déjeune à midi au travail.",
+          "es": "Comemos al mediodía en el trabajo."
+        },
+        "it": {
+          "text": "Pranziamo a mezzogiorno al lavoro.",
+          "es": "Comemos al mediodía en el trabajo."
+        },
+        "de": {
+          "text": "Wir essen um zwölf Uhr bei der Arbeit zu Mittag.",
+          "es": "Comemos a las doce en el trabajo."
+        }
+      }
     },
     {
       "id": "rd18",
@@ -196,20 +640,69 @@
         "en": "To have dinner",
         "pt": "Jantar",
         "fr": "Dîner",
-        "it": "Cenare"
+        "it": "Cenare",
+        "de": "Zu Abend essen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "We're having dinner at home today.",
+          "es": "Cenamos en casa hoy."
+        },
+        "pt": {
+          "text": "Hoje jantamos em casa.",
+          "es": "Cenamos en casa hoy."
+        },
+        "fr": {
+          "text": "Aujourd'hui, on dîne à la maison.",
+          "es": "Cenamos en casa hoy."
+        },
+        "it": {
+          "text": "Oggi ceniamo a casa.",
+          "es": "Cenamos en casa hoy."
+        },
+        "de": {
+          "text": "Heute essen wir zu Hause zu Abend.",
+          "es": "Cenamos en casa hoy."
+        }
+      }
     },
     {
       "id": "rd19",
-      "es": "Merendar (comer algo entre comidas)",
+      "es": "Comer algo entre comidas",
       "translations": {
         "en": "To have a snack",
         "pt": "Fazer um lanche",
-        "fr": "Prendre un goûter / Prendre un en-cas",
-        "it": "Fare merenda / Fare uno spuntino"
+        "fr": "Prendre un en-cas",
+        "it": "Fare uno spuntino",
+        "de": "Eine Kleinigkeit zwischendurch essen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "También se dice «merendar», sobre todo si es por la tarde."
+      },
+      "examples": {
+        "en": {
+          "text": "I have a snack in the afternoon.",
+          "es": "Como algo entre comidas en la tarde."
+        },
+        "pt": {
+          "text": "Faço um lanche à tarde.",
+          "es": "Como algo entre comidas en la tarde."
+        },
+        "fr": {
+          "text": "Je prends un en-cas l'après-midi.",
+          "es": "Como algo entre comidas en la tarde."
+        },
+        "it": {
+          "text": "Faccio uno spuntino nel pomeriggio.",
+          "es": "Como algo entre comidas en la tarde."
+        },
+        "de": {
+          "text": "Ich esse am Nachmittag eine Kleinigkeit zwischendurch.",
+          "es": "Como algo entre comidas en la tarde."
+        }
+      }
     },
     {
       "id": "rd20",
@@ -218,9 +711,32 @@
         "en": "To work",
         "pt": "Trabalhar",
         "fr": "Travailler",
-        "it": "Lavorare"
+        "it": "Lavorare",
+        "de": "Arbeiten"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I work from home on Fridays.",
+          "es": "Trabajo desde casa los viernes."
+        },
+        "pt": {
+          "text": "Trabalho de casa às sextas-feiras.",
+          "es": "Trabajo desde casa los viernes."
+        },
+        "fr": {
+          "text": "Je travaille de chez moi le vendredi.",
+          "es": "Trabajo desde casa los viernes."
+        },
+        "it": {
+          "text": "Lavoro da casa il venerdì.",
+          "es": "Trabajo desde casa los viernes."
+        },
+        "de": {
+          "text": "Freitags arbeite ich von zu Hause aus.",
+          "es": "Trabajo desde casa los viernes."
+        }
+      }
     },
     {
       "id": "rd21",
@@ -229,31 +745,106 @@
         "en": "To study",
         "pt": "Estudar",
         "fr": "Étudier",
-        "it": "Studiare"
+        "it": "Studiare",
+        "de": "Lernen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I study French after dinner.",
+          "es": "Estudio francés después de cenar."
+        },
+        "pt": {
+          "text": "Estudo francês depois do jantar.",
+          "es": "Estudio francés después de cenar."
+        },
+        "fr": {
+          "text": "J'étudie le français après le dîner.",
+          "es": "Estudio francés después de cenar."
+        },
+        "it": {
+          "text": "Studio francese dopo cena.",
+          "es": "Estudio francés después de cenar."
+        },
+        "de": {
+          "text": "Nach dem Abendessen lerne ich Französisch.",
+          "es": "Estudio francés después de cenar."
+        }
+      }
     },
     {
       "id": "rd22",
-      "es": "Empezar / Comenzar (una actividad)",
+      "es": "Empezar / Comenzar",
       "translations": {
         "en": "To start / To begin",
         "pt": "Começar / Iniciar",
         "fr": "Commencer",
-        "it": "Cominciare / Iniziare"
+        "it": "Cominciare / Iniziare",
+        "de": "Anfangen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Iniciar una actividad)"
+      },
+      "examples": {
+        "en": {
+          "text": "The class starts in five minutes.",
+          "es": "La clase empieza en cinco minutos."
+        },
+        "pt": {
+          "text": "A aula começa em cinco minutos.",
+          "es": "La clase empieza en cinco minutos."
+        },
+        "fr": {
+          "text": "Le cours commence dans cinq minutes.",
+          "es": "La clase empieza en cinco minutos."
+        },
+        "it": {
+          "text": "La lezione comincia tra cinque minuti.",
+          "es": "La clase empieza en cinco minutos."
+        },
+        "de": {
+          "text": "Der Unterricht fängt in fünf Minuten an.",
+          "es": "La clase empieza en cinco minutos."
+        }
+      }
     },
     {
       "id": "rd23",
-      "es": "Terminar / Acabar (una actividad)",
+      "es": "Terminar / Acabar",
       "translations": {
         "en": "To finish",
         "pt": "Terminar / Acabar",
         "fr": "Finir / Terminer",
-        "it": "Finire / Terminare"
+        "it": "Finire / Terminare",
+        "de": "Etwas fertig machen / Etwas beenden"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Llegar al final de una actividad)"
+      },
+      "examples": {
+        "en": {
+          "text": "I finish my homework before dinner.",
+          "es": "Termino mi tarea antes de cenar."
+        },
+        "pt": {
+          "text": "Termino a lição de casa antes do jantar.",
+          "es": "Termino mi tarea antes de cenar."
+        },
+        "fr": {
+          "text": "Je finis mes devoirs avant le dîner.",
+          "es": "Termino mi tarea antes de cenar."
+        },
+        "it": {
+          "text": "Finisco i compiti prima di cena.",
+          "es": "Termino mi tarea antes de cenar."
+        },
+        "de": {
+          "text": "Ich mache meine Hausaufgaben vor dem Abendessen fertig.",
+          "es": "Termino mi tarea antes de cenar."
+        }
+      }
     },
     {
       "id": "rd24",
@@ -262,31 +853,100 @@
         "en": "To leave the house",
         "pt": "Sair de casa",
         "fr": "Sortir de chez soi",
-        "it": "Uscire di casa"
+        "it": "Uscire di casa",
+        "de": "Aus dem Haus gehen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "We leave the house after breakfast.",
+          "es": "Salimos de casa después de desayunar."
+        },
+        "pt": {
+          "text": "Saímos de casa depois do café da manhã.",
+          "es": "Salimos de casa después de desayunar."
+        },
+        "fr": {
+          "text": "On sort de chez nous après le petit-déjeuner.",
+          "es": "Salimos de casa después de desayunar."
+        },
+        "it": {
+          "text": "Usciamo di casa dopo colazione.",
+          "es": "Salimos de casa después de desayunar."
+        },
+        "de": {
+          "text": "Nach dem Frühstück gehen wir aus dem Haus.",
+          "es": "Salimos de casa después de desayunar."
+        }
+      }
     },
     {
       "id": "rd25",
-      "es": "Tomar / Hacer una pausa",
+      "es": "Hacer una pausa / Tomarse un descanso",
       "translations": {
         "en": "To take a break",
         "pt": "Fazer uma pausa",
         "fr": "Faire une pause",
-        "it": "Fare una pausa"
+        "it": "Fare una pausa",
+        "de": "Eine Pause machen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I take a break during class.",
+          "es": "Hago una pausa durante la clase."
+        },
+        "pt": {
+          "text": "Faço uma pausa durante a aula.",
+          "es": "Hago una pausa durante la clase."
+        },
+        "fr": {
+          "text": "Je fais une pause pendant le cours.",
+          "es": "Hago una pausa durante la clase."
+        },
+        "it": {
+          "text": "Faccio una pausa durante la lezione.",
+          "es": "Hago una pausa durante la clase."
+        },
+        "de": {
+          "text": "Ich mache im Unterricht eine Pause.",
+          "es": "Hago una pausa durante la clase."
+        }
+      }
     },
     {
       "id": "rd26",
-      "es": "Tomar / Dormir una siesta",
+      "es": "Tomar una siesta / Dormir una siesta",
       "translations": {
         "en": "To take a nap",
         "pt": "Tirar um cochilo",
         "fr": "Faire une sieste",
-        "it": "Fare un pisolino"
+        "it": "Fare un pisolino",
+        "de": "Ein Nickerchen machen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I take a short nap after lunch.",
+          "es": "Tomo una siesta corta después de comer."
+        },
+        "pt": {
+          "text": "Tiro um cochilo curto depois do almoço.",
+          "es": "Tomo una siesta corta después de comer."
+        },
+        "fr": {
+          "text": "Je fais une courte sieste après le déjeuner.",
+          "es": "Tomo una siesta corta después de comer."
+        },
+        "it": {
+          "text": "Faccio un breve pisolino dopo pranzo.",
+          "es": "Tomo una siesta corta después de comer."
+        },
+        "de": {
+          "text": "Nach dem Mittagessen mache ich ein kurzes Nickerchen.",
+          "es": "Tomo una siesta corta después de comer."
+        }
+      }
     },
     {
       "id": "rd27",
@@ -295,31 +955,106 @@
         "en": "To check your messages",
         "pt": "Conferir as mensagens",
         "fr": "Consulter ses messages",
-        "it": "Controllare i messaggi"
+        "it": "Controllare i messaggi",
+        "de": "Seine Nachrichten lesen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "Aquí «lesen» se usa para leer los mensajes recibidos, no para corregir los que uno escribió."
+      },
+      "examples": {
+        "en": {
+          "text": "I check my messages on the bus.",
+          "es": "Reviso mis mensajes en el camión."
+        },
+        "pt": {
+          "text": "Confiro minhas mensagens no ônibus.",
+          "es": "Reviso mis mensajes en el camión."
+        },
+        "fr": {
+          "text": "Je consulte mes messages dans le bus.",
+          "es": "Reviso mis mensajes en el camión."
+        },
+        "it": {
+          "text": "Controllo i miei messaggi sull'autobus.",
+          "es": "Reviso mis mensajes en el camión."
+        },
+        "de": {
+          "text": "Ich lese im Bus meine Nachrichten.",
+          "es": "Leo mis mensajes en el camión."
+        }
+      }
     },
     {
       "id": "rd28",
       "es": "Acostarse / Irse a la cama",
       "translations": {
         "en": "To go to bed",
-        "pt": "Ir para a cama / Deitar-se",
+        "pt": "Ir para a cama / Se deitar",
         "fr": "Se coucher / Aller au lit",
-        "it": "Andare a letto / Coricarsi"
+        "it": "Andare a letto / Coricarsi",
+        "de": "Ins Bett gehen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My daughter goes to bed early on weekdays.",
+          "es": "Mi hija se acuesta temprano entre semana."
+        },
+        "pt": {
+          "text": "Minha filha vai para a cama cedo durante a semana.",
+          "es": "Mi hija se acuesta temprano entre semana."
+        },
+        "fr": {
+          "text": "Ma fille se couche tôt en semaine.",
+          "es": "Mi hija se acuesta temprano entre semana."
+        },
+        "it": {
+          "text": "Mia figlia va a letto presto durante la settimana.",
+          "es": "Mi hija se acuesta temprano entre semana."
+        },
+        "de": {
+          "text": "Meine Tochter geht unter der Woche früh ins Bett.",
+          "es": "Mi hija se acuesta temprano entre semana."
+        }
+      }
     },
     {
       "id": "rd29",
-      "es": "Dormirse / Quedarse dormido/a",
+      "es": "Dormirse / Quedarse dormido / Quedarse dormida",
       "translations": {
         "en": "To fall asleep",
-        "pt": "Pegar no sono / Adormecer",
+        "pt": "Adormecer",
         "fr": "S'endormir",
-        "it": "Addormentarsi"
+        "it": "Addormentarsi",
+        "de": "Einschlafen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Coloquial: Pegar no sono"
+      },
+      "examples": {
+        "en": {
+          "text": "My son falls asleep in the car.",
+          "es": "Mi hijo se duerme en el carro."
+        },
+        "pt": {
+          "text": "Meu filho adormece no carro.",
+          "es": "Mi hijo se duerme en el carro."
+        },
+        "fr": {
+          "text": "Mon fils s'endort dans la voiture.",
+          "es": "Mi hijo se duerme en el carro."
+        },
+        "it": {
+          "text": "Mio figlio si addormenta in macchina.",
+          "es": "Mi hijo se duerme en el carro."
+        },
+        "de": {
+          "text": "Mein Sohn schläft im Auto ein.",
+          "es": "Mi hijo se duerme en el carro."
+        }
+      }
     },
     {
       "id": "rd30",
@@ -328,9 +1063,14 @@
         "en": "What time do you get up?",
         "pt": "Que horas você se levanta?",
         "fr": "À quelle heure te lèves-tu ? / À quelle heure vous levez-vous ?",
-        "it": "A che ora ti alzi? / A che ora si alza?"
+        "it": "A che ora ti alzi? / A che ora si alza?",
+        "de": "Wann stehst du auf? / Wann stehen Sie auf?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de trato cotidiano en buena parte de Brasil; no corresponde automáticamente al «usted» del español.",
+        "de": "Primero el trato informal; después el formal con «Sie»."
+      }
     },
     {
       "id": "rd31",
@@ -339,7 +1079,8 @@
         "en": "I wake up at seven.",
         "pt": "Acordo às sete.",
         "fr": "Je me réveille à sept heures.",
-        "it": "Mi sveglio alle sette."
+        "it": "Mi sveglio alle sette.",
+        "de": "Ich wache um sieben Uhr auf."
       },
       "image_url": ""
     },
@@ -350,9 +1091,13 @@
         "en": "I get up at seven fifteen.",
         "pt": "Me levanto às sete e quinze.",
         "fr": "Je me lève à sept heures et quart.",
-        "it": "Mi alzo alle sette e un quarto."
+        "it": "Mi alzo alle sette e un quarto.",
+        "de": "Ich stehe um Viertel nach sieben auf."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Viertel nach sieben» es siete y cuarto."
+      }
     },
     {
       "id": "rd33",
@@ -361,18 +1106,20 @@
         "en": "My partner gets up before I do.",
         "pt": "Meu parceiro se levanta antes de mim. / Minha parceira se levanta antes de mim.",
         "fr": "Mon partenaire se lève avant moi. / Ma partenaire se lève avant moi.",
-        "it": "Il mio compagno si alza prima di me. / La mia compagna si alza prima di me."
+        "it": "Il mio compagno si alza prima di me. / La mia compagna si alza prima di me.",
+        "de": "Mein Partner steht vor mir auf. / Meine Partnerin steht vor mir auf."
       },
       "image_url": ""
     },
     {
       "id": "rd34",
-      "es": "Me ducho por la mañana.",
+      "es": "Me baño en la regadera por la mañana.",
       "translations": {
         "en": "I take a shower in the morning.",
         "pt": "Tomo banho de manhã.",
         "fr": "Je prends une douche le matin.",
-        "it": "Faccio la doccia la mattina."
+        "it": "Faccio la doccia la mattina.",
+        "de": "Ich dusche morgens."
       },
       "image_url": ""
     },
@@ -383,18 +1130,20 @@
         "en": "I brush my teeth after breakfast.",
         "pt": "Escovo os dentes depois do café da manhã.",
         "fr": "Je me brosse les dents après le petit-déjeuner.",
-        "it": "Mi lavo i denti dopo colazione."
+        "it": "Mi lavo i denti dopo colazione.",
+        "de": "Ich putze mir nach dem Frühstück die Zähne."
       },
       "image_url": ""
     },
     {
       "id": "rd36",
-      "es": "Primero me ducho y después me visto.",
+      "es": "Primero me baño en la regadera y después me visto.",
       "translations": {
         "en": "First I take a shower, then I get dressed.",
         "pt": "Primeiro tomo banho, depois me visto.",
         "fr": "D'abord, je prends une douche, puis je m'habille.",
-        "it": "Prima faccio la doccia, poi mi vesto."
+        "it": "Prima faccio la doccia, poi mi vesto.",
+        "de": "Zuerst dusche ich, dann ziehe ich mich an."
       },
       "image_url": ""
     },
@@ -405,7 +1154,8 @@
         "en": "I get ready in twenty minutes.",
         "pt": "Me arrumo em vinte minutos.",
         "fr": "Je me prépare en vingt minutes.",
-        "it": "Mi preparo in venti minuti."
+        "it": "Mi preparo in venti minuti.",
+        "de": "Ich mache mich in zwanzig Minuten fertig."
       },
       "image_url": ""
     },
@@ -416,7 +1166,8 @@
         "en": "I wash my hands before breakfast.",
         "pt": "Lavo as mãos antes do café da manhã.",
         "fr": "Je me lave les mains avant le petit-déjeuner.",
-        "it": "Mi lavo le mani prima di colazione."
+        "it": "Mi lavo le mani prima di colazione.",
+        "de": "Vor dem Frühstück wasche ich mir die Hände."
       },
       "image_url": ""
     },
@@ -427,7 +1178,8 @@
         "en": "I have breakfast at eight.",
         "pt": "Tomo café da manhã às oito.",
         "fr": "Je prends le petit-déjeuner à huit heures.",
-        "it": "Faccio colazione alle otto."
+        "it": "Faccio colazione alle otto.",
+        "de": "Ich frühstücke um acht Uhr."
       },
       "image_url": ""
     },
@@ -438,7 +1190,8 @@
         "en": "I don't have breakfast at home.",
         "pt": "Não tomo café da manhã em casa.",
         "fr": "Je ne prends pas le petit-déjeuner chez moi.",
-        "it": "Non faccio colazione a casa."
+        "it": "Non faccio colazione a casa.",
+        "de": "Ich frühstücke nicht zu Hause."
       },
       "image_url": ""
     },
@@ -447,9 +1200,10 @@
       "es": "Normalmente tomo café con el desayuno.",
       "translations": {
         "en": "I usually have coffee with breakfast.",
-        "pt": "Normalmente tomo café no café da manhã.",
+        "pt": "No café da manhã, geralmente tomo café.",
         "fr": "D'habitude, je bois du café au petit-déjeuner.",
-        "it": "Di solito bevo un caffè a colazione."
+        "it": "Di solito bevo un caffè a colazione.",
+        "de": "Normalerweise trinke ich zum Frühstück Kaffee."
       },
       "image_url": ""
     },
@@ -460,9 +1214,14 @@
         "en": "What do you do after breakfast?",
         "pt": "O que você faz depois do café da manhã?",
         "fr": "Que fais-tu après le petit-déjeuner ? / Que faites-vous après le petit-déjeuner ?",
-        "it": "Che cosa fai dopo colazione? / Che cosa fa dopo colazione?"
+        "it": "Che cosa fai dopo colazione? / Che cosa fa dopo colazione?",
+        "de": "Was machst du nach dem Frühstück? / Was machen Sie nach dem Frühstück?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de trato cotidiano en buena parte de Brasil; no corresponde automáticamente al «usted» del español.",
+        "de": "Primero el trato informal; después el formal con «Sie»."
+      }
     },
     {
       "id": "rd43",
@@ -471,7 +1230,8 @@
         "en": "I pack my backpack before I leave.",
         "pt": "Arrumo minha mochila antes de sair.",
         "fr": "Je prépare mon sac à dos avant de sortir.",
-        "it": "Preparo lo zaino prima di uscire."
+        "it": "Preparo lo zaino prima di uscire.",
+        "de": "Ich packe meinen Rucksack, bevor ich aus dem Haus gehe."
       },
       "image_url": ""
     },
@@ -482,9 +1242,13 @@
         "en": "I leave the house at eight thirty.",
         "pt": "Saio de casa às oito e meia.",
         "fr": "Je pars de chez moi à huit heures et demie.",
-        "it": "Esco di casa alle otto e mezza."
+        "it": "Esco di casa alle otto e mezza.",
+        "de": "Ich gehe um halb neun aus dem Haus."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Halb neun» indica media hora antes de las nueve: son las ocho y media."
+      }
     },
     {
       "id": "rd45",
@@ -493,9 +1257,14 @@
         "en": "How do you get to work?",
         "pt": "Como você vai para o trabalho?",
         "fr": "Comment vas-tu au travail ? / Comment allez-vous au travail ?",
-        "it": "Come vai al lavoro? / Come va al lavoro?"
+        "it": "Come vai al lavoro? / Come va al lavoro?",
+        "de": "Wie kommst du zur Arbeit? / Wie kommen Sie zur Arbeit?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de trato cotidiano en buena parte de Brasil; no corresponde automáticamente al «usted» del español.",
+        "de": "Primero el trato informal; después el formal con «Sie»."
+      }
     },
     {
       "id": "rd46",
@@ -504,7 +1273,8 @@
         "en": "I go to work by bus.",
         "pt": "Vou para o trabalho de ônibus.",
         "fr": "Je vais au travail en bus.",
-        "it": "Vado al lavoro in autobus."
+        "it": "Vado al lavoro in autobus.",
+        "de": "Ich fahre mit dem Bus zur Arbeit."
       },
       "image_url": ""
     },
@@ -515,7 +1285,8 @@
         "en": "I walk to school.",
         "pt": "Vou para a escola a pé.",
         "fr": "Je vais à l'école à pied.",
-        "it": "Vado a scuola a piedi."
+        "it": "Vado a scuola a piedi.",
+        "de": "Ich gehe zu Fuß zur Schule."
       },
       "image_url": ""
     },
@@ -526,7 +1297,8 @@
         "en": "The trip takes half an hour.",
         "pt": "O trajeto leva meia hora.",
         "fr": "Le trajet dure une demi-heure.",
-        "it": "Il tragitto dura mezz'ora."
+        "it": "Il tragitto dura mezz'ora.",
+        "de": "Der Weg dauert eine halbe Stunde."
       },
       "image_url": ""
     },
@@ -535,11 +1307,16 @@
       "es": "¿Qué días trabajas? / ¿Qué días trabaja?",
       "translations": {
         "en": "What days do you work?",
-        "pt": "Em quais dias você trabalha?",
+        "pt": "Que dias você trabalha?",
         "fr": "Quels jours travailles-tu ? / Quels jours travaillez-vous ?",
-        "it": "Quali giorni lavori? / Quali giorni lavora?"
+        "it": "Quali giorni lavori? / Quali giorni lavora?",
+        "de": "An welchen Tagen arbeitest du? / An welchen Tagen arbeiten Sie?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de trato cotidiano en buena parte de Brasil; no corresponde automáticamente al «usted» del español.",
+        "de": "Primero el trato informal; después el formal con «Sie»."
+      }
     },
     {
       "id": "rd50",
@@ -548,7 +1325,8 @@
         "en": "I work Monday through Friday.",
         "pt": "Trabalho de segunda a sexta-feira.",
         "fr": "Je travaille du lundi au vendredi.",
-        "it": "Lavoro dal lunedì al venerdì."
+        "it": "Lavoro dal lunedì al venerdì.",
+        "de": "Ich arbeite von Montag bis Freitag."
       },
       "image_url": ""
     },
@@ -559,7 +1337,8 @@
         "en": "I start work at nine.",
         "pt": "Começo a trabalhar às nove.",
         "fr": "Je commence à travailler à neuf heures.",
-        "it": "Comincio a lavorare alle nove."
+        "it": "Comincio a lavorare alle nove.",
+        "de": "Ich fange um neun Uhr an zu arbeiten."
       },
       "image_url": ""
     },
@@ -569,8 +1348,9 @@
       "translations": {
         "en": "I finish work at six.",
         "pt": "Termino de trabalhar às seis.",
-        "fr": "Je termine le travail à six heures.",
-        "it": "Finisco di lavorare alle sei."
+        "fr": "Je finis de travailler à six heures.",
+        "it": "Finisco di lavorare alle sei.",
+        "de": "Ich höre um sechs Uhr auf zu arbeiten."
       },
       "image_url": ""
     },
@@ -581,7 +1361,8 @@
         "en": "My class starts at ten.",
         "pt": "Minha aula começa às dez.",
         "fr": "Mon cours commence à dix heures.",
-        "it": "La mia lezione comincia alle dieci."
+        "it": "La mia lezione comincia alle dieci.",
+        "de": "Mein Unterricht beginnt um zehn Uhr."
       },
       "image_url": ""
     },
@@ -592,9 +1373,14 @@
         "en": "How many hours a day do you work?",
         "pt": "Quantas horas por dia você trabalha?",
         "fr": "Combien d'heures travailles-tu par jour ? / Combien d'heures travaillez-vous par jour ?",
-        "it": "Quante ore al giorno lavori? / Quante ore al giorno lavora?"
+        "it": "Quante ore al giorno lavori? / Quante ore al giorno lavora?",
+        "de": "Wie viele Stunden arbeitest du am Tag? / Wie viele Stunden arbeiten Sie am Tag?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de trato cotidiano en buena parte de Brasil; no corresponde automáticamente al «usted» del español.",
+        "de": "Primero el trato informal; después el formal con «Sie»."
+      }
     },
     {
       "id": "rd55",
@@ -603,7 +1389,8 @@
         "en": "I study for an hour a day.",
         "pt": "Estudo uma hora por dia.",
         "fr": "J'étudie une heure par jour.",
-        "it": "Studio un'ora al giorno."
+        "it": "Studio un'ora al giorno.",
+        "de": "Ich lerne eine Stunde am Tag."
       },
       "image_url": ""
     },
@@ -614,20 +1401,27 @@
         "en": "I take a break in the middle of the morning.",
         "pt": "Faço uma pausa no meio da manhã.",
         "fr": "Je fais une pause en milieu de matinée.",
-        "it": "Faccio una pausa a metà mattina."
+        "it": "Faccio una pausa a metà mattina.",
+        "de": "Ich mache mitten am Vormittag eine Pause."
       },
       "image_url": ""
     },
     {
       "id": "rd57",
-      "es": "¿A qué hora comes? / ¿A qué hora come? (comida del mediodía)",
+      "es": "¿A qué hora comes? / ¿A qué hora come?",
       "translations": {
         "en": "What time do you have lunch?",
         "pt": "Que horas você almoça?",
         "fr": "À quelle heure déjeunes-tu ? / À quelle heure déjeunez-vous ?",
-        "it": "A che ora pranzi? / A che ora pranza?"
+        "it": "A che ora pranzi? / A che ora pranza?",
+        "de": "Wann isst du zu Mittag? / Wann essen Sie zu Mittag?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Comida del mediodía)",
+        "pt": "«Você» es de trato cotidiano en buena parte de Brasil; no corresponde automáticamente al «usted» del español.",
+        "de": "Primero el trato informal; después el formal con «Sie»."
+      }
     },
     {
       "id": "rd58",
@@ -636,7 +1430,8 @@
         "en": "I have lunch with my coworkers.",
         "pt": "Almoço com meus colegas de trabalho.",
         "fr": "Je déjeune avec mes collègues.",
-        "it": "Pranzo con i miei colleghi."
+        "it": "Pranzo con i miei colleghi.",
+        "de": "Ich esse mit meinen Kollegen zu Mittag. / Ich esse mit meinen Kolleginnen zu Mittag."
       },
       "image_url": ""
     },
@@ -647,7 +1442,8 @@
         "en": "I'm not working today.",
         "pt": "Hoje não trabalho.",
         "fr": "Aujourd'hui, je ne travaille pas.",
-        "it": "Oggi non lavoro."
+        "it": "Oggi non lavoro.",
+        "de": "Heute arbeite ich nicht."
       },
       "image_url": ""
     },
@@ -655,10 +1451,11 @@
       "id": "rd60",
       "es": "Vuelvo a casa por la tarde.",
       "translations": {
-        "en": "I get home in the afternoon.",
+        "en": "I get back home in the afternoon.",
         "pt": "Volto para casa à tarde.",
         "fr": "Je rentre chez moi l'après-midi.",
-        "it": "Torno a casa nel pomeriggio."
+        "it": "Torno a casa nel pomeriggio.",
+        "de": "Ich komme am Nachmittag nach Hause."
       },
       "image_url": ""
     },
@@ -669,7 +1466,8 @@
         "en": "When I get home, I rest for a while.",
         "pt": "Quando chego em casa, descanso um pouco.",
         "fr": "Quand je rentre chez moi, je me repose un peu.",
-        "it": "Quando torno a casa, mi riposo un po'."
+        "it": "Quando torno a casa, mi riposo un po'.",
+        "de": "Wenn ich nach Hause komme, ruhe ich mich ein bisschen aus."
       },
       "image_url": ""
     },
@@ -680,7 +1478,8 @@
         "en": "I do my homework after lunch.",
         "pt": "Faço a lição de casa depois do almoço.",
         "fr": "Je fais mes devoirs après le déjeuner.",
-        "it": "Faccio i compiti dopo pranzo."
+        "it": "Faccio i compiti dopo pranzo.",
+        "de": "Nach dem Mittagessen mache ich meine Hausaufgaben."
       },
       "image_url": ""
     },
@@ -691,7 +1490,8 @@
         "en": "I make dinner for my family.",
         "pt": "Preparo o jantar para minha família.",
         "fr": "Je prépare le dîner pour ma famille.",
-        "it": "Preparo la cena per la mia famiglia."
+        "it": "Preparo la cena per la mia famiglia.",
+        "de": "Ich mache das Abendessen für meine Familie."
       },
       "image_url": ""
     },
@@ -702,9 +1502,14 @@
         "en": "What do you do in the evenings?",
         "pt": "O que você faz à noite?",
         "fr": "Que fais-tu le soir ? / Que faites-vous le soir ?",
-        "it": "Che cosa fai la sera? / Che cosa fa la sera?"
+        "it": "Che cosa fai la sera? / Che cosa fa la sera?",
+        "de": "Was machst du abends? / Was machen Sie abends?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de trato cotidiano en buena parte de Brasil; no corresponde automáticamente al «usted» del español.",
+        "de": "Primero el trato informal; después el formal con «Sie»."
+      }
     },
     {
       "id": "rd65",
@@ -713,7 +1518,8 @@
         "en": "We have dinner together at eight.",
         "pt": "Jantamos juntos às oito.",
         "fr": "Nous dînons ensemble à huit heures.",
-        "it": "Ceniamo insieme alle otto."
+        "it": "Ceniamo insieme alle otto.",
+        "de": "Wir essen um acht Uhr zusammen zu Abend."
       },
       "image_url": ""
     },
@@ -724,7 +1530,8 @@
         "en": "I read for a while after dinner.",
         "pt": "Depois do jantar, leio um pouco.",
         "fr": "Après le dîner, je lis un peu.",
-        "it": "Dopo cena, leggo un po'."
+        "it": "Dopo cena, leggo un po'.",
+        "de": "Nach dem Abendessen lese ich ein bisschen."
       },
       "image_url": ""
     },
@@ -735,7 +1542,8 @@
         "en": "I lay out my clothes for the next day.",
         "pt": "Separo a roupa para o dia seguinte.",
         "fr": "Je prépare mes vêtements pour le lendemain.",
-        "it": "Preparo i vestiti per il giorno dopo."
+        "it": "Preparo i vestiti per il giorno dopo.",
+        "de": "Ich lege meine Kleidung für den nächsten Tag bereit."
       },
       "image_url": ""
     },
@@ -746,7 +1554,8 @@
         "en": "I put on my pajamas before bed.",
         "pt": "Coloco o pijama antes de ir para a cama.",
         "fr": "Je mets mon pyjama avant de me coucher.",
-        "it": "Metto il pigiama prima di andare a letto."
+        "it": "Metto il pigiama prima di andare a letto.",
+        "de": "Vor dem Schlafengehen ziehe ich meinen Schlafanzug an."
       },
       "image_url": ""
     },
@@ -757,9 +1566,14 @@
         "en": "What time do you go to bed?",
         "pt": "Que horas você vai para a cama?",
         "fr": "À quelle heure te couches-tu ? / À quelle heure vous couchez-vous ?",
-        "it": "A che ora vai a letto? / A che ora va a letto?"
+        "it": "A che ora vai a letto? / A che ora va a letto?",
+        "de": "Wann gehst du ins Bett? / Wann gehen Sie ins Bett?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de trato cotidiano en buena parte de Brasil; no corresponde automáticamente al «usted» del español.",
+        "de": "Primero el trato informal; después el formal con «Sie»."
+      }
     },
     {
       "id": "rd70",
@@ -768,7 +1582,8 @@
         "en": "I go to bed at eleven.",
         "pt": "Vou para a cama às onze.",
         "fr": "Je me couche à onze heures.",
-        "it": "Vado a letto alle undici."
+        "it": "Vado a letto alle undici.",
+        "de": "Ich gehe um elf Uhr ins Bett."
       },
       "image_url": ""
     },
@@ -777,9 +1592,10 @@
       "es": "Me duermo enseguida.",
       "translations": {
         "en": "I fall asleep right away.",
-        "pt": "Pego no sono logo.",
+        "pt": "Adormeço logo.",
         "fr": "Je m'endors tout de suite.",
-        "it": "Mi addormento subito."
+        "it": "Mi addormento subito.",
+        "de": "Ich schlafe sofort ein."
       },
       "image_url": ""
     },
@@ -790,7 +1606,8 @@
         "en": "I sleep eight hours a night.",
         "pt": "Durmo oito horas por noite.",
         "fr": "Je dors huit heures par nuit.",
-        "it": "Dormo otto ore a notte."
+        "it": "Dormo otto ore a notte.",
+        "de": "Ich schlafe acht Stunden pro Nacht."
       },
       "image_url": ""
     },
@@ -801,9 +1618,14 @@
         "en": "Do you sleep well?",
         "pt": "Você dorme bem?",
         "fr": "Tu dors bien ? / Vous dormez bien ?",
-        "it": "Dormi bene? / Dorme bene?"
+        "it": "Dormi bene? / Dorme bene?",
+        "de": "Schläfst du gut? / Schlafen Sie gut?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de trato cotidiano en buena parte de Brasil; no corresponde automáticamente al «usted» del español.",
+        "de": "Primero el trato informal; después el formal con «Sie»."
+      }
     },
     {
       "id": "rd74",
@@ -812,7 +1634,8 @@
         "en": "Sometimes I wake up during the night.",
         "pt": "Às vezes acordo durante a noite.",
         "fr": "Parfois, je me réveille pendant la nuit.",
-        "it": "A volte mi sveglio durante la notte."
+        "it": "A volte mi sveglio durante la notte.",
+        "de": "Manchmal wache ich nachts auf."
       },
       "image_url": ""
     },
@@ -822,10 +1645,15 @@
       "translations": {
         "en": "What's a typical day like for you?",
         "pt": "Como é um dia normal para você?",
-        "fr": "Comment se passe une journée normale pour toi ? / Comment se passe une journée normale pour vous ?",
-        "it": "Com'è una giornata normale per te? / Com'è una giornata normale per Lei?"
+        "fr": "À quoi ressemble une journée normale pour toi ? / À quoi ressemble une journée normale pour vous ?",
+        "it": "Com'è una giornata normale per te? / Com'è una giornata normale per Lei?",
+        "de": "Wie sieht ein normaler Tag für dich aus? / Wie sieht ein normaler Tag für Sie aus?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de trato cotidiano en buena parte de Brasil; no corresponde automáticamente al «usted» del español.",
+        "de": "Primero el trato informal; después el formal con «Sie»."
+      }
     },
     {
       "id": "rd76",
@@ -834,9 +1662,14 @@
         "en": "Do you do the same thing every day?",
         "pt": "Você faz a mesma coisa todos os dias?",
         "fr": "Tu fais la même chose tous les jours ? / Vous faites la même chose tous les jours ?",
-        "it": "Fai la stessa cosa ogni giorno? / Fa la stessa cosa ogni giorno?"
+        "it": "Fai la stessa cosa ogni giorno? / Fa la stessa cosa ogni giorno?",
+        "de": "Machst du jeden Tag das Gleiche? / Machen Sie jeden Tag das Gleiche?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de trato cotidiano en buena parte de Brasil; no corresponde automáticamente al «usted» del español.",
+        "de": "Primero el trato informal; después el formal con «Sie»."
+      }
     },
     {
       "id": "rd77",
@@ -845,7 +1678,8 @@
         "en": "I follow the same routine every day.",
         "pt": "Todos os dias sigo a mesma rotina.",
         "fr": "Je suis la même routine tous les jours.",
-        "it": "Seguo la stessa routine ogni giorno."
+        "it": "Seguo la stessa routine ogni giorno.",
+        "de": "Ich habe jeden Tag denselben Tagesablauf."
       },
       "image_url": ""
     },
@@ -856,7 +1690,8 @@
         "en": "I usually get up early.",
         "pt": "Normalmente me levanto cedo.",
         "fr": "D'habitude, je me lève tôt.",
-        "it": "Di solito mi alzo presto."
+        "it": "Di solito mi alzo presto.",
+        "de": "Normalerweise stehe ich früh auf."
       },
       "image_url": ""
     },
@@ -867,7 +1702,8 @@
         "en": "I sometimes take a nap.",
         "pt": "Às vezes tiro um cochilo.",
         "fr": "Parfois, je fais une sieste.",
-        "it": "A volte faccio un pisolino."
+        "it": "A volte faccio un pisolino.",
+        "de": "Manchmal mache ich ein Nickerchen."
       },
       "image_url": ""
     },
@@ -878,7 +1714,8 @@
         "en": "I never work at night.",
         "pt": "Nunca trabalho à noite.",
         "fr": "Je ne travaille jamais la nuit.",
-        "it": "Non lavoro mai di notte."
+        "it": "Non lavoro mai di notte.",
+        "de": "Ich arbeite nachts nie."
       },
       "image_url": ""
     },
@@ -889,7 +1726,8 @@
         "en": "I do laundry once a week.",
         "pt": "Lavo a roupa uma vez por semana.",
         "fr": "Je fais la lessive une fois par semaine.",
-        "it": "Faccio il bucato una volta alla settimana."
+        "it": "Faccio il bucato una volta alla settimana.",
+        "de": "Ich wasche einmal pro Woche Wäsche."
       },
       "image_url": ""
     },
@@ -900,7 +1738,8 @@
         "en": "I clean the house on Saturdays.",
         "pt": "Limpo a casa aos sábados.",
         "fr": "Je fais le ménage le samedi.",
-        "it": "Pulisco la casa il sabato."
+        "it": "Pulisco la casa il sabato.",
+        "de": "Samstags putze ich das Haus."
       },
       "image_url": ""
     },
@@ -911,7 +1750,8 @@
         "en": "I go to the supermarket on Sundays.",
         "pt": "Vou ao supermercado aos domingos.",
         "fr": "Je vais au supermarché le dimanche.",
-        "it": "Vado al supermercato la domenica."
+        "it": "Vado al supermercato la domenica.",
+        "de": "Sonntags gehe ich in den Supermarkt."
       },
       "image_url": ""
     },
@@ -922,9 +1762,14 @@
         "en": "How long does it take you to get ready?",
         "pt": "Quanto tempo você leva para se arrumar?",
         "fr": "Combien de temps te faut-il pour te préparer ? / Combien de temps vous faut-il pour vous préparer ?",
-        "it": "Quanto tempo ci metti a prepararti? / Quanto tempo ci mette a prepararsi?"
+        "it": "Quanto tempo ci metti a prepararti? / Quanto tempo ci mette a prepararsi?",
+        "de": "Wie lange brauchst du, um dich fertig zu machen? / Wie lange brauchen Sie, um sich fertig zu machen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es de trato cotidiano en buena parte de Brasil; no corresponde automáticamente al «usted» del español.",
+        "de": "Primero el trato informal; después el formal con «Sie»."
+      }
     },
     {
       "id": "rd85",
@@ -933,7 +1778,8 @@
         "en": "It takes me ten minutes to have breakfast.",
         "pt": "Levo dez minutos para tomar café da manhã.",
         "fr": "Il me faut dix minutes pour prendre le petit-déjeuner.",
-        "it": "Ci metto dieci minuti a fare colazione."
+        "it": "Ci metto dieci minuti a fare colazione.",
+        "de": "Ich brauche zehn Minuten zum Frühstücken."
       },
       "image_url": ""
     },
@@ -944,7 +1790,8 @@
         "en": "I check my messages before work.",
         "pt": "Antes de trabalhar, confiro minhas mensagens.",
         "fr": "Avant de travailler, je consulte mes messages.",
-        "it": "Prima di lavorare, controllo i messaggi."
+        "it": "Prima di lavorare, controllo i messaggi.",
+        "de": "Vor der Arbeit lese ich meine Nachrichten."
       },
       "image_url": ""
     },
@@ -955,7 +1802,8 @@
         "en": "I get up later on weekends.",
         "pt": "Nos fins de semana, me levanto mais tarde.",
         "fr": "Le week-end, je me lève plus tard.",
-        "it": "Nel fine settimana mi alzo più tardi."
+        "it": "Nel fine settimana mi alzo più tardi.",
+        "de": "Am Wochenende stehe ich später auf."
       },
       "image_url": ""
     },
@@ -966,7 +1814,8 @@
         "en": "On Sundays, I rest and spend time with my family.",
         "pt": "Aos domingos, descanso e passo tempo com minha família.",
         "fr": "Le dimanche, je me repose et je passe du temps avec ma famille.",
-        "it": "La domenica mi riposo e passo del tempo con la mia famiglia."
+        "it": "La domenica mi riposo e passo del tempo con la mia famiglia.",
+        "de": "Sonntags ruhe ich mich aus und verbringe Zeit mit meiner Familie."
       },
       "image_url": ""
     },
@@ -977,7 +1826,8 @@
         "en": "I work in the morning and study in the afternoon.",
         "pt": "De manhã trabalho e à tarde estudo.",
         "fr": "Je travaille le matin et j'étudie l'après-midi.",
-        "it": "La mattina lavoro e il pomeriggio studio."
+        "it": "La mattina lavoro e il pomeriggio studio.",
+        "de": "Morgens arbeite ich und nachmittags lerne ich."
       },
       "image_url": ""
     }
