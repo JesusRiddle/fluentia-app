@@ -1,226 +1,43 @@
 {
   "module": "El Tiempo y el Calendario",
   "level": "A1",
-  "revisado": false,
+  "revisado": true,
   "cards": [
-    {
-      "id": "t1",
-      "image_url": "",
-      "es": "lunes",
-      "translations": {
-        "en": "Monday",
-        "pt": "segunda-feira",
-        "fr": "lundi",
-        "it": "lunedì"
-      }
-    },
-    {
-      "id": "t2",
-      "image_url": "",
-      "es": "martes",
-      "translations": {
-        "en": "Tuesday",
-        "pt": "terça-feira",
-        "fr": "mardi",
-        "it": "martedì"
-      }
-    },
-    {
-      "id": "t3",
-      "image_url": "",
-      "es": "miércoles",
-      "translations": {
-        "en": "Wednesday",
-        "pt": "quarta-feira",
-        "fr": "mercredi",
-        "it": "mercoledì"
-      }
-    },
-    {
-      "id": "t4",
-      "image_url": "",
-      "es": "jueves",
-      "translations": {
-        "en": "Thursday",
-        "pt": "quinta-feira",
-        "fr": "jeudi",
-        "it": "giovedì"
-      }
-    },
-    {
-      "id": "t5",
-      "image_url": "",
-      "es": "viernes",
-      "translations": {
-        "en": "Friday",
-        "pt": "sexta-feira",
-        "fr": "vendredi",
-        "it": "venerdì"
-      }
-    },
-    {
-      "id": "t6",
-      "image_url": "",
-      "es": "sábado",
-      "translations": {
-        "en": "Saturday",
-        "pt": "sábado",
-        "fr": "samedi",
-        "it": "sabato"
-      }
-    },
-    {
-      "id": "t7",
-      "image_url": "",
-      "es": "domingo",
-      "translations": {
-        "en": "Sunday",
-        "pt": "domingo",
-        "fr": "dimanche",
-        "it": "domenica"
-      }
-    },
-    {
-      "id": "t8",
-      "image_url": "",
-      "es": "enero",
-      "translations": {
-        "en": "January",
-        "pt": "janeiro",
-        "fr": "janvier",
-        "it": "gennaio"
-      }
-    },
-    {
-      "id": "t9",
-      "image_url": "",
-      "es": "febrero",
-      "translations": {
-        "en": "February",
-        "pt": "fevereiro",
-        "fr": "février",
-        "it": "febbraio"
-      }
-    },
-    {
-      "id": "t10",
-      "image_url": "",
-      "es": "marzo",
-      "translations": {
-        "en": "March",
-        "pt": "março",
-        "fr": "mars",
-        "it": "marzo"
-      }
-    },
-    {
-      "id": "t11",
-      "image_url": "",
-      "es": "abril",
-      "translations": {
-        "en": "April",
-        "pt": "abril",
-        "fr": "avril",
-        "it": "aprile"
-      }
-    },
-    {
-      "id": "t12",
-      "image_url": "",
-      "es": "mayo",
-      "translations": {
-        "en": "May",
-        "pt": "maio",
-        "fr": "mai",
-        "it": "maggio"
-      }
-    },
-    {
-      "id": "t13",
-      "image_url": "",
-      "es": "junio",
-      "translations": {
-        "en": "June",
-        "pt": "junho",
-        "fr": "juin",
-        "it": "giugno"
-      }
-    },
-    {
-      "id": "t14",
-      "image_url": "",
-      "es": "julio",
-      "translations": {
-        "en": "July",
-        "pt": "julho",
-        "fr": "juillet",
-        "it": "luglio"
-      }
-    },
-    {
-      "id": "t15",
-      "image_url": "",
-      "es": "agosto",
-      "translations": {
-        "en": "August",
-        "pt": "agosto",
-        "fr": "août",
-        "it": "agosto"
-      }
-    },
-    {
-      "id": "t16",
-      "image_url": "",
-      "es": "septiembre",
-      "translations": {
-        "en": "September",
-        "pt": "setembro",
-        "fr": "septembre",
-        "it": "settembre"
-      }
-    },
-    {
-      "id": "t17",
-      "image_url": "",
-      "es": "octubre",
-      "translations": {
-        "en": "October",
-        "pt": "outubro",
-        "fr": "octobre",
-        "it": "ottobre"
-      }
-    },
-    {
-      "id": "t18",
-      "image_url": "",
-      "es": "noviembre",
-      "translations": {
-        "en": "November",
-        "pt": "novembro",
-        "fr": "novembre",
-        "it": "novembre"
-      }
-    },
-    {
-      "id": "t19",
-      "image_url": "",
-      "es": "diciembre",
-      "translations": {
-        "en": "December",
-        "pt": "dezembro",
-        "fr": "décembre",
-        "it": "dicembre"
-      }
-    },
     {
       "id": "t20",
       "image_url": "",
-      "es": "El tiempo (transcurso o duración)",
+      "es": "El tiempo",
       "translations": {
         "en": "The time",
         "pt": "O tempo",
         "fr": "Le temps",
-        "it": "Il tempo"
+        "it": "Il tempo",
+        "de": "Die Zeit"
+      },
+      "examples": {
+        "en": {
+          "text": "I need more time.",
+          "es": "Necesito más tiempo."
+        },
+        "pt": {
+          "text": "Preciso de mais tempo.",
+          "es": "Necesito más tiempo."
+        },
+        "fr": {
+          "text": "J'ai besoin de plus de temps.",
+          "es": "Necesito más tiempo."
+        },
+        "it": {
+          "text": "Mi serve più tempo.",
+          "es": "Necesito más tiempo."
+        },
+        "de": {
+          "text": "Ich brauche mehr Zeit.",
+          "es": "Necesito más tiempo."
+        }
+      },
+      "notes": {
+        "es": "(Transcurso o duración)"
       }
     },
     {
@@ -231,18 +48,79 @@
         "en": "The calendar",
         "pt": "O calendário",
         "fr": "Le calendrier",
-        "it": "Il calendario"
+        "it": "Il calendario",
+        "de": "Der Kalender"
+      },
+      "examples": {
+        "en": {
+          "text": "The calendar is on the wall.",
+          "es": "El calendario está en la pared."
+        },
+        "pt": {
+          "text": "O calendário está na parede.",
+          "es": "El calendario está en la pared."
+        },
+        "fr": {
+          "text": "Le calendrier est au mur.",
+          "es": "El calendario está en la pared."
+        },
+        "it": {
+          "text": "Il calendario è appeso alla parete.",
+          "es": "El calendario está en la pared."
+        },
+        "de": {
+          "text": "Der Kalender hängt an der Wand.",
+          "es": "El calendario está en la pared."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The calendars)",
+        "pt": "(Plural: Os calendários)",
+        "fr": "(Plural: Les calendriers)",
+        "it": "(Plural: I calendari)",
+        "de": "(Plural: Die Kalender)"
       }
     },
     {
       "id": "t22",
       "image_url": "",
-      "es": "La fecha (del calendario)",
+      "es": "La fecha",
       "translations": {
         "en": "The date",
         "pt": "A data",
         "fr": "La date",
-        "it": "La data"
+        "it": "La data",
+        "de": "Das Datum"
+      },
+      "examples": {
+        "en": {
+          "text": "Write the date here.",
+          "es": "Escribe la fecha aquí."
+        },
+        "pt": {
+          "text": "Escreva a data aqui.",
+          "es": "Escribe la fecha aquí."
+        },
+        "fr": {
+          "text": "Écris la date ici.",
+          "es": "Escribe la fecha aquí."
+        },
+        "it": {
+          "text": "Scrivi la data qui.",
+          "es": "Escribe la fecha aquí."
+        },
+        "de": {
+          "text": "Schreib das Datum hierhin.",
+          "es": "Escribe la fecha aquí."
+        }
+      },
+      "notes": {
+        "es": "(Del calendario)",
+        "en": "(Plural: The dates)",
+        "pt": "(Plural: As datas)",
+        "fr": "(Plural: Les dates)",
+        "it": "(Plural: Le date)",
+        "de": "(Plural: Die Daten) Aquí Datum significa «fecha»; Daten también puede significar «datos» en otros contextos."
       }
     },
     {
@@ -253,7 +131,37 @@
         "en": "The day",
         "pt": "O dia",
         "fr": "Le jour",
-        "it": "Il giorno"
+        "it": "Il giorno",
+        "de": "Der Tag"
+      },
+      "examples": {
+        "en": {
+          "text": "The trip takes one day.",
+          "es": "El viaje dura un día."
+        },
+        "pt": {
+          "text": "A viagem dura um dia.",
+          "es": "El viaje dura un día."
+        },
+        "fr": {
+          "text": "Le voyage dure un jour.",
+          "es": "El viaje dura un día."
+        },
+        "it": {
+          "text": "Il viaggio dura un giorno.",
+          "es": "El viaje dura un día."
+        },
+        "de": {
+          "text": "Die Reise dauert einen Tag.",
+          "es": "El viaje dura un día."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The days)",
+        "pt": "(Plural: Os dias)",
+        "fr": "(Plural: Les jours)",
+        "it": "(Plural: I giorni)",
+        "de": "(Plural: Die Tage)"
       }
     },
     {
@@ -264,7 +172,37 @@
         "en": "The week",
         "pt": "A semana",
         "fr": "La semaine",
-        "it": "La settimana"
+        "it": "La settimana",
+        "de": "Die Woche"
+      },
+      "examples": {
+        "en": {
+          "text": "I'm staying for a week.",
+          "es": "Me quedo una semana."
+        },
+        "pt": {
+          "text": "Vou ficar uma semana.",
+          "es": "Me quedo una semana."
+        },
+        "fr": {
+          "text": "Je reste une semaine.",
+          "es": "Me quedo una semana."
+        },
+        "it": {
+          "text": "Resto una settimana.",
+          "es": "Me quedo una semana."
+        },
+        "de": {
+          "text": "Ich bleibe eine Woche.",
+          "es": "Me quedo una semana."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The weeks)",
+        "pt": "(Plural: As semanas)",
+        "fr": "(Plural: Les semaines)",
+        "it": "(Plural: Le settimane)",
+        "de": "(Plural: Die Wochen)"
       }
     },
     {
@@ -275,7 +213,37 @@
         "en": "The month",
         "pt": "O mês",
         "fr": "Le mois",
-        "it": "Il mese"
+        "it": "Il mese",
+        "de": "Der Monat"
+      },
+      "examples": {
+        "en": {
+          "text": "I'm staying here for a month.",
+          "es": "Me quedo aquí un mes."
+        },
+        "pt": {
+          "text": "Vou ficar aqui por um mês.",
+          "es": "Me quedo aquí un mes."
+        },
+        "fr": {
+          "text": "Je reste ici un mois.",
+          "es": "Me quedo aquí un mes."
+        },
+        "it": {
+          "text": "Resto qui un mese.",
+          "es": "Me quedo aquí un mes."
+        },
+        "de": {
+          "text": "Ich bleibe einen Monat hier.",
+          "es": "Me quedo aquí un mes."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The months)",
+        "pt": "(Plural: Os meses)",
+        "fr": "(Plural: Les mois)",
+        "it": "(Plural: I mesi)",
+        "de": "(Plural: Die Monate)"
       }
     },
     {
@@ -285,206 +253,38 @@
       "translations": {
         "en": "The year",
         "pt": "O ano",
-        "fr": "L'année",
-        "it": "L'anno"
-      }
-    },
-    {
-      "id": "t27",
-      "image_url": "",
-      "es": "La hora (unidad de tiempo)",
-      "translations": {
-        "en": "The hour",
-        "pt": "A hora",
-        "fr": "L'heure",
-        "it": "L'ora"
-      }
-    },
-    {
-      "id": "t28",
-      "image_url": "",
-      "es": "El minuto",
-      "translations": {
-        "en": "The minute",
-        "pt": "O minuto",
-        "fr": "La minute",
-        "it": "Il minuto"
-      }
-    },
-    {
-      "id": "t29",
-      "image_url": "",
-      "es": "El segundo (unidad de tiempo)",
-      "translations": {
-        "en": "The second",
-        "pt": "O segundo",
-        "fr": "La seconde",
-        "it": "Il secondo"
-      }
-    },
-    {
-      "id": "t30",
-      "image_url": "",
-      "es": "El fin de semana",
-      "translations": {
-        "en": "The weekend",
-        "pt": "O fim de semana",
-        "fr": "Le week-end",
-        "it": "Il fine settimana / Il weekend"
-      }
-    },
-    {
-      "id": "t31",
-      "image_url": "",
-      "es": "Los días entre semana (lunes a viernes)",
-      "translations": {
-        "en": "The weekdays (Monday through Friday)",
-        "pt": "Os dias de semana (de segunda a sexta)",
-        "fr": "Les jours de semaine (du lundi au vendredi)",
-        "it": "I giorni dal lunedì al venerdì"
-      }
-    },
-    {
-      "id": "t32",
-      "image_url": "",
-      "es": "Un día festivo / Un día feriado",
-      "translations": {
-        "en": "A public holiday",
-        "pt": "Um feriado",
-        "fr": "Un jour férié",
-        "it": "Un giorno festivo"
-      }
-    },
-    {
-      "id": "t33",
-      "image_url": "",
-      "es": "Un día laborable / Un día hábil",
-      "translations": {
-        "en": "A working day / A business day",
-        "pt": "Um dia útil",
-        "fr": "Un jour ouvré",
-        "it": "Un giorno lavorativo"
-      }
-    },
-    {
-      "id": "t34",
-      "image_url": "",
-      "es": "El horario (de actividades)",
-      "translations": {
-        "en": "The schedule",
-        "pt": "O horário (das atividades)",
-        "fr": "Les horaires",
-        "it": "L'orario (delle attività)"
-      }
-    },
-    {
-      "id": "t35",
-      "image_url": "",
-      "es": "El reloj de pared",
-      "translations": {
-        "en": "The clock / The wall clock",
-        "pt": "O relógio de parede",
-        "fr": "L'horloge",
-        "it": "L'orologio da parete"
-      }
-    },
-    {
-      "id": "t36",
-      "image_url": "",
-      "es": "El reloj de pulsera",
-      "translations": {
-        "en": "The watch",
-        "pt": "O relógio de pulso",
-        "fr": "La montre",
-        "it": "L'orologio da polso"
-      }
-    },
-    {
-      "id": "t37",
-      "image_url": "",
-      "es": "El despertador",
-      "translations": {
-        "en": "The alarm clock",
-        "pt": "O despertador",
-        "fr": "Le réveil",
-        "it": "La sveglia"
-      }
-    },
-    {
-      "id": "t38",
-      "image_url": "",
-      "es": "El pasado (tiempo anterior)",
-      "translations": {
-        "en": "The past",
-        "pt": "O passado",
-        "fr": "Le passé",
-        "it": "Il passato"
-      }
-    },
-    {
-      "id": "t39",
-      "image_url": "",
-      "es": "El presente (tiempo actual)",
-      "translations": {
-        "en": "The present",
-        "pt": "O presente",
-        "fr": "Le présent",
-        "it": "Il presente"
-      }
-    },
-    {
-      "id": "t40",
-      "image_url": "",
-      "es": "El futuro",
-      "translations": {
-        "en": "The future",
-        "pt": "O futuro",
-        "fr": "Le futur",
-        "it": "Il futuro"
-      }
-    },
-    {
-      "id": "t41",
-      "image_url": "",
-      "es": "La duración",
-      "translations": {
-        "en": "The duration",
-        "pt": "A duração",
-        "fr": "La durée",
-        "it": "La durata"
-      }
-    },
-    {
-      "id": "t42",
-      "image_url": "",
-      "es": "El comienzo / El inicio",
-      "translations": {
-        "en": "The beginning / The start",
-        "pt": "O começo / O início",
-        "fr": "Le début",
-        "it": "L'inizio"
-      }
-    },
-    {
-      "id": "t43",
-      "image_url": "",
-      "es": "El final (de un período)",
-      "translations": {
-        "en": "The end",
-        "pt": "O fim",
-        "fr": "La fin",
-        "it": "La fine"
-      }
-    },
-    {
-      "id": "t44",
-      "image_url": "",
-      "es": "La quincena (período de quince días)",
-      "translations": {
-        "en": "The fifteen-day period",
-        "pt": "A quinzena",
-        "fr": "La quinzaine",
-        "it": "Il periodo di quindici giorni"
+        "fr": "L'année / L'an",
+        "it": "L'anno",
+        "de": "Das Jahr"
+      },
+      "examples": {
+        "en": {
+          "text": "I'll be here for a year.",
+          "es": "Estaré aquí un año."
+        },
+        "pt": {
+          "text": "Vou ficar aqui por um ano.",
+          "es": "Voy a quedarme aquí un año."
+        },
+        "fr": {
+          "text": "Je reste ici un an.",
+          "es": "Me quedo aquí un año."
+        },
+        "it": {
+          "text": "Resto qui un anno.",
+          "es": "Me quedo aquí un año."
+        },
+        "de": {
+          "text": "Ich bleibe ein Jahr hier.",
+          "es": "Me quedo aquí un año."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The years)",
+        "pt": "(Plural: Os anos)",
+        "fr": "(Plural: Les années / Les ans) Para contar años es habitual usar ans: deux ans.",
+        "it": "(Plural: Gli anni)",
+        "de": "(Plural: Die Jahre)"
       }
     },
     {
@@ -495,909 +295,949 @@
         "en": "The leap year",
         "pt": "O ano bissexto",
         "fr": "L'année bissextile",
-        "it": "L'anno bisestile"
-      }
-    },
-    {
-      "id": "t46",
-      "image_url": "",
-      "es": "La mañana (parte del día)",
-      "translations": {
-        "en": "The morning",
-        "pt": "A manhã",
-        "fr": "Le matin",
-        "it": "La mattina / Il mattino"
-      }
-    },
-    {
-      "id": "t47",
-      "image_url": "",
-      "es": "El mediodía",
-      "translations": {
-        "en": "Noon",
-        "pt": "Meio-dia",
-        "fr": "Midi",
-        "it": "Mezzogiorno"
-      }
-    },
-    {
-      "id": "t48",
-      "image_url": "",
-      "es": "La tarde (después del mediodía)",
-      "translations": {
-        "en": "The afternoon",
-        "pt": "A tarde",
-        "fr": "L'après-midi",
-        "it": "Il pomeriggio"
-      }
-    },
-    {
-      "id": "t49",
-      "image_url": "",
-      "es": "La noche (horas nocturnas)",
-      "translations": {
-        "en": "The night",
-        "pt": "A noite",
-        "fr": "La nuit",
-        "it": "La notte"
-      }
-    },
-    {
-      "id": "t50",
-      "image_url": "",
-      "es": "La medianoche",
-      "translations": {
-        "en": "Midnight",
-        "pt": "Meia-noite",
-        "fr": "Minuit",
-        "it": "Mezzanotte"
-      }
-    },
-    {
-      "id": "t51",
-      "image_url": "",
-      "es": "La tarde-noche (primeras horas de la noche)",
-      "translations": {
-        "en": "The evening",
-        "pt": "A noite (primeiras horas)",
-        "fr": "Le soir",
-        "it": "La sera"
-      }
-    },
-    {
-      "id": "t52",
-      "image_url": "",
-      "es": "La madrugada (antes del amanecer)",
-      "translations": {
-        "en": "The early morning (before dawn)",
-        "pt": "A madrugada",
-        "fr": "Le petit matin (avant l'aube)",
-        "it": "Le prime ore del mattino (prima dell'alba)"
-      }
-    },
-    {
-      "id": "t53",
-      "image_url": "",
-      "es": "El amanecer",
-      "translations": {
-        "en": "The dawn",
-        "pt": "O amanhecer",
-        "fr": "L'aube",
-        "it": "L'alba"
-      }
-    },
-    {
-      "id": "t54",
-      "image_url": "",
-      "es": "El atardecer (puesta del sol)",
-      "translations": {
-        "en": "The sunset",
-        "pt": "O pôr do sol",
-        "fr": "Le coucher du soleil",
-        "it": "Il tramonto"
-      }
-    },
-    {
-      "id": "t55",
-      "image_url": "",
-      "es": "Hoy",
-      "translations": {
-        "en": "Today",
-        "pt": "Hoje",
-        "fr": "Aujourd'hui",
-        "it": "Oggi"
-      }
-    },
-    {
-      "id": "t56",
-      "image_url": "",
-      "es": "Ahora",
-      "translations": {
-        "en": "Now",
-        "pt": "Agora",
-        "fr": "Maintenant",
-        "it": "Ora / Adesso"
-      }
-    },
-    {
-      "id": "t57",
-      "image_url": "",
-      "es": "Ahora mismo (en este instante)",
-      "translations": {
-        "en": "Right now",
-        "pt": "Agora mesmo",
-        "fr": "En ce moment même / À cet instant précis",
-        "it": "Proprio ora / Proprio adesso"
-      }
-    },
-    {
-      "id": "t58",
-      "image_url": "",
-      "es": "Actualmente / En este momento (situación presente)",
-      "translations": {
-        "en": "Currently / At the moment",
-        "pt": "Atualmente / Neste momento",
-        "fr": "Actuellement / En ce moment",
-        "it": "Attualmente / In questo momento"
-      }
-    },
-    {
-      "id": "t59",
-      "image_url": "",
-      "es": "Hoy en día",
-      "translations": {
-        "en": "Nowadays",
-        "pt": "Hoje em dia",
-        "fr": "De nos jours",
-        "it": "Oggigiorno / Al giorno d'oggi"
-      }
-    },
-    {
-      "id": "t60",
-      "image_url": "",
-      "es": "Todavía / Aún (una situación continúa)",
-      "translations": {
-        "en": "Still",
-        "pt": "Ainda",
-        "fr": "Encore / Toujours",
-        "it": "Ancora"
-      }
-    },
-    {
-      "id": "t61",
-      "image_url": "",
-      "es": "Ya (algo ocurrió antes de ahora)",
-      "translations": {
-        "en": "Already",
-        "pt": "Já",
-        "fr": "Déjà",
-        "it": "Già"
-      }
-    },
-    {
-      "id": "t62",
-      "image_url": "",
-      "es": "Ayer",
-      "translations": {
-        "en": "Yesterday",
-        "pt": "Ontem",
-        "fr": "Hier",
-        "it": "Ieri"
-      }
-    },
-    {
-      "id": "t63",
-      "image_url": "",
-      "es": "Antier / Anteayer / Antes de ayer",
-      "translations": {
-        "en": "The day before yesterday",
-        "pt": "Anteontem",
-        "fr": "Avant-hier",
-        "it": "L'altro ieri"
-      }
-    },
-    {
-      "id": "t64",
-      "image_url": "",
-      "es": "Anoche (primera parte de la noche)",
-      "translations": {
-        "en": "Yesterday evening / Last evening",
-        "pt": "Ontem à noite (primeiras horas)",
-        "fr": "Hier soir",
-        "it": "Ieri sera"
-      }
-    },
-    {
-      "id": "t65",
-      "image_url": "",
-      "es": "La semana pasada",
-      "translations": {
-        "en": "Last week",
-        "pt": "Na semana passada",
-        "fr": "La semaine dernière",
-        "it": "La settimana scorsa / La settimana passata"
-      }
-    },
-    {
-      "id": "t66",
-      "image_url": "",
-      "es": "El mes pasado",
-      "translations": {
-        "en": "Last month",
-        "pt": "No mês passado",
-        "fr": "Le mois dernier",
-        "it": "Il mese scorso"
-      }
-    },
-    {
-      "id": "t67",
-      "image_url": "",
-      "es": "El año pasado",
-      "translations": {
-        "en": "Last year",
-        "pt": "No ano passado",
-        "fr": "L'année dernière",
-        "it": "L'anno scorso"
-      }
-    },
-    {
-      "id": "t68",
-      "image_url": "",
-      "es": "Hace cinco minutos",
-      "translations": {
-        "en": "Five minutes ago",
-        "pt": "Há cinco minutos",
-        "fr": "Il y a cinq minutes",
-        "it": "Cinque minuti fa"
-      }
-    },
-    {
-      "id": "t69",
-      "image_url": "",
-      "es": "Hace una hora",
-      "translations": {
-        "en": "An hour ago",
-        "pt": "Há uma hora",
-        "fr": "Il y a une heure",
-        "it": "Un'ora fa"
-      }
-    },
-    {
-      "id": "t70",
-      "image_url": "",
-      "es": "Hace poco / Recientemente (pasado reciente)",
-      "translations": {
-        "en": "Recently / Not long ago",
-        "pt": "Recentemente / Há pouco tempo",
-        "fr": "Récemment / Il y a peu de temps",
-        "it": "Recentemente / Di recente"
-      }
-    },
-    {
-      "id": "t71",
-      "image_url": "",
-      "es": "Hace mucho tiempo",
-      "translations": {
-        "en": "A long time ago",
-        "pt": "Há muito tempo",
-        "fr": "Il y a longtemps",
-        "it": "Molto tempo fa"
-      }
-    },
-    {
-      "id": "t72",
-      "image_url": "",
-      "es": "Mañana (día siguiente)",
-      "translations": {
-        "en": "Tomorrow",
-        "pt": "Amanhã",
-        "fr": "Demain",
-        "it": "Domani"
-      }
-    },
-    {
-      "id": "t73",
-      "image_url": "",
-      "es": "Pasado mañana",
-      "translations": {
-        "en": "The day after tomorrow",
-        "pt": "Depois de amanhã",
-        "fr": "Après-demain",
-        "it": "Dopodomani"
-      }
-    },
-    {
-      "id": "t74",
-      "image_url": "",
-      "es": "La próxima semana",
-      "translations": {
-        "en": "Next week",
-        "pt": "Na próxima semana / Semana que vem",
-        "fr": "La semaine prochaine",
-        "it": "La prossima settimana / La settimana prossima"
-      }
-    },
-    {
-      "id": "t75",
-      "image_url": "",
-      "es": "El próximo mes",
-      "translations": {
-        "en": "Next month",
-        "pt": "No próximo mês / Mês que vem",
-        "fr": "Le mois prochain",
-        "it": "Il prossimo mese"
-      }
-    },
-    {
-      "id": "t76",
-      "image_url": "",
-      "es": "El próximo año",
-      "translations": {
-        "en": "Next year",
-        "pt": "No próximo ano / Ano que vem",
-        "fr": "L'année prochaine",
-        "it": "Il prossimo anno"
-      }
-    },
-    {
-      "id": "t77",
-      "image_url": "",
-      "es": "Pronto",
-      "translations": {
-        "en": "Soon",
-        "pt": "Em breve / Logo",
-        "fr": "Bientôt",
-        "it": "Presto"
-      }
-    },
-    {
-      "id": "t78",
-      "image_url": "",
-      "es": "Dentro de una hora (a partir de ahora)",
-      "translations": {
-        "en": "In an hour",
-        "pt": "Daqui a uma hora",
-        "fr": "Dans une heure",
-        "it": "Tra un'ora / Fra un'ora"
-      }
-    },
-    {
-      "id": "t79",
-      "image_url": "",
-      "es": "Dentro de dos días (a partir de hoy)",
-      "translations": {
-        "en": "In two days",
-        "pt": "Daqui a dois dias",
-        "fr": "Dans deux jours",
-        "it": "Tra due giorni / Fra due giorni"
-      }
-    },
-    {
-      "id": "t80",
-      "image_url": "",
-      "es": "Más tarde",
-      "translations": {
-        "en": "Later",
-        "pt": "Mais tarde",
-        "fr": "Plus tard",
-        "it": "Più tardi"
-      }
-    },
-    {
-      "id": "t81",
-      "image_url": "",
-      "es": "Esta mañana",
-      "translations": {
-        "en": "This morning",
-        "pt": "Hoje de manhã",
-        "fr": "Ce matin",
-        "it": "Stamattina / Questa mattina"
-      }
-    },
-    {
-      "id": "t82",
-      "image_url": "",
-      "es": "Esta tarde (después del mediodía)",
-      "translations": {
-        "en": "This afternoon",
-        "pt": "Hoje à tarde",
-        "fr": "Cet après-midi",
-        "it": "Oggi pomeriggio"
-      }
-    },
-    {
-      "id": "t83",
-      "image_url": "",
-      "es": "Esta noche (para cenar, salir, etc.)",
-      "translations": {
-        "en": "This evening / Tonight",
-        "pt": "Hoje à noite (primeiras horas)",
-        "fr": "Ce soir",
-        "it": "Stasera / Questa sera"
-      }
-    },
-    {
-      "id": "t84",
-      "image_url": "",
-      "es": "Esta noche (durante la noche)",
-      "translations": {
-        "en": "Tonight (during the night)",
-        "pt": "Esta noite (durante a noite)",
-        "fr": "Cette nuit",
-        "it": "Stanotte / Questa notte"
-      }
-    },
-    {
-      "id": "t85",
-      "image_url": "",
-      "es": "Anoche (durante las horas nocturnas)",
-      "translations": {
-        "en": "Last night",
-        "pt": "Na noite passada",
-        "fr": "La nuit dernière",
-        "it": "La notte scorsa / Ieri notte"
-      }
-    },
-    {
-      "id": "t86",
-      "image_url": "",
-      "es": "Esta semana",
-      "translations": {
-        "en": "This week",
-        "pt": "Esta semana",
-        "fr": "Cette semaine",
-        "it": "Questa settimana"
-      }
-    },
-    {
-      "id": "t87",
-      "image_url": "",
-      "es": "Enseguida / De inmediato",
-      "translations": {
-        "en": "Right away / Immediately",
-        "pt": "Imediatamente / Na hora",
-        "fr": "Tout de suite / Immédiatement",
-        "it": "Subito / Immediatamente"
-      }
-    },
-    {
-      "id": "t88",
-      "image_url": "",
-      "es": "En un momento / Dentro de poco",
-      "translations": {
-        "en": "In a moment / In a little while",
-        "pt": "Daqui a pouco",
-        "fr": "Dans un instant / Dans un petit moment",
-        "it": "Tra poco / Fra poco"
-      }
-    },
-    {
-      "id": "t89",
-      "image_url": "",
-      "es": "Hace un momento",
-      "translations": {
-        "en": "A moment ago / Just now",
-        "pt": "Há pouco / Agora há pouco",
-        "fr": "Il y a un instant",
-        "it": "Poco fa / Un momento fa"
-      }
-    },
-    {
-      "id": "t90",
-      "image_url": "",
-      "es": "Por ahora / Por el momento",
-      "translations": {
-        "en": "For now / For the time being",
-        "pt": "Por enquanto",
-        "fr": "Pour le moment / Pour l'instant",
-        "it": "Per ora / Per il momento"
-      }
-    },
-    {
-      "id": "t91",
-      "image_url": "",
-      "es": "Hasta ahora (hasta este momento)",
-      "translations": {
-        "en": "So far / Up to now",
-        "pt": "Até agora",
-        "fr": "Jusqu'à présent / Jusqu'ici",
-        "it": "Finora / Fino ad adesso"
-      }
-    },
-    {
-      "id": "t92",
-      "image_url": "",
-      "es": "Todavía no / Aún no",
-      "translations": {
-        "en": "Not yet",
-        "pt": "Ainda não",
-        "fr": "Pas encore",
-        "it": "Non ancora"
-      }
-    },
-    {
-      "id": "t93",
-      "image_url": "",
-      "es": "Ya no trabajo allí.",
-      "translations": {
-        "en": "I no longer work there / I don't work there anymore.",
-        "pt": "Não trabalho mais lá.",
-        "fr": "Je ne travaille plus là-bas.",
-        "it": "Non lavoro più lì."
-      }
-    },
-    {
-      "id": "t94",
-      "image_url": "",
-      "es": "Antes (en el tiempo)",
-      "translations": {
-        "en": "Before",
-        "pt": "Antes",
-        "fr": "Avant",
-        "it": "Prima"
-      }
-    },
-    {
-      "id": "t95",
-      "image_url": "",
-      "es": "Después / Luego (secuencia)",
-      "translations": {
-        "en": "Afterward / Then",
-        "pt": "Depois / Em seguida",
-        "fr": "Après / Ensuite",
-        "it": "Dopo / Poi"
-      }
-    },
-    {
-      "id": "t96",
-      "image_url": "",
-      "es": "Primero (orden de acciones)",
-      "translations": {
-        "en": "First",
-        "pt": "Primeiro / Primeiramente",
-        "fr": "D'abord",
-        "it": "Per prima cosa"
-      }
-    },
-    {
-      "id": "t97",
-      "image_url": "",
-      "es": "Mientras tanto",
-      "translations": {
-        "en": "Meanwhile / In the meantime",
-        "pt": "Enquanto isso",
-        "fr": "Pendant ce temps",
-        "it": "Intanto / Nel frattempo"
-      }
-    },
-    {
-      "id": "t98",
-      "image_url": "",
-      "es": "Temprano (hora del día)",
-      "translations": {
-        "en": "Early",
-        "pt": "Cedo",
-        "fr": "Tôt",
-        "it": "Presto"
-      }
-    },
-    {
-      "id": "t99",
-      "image_url": "",
-      "es": "Tarde (con retraso)",
-      "translations": {
-        "en": "Late",
-        "pt": "Tarde",
-        "fr": "Tard",
-        "it": "Tardi"
-      }
-    },
-    {
-      "id": "t100",
-      "image_url": "",
-      "es": "Demasiado tarde",
-      "translations": {
-        "en": "Too late",
-        "pt": "Tarde demais",
-        "fr": "Trop tard",
-        "it": "Troppo tardi"
-      }
-    },
-    {
-      "id": "t101",
-      "image_url": "",
-      "es": "Más temprano",
-      "translations": {
-        "en": "Earlier",
-        "pt": "Mais cedo",
-        "fr": "Plus tôt",
-        "it": "Più presto"
-      }
-    },
-    {
-      "id": "t102",
-      "image_url": "",
-      "es": "Puntualmente / A la hora acordada",
-      "translations": {
-        "en": "On time",
-        "pt": "No horário / Pontualmente",
-        "fr": "À l'heure",
-        "it": "In orario / Puntualmente"
-      }
-    },
-    {
-      "id": "t103",
-      "image_url": "",
-      "es": "A tiempo (antes de que sea demasiado tarde)",
-      "translations": {
-        "en": "In time",
-        "pt": "A tempo",
-        "fr": "À temps",
-        "it": "In tempo"
-      }
-    },
-    {
-      "id": "t104",
-      "image_url": "",
-      "es": "En punto (al decir la hora)",
-      "translations": {
-        "en": "On the dot",
-        "pt": "Em ponto",
-        "fr": "Pile",
-        "it": "In punto"
-      }
-    },
-    {
-      "id": "t105",
-      "image_url": "",
-      "es": "Alrededor de las tres / Hacia las tres",
-      "translations": {
-        "en": "Around three",
-        "pt": "Por volta das três",
-        "fr": "Vers trois heures",
-        "it": "Verso le tre"
-      }
-    },
-    {
-      "id": "t106",
-      "image_url": "",
-      "es": "Siempre",
-      "translations": {
-        "en": "Always",
-        "pt": "Sempre",
-        "fr": "Toujours",
-        "it": "Sempre"
-      }
-    },
-    {
-      "id": "t107",
-      "image_url": "",
-      "es": "Nunca",
-      "translations": {
-        "en": "Never",
-        "pt": "Nunca",
-        "fr": "Jamais",
-        "it": "Mai"
-      }
-    },
-    {
-      "id": "t108",
-      "image_url": "",
-      "es": "A veces",
-      "translations": {
-        "en": "Sometimes",
-        "pt": "Às vezes",
-        "fr": "Parfois / Quelquefois",
-        "it": "A volte / Qualche volta / Talvolta"
-      }
-    },
-    {
-      "id": "t109",
-      "image_url": "",
-      "es": "Todos los días / A diario / Diariamente",
-      "translations": {
-        "en": "Every day / Daily",
-        "pt": "Todos os dias / Diariamente",
-        "fr": "Tous les jours / Quotidiennement",
-        "it": "Tutti i giorni / Quotidianamente / Giornalmente"
-      }
-    },
-    {
-      "id": "t110",
-      "image_url": "",
-      "es": "Cada semana / Semanalmente",
-      "translations": {
-        "en": "Every week / Weekly",
-        "pt": "Toda semana / Semanalmente",
-        "fr": "Chaque semaine / Hebdomadairement",
-        "it": "Ogni settimana / Settimanalmente"
-      }
-    },
-    {
-      "id": "t111",
-      "image_url": "",
-      "es": "Frecuentemente / A menudo",
-      "translations": {
-        "en": "Often / Frequently",
-        "pt": "Frequentemente / Com frequência / Amiúde",
-        "fr": "Souvent / Fréquemment",
-        "it": "Spesso / Frequentemente"
-      }
-    },
-    {
-      "id": "t112",
-      "image_url": "",
-      "es": "De vez en cuando",
-      "translations": {
-        "en": "From time to time",
-        "pt": "De vez em quando",
-        "fr": "De temps en temps",
-        "it": "Di tanto in tanto"
-      }
-    },
-    {
-      "id": "t113",
-      "image_url": "",
-      "es": "Casi siempre",
-      "translations": {
-        "en": "Almost always",
-        "pt": "Quase sempre",
-        "fr": "Presque toujours",
-        "it": "Quasi sempre"
-      }
-    },
-    {
-      "id": "t114",
-      "image_url": "",
-      "es": "Casi nunca",
-      "translations": {
-        "en": "Almost never / Hardly ever",
-        "pt": "Quase nunca",
-        "fr": "Presque jamais",
-        "it": "Quasi mai"
-      }
-    },
-    {
-      "id": "t115",
-      "image_url": "",
-      "es": "Rara vez / Raramente",
-      "translations": {
-        "en": "Rarely / Seldom",
-        "pt": "Raramente",
-        "fr": "Rarement",
-        "it": "Raramente"
-      }
-    },
-    {
-      "id": "t116",
-      "image_url": "",
-      "es": "Normalmente / Usualmente",
-      "translations": {
-        "en": "Normally / Usually",
-        "pt": "Normalmente / Usualmente",
-        "fr": "D'habitude / Habituellement / Normalement",
-        "it": "Normalmente / Di solito"
-      }
-    },
-    {
-      "id": "t117",
-      "image_url": "",
-      "es": "Por lo general / Generalmente",
-      "translations": {
-        "en": "Generally",
-        "pt": "Em geral / Geralmente",
-        "fr": "En général / Généralement",
-        "it": "In genere / Generalmente"
-      }
-    },
-    {
-      "id": "t118",
-      "image_url": "",
-      "es": "Ocasionalmente",
-      "translations": {
-        "en": "Occasionally",
-        "pt": "Ocasionalmente",
-        "fr": "Occasionnellement",
-        "it": "Occasionalmente"
-      }
-    },
-    {
-      "id": "t119",
-      "image_url": "",
-      "es": "Cada mes / Mensualmente",
-      "translations": {
-        "en": "Every month / Monthly",
-        "pt": "Todo mês / Mensalmente",
-        "fr": "Chaque mois / Mensuellement",
-        "it": "Ogni mese / Mensilmente"
-      }
-    },
-    {
-      "id": "t120",
-      "image_url": "",
-      "es": "Cada año / Anualmente",
-      "translations": {
-        "en": "Every year / Annually / Yearly",
-        "pt": "Todo ano / Anualmente",
-        "fr": "Chaque année / Annuellement",
-        "it": "Ogni anno / Annualmente"
-      }
-    },
-    {
-      "id": "t121",
-      "image_url": "",
-      "es": "Una vez a la semana",
-      "translations": {
-        "en": "Once a week",
-        "pt": "Uma vez por semana",
-        "fr": "Une fois par semaine",
-        "it": "Una volta alla settimana"
-      }
-    },
-    {
-      "id": "t122",
-      "image_url": "",
-      "es": "Dos veces al mes",
-      "translations": {
-        "en": "Twice a month",
-        "pt": "Duas vezes por mês",
-        "fr": "Deux fois par mois",
-        "it": "Due volte al mese"
-      }
-    },
-    {
-      "id": "t123",
-      "image_url": "",
-      "es": "Cada dos días / Un día sí y un día no",
-      "translations": {
-        "en": "Every other day / Every two days",
-        "pt": "A cada dois dias / Dia sim, dia não",
-        "fr": "Tous les deux jours",
-        "it": "Ogni due giorni / Un giorno sì e uno no"
-      }
-    },
-    {
-      "id": "t124",
-      "image_url": "",
-      "es": "Todo el tiempo",
-      "translations": {
-        "en": "All the time",
-        "pt": "O tempo todo",
-        "fr": "Tout le temps",
-        "it": "Tutto il tempo"
-      }
-    },
-    {
-      "id": "t125",
-      "image_url": "",
-      "es": "La mayor parte del tiempo",
-      "translations": {
-        "en": "Most of the time",
-        "pt": "A maior parte do tempo",
-        "fr": "La plupart du temps",
-        "it": "La maggior parte del tempo"
-      }
-    },
-    {
-      "id": "t126",
-      "image_url": "",
-      "es": "Constantemente",
-      "translations": {
-        "en": "Constantly",
-        "pt": "Constantemente",
-        "fr": "Constamment",
-        "it": "Costantemente"
+        "it": "L'anno bisestile",
+        "de": "Das Schaltjahr"
+      },
+      "examples": {
+        "en": {
+          "text": "In a leap year, February has 29 days.",
+          "es": "En un año bisiesto, febrero tiene 29 días."
+        },
+        "pt": {
+          "text": "Num ano bissexto, fevereiro tem 29 dias.",
+          "es": "En un año bisiesto, febrero tiene 29 días."
+        },
+        "fr": {
+          "text": "Dans une année bissextile, février a 29 jours.",
+          "es": "En un año bisiesto, febrero tiene 29 días."
+        },
+        "it": {
+          "text": "In un anno bisestile febbraio ha 29 giorni.",
+          "es": "En un año bisiesto, febrero tiene 29 días."
+        },
+        "de": {
+          "text": "In einem Schaltjahr hat der Februar 29 Tage.",
+          "es": "En un año bisiesto, febrero tiene 29 días."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The leap years)",
+        "pt": "(Plural: Os anos bissextos)",
+        "fr": "(Plural: Les années bissextiles)",
+        "it": "(Plural: Gli anni bisestili)",
+        "de": "(Plural: Die Schaltjahre)"
+      }
+    },
+    {
+      "id": "t44",
+      "image_url": "",
+      "es": "La quincena (período de quince días)",
+      "translations": {
+        "en": "The fifteen-day period",
+        "pt": "A quinzena",
+        "fr": "La quinzaine",
+        "it": "Il periodo di quindici giorni",
+        "de": "Der Zeitraum von fünfzehn Tagen"
+      },
+      "examples": {
+        "en": {
+          "text": "The pass is valid for a fifteen-day period.",
+          "es": "El pase es válido por quince días."
+        },
+        "pt": {
+          "text": "O passe vale por uma quinzena.",
+          "es": "El pase es válido por quince días."
+        },
+        "fr": {
+          "text": "Le pass est valable pendant une quinzaine de jours.",
+          "es": "El pase es válido por unos quince días."
+        },
+        "it": {
+          "text": "Il pass è valido per un periodo di quindici giorni.",
+          "es": "El pase es válido por quince días."
+        },
+        "de": {
+          "text": "Der Pass gilt für einen Zeitraum von fünfzehn Tagen.",
+          "es": "El pase es válido por quince días."
+        }
+      },
+      "notes": {
+        "es": "(Período de quince días, no el pago)",
+        "en": "(Plural: The fifteen-day periods)",
+        "pt": "(Plural: As quinzenas)",
+        "fr": "(Plural: Les quinzaines) Para una duración exacta también se usa quinze jours; une quinzaine de jours puede ser aproximado.",
+        "it": "(Plural: I periodi di quindici giorni)",
+        "de": "(Plural: Die Zeiträume von fünfzehn Tagen)"
+      }
+    },
+    {
+      "id": "t1",
+      "image_url": "",
+      "es": "Lunes",
+      "translations": {
+        "en": "Monday",
+        "pt": "Segunda-feira",
+        "fr": "Lundi",
+        "it": "Lunedì",
+        "de": "Montag"
+      },
+      "notes": {
+        "en": "(Plural: The Mondays)",
+        "pt": "(Plural: As segundas-feiras)",
+        "fr": "(Plural: Les lundis)",
+        "it": "(Plural: I lunedì)",
+        "de": "(Plural: Die Montage)"
+      },
+      "examples": {
+        "en": {
+          "text": "I have class on Monday.",
+          "es": "Tengo clase el lunes."
+        },
+        "pt": {
+          "text": "Tenho aula na segunda-feira.",
+          "es": "Tengo clase el lunes."
+        },
+        "fr": {
+          "text": "J'ai cours lundi.",
+          "es": "Tengo clase el lunes."
+        },
+        "it": {
+          "text": "Ho lezione lunedì.",
+          "es": "Tengo clase el lunes."
+        },
+        "de": {
+          "text": "Ich habe am Montag Unterricht.",
+          "es": "Tengo clase el lunes."
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "image_url": "",
+      "es": "Martes",
+      "translations": {
+        "en": "Tuesday",
+        "pt": "Terça-feira",
+        "fr": "Mardi",
+        "it": "Martedì",
+        "de": "Dienstag"
+      },
+      "notes": {
+        "en": "(Plural: The Tuesdays)",
+        "pt": "(Plural: As terças-feiras)",
+        "fr": "(Plural: Les mardis)",
+        "it": "(Plural: I martedì)",
+        "de": "(Plural: Die Dienstage)"
+      },
+      "examples": {
+        "en": {
+          "text": "We're traveling on Tuesday.",
+          "es": "Salimos de viaje el martes."
+        },
+        "pt": {
+          "text": "A gente viaja na terça-feira.",
+          "es": "Viajamos el martes."
+        },
+        "fr": {
+          "text": "On part en voyage mardi.",
+          "es": "Nos vamos de viaje el martes."
+        },
+        "it": {
+          "text": "Partiamo martedì.",
+          "es": "Salimos de viaje el martes."
+        },
+        "de": {
+          "text": "Wir fahren am Dienstag los.",
+          "es": "Salimos de viaje el martes."
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "image_url": "",
+      "es": "Miércoles",
+      "translations": {
+        "en": "Wednesday",
+        "pt": "Quarta-feira",
+        "fr": "Mercredi",
+        "it": "Mercoledì",
+        "de": "Mittwoch"
+      },
+      "notes": {
+        "en": "(Plural: The Wednesdays)",
+        "pt": "(Plural: As quartas-feiras)",
+        "fr": "(Plural: Les mercredis)",
+        "it": "(Plural: I mercoledì)",
+        "de": "(Plural: Die Mittwoche)"
+      },
+      "examples": {
+        "en": {
+          "text": "The museum is closed on Wednesday.",
+          "es": "El museo cierra el miércoles."
+        },
+        "pt": {
+          "text": "O museu fecha na quarta-feira.",
+          "es": "El museo cierra el miércoles."
+        },
+        "fr": {
+          "text": "Le musée est fermé mercredi.",
+          "es": "El museo cierra el miércoles."
+        },
+        "it": {
+          "text": "Il museo è chiuso mercoledì.",
+          "es": "El museo cierra el miércoles."
+        },
+        "de": {
+          "text": "Das Museum ist am Mittwoch geschlossen.",
+          "es": "El museo cierra el miércoles."
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "image_url": "",
+      "es": "Jueves",
+      "translations": {
+        "en": "Thursday",
+        "pt": "Quinta-feira",
+        "fr": "Jeudi",
+        "it": "Giovedì",
+        "de": "Donnerstag"
+      },
+      "notes": {
+        "en": "(Plural: The Thursdays)",
+        "pt": "(Plural: As quintas-feiras)",
+        "fr": "(Plural: Les jeudis)",
+        "it": "(Plural: I giovedì)",
+        "de": "(Plural: Die Donnerstage)"
+      },
+      "examples": {
+        "en": {
+          "text": "I'm working from home on Thursday.",
+          "es": "El jueves trabajo desde casa."
+        },
+        "pt": {
+          "text": "Trabalho de casa na quinta-feira.",
+          "es": "El jueves trabajo desde casa."
+        },
+        "fr": {
+          "text": "Je travaille de chez moi jeudi.",
+          "es": "El jueves trabajo desde casa."
+        },
+        "it": {
+          "text": "Giovedì lavoro da casa.",
+          "es": "El jueves trabajo desde casa."
+        },
+        "de": {
+          "text": "Am Donnerstag arbeite ich von zu Hause aus.",
+          "es": "El jueves trabajo desde casa."
+        }
+      }
+    },
+    {
+      "id": "t5",
+      "image_url": "",
+      "es": "Viernes",
+      "translations": {
+        "en": "Friday",
+        "pt": "Sexta-feira",
+        "fr": "Vendredi",
+        "it": "Venerdì",
+        "de": "Freitag"
+      },
+      "notes": {
+        "en": "(Plural: The Fridays)",
+        "pt": "(Plural: As sextas-feiras)",
+        "fr": "(Plural: Les vendredis)",
+        "it": "(Plural: I venerdì)",
+        "de": "(Plural: Die Freitage)"
+      },
+      "examples": {
+        "en": {
+          "text": "We're meeting on Friday.",
+          "es": "Nos vemos el viernes."
+        },
+        "pt": {
+          "text": "A gente se encontra na sexta-feira.",
+          "es": "Nos vemos el viernes."
+        },
+        "fr": {
+          "text": "On se voit vendredi.",
+          "es": "Nos vemos el viernes."
+        },
+        "it": {
+          "text": "Ci vediamo venerdì.",
+          "es": "Nos vemos el viernes."
+        },
+        "de": {
+          "text": "Wir treffen uns am Freitag.",
+          "es": "Nos vemos el viernes."
+        }
+      }
+    },
+    {
+      "id": "t6",
+      "image_url": "",
+      "es": "Sábado",
+      "translations": {
+        "en": "Saturday",
+        "pt": "Sábado",
+        "fr": "Samedi",
+        "it": "Sabato",
+        "de": "Samstag"
+      },
+      "notes": {
+        "en": "(Plural: The Saturdays)",
+        "pt": "(Plural: Os sábados)",
+        "fr": "(Plural: Les samedis)",
+        "it": "(Plural: I sabati)",
+        "de": "(Plural: Die Samstage)"
+      },
+      "examples": {
+        "en": {
+          "text": "I go to the market on Saturdays.",
+          "es": "Voy al mercado los sábados."
+        },
+        "pt": {
+          "text": "Vou à feira aos sábados.",
+          "es": "Voy al mercado los sábados."
+        },
+        "fr": {
+          "text": "Je vais au marché le samedi.",
+          "es": "Voy al mercado los sábados."
+        },
+        "it": {
+          "text": "Vado al mercato il sabato.",
+          "es": "Voy al mercado los sábados."
+        },
+        "de": {
+          "text": "Ich gehe samstags auf den Markt.",
+          "es": "Voy al mercado los sábados."
+        }
+      }
+    },
+    {
+      "id": "t7",
+      "image_url": "",
+      "es": "Domingo",
+      "translations": {
+        "en": "Sunday",
+        "pt": "Domingo",
+        "fr": "Dimanche",
+        "it": "Domenica",
+        "de": "Sonntag"
+      },
+      "notes": {
+        "en": "(Plural: The Sundays)",
+        "pt": "(Plural: Os domingos)",
+        "fr": "(Plural: Les dimanches)",
+        "it": "(Plural: Le domeniche)",
+        "de": "(Plural: Die Sonntage)"
+      },
+      "examples": {
+        "en": {
+          "text": "We eat together on Sundays.",
+          "es": "Comemos juntos los domingos."
+        },
+        "pt": {
+          "text": "A gente almoça junto aos domingos.",
+          "es": "Comemos juntos a mediodía los domingos."
+        },
+        "fr": {
+          "text": "On mange ensemble le dimanche.",
+          "es": "Comemos juntos los domingos."
+        },
+        "it": {
+          "text": "Pranziamo insieme la domenica.",
+          "es": "Comemos juntos a mediodía los domingos."
+        },
+        "de": {
+          "text": "Sonntags essen wir zusammen.",
+          "es": "Comemos juntos los domingos."
+        }
+      }
+    },
+    {
+      "id": "t30",
+      "image_url": "",
+      "es": "El fin de semana",
+      "translations": {
+        "en": "The weekend",
+        "pt": "O fim de semana",
+        "fr": "Le week-end",
+        "it": "Il fine settimana / Il weekend",
+        "de": "Das Wochenende"
+      },
+      "examples": {
+        "en": {
+          "text": "I work on weekends.",
+          "es": "Trabajo los fines de semana."
+        },
+        "pt": {
+          "text": "Trabalho nos fins de semana.",
+          "es": "Trabajo los fines de semana."
+        },
+        "fr": {
+          "text": "Je travaille le week-end.",
+          "es": "Trabajo los fines de semana."
+        },
+        "it": {
+          "text": "Lavoro nei fine settimana.",
+          "es": "Trabajo los fines de semana."
+        },
+        "de": {
+          "text": "Ich arbeite am Wochenende.",
+          "es": "Trabajo los fines de semana."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The weekends) (Reino Unido: At the weekend al decir «el fin de semana»)",
+        "pt": "(Plural: Os fins de semana)",
+        "fr": "(Plural: Les week-ends)",
+        "it": "(Plural: I fine settimana / I weekend)",
+        "de": "(Plural: Die Wochenenden)"
+      }
+    },
+    {
+      "id": "t31",
+      "image_url": "",
+      "es": "Los días entre semana",
+      "translations": {
+        "en": "The weekdays",
+        "pt": "Os dias de segunda a sexta",
+        "fr": "Les jours de semaine",
+        "it": "I giorni dal lunedì al venerdì",
+        "de": "Die Wochentage von Montag bis Freitag"
+      },
+      "examples": {
+        "en": {
+          "text": "The store opens at nine on weekdays.",
+          "es": "La tienda abre a las nueve de lunes a viernes."
+        },
+        "pt": {
+          "text": "A loja abre às nove de segunda a sexta.",
+          "es": "La tienda abre a las nueve de lunes a viernes."
+        },
+        "fr": {
+          "text": "Le magasin ouvre à neuf heures les jours de semaine.",
+          "es": "La tienda abre a las nueve de lunes a viernes."
+        },
+        "it": {
+          "text": "Il negozio apre alle nove dal lunedì al venerdì.",
+          "es": "La tienda abre a las nueve de lunes a viernes."
+        },
+        "de": {
+          "text": "Von Montag bis Freitag öffnet der Laden um neun.",
+          "es": "La tienda abre a las nueve de lunes a viernes."
+        }
+      },
+      "notes": {
+        "es": "(De lunes a viernes)",
+        "de": "Wochentage sin contexto puede incluir los siete días. Montag bis Freitag especifica el intervalo."
+      }
+    },
+    {
+      "id": "t32",
+      "image_url": "",
+      "es": "El día festivo / El día feriado",
+      "translations": {
+        "en": "The public holiday",
+        "pt": "O feriado",
+        "fr": "Le jour férié",
+        "it": "Il giorno festivo",
+        "de": "Der gesetzliche Feiertag"
+      },
+      "examples": {
+        "en": {
+          "text": "The museum is closed on public holidays.",
+          "es": "El museo cierra los días festivos."
+        },
+        "pt": {
+          "text": "O museu fecha nos feriados.",
+          "es": "El museo cierra los días festivos."
+        },
+        "fr": {
+          "text": "Le musée est fermé les jours fériés.",
+          "es": "El museo cierra los días festivos."
+        },
+        "it": {
+          "text": "Il museo è chiuso nei giorni festivi.",
+          "es": "El museo cierra los días festivos."
+        },
+        "de": {
+          "text": "An gesetzlichen Feiertagen ist das Museum geschlossen.",
+          "es": "El museo cierra los días festivos."
+        }
+      },
+      "notes": {
+        "es": "(Día festivo oficial)",
+        "en": "(Plural: The public holidays)",
+        "pt": "(Plural: Os feriados)",
+        "fr": "(Plural: Les jours fériés)",
+        "it": "(Plural: I giorni festivi)",
+        "de": "(Plural: Die gesetzlichen Feiertage)"
+      }
+    },
+    {
+      "id": "t33",
+      "image_url": "",
+      "es": "El día hábil",
+      "translations": {
+        "en": "The business day",
+        "pt": "O dia útil",
+        "fr": "Le jour ouvré",
+        "it": "Il giorno lavorativo",
+        "de": "Der Arbeitstag"
+      },
+      "examples": {
+        "en": {
+          "text": "Delivery takes two business days.",
+          "es": "La entrega tarda dos días hábiles."
+        },
+        "pt": {
+          "text": "A entrega leva dois dias úteis.",
+          "es": "La entrega tarda dos días hábiles."
+        },
+        "fr": {
+          "text": "La livraison prend deux jours ouvrés.",
+          "es": "La entrega tarda dos días hábiles."
+        },
+        "it": {
+          "text": "La consegna richiede due giorni lavorativi.",
+          "es": "La entrega tarda dos días hábiles."
+        },
+        "de": {
+          "text": "Die Lieferung dauert zwei Arbeitstage.",
+          "es": "La entrega tarda dos días hábiles."
+        }
+      },
+      "notes": {
+        "es": "(Día que cuenta para un trámite, envío o plazo)",
+        "en": "(Plural: The business days)",
+        "pt": "(Plural: Os dias úteis)",
+        "fr": "(Plural: Les jours ouvrés) Jour ouvré es un día en que se trabaja en la organización; jour ouvrable puede incluir el sábado.",
+        "it": "(Plural: I giorni lavorativi)",
+        "de": "(Plural: Die Arbeitstage) Werktag puede incluir el sábado según el contexto."
+      }
+    },
+    {
+      "id": "t8",
+      "image_url": "",
+      "es": "Enero",
+      "translations": {
+        "en": "January",
+        "pt": "Janeiro",
+        "fr": "Janvier",
+        "it": "Gennaio",
+        "de": "Januar"
+      },
+      "examples": {
+        "en": {
+          "text": "The course starts in January.",
+          "es": "El curso empieza en enero."
+        },
+        "pt": {
+          "text": "O curso começa em janeiro.",
+          "es": "El curso empieza en enero."
+        },
+        "fr": {
+          "text": "Le cours commence en janvier.",
+          "es": "El curso empieza en enero."
+        },
+        "it": {
+          "text": "Il corso inizia a gennaio.",
+          "es": "El curso empieza en enero."
+        },
+        "de": {
+          "text": "Der Kurs beginnt im Januar.",
+          "es": "El curso empieza en enero."
+        }
+      }
+    },
+    {
+      "id": "t9",
+      "image_url": "",
+      "es": "Febrero",
+      "translations": {
+        "en": "February",
+        "pt": "Fevereiro",
+        "fr": "Février",
+        "it": "Febbraio",
+        "de": "Februar"
+      },
+      "examples": {
+        "en": {
+          "text": "Her birthday is in February.",
+          "es": "Su cumpleaños es en febrero."
+        },
+        "pt": {
+          "text": "O aniversário dela é em fevereiro.",
+          "es": "Su cumpleaños es en febrero."
+        },
+        "fr": {
+          "text": "Son anniversaire est en février.",
+          "es": "Su cumpleaños es en febrero."
+        },
+        "it": {
+          "text": "Il suo compleanno è a febbraio.",
+          "es": "Su cumpleaños es en febrero."
+        },
+        "de": {
+          "text": "Sie hat im Februar Geburtstag.",
+          "es": "Su cumpleaños es en febrero."
+        }
+      }
+    },
+    {
+      "id": "t10",
+      "image_url": "",
+      "es": "Marzo",
+      "translations": {
+        "en": "March",
+        "pt": "Março",
+        "fr": "Mars",
+        "it": "Marzo",
+        "de": "März"
+      },
+      "examples": {
+        "en": {
+          "text": "We leave on March tenth.",
+          "es": "Salimos el diez de marzo."
+        },
+        "pt": {
+          "text": "A gente sai no dia dez de março.",
+          "es": "Salimos el diez de marzo."
+        },
+        "fr": {
+          "text": "On part le dix mars.",
+          "es": "Salimos el diez de marzo."
+        },
+        "it": {
+          "text": "Partiamo il dieci marzo.",
+          "es": "Salimos el diez de marzo."
+        },
+        "de": {
+          "text": "Wir fahren am zehnten März los.",
+          "es": "Salimos el diez de marzo."
+        }
+      }
+    },
+    {
+      "id": "t11",
+      "image_url": "",
+      "es": "Abril",
+      "translations": {
+        "en": "April",
+        "pt": "Abril",
+        "fr": "Avril",
+        "it": "Aprile",
+        "de": "April"
+      },
+      "examples": {
+        "en": {
+          "text": "It often rains here in April.",
+          "es": "Aquí llueve seguido en abril."
+        },
+        "pt": {
+          "text": "Aqui chove muito em abril.",
+          "es": "Aquí llueve mucho en abril."
+        },
+        "fr": {
+          "text": "Ici, il pleut souvent en avril.",
+          "es": "Aquí llueve seguido en abril."
+        },
+        "it": {
+          "text": "Qui piove spesso ad aprile.",
+          "es": "Aquí llueve seguido en abril."
+        },
+        "de": {
+          "text": "Im April regnet es hier oft.",
+          "es": "Aquí llueve seguido en abril."
+        }
+      }
+    },
+    {
+      "id": "t12",
+      "image_url": "",
+      "es": "Mayo",
+      "translations": {
+        "en": "May",
+        "pt": "Maio",
+        "fr": "Mai",
+        "it": "Maggio",
+        "de": "Mai"
+      },
+      "examples": {
+        "en": {
+          "text": "I'm going on vacation in May.",
+          "es": "Me voy de vacaciones en mayo."
+        },
+        "pt": {
+          "text": "Vou sair de férias em maio.",
+          "es": "Me voy de vacaciones en mayo."
+        },
+        "fr": {
+          "text": "Je pars en vacances en mai.",
+          "es": "Me voy de vacaciones en mayo."
+        },
+        "it": {
+          "text": "Vado in vacanza a maggio.",
+          "es": "Me voy de vacaciones en mayo."
+        },
+        "de": {
+          "text": "Im Mai mache ich Urlaub.",
+          "es": "Me voy de vacaciones en mayo."
+        }
+      }
+    },
+    {
+      "id": "t13",
+      "image_url": "",
+      "es": "Junio",
+      "translations": {
+        "en": "June",
+        "pt": "Junho",
+        "fr": "Juin",
+        "it": "Giugno",
+        "de": "Juni"
+      },
+      "examples": {
+        "en": {
+          "text": "The pool opens in June.",
+          "es": "La alberca abre en junio."
+        },
+        "pt": {
+          "text": "A piscina abre em junho.",
+          "es": "La alberca abre en junio."
+        },
+        "fr": {
+          "text": "La piscine ouvre en juin.",
+          "es": "La alberca abre en junio."
+        },
+        "it": {
+          "text": "La piscina apre a giugno.",
+          "es": "La alberca abre en junio."
+        },
+        "de": {
+          "text": "Das Schwimmbad öffnet im Juni.",
+          "es": "La alberca abre en junio."
+        }
+      }
+    },
+    {
+      "id": "t14",
+      "image_url": "",
+      "es": "Julio",
+      "translations": {
+        "en": "July",
+        "pt": "Julho",
+        "fr": "Juillet",
+        "it": "Luglio",
+        "de": "Juli"
+      },
+      "examples": {
+        "en": {
+          "text": "We're moving in July.",
+          "es": "Nos mudamos en julio."
+        },
+        "pt": {
+          "text": "A gente vai se mudar em julho.",
+          "es": "Nos mudamos en julio."
+        },
+        "fr": {
+          "text": "On déménage en juillet.",
+          "es": "Nos mudamos en julio."
+        },
+        "it": {
+          "text": "Traslochiamo a luglio.",
+          "es": "Nos mudamos en julio."
+        },
+        "de": {
+          "text": "Wir ziehen im Juli um.",
+          "es": "Nos mudamos en julio."
+        }
+      }
+    },
+    {
+      "id": "t15",
+      "image_url": "",
+      "es": "Agosto",
+      "translations": {
+        "en": "August",
+        "pt": "Agosto",
+        "fr": "Août",
+        "it": "Agosto",
+        "de": "August"
+      },
+      "examples": {
+        "en": {
+          "text": "It's usually hot here in August.",
+          "es": "Aquí suele hacer calor en agosto."
+        },
+        "pt": {
+          "text": "Em agosto, costuma fazer calor aqui.",
+          "es": "Aquí suele hacer calor en agosto."
+        },
+        "fr": {
+          "text": "En août, il fait souvent chaud ici.",
+          "es": "Aquí suele hacer calor en agosto."
+        },
+        "it": {
+          "text": "Ad agosto qui di solito fa caldo.",
+          "es": "Aquí suele hacer calor en agosto."
+        },
+        "de": {
+          "text": "Im August ist es hier meistens heiß.",
+          "es": "Aquí suele hacer calor en agosto."
+        }
+      }
+    },
+    {
+      "id": "t16",
+      "image_url": "",
+      "es": "Septiembre",
+      "translations": {
+        "en": "September",
+        "pt": "Setembro",
+        "fr": "Septembre",
+        "it": "Settembre",
+        "de": "September"
+      },
+      "examples": {
+        "en": {
+          "text": "The course ends in September.",
+          "es": "El curso termina en septiembre."
+        },
+        "pt": {
+          "text": "O curso termina em setembro.",
+          "es": "El curso termina en septiembre."
+        },
+        "fr": {
+          "text": "Le cours se termine en septembre.",
+          "es": "El curso termina en septiembre."
+        },
+        "it": {
+          "text": "Il corso finisce a settembre.",
+          "es": "El curso termina en septiembre."
+        },
+        "de": {
+          "text": "Der Kurs endet im September.",
+          "es": "El curso termina en septiembre."
+        }
+      }
+    },
+    {
+      "id": "t17",
+      "image_url": "",
+      "es": "Octubre",
+      "translations": {
+        "en": "October",
+        "pt": "Outubro",
+        "fr": "Octobre",
+        "it": "Ottobre",
+        "de": "Oktober"
+      },
+      "examples": {
+        "en": {
+          "text": "I bought my bike in October.",
+          "es": "Compré mi bici en octubre."
+        },
+        "pt": {
+          "text": "Comprei minha bicicleta em outubro.",
+          "es": "Compré mi bici en octubre."
+        },
+        "fr": {
+          "text": "J'ai acheté mon vélo en octobre.",
+          "es": "Compré mi bici en octubre."
+        },
+        "it": {
+          "text": "Ho comprato la bici a ottobre.",
+          "es": "Compré mi bici en octubre."
+        },
+        "de": {
+          "text": "Ich habe mein Fahrrad im Oktober gekauft.",
+          "es": "Compré mi bici en octubre."
+        }
+      }
+    },
+    {
+      "id": "t18",
+      "image_url": "",
+      "es": "Noviembre",
+      "translations": {
+        "en": "November",
+        "pt": "Novembro",
+        "fr": "Novembre",
+        "it": "Novembre",
+        "de": "November"
+      },
+      "examples": {
+        "en": {
+          "text": "We have a family party in November.",
+          "es": "En noviembre tenemos una fiesta familiar."
+        },
+        "pt": {
+          "text": "Temos uma festa de família em novembro.",
+          "es": "En noviembre tenemos una fiesta familiar."
+        },
+        "fr": {
+          "text": "On a une fête de famille en novembre.",
+          "es": "En noviembre tenemos una fiesta familiar."
+        },
+        "it": {
+          "text": "A novembre abbiamo una festa di famiglia.",
+          "es": "En noviembre tenemos una fiesta familiar."
+        },
+        "de": {
+          "text": "Wir haben im November ein Familienfest.",
+          "es": "En noviembre tenemos una fiesta familiar."
+        }
+      }
+    },
+    {
+      "id": "t19",
+      "image_url": "",
+      "es": "Diciembre",
+      "translations": {
+        "en": "December",
+        "pt": "Dezembro",
+        "fr": "Décembre",
+        "it": "Dicembre",
+        "de": "Dezember"
+      },
+      "examples": {
+        "en": {
+          "text": "I'm going to visit my parents in December.",
+          "es": "Voy a visitar a mis papás en diciembre."
+        },
+        "pt": {
+          "text": "Vou visitar meus pais em dezembro.",
+          "es": "Voy a visitar a mis papás en diciembre."
+        },
+        "fr": {
+          "text": "Je vais voir mes parents en décembre.",
+          "es": "Voy a visitar a mis papás en diciembre."
+        },
+        "it": {
+          "text": "Vado a trovare i miei genitori a dicembre.",
+          "es": "Voy a visitar a mis papás en diciembre."
+        },
+        "de": {
+          "text": "Ich besuche meine Eltern im Dezember.",
+          "es": "Voy a visitar a mis papás en diciembre."
+        }
       }
     },
     {
       "id": "t127",
       "image_url": "",
-      "es": "¿Qué día es hoy? (día de la semana)",
+      "es": "¿Qué día de la semana es hoy?",
       "translations": {
-        "en": "What day is it today?",
+        "en": "What day of the week is it?",
         "pt": "Que dia da semana é hoje?",
         "fr": "Quel jour de la semaine sommes-nous ?",
-        "it": "Che giorno della settimana è oggi?"
+        "it": "Che giorno della settimana è oggi?",
+        "de": "Welchen Wochentag haben wir heute?"
       }
     },
     {
@@ -1408,7 +1248,8 @@
         "en": "Today is Monday.",
         "pt": "Hoje é segunda-feira.",
         "fr": "Aujourd'hui, nous sommes lundi.",
-        "it": "Oggi è lunedì."
+        "it": "Oggi è lunedì.",
+        "de": "Heute ist Montag."
       }
     },
     {
@@ -1419,7 +1260,8 @@
         "en": "What's today's date?",
         "pt": "Qual é a data de hoje?",
         "fr": "Quelle est la date d'aujourd'hui ?",
-        "it": "Qual è la data di oggi?"
+        "it": "Qual è la data di oggi?",
+        "de": "Welches Datum haben wir heute?"
       }
     },
     {
@@ -1430,7 +1272,8 @@
         "en": "Today is January first.",
         "pt": "Hoje é primeiro de janeiro.",
         "fr": "Aujourd'hui, nous sommes le premier janvier.",
-        "it": "Oggi è il primo gennaio."
+        "it": "Oggi è il primo gennaio.",
+        "de": "Heute ist der erste Januar."
       }
     },
     {
@@ -1441,40 +1284,12 @@
         "en": "Today is May fifteenth.",
         "pt": "Hoje é quinze de maio.",
         "fr": "Aujourd'hui, nous sommes le quinze mai.",
-        "it": "Oggi è il quindici maggio."
-      }
-    },
-    {
-      "id": "t132",
-      "image_url": "",
-      "es": "El lunes (una ocasión concreta)",
-      "translations": {
-        "en": "On Monday",
-        "pt": "Na segunda-feira",
-        "fr": "Lundi",
-        "it": "Lunedì"
-      }
-    },
-    {
-      "id": "t133",
-      "image_url": "",
-      "es": "Los lunes (habitualmente)",
-      "translations": {
-        "en": "On Mondays / Every Monday",
-        "pt": "Às segundas-feiras / Toda segunda-feira",
-        "fr": "Le lundi / Tous les lundis",
-        "it": "Il lunedì / Ogni lunedì"
-      }
-    },
-    {
-      "id": "t134",
-      "image_url": "",
-      "es": "El próximo lunes",
-      "translations": {
-        "en": "Next Monday",
-        "pt": "Na próxima segunda-feira",
-        "fr": "Lundi prochain",
-        "it": "Lunedì prossimo"
+        "it": "Oggi è il quindici maggio.",
+        "de": "Heute ist der fünfzehnte Mai."
+      },
+      "notes": {
+        "en": "En Estados Unidos se suele poner el mes antes del día: May fifteenth (May 15).",
+        "de": "El día se expresa con un ordinal: der fünfzehnte Mai."
       }
     },
     {
@@ -1485,7 +1300,30 @@
         "en": "In January",
         "pt": "Em janeiro",
         "fr": "En janvier",
-        "it": "A gennaio"
+        "it": "A gennaio",
+        "de": "Im Januar"
+      },
+      "examples": {
+        "en": {
+          "text": "I'm going to Mexico in January.",
+          "es": "Voy a México en enero."
+        },
+        "pt": {
+          "text": "Vou para o México em janeiro.",
+          "es": "Voy a México en enero."
+        },
+        "fr": {
+          "text": "Je vais au Mexique en janvier.",
+          "es": "Voy a México en enero."
+        },
+        "it": {
+          "text": "Vado in Messico a gennaio.",
+          "es": "Voy a México en enero."
+        },
+        "de": {
+          "text": "Ich fahre im Januar nach Mexiko.",
+          "es": "Voy a México en enero."
+        }
       }
     },
     {
@@ -1496,18 +1334,53 @@
         "en": "In 2026",
         "pt": "Em 2026",
         "fr": "En 2026",
-        "it": "Nel 2026"
+        "it": "Nel 2026",
+        "de": "2026"
+      },
+      "examples": {
+        "en": {
+          "text": "I'm going to Peru in 2026.",
+          "es": "Voy a Perú en 2026."
+        },
+        "pt": {
+          "text": "Vou para o Peru em 2026.",
+          "es": "Voy a Perú en 2026."
+        },
+        "fr": {
+          "text": "Je vais au Pérou en 2026.",
+          "es": "Voy a Perú en 2026."
+        },
+        "it": {
+          "text": "Vado in Perù nel 2026.",
+          "es": "Voy a Perú en 2026."
+        },
+        "de": {
+          "text": "Ich fahre 2026 nach Peru.",
+          "es": "Voy a Perú en 2026."
+        }
+      },
+      "notes": {
+        "es": "Se lee «en dos mil veintiséis».",
+        "de": "En el habla es natural decir el año sin preposición. Para «en el año 2026» también se usa im Jahr 2026."
       }
     },
     {
       "id": "t137",
       "image_url": "",
-      "es": "¿Cuándo es tu cumpleaños?",
+      "es": "¿Cuándo es tu cumpleaños? / ¿Cuándo es su cumpleaños?",
       "translations": {
         "en": "When is your birthday?",
-        "pt": "Quando é seu aniversário?",
-        "fr": "C'est quand, ton anniversaire ?",
-        "it": "Quando è il tuo compleanno?"
+        "pt": "Quando é seu aniversário? / Quando é o aniversário do senhor? / Quando é o aniversário da senhora?",
+        "fr": "C'est quand, ton anniversaire ? / C'est quand, votre anniversaire ?",
+        "it": "Quando compi gli anni? / Quando compie gli anni?",
+        "de": "Wann hast du Geburtstag? / Wann haben Sie Geburtstag?"
+      },
+      "notes": {
+        "es": "Primero trato de tú (informal); después trato de usted (formal).",
+        "pt": "Você y seu son habituales en Brasil; o senhor y a senhora indican trato respetuoso.",
+        "fr": "Primero tu (informal); después vous (formal).",
+        "it": "Primero tu (informal); después Lei (formal).",
+        "de": "Primero du (informal); después Sie (formal)."
       }
     },
     {
@@ -1518,7 +1391,614 @@
         "en": "My birthday is on May fifteenth.",
         "pt": "Meu aniversário é no dia quinze de maio.",
         "fr": "Mon anniversaire est le quinze mai.",
-        "it": "Il mio compleanno è il quindici maggio."
+        "it": "Il mio compleanno è il quindici maggio.",
+        "de": "Ich habe am fünfzehnten Mai Geburtstag."
+      },
+      "notes": {
+        "de": "La terminación del ordinal cambia después de am: der fünfzehnte Mai → am fünfzehnten Mai."
+      }
+    },
+    {
+      "id": "t46",
+      "image_url": "",
+      "es": "La mañana",
+      "translations": {
+        "en": "The morning",
+        "pt": "A manhã",
+        "fr": "Le matin",
+        "it": "La mattina / Il mattino",
+        "de": "Der Morgen"
+      },
+      "examples": {
+        "en": {
+          "text": "I drink coffee in the morning.",
+          "es": "Tomo café en la mañana."
+        },
+        "pt": {
+          "text": "Tomo café de manhã.",
+          "es": "Tomo café en la mañana."
+        },
+        "fr": {
+          "text": "Je bois du café le matin.",
+          "es": "Tomo café en la mañana."
+        },
+        "it": {
+          "text": "Bevo il caffè la mattina.",
+          "es": "Tomo café en la mañana."
+        },
+        "de": {
+          "text": "Ich trinke am Morgen Kaffee.",
+          "es": "Tomo café en la mañana."
+        }
+      },
+      "notes": {
+        "es": "(Parte del día)",
+        "en": "(Plural: The mornings)",
+        "pt": "(Plural: As manhãs)",
+        "fr": "(Plural: Les matins)",
+        "it": "(Plural: Le mattine / I mattini)",
+        "de": "(Plural: Die Morgen)"
+      }
+    },
+    {
+      "id": "t47",
+      "image_url": "",
+      "es": "El mediodía",
+      "translations": {
+        "en": "Noon",
+        "pt": "O meio-dia",
+        "fr": "Midi",
+        "it": "Mezzogiorno",
+        "de": "Der Mittag"
+      },
+      "examples": {
+        "en": {
+          "text": "We have lunch at noon.",
+          "es": "Comemos a mediodía."
+        },
+        "pt": {
+          "text": "A gente almoça ao meio-dia.",
+          "es": "Comemos a mediodía."
+        },
+        "fr": {
+          "text": "On déjeune à midi.",
+          "es": "Comemos a mediodía."
+        },
+        "it": {
+          "text": "Pranziamo a mezzogiorno.",
+          "es": "Comemos a mediodía."
+        },
+        "de": {
+          "text": "Wir essen am Mittag.",
+          "es": "Comemos a mediodía."
+        }
+      }
+    },
+    {
+      "id": "t48",
+      "image_url": "",
+      "es": "La tarde",
+      "translations": {
+        "en": "The afternoon",
+        "pt": "A tarde",
+        "fr": "L'après-midi",
+        "it": "Il pomeriggio",
+        "de": "Der Nachmittag"
+      },
+      "examples": {
+        "en": {
+          "text": "I work in the afternoon.",
+          "es": "Trabajo en la tarde."
+        },
+        "pt": {
+          "text": "Trabalho à tarde.",
+          "es": "Trabajo en la tarde."
+        },
+        "fr": {
+          "text": "Je travaille l'après-midi.",
+          "es": "Trabajo en la tarde."
+        },
+        "it": {
+          "text": "Lavoro il pomeriggio.",
+          "es": "Trabajo en la tarde."
+        },
+        "de": {
+          "text": "Ich arbeite am Nachmittag.",
+          "es": "Trabajo en la tarde."
+        }
+      },
+      "notes": {
+        "es": "(Parte del día después del mediodía)",
+        "en": "(Plural: The afternoons)",
+        "pt": "(Plural: As tardes)",
+        "fr": "(Plural: Les après-midi) También se acepta les après-midis.",
+        "it": "(Plural: I pomeriggi)",
+        "de": "(Plural: Die Nachmittage)"
+      }
+    },
+    {
+      "id": "t51",
+      "image_url": "",
+      "es": "Las primeras horas de la noche",
+      "translations": {
+        "en": "The evening",
+        "pt": "O início da noite",
+        "fr": "Le soir",
+        "it": "La sera",
+        "de": "Der Abend"
+      },
+      "examples": {
+        "en": {
+          "text": "Dinner is in the evening.",
+          "es": "La cena es en la noche."
+        },
+        "pt": {
+          "text": "O jantar é no início da noite.",
+          "es": "La cena es en la primera parte de la noche."
+        },
+        "fr": {
+          "text": "Le dîner est le soir.",
+          "es": "La cena es en la noche."
+        },
+        "it": {
+          "text": "Si cena la sera.",
+          "es": "Se cena en la noche."
+        },
+        "de": {
+          "text": "Das Abendessen gibt es am Abend.",
+          "es": "La cena es en la primera parte de la noche."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The evenings)",
+        "pt": "(Plural: Os inícios da noite) Noite también abarca las horas más avanzadas de la noche.",
+        "fr": "(Plural: Les soirs)",
+        "it": "(Plural: Le sere)",
+        "de": "(Plural: Die Abende)"
+      }
+    },
+    {
+      "id": "t49",
+      "image_url": "",
+      "es": "La noche",
+      "translations": {
+        "en": "The night",
+        "pt": "A noite",
+        "fr": "La nuit",
+        "it": "La notte",
+        "de": "Die Nacht"
+      },
+      "examples": {
+        "en": {
+          "text": "It gets cold at night.",
+          "es": "Hace frío en la noche."
+        },
+        "pt": {
+          "text": "Faz frio à noite.",
+          "es": "Hace frío en la noche."
+        },
+        "fr": {
+          "text": "Il fait froid la nuit.",
+          "es": "Hace frío en la noche."
+        },
+        "it": {
+          "text": "Di notte fa freddo.",
+          "es": "Hace frío en la noche."
+        },
+        "de": {
+          "text": "In der Nacht wird es kalt.",
+          "es": "Hace frío en la noche."
+        }
+      },
+      "notes": {
+        "es": "(Horas nocturnas)",
+        "en": "(Plural: The nights)",
+        "pt": "(Plural: As noites)",
+        "fr": "(Plural: Les nuits)",
+        "it": "(Plural: Le notti)",
+        "de": "(Plural: Die Nächte)"
+      }
+    },
+    {
+      "id": "t50",
+      "image_url": "",
+      "es": "La medianoche",
+      "translations": {
+        "en": "Midnight",
+        "pt": "Meia-noite",
+        "fr": "Minuit",
+        "it": "Mezzanotte",
+        "de": "Mitternacht"
+      },
+      "examples": {
+        "en": {
+          "text": "The last bus leaves at midnight.",
+          "es": "El último autobús sale a medianoche."
+        },
+        "pt": {
+          "text": "O último ônibus sai à meia-noite.",
+          "es": "El último autobús sale a medianoche."
+        },
+        "fr": {
+          "text": "Le dernier bus part à minuit.",
+          "es": "El último autobús sale a medianoche."
+        },
+        "it": {
+          "text": "L'ultimo autobus parte a mezzanotte.",
+          "es": "El último autobús sale a medianoche."
+        },
+        "de": {
+          "text": "Der letzte Bus fährt um Mitternacht.",
+          "es": "El último autobús sale a medianoche."
+        }
+      }
+    },
+    {
+      "id": "t52",
+      "image_url": "",
+      "es": "La madrugada",
+      "translations": {
+        "en": "The early hours of the morning",
+        "pt": "A madrugada",
+        "fr": "Les premières heures du matin",
+        "it": "Le prime ore del mattino",
+        "de": "Die frühen Morgenstunden"
+      },
+      "examples": {
+        "en": {
+          "text": "The baby wakes up in the early hours of the morning.",
+          "es": "El bebé se despierta en la madrugada."
+        },
+        "pt": {
+          "text": "O bebê acorda de madrugada.",
+          "es": "El bebé se despierta en la madrugada."
+        },
+        "fr": {
+          "text": "Le bébé se réveille aux premières heures du matin.",
+          "es": "El bebé se despierta en la madrugada."
+        },
+        "it": {
+          "text": "Il bambino si sveglia nelle prime ore del mattino.",
+          "es": "El bebé se despierta en la madrugada."
+        },
+        "de": {
+          "text": "Das Baby wacht in den frühen Morgenstunden auf.",
+          "es": "El bebé se despierta en la madrugada."
+        }
+      },
+      "notes": {
+        "es": "(Horas antes de que amanezca)",
+        "pt": "(Plural: As madrugadas)",
+        "en": "The early hours of the morning suele referirse a las primeras horas después de medianoche.",
+        "fr": "Les premières heures du matin apunta a las primeras horas después de medianoche; avant l'aube indica que todavía no amanece."
+      }
+    },
+    {
+      "id": "t53",
+      "image_url": "",
+      "es": "El amanecer",
+      "translations": {
+        "en": "The dawn",
+        "pt": "O amanhecer",
+        "fr": "L'aube",
+        "it": "L'alba",
+        "de": "Die Morgendämmerung"
+      },
+      "examples": {
+        "en": {
+          "text": "We leave at dawn.",
+          "es": "Salimos al amanecer."
+        },
+        "pt": {
+          "text": "A gente sai ao amanhecer.",
+          "es": "Salimos al amanecer."
+        },
+        "fr": {
+          "text": "On part à l'aube.",
+          "es": "Salimos al amanecer."
+        },
+        "it": {
+          "text": "Partiamo all'alba.",
+          "es": "Salimos al amanecer."
+        },
+        "de": {
+          "text": "Wir fahren bei Morgendämmerung los.",
+          "es": "Salimos al amanecer."
+        }
+      },
+      "notes": {
+        "pt": "(Plural: Os amanheceres)",
+        "fr": "(Plural: Les aubes)",
+        "it": "(Plural: Le albe)"
+      }
+    },
+    {
+      "id": "t54",
+      "image_url": "",
+      "es": "La puesta del sol / El atardecer",
+      "translations": {
+        "en": "The sunset",
+        "pt": "O pôr do sol",
+        "fr": "Le coucher du soleil",
+        "it": "Il tramonto",
+        "de": "Der Sonnenuntergang"
+      },
+      "examples": {
+        "en": {
+          "text": "We watch the sunset from the beach.",
+          "es": "Vemos la puesta del sol desde la playa."
+        },
+        "pt": {
+          "text": "A gente vê o pôr do sol da praia.",
+          "es": "Vemos la puesta del sol desde la playa."
+        },
+        "fr": {
+          "text": "On regarde le coucher du soleil depuis la plage.",
+          "es": "Vemos la puesta del sol desde la playa."
+        },
+        "it": {
+          "text": "Guardiamo il tramonto dalla spiaggia.",
+          "es": "Vemos la puesta del sol desde la playa."
+        },
+        "de": {
+          "text": "Wir sehen den Sonnenuntergang vom Strand aus.",
+          "es": "Vemos la puesta del sol desde la playa."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The sunsets)",
+        "pt": "(Plural: Os pores do sol)",
+        "fr": "(Plural: Les couchers du soleil)",
+        "it": "(Plural: I tramonti)",
+        "de": "(Plural: Die Sonnenuntergänge)"
+      }
+    },
+    {
+      "id": "t35",
+      "image_url": "",
+      "es": "El reloj de pared",
+      "translations": {
+        "en": "The wall clock",
+        "pt": "O relógio de parede",
+        "fr": "L'horloge murale",
+        "it": "L'orologio da parete",
+        "de": "Die Wanduhr"
+      },
+      "examples": {
+        "en": {
+          "text": "Look at the wall clock.",
+          "es": "Mira el reloj de pared."
+        },
+        "pt": {
+          "text": "Olhe para o relógio de parede.",
+          "es": "Mira el reloj de pared."
+        },
+        "fr": {
+          "text": "Regarde l'horloge murale.",
+          "es": "Mira el reloj de pared."
+        },
+        "it": {
+          "text": "Guarda l'orologio da parete.",
+          "es": "Mira el reloj de pared."
+        },
+        "de": {
+          "text": "Schau auf die Wanduhr.",
+          "es": "Mira el reloj de pared."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The wall clocks)",
+        "pt": "(Plural: Os relógios de parede)",
+        "fr": "(Plural: Les horloges murales) La montre es el reloj de pulsera.",
+        "it": "(Plural: Gli orologi da parete)",
+        "de": "(Plural: Die Wanduhren)"
+      }
+    },
+    {
+      "id": "t36",
+      "image_url": "",
+      "es": "El reloj de pulsera",
+      "translations": {
+        "en": "The watch",
+        "pt": "O relógio de pulso",
+        "fr": "La montre",
+        "it": "L'orologio da polso",
+        "de": "Die Armbanduhr"
+      },
+      "examples": {
+        "en": {
+          "text": "My watch is five minutes fast.",
+          "es": "Mi reloj de pulsera va cinco minutos adelantado."
+        },
+        "pt": {
+          "text": "Meu relógio de pulso está cinco minutos adiantado.",
+          "es": "Mi reloj de pulsera va cinco minutos adelantado."
+        },
+        "fr": {
+          "text": "Ma montre avance de cinq minutes.",
+          "es": "Mi reloj de pulsera va cinco minutos adelantado."
+        },
+        "it": {
+          "text": "Il mio orologio da polso è avanti di cinque minuti.",
+          "es": "Mi reloj de pulsera va cinco minutos adelantado."
+        },
+        "de": {
+          "text": "Meine Armbanduhr geht fünf Minuten vor.",
+          "es": "Mi reloj de pulsera va cinco minutos adelantado."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The watches)",
+        "pt": "(Plural: Os relógios de pulso)",
+        "fr": "(Plural: Les montres)",
+        "it": "(Plural: Gli orologi da polso)",
+        "de": "(Plural: Die Armbanduhren)"
+      }
+    },
+    {
+      "id": "t37",
+      "image_url": "",
+      "es": "El despertador",
+      "translations": {
+        "en": "The alarm clock",
+        "pt": "O despertador",
+        "fr": "Le réveil",
+        "it": "La sveglia",
+        "de": "Der Wecker"
+      },
+      "examples": {
+        "en": {
+          "text": "The alarm clock rings at seven.",
+          "es": "El despertador suena a las siete."
+        },
+        "pt": {
+          "text": "O despertador toca às sete.",
+          "es": "El despertador suena a las siete."
+        },
+        "fr": {
+          "text": "Le réveil sonne à sept heures.",
+          "es": "El despertador suena a las siete."
+        },
+        "it": {
+          "text": "La sveglia suona alle sette.",
+          "es": "El despertador suena a las siete."
+        },
+        "de": {
+          "text": "Der Wecker klingelt um sieben.",
+          "es": "El despertador suena a las siete."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The alarm clocks)",
+        "pt": "(Plural: Os despertadores)",
+        "fr": "(Plural: Les réveils)",
+        "it": "(Plural: Le sveglie)",
+        "de": "(Plural: Die Wecker)"
+      }
+    },
+    {
+      "id": "t27",
+      "image_url": "",
+      "es": "La hora",
+      "translations": {
+        "en": "The hour",
+        "pt": "A hora",
+        "fr": "L'heure",
+        "it": "L'ora",
+        "de": "Die Stunde"
+      },
+      "examples": {
+        "en": {
+          "text": "The class lasts an hour.",
+          "es": "La clase dura una hora."
+        },
+        "pt": {
+          "text": "A aula dura uma hora.",
+          "es": "La clase dura una hora."
+        },
+        "fr": {
+          "text": "Le cours dure une heure.",
+          "es": "La clase dura una hora."
+        },
+        "it": {
+          "text": "La lezione dura un'ora.",
+          "es": "La clase dura una hora."
+        },
+        "de": {
+          "text": "Der Kurs dauert eine Stunde.",
+          "es": "La clase dura una hora."
+        }
+      },
+      "notes": {
+        "es": "(Unidad de tiempo)",
+        "en": "(Plural: The hours)",
+        "pt": "(Plural: As horas)",
+        "fr": "(Plural: Les heures)",
+        "it": "(Plural: Le ore)",
+        "de": "(Plural: Die Stunden) Stunde expresa duración; Uhr se usa al dar la hora."
+      }
+    },
+    {
+      "id": "t28",
+      "image_url": "",
+      "es": "El minuto",
+      "translations": {
+        "en": "The minute",
+        "pt": "O minuto",
+        "fr": "La minute",
+        "it": "Il minuto",
+        "de": "Die Minute"
+      },
+      "examples": {
+        "en": {
+          "text": "Wait a minute, please.",
+          "es": "Espere un minuto, por favor."
+        },
+        "pt": {
+          "text": "Espere um minuto, por favor.",
+          "es": "Espere un minuto, por favor."
+        },
+        "fr": {
+          "text": "Attendez une minute, s'il vous plaît.",
+          "es": "Espere un minuto, por favor."
+        },
+        "it": {
+          "text": "Aspetti un minuto, per favore.",
+          "es": "Espere un minuto, por favor."
+        },
+        "de": {
+          "text": "Warten Sie bitte eine Minute.",
+          "es": "Espere un minuto, por favor."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The minutes)",
+        "pt": "(Plural: Os minutos)",
+        "fr": "(Plural: Les minutes)",
+        "it": "(Plural: I minuti)",
+        "de": "(Plural: Die Minuten)"
+      }
+    },
+    {
+      "id": "t29",
+      "image_url": "",
+      "es": "El segundo",
+      "translations": {
+        "en": "The second",
+        "pt": "O segundo",
+        "fr": "La seconde",
+        "it": "Il secondo",
+        "de": "Die Sekunde"
+      },
+      "examples": {
+        "en": {
+          "text": "You have ten seconds.",
+          "es": "Tienes diez segundos."
+        },
+        "pt": {
+          "text": "Você tem dez segundos.",
+          "es": "Tienes diez segundos."
+        },
+        "fr": {
+          "text": "Tu as dix secondes.",
+          "es": "Tienes diez segundos."
+        },
+        "it": {
+          "text": "Hai dieci secondi.",
+          "es": "Tienes diez segundos."
+        },
+        "de": {
+          "text": "Du hast zehn Sekunden.",
+          "es": "Tienes diez segundos."
+        }
+      },
+      "notes": {
+        "es": "(Unidad de tiempo)",
+        "en": "(Plural: The seconds)",
+        "pt": "(Plural: Os segundos)",
+        "fr": "(Plural: Les secondes)",
+        "it": "(Plural: I secondi)",
+        "de": "(Plural: Die Sekunden)"
       }
     },
     {
@@ -1529,7 +2009,11 @@
         "en": "What time is it?",
         "pt": "Que horas são?",
         "fr": "Quelle heure est-il ?",
-        "it": "Che ora è? / Che ore sono?"
+        "it": "Che ora è? / Che ore sono?",
+        "de": "Wie spät ist es? / Wie viel Uhr ist es?"
+      },
+      "notes": {
+        "it": "Para responder, se dice È l'una pero Sono le due, etc."
       }
     },
     {
@@ -1540,7 +2024,11 @@
         "en": "It's one o'clock.",
         "pt": "É uma hora.",
         "fr": "Il est une heure.",
-        "it": "È l'una."
+        "it": "È l'una.",
+        "de": "Es ist ein Uhr."
+      },
+      "notes": {
+        "de": "Con Uhr se usa ein; sin Uhr se puede decir Es ist eins."
       }
     },
     {
@@ -1551,40 +2039,54 @@
         "en": "It's two o'clock.",
         "pt": "São duas horas.",
         "fr": "Il est deux heures.",
-        "it": "Sono le due."
+        "it": "Sono le due.",
+        "de": "Es ist zwei Uhr."
       }
     },
     {
       "id": "t142",
       "image_url": "",
-      "es": "Son las dos y cuarto (02:15).",
+      "es": "Son las dos y cuarto.",
       "translations": {
-        "en": "It's two fifteen / It's a quarter past two.",
+        "en": "It's two fifteen. / It's a quarter past two.",
         "pt": "São duas e quinze.",
         "fr": "Il est deux heures et quart.",
-        "it": "Sono le due e un quarto."
+        "it": "Sono le due e un quarto.",
+        "de": "Es ist Viertel nach zwei. / Es ist zwei Uhr fünfzehn."
+      },
+      "notes": {
+        "es": "(02:15)"
       }
     },
     {
       "id": "t143",
       "image_url": "",
-      "es": "Son las dos y media (02:30).",
+      "es": "Son las dos y media.",
       "translations": {
-        "en": "It's two thirty / It's half past two.",
+        "en": "It's two thirty. / It's half past two.",
         "pt": "São duas e meia.",
         "fr": "Il est deux heures et demie.",
-        "it": "Sono le due e mezza."
+        "it": "Sono le due e mezza.",
+        "de": "Es ist halb drei. / Es ist zwei Uhr dreißig."
+      },
+      "notes": {
+        "es": "(02:30)",
+        "de": "Halb drei cuenta hacia la hora que viene: significa 2:30, no 3:30."
       }
     },
     {
       "id": "t144",
       "image_url": "",
-      "es": "Son las tres menos cuarto / Es cuarto para las tres (02:45).",
+      "es": "Son las tres menos cuarto. / Es cuarto para las tres.",
       "translations": {
-        "en": "It's two forty-five / It's a quarter to three.",
-        "pt": "São duas e quarenta e cinco / São quinze para as três.",
+        "en": "It's two forty-five. / It's a quarter to three.",
+        "pt": "São duas e quarenta e cinco. / São quinze para as três.",
         "fr": "Il est trois heures moins le quart.",
-        "it": "Sono le tre meno un quarto."
+        "it": "Sono le tre meno un quarto.",
+        "de": "Es ist Viertel vor drei. / Es ist zwei Uhr fünfundvierzig."
+      },
+      "notes": {
+        "es": "(02:45) «Es cuarto para las tres» es habitual en México."
       }
     },
     {
@@ -1595,7 +2097,8 @@
         "en": "It's noon.",
         "pt": "É meio-dia.",
         "fr": "Il est midi.",
-        "it": "È mezzogiorno."
+        "it": "È mezzogiorno.",
+        "de": "Es ist zwölf Uhr mittags."
       }
     },
     {
@@ -1606,18 +2109,23 @@
         "en": "It's midnight.",
         "pt": "É meia-noite.",
         "fr": "Il est minuit.",
-        "it": "È mezzanotte."
+        "it": "È mezzanotte.",
+        "de": "Es ist Mitternacht."
       }
     },
     {
       "id": "t147",
       "image_url": "",
-      "es": "Son las doce y media (12:30).",
+      "es": "Son las doce y media del día.",
       "translations": {
-        "en": "It's twelve thirty p.m.",
+        "en": "It's twelve thirty in the afternoon.",
         "pt": "É meio-dia e meia.",
         "fr": "Il est midi et demi.",
-        "it": "È mezzogiorno e mezzo."
+        "it": "È mezzogiorno e mezzo.",
+        "de": "Es ist halb eins mittags. / Es ist zwölf Uhr dreißig."
+      },
+      "notes": {
+        "es": "(12:30)"
       }
     },
     {
@@ -1628,40 +2136,121 @@
         "en": "At what time?",
         "pt": "A que horas?",
         "fr": "À quelle heure ?",
-        "it": "A che ora?"
+        "it": "A che ora?",
+        "de": "Um wie viel Uhr?"
       }
     },
     {
       "id": "t149",
       "image_url": "",
-      "es": "A la una de la tarde (13:00)",
+      "es": "A la una de la tarde",
       "translations": {
-        "en": "At one p.m.",
+        "en": "At one in the afternoon",
         "pt": "À uma da tarde",
         "fr": "À une heure de l'après-midi",
-        "it": "All'una del pomeriggio"
+        "it": "All'una del pomeriggio",
+        "de": "Um ein Uhr nachmittags"
+      },
+      "examples": {
+        "en": {
+          "text": "Lunch is at one in the afternoon.",
+          "es": "La comida es a la una de la tarde."
+        },
+        "pt": {
+          "text": "O almoço é à uma da tarde.",
+          "es": "La comida es a la una de la tarde."
+        },
+        "fr": {
+          "text": "Le déjeuner est à une heure de l'après-midi.",
+          "es": "La comida es a la una de la tarde."
+        },
+        "it": {
+          "text": "Il pranzo è all'una del pomeriggio.",
+          "es": "La comida es a la una de la tarde."
+        },
+        "de": {
+          "text": "Das Mittagessen ist um ein Uhr nachmittags.",
+          "es": "La comida es a la una de la tarde."
+        }
+      },
+      "notes": {
+        "es": "(13:00)",
+        "en": "Abreviatura: p.m. (1 p.m. equivale a las 13:00)."
       }
     },
     {
       "id": "t150",
       "image_url": "",
-      "es": "A las ocho de la mañana (08:00)",
+      "es": "A las ocho de la mañana",
       "translations": {
-        "en": "At eight a.m.",
+        "en": "At eight in the morning",
         "pt": "Às oito da manhã",
         "fr": "À huit heures du matin",
-        "it": "Alle otto del mattino"
+        "it": "Alle otto del mattino",
+        "de": "Um acht Uhr morgens"
+      },
+      "examples": {
+        "en": {
+          "text": "Breakfast is at eight in the morning.",
+          "es": "El desayuno es a las ocho de la mañana."
+        },
+        "pt": {
+          "text": "O café da manhã é às oito da manhã.",
+          "es": "El desayuno es a las ocho de la mañana."
+        },
+        "fr": {
+          "text": "Le petit déjeuner est à huit heures du matin.",
+          "es": "El desayuno es a las ocho de la mañana."
+        },
+        "it": {
+          "text": "La colazione è alle otto del mattino.",
+          "es": "El desayuno es a las ocho de la mañana."
+        },
+        "de": {
+          "text": "Frühstück gibt es um acht Uhr morgens.",
+          "es": "El desayuno es a las ocho de la mañana."
+        }
+      },
+      "notes": {
+        "es": "(08:00)",
+        "en": "Abreviatura: a.m. (8 a.m. equivale a las 08:00)."
       }
     },
     {
       "id": "t151",
       "image_url": "",
-      "es": "A las ocho de la noche (20:00)",
+      "es": "A las ocho de la noche",
       "translations": {
-        "en": "At eight p.m.",
+        "en": "At eight in the evening",
         "pt": "Às oito da noite",
         "fr": "À huit heures du soir",
-        "it": "Alle otto di sera"
+        "it": "Alle otto di sera",
+        "de": "Um acht Uhr abends"
+      },
+      "examples": {
+        "en": {
+          "text": "It starts at eight in the evening.",
+          "es": "Empieza a las ocho de la noche."
+        },
+        "pt": {
+          "text": "Começa às oito da noite.",
+          "es": "Empieza a las ocho de la noche."
+        },
+        "fr": {
+          "text": "Ça commence à huit heures du soir.",
+          "es": "Empieza a las ocho de la noche."
+        },
+        "it": {
+          "text": "Comincia alle otto di sera.",
+          "es": "Empieza a las ocho de la noche."
+        },
+        "de": {
+          "text": "Es fängt um acht Uhr abends an.",
+          "es": "Empieza a las ocho de la noche."
+        }
+      },
+      "notes": {
+        "es": "(20:00)"
       }
     },
     {
@@ -1669,54 +2258,163 @@
       "image_url": "",
       "es": "De nueve de la mañana a cinco de la tarde",
       "translations": {
-        "en": "From nine a.m. to five p.m.",
+        "en": "From nine in the morning to five in the afternoon",
         "pt": "Das nove da manhã às cinco da tarde",
         "fr": "De neuf heures à dix-sept heures",
-        "it": "Dalle nove alle diciassette"
+        "it": "Dalle nove del mattino alle cinque del pomeriggio",
+        "de": "Von neun Uhr morgens bis fünf Uhr nachmittags"
+      },
+      "examples": {
+        "en": {
+          "text": "I work from nine in the morning to five in the afternoon.",
+          "es": "Trabajo de nueve de la mañana a cinco de la tarde."
+        },
+        "pt": {
+          "text": "Trabalho das nove da manhã às cinco da tarde.",
+          "es": "Trabajo de nueve de la mañana a cinco de la tarde."
+        },
+        "fr": {
+          "text": "Je travaille de neuf heures à dix-sept heures.",
+          "es": "Trabajo de nueve de la mañana a cinco de la tarde."
+        },
+        "it": {
+          "text": "Lavoro dalle nove del mattino alle cinque del pomeriggio.",
+          "es": "Trabajo de nueve de la mañana a cinco de la tarde."
+        },
+        "de": {
+          "text": "Ich arbeite von neun Uhr morgens bis fünf Uhr nachmittags.",
+          "es": "Trabajo de nueve de la mañana a cinco de la tarde."
+        }
       }
     },
     {
-      "id": "t153",
+      "id": "t104",
       "image_url": "",
-      "es": "¿Cuándo?",
+      "es": "En punto",
       "translations": {
-        "en": "When?",
-        "pt": "Quando?",
-        "fr": "Quand ?",
-        "it": "Quando?"
+        "en": "On the dot",
+        "pt": "Em ponto",
+        "fr": "Pile",
+        "it": "In punto",
+        "de": "Punkt"
+      },
+      "examples": {
+        "en": {
+          "text": "The class starts at eight on the dot.",
+          "es": "La clase empieza a las ocho en punto."
+        },
+        "pt": {
+          "text": "A aula começa às oito em ponto.",
+          "es": "La clase empieza a las ocho en punto."
+        },
+        "fr": {
+          "text": "Le cours commence à huit heures pile.",
+          "es": "La clase empieza a las ocho en punto."
+        },
+        "it": {
+          "text": "La lezione inizia alle otto in punto.",
+          "es": "La clase empieza a las ocho en punto."
+        },
+        "de": {
+          "text": "Der Kurs beginnt um Punkt acht.",
+          "es": "La clase empieza a las ocho en punto."
+        }
+      },
+      "notes": {
+        "es": "(Al indicar una hora exacta)"
       }
     },
     {
-      "id": "t154",
+      "id": "t105",
       "image_url": "",
-      "es": "¿Desde cuándo?",
+      "es": "Alrededor de las tres / Hacia las tres",
       "translations": {
-        "en": "Since when?",
-        "pt": "Desde quando?",
-        "fr": "Depuis quand ?",
-        "it": "Da quando?"
+        "en": "Around three",
+        "pt": "Por volta das três",
+        "fr": "Vers trois heures",
+        "it": "Verso le tre",
+        "de": "Gegen drei Uhr / Ungefähr um drei Uhr"
+      },
+      "examples": {
+        "en": {
+          "text": "I'll arrive around three.",
+          "es": "Llego alrededor de las tres."
+        },
+        "pt": {
+          "text": "Chego por volta das três.",
+          "es": "Llego alrededor de las tres."
+        },
+        "fr": {
+          "text": "J'arrive vers trois heures.",
+          "es": "Llego alrededor de las tres."
+        },
+        "it": {
+          "text": "Arrivo verso le tre.",
+          "es": "Llego alrededor de las tres."
+        },
+        "de": {
+          "text": "Ich komme gegen drei Uhr an.",
+          "es": "Llego alrededor de las tres."
+        }
+      },
+      "notes": {
+        "de": "Gegen indica aproximación en este contexto."
       }
     },
     {
-      "id": "t155",
+      "id": "t41",
       "image_url": "",
-      "es": "¿Hasta cuándo?",
+      "es": "La duración",
       "translations": {
-        "en": "Until when?",
-        "pt": "Até quando?",
-        "fr": "Jusqu'à quand ?",
-        "it": "Fino a quando?"
+        "en": "The duration",
+        "pt": "A duração",
+        "fr": "La durée",
+        "it": "La durata",
+        "de": "Die Dauer"
+      },
+      "examples": {
+        "en": {
+          "text": "The duration of the flight is three hours.",
+          "es": "La duración del vuelo es de tres horas."
+        },
+        "pt": {
+          "text": "A duração do voo é de três horas.",
+          "es": "La duración del vuelo es de tres horas."
+        },
+        "fr": {
+          "text": "La durée du vol est de trois heures.",
+          "es": "La duración del vuelo es de tres horas."
+        },
+        "it": {
+          "text": "La durata del volo è di tre ore.",
+          "es": "La duración del vuelo es de tres horas."
+        },
+        "de": {
+          "text": "Die Dauer des Flugs beträgt drei Stunden.",
+          "es": "La duración del vuelo es de tres horas."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The durations)",
+        "pt": "(Plural: As durações)",
+        "fr": "(Plural: Les durées)",
+        "it": "(Plural: Le durate)",
+        "de": "Se usa principalmente en singular para indicar cuánto dura algo."
       }
     },
     {
       "id": "t156",
       "image_url": "",
-      "es": "¿Cuánto tiempo? (duración)",
+      "es": "¿Cuánto tiempo?",
       "translations": {
         "en": "How long?",
         "pt": "Quanto tempo?",
         "fr": "Combien de temps ?",
-        "it": "Quanto tempo?"
+        "it": "Quanto tempo?",
+        "de": "Wie lange?"
+      },
+      "notes": {
+        "es": "(Duración)"
       }
     },
     {
@@ -1727,7 +2425,30 @@
         "en": "A quarter of an hour / Fifteen minutes",
         "pt": "Quinze minutos / Um quarto de hora",
         "fr": "Un quart d'heure / Quinze minutes",
-        "it": "Un quarto d'ora / Quindici minuti"
+        "it": "Un quarto d'ora / Quindici minuti",
+        "de": "Eine Viertelstunde / Fünfzehn Minuten"
+      },
+      "examples": {
+        "en": {
+          "text": "I'll be there in a quarter of an hour.",
+          "es": "Llego en un cuarto de hora."
+        },
+        "pt": {
+          "text": "Chego em quinze minutos.",
+          "es": "Llego en quince minutos."
+        },
+        "fr": {
+          "text": "J'arrive dans un quart d'heure.",
+          "es": "Llego en un cuarto de hora."
+        },
+        "it": {
+          "text": "Arrivo tra un quarto d'ora.",
+          "es": "Llego en un cuarto de hora."
+        },
+        "de": {
+          "text": "Ich bin in einer Viertelstunde da.",
+          "es": "Llego en un cuarto de hora."
+        }
       }
     },
     {
@@ -1738,7 +2459,30 @@
         "en": "Half an hour / Thirty minutes",
         "pt": "Meia hora / Trinta minutos",
         "fr": "Une demi-heure / Trente minutes",
-        "it": "Mezz'ora / Trenta minuti"
+        "it": "Mezz'ora / Trenta minuti",
+        "de": "Eine halbe Stunde / Dreißig Minuten"
+      },
+      "examples": {
+        "en": {
+          "text": "The break lasts half an hour.",
+          "es": "El descanso dura media hora."
+        },
+        "pt": {
+          "text": "O intervalo dura meia hora.",
+          "es": "El descanso dura media hora."
+        },
+        "fr": {
+          "text": "La pause dure une demi-heure.",
+          "es": "El descanso dura media hora."
+        },
+        "it": {
+          "text": "La pausa dura mezz'ora.",
+          "es": "El descanso dura media hora."
+        },
+        "de": {
+          "text": "Die Pause dauert eine halbe Stunde.",
+          "es": "El descanso dura media hora."
+        }
       }
     },
     {
@@ -1749,183 +2493,67 @@
         "en": "An hour and a half",
         "pt": "Uma hora e meia",
         "fr": "Une heure et demie",
-        "it": "Un'ora e mezza"
+        "it": "Un'ora e mezza",
+        "de": "Anderthalb Stunden / Eineinhalb Stunden"
+      },
+      "examples": {
+        "en": {
+          "text": "The movie is an hour and a half long.",
+          "es": "La película dura una hora y media."
+        },
+        "pt": {
+          "text": "O filme dura uma hora e meia.",
+          "es": "La película dura una hora y media."
+        },
+        "fr": {
+          "text": "Le film dure une heure et demie.",
+          "es": "La película dura una hora y media."
+        },
+        "it": {
+          "text": "Il film dura un'ora e mezza.",
+          "es": "La película dura una hora y media."
+        },
+        "de": {
+          "text": "Der Film dauert anderthalb Stunden.",
+          "es": "La película dura una hora y media."
+        }
       }
     },
     {
       "id": "t160",
       "image_url": "",
-      "es": "Durante dos horas (duración)",
+      "es": "Durante dos horas",
       "translations": {
         "en": "For two hours",
         "pt": "Por duas horas / Durante duas horas",
         "fr": "Pendant deux heures",
-        "it": "Per due ore"
-      }
-    },
-    {
-      "id": "t161",
-      "image_url": "",
-      "es": "Desde el lunes (punto de inicio)",
-      "translations": {
-        "en": "Since Monday",
-        "pt": "Desde segunda-feira",
-        "fr": "Depuis lundi",
-        "it": "Da lunedì"
-      }
-    },
-    {
-      "id": "t162",
-      "image_url": "",
-      "es": "Hasta el viernes (algo continúa hasta entonces)",
-      "translations": {
-        "en": "Until Friday",
-        "pt": "Até sexta-feira",
-        "fr": "Jusqu'à vendredi",
-        "it": "Fino a venerdì"
-      }
-    },
-    {
-      "id": "t163",
-      "image_url": "",
-      "es": "Por año / Al año (al expresar cantidades)",
-      "translations": {
-        "en": "Per year / A year",
-        "pt": "Por ano",
-        "fr": "Par an",
-        "it": "All'anno / Per anno"
-      }
-    },
-    {
-      "id": "t164",
-      "image_url": "",
-      "es": "Una cita (compromiso agendado)",
-      "translations": {
-        "en": "An appointment",
-        "pt": "Um compromisso marcado",
-        "fr": "Un rendez-vous",
-        "it": "Un appuntamento"
-      }
-    },
-    {
-      "id": "t165",
-      "image_url": "",
-      "es": "¿A qué hora empieza?",
-      "translations": {
-        "en": "What time does it start?",
-        "pt": "A que horas começa?",
-        "fr": "À quelle heure ça commence ?",
-        "it": "A che ora inizia?"
-      }
-    },
-    {
-      "id": "t166",
-      "image_url": "",
-      "es": "¿A qué hora termina?",
-      "translations": {
-        "en": "What time does it end?",
-        "pt": "A que horas termina?",
-        "fr": "À quelle heure ça se termine ?",
-        "it": "A che ora finisce?"
-      }
-    },
-    {
-      "id": "t167",
-      "image_url": "",
-      "es": "¿Cuánto dura?",
-      "translations": {
-        "en": "How long does it last?",
-        "pt": "Quanto tempo dura?",
-        "fr": "Combien de temps ça dure ?",
-        "it": "Quanto dura?"
-      }
-    },
-    {
-      "id": "t168",
-      "image_url": "",
-      "es": "¿Tienes tiempo?",
-      "translations": {
-        "en": "Do you have time?",
-        "pt": "Você tem tempo?",
-        "fr": "Est-ce que tu as du temps ?",
-        "it": "Hai tempo?"
-      }
-    },
-    {
-      "id": "t169",
-      "image_url": "",
-      "es": "No tengo tiempo.",
-      "translations": {
-        "en": "I don't have time.",
-        "pt": "Não tenho tempo.",
-        "fr": "Je n'ai pas le temps.",
-        "it": "Non ho tempo."
-      }
-    },
-    {
-      "id": "t170",
-      "image_url": "",
-      "es": "Tengo prisa.",
-      "translations": {
-        "en": "I'm in a hurry.",
-        "pt": "Estou com pressa.",
-        "fr": "Je suis pressé / pressée.",
-        "it": "Ho fretta."
-      }
-    },
-    {
-      "id": "t171",
-      "image_url": "",
-      "es": "Voy a llegar tarde.",
-      "translations": {
-        "en": "I'm going to be late.",
-        "pt": "Vou chegar atrasado / atrasada.",
-        "fr": "Je vais être en retard.",
-        "it": "Arriverò in ritardo."
-      }
-    },
-    {
-      "id": "t172",
-      "image_url": "",
-      "es": "¿Podemos vernos mañana?",
-      "translations": {
-        "en": "Can we meet tomorrow?",
-        "pt": "Podemos nos ver amanhã?",
-        "fr": "Est-ce qu'on peut se voir demain ?",
-        "it": "Possiamo vederci domani?"
-      }
-    },
-    {
-      "id": "t173",
-      "image_url": "",
-      "es": "Me viene bien esa hora.",
-      "translations": {
-        "en": "That time works for me.",
-        "pt": "Esse horário é bom para mim.",
-        "fr": "Cet horaire me convient.",
-        "it": "Quest'orario mi va bene."
-      }
-    },
-    {
-      "id": "t174",
-      "image_url": "",
-      "es": "A esa hora no puedo.",
-      "translations": {
-        "en": "I can't at that time.",
-        "pt": "Nesse horário não posso.",
-        "fr": "Je ne suis pas disponible à cette heure-là.",
-        "it": "A quell'ora non posso."
-      }
-    },
-    {
-      "id": "t175",
-      "image_url": "",
-      "es": "¿Podemos cambiar la hora?",
-      "translations": {
-        "en": "Can we change the time?",
-        "pt": "Podemos mudar o horário?",
-        "fr": "Est-ce qu'on peut changer l'heure ?",
-        "it": "Possiamo cambiare orario?"
+        "it": "Per due ore",
+        "de": "Zwei Stunden lang"
+      },
+      "examples": {
+        "en": {
+          "text": "I studied for two hours.",
+          "es": "Estudié durante dos horas."
+        },
+        "pt": {
+          "text": "Estudei por duas horas.",
+          "es": "Estudié durante dos horas."
+        },
+        "fr": {
+          "text": "J'ai étudié pendant deux heures.",
+          "es": "Estudié durante dos horas."
+        },
+        "it": {
+          "text": "Ho studiato per due ore.",
+          "es": "Estudié durante dos horas."
+        },
+        "de": {
+          "text": "Ich habe zwei Stunden lang gelernt.",
+          "es": "Estudié durante dos horas."
+        }
+      },
+      "notes": {
+        "es": "(Duración)"
       }
     }
   ]
