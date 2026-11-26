@@ -1,0 +1,801 @@
+{
+  "module": "Conexiones, equipaje e incidencias del vuelo",
+  "level": "A2",
+  "revisado": true,
+  "cards": [
+    {
+      "id": "ava_016",
+      "es": "El vuelo sin escalas",
+      "translations": {
+        "en": "The nonstop flight",
+        "pt": "O voo sem escalas",
+        "fr": "Le vol sans escale",
+        "it": "Il volo senza scalo",
+        "de": "Der Nonstopflug"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I chose the nonstop flight to get there earlier.",
+          "es": "Elegí el vuelo sin escalas para llegar más temprano."
+        },
+        "pt": {
+          "text": "Escolhi o voo sem escalas para chegar mais cedo.",
+          "es": "Elegí el vuelo sin escalas para llegar más temprano."
+        },
+        "fr": {
+          "text": "J'ai choisi le vol sans escale pour arriver plus tôt.",
+          "es": "Elegí el vuelo sin escalas para llegar más temprano."
+        },
+        "it": {
+          "text": "Ho scelto il volo senza scalo per arrivare prima.",
+          "es": "Elegí el vuelo sin escalas para llegar más temprano."
+        },
+        "de": {
+          "text": "Ich habe den Nonstopflug gewählt, um früher anzukommen.",
+          "es": "Elegí el vuelo sin escalas para llegar más temprano."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The nonstop flights)",
+        "pt": "(Plural: Os voos sem escalas)",
+        "fr": "(Plural: Les vols sans escale)",
+        "it": "(Plural: I voli senza scalo)",
+        "de": "(Plural: Die Nonstopflüge)",
+        "es": "Aquí se trata de un vuelo que no aterriza en un aeropuerto intermedio."
+      }
+    },
+    {
+      "id": "ava_017",
+      "es": "El vuelo con conexión",
+      "translations": {
+        "en": "The flight with a connection",
+        "pt": "O voo com conexão",
+        "fr": "Le vol avec correspondance",
+        "it": "Il volo con coincidenza",
+        "de": "Der Flug mit Umstieg"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The flight with a connection was cheaper than the nonstop flight.",
+          "es": "El vuelo con conexión era más barato que el vuelo sin escalas."
+        },
+        "pt": {
+          "text": "O voo com conexão era mais barato que o voo sem escalas.",
+          "es": "El vuelo con conexión era más barato que el vuelo sin escalas."
+        },
+        "fr": {
+          "text": "Le vol avec correspondance était moins cher que le vol sans escale.",
+          "es": "El vuelo con conexión era más barato que el vuelo sin escalas."
+        },
+        "it": {
+          "text": "Il volo con coincidenza costava meno del volo senza scalo.",
+          "es": "El vuelo con conexión era más barato que el vuelo sin escalas."
+        },
+        "de": {
+          "text": "Der Flug mit Umstieg war günstiger als der Nonstopflug.",
+          "es": "El vuelo con conexión era más barato que el vuelo sin escalas."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The flights with connections)",
+        "pt": "(Plural: Os voos com conexão)",
+        "fr": "(Plural: Les vols avec correspondance)",
+        "it": "(Plural: I voli con coincidenza)",
+        "de": "(Plural: Die Flüge mit Umstieg)"
+      }
+    },
+    {
+      "id": "ava_018",
+      "es": "La conexión por cuenta propia",
+      "translations": {
+        "en": "The self-transfer",
+        "pt": "A conexão por conta própria",
+        "fr": "La correspondance autonome",
+        "it": "La coincidenza autonoma",
+        "de": "Das Umsteigen in Eigenregie"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I left four hours between flights because it was a self-transfer.",
+          "es": "Dejé cuatro horas entre los vuelos porque la conexión era por mi cuenta."
+        },
+        "pt": {
+          "text": "Deixei quatro horas entre os voos porque a conexão era por conta própria.",
+          "es": "Dejé cuatro horas entre los vuelos porque la conexión era por mi cuenta."
+        },
+        "fr": {
+          "text": "J'ai prévu quatre heures entre les vols parce que la correspondance était autonome.",
+          "es": "Dejé cuatro horas entre los vuelos porque la conexión era por mi cuenta."
+        },
+        "it": {
+          "text": "Ho lasciato quattro ore tra i voli perché la coincidenza era autonoma.",
+          "es": "Dejé cuatro horas entre los vuelos porque la conexión era por mi cuenta."
+        },
+        "de": {
+          "text": "Ich habe vier Stunden zwischen den Flügen eingeplant, weil ich in Eigenregie umsteigen musste.",
+          "es": "Dejé cuatro horas entre los vuelos porque tenía que hacer la conexión por mi cuenta."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The self-transfers)",
+        "pt": "(Plural: As conexões por conta própria)",
+        "fr": "(Plural: Les correspondances autonomes)",
+        "it": "(Plural: Le coincidenze autonome)",
+        "es": "Aquí se trata de vuelos en reservas separadas que el viajero enlaza por su cuenta."
+      }
+    },
+    {
+      "id": "ava_019",
+      "es": "El vuelo nacional",
+      "translations": {
+        "en": "The domestic flight",
+        "pt": "O voo doméstico",
+        "fr": "Le vol intérieur",
+        "it": "Il volo nazionale",
+        "de": "Der Inlandsflug"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My domestic flight leaves Guadalajara and arrives in Mérida.",
+          "es": "Mi vuelo nacional sale de Guadalajara y llega a Mérida."
+        },
+        "pt": {
+          "text": "Meu voo doméstico sai de Guadalajara e chega a Mérida.",
+          "es": "Mi vuelo nacional sale de Guadalajara y llega a Mérida."
+        },
+        "fr": {
+          "text": "Mon vol intérieur part de Guadalajara et arrive à Mérida.",
+          "es": "Mi vuelo nacional sale de Guadalajara y llega a Mérida."
+        },
+        "it": {
+          "text": "Il mio volo nazionale parte da Guadalajara e arriva a Mérida.",
+          "es": "Mi vuelo nacional sale de Guadalajara y llega a Mérida."
+        },
+        "de": {
+          "text": "Mein Inlandsflug startet in Guadalajara und landet in Mérida.",
+          "es": "Mi vuelo nacional sale de Guadalajara y llega a Mérida."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The domestic flights)",
+        "pt": "(Plural: Os voos domésticos)",
+        "fr": "(Plural: Les vols intérieurs)",
+        "it": "(Plural: I voli nazionali)",
+        "de": "(Plural: Die Inlandsflüge)"
+      }
+    },
+    {
+      "id": "ava_200",
+      "image_url": "",
+      "es": "El vuelo internacional",
+      "translations": {
+        "en": "The international flight",
+        "pt": "O voo internacional",
+        "fr": "Le vol international",
+        "it": "Il volo internazionale",
+        "de": "Der internationale Flug"
+      },
+      "examples": {
+        "en": {
+          "text": "Their first international flight was to Canada.",
+          "es": "Su primer vuelo internacional fue a Canadá."
+        },
+        "pt": {
+          "text": "O primeiro voo internacional foi para o Canadá.",
+          "es": "Su primer vuelo internacional fue a Canadá."
+        },
+        "fr": {
+          "text": "Son premier vol international était à destination du Canada.",
+          "es": "Su primer vuelo internacional fue a Canadá."
+        },
+        "it": {
+          "text": "Il suo primo volo internazionale era diretto in Canada.",
+          "es": "Su primer vuelo internacional fue a Canadá."
+        },
+        "de": {
+          "text": "Ihr erster internationaler Flug ging nach Kanada.",
+          "es": "Su primer vuelo internacional fue a Canadá."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The international flights)",
+        "pt": "(Plural: Os voos internacionais)",
+        "fr": "(Plural: Les vols internationaux)",
+        "it": "(Plural: I voli internazionali)",
+        "de": "(Plural: Die internationalen Flüge)"
+      }
+    },
+    {
+      "id": "ava_163",
+      "es": "Tengo una conexión con otra aerolínea; ¿qué letreros debo seguir al llegar?",
+      "translations": {
+        "en": "I have a connection with another airline. Which signs should I follow when I arrive?",
+        "pt": "Tenho uma conexão com outra companhia aérea; quais placas devo seguir ao chegar?",
+        "fr": "J'ai une correspondance avec une autre compagnie aérienne ; quels panneaux dois-je suivre à l'arrivée ?",
+        "it": "Ho una coincidenza con un'altra compagnia aerea; quali indicazioni devo seguire all'arrivo?",
+        "de": "Mein Anschlussflug ist bei einer anderen Fluggesellschaft. Welchen Schildern soll ich nach der Landung folgen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_164",
+      "es": "Mis vuelos se reservaron por separado. ¿Tengo que volver a hacer el check-in?",
+      "translations": {
+        "en": "My flights are on separate bookings. Do I need to check in again?",
+        "pt": "Meus voos foram reservados separadamente. Preciso fazer o check-in de novo?",
+        "fr": "Mes vols ont été réservés séparément. Dois-je refaire l'enregistrement ?",
+        "it": "I miei voli sono stati prenotati separatamente. Devo rifare il check-in?",
+        "de": "Meine Flüge wurden getrennt gebucht. Muss ich noch einmal einchecken?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "«Hacer el check-in» también se dice «registrarse para el vuelo»."
+      }
+    },
+    {
+      "id": "ava_165",
+      "es": "¿Puedo permanecer en la zona de tránsito para esta conexión?",
+      "translations": {
+        "en": "Can I stay in the transit area for this connection?",
+        "pt": "Posso permanecer na área de trânsito para esta conexão?",
+        "fr": "Je peux rester dans la zone de transit pour cette correspondance ?",
+        "it": "Posso restare nella zona di transito per questa coincidenza?",
+        "de": "Kann ich für diesen Anschlussflug im Transitbereich bleiben?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_033",
+      "es": "¿Necesito recoger el equipaje durante la conexión y volver a documentarlo?",
+      "translations": {
+        "en": "Do I need to collect my baggage during the connection and check it again?",
+        "pt": "Preciso retirar a bagagem durante a conexão e despachar de novo?",
+        "fr": "Je dois récupérer mes bagages pendant la correspondance et les enregistrer à nouveau ?",
+        "it": "Devo ritirare il bagaglio durante lo scalo e imbarcarlo di nuovo?",
+        "de": "Muss ich mein Gepäck beim Umsteigen abholen und wieder aufgeben?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_166",
+      "es": "¿Necesito volver a pasar el control de seguridad?",
+      "translations": {
+        "en": "Do I need to go through security screening again?",
+        "pt": "Preciso passar pela inspeção de segurança de novo?",
+        "fr": "Je dois repasser le contrôle de sécurité ?",
+        "it": "Devo passare di nuovo il controllo di sicurezza?",
+        "de": "Muss ich noch einmal durch die Sicherheitskontrolle?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_167",
+      "es": "El siguiente vuelo sale de otra terminal; ¿cómo llego sin salir de la zona de tránsito?",
+      "translations": {
+        "en": "My next flight leaves from another terminal. How can I get there without leaving the transit area?",
+        "pt": "O próximo voo sai de outro terminal; como chego lá sem sair da área de trânsito?",
+        "fr": "Mon prochain vol part d'un autre terminal ; comment y aller sans quitter la zone de transit ?",
+        "it": "Il prossimo volo parte da un altro terminal; come ci arrivo senza uscire dalla zona di transito?",
+        "de": "Mein nächster Flug geht von einem anderen Terminal. Wie komme ich dorthin, ohne den Transitbereich zu verlassen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_168",
+      "es": "¿Esta conexión requiere cambiar de aeropuerto?",
+      "translations": {
+        "en": "Does this connection require changing airports?",
+        "pt": "Esta conexão exige mudar de aeroporto?",
+        "fr": "Cette correspondance nécessite de changer d'aéroport ?",
+        "it": "Questa coincidenza richiede di cambiare aeroporto?",
+        "de": "Muss ich für diesen Anschluss den Flughafen wechseln?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_169",
+      "es": "Solo tengo cuarenta minutos para hacer la conexión. ¿Pueden indicarme por dónde ir?",
+      "translations": {
+        "en": "I only have forty minutes for my connection. Can you show me the route?",
+        "pt": "Só tenho quarenta minutos para a conexão; podem me indicar o caminho?",
+        "fr": "J'ai seulement quarante minutes pour ma correspondance ; pouvez-vous m'indiquer le parcours ?",
+        "it": "Ho solo quaranta minuti per la coincidenza; potete indicarmi il percorso?",
+        "de": "Ich habe nur vierzig Minuten zum Umsteigen. Können Sie mir den Weg zeigen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_170",
+      "es": "Mi primer vuelo llegó tarde; ¿todavía puedo abordar el siguiente?",
+      "translations": {
+        "en": "My first flight arrived late. Can I still board the next one?",
+        "pt": "Meu primeiro voo chegou atrasado; ainda posso embarcar no próximo?",
+        "fr": "Mon premier vol est arrivé en retard ; je peux encore embarquer sur le suivant ?",
+        "it": "Il mio primo volo è arrivato in ritardo; posso ancora imbarcarmi sul prossimo?",
+        "de": "Mein erster Flug ist verspätet angekommen. Kann ich für den nächsten Flug noch an Bord gehen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_171",
+      "es": "Perdí mi vuelo de conexión. ¿Dónde me pueden ayudar a cambiar el vuelo?",
+      "translations": {
+        "en": "I missed my connecting flight. Where can I get help changing my flight?",
+        "pt": "Perdi minha conexão aérea; onde podem me ajudar a trocar o voo?",
+        "fr": "J'ai raté mon vol de correspondance. Où peut-on m'aider à changer de vol ?",
+        "it": "Ho perso il volo in coincidenza. Dove possono aiutarmi a cambiare volo?",
+        "de": "Ich habe meinen Anschlussflug verpasst. Wo kann man mir beim Umbuchen helfen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_172",
+      "es": "Con el cambio de vuelo, ¿también cambia el destino de mi equipaje?",
+      "translations": {
+        "en": "Will my baggage be rerouted as part of the flight change?",
+        "pt": "Com a alteração do voo, o destino da minha bagagem também muda?",
+        "fr": "Le changement de vol modifie-t-il aussi la destination de mes bagages ?",
+        "it": "Con il cambio di volo cambia anche la destinazione del mio bagaglio?",
+        "de": "Wird beim Umbuchen auch der Zielort meines Gepäcks geändert?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_173",
+      "es": "Me cambiaron al vuelo de mañana. ¿La aerolínea ofrece ayuda para pasar la noche?",
+      "translations": {
+        "en": "I've been rebooked on tomorrow's flight. Does the airline offer help with an overnight stay?",
+        "pt": "Mudaram minha reserva para o voo de amanhã. A companhia oferece ajuda para passar a noite?",
+        "fr": "On m'a replacé sur le vol de demain. La compagnie propose-t-elle une aide pour passer la nuit ?",
+        "it": "Mi hanno riprenotato sul volo di domani. La compagnia offre assistenza per il pernottamento?",
+        "de": "Ich wurde auf den Flug morgen umgebucht. Bietet die Fluggesellschaft Hilfe für die Übernachtung an?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_014",
+      "es": "La zona de recolección de equipaje",
+      "translations": {
+        "en": "The baggage claim area",
+        "pt": "A área de retirada de bagagem",
+        "fr": "La zone de récupération des bagages",
+        "it": "L'area di ritiro bagagli",
+        "de": "Die Gepäckausgabe"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "We followed the signs to the baggage claim area.",
+          "es": "Seguimos los letreros hasta la zona de recolección de equipaje."
+        },
+        "pt": {
+          "text": "Seguimos as placas até a área de retirada de bagagem.",
+          "es": "Seguimos los letreros hasta la zona de recolección de equipaje."
+        },
+        "fr": {
+          "text": "Nous avons suivi les panneaux jusqu'à la zone de récupération des bagages.",
+          "es": "Seguimos los letreros hasta la zona de recolección de equipaje."
+        },
+        "it": {
+          "text": "Abbiamo seguito le indicazioni fino all'area di ritiro bagagli.",
+          "es": "Seguimos los letreros hasta la zona de recolección de equipaje."
+        },
+        "de": {
+          "text": "Wir sind den Schildern bis zur Gepäckausgabe gefolgt.",
+          "es": "Seguimos los letreros hasta la zona de recolección de equipaje."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The baggage claim areas)",
+        "pt": "(Plural: As áreas de retirada de bagagem)",
+        "fr": "(Plural: Les zones de récupération des bagages)",
+        "it": "(Plural: Le aree di ritiro bagagli)",
+        "de": "(Plural: Die Gepäckausgaben)"
+      }
+    },
+    {
+      "id": "ava_015",
+      "es": "La banda de equipaje",
+      "translations": {
+        "en": "The baggage carousel",
+        "pt": "A esteira de bagagem",
+        "fr": "Le tapis à bagages",
+        "it": "Il nastro bagagli",
+        "de": "Das Gepäckband"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "My suitcase came out on baggage carousel number three.",
+          "es": "Mi maleta salió en la banda de equipaje número tres."
+        },
+        "pt": {
+          "text": "Minha mala saiu na esteira de bagagem número três.",
+          "es": "Mi maleta salió en la banda de equipaje número tres."
+        },
+        "fr": {
+          "text": "Ma valise est arrivée sur le tapis à bagages numéro trois.",
+          "es": "Mi maleta salió en la banda de equipaje número tres."
+        },
+        "it": {
+          "text": "La mia valigia è arrivata sul nastro bagagli numero tre.",
+          "es": "Mi maleta salió en la banda de equipaje número tres."
+        },
+        "de": {
+          "text": "Mein Koffer kam auf Gepäckband drei an.",
+          "es": "Mi maleta salió en la banda de equipaje número tres."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The baggage carousels)",
+        "pt": "(Plural: As esteiras de bagagem)",
+        "fr": "(Plural: Les tapis à bagages)",
+        "it": "(Plural: I nastri bagagli)",
+        "de": "(Plural: Die Gepäckbänder)",
+        "es": "Es la banda móvil donde aparecen las maletas al llegar."
+      }
+    },
+    {
+      "id": "ava_020",
+      "es": "El equipaje demorado",
+      "translations": {
+        "en": "Delayed baggage",
+        "pt": "A bagagem atrasada",
+        "fr": "Le bagage retardé",
+        "it": "Il bagaglio in ritardo",
+        "de": "Das verspätete Gepäck"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I asked at the counter about my delayed baggage.",
+          "es": "Pregunté en el mostrador por mi equipaje demorado."
+        },
+        "pt": {
+          "text": "Perguntei no balcão sobre minha bagagem atrasada.",
+          "es": "Pregunté en el mostrador por mi equipaje demorado."
+        },
+        "fr": {
+          "text": "J'ai demandé des nouvelles de mon bagage retardé au comptoir.",
+          "es": "Pregunté en el mostrador por mi equipaje demorado."
+        },
+        "it": {
+          "text": "Ho chiesto al banco notizie del mio bagaglio in ritardo.",
+          "es": "Pregunté en el mostrador por mi equipaje demorado."
+        },
+        "de": {
+          "text": "Am Schalter habe ich nach meinem verspäteten Gepäck gefragt.",
+          "es": "Pregunté en el mostrador por mi equipaje demorado."
+        }
+      },
+      "notes": {
+        "es": "El equipaje no llegó en el mismo vuelo que el pasajero."
+      }
+    },
+    {
+      "id": "ava_174",
+      "es": "¿En qué banda se entrega el equipaje de este vuelo?",
+      "translations": {
+        "en": "Which carousel will the baggage from this flight arrive on?",
+        "pt": "Em qual esteira será entregue a bagagem deste voo?",
+        "fr": "Sur quel tapis arrivent les bagages de ce vol ?",
+        "it": "Su quale nastro arrivano i bagagli di questo volo?",
+        "de": "Auf welchem Gepäckband kommt das Gepäck von diesem Flug an?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_175",
+      "es": "Ya terminó la entrega de equipaje, pero mi maleta no salió.",
+      "translations": {
+        "en": "The bags are done coming out, but my suitcase didn't show up.",
+        "pt": "A entrega de bagagens terminou, mas minha mala não apareceu.",
+        "fr": "La livraison des bagages est terminée, mais ma valise n'est pas arrivée.",
+        "it": "La consegna dei bagagli è finita, ma la mia valigia non è arrivata.",
+        "de": "Die Gepäckausgabe ist beendet, aber mein Koffer war nicht dabei."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_176",
+      "es": "¿Dónde reporto una maleta que no llegó con mi vuelo?",
+      "translations": {
+        "en": "Where do I report a bag that didn't arrive on my flight?",
+        "pt": "Onde informo que minha mala não chegou no meu voo?",
+        "fr": "Où dois-je signaler une valise qui n'est pas arrivée avec mon vol ?",
+        "it": "Dove segnalo una valigia che non è arrivata con il mio volo?",
+        "de": "Wo melde ich, dass mein Koffer mit diesem Flug nicht angekommen ist?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_177",
+      "es": "Este es el comprobante de mi maleta; el número de etiqueta aparece aquí.",
+      "translations": {
+        "en": "This is my baggage claim receipt. The baggage tag number is here.",
+        "pt": "Este é o comprovante da minha mala; o número da etiqueta está aqui.",
+        "fr": "Voici mon reçu de bagage. Le numéro de l'étiquette est ici.",
+        "it": "Questo è il mio talloncino bagaglio. Qui c'è il numero dell'etichetta.",
+        "de": "Das ist mein Gepäckbeleg. Hier steht die Nummer des Gepäckanhängers."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Comprobante que identifica el equipaje documentado; aquí no es un recibo de pago."
+      }
+    },
+    {
+      "id": "ava_178",
+      "es": "Es una maleta azul de tamaño mediano con una cinta roja.",
+      "translations": {
+        "en": "It's a medium-sized blue suitcase with a red ribbon.",
+        "pt": "É uma mala azul de tamanho médio com uma fita vermelha.",
+        "fr": "C'est une valise bleue de taille moyenne avec un ruban rouge.",
+        "it": "È una valigia blu di dimensioni medie con un nastro rosso.",
+        "de": "Das ist ein mittelgroßer blauer Koffer mit einem roten Band."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Ejemplo de descripción de una maleta)"
+      }
+    },
+    {
+      "id": "ava_179",
+      "es": "Mi maleta llegó con una rueda rota; ¿pueden registrar el daño?",
+      "translations": {
+        "en": "My bag arrived with a broken wheel. Can you record the damage?",
+        "pt": "Minha mala chegou com uma roda quebrada; podem registrar o dano?",
+        "fr": "Ma valise est arrivée avec une roulette cassée. Pouvez-vous noter le dommage ?",
+        "it": "La mia valigia è arrivata con una ruota rotta; potete registrare il danno?",
+        "de": "Mein Koffer ist mit einer kaputten Rolle angekommen. Können Sie den Schaden aufnehmen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_180",
+      "es": "¿Debo hacer el reporte antes de salir de esta zona?",
+      "translations": {
+        "en": "Do I need to file the report before leaving this area?",
+        "pt": "Preciso fazer o registro antes de sair desta área?",
+        "fr": "Je dois faire la déclaration avant de quitter cette zone ?",
+        "it": "Devo fare la segnalazione prima di uscire da questa zona?",
+        "de": "Muss ich die Meldung machen, bevor ich diesen Bereich verlasse?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_181",
+      "es": "¿Puede darme el número de reporte y una copia del documento?",
+      "translations": {
+        "en": "Can you give me the report number and a copy of the document?",
+        "pt": "Pode me dar o número do registro e uma cópia do documento?",
+        "fr": "Pouvez-vous me donner le numéro du dossier et une copie du document ?",
+        "it": "Può darmi il numero della segnalazione e una copia del documento?",
+        "de": "Können Sie mir die Vorgangsnummer und eine Kopie des Dokuments geben?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_182",
+      "es": "¿Cómo puedo consultar el estado de la búsqueda de mi maleta?",
+      "translations": {
+        "en": "How can I track the search for my bag?",
+        "pt": "Como posso consultar o andamento da busca pela minha mala?",
+        "fr": "Comment puis-je suivre la recherche de ma valise ?",
+        "it": "Come posso sapere a che punto è la ricerca della mia valigia?",
+        "de": "Wie kann ich nachsehen, wie weit die Suche nach meinem Koffer ist?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_183",
+      "es": "¿La entregarán en mi hotel o debo volver al aeropuerto?",
+      "translations": {
+        "en": "Will you deliver it to my hotel, or do I need to return to the airport?",
+        "pt": "Vão entregar no meu hotel ou preciso voltar ao aeroporto?",
+        "fr": "Vous la livrerez à mon hôtel ou je dois revenir à l'aéroport ?",
+        "it": "La consegnerete al mio hotel o devo tornare in aeroporto?",
+        "de": "Wird der Koffer in mein Hotel geliefert oder muss ich zum Flughafen zurück?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_184",
+      "es": "Cambiaré de hotel mañana; esta será mi nueva dirección.",
+      "translations": {
+        "en": "I'm changing hotels tomorrow. This will be my new address.",
+        "pt": "Vou mudar de hotel amanhã; este será meu novo endereço.",
+        "fr": "Je change d'hôtel demain. Voici ma nouvelle adresse.",
+        "it": "Domani cambio hotel; questo sarà il mio nuovo indirizzo.",
+        "de": "Ich wechsle morgen das Hotel. Das ist meine neue Adresse."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_185",
+      "es": "Necesito comprar artículos básicos mientras espero mi equipaje. ¿Cómo debo proceder?",
+      "translations": {
+        "en": "I need to buy essentials while I wait for my baggage. What procedure should I follow?",
+        "pt": "Preciso comprar itens básicos enquanto espero minha bagagem; qual procedimento devo seguir?",
+        "fr": "Je dois acheter des articles essentiels en attendant mes bagages ; quelle procédure dois-je suivre ?",
+        "it": "Devo comprare articoli essenziali mentre aspetto il bagaglio; quale procedura devo seguire?",
+        "de": "Ich muss ein paar Dinge für den täglichen Bedarf kaufen, während ich auf mein Gepäck warte. Wie soll ich dabei vorgehen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_186",
+      "es": "Creo que alguien tomó mi maleta por error; esta otra no es mía.",
+      "translations": {
+        "en": "I think someone took my suitcase by mistake. This other one isn't mine.",
+        "pt": "Acho que alguém pegou minha mala por engano; esta outra não é minha.",
+        "fr": "Je pense que quelqu'un a pris ma valise par erreur ; celle-ci n'est pas à moi.",
+        "it": "Credo che qualcuno abbia preso la mia valigia per errore; questa non è mia.",
+        "de": "Ich glaube, jemand hat meinen Koffer versehentlich mitgenommen. Dieser hier ist nicht meiner."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_187",
+      "es": "Olvidé un objeto en el avión; tengo el número de vuelo y mi asiento.",
+      "translations": {
+        "en": "I left an item on the plane. I have the flight number and my seat number.",
+        "pt": "Esqueci um objeto no avião; tenho o número do voo e do meu assento.",
+        "fr": "J'ai oublié un objet dans l'avion ; j'ai le numéro du vol et de mon siège.",
+        "it": "Ho dimenticato un oggetto sull'aereo; ho il numero del volo e del posto.",
+        "de": "Ich habe etwas im Flugzeug vergessen. Ich habe die Flugnummer und meine Sitzplatznummer."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_188",
+      "es": "¿El retraso afecta solo la salida o también mi conexión?",
+      "translations": {
+        "en": "Does the delay affect only the departure or also my connection?",
+        "pt": "O atraso afeta só a saída ou também minha conexão?",
+        "fr": "Le retard concerne seulement le départ ou aussi ma correspondance ?",
+        "it": "Il ritardo riguarda solo la partenza o anche la mia coincidenza?",
+        "de": "Betrifft die Verspätung nur den Abflug oder auch meinen Anschlussflug?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_189",
+      "es": "¿A qué hora está prevista ahora la salida?",
+      "translations": {
+        "en": "What is the new estimated departure time?",
+        "pt": "Qual é o novo horário previsto de saída?",
+        "fr": "Quelle est la nouvelle heure de départ prévue ?",
+        "it": "Qual è il nuovo orario previsto di partenza?",
+        "de": "Was ist die neue voraussichtliche Abflugzeit?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_190",
+      "es": "¿Debemos permanecer cerca de la puerta mientras esperamos información?",
+      "translations": {
+        "en": "Should we stay near the gate while we wait for information?",
+        "pt": "Devemos ficar perto do portão enquanto esperamos informações?",
+        "fr": "Doit-on rester près de la porte en attendant d'en savoir plus ?",
+        "it": "Dobbiamo restare vicino al gate mentre aspettiamo informazioni?",
+        "de": "Sollen wir in der Nähe des Gates bleiben, bis wir mehr erfahren?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_191",
+      "es": "Cancelaron mi vuelo. ¿Qué otros vuelos me pueden ofrecer?",
+      "translations": {
+        "en": "My flight was canceled. What other flights can you offer me?",
+        "pt": "Meu voo foi cancelado. Que outros voos vocês podem me oferecer?",
+        "fr": "Mon vol a été annulé. Quels autres vols pouvez-vous me proposer ?",
+        "it": "Il mio volo è stato cancellato. Quali altri voli mi potete offrire?",
+        "de": "Mein Flug wurde annulliert. Welche anderen Flüge können Sie mir anbieten?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_192",
+      "es": "¿Puedo elegir entre tomar otro vuelo y pedir un reembolso?",
+      "translations": {
+        "en": "Can I choose between taking another flight and requesting a refund?",
+        "pt": "Posso escolher entre pegar outro voo e pedir um reembolso?",
+        "fr": "Puis-je choisir entre prendre un autre vol et demander un remboursement ?",
+        "it": "Posso scegliere se prendere un altro volo o chiedere un rimborso?",
+        "de": "Kann ich zwischen einem anderen Flug und einer Rückerstattung wählen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_193",
+      "es": "¿El vuelo alternativo sale del mismo aeropuerto?",
+      "translations": {
+        "en": "Does the alternative flight leave from the same airport?",
+        "pt": "O voo alternativo sai do mesmo aeroporto?",
+        "fr": "Le vol de remplacement part du même aéroport ?",
+        "it": "Il volo alternativo parte dallo stesso aeroporto?",
+        "de": "Startet der Ersatzflug am selben Flughafen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_194",
+      "es": "¿Mi equipaje documentado viajará en el nuevo vuelo?",
+      "translations": {
+        "en": "Will my checked baggage travel on the new flight?",
+        "pt": "Minha bagagem despachada vai viajar no novo voo?",
+        "fr": "Mes bagages en soute voyageront sur le nouveau vol ?",
+        "it": "Il mio bagaglio da stiva viaggerà sul nuovo volo?",
+        "de": "Wird mein aufgegebenes Gepäck mit dem neuen Flug befördert?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_195",
+      "es": "¿Pueden enviarme el nuevo itinerario y los pases de abordar?",
+      "translations": {
+        "en": "Can you send me the new itinerary and boarding passes?",
+        "pt": "Podem me enviar o novo itinerário e os cartões de embarque?",
+        "fr": "Pouvez-vous m'envoyer le nouvel itinéraire et les cartes d'embarquement ?",
+        "it": "Potete inviarmi il nuovo itinerario e le carte d'imbarco?",
+        "de": "Können Sie mir den neuen Reiseplan und die Bordkarten schicken?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_196",
+      "es": "Mi reservación aparece, pero no tengo asiento asignado. ¿Qué significa?",
+      "translations": {
+        "en": "My booking appears, but I don't have a seat assignment. What does that mean?",
+        "pt": "Minha reserva aparece, mas não tenho assento definido; o que isso significa?",
+        "fr": "Ma réservation apparaît, mais je n'ai pas de siège attribué ; qu'est-ce que cela signifie ?",
+        "it": "La mia prenotazione compare, ma non ho un posto assegnato; che cosa significa?",
+        "de": "Meine Buchung wird angezeigt, aber mir wurde kein Sitzplatz zugeteilt. Was bedeutet das?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_197",
+      "es": "Me dijeron que el vuelo está sobrevendido. ¿Qué opciones me ofrecen?",
+      "translations": {
+        "en": "I was told the flight is overbooked. What options can you offer me?",
+        "pt": "Disseram que o voo está com overbooking. Que opções vocês podem me oferecer?",
+        "fr": "On m'a dit que le vol est en surréservation ; quelles options pouvez-vous me proposer ?",
+        "it": "Mi hanno detto che il volo è in overbooking; quali opzioni mi offrite?",
+        "de": "Mir wurde gesagt, dass der Flug überbucht ist. Welche Möglichkeiten können Sie mir anbieten?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "«Sobreventa» o «sobrevendido» se refiere a que se vendieron más lugares que los disponibles."
+      }
+    },
+    {
+      "id": "ava_198",
+      "es": "Antes de aceptar el cambio, necesito confirmar cuándo llegaré a mi destino.",
+      "translations": {
+        "en": "Before accepting the change, I need to confirm when I'll arrive at my destination.",
+        "pt": "Antes de aceitar a alteração, preciso confirmar quando chegarei ao meu destino.",
+        "fr": "Avant d'accepter le changement, je dois confirmer quand j'arriverai à destination.",
+        "it": "Prima di accettare il cambio, devo confermare quando arriverò a destinazione.",
+        "de": "Bevor ich der Umbuchung zustimme, muss ich wissen, wann ich am Ziel ankomme."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ava_199",
+      "es": "¿Cómo puedo contactar a la aerolínea después de salir del aeropuerto?",
+      "translations": {
+        "en": "How can I contact the airline after leaving the airport?",
+        "pt": "Como posso entrar em contato com a companhia aérea depois de sair do aeroporto?",
+        "fr": "Comment puis-je contacter la compagnie aérienne après avoir quitté l'aéroport ?",
+        "it": "Come posso contattare la compagnia aerea una volta fuori dall'aeroporto?",
+        "de": "Wie kann ich die Fluggesellschaft kontaktieren, nachdem ich den Flughafen verlassen habe?"
+      },
+      "image_url": ""
+    }
+  ]
+}
