@@ -73,7 +73,7 @@
           "es": "La carta de bebidas incluye limonada casera."
         },
         "fr": {
-          "text": "La carte des boissons propose de la limonade maison.",
+          "text": "La carte des boissons propose de la citronnade maison.",
           "es": "La carta de bebidas incluye limonada casera."
         },
         "it": {
@@ -81,7 +81,7 @@
           "es": "La carta de bebidas incluye limonada casera."
         },
         "de": {
-          "text": "Die Getränkekarte enthält hausgemachte Limonade.",
+          "text": "Auf der Getränkekarte steht hausgemachte Zitronenlimonade.",
           "es": "La carta de bebidas incluye limonada casera."
         }
       }
@@ -372,6 +372,48 @@
       }
     },
     {
+      "id": "rm97",
+      "es": "El aperitivo",
+      "translations": {
+        "en": "The aperitif",
+        "pt": "O aperitivo",
+        "fr": "L'apéritif",
+        "it": "L'aperitivo",
+        "de": "Der Aperitif"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(En esta tarjeta, bebida que se sirve antes de comer, no un platillo)",
+        "en": "(Plural: The aperitifs)",
+        "pt": "(Plural: Os aperitivos)",
+        "fr": "(Plural: Les apéritifs)",
+        "it": "(Plural: Gli aperitivi)",
+        "de": "(Plural: Die Aperitifs)"
+      },
+      "examples": {
+        "en": {
+          "text": "The aperitif is served before dinner.",
+          "es": "El aperitivo se sirve antes de la cena."
+        },
+        "pt": {
+          "text": "O aperitivo é servido antes do jantar.",
+          "es": "El aperitivo se sirve antes de la cena."
+        },
+        "fr": {
+          "text": "L'apéritif est servi avant le dîner.",
+          "es": "El aperitivo se sirve antes de la cena."
+        },
+        "it": {
+          "text": "L'aperitivo viene servito prima di cena.",
+          "es": "El aperitivo se sirve antes de la cena."
+        },
+        "de": {
+          "text": "Der Aperitif wird vor dem Abendessen serviert.",
+          "es": "El aperitivo se sirve antes de la cena."
+        }
+      }
+    },
+    {
       "id": "rm90",
       "es": "La entrada",
       "translations": {
@@ -615,8 +657,8 @@
           "es": "El postre es de chocolate."
         },
         "de": {
-          "text": "Das Dessert ist aus Schokolade.",
-          "es": "El postre es de chocolate."
+          "text": "Das Dessert wird mit Schokolade zubereitet.",
+          "es": "El postre se prepara con chocolate."
         }
       }
     },
@@ -658,48 +700,6 @@
         "de": {
           "text": "Das Getränk ist im Menü inbegriffen.",
           "es": "La bebida está incluida en el menú."
-        }
-      }
-    },
-    {
-      "id": "rm97",
-      "es": "El aperitivo",
-      "translations": {
-        "en": "The aperitif",
-        "pt": "O aperitivo",
-        "fr": "L'apéritif",
-        "it": "L'aperitivo",
-        "de": "Der Aperitif"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(En esta tarjeta, bebida que se sirve antes de comer, no un platillo)",
-        "en": "(Plural: The aperitifs)",
-        "pt": "(Plural: Os aperitivos)",
-        "fr": "(Plural: Les apéritifs)",
-        "it": "(Plural: Gli aperitivi)",
-        "de": "(Plural: Die Aperitifs)"
-      },
-      "examples": {
-        "en": {
-          "text": "The aperitif is served before dinner.",
-          "es": "El aperitivo se sirve antes de la cena."
-        },
-        "pt": {
-          "text": "O aperitivo é servido antes do jantar.",
-          "es": "El aperitivo se sirve antes de la cena."
-        },
-        "fr": {
-          "text": "L'apéritif est servi avant le dîner.",
-          "es": "El aperitivo se sirve antes de la cena."
-        },
-        "it": {
-          "text": "L'aperitivo viene servito prima di cena.",
-          "es": "El aperitivo se sirve antes de la cena."
-        },
-        "de": {
-          "text": "Der Aperitif wird vor dem Abendessen serviert.",
-          "es": "El aperitivo se sirve antes de la cena."
         }
       }
     },
@@ -774,14 +774,14 @@
         },
         "fr": {
           "text": "Le déjeuner commence à treize heures.",
-          "es": "La comida del mediodía empieza a las trece horas."
+          "es": "La comida del mediodía empieza a la una de la tarde."
         },
         "it": {
           "text": "Il pranzo inizia all'una.",
           "es": "La comida del mediodía empieza a la una."
         },
         "de": {
-          "text": "Das Mittagessen beginnt um ein Uhr.",
+          "text": "Das Mittagessen beginnt um 13 Uhr.",
           "es": "La comida del mediodía empieza a la una."
         }
       }
@@ -953,6 +953,48 @@
       }
     },
     {
+      "id": "rm26",
+      "es": "El platillo para compartir",
+      "translations": {
+        "en": "The dish to share",
+        "pt": "O prato para compartilhar",
+        "fr": "Le plat à partager",
+        "it": "Il piatto da condividere",
+        "de": "Das Gericht zum Teilen"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Comida que se pide para compartir entre varias personas)",
+        "en": "(Plural: The dishes to share)",
+        "pt": "(Plural: Os pratos para compartilhar)",
+        "fr": "(Plural: Les plats à partager)",
+        "it": "(Plural: I piatti da condividere)",
+        "de": "(Plural: Die Gerichte zum Teilen)"
+      },
+      "examples": {
+        "en": {
+          "text": "Do you have a dish to share for the four of us?",
+          "es": "¿Tienen algún platillo que podamos compartir entre los cuatro?"
+        },
+        "pt": {
+          "text": "Vocês têm um prato para compartilhar para nós quatro?",
+          "es": "¿Tienen algún platillo que podamos compartir entre los cuatro?"
+        },
+        "fr": {
+          "text": "Vous avez un plat à partager pour nous quatre ?",
+          "es": "¿Tienen algún platillo que podamos compartir entre los cuatro?"
+        },
+        "it": {
+          "text": "Avete un piatto da condividere per noi quattro?",
+          "es": "¿Tienen algún platillo que podamos compartir entre los cuatro?"
+        },
+        "de": {
+          "text": "Haben Sie ein Gericht zum Teilen für uns vier?",
+          "es": "¿Tienen algún platillo que podamos compartir entre los cuatro?"
+        }
+      }
+    },
+    {
       "id": "rm104",
       "es": "La porción",
       "translations": {
@@ -1100,7 +1142,7 @@
         },
         "pt": {
           "text": "O molho vem à parte para a salada não murchar.",
-          "es": "La salsa va aparte para que la ensalada no se aguade."
+          "es": "La salsa va aparte para que la ensalada no se marchite."
         },
         "fr": {
           "text": "La sauce est servie à part pour que la salade reste croquante.",
@@ -1108,7 +1150,7 @@
         },
         "it": {
           "text": "La salsa è servita a parte perché l'insalata non perda la sua croccantezza.",
-          "es": "La salsa va aparte para que la ensalada no se aguade."
+          "es": "La salsa va aparte para que la ensalada no pierda lo crujiente."
         },
         "de": {
           "text": "Die Soße wird separat serviert, damit der Salat nicht matschig wird.",
@@ -1141,7 +1183,7 @@
         },
         "pt": {
           "text": "O molho para salada leva limão e azeite.",
-          "es": "El aderezo para ensalada lleva limón y aceite."
+          "es": "El aderezo para ensalada lleva limón y aceite de oliva."
         },
         "fr": {
           "text": "La sauce pour salade contient du citron et de l'huile.",
@@ -2308,7 +2350,7 @@
     },
     {
       "id": "rm281",
-      "es": "¿Este bufé permite servirse varias veces?",
+      "es": "¿En este bufé podemos servirnos todas las veces que queramos?",
       "translations": {
         "en": "Is this buffet all-you-can-eat?",
         "pt": "Este bufê é à vontade?",
@@ -2382,13 +2424,16 @@
       "id": "rm287",
       "es": "Quisiera pedir [platillo], por favor. / Voy a pedir [platillo], por favor.",
       "translations": {
-        "en": "I'd like to order the [dish], please. / I'll have the [dish], please.",
+        "en": "I'd like to order [dish], please. / I'll have [dish], please.",
         "pt": "Gostaria de pedir [prato], por favor. / Vou querer [prato], por favor.",
         "fr": "Je voudrais commander [plat], s'il vous plaît. / Je prendrai [plat], s'il vous plaît.",
         "it": "Vorrei ordinare [piatto], per favore. / Prendo [piatto], per favore.",
         "de": "Ich würde gern [Gericht] bestellen, bitte. / Ich nehme [Gericht], bitte."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Sustituye [dish] por el nombre y, si corresponde, el artículo o la cantidad: «a salad», «the salmon», «some soup»."
+      }
     },
     {
       "id": "rm288",
@@ -2600,9 +2645,9 @@
       "translations": {
         "en": "These are today's specials.",
         "pt": "Hoje temos estes pratos especiais.",
-        "fr": "Voici nos plats du jour.",
+        "fr": "Voici nos suggestions du jour.",
         "it": "Questi sono i piatti speciali di oggi.",
-        "de": "Das sind unsere Tagesgerichte."
+        "de": "Das sind unsere Empfehlungen für heute."
       },
       "image_url": ""
     },

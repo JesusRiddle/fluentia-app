@@ -68,12 +68,12 @@
           "es": "Con una tapa con abertura para beber puedo beber sin quitar la tapa."
         },
         "pt": {
-          "text": "A tampa com abertura para beber deixa tomar o café sem tirar a tampa.",
+          "text": "A tampa com abertura para beber permite tomar o café sem tirá-la.",
           "es": "La tapa con abertura para beber permite tomar el café sin quitarla."
         },
         "fr": {
-          "text": "Je peux boire par l'ouverture du couvercle sans l'enlever.",
-          "es": "Con una tapa con abertura para beber puedo beber sin quitar la tapa."
+          "text": "Ce couvercle a une ouverture pour boire : pas besoin de l'enlever.",
+          "es": "Esta tapa tiene una abertura para beber: no hace falta quitarla."
         },
         "it": {
           "text": "Con un coperchio con apertura per bere, posso bere senza toglierlo.",
@@ -534,23 +534,23 @@
       "examples": {
         "en": {
           "text": "I try the cold foam on top of my iced coffee.",
-          "es": "Pruebo la espuma fría sobre el café con hielo."
+          "es": "Pruebo la espuma fría sobre mi café con hielo."
         },
         "pt": {
-          "text": "Provo a espuma fria em cima do meu café gelado.",
-          "es": "Pruebo la espuma fría sobre el café con hielo."
+          "text": "Provo a espuma fria em cima do meu café com gelo.",
+          "es": "Pruebo la espuma fría sobre mi café con hielo."
         },
         "fr": {
-          "text": "Je goûte la mousse froide sur mon café glacé.",
-          "es": "Pruebo la espuma fría sobre el café con hielo."
+          "text": "Je goûte la mousse froide sur mon café avec des glaçons.",
+          "es": "Pruebo la espuma fría sobre mi café con hielo."
         },
         "it": {
-          "text": "Provo la schiuma fredda sopra il mio caffè freddo.",
-          "es": "Pruebo la espuma fría sobre el café con hielo."
+          "text": "Provo la schiuma fredda sopra il mio caffè con ghiaccio.",
+          "es": "Pruebo la espuma fría sobre mi café con hielo."
         },
         "de": {
           "text": "Ich probiere den kalten Milchschaum auf meinem Kaffee mit Eiswürfeln.",
-          "es": "Pruebo la espuma fría sobre el café con hielo."
+          "es": "Pruebo la espuma fría sobre mi café con hielo."
         }
       }
     },
@@ -683,7 +683,12 @@
       },
       "image_url": "",
       "notes": {
-        "es": "(Una pulsación del dispensador)"
+        "es": "(Una pulsación del dispensador)",
+        "en": "(Plural: The pumps of syrup)",
+        "pt": "(Plural: As doses de xarope)",
+        "fr": "(Plural: Les doses de sirop)",
+        "it": "(Plural: Le dosi di sciroppo)",
+        "de": "(Plural: Die Pumpstöße Sirup)"
       },
       "examples": {
         "en": {
@@ -785,8 +790,8 @@
           "es": "Sirvo el café helado con jarabe de caramelo."
         },
         "de": {
-          "text": "Ich serviere Eiskaffee mit Karamellsirup.",
-          "es": "Sirvo el café helado con jarabe de caramelo."
+          "text": "Ich serviere kalten Kaffee mit Eiswürfeln und Karamellsirup.",
+          "es": "Sirvo café con hielo y jarabe de caramelo."
         }
       }
     },
@@ -1126,30 +1131,6 @@
       }
     },
     {
-      "id": "cfr131",
-      "es": "Quisiera un latte mediano con bebida de avena, para llevar.",
-      "translations": {
-        "en": "I'd like a medium latte with oat milk, to go.",
-        "pt": "Gostaria de um latte médio com bebida de aveia, para viagem.",
-        "fr": "Je voudrais un latte moyen avec une boisson à l'avoine, à emporter.",
-        "it": "Vorrei un caffellatte medio con bevanda d'avena, da asporto.",
-        "de": "Ich hätte gern einen mittelgroßen Latte mit Haferdrink zum Mitnehmen."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "cfr132",
-      "es": "¿Puedo pedir dos bebidas con leches diferentes?",
-      "translations": {
-        "en": "Can I order two drinks with different types of milk?",
-        "pt": "Posso pedir duas bebidas com tipos de leite diferentes?",
-        "fr": "Puis-je commander deux boissons avec des types de lait différents ?",
-        "it": "Posso ordinare due bevande con tipi di latte diversi?",
-        "de": "Kann ich zwei Getränke mit unterschiedlicher Milch bestellen?"
-      },
-      "image_url": ""
-    },
-    {
       "id": "cfr145",
       "es": "¿Me puede mostrar los tamaños de los vasos?",
       "translations": {
@@ -1249,9 +1230,9 @@
       "id": "cfr152",
       "es": "¿El vaso de este tamaño es igual para bebidas calientes y frías?",
       "translations": {
-        "en": "Is the cup for this size the same for hot and iced drinks?",
+        "en": "Is the cup for this size the same for hot and cold drinks?",
         "pt": "O copo desse tamanho é igual para bebidas quentes e geladas?",
-        "fr": "Le gobelet de cette taille est-il le même pour les boissons chaudes et glacées ?",
+        "fr": "Le gobelet de cette taille est-il le même pour les boissons chaudes et froides ?",
         "it": "Il bicchiere di questo formato è uguale per le bevande calde e fredde?",
         "de": "Ist der Becher in dieser Größe für heiße und kalte Getränke gleich?"
       },
@@ -1278,6 +1259,42 @@
         "fr": "Pouvez-vous utiliser mon gobelet réutilisable ?",
         "it": "Può usare il mio bicchiere riutilizzabile?",
         "de": "Können Sie meinen Mehrwegbecher benutzen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr252",
+      "es": "¿Me puede dar una funda para este vaso caliente?",
+      "translations": {
+        "en": "Could I have a sleeve for this hot cup?",
+        "pt": "Pode me dar um protetor para este copo quente?",
+        "fr": "Puis-je avoir un manchon pour ce gobelet chaud ?",
+        "it": "Può darmi una fascia protettiva per questo bicchiere caldo?",
+        "de": "Kann ich eine Manschette für diesen heißen Becher bekommen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr255",
+      "es": "¿Puede cerrar bien la tapa para que no se derrame?",
+      "translations": {
+        "en": "Could you secure the lid so it doesn't spill?",
+        "pt": "Pode fechar bem a tampa para não derramar?",
+        "fr": "Pouvez-vous bien fermer le couvercle pour éviter que ça se renverse ?",
+        "it": "Può chiudere bene il coperchio perché non si rovesci?",
+        "de": "Können Sie den Deckel fest verschließen, damit nichts verschüttet wird?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr256",
+      "es": "Esta tapa no encaja en el vaso.",
+      "translations": {
+        "en": "This lid doesn't fit the cup.",
+        "pt": "Esta tampa não encaixa no copo.",
+        "fr": "Ce couvercle ne s'adapte pas au gobelet.",
+        "it": "Questo coperchio non si adatta al bicchiere.",
+        "de": "Dieser Deckel passt nicht auf den Becher."
       },
       "image_url": ""
     },
@@ -1508,7 +1525,7 @@
         "pt": "Gostaria do leite à parte, em um recipiente pequeno.",
         "fr": "Je voudrais le lait à part, dans un petit récipient.",
         "it": "Vorrei il latte a parte, in un piccolo contenitore.",
-        "de": "Ich hätte die Milch gern separat in einem kleinen Kännchen."
+        "de": "Ich hätte die Milch gern separat in einem kleinen Gefäß."
       },
       "image_url": ""
     },
@@ -1661,10 +1678,10 @@
       "es": "Sin crema batida, por favor.",
       "translations": {
         "en": "No whipped cream, please.",
-        "pt": "Sem chantilly.",
-        "fr": "Sans crème fouettée.",
-        "it": "Senza panna montata.",
-        "de": "Ohne Schlagsahne."
+        "pt": "Sem chantilly, por favor.",
+        "fr": "Sans crème fouettée, s'il vous plaît.",
+        "it": "Senza panna montata, per favore.",
+        "de": "Ohne Schlagsahne, bitte."
       },
       "image_url": ""
     },
@@ -1673,10 +1690,10 @@
       "es": "Con poca crema batida, por favor.",
       "translations": {
         "en": "Just a little whipped cream, please.",
-        "pt": "Com pouco chantilly.",
-        "fr": "Avec un peu de crème fouettée.",
-        "it": "Con poca panna montata.",
-        "de": "Mit etwas Schlagsahne."
+        "pt": "Com um pouco de chantilly, por favor.",
+        "fr": "Avec un peu de crème fouettée, s'il vous plaît.",
+        "it": "Con poca panna montata, per favore.",
+        "de": "Mit etwas Schlagsahne, bitte."
       },
       "image_url": ""
     },
@@ -1712,7 +1729,7 @@
         "pt": "Pode me dar o açúcar em um sachê separado?",
         "fr": "Pouvez-vous me donner le sucre dans un sachet à part ?",
         "it": "Può darmi lo zucchero in una bustina a parte?",
-        "de": "Können Sie mir ein Zuckerpäckchen dazugeben?"
+        "de": "Können Sie mir den Zucker separat in einem Päckchen geben?"
       },
       "image_url": ""
     },
@@ -1725,6 +1742,30 @@
         "fr": "Y a-t-il un supplément pour changer le type de lait ?",
         "it": "C'è un supplemento per cambiare il tipo di latte?",
         "de": "Kostet eine andere Milchsorte extra?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr131",
+      "es": "Quisiera un latte mediano con bebida de avena, para llevar.",
+      "translations": {
+        "en": "I'd like a medium latte with oat milk, to go.",
+        "pt": "Gostaria de um latte médio com bebida de aveia, para viagem.",
+        "fr": "Je voudrais un latte moyen avec une boisson à l'avoine, à emporter.",
+        "it": "Vorrei un caffellatte medio con bevanda d'avena, da asporto.",
+        "de": "Ich hätte gern einen mittelgroßen Latte mit Haferdrink zum Mitnehmen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "cfr132",
+      "es": "¿Puedo pedir dos bebidas con leches diferentes?",
+      "translations": {
+        "en": "Can I order two drinks with different types of milk?",
+        "pt": "Posso pedir duas bebidas com tipos de leite diferentes?",
+        "fr": "Puis-je commander deux boissons avec des types de lait différents ?",
+        "it": "Posso ordinare due bevande con tipi di latte diversi?",
+        "de": "Kann ich zwei Getränke mit unterschiedlicher Milch bestellen?"
       },
       "image_url": ""
     },
@@ -1789,66 +1830,6 @@
       "image_url": ""
     },
     {
-      "id": "cfr192",
-      "es": "¿El pan de queso lleva leche o huevo?",
-      "translations": {
-        "en": "Does the cheese bread contain milk or eggs?",
-        "pt": "O pão de queijo leva leite ou ovo?",
-        "fr": "Le pão de queijo contient-il du lait ou des œufs ?",
-        "it": "Il pão de queijo contiene latte o uova?",
-        "de": "Ist in den brasilianischen Käsebrötchen Milch oder Ei?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "cfr193",
-      "es": "¿Esta hamburguesa vegetal también lleva queso o mayonesa con huevo?",
-      "translations": {
-        "en": "Does this plant-based burger also contain cheese or egg-based mayonnaise?",
-        "pt": "Este hambúrguer vegetal também leva queijo ou maionese com ovo?",
-        "fr": "Ce burger végétal contient-il aussi du fromage ou de la mayonnaise à base d'œuf ?",
-        "it": "Questo hamburger vegetale contiene anche formaggio o maionese con uova?",
-        "de": "Ist auf diesem pflanzlichen Burger auch Käse oder Mayonnaise mit Ei?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "cfr252",
-      "es": "¿Me puede dar una funda para este vaso caliente?",
-      "translations": {
-        "en": "Could I have a sleeve for this hot cup?",
-        "pt": "Pode me dar um protetor para este copo quente?",
-        "fr": "Puis-je avoir un manchon pour ce gobelet chaud ?",
-        "it": "Può darmi una fascia protettiva per questo bicchiere caldo?",
-        "de": "Kann ich eine Manschette für diesen heißen Becher bekommen?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "cfr255",
-      "es": "¿Puede cerrar bien la tapa para que no se derrame?",
-      "translations": {
-        "en": "Could you secure the lid so it doesn't spill?",
-        "pt": "Pode fechar bem a tampa para não derramar?",
-        "fr": "Pouvez-vous bien fermer le couvercle pour éviter que ça se renverse ?",
-        "it": "Può chiudere bene il coperchio perché non si rovesci?",
-        "de": "Können Sie den Deckel fest verschließen, damit nichts verschüttet wird?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "cfr256",
-      "es": "Esta tapa no encaja en el vaso.",
-      "translations": {
-        "en": "This lid doesn't fit the cup.",
-        "pt": "Esta tampa não encaixa no copo.",
-        "fr": "Ce couvercle ne s'adapte pas au gobelet.",
-        "it": "Questo coperchio non si adatta al bicchiere.",
-        "de": "Dieser Deckel passt nicht auf den Becher."
-      },
-      "image_url": ""
-    },
-    {
       "id": "cfr261",
       "es": "¿Este vaso es el de leche de avena o el de leche normal?",
       "translations": {
@@ -1880,7 +1861,7 @@
         "pt": "Pedi a bebida com gelo, mas me deram quente.",
         "fr": "J'ai commandé la boisson avec des glaçons, mais vous me l'avez donnée chaude.",
         "it": "Ho ordinato la bevanda con ghiaccio, ma me l'avete data calda.",
-        "de": "Ich hatte das Getränk mit Eiswürfeln bestellt, aber es ist heiß."
+        "de": "Ich hatte das Getränk mit Eiswürfeln bestellt, aber ich habe es heiß bekommen."
       },
       "image_url": ""
     },
@@ -1916,7 +1897,7 @@
         "pt": "Pedi um tamanho médio, mas recebi um pequeno.",
         "fr": "J'ai commandé une taille moyenne, mais j'ai reçu une petite.",
         "it": "Ho ordinato un formato medio, ma ne ho ricevuto uno piccolo.",
-        "de": "Ich habe ein mittleres Getränk bestellt, aber ein kleines bekommen."
+        "de": "Ich habe ein Getränk in mittlerer Größe bestellt, aber ein kleines bekommen."
       },
       "image_url": ""
     },

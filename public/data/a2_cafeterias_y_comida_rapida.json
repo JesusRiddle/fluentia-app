@@ -176,7 +176,7 @@
         "en": "The self-service ordering kiosk",
         "pt": "O totem de autoatendimento",
         "fr": "La borne de commande",
-        "it": "Il chiosco per ordinare",
+        "it": "Il terminale self-service",
         "de": "Das Bestellterminal"
       },
       "image_url": "",
@@ -184,7 +184,7 @@
         "en": "(Plural: The self-service ordering kiosks)",
         "pt": "(Plural: Os totens de autoatendimento)",
         "fr": "(Plural: Les bornes de commande)",
-        "it": "(Plural: I chioschi per ordinare)",
+        "it": "(Plural: I terminali self-service)",
         "de": "(Plural: Die Bestellterminals) También se dice «Selbstbedienungsterminal», literalmente terminal de autoservicio.",
         "es": "(Pantalla táctil donde el cliente hace su pedido)"
       },
@@ -202,7 +202,7 @@
           "es": "Pido dos cafés en la pantalla de autoservicio para ordenar."
         },
         "it": {
-          "text": "Ordino due caffè al chiosco per ordinare.",
+          "text": "Ordino due caffè al terminale self-service.",
           "es": "Pido dos cafés en la pantalla de autoservicio para ordenar."
         },
         "de": {
@@ -254,7 +254,7 @@
     },
     {
       "id": "cfr10",
-      "es": "El código de entrega",
+      "es": "El código para recoger el pedido",
       "translations": {
         "en": "The pickup code",
         "pt": "O código de retirada",
@@ -274,23 +274,23 @@
       "examples": {
         "en": {
           "text": "I show the pickup code to pick up my coffee.",
-          "es": "Muestro el código de entrega para recoger mi café."
+          "es": "Muestro el código para recoger mi café."
         },
         "pt": {
           "text": "Mostro o código de retirada para retirar meu café.",
-          "es": "Muestro el código de entrega para recoger mi café."
+          "es": "Muestro el código para recoger mi café."
         },
         "fr": {
           "text": "Je montre le code de retrait pour récupérer mon café.",
-          "es": "Muestro el código de entrega para recoger mi café."
+          "es": "Muestro el código para recoger mi café."
         },
         "it": {
           "text": "Mostro il codice di ritiro per ritirare il mio caffè.",
-          "es": "Muestro el código de entrega para recoger mi café."
+          "es": "Muestro el código para recoger mi café."
         },
         "de": {
           "text": "Ich zeige den Abholcode, um meinen Kaffee abzuholen.",
-          "es": "Muestro el código de entrega para recoger mi café."
+          "es": "Muestro el código para recoger mi café."
         }
       }
     },
@@ -302,7 +302,7 @@
         "pt": "O avisador de pedido",
         "fr": "Le bipeur de commande",
         "it": "Il cercapersone per gli ordini",
-        "de": "Der Pager für die Bestellung"
+        "de": "Der Abholpager"
       },
       "image_url": "",
       "notes": {
@@ -310,7 +310,7 @@
         "pt": "(Plural: Os avisadores de pedido)",
         "fr": "(Plural: Les bipeurs de commande)",
         "it": "(Plural: I cercapersone per gli ordini)",
-        "de": "(Plural: Die Pager für Bestellungen)",
+        "de": "(Plural: Die Abholpager)",
         "es": "(Dispositivo que vibra o suena cuando el pedido está listo)"
       },
       "examples": {
@@ -331,7 +331,7 @@
           "es": "El avisador de pedido vibró cuando mi comida estuvo lista."
         },
         "de": {
-          "text": "Der Pager für die Bestellung hat vibriert, als mein Essen fertig war.",
+          "text": "Der Abholpager hat vibriert, als mein Essen fertig war.",
           "es": "El avisador de pedido vibró cuando mi comida estuvo lista."
         }
       }
@@ -1022,7 +1022,7 @@
         "en": "Do I order at the register or at the kiosk?",
         "pt": "Faço o pedido no caixa ou no totem?",
         "fr": "Est-ce qu'on commande en caisse ou à la borne ?",
-        "it": "Si ordina alla cassa o al chiosco?",
+        "it": "Si ordina alla cassa o al terminale self-service?",
         "de": "Bestelle ich an der Kasse oder am Bestellterminal?"
       },
       "image_url": ""
@@ -1064,6 +1064,21 @@
       "image_url": ""
     },
     {
+      "id": "cfr277",
+      "es": "¿Qué le preparo? / ¿Qué va a pedir?",
+      "translations": {
+        "en": "What can I get for you? / What can I get started for you?",
+        "pt": "O que vai querer? / O que posso preparar para você?",
+        "fr": "Qu'est-ce que je vous prépare ? / Qu'est-ce que vous souhaitez commander ?",
+        "it": "Che cosa le preparo? / Che cosa desidera ordinare?",
+        "de": "Was kann ich Ihnen zubereiten? / Was möchten Sie bestellen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
+    },
+    {
       "id": "cfr130",
       "es": "¿Me puede dar esto, por favor? / Quisiera pedir esto.",
       "translations": {
@@ -1100,11 +1115,48 @@
       "image_url": ""
     },
     {
+      "id": "cfr290",
+      "es": "¿Algo más? / ¿Eso sería todo?",
+      "translations": {
+        "en": "Anything else? / Will that be all?",
+        "pt": "Mais alguma coisa? / É só isso?",
+        "fr": "Autre chose ? / Ce sera tout ?",
+        "it": "Altro? / È tutto?",
+        "de": "Noch etwas? / Wäre das alles?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      },
+      "examples": {
+        "en": {
+          "text": "After taking my order, the server asked me, “Anything else?”",
+          "es": "Después de anotar mi pedido, la mesera me preguntó: «¿Algo más?»."
+        },
+        "pt": {
+          "text": "Depois de anotar meu pedido, a garçonete me perguntou: «Mais alguma coisa?»",
+          "es": "Después de anotar mi pedido, la mesera me preguntó: «¿Algo más?»."
+        },
+        "fr": {
+          "text": "Après avoir pris ma commande, la serveuse m'a demandé : « Autre chose ? »",
+          "es": "Después de anotar mi pedido, la mesera me preguntó: «¿Algo más?»."
+        },
+        "it": {
+          "text": "Dopo aver preso la mia ordinazione, la cameriera mi ha chiesto: «Altro?»",
+          "es": "Después de anotar mi pedido, la mesera me preguntó: «¿Algo más?»."
+        },
+        "de": {
+          "text": "Nachdem sie meine Bestellung aufgenommen hat, hat mich die Kellnerin gefragt: „Noch etwas?“",
+          "es": "Después de anotar mi pedido, la mesera me preguntó: «¿Algo más?»."
+        }
+      }
+    },
+    {
       "id": "cfr141",
       "es": "¿Para aquí o para llevar?",
       "translations": {
         "en": "For here or to go?",
-        "pt": "Para comer aqui ou para viagem?",
+        "pt": "Para tomar aqui ou para viagem?",
         "fr": "Sur place ou à emporter ?",
         "it": "Da consumare qui o da asporto?",
         "de": "Zum Hiertrinken oder zum Mitnehmen?"
@@ -1112,6 +1164,28 @@
       "image_url": "",
       "notes": {
         "es": "(Frase del personal)"
+      },
+      "examples": {
+        "en": {
+          "text": "When I ordered a coffee, they asked, “For here or to go?”",
+          "es": "Cuando pedí un café, me preguntaron: «¿Para aquí o para llevar?»."
+        },
+        "pt": {
+          "text": "Quando pedi um café, me perguntaram: «Para tomar aqui ou para viagem?»",
+          "es": "Cuando pedí un café, me preguntaron: «¿Para aquí o para llevar?»."
+        },
+        "fr": {
+          "text": "Quand j'ai commandé un café, on m'a demandé : « Sur place ou à emporter ? »",
+          "es": "Cuando pedí un café, me preguntaron: «¿Para aquí o para llevar?»."
+        },
+        "it": {
+          "text": "Quando ho ordinato un caffè, mi hanno chiesto: «Da consumare qui o da asporto?»",
+          "es": "Cuando pedí un café, me preguntaron: «¿Para aquí o para llevar?»."
+        },
+        "de": {
+          "text": "Als ich einen Kaffee bestellt habe, hat man mich gefragt: „Zum Hiertrinken oder zum Mitnehmen?“",
+          "es": "Cuando pedí un café, me preguntaron: «¿Para aquí o para llevar?»."
+        }
       }
     },
     {
@@ -1119,12 +1193,34 @@
       "es": "Para aquí, por favor.",
       "translations": {
         "en": "For here, please.",
-        "pt": "Para comer aqui, por favor.",
+        "pt": "Para tomar aqui, por favor.",
         "fr": "Sur place, s'il vous plaît.",
         "it": "Da consumare qui, per favore.",
         "de": "Zum Hiertrinken, bitte."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I said, “For here, please,” because I wanted to sit down and drink my coffee.",
+          "es": "Dije: «Para aquí, por favor», porque quería sentarme a tomar mi café."
+        },
+        "pt": {
+          "text": "Eu disse: «Para tomar aqui, por favor», porque queria me sentar para tomar meu café.",
+          "es": "Dije: «Para aquí, por favor», porque quería sentarme a tomar mi café."
+        },
+        "fr": {
+          "text": "J'ai dit : « Sur place, s'il vous plaît », parce que je voulais m'asseoir pour boire mon café.",
+          "es": "Dije: «Para aquí, por favor», porque quería sentarme a tomar mi café."
+        },
+        "it": {
+          "text": "Ho detto: «Da consumare qui, per favore», perché volevo sedermi a bere il mio caffè.",
+          "es": "Dije: «Para aquí, por favor», porque quería sentarme a tomar mi café."
+        },
+        "de": {
+          "text": "Ich habe „Zum Hiertrinken, bitte“ gesagt, weil ich mich für meinen Kaffee hinsetzen wollte.",
+          "es": "Dije: «Para aquí, por favor», porque quería sentarme a tomar mi café."
+        }
+      }
     },
     {
       "id": "cfr143",
@@ -1136,7 +1232,29 @@
         "it": "Da asporto, per favore.",
         "de": "Zum Mitnehmen, bitte."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I ordered my coffee to go because I was in a hurry.",
+          "es": "Pedí mi café para llevar porque tenía prisa."
+        },
+        "pt": {
+          "text": "Pedi meu café para viagem porque estava com pressa.",
+          "es": "Pedí mi café para llevar porque tenía prisa."
+        },
+        "fr": {
+          "text": "J'ai commandé mon café à emporter parce que j'étais pressé.",
+          "es": "Pedí mi café para llevar porque tenía prisa."
+        },
+        "it": {
+          "text": "Ho ordinato il caffè da asporto perché avevo fretta.",
+          "es": "Pedí mi café para llevar porque tenía prisa."
+        },
+        "de": {
+          "text": "Ich habe meinen Kaffee zum Mitnehmen bestellt, weil ich es eilig hatte.",
+          "es": "Pedí mi café para llevar porque tenía prisa."
+        }
+      }
     },
     {
       "id": "cfr144",
@@ -1192,8 +1310,8 @@
       "translations": {
         "en": "Do you scan the code before or after payment?",
         "pt": "Você escaneia o código antes ou depois do pagamento?",
-        "fr": "Faut-il scanner le code avant ou après le paiement ?",
-        "it": "Il codice si scansiona prima o dopo il pagamento?",
+        "fr": "Vous scannez le code avant ou après le paiement ?",
+        "it": "Scansiona il codice prima o dopo il pagamento?",
         "de": "Scannen Sie den Code vor oder nach dem Bezahlen?"
       },
       "image_url": ""
@@ -1229,7 +1347,7 @@
         "en": "I ordered at the kiosk, but I selected cash payment.",
         "pt": "Fiz o pedido no totem, mas escolhi pagar em dinheiro.",
         "fr": "J'ai commandé à la borne, mais j'ai choisi de payer en espèces.",
-        "it": "Ho ordinato al chiosco, ma ho scelto di pagare in contanti.",
+        "it": "Ho ordinato al terminale self-service, ma ho scelto di pagare in contanti.",
         "de": "Ich habe am Bestellterminal bestellt, aber Barzahlung gewählt."
       },
       "image_url": ""
@@ -1284,17 +1402,17 @@
     },
     {
       "id": "cfr233",
-      "es": "No tengo CPF. ¿Puede emitir el recibo sin él?",
+      "es": "No tengo CPF. ¿Puede emitir el comprobante fiscal sin ese número?",
       "translations": {
-        "en": "I don't have a CPF. Can you issue the receipt without it?",
-        "pt": "Não tenho CPF. Pode emitir a nota sem ele?",
-        "fr": "Je n'ai pas de CPF. Pouvez-vous émettre le reçu sans ce numéro ?",
-        "it": "Non ho un CPF. Può emettere lo scontrino senza questo numero?",
-        "de": "Ich habe keine brasilianische Steuernummer (CPF). Können Sie mir den Beleg auch ohne sie ausstellen?"
+        "en": "I don't have a CPF number. Can you issue the tax receipt without it?",
+        "pt": "Não tenho CPF. Pode emitir a nota fiscal sem esse número?",
+        "fr": "Je n'ai pas de numéro CPF. Pouvez-vous établir le justificatif fiscal sans ce numéro ?",
+        "it": "Non ho un numero CPF. Può emettere il documento fiscale senza quel numero?",
+        "de": "Ich habe keine CPF-Nummer. Können Sie den Steuerbeleg ohne diese Nummer ausstellen?"
       },
       "image_url": "",
       "notes": {
-        "es": "(Brasil: el CPF es un número de identificación fiscal personal)"
+        "es": "(Brasil) El CPF es un número de identificación fiscal personal. Aquí se pide el comprobante fiscal brasileño («nota fiscal»), no el recibo de pago."
       }
     },
     {
@@ -1323,6 +1441,21 @@
         "de": "Die Bestellung läuft auf den Namen [Name]."
       },
       "image_url": ""
+    },
+    {
+      "id": "cfr278",
+      "es": "¿A qué nombre ponemos el pedido?",
+      "translations": {
+        "en": "What name should I put on the order? / Can I get a name for the order?",
+        "pt": "Qual é o nome para o pedido?",
+        "fr": "À quel nom dois-je enregistrer la commande ?",
+        "it": "A che nome metto l'ordine?",
+        "de": "Auf welchen Namen darf ich Ihre Bestellung aufnehmen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
     },
     {
       "id": "cfr236",
@@ -1404,7 +1537,7 @@
         "pt": "Ainda falta preparar algo do meu pedido?",
         "fr": "Reste-t-il quelque chose à préparer dans ma commande ?",
         "it": "Manca ancora qualcosa da preparare nel mio ordine?",
-        "de": "Fehlt noch etwas von meiner Bestellung?"
+        "de": "Muss noch etwas von meiner Bestellung zubereitet werden?"
       },
       "image_url": ""
     },
@@ -1434,12 +1567,12 @@
     },
     {
       "id": "cfr245",
-      "es": "La pantalla no imprimió el recibo, pero el pago se completó.",
+      "es": "La pantalla de autoservicio no imprimió el recibo, pero el pago sí pasó.",
       "translations": {
         "en": "The kiosk didn't print the receipt, but the payment went through.",
         "pt": "O totem não imprimiu o comprovante, mas o pagamento foi concluído.",
         "fr": "La borne n'a pas imprimé le ticket, mais le paiement a été effectué.",
-        "it": "Il terminale non ha stampato lo scontrino, ma il pagamento è andato a buon fine.",
+        "it": "Il terminale self-service non ha stampato lo scontrino, ma il pagamento è andato a buon fine.",
         "de": "Der Automat hat keinen Bon gedruckt, aber die Zahlung war erfolgreich."
       },
       "image_url": ""
@@ -1482,7 +1615,7 @@
     },
     {
       "id": "cfr249",
-      "es": "Estoy en el espacio de estacionamiento número [número].",
+      "es": "Estoy en el cajón de estacionamiento número [número].",
       "translations": {
         "en": "I'm in parking spot number [number].",
         "pt": "Estou na vaga número [número].",
@@ -1620,7 +1753,7 @@
         "pt": "A etiqueta do copo está com outro nome.",
         "fr": "L'étiquette du gobelet porte un autre nom.",
         "it": "L'etichetta del bicchiere ha un altro nome.",
-        "de": "Auf dem Becher steht ein anderer Name."
+        "de": "Auf dem Etikett am Becher steht ein anderer Name."
       },
       "image_url": ""
     },
@@ -1671,51 +1804,6 @@
         "de": "Der Rabatt vom Gutschein steht nicht auf dem Beleg."
       },
       "image_url": ""
-    },
-    {
-      "id": "cfr277",
-      "es": "¿Qué le preparo? / ¿Qué va a pedir?",
-      "translations": {
-        "en": "What can I get for you? / What can I get started for you?",
-        "pt": "O que vai querer? / O que posso preparar para você?",
-        "fr": "Qu'est-ce que je vous prépare ? / Qu'est-ce que vous souhaitez commander ?",
-        "it": "Che cosa le preparo? / Che cosa desidera ordinare?",
-        "de": "Was kann ich Ihnen zubereiten? / Was möchten Sie bestellen?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Frase del personal)"
-      }
-    },
-    {
-      "id": "cfr278",
-      "es": "¿A qué nombre ponemos el pedido?",
-      "translations": {
-        "en": "What name should I put on the order? / Can I get a name for the order?",
-        "pt": "Qual é o nome para o pedido?",
-        "fr": "À quel nom dois-je enregistrer la commande ?",
-        "it": "A che nome metto l'ordine?",
-        "de": "Auf welchen Namen darf ich Ihre Bestellung aufnehmen?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Frase del personal)"
-      }
-    },
-    {
-      "id": "cfr290",
-      "es": "¿Algo más? / ¿Eso sería todo?",
-      "translations": {
-        "en": "Anything else? / Will that be all?",
-        "pt": "Mais alguma coisa? / É só isso?",
-        "fr": "Autre chose ? / Ce sera tout ?",
-        "it": "Altro? / È tutto?",
-        "de": "Noch etwas? / Wäre das alles?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Frase del personal)"
-      }
     },
     {
       "id": "cfr302",
@@ -1797,7 +1885,7 @@
       "es": "¿Quiere un recibo?",
       "translations": {
         "en": "Would you like a receipt?",
-        "pt": "Quer a nota fiscal? / Quer o comprovante?",
+        "pt": "Quer o comprovante?",
         "fr": "Vous voulez le ticket de caisse ?",
         "it": "Vuole lo scontrino?",
         "de": "Möchten Sie einen Beleg?"
@@ -1809,17 +1897,17 @@
     },
     {
       "id": "cfr308",
-      "es": "¿Quiere incluir su CPF en el recibo?",
+      "es": "¿Quiere incluir su CPF en el comprobante fiscal?",
       "translations": {
-        "en": "Would you like your CPF on the receipt?",
-        "pt": "Quer incluir o CPF na nota?",
-        "fr": "Souhaitez-vous faire figurer votre CPF sur le reçu ?",
-        "it": "Vuole il suo CPF sullo scontrino?",
-        "de": "Möchten Sie Ihre brasilianische Steuernummer (CPF) auf dem Beleg angeben?"
+        "en": "Would you like to include your CPF number on the tax receipt?",
+        "pt": "Quer incluir o CPF na nota fiscal?",
+        "fr": "Souhaitez-vous faire figurer votre numéro CPF sur le justificatif fiscal ?",
+        "it": "Vuole indicare il suo numero CPF sul documento fiscale?",
+        "de": "Möchten Sie Ihre CPF-Nummer auf dem Steuerbeleg angeben?"
       },
       "image_url": "",
       "notes": {
-        "es": "(Frase del personal; Brasil: el CPF es un número de identificación fiscal personal)"
+        "es": "(Frase del personal) (Brasil) El CPF es un número de identificación fiscal personal. Aquí se habla del comprobante fiscal brasileño («nota fiscal»)."
       }
     },
     {
@@ -1854,13 +1942,13 @@
     },
     {
       "id": "cfr311",
-      "es": "Le llamaremos por su nombre cuando esté lista.",
+      "es": "Le llamaremos por su nombre cuando esté lista su bebida.",
       "translations": {
-        "en": "We'll call your name when it's ready.",
-        "pt": "Vamos chamar seu nome quando estiver pronta.",
-        "fr": "Nous appellerons votre nom quand elle sera prête.",
-        "it": "La chiameremo per nome quando sarà pronta.",
-        "de": "Wir rufen Sie mit Ihrem Namen auf, wenn Ihre Bestellung fertig ist."
+        "en": "We'll call your name when your drink is ready.",
+        "pt": "Vamos chamar seu nome quando sua bebida estiver pronta.",
+        "fr": "On vous appellera par votre nom quand votre boisson sera prête.",
+        "it": "La chiameremo per nome quando la bevanda sarà pronta.",
+        "de": "Wir rufen Ihren Namen auf, sobald Ihr Getränk fertig ist."
       },
       "image_url": "",
       "notes": {
@@ -1920,7 +2008,7 @@
         "pt": "Quando o aparelho vibrar, venha ao balcão e devolva-o.",
         "fr": "Quand le bipeur vibre, venez au comptoir et rendez-le.",
         "it": "Quando il dispositivo vibra, venga al banco e lo restituisca.",
-        "de": "Wenn das Abholgerät vibriert, kommen Sie bitte zur Theke und geben es ab."
+        "de": "Wenn der Abholpager vibriert, kommen Sie bitte zur Theke und geben ihn ab."
       },
       "image_url": "",
       "notes": {
@@ -1989,7 +2077,7 @@
     },
     {
       "id": "cfr321",
-      "es": "Estaciónese en el espacio [número]; le llevaremos el pedido.",
+      "es": "Estaciónese en el cajón número [número]; le llevaremos el pedido.",
       "translations": {
         "en": "Please park in spot [number]; we'll bring your order out.",
         "pt": "Estacione na vaga [número]; vamos levar seu pedido.",

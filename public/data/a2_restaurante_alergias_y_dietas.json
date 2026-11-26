@@ -477,7 +477,7 @@
     },
     {
       "id": "rm198",
-      "es": "Los frutos secos de árbol",
+      "es": "Los frutos de cáscara",
       "translations": {
         "en": "The tree nuts",
         "pt": "As castanhas e nozes",
@@ -487,28 +487,29 @@
       },
       "image_url": "",
       "notes": {
-        "es": "(Nueces, almendras y otros frutos de árbol; no cacahuates)"
+        "es": "(Nueces, almendras, avellanas y otros frutos de cáscara; no incluye los cacahuates)",
+        "pt": "«Castanhas» puede referirse a distintos frutos de cáscara; para preguntar por uno en particular, di su nombre."
       },
       "examples": {
         "en": {
           "text": "Does the cake contain tree nuts?",
-          "es": "¿El pastel contiene frutos secos de árbol?"
+          "es": "¿El pastel contiene frutos de cáscara?"
         },
         "pt": {
-          "text": "O bolo contém castanhas ou nozes?",
-          "es": "¿El pastel contiene frutos secos de árbol?"
+          "text": "O bolo contém castanhas, como amêndoas ou avelãs?",
+          "es": "¿El pastel lleva frutos de cáscara, como almendras o avellanas?"
         },
         "fr": {
           "text": "Le gâteau contient des fruits à coque ?",
-          "es": "¿El pastel contiene frutos secos de árbol?"
+          "es": "¿El pastel contiene frutos de cáscara?"
         },
         "it": {
           "text": "La torta contiene frutta a guscio?",
-          "es": "¿El pastel contiene frutos secos de árbol?"
+          "es": "¿El pastel contiene frutos de cáscara?"
         },
         "de": {
           "text": "Enthält der Kuchen Schalenfrüchte?",
-          "es": "¿El pastel contiene frutos secos de árbol?"
+          "es": "¿El pastel contiene frutos de cáscara?"
         }
       }
     },
@@ -1174,11 +1175,11 @@
         },
         "it": {
           "text": "Servite piatti kosher?",
-          "es": "¿Sirven comida kosher?"
+          "es": "¿Sirven platillos kosher?"
         },
         "de": {
           "text": "Servieren Sie koschere Gerichte?",
-          "es": "¿Sirven comida kosher?"
+          "es": "¿Sirven platillos kosher?"
         }
       }
     },
@@ -1522,30 +1523,6 @@
       "image_url": ""
     },
     {
-      "id": "rm367",
-      "es": "Necesito ayuda médica.",
-      "translations": {
-        "en": "I need medical help.",
-        "pt": "Preciso de ajuda médica.",
-        "fr": "J'ai besoin d'aide médicale.",
-        "it": "Ho bisogno di assistenza medica.",
-        "de": "Ich brauche medizinische Hilfe."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "rm368",
-      "es": "¿Puede llamar a una ambulancia?",
-      "translations": {
-        "en": "Could you call an ambulance?",
-        "pt": "Pode chamar uma ambulância?",
-        "fr": "Pouvez-vous appeler une ambulance ?",
-        "it": "Può chiamare un'ambulanza?",
-        "de": "Könnten Sie einen Krankenwagen rufen?"
-      },
-      "image_url": ""
-    },
-    {
       "id": "rm504",
       "es": "¿Tiene alguna alergia alimentaria?",
       "translations": {
@@ -1607,6 +1584,30 @@
       "notes": {
         "es": "La frase indica que no se garantiza la ausencia del ingrediente, incluso si no figura entre los ingredientes declarados."
       }
+    },
+    {
+      "id": "rm367",
+      "es": "Necesito ayuda médica.",
+      "translations": {
+        "en": "I need medical help.",
+        "pt": "Preciso de ajuda médica.",
+        "fr": "J'ai besoin d'aide médicale.",
+        "it": "Ho bisogno di assistenza medica.",
+        "de": "Ich brauche medizinische Hilfe."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm368",
+      "es": "¿Puede llamar a una ambulancia?",
+      "translations": {
+        "en": "Could you call an ambulance?",
+        "pt": "Pode chamar uma ambulância?",
+        "fr": "Pouvez-vous appeler une ambulance ?",
+        "it": "Può chiamare un'ambulanza?",
+        "de": "Könnten Sie einen Krankenwagen rufen?"
+      },
+      "image_url": ""
     }
   ]
 }

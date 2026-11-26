@@ -532,7 +532,7 @@
           "es": "La mesa para dos ya está lista."
         },
         "de": {
-          "text": "Der Tisch für zwei ist jetzt fertig.",
+          "text": "Der Tisch für zwei steht jetzt bereit.",
           "es": "La mesa para dos ya está lista."
         }
       }
@@ -575,6 +575,48 @@
         "de": {
           "text": "Der Gemeinschaftstisch bietet Platz für acht Personen.",
           "es": "La mesa compartida tiene espacio para ocho personas."
+        }
+      }
+    },
+    {
+      "id": "rm213",
+      "es": "La mesa con bancas tapizadas",
+      "translations": {
+        "en": "The booth",
+        "pt": "A mesa com bancos estofados",
+        "fr": "La table avec banquettes",
+        "it": "Il tavolo con panche imbottite",
+        "de": "Der Tisch mit gepolsterten Sitzbänken"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The booths)",
+        "pt": "(Plural: As mesas com bancos estofados)",
+        "fr": "(Plural: Les tables avec banquettes)",
+        "it": "(Plural: I tavoli con panche imbottite)",
+        "de": "(Plural: Die Tische mit gepolsterten Sitzbänken) Se describe el tipo de asiento; no es una mesa aparte en un salón privado.",
+        "es": "(Mesa con bancas tapizadas, normalmente fijas)"
+      },
+      "examples": {
+        "en": {
+          "text": "I'd like a booth.",
+          "es": "Quisiera una mesa con bancas tapizadas."
+        },
+        "pt": {
+          "text": "Gostaria de uma mesa com bancos estofados.",
+          "es": "Quisiera una mesa con bancas tapizadas."
+        },
+        "fr": {
+          "text": "Je voudrais une table avec des banquettes.",
+          "es": "Quisiera una mesa con bancas."
+        },
+        "it": {
+          "text": "Vorrei un tavolo con panche imbottite.",
+          "es": "Quisiera una mesa con bancas tapizadas."
+        },
+        "de": {
+          "text": "Ich hätte gern einen Tisch mit gepolsterten Sitzbänken.",
+          "es": "Quisiera una mesa con bancas tapizadas."
         }
       }
     },
@@ -1229,48 +1271,6 @@
       }
     },
     {
-      "id": "rm213",
-      "es": "La mesa con bancas tapizadas",
-      "translations": {
-        "en": "The booth",
-        "pt": "A mesa com bancos estofados",
-        "fr": "La table avec banquettes",
-        "it": "Il tavolo con panche imbottite",
-        "de": "Der Tisch mit gepolsterten Sitzbänken"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The booths)",
-        "pt": "(Plural: As mesas com bancos estofados)",
-        "fr": "(Plural: Les tables avec banquettes)",
-        "it": "(Plural: I tavoli con panche imbottite)",
-        "de": "(Plural: Die Tische mit gepolsterten Sitzbänken) Se describe el tipo de asiento; no es una mesa aparte en un salón privado.",
-        "es": "(Mesa con bancas tapizadas, normalmente fijas)"
-      },
-      "examples": {
-        "en": {
-          "text": "I'd like a booth.",
-          "es": "Quisiera una mesa con bancas tapizadas."
-        },
-        "pt": {
-          "text": "Gostaria de uma mesa com bancos estofados.",
-          "es": "Quisiera una mesa con bancas tapizadas."
-        },
-        "fr": {
-          "text": "Je voudrais une table avec des banquettes.",
-          "es": "Quisiera una mesa con bancas."
-        },
-        "it": {
-          "text": "Vorrei un tavolo con panche imbottite.",
-          "es": "Quisiera una mesa con bancas tapizadas."
-        },
-        "de": {
-          "text": "Ich hätte gern einen Tisch mit gepolsterten Sitzbänken.",
-          "es": "Quisiera una mesa con bancas tapizadas."
-        }
-      }
-    },
-    {
       "id": "rm218",
       "es": "Quisiera reservar una mesa.",
       "translations": {
@@ -1482,7 +1482,7 @@
         "pt": "Vamos chegar com dez minutos de atraso.",
         "fr": "Nous aurons dix minutes de retard.",
         "it": "Arriveremo con dieci minuti di ritardo.",
-        "de": "Wir kommen zehn Minuten später."
+        "de": "Wir verspäten uns um zehn Minuten."
       },
       "image_url": ""
     },
@@ -1563,7 +1563,7 @@
       "es": "¿Podemos sentarnos en la terraza?",
       "translations": {
         "en": "Can we sit on the patio?",
-        "pt": "Podemos nos sentar na área externa?",
+        "pt": "Podemos nos sentar no terraço?",
         "fr": "Pouvons-nous nous installer en terrasse ?",
         "it": "Possiamo sederci in terrazza?",
         "de": "Können wir auf der Terrasse sitzen?"
@@ -1920,7 +1920,7 @@
         "pt": "Sua mesa já está pronta.",
         "fr": "Votre table est prête.",
         "it": "Il vostro tavolo è pronto.",
-        "de": "Ihr Tisch ist jetzt fertig."
+        "de": "Ihr Tisch ist bereit."
       },
       "image_url": ""
     },

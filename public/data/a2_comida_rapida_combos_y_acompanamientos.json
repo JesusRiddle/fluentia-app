@@ -45,7 +45,7 @@
         "pt": "A máquina de refrigerante",
         "fr": "La fontaine à boissons",
         "it": "Il distributore di bibite",
-        "de": "Der Getränkeautomat"
+        "de": "Der Getränkespender"
       },
       "image_url": "",
       "notes": {
@@ -53,7 +53,7 @@
         "pt": "(Plural: As máquinas de refrigerante)",
         "fr": "(Plural: Les fontaines à boissons)",
         "it": "(Plural: I distributori di bibite)",
-        "de": "(Plural: Die Getränkeautomaten) Aquí es una máquina que dispensa bebidas en un vaso, no una máquina expendedora de botellas."
+        "de": "(Plural: Die Getränkespender) Máquina que llena un vaso; no dispensa botellas."
       },
       "examples": {
         "en": {
@@ -73,7 +73,7 @@
           "es": "Lleno mi vaso en la máquina dispensadora de refrescos."
         },
         "de": {
-          "text": "Am Getränkeautomaten fülle ich meinen Becher.",
+          "text": "Am Getränkespender fülle ich meinen Becher.",
           "es": "Lleno mi vaso en la máquina dispensadora de refrescos."
         }
       }
@@ -215,9 +215,9 @@
       "notes": {
         "en": "(Plural: The combo meals)",
         "pt": "(Plural: Os combos)",
-        "fr": "(Plural: Les formules)",
-        "it": "(Plural: I menù combinati)",
-        "de": "(Plural: Die Kombimenüs)",
+        "fr": "(Plural: Les formules) En los menús de comida rápida también se dice «menu», que aquí no significa la carta.",
+        "it": "(Plural: I menù combinati) En un local de comida rápida también se dice «menù».",
+        "de": "(Plural: Die Kombimenüs) En un local de comida rápida también se dice «Menü»; «Speisekarte» es la carta.",
         "es": "(Varios productos vendidos juntos)"
       },
       "examples": {
@@ -234,7 +234,7 @@
           "es": "El combo incluye papas y refresco."
         },
         "it": {
-          "text": "Il menù combinato comprende patatine e una bibita.",
+          "text": "Il menù combinato comprende patatine e una bibita gassata.",
           "es": "El combo incluye papas y refresco."
         },
         "de": {
@@ -257,7 +257,7 @@
       "notes": {
         "en": "(Plural: The items on their own)",
         "pt": "(Plural: Os produtos avulsos)",
-        "fr": "(Plural: Les produits seuls)",
+        "fr": "(Plural: Les produits seuls) También se usa «à l'unité» si se ofrece el producto fuera de un combo.",
         "it": "(Plural: I prodotti singoli)",
         "de": "(Plural: Die einzelnen Artikel)",
         "es": "(Se pide sin acompañamiento ni bebida del combo)"
@@ -487,7 +487,7 @@
       "translations": {
         "en": "The dipping sauce",
         "pt": "O molho para acompanhar",
-        "fr": "La sauce à tremper",
+        "fr": "La sauce pour tremper les aliments",
         "it": "La salsa per intingere",
         "de": "Die Dipsoße"
       },
@@ -495,7 +495,7 @@
       "notes": {
         "en": "(Plural: The dipping sauces)",
         "pt": "(Plural: Os molhos para acompanhar)",
-        "fr": "(Plural: Les sauces à tremper)",
+        "fr": "(Plural: Les sauces pour tremper les aliments) También se puede precisar qué se moja: «une sauce pour tremper les nuggets».",
         "it": "(Plural: Le salse per intingere)",
         "de": "(Plural: Die Dipsoßen)"
       },
@@ -509,8 +509,8 @@
           "es": "Pruebo una salsa para mojar con las tiras de pollo."
         },
         "fr": {
-          "text": "Je goûte une sauce à tremper avec les aiguillettes de poulet.",
-          "es": "Pruebo una salsa para mojar con las tiras de pollo."
+          "text": "J'ai préparé une sauce pour y tremper les aiguillettes de poulet.",
+          "es": "Preparé una salsa para mojar las tiras de pollo."
         },
         "it": {
           "text": "Assaggio una salsa per intingere con gli straccetti di pollo.",
@@ -982,7 +982,7 @@
         "pt": "O sundae",
         "fr": "Le sundae",
         "it": "Il sundae",
-        "de": "Der Eisbecher mit Soße und Toppings"
+        "de": "Der Eisbecher mit Soße"
       },
       "image_url": "",
       "notes": {
@@ -990,7 +990,7 @@
         "pt": "(Plural: Os sundaes)",
         "fr": "(Plural: Les sundaes)",
         "it": "(Plural: I sundae)",
-        "de": "(Plural: Die Eisbecher mit Soße und Toppings)",
+        "de": "(Plural: Die Eisbecher mit Soße)",
         "es": "(Helado con salsa y, a veces, coberturas)"
       },
       "examples": {
@@ -1011,8 +1011,8 @@
           "es": "Pedimos un sundae con salsa de chocolate."
         },
         "de": {
-          "text": "Wir bestellen einen Eisbecher mit Schokoladensoße und Toppings.",
-          "es": "Pedimos un helado en copa con salsa de chocolate y coberturas."
+          "text": "Wir bestellen einen Eisbecher mit Schokoladensoße.",
+          "es": "Pedimos un helado en copa con salsa de chocolate."
         }
       }
     },
@@ -1095,11 +1095,11 @@
       "id": "cfr197",
       "es": "Quisiera una hamburguesa en combo, con papas grandes y un refresco grande.",
       "translations": {
-        "en": "I'd like one burger as a meal with large fries and a large soda.",
+        "en": "I'd like a burger combo with a large order of fries and a large soda.",
         "pt": "Gostaria de um hambúrguer no combo, com uma porção grande de batatas fritas e um refrigerante grande.",
         "fr": "Je voudrais un burger en menu, avec une grande portion de frites et un grand soda.",
-        "it": "Vorrei un hamburger nel menù, con una porzione grande di patatine e una bibita grande.",
-        "de": "Ich hätte gern ein Burgermenü mit großen Pommes und einer großen Limo."
+        "it": "Vorrei un menù con hamburger, una porzione grande di patatine e una bibita gassata grande.",
+        "de": "Ich hätte gern ein Burgermenü mit einer großen Portion Pommes und einer großen Limonade."
       },
       "image_url": ""
     },
@@ -1107,13 +1107,35 @@
       "id": "cfr198",
       "es": "Solo la hamburguesa, sin combo, por favor.",
       "translations": {
-        "en": "Just the burger, no meal, please.",
+        "en": "Just the burger, no combo meal, please.",
         "pt": "Só o hambúrguer, sem combo, por favor.",
         "fr": "Le burger seul, sans menu, s'il vous plaît.",
         "it": "Solo l'hamburger, senza menù, per favore.",
         "de": "Nur den Burger, bitte, ohne Menü."
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I ordered just the burger, no combo meal, because I already had a drink.",
+          "es": "Pedí solo la hamburguesa, sin combo, porque ya tenía una bebida."
+        },
+        "pt": {
+          "text": "Pedi só o hambúrguer, sem combo, porque já tinha uma bebida.",
+          "es": "Pedí solo la hamburguesa, sin combo, porque ya tenía una bebida."
+        },
+        "fr": {
+          "text": "J'ai commandé le burger seul, sans menu, parce que j'avais déjà une boisson.",
+          "es": "Pedí solo la hamburguesa, sin combo, porque ya tenía una bebida."
+        },
+        "it": {
+          "text": "Ho ordinato solo l'hamburger, senza menù, perché avevo già una bevanda.",
+          "es": "Pedí solo la hamburguesa, sin combo, porque ya tenía una bebida."
+        },
+        "de": {
+          "text": "Ich habe nur den Burger bestellt, ohne Menü, weil ich schon ein Getränk hatte.",
+          "es": "Pedí solo la hamburguesa, sin combo, porque ya tenía una bebida."
+        }
+      }
     },
     {
       "id": "cfr199",
@@ -1147,7 +1169,7 @@
         "pt": "Gostaria de aumentar só o tamanho da porção de batatas fritas.",
         "fr": "Je voudrais agrandir seulement la portion de frites.",
         "it": "Vorrei aumentare solo la porzione di patatine.",
-        "de": "Ich hätte gern nur die Pommes in groß."
+        "de": "Ich hätte gern nur die Pommes in einer größeren Portion."
       },
       "image_url": ""
     },
@@ -1159,7 +1181,7 @@
         "pt": "Gostaria de uma bebida média e uma porção pequena de batatas fritas.",
         "fr": "Je voudrais une boisson moyenne et une petite portion de frites.",
         "it": "Vorrei una bevanda media e una porzione piccola di patatine.",
-        "de": "Ich hätte gern ein mittleres Getränk und kleine Pommes."
+        "de": "Ich hätte gern ein Getränk in mittlerer Größe und eine kleine Portion Pommes."
       },
       "image_url": ""
     },
@@ -1308,6 +1330,18 @@
       "image_url": ""
     },
     {
+      "id": "cfr193",
+      "es": "¿Esta hamburguesa vegetal también lleva queso o mayonesa con huevo?",
+      "translations": {
+        "en": "Does this plant-based burger also contain cheese or egg-based mayonnaise?",
+        "pt": "Este hambúrguer vegetal também leva queijo ou maionese com ovo?",
+        "fr": "Ce burger végétal contient-il aussi du fromage ou de la mayonnaise à base d'œuf ?",
+        "it": "Questo hamburger vegetale contiene anche formaggio o maionese con uova?",
+        "de": "Ist auf diesem pflanzlichen Burger auch Käse oder Mayonnaise mit Ei?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "cfr215",
       "es": "Quisiera las papas sin sal añadida.",
       "translations": {
@@ -1392,6 +1426,21 @@
       "image_url": ""
     },
     {
+      "id": "cfr316",
+      "es": "Puede llenar su vaso en la máquina de bebidas.",
+      "translations": {
+        "en": "You can fill your cup at the soda fountain.",
+        "pt": "Pode encher seu copo na máquina de refrigerante.",
+        "fr": "Vous pouvez remplir votre gobelet à la fontaine à boissons.",
+        "it": "Può riempire il bicchiere al distributore di bibite.",
+        "de": "Sie können Ihren Becher am Getränkespender auffüllen."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
+    },
+    {
       "id": "cfr291",
       "es": "¿Qué bebida quiere con el combo?",
       "translations": {
@@ -1412,9 +1461,9 @@
       "translations": {
         "en": "Would you like to upsize the fries and drink?",
         "pt": "Quer aumentar o tamanho da porção de batatas fritas e da bebida?",
-        "fr": "Vous voulez de grandes frites et une grande boisson à la place ?",
+        "fr": "Vous voulez une plus grande portion de frites et une boisson plus grande ?",
         "it": "Vuole una porzione più grande di patatine e una bevanda più grande?",
-        "de": "Möchten Sie größere Pommes und ein größeres Getränk?"
+        "de": "Möchten Sie eine größere Portion Pommes und ein größeres Getränk?"
       },
       "image_url": "",
       "notes": {
@@ -1430,21 +1479,6 @@
         "fr": "Voulez-vous du ketchup, de la moutarde ou une autre sauce ?",
         "it": "Vuole ketchup, senape o un'altra salsa?",
         "de": "Möchten Sie Ketchup, Senf oder eine andere Soße?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Frase del personal)"
-      }
-    },
-    {
-      "id": "cfr316",
-      "es": "Puede llenar su vaso en la máquina de bebidas.",
-      "translations": {
-        "en": "You can fill your cup at the soda fountain.",
-        "pt": "Pode encher seu copo na máquina de refrigerante.",
-        "fr": "Vous pouvez remplir votre gobelet à la fontaine à boissons.",
-        "it": "Può riempire il bicchiere al distributore di bibite.",
-        "de": "Sie können Ihren Becher am Getränkespender auffüllen."
       },
       "image_url": "",
       "notes": {
