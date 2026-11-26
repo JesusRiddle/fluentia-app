@@ -1,18 +1,41 @@
 {
   "module": "Historia personal y cambios",
   "level": "A2",
-  "revisado": false,
+  "revisado": true,
   "cards": [
     {
       "id": "hpc_001",
       "es": "Historia personal y cambios",
       "translations": {
-        "en": "Personal history and changes",
+        "en": "Personal history and life changes",
         "pt": "História pessoal e mudanças",
         "fr": "Histoire personnelle et changements",
-        "it": "Storia personale e cambiamenti"
+        "it": "Storia personale e cambiamenti",
+        "de": "Die Lebensgeschichte und Veränderungen im Leben"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "In class, we talk about our personal history and life changes.",
+          "es": "En clase hablamos de nuestra historia personal y de los cambios en nuestra vida."
+        },
+        "pt": {
+          "text": "Na aula, falamos da nossa história pessoal e das mudanças na nossa vida.",
+          "es": "En clase hablamos de nuestra historia personal y de los cambios en nuestra vida."
+        },
+        "fr": {
+          "text": "En classe, on parle de notre histoire personnelle et des changements dans notre vie.",
+          "es": "En clase hablamos de nuestra historia personal y de los cambios en nuestra vida."
+        },
+        "it": {
+          "text": "In classe parliamo della nostra storia personale e dei cambiamenti nella nostra vita.",
+          "es": "En clase hablamos de nuestra historia personal y de los cambios en nuestra vida."
+        },
+        "de": {
+          "text": "Im Unterricht sprechen wir über unsere Lebensgeschichte und über Veränderungen in unserem Leben.",
+          "es": "En clase hablamos de nuestra historia personal y de los cambios en nuestra vida."
+        }
+      }
     },
     {
       "id": "hpc_002",
@@ -21,9 +44,32 @@
         "en": "Childhood",
         "pt": "A infância",
         "fr": "L'enfance",
-        "it": "L'infanzia"
+        "it": "L'infanzia",
+        "de": "Die Kindheit"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I spent my childhood in a small town.",
+          "es": "Pasé mi infancia en un pueblo."
+        },
+        "pt": {
+          "text": "Passei a infância numa cidade pequena.",
+          "es": "Pasé mi infancia en un pueblo."
+        },
+        "fr": {
+          "text": "J'ai passé mon enfance dans un village.",
+          "es": "Pasé mi infancia en un pueblo."
+        },
+        "it": {
+          "text": "Ho passato la mia infanzia in un paese.",
+          "es": "Pasé mi infancia en un pueblo."
+        },
+        "de": {
+          "text": "Ich habe meine Kindheit in einem Dorf verbracht.",
+          "es": "Pasé mi infancia en un pueblo."
+        }
+      }
     },
     {
       "id": "hpc_003",
@@ -32,9 +78,35 @@
         "en": "Adolescence",
         "pt": "A adolescência",
         "fr": "L'adolescence",
-        "it": "L'adolescenza"
+        "it": "L'adolescenza",
+        "de": "Das Jugendalter"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Etapa entre la niñez y la edad adulta)"
+      },
+      "examples": {
+        "en": {
+          "text": "During adolescence, I played basketball every day.",
+          "es": "Durante mi adolescencia jugaba básquetbol todos los días."
+        },
+        "pt": {
+          "text": "Na adolescência, eu jogava basquete todos os dias.",
+          "es": "Durante mi adolescencia jugaba básquetbol todos los días."
+        },
+        "fr": {
+          "text": "Pendant mon adolescence, je jouais au basket tous les jours.",
+          "es": "Durante mi adolescencia jugaba básquetbol todos los días."
+        },
+        "it": {
+          "text": "Durante la mia adolescenza giocavo a basket tutti i giorni.",
+          "es": "Durante mi adolescencia jugaba básquetbol todos los días."
+        },
+        "de": {
+          "text": "Im Jugendalter habe ich jeden Tag Basketball gespielt.",
+          "es": "Durante mi adolescencia jugaba básquetbol todos los días."
+        }
+      }
     },
     {
       "id": "hpc_004",
@@ -42,43 +114,156 @@
       "translations": {
         "en": "Adulthood",
         "pt": "A vida adulta",
-        "fr": "La vie adulte",
-        "it": "L'età adulta"
+        "fr": "L'âge adulte",
+        "it": "L'età adulta",
+        "de": "Das Erwachsenenleben"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I made new friends in adulthood.",
+          "es": "En la vida adulta hice nuevos amigos."
+        },
+        "pt": {
+          "text": "Na vida adulta, fiz novos amigos.",
+          "es": "En la vida adulta hice nuevos amigos."
+        },
+        "fr": {
+          "text": "À l'âge adulte, je me suis fait de nouveaux amis.",
+          "es": "En la vida adulta hice nuevos amigos."
+        },
+        "it": {
+          "text": "In età adulta ho fatto nuove amicizie.",
+          "es": "En la vida adulta hice nuevos amigos."
+        },
+        "de": {
+          "text": "Im Erwachsenenleben habe ich neue Freunde gefunden.",
+          "es": "En la vida adulta hice nuevos amigos."
+        }
+      }
     },
     {
       "id": "hpc_005",
-      "es": "Una etapa de la vida",
+      "es": "La etapa de la vida",
       "translations": {
-        "en": "A stage of life",
-        "pt": "Uma fase da vida",
-        "fr": "Une étape de la vie",
-        "it": "Una fase della vita"
+        "en": "The stage of life",
+        "pt": "A fase da vida",
+        "fr": "L'étape de la vie",
+        "it": "La fase della vita",
+        "de": "Der Lebensabschnitt"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The stages of life)",
+        "pt": "(Plural: As fases da vida)",
+        "fr": "(Plural: Les étapes de la vie)",
+        "it": "(Plural: Le fasi della vita)",
+        "de": "(Plural: Die Lebensabschnitte)"
+      },
+      "examples": {
+        "en": {
+          "text": "My first job marked a new stage of my life.",
+          "es": "Mi primer trabajo marcó una nueva etapa de mi vida."
+        },
+        "pt": {
+          "text": "Meu primeiro emprego marcou uma nova fase da minha vida.",
+          "es": "Mi primer trabajo marcó una nueva etapa de mi vida."
+        },
+        "fr": {
+          "text": "Mon premier emploi a marqué une nouvelle étape de ma vie.",
+          "es": "Mi primer trabajo marcó una nueva etapa de mi vida."
+        },
+        "it": {
+          "text": "Il mio primo lavoro ha segnato una nuova fase della mia vita.",
+          "es": "Mi primer trabajo marcó una nueva etapa de mi vida."
+        },
+        "de": {
+          "text": "Mit meinem ersten Job hat für mich ein neuer Lebensabschnitt begonnen.",
+          "es": "Con mi primer trabajo empezó una nueva etapa de mi vida."
+        }
+      }
     },
     {
       "id": "hpc_006",
-      "es": "Un recuerdo de la infancia",
+      "es": "El recuerdo de la infancia",
       "translations": {
-        "en": "A childhood memory",
-        "pt": "Uma lembrança da infância",
-        "fr": "Un souvenir d'enfance",
-        "it": "Un ricordo d'infanzia"
+        "en": "The childhood memory",
+        "pt": "A lembrança da infância",
+        "fr": "Le souvenir d'enfance",
+        "it": "Il ricordo d'infanzia",
+        "de": "Die Kindheitserinnerung"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The childhood memories)",
+        "pt": "(Plural: As lembranças da infância)",
+        "fr": "(Plural: Les souvenirs d'enfance)",
+        "it": "(Plural: I ricordi d'infanzia)",
+        "de": "(Plural: Die Kindheitserinnerungen)"
+      },
+      "examples": {
+        "en": {
+          "text": "Going to the market with my grandmother is a childhood memory.",
+          "es": "Ir al mercado con mi abuela es un recuerdo de mi infancia."
+        },
+        "pt": {
+          "text": "Ir à feira com a minha avó é uma lembrança da minha infância.",
+          "es": "Ir al mercado con mi abuela es un recuerdo de mi infancia."
+        },
+        "fr": {
+          "text": "Aller au marché avec ma grand-mère est un souvenir d'enfance.",
+          "es": "Ir al mercado con mi abuela es un recuerdo de mi infancia."
+        },
+        "it": {
+          "text": "Andare al mercato con mia nonna è un ricordo d'infanzia.",
+          "es": "Ir al mercado con mi abuela es un recuerdo de mi infancia."
+        },
+        "de": {
+          "text": "Mit meiner Oma auf den Markt zu gehen, ist eine Kindheitserinnerung.",
+          "es": "Ir al mercado con mi abuela es un recuerdo de mi infancia."
+        }
+      }
     },
     {
       "id": "hpc_007",
-      "es": "Un cambio de costumbres",
+      "es": "El cambio de hábitos",
       "translations": {
-        "en": "A change in habits",
-        "pt": "Uma mudança de hábitos",
-        "fr": "Un changement d'habitudes",
-        "it": "Un cambiamento di abitudini"
+        "en": "The change in habits",
+        "pt": "A mudança de hábitos",
+        "fr": "Le changement d'habitudes",
+        "it": "Il cambiamento di abitudini",
+        "de": "Die Änderung der Gewohnheiten"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The changes in habits)",
+        "pt": "(Plural: As mudanças de hábitos)",
+        "fr": "(Plural: Les changements d'habitudes)",
+        "it": "(Plural: I cambiamenti di abitudini)",
+        "de": "(Plural: Die Änderungen der Gewohnheiten)"
+      },
+      "examples": {
+        "en": {
+          "text": "Getting up earlier was a big change in my habits.",
+          "es": "Levantarme más temprano fue un cambio importante de hábitos."
+        },
+        "pt": {
+          "text": "Levantar mais cedo foi uma mudança importante nos meus hábitos.",
+          "es": "Levantarme más temprano fue un cambio importante de hábitos."
+        },
+        "fr": {
+          "text": "Me lever plus tôt a été un grand changement dans mes habitudes.",
+          "es": "Levantarme más temprano fue un cambio importante de hábitos."
+        },
+        "it": {
+          "text": "Alzarmi prima è stato un grande cambiamento nelle mie abitudini.",
+          "es": "Levantarme más temprano fue un cambio importante de hábitos."
+        },
+        "de": {
+          "text": "Früher aufzustehen war eine große Änderung meiner Gewohnheiten.",
+          "es": "Levantarme más temprano fue un cambio importante de hábitos."
+        }
+      }
     },
     {
       "id": "hpc_008",
@@ -87,9 +272,32 @@
         "en": "To adjust to a new situation",
         "pt": "Adaptar-se a uma nova situação",
         "fr": "S'adapter à une nouvelle situation",
-        "it": "Adattarsi a una nuova situazione"
+        "it": "Adattarsi a una nuova situazione",
+        "de": "Sich an eine neue Situation anpassen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Little by little, I adjusted to the new situation.",
+          "es": "Poco a poco me adapté a la nueva situación."
+        },
+        "pt": {
+          "text": "Aos poucos, me adaptei à nova situação.",
+          "es": "Poco a poco me adapté a la nueva situación."
+        },
+        "fr": {
+          "text": "Petit à petit, je me suis adapté à la nouvelle situation.",
+          "es": "Poco a poco me adapté a la nueva situación."
+        },
+        "it": {
+          "text": "Poco a poco mi sono adattato alla nuova situazione.",
+          "es": "Poco a poco me adapté a la nueva situación."
+        },
+        "de": {
+          "text": "Nach und nach habe ich mich an die neue Situation angepasst.",
+          "es": "Poco a poco me adapté a la nueva situación."
+        }
+      }
     },
     {
       "id": "hpc_009",
@@ -98,9 +306,32 @@
         "en": "To get used to something",
         "pt": "Acostumar-se com algo",
         "fr": "S'habituer à quelque chose",
-        "it": "Abituarsi a qualcosa"
+        "it": "Abituarsi a qualcosa",
+        "de": "Sich an etwas gewöhnen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "It was hard for me to get used to the cold.",
+          "es": "Me costó acostumbrarme al frío."
+        },
+        "pt": {
+          "text": "Demorei a me acostumar com o frio.",
+          "es": "Tardé en acostumbrarme al frío."
+        },
+        "fr": {
+          "text": "J'ai eu du mal à m'habituer au froid.",
+          "es": "Me costó acostumbrarme al frío."
+        },
+        "it": {
+          "text": "Ho fatto fatica ad abituarmi al freddo.",
+          "es": "Me costó acostumbrarme al frío."
+        },
+        "de": {
+          "text": "Es fiel mir schwer, mich an die Kälte zu gewöhnen.",
+          "es": "Me costó acostumbrarme al frío."
+        }
+      }
     },
     {
       "id": "hpc_010",
@@ -109,9 +340,15 @@
         "en": "Where did you spend your childhood?",
         "pt": "Onde você passou a infância?",
         "fr": "Où as-tu passé ton enfance ?",
-        "it": "Dove hai trascorso la tua infanzia?"
+        "it": "Dove hai trascorso la tua infanzia?",
+        "de": "Wo hast du deine Kindheit verbracht?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_011",
@@ -120,7 +357,8 @@
         "en": "I was born in a city, but I grew up in a small town.",
         "pt": "Nasci em uma cidade, mas cresci em uma cidade pequena.",
         "fr": "Je suis né dans une ville, mais j'ai grandi dans un village. / Je suis née dans une ville, mais j'ai grandi dans un village.",
-        "it": "Sono nato in una città, ma sono cresciuto in un paese. / Sono nata in una città, ma sono cresciuta in un paese."
+        "it": "Sono nato in una città, ma sono cresciuto in un paese. / Sono nata in una città, ma sono cresciuta in un paese.",
+        "de": "Ich bin in einer Stadt geboren, aber in einem Dorf aufgewachsen."
       },
       "image_url": ""
     },
@@ -131,7 +369,8 @@
         "en": "During my childhood, I lived near my grandparents.",
         "pt": "Durante a infância, eu morava perto dos meus avós.",
         "fr": "Pendant mon enfance, j'habitais près de mes grands-parents.",
-        "it": "Durante l'infanzia abitavo vicino ai miei nonni."
+        "it": "Durante l'infanzia abitavo vicino ai miei nonni.",
+        "de": "Als Kind habe ich in der Nähe meiner Großeltern gewohnt."
       },
       "image_url": ""
     },
@@ -142,7 +381,8 @@
         "en": "We spoke two languages at home.",
         "pt": "Em casa, falávamos duas línguas.",
         "fr": "À la maison, nous parlions deux langues.",
-        "it": "A casa parlavamo due lingue."
+        "it": "A casa parlavamo due lingue.",
+        "de": "Zu Hause haben wir zwei Sprachen gesprochen."
       },
       "image_url": ""
     },
@@ -150,12 +390,18 @@
       "id": "hpc_014",
       "es": "¿Cómo era el lugar donde vivías?",
       "translations": {
-        "en": "What was the place where you lived like?",
+        "en": "What was it like where you lived?",
         "pt": "Como era o lugar onde você morava?",
         "fr": "Comment était l'endroit où tu habitais ?",
-        "it": "Com'era il posto dove abitavi?"
+        "it": "Com'era il posto dove abitavi?",
+        "de": "Wie war der Ort, an dem du gewohnt hast?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_015",
@@ -164,7 +410,8 @@
         "en": "It was a quiet neighborhood, and almost everyone knew each other.",
         "pt": "Era um bairro tranquilo e quase todo mundo se conhecia.",
         "fr": "C'était un quartier calme et presque tout le monde se connaissait.",
-        "it": "Era un quartiere tranquillo e quasi tutti si conoscevano."
+        "it": "Era un quartiere tranquillo e quasi tutti si conoscevano.",
+        "de": "Es war ein ruhiges Viertel, und fast alle kannten sich."
       },
       "image_url": ""
     },
@@ -175,7 +422,8 @@
         "en": "Our house was small, but it had a yard.",
         "pt": "Nossa casa era pequena, mas tinha um quintal.",
         "fr": "Notre maison était petite, mais elle avait une cour.",
-        "it": "La nostra casa era piccola, ma aveva un cortile."
+        "it": "La nostra casa era piccola, ma aveva un cortile.",
+        "de": "Unser Haus war klein, hatte aber einen Hof."
       },
       "image_url": ""
     },
@@ -186,18 +434,20 @@
         "en": "I shared a room with my sister.",
         "pt": "Eu dividia o quarto com minha irmã.",
         "fr": "Je partageais une chambre avec ma sœur.",
-        "it": "Condividevo la camera con mia sorella."
+        "it": "Condividevo la camera con mia sorella.",
+        "de": "Ich habe mir mit meiner Schwester ein Zimmer geteilt."
       },
       "image_url": ""
     },
     {
       "id": "hpc_018",
-      "es": "De pequeño/a me daba miedo dormir sin luz.",
+      "es": "De pequeño me daba miedo dormir sin luz. / De pequeña me daba miedo dormir sin luz.",
       "translations": {
         "en": "When I was little, I was afraid to sleep without a light on.",
         "pt": "Quando eu era criança, tinha medo de dormir sem uma luz acesa.",
         "fr": "Quand j'étais enfant, j'avais peur de dormir sans lumière.",
-        "it": "Da bambino avevo paura di dormire senza una luce accesa. / Da bambina avevo paura di dormire senza una luce accesa."
+        "it": "Da bambino avevo paura di dormire senza una luce accesa. / Da bambina avevo paura di dormire senza una luce accesa.",
+        "de": "Als Kind hatte ich Angst, ohne Licht zu schlafen."
       },
       "image_url": ""
     },
@@ -208,9 +458,15 @@
         "en": "What did you like to do after school?",
         "pt": "O que você gostava de fazer depois da escola?",
         "fr": "Qu'aimais-tu faire après l'école ?",
-        "it": "Cosa ti piaceva fare dopo la scuola?"
+        "it": "Cosa ti piaceva fare dopo la scuola?",
+        "de": "Was hast du nach der Schule gern gemacht?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_020",
@@ -219,7 +475,8 @@
         "en": "We used to play outside in the street after school.",
         "pt": "Depois da aula, brincávamos na rua.",
         "fr": "Après les cours, nous jouions dans la rue.",
-        "it": "Dopo la scuola giocavamo per strada."
+        "it": "Dopo la scuola giocavamo per strada.",
+        "de": "Nach der Schule haben wir auf der Straße gespielt."
       },
       "image_url": ""
     },
@@ -230,7 +487,8 @@
         "en": "We used to visit relatives on weekends.",
         "pt": "Nos fins de semana, visitávamos a família.",
         "fr": "Le week-end, nous allions rendre visite à la famille.",
-        "it": "Nei fine settimana andavamo a trovare i parenti."
+        "it": "Nei fine settimana andavamo a trovare i parenti.",
+        "de": "Am Wochenende haben wir unsere Verwandten besucht."
       },
       "image_url": ""
     },
@@ -241,7 +499,8 @@
         "en": "My grandfather taught me how to take care of plants.",
         "pt": "Meu avô me ensinou a cuidar das plantas.",
         "fr": "Mon grand-père m'a appris à m'occuper des plantes.",
-        "it": "Mio nonno mi ha insegnato a prendermi cura delle piante."
+        "it": "Mio nonno mi ha insegnato a prendermi cura delle piante.",
+        "de": "Mein Großvater hat mir gezeigt, wie man Pflanzen pflegt."
       },
       "image_url": ""
     },
@@ -252,18 +511,20 @@
         "en": "I remember my mother reading to us before bed.",
         "pt": "Lembro que minha mãe lia para nós antes de dormir.",
         "fr": "Je me souviens que ma mère nous faisait la lecture avant de dormir.",
-        "it": "Ricordo che mia madre ci leggeva qualcosa prima di dormire."
+        "it": "Ricordo che mia madre ci leggeva qualcosa prima di dormire.",
+        "de": "Ich weiß noch, dass meine Mutter uns vor dem Schlafengehen vorgelesen hat."
       },
       "image_url": ""
     },
     {
       "id": "hpc_024",
-      "es": "No recuerdo bien esa época; era muy pequeño/a.",
+      "es": "No recuerdo bien esa época; era muy pequeño. / No recuerdo bien esa época; era muy pequeña.",
       "translations": {
         "en": "I don't remember that time well; I was very young.",
         "pt": "Não lembro bem dessa época; eu era muito pequeno. / Não lembro bem dessa época; eu era muito pequena.",
         "fr": "Je ne me souviens pas bien de cette époque ; j'étais très jeune.",
-        "it": "Non ricordo bene quel periodo; ero molto piccolo. / Non ricordo bene quel periodo; ero molto piccola."
+        "it": "Non ricordo bene quel periodo; ero molto piccolo. / Non ricordo bene quel periodo; ero molto piccola.",
+        "de": "Ich erinnere mich nicht gut an diese Zeit. Ich war damals noch sehr klein."
       },
       "image_url": ""
     },
@@ -274,9 +535,15 @@
         "en": "Were you still living there as a teenager?",
         "pt": "Você ainda morava lá na adolescência?",
         "fr": "Tu habitais encore là pendant ton adolescence ?",
-        "it": "Abitavi ancora lì durante l'adolescenza?"
+        "it": "Abitavi ancora lì durante l'adolescenza?",
+        "de": "Hast du als Teenager noch dort gewohnt?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_026",
@@ -285,7 +552,8 @@
         "en": "I changed schools when I was twelve.",
         "pt": "Aos doze anos, mudei de escola.",
         "fr": "J'ai changé d'école à douze ans.",
-        "it": "A dodici anni ho cambiato scuola."
+        "it": "A dodici anni ho cambiato scuola.",
+        "de": "Mit zwölf habe ich die Schule gewechselt."
       },
       "image_url": ""
     },
@@ -296,9 +564,15 @@
         "en": "Was it hard to make friends at your new school?",
         "pt": "Foi difícil fazer amigos na escola nova?",
         "fr": "As-tu eu du mal à te faire des amis dans ta nouvelle école ?",
-        "it": "È stato difficile fare amicizia nella nuova scuola?"
+        "it": "È stato difficile fare amicizia nella nuova scuola?",
+        "de": "War es schwer für dich, an der neuen Schule Freunde zu finden?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_028",
@@ -307,7 +581,8 @@
         "en": "At first I didn't talk much, but later I made good friends.",
         "pt": "No começo eu falava pouco, mas depois fiz bons amigos.",
         "fr": "Au début, je parlais peu, mais ensuite je me suis fait de bons amis.",
-        "it": "All'inizio parlavo poco, ma poi ho fatto delle belle amicizie."
+        "it": "All'inizio parlavo poco, ma poi ho fatto delle belle amicizie.",
+        "de": "Am Anfang habe ich wenig geredet, aber später habe ich gute Freunde gefunden."
       },
       "image_url": ""
     },
@@ -318,7 +593,8 @@
         "en": "I was very interested in music back then.",
         "pt": "Naquela época, eu me interessava muito por música.",
         "fr": "À cette époque, la musique m'intéressait beaucoup.",
-        "it": "In quel periodo mi interessava molto la musica."
+        "it": "In quel periodo mi interessava molto la musica.",
+        "de": "Damals habe ich mich sehr für Musik interessiert."
       },
       "image_url": ""
     },
@@ -329,7 +605,8 @@
         "en": "For a while, I dreamed of working with animals.",
         "pt": "Durante um tempo, eu sonhava em trabalhar com animais.",
         "fr": "Pendant un temps, je rêvais de travailler avec des animaux.",
-        "it": "Per un periodo sognavo di lavorare con gli animali."
+        "it": "Per un periodo sognavo di lavorare con gli animali.",
+        "de": "Eine Zeit lang habe ich davon geträumt, mit Tieren zu arbeiten."
       },
       "image_url": ""
     },
@@ -339,10 +616,16 @@
       "translations": {
         "en": "What did you want to do after finishing school?",
         "pt": "O que você queria fazer depois de terminar a escola?",
-        "fr": "Que voulais-tu faire après tes études ?",
-        "it": "Cosa volevi fare dopo aver finito la scuola?"
+        "fr": "Qu'est-ce que tu voulais faire après avoir fini l'école ?",
+        "it": "Cosa volevi fare dopo aver finito la scuola?",
+        "de": "Was wolltest du nach der Schule machen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_032",
@@ -351,7 +634,8 @@
         "en": "I didn't know what to study yet.",
         "pt": "Eu ainda não sabia o que estudar.",
         "fr": "Je ne savais pas encore quoi étudier.",
-        "it": "Non sapevo ancora cosa studiare."
+        "it": "Non sapevo ancora cosa studiare.",
+        "de": "Ich wusste noch nicht, was ich studieren sollte."
       },
       "image_url": ""
     },
@@ -362,7 +646,8 @@
         "en": "When I finished school, I started working.",
         "pt": "Quando terminei a escola, comecei a trabalhar.",
         "fr": "Quand j'ai terminé ma scolarité, j'ai commencé à travailler.",
-        "it": "Quando ho finito la scuola, ho cominciato a lavorare."
+        "it": "Quando ho finito la scuola, ho cominciato a lavorare.",
+        "de": "Nach der Schule habe ich angefangen zu arbeiten."
       },
       "image_url": ""
     },
@@ -373,7 +658,8 @@
         "en": "For two years, I studied and worked at the same time.",
         "pt": "Durante dois anos, estudei e trabalhei ao mesmo tempo.",
         "fr": "Pendant deux ans, j'ai étudié et travaillé en même temps.",
-        "it": "Per due anni ho studiato e lavorato contemporaneamente."
+        "it": "Per due anni ho studiato e lavorato contemporaneamente.",
+        "de": "Zwei Jahre lang habe ich gleichzeitig studiert und gearbeitet."
       },
       "image_url": ""
     },
@@ -384,7 +670,8 @@
         "en": "I took a break from my studies and later went back to them.",
         "pt": "Parei de estudar por um tempo e depois retomei os estudos.",
         "fr": "J'ai interrompu mes études pendant un temps, puis je les ai reprises.",
-        "it": "Ho interrotto gli studi per un periodo e poi li ho ripresi."
+        "it": "Ho interrotto gli studi per un periodo e poi li ho ripresi.",
+        "de": "Ich habe mein Studium eine Zeit lang unterbrochen und es später fortgesetzt."
       },
       "image_url": ""
     },
@@ -395,9 +682,28 @@
         "en": "My first job was part-time.",
         "pt": "Meu primeiro emprego era de meio período.",
         "fr": "Mon premier emploi était à temps partiel.",
-        "it": "Il mio primo lavoro era part-time."
+        "it": "Il mio primo lavoro era part-time.",
+        "de": "Mein erster Job war in Teilzeit."
       },
       "image_url": ""
+    },
+    {
+      "id": "hpc_115",
+      "es": "¿A qué te dedicabas antes?",
+      "translations": {
+        "en": "What did you do for work before?",
+        "pt": "Com o que você trabalhava antes?",
+        "fr": "Qu'est-ce que tu faisais comme travail avant ?",
+        "it": "Che lavoro facevi prima?",
+        "de": "Was hast du früher beruflich gemacht?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Informal)",
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_037",
@@ -406,7 +712,8 @@
         "en": "In my first job, I learned how to talk to customers.",
         "pt": "No meu primeiro trabalho, aprendi a falar com os clientes.",
         "fr": "Dans mon premier emploi, j'ai appris à parler avec les clients.",
-        "it": "Nel mio primo lavoro ho imparato a parlare con i clienti."
+        "it": "Nel mio primo lavoro ho imparato a parlare con i clienti.",
+        "de": "In meinem ersten Job habe ich gelernt, wie man mit Kunden spricht."
       },
       "image_url": ""
     },
@@ -417,7 +724,8 @@
         "en": "When I started working, I had to organize my time better.",
         "pt": "Quando comecei a trabalhar, precisei organizar melhor meu tempo.",
         "fr": "Quand j'ai commencé à travailler, j'ai dû mieux organiser mon temps.",
-        "it": "Quando ho cominciato a lavorare, ho dovuto organizzare meglio il mio tempo."
+        "it": "Quando ho cominciato a lavorare, ho dovuto organizzare meglio il mio tempo.",
+        "de": "Als ich angefangen habe zu arbeiten, musste ich meine Zeit besser planen."
       },
       "image_url": ""
     },
@@ -428,9 +736,15 @@
         "en": "When did you start living on your own?",
         "pt": "Quando você começou a morar por conta própria?",
         "fr": "Quand as-tu commencé à vivre de façon indépendante ?",
-        "it": "Quando hai cominciato a vivere per conto tuo?"
+        "it": "Quando hai cominciato a vivere per conto tuo?",
+        "de": "Wann hast du angefangen, selbstständig zu leben?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_040",
@@ -439,7 +753,8 @@
         "en": "I moved out of my parents' house when I was twenty-four.",
         "pt": "Saí da casa dos meus pais aos vinte e quatro anos.",
         "fr": "J'ai quitté la maison de mes parents à vingt-quatre ans.",
-        "it": "Ho lasciato la casa dei miei genitori a ventiquattro anni."
+        "it": "Ho lasciato la casa dei miei genitori a ventiquattro anni.",
+        "de": "Mit vierundzwanzig bin ich bei meinen Eltern ausgezogen."
       },
       "image_url": ""
     },
@@ -450,18 +765,20 @@
         "en": "At first, I shared an apartment to save money.",
         "pt": "No começo, eu dividia um apartamento para economizar.",
         "fr": "Au début, je partageais un appartement pour économiser.",
-        "it": "All'inizio condividevo un appartamento per risparmiare."
+        "it": "All'inizio condividevo un appartamento per risparmiare.",
+        "de": "Am Anfang habe ich mir mit anderen eine Wohnung geteilt, um Geld zu sparen."
       },
       "image_url": ""
     },
     {
       "id": "hpc_042",
-      "es": "Tuve que aprender a cocinar y a llevar mis gastos.",
+      "es": "Tuve que aprender a cocinar y a administrar mis gastos.",
       "translations": {
         "en": "I had to learn how to cook and manage my expenses.",
         "pt": "Tive que aprender a cozinhar e a controlar meus gastos.",
         "fr": "J'ai dû apprendre à cuisiner et à gérer mes dépenses.",
-        "it": "Ho dovuto imparare a cucinare e a gestire le mie spese."
+        "it": "Ho dovuto imparare a cucinare e a gestire le mie spese.",
+        "de": "Ich musste lernen, zu kochen und meine Ausgaben im Blick zu behalten."
       },
       "image_url": ""
     },
@@ -472,9 +789,15 @@
         "en": "Have you always lived in the same city?",
         "pt": "Você sempre morou na mesma cidade?",
         "fr": "As-tu toujours vécu dans la même ville ?",
-        "it": "Hai sempre vissuto nella stessa città?"
+        "it": "Hai sempre vissuto nella stessa città?",
+        "de": "Hast du immer in derselben Stadt gewohnt?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_044",
@@ -483,7 +806,8 @@
         "en": "I lived there for five years before moving.",
         "pt": "Morei lá por cinco anos antes de me mudar.",
         "fr": "J'y ai vécu pendant cinq ans avant de déménager.",
-        "it": "Ho vissuto lì per cinque anni prima di trasferirmi."
+        "it": "Ho vissuto lì per cinque anni prima di trasferirmi.",
+        "de": "Vor dem Umzug habe ich dort fünf Jahre gewohnt."
       },
       "image_url": ""
     },
@@ -494,7 +818,8 @@
         "en": "I moved because I found a job in another city.",
         "pt": "Me mudei porque encontrei trabalho em outra cidade.",
         "fr": "J'ai déménagé parce que j'ai trouvé un emploi dans une autre ville.",
-        "it": "Mi sono trasferito perché ho trovato lavoro in un'altra città. / Mi sono trasferita perché ho trovato lavoro in un'altra città."
+        "it": "Mi sono trasferito perché ho trovato lavoro in un'altra città. / Mi sono trasferita perché ho trovato lavoro in un'altra città.",
+        "de": "Ich bin umgezogen, weil ich in einer anderen Stadt Arbeit gefunden habe."
       },
       "image_url": ""
     },
@@ -505,7 +830,8 @@
         "en": "I didn't want to leave, but I needed to be closer to my family.",
         "pt": "Eu não queria ir embora, mas precisava ficar mais perto da minha família.",
         "fr": "Je ne voulais pas partir, mais j'avais besoin d'être plus près de ma famille.",
-        "it": "Non volevo andarmene, ma avevo bisogno di essere più vicino alla mia famiglia. / Non volevo andarmene, ma avevo bisogno di essere più vicina alla mia famiglia."
+        "it": "Non volevo andarmene, ma avevo bisogno di essere più vicino alla mia famiglia. / Non volevo andarmene, ma avevo bisogno di essere più vicina alla mia famiglia.",
+        "de": "Ich wollte nicht weg, aber ich musste näher bei meiner Familie sein."
       },
       "image_url": ""
     },
@@ -516,7 +842,8 @@
         "en": "I've lived here since last year.",
         "pt": "Moro aqui desde o ano passado.",
         "fr": "J'habite ici depuis l'année dernière.",
-        "it": "Abito qui dall'anno scorso."
+        "it": "Abito qui dall'anno scorso.",
+        "de": "Ich wohne seit letztem Jahr hier."
       },
       "image_url": ""
     },
@@ -527,7 +854,8 @@
         "en": "I've been in this city for three months.",
         "pt": "Estou nesta cidade há três meses.",
         "fr": "Je suis dans cette ville depuis trois mois.",
-        "it": "Sono in questa città da tre mesi."
+        "it": "Sono in questa città da tre mesi.",
+        "de": "Ich bin seit drei Monaten in dieser Stadt."
       },
       "image_url": ""
     },
@@ -538,7 +866,8 @@
         "en": "I arrived three months ago, in January.",
         "pt": "Cheguei há três meses, em janeiro.",
         "fr": "Je suis arrivé il y a trois mois, en janvier. / Je suis arrivée il y a trois mois, en janvier.",
-        "it": "Sono arrivato tre mesi fa, a gennaio. / Sono arrivata tre mesi fa, a gennaio."
+        "it": "Sono arrivato tre mesi fa, a gennaio. / Sono arrivata tre mesi fa, a gennaio.",
+        "de": "Ich bin vor drei Monaten angekommen, im Januar."
       },
       "image_url": ""
     },
@@ -549,7 +878,8 @@
         "en": "Before living here, I spent a year abroad.",
         "pt": "Antes de morar aqui, passei um ano no exterior.",
         "fr": "Avant d'habiter ici, j'ai passé un an à l'étranger.",
-        "it": "Prima di vivere qui, ho trascorso un anno all'estero."
+        "it": "Prima di vivere qui, ho trascorso un anno all'estero.",
+        "de": "Bevor ich hier gewohnt habe, habe ich ein Jahr im Ausland verbracht."
       },
       "image_url": ""
     },
@@ -560,9 +890,15 @@
         "en": "Did you adjust quickly to the new city?",
         "pt": "Você se adaptou rápido à nova cidade?",
         "fr": "T'es-tu adapté rapidement à la nouvelle ville ? / T'es-tu adaptée rapidement à la nouvelle ville ?",
-        "it": "Ti sei adattato in fretta alla nuova città? / Ti sei adattata in fretta alla nuova città?"
+        "it": "Ti sei adattato in fretta alla nuova città? / Ti sei adattata in fretta alla nuova città?",
+        "de": "Hast du dich schnell an die neue Stadt angepasst?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_052",
@@ -571,7 +907,8 @@
         "en": "It took me several months to get used to the pace of life.",
         "pt": "Levei vários meses para me acostumar com o ritmo de vida.",
         "fr": "Il m'a fallu plusieurs mois pour m'habituer au rythme de vie.",
-        "it": "Mi ci sono voluti diversi mesi per abituarmi al ritmo di vita."
+        "it": "Mi ci sono voluti diversi mesi per abituarmi al ritmo di vita.",
+        "de": "Ich habe mehrere Monate gebraucht, um mich an den Lebensrhythmus zu gewöhnen."
       },
       "image_url": ""
     },
@@ -582,7 +919,8 @@
         "en": "The hardest part was living far from my friends.",
         "pt": "O mais difícil foi morar longe dos meus amigos.",
         "fr": "Le plus difficile, c'était de vivre loin de mes amis.",
-        "it": "La cosa più difficile è stata vivere lontano dai miei amici."
+        "it": "La cosa più difficile è stata vivere lontano dai miei amici.",
+        "de": "Am schwierigsten war es, weit weg von meinen Freunden zu wohnen."
       },
       "image_url": ""
     },
@@ -593,7 +931,8 @@
         "en": "I still miss some things about the city where I used to live.",
         "pt": "Ainda sinto falta de algumas coisas da cidade onde eu morava.",
         "fr": "Certaines choses de mon ancienne ville me manquent encore.",
-        "it": "Mi mancano ancora alcune cose della città dove abitavo prima."
+        "it": "Mi mancano ancora alcune cose della città dove abitavo prima.",
+        "de": "Manches aus der Stadt, in der ich früher gewohnt habe, fehlt mir noch."
       },
       "image_url": ""
     },
@@ -604,7 +943,8 @@
         "en": "Now I know the neighborhood better and feel more at home.",
         "pt": "Agora conheço melhor o bairro e me sinto mais em casa.",
         "fr": "Maintenant, je connais mieux le quartier et je me sens davantage chez moi.",
-        "it": "Ora conosco meglio il quartiere e mi sento più a casa."
+        "it": "Ora conosco meglio il quartiere e mi sento più a casa.",
+        "de": "Jetzt kenne ich das Viertel besser und fühle mich mehr zu Hause."
       },
       "image_url": ""
     },
@@ -615,9 +955,15 @@
         "en": "What did you use to do on Sundays?",
         "pt": "O que você costumava fazer aos domingos?",
         "fr": "Que faisais-tu d'habitude le dimanche ?",
-        "it": "Cosa facevi di solito la domenica?"
+        "it": "Cosa facevi di solito la domenica?",
+        "de": "Was hast du früher sonntags normalerweise gemacht?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_057",
@@ -626,18 +972,20 @@
         "en": "I used to go out almost every night; now I prefer staying home.",
         "pt": "Antes eu saía quase todas as noites; agora prefiro ficar em casa.",
         "fr": "Avant, je sortais presque tous les soirs ; maintenant, je préfère rester chez moi.",
-        "it": "Prima uscivo quasi tutte le sere; ora preferisco restare a casa."
+        "it": "Prima uscivo quasi tutte le sere; ora preferisco restare a casa.",
+        "de": "Früher bin ich fast jeden Abend ausgegangen. Jetzt bleibe ich lieber zu Hause."
       },
       "image_url": ""
     },
     {
       "id": "hpc_058",
-      "es": "Solía acostarme tarde, pero ahora duermo más temprano.",
+      "es": "Antes me acostaba tarde, pero ahora me duermo más temprano.",
       "translations": {
         "en": "I used to go to bed late, but now I go to sleep earlier.",
-        "pt": "Eu costumava dormir tarde, mas agora durmo mais cedo.",
+        "pt": "Antes eu ia para a cama tarde, mas agora pego no sono mais cedo.",
         "fr": "Avant, je me couchais tard, mais maintenant, je m'endors plus tôt.",
-        "it": "Prima andavo a letto tardi, ma ora mi addormento prima."
+        "it": "Prima andavo a letto tardi, ma ora mi addormento prima.",
+        "de": "Früher bin ich spät ins Bett gegangen, aber jetzt schlafe ich früher ein."
       },
       "image_url": ""
     },
@@ -648,7 +996,8 @@
         "en": "Back then, I took the bus to work every day.",
         "pt": "Naquela época, eu ia de ônibus para o trabalho todos os dias.",
         "fr": "À cette époque, j'allais au travail en bus tous les jours.",
-        "it": "In quel periodo andavo al lavoro in autobus tutti i giorni."
+        "it": "In quel periodo andavo al lavoro in autobus tutti i giorni.",
+        "de": "Damals bin ich jeden Tag mit dem Bus zur Arbeit gefahren."
       },
       "image_url": ""
     },
@@ -659,7 +1008,8 @@
         "en": "Since I moved, I can walk to work.",
         "pt": "Desde que mudei de casa, posso ir a pé para o trabalho.",
         "fr": "Depuis que j'ai déménagé, je peux aller au travail à pied.",
-        "it": "Da quando ho cambiato casa, posso andare al lavoro a piedi."
+        "it": "Da quando ho cambiato casa, posso andare al lavoro a piedi.",
+        "de": "Seit meinem Umzug kann ich zu Fuß zur Arbeit gehen."
       },
       "image_url": ""
     },
@@ -670,7 +1020,8 @@
         "en": "I no longer work on weekends.",
         "pt": "Não trabalho mais nos fins de semana.",
         "fr": "Je ne travaille plus le week-end.",
-        "it": "Non lavoro più nei fine settimana."
+        "it": "Non lavoro più nei fine settimana.",
+        "de": "Ich arbeite am Wochenende nicht mehr."
       },
       "image_url": ""
     },
@@ -678,10 +1029,11 @@
       "id": "hpc_062",
       "es": "Todavía me gusta escuchar la música de mi adolescencia.",
       "translations": {
-        "en": "I still enjoy listening to the music I liked as a teenager.",
+        "en": "I still enjoy listening to the music from my teenage years.",
         "pt": "Ainda gosto de ouvir as músicas da minha adolescência.",
         "fr": "J'aime toujours écouter la musique de mon adolescence.",
-        "it": "Mi piace ancora ascoltare la musica della mia adolescenza."
+        "it": "Mi piace ancora ascoltare la musica della mia adolescenza.",
+        "de": "Ich höre immer noch gern die Musik aus meiner Jugend."
       },
       "image_url": ""
     },
@@ -692,7 +1044,8 @@
         "en": "I still see some friends from school.",
         "pt": "Continuo vendo alguns amigos da escola.",
         "fr": "Je vois toujours certains amis de l'école.",
-        "it": "Continuo a vedere alcuni amici di scuola."
+        "it": "Continuo a vedere alcuni amici di scuola.",
+        "de": "Ich treffe mich noch mit ein paar Freunden aus der Schulzeit."
       },
       "image_url": ""
     },
@@ -703,9 +1056,15 @@
         "en": "Do you still play sports, or did you stop?",
         "pt": "Você ainda pratica esportes ou parou?",
         "fr": "Tu fais toujours du sport ou tu as arrêté ?",
-        "it": "Fai ancora sport o hai smesso?"
+        "it": "Fai ancora sport o hai smesso?",
+        "de": "Machst du noch Sport oder hast du aufgehört?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_065",
@@ -714,7 +1073,8 @@
         "en": "I stopped playing the guitar when I started working.",
         "pt": "Parei de tocar violão quando comecei a trabalhar.",
         "fr": "J'ai arrêté de jouer de la guitare quand j'ai commencé à travailler.",
-        "it": "Ho smesso di suonare la chitarra quando ho cominciato a lavorare."
+        "it": "Ho smesso di suonare la chitarra quando ho cominciato a lavorare.",
+        "de": "Als ich angefangen habe zu arbeiten, habe ich aufgehört, Gitarre zu spielen."
       },
       "image_url": ""
     },
@@ -725,7 +1085,8 @@
         "en": "I recently started playing again after several years.",
         "pt": "Há pouco tempo, voltei a tocar depois de vários anos.",
         "fr": "J'ai recommencé à jouer récemment, après plusieurs années.",
-        "it": "Da poco ho ricominciato a suonare dopo diversi anni."
+        "it": "Da poco ho ricominciato a suonare dopo diversi anni.",
+        "de": "Nach mehreren Jahren habe ich vor Kurzem wieder angefangen zu spielen."
       },
       "image_url": ""
     },
@@ -736,7 +1097,8 @@
         "en": "I hardly ever cooked before; now I make meals every day.",
         "pt": "Antes eu quase não cozinhava; agora preparo a comida todos os dias.",
         "fr": "Avant, je ne cuisinais presque jamais ; maintenant, je prépare les repas tous les jours.",
-        "it": "Prima non cucinavo quasi mai; ora preparo da mangiare tutti i giorni."
+        "it": "Prima non cucinavo quasi mai; ora preparo da mangiare tutti i giorni.",
+        "de": "Früher habe ich kaum gekocht. Jetzt koche ich jeden Tag."
       },
       "image_url": ""
     },
@@ -747,7 +1109,8 @@
         "en": "I learned how to cook when I started living on my own.",
         "pt": "Aprendi a cozinhar quando comecei a morar por conta própria.",
         "fr": "J'ai appris à cuisiner quand j'ai commencé à vivre de façon indépendante.",
-        "it": "Ho imparato a cucinare quando ho cominciato a vivere per conto mio."
+        "it": "Ho imparato a cucinare quando ho cominciato a vivere per conto mio.",
+        "de": "Ich habe kochen gelernt, als ich angefangen habe, selbstständig zu leben."
       },
       "image_url": ""
     },
@@ -758,18 +1121,20 @@
         "en": "I got used to setting out my clothes the night before.",
         "pt": "Me acostumei a separar a roupa na noite anterior.",
         "fr": "Je me suis habitué à préparer mes vêtements la veille au soir. / Je me suis habituée à préparer mes vêtements la veille au soir.",
-        "it": "Ho preso l'abitudine di preparare i vestiti la sera prima."
+        "it": "Ho preso l'abitudine di preparare i vestiti la sera prima.",
+        "de": "Ich habe mich daran gewöhnt, meine Kleidung am Abend vorher bereitzulegen."
       },
       "image_url": ""
     },
     {
       "id": "hpc_070",
-      "es": "Antes no sabía nadar; aprendí de adulto/a.",
+      "es": "Antes no sabía nadar; aprendí de adulto. / Antes no sabía nadar; aprendí de adulta.",
       "translations": {
         "en": "I didn't know how to swim before; I learned as an adult.",
         "pt": "Antes eu não sabia nadar; aprendi na vida adulta.",
         "fr": "Avant, je ne savais pas nager ; j'ai appris à l'âge adulte.",
-        "it": "Prima non sapevo nuotare; ho imparato da adulto. / Prima non sapevo nuotare; ho imparato da adulta."
+        "it": "Prima non sapevo nuotare; ho imparato da adulto. / Prima non sapevo nuotare; ho imparato da adulta.",
+        "de": "Früher konnte ich nicht schwimmen. Ich habe es erst als Erwachsener gelernt. / Früher konnte ich nicht schwimmen. Ich habe es erst als Erwachsene gelernt."
       },
       "image_url": ""
     },
@@ -780,7 +1145,8 @@
         "en": "Now I can have a short conversation in French.",
         "pt": "Agora consigo manter uma conversa breve em francês.",
         "fr": "Maintenant, je peux avoir une courte conversation en français.",
-        "it": "Ora riesco a fare una breve conversazione in francese."
+        "it": "Ora riesco a fare una breve conversazione in francese.",
+        "de": "Jetzt kann ich ein kurzes Gespräch auf Französisch führen."
       },
       "image_url": ""
     },
@@ -791,7 +1157,8 @@
         "en": "I used to feel embarrassed to ask questions; now I find it easier to ask for help.",
         "pt": "Antes eu tinha vergonha de perguntar; agora peço ajuda com mais facilidade.",
         "fr": "Avant, j'avais honte de poser des questions ; maintenant, je demande de l'aide plus facilement.",
-        "it": "Prima mi vergognavo a fare domande; ora chiedo aiuto più facilmente."
+        "it": "Prima mi vergognavo di fare domande; ora chiedo aiuto più facilmente.",
+        "de": "Früher war es mir peinlich, Fragen zu stellen. Jetzt fällt es mir leichter, um Hilfe zu bitten."
       },
       "image_url": ""
     },
@@ -802,7 +1169,8 @@
         "en": "I used to depend on my family for almost everything.",
         "pt": "Antes eu dependia da minha família para quase tudo.",
         "fr": "Avant, je dépendais de ma famille pour presque tout.",
-        "it": "Prima dipendevo dalla mia famiglia per quasi tutto."
+        "it": "Prima dipendevo dalla mia famiglia per quasi tutto.",
+        "de": "Früher war ich bei fast allem auf meine Familie angewiesen."
       },
       "image_url": ""
     },
@@ -813,7 +1181,8 @@
         "en": "Now I do more things on my own.",
         "pt": "Agora faço mais coisas por conta própria.",
         "fr": "Maintenant, je fais plus de choses par moi-même.",
-        "it": "Ora faccio più cose per conto mio."
+        "it": "Ora faccio più cose per conto mio.",
+        "de": "Jetzt mache ich mehr Dinge selbstständig."
       },
       "image_url": ""
     },
@@ -824,7 +1193,8 @@
         "en": "I haven't changed as much as it seems.",
         "pt": "Não mudei tanto quanto parece.",
         "fr": "Je n'ai pas changé autant qu'il y paraît.",
-        "it": "Non sono cambiato tanto quanto sembra. / Non sono cambiata tanto quanto sembra."
+        "it": "Non sono cambiato tanto quanto sembra. / Non sono cambiata tanto quanto sembra.",
+        "de": "Ich habe mich nicht so sehr verändert, wie es scheint."
       },
       "image_url": ""
     },
@@ -835,7 +1205,8 @@
         "en": "The thing that has changed the most is my schedule.",
         "pt": "O que mais mudou foi meu horário.",
         "fr": "Ce qui a le plus changé, c'est mon emploi du temps.",
-        "it": "La cosa che è cambiata di più è il mio orario."
+        "it": "La cosa che è cambiata di più è il mio orario.",
+        "de": "Am meisten hat sich mein Zeitplan verändert."
       },
       "image_url": ""
     },
@@ -846,7 +1217,8 @@
         "en": "My life is less peaceful than before, but I have more opportunities.",
         "pt": "Minha vida é menos tranquila do que antes, mas tenho mais oportunidades.",
         "fr": "Ma vie est moins tranquille qu'avant, mais j'ai plus de possibilités.",
-        "it": "La mia vita è meno tranquilla di prima, ma ho più opportunità."
+        "it": "La mia vita è meno tranquilla di prima, ma ho più opportunità.",
+        "de": "Mein Leben ist weniger ruhig als früher, aber ich habe mehr Möglichkeiten."
       },
       "image_url": ""
     },
@@ -857,7 +1229,8 @@
         "en": "I used to have more free time and fewer responsibilities.",
         "pt": "Antes eu tinha mais tempo livre e menos responsabilidades.",
         "fr": "Avant, j'avais plus de temps libre et moins de responsabilités.",
-        "it": "Prima avevo più tempo libero e meno responsabilità."
+        "it": "Prima avevo più tempo libero e meno responsabilità.",
+        "de": "Früher hatte ich mehr Freizeit und weniger Verantwortung."
       },
       "image_url": ""
     },
@@ -868,7 +1241,8 @@
         "en": "Now I value time with my family more.",
         "pt": "Agora valorizo mais o tempo com minha família.",
         "fr": "Maintenant, j'accorde plus d'importance au temps passé avec ma famille.",
-        "it": "Ora do più valore al tempo trascorso con la mia famiglia."
+        "it": "Ora do più valore al tempo trascorso con la mia famiglia.",
+        "de": "Die Zeit mit meiner Familie ist mir jetzt wichtiger."
       },
       "image_url": ""
     },
@@ -879,7 +1253,8 @@
         "en": "My tastes have changed, but I still enjoy traveling.",
         "pt": "Meus gostos mudaram, mas continuo gostando de viajar.",
         "fr": "Mes goûts ont changé, mais j'aime toujours voyager.",
-        "it": "I miei gusti sono cambiati, ma mi piace ancora viaggiare."
+        "it": "I miei gusti sono cambiati, ma mi piace ancora viaggiare.",
+        "de": "Mein Geschmack hat sich geändert, aber ich reise immer noch gern."
       },
       "image_url": ""
     },
@@ -890,7 +1265,8 @@
         "en": "That change didn't happen overnight.",
         "pt": "Essa mudança não aconteceu de um dia para o outro.",
         "fr": "Ce changement ne s'est pas fait du jour au lendemain.",
-        "it": "Quel cambiamento non è avvenuto da un giorno all'altro."
+        "it": "Quel cambiamento non è avvenuto da un giorno all'altro.",
+        "de": "Das hat sich nicht von heute auf morgen geändert."
       },
       "image_url": ""
     },
@@ -901,7 +1277,8 @@
         "en": "It was hard at first, but little by little it got better.",
         "pt": "No começo foi difícil, mas aos poucos melhorou.",
         "fr": "Au début, c'était difficile, mais petit à petit, ça s'est amélioré.",
-        "it": "All'inizio è stato difficile, ma poco alla volta è migliorato."
+        "it": "All'inizio è stato difficile, ma poco alla volta è migliorato.",
+        "de": "Am Anfang war es schwierig, aber nach und nach wurde es besser."
       },
       "image_url": ""
     },
@@ -912,9 +1289,15 @@
         "en": "What changed when you started that job?",
         "pt": "O que mudou quando você começou aquele trabalho?",
         "fr": "Qu'est-ce qui a changé quand tu as commencé ce travail ?",
-        "it": "Cosa è cambiato quando hai cominciato quel lavoro?"
+        "it": "Cosa è cambiato quando hai cominciato quel lavoro?",
+        "de": "Was hat sich geändert, als du mit diesem Job angefangen hast?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_084",
@@ -923,7 +1306,8 @@
         "en": "I had less free time, so I stopped doing some activities.",
         "pt": "Passei a ter menos tempo livre, então parei de fazer algumas atividades.",
         "fr": "J'avais moins de temps libre, alors j'ai arrêté certaines activités.",
-        "it": "Avevo meno tempo libero, quindi ho smesso di fare alcune attività."
+        "it": "Avevo meno tempo libero, quindi ho smesso di fare alcune attività.",
+        "de": "Ich hatte weniger Freizeit, also habe ich mit ein paar Aktivitäten aufgehört."
       },
       "image_url": ""
     },
@@ -934,7 +1318,8 @@
         "en": "Changing my schedule helped me rest better.",
         "pt": "Mudar de horário me ajudou a descansar melhor.",
         "fr": "Changer d'horaires m'a permis de mieux me reposer.",
-        "it": "Cambiare orario mi ha aiutato a riposare meglio."
+        "it": "Cambiare orario mi ha aiutato a riposare meglio.",
+        "de": "Ein anderer Zeitplan hat mir geholfen, mich besser auszuruhen."
       },
       "image_url": ""
     },
@@ -943,9 +1328,10 @@
       "es": "Desde que trabajo desde casa, paso más tiempo con mi pareja.",
       "translations": {
         "en": "Since I started working from home, I spend more time with my partner.",
-        "pt": "Desde que comecei a trabalhar em casa, passo mais tempo com meu parceiro ou minha parceira.",
-        "fr": "Depuis que je travaille à la maison, je passe plus de temps avec mon partenaire ou ma partenaire.",
-        "it": "Da quando lavoro da casa, trascorro più tempo con il mio compagno o la mia compagna."
+        "pt": "Desde que comecei a trabalhar em casa, passo mais tempo com meu parceiro. / Desde que comecei a trabalhar em casa, passo mais tempo com minha parceira.",
+        "fr": "Depuis que je travaille à la maison, je passe plus de temps avec mon partenaire. / Depuis que je travaille à la maison, je passe plus de temps avec ma partenaire.",
+        "it": "Da quando lavoro da casa, trascorro più tempo con il mio compagno. / Da quando lavoro da casa, trascorro più tempo con la mia compagna.",
+        "de": "Seit ich von zu Hause aus arbeite, verbringe ich mehr Zeit mit meinem Partner. / Seit ich von zu Hause aus arbeite, verbringe ich mehr Zeit mit meiner Partnerin."
       },
       "image_url": ""
     },
@@ -956,7 +1342,8 @@
         "en": "I went back to school because I wanted to change careers.",
         "pt": "Voltei a estudar porque queria mudar de profissão.",
         "fr": "J'ai repris mes études parce que je voulais changer de métier.",
-        "it": "Ho ripreso gli studi perché volevo cambiare professione."
+        "it": "Ho ripreso gli studi perché volevo cambiare professione.",
+        "de": "Ich bin wieder zur Schule gegangen, weil ich den Beruf wechseln wollte."
       },
       "image_url": ""
     },
@@ -967,7 +1354,8 @@
         "en": "I'm still learning how to organize this new routine.",
         "pt": "Ainda estou aprendendo a organizar essa nova rotina.",
         "fr": "J'apprends encore à organiser cette nouvelle routine.",
-        "it": "Sto ancora imparando a organizzare questa nuova routine."
+        "it": "Sto ancora imparando a organizzare questa nuova routine.",
+        "de": "Ich lerne noch, wie ich diesen neuen Alltag organisiere."
       },
       "image_url": ""
     },
@@ -975,10 +1363,11 @@
       "id": "hpc_089",
       "es": "Desde que nació nuestra hija, organizamos el día de otra manera.",
       "translations": {
-        "en": "Since our daughter was born, we organize our day differently.",
+        "en": "Since our daughter was born, we've organized our days differently.",
         "pt": "Desde que nossa filha nasceu, organizamos o dia de outra maneira.",
         "fr": "Depuis la naissance de notre fille, nous organisons nos journées autrement.",
-        "it": "Da quando è nata nostra figlia, organizziamo la giornata in modo diverso."
+        "it": "Da quando è nata nostra figlia, organizziamo la giornata in modo diverso.",
+        "de": "Seit unsere Tochter geboren wurde, planen wir unseren Tag anders."
       },
       "image_url": ""
     },
@@ -989,7 +1378,8 @@
         "en": "After we separated, each of us moved somewhere else.",
         "pt": "Depois de nos separarmos, cada um foi morar em outro lugar.",
         "fr": "Après notre séparation, chacun est allé vivre ailleurs.",
-        "it": "Dopo esserci separati, ognuno è andato a vivere altrove."
+        "it": "Dopo esserci separati, ognuno è andato a vivere altrove.",
+        "de": "Nach unserer Trennung sind wir an verschiedene Orte gezogen."
       },
       "image_url": ""
     },
@@ -999,8 +1389,9 @@
       "translations": {
         "en": "My brother moved far away, and now we talk by video call.",
         "pt": "Meu irmão foi morar longe e agora conversamos por videochamada.",
-        "fr": "Mon frère est parti vivre loin et maintenant, nous parlons par appel vidéo.",
-        "it": "Mio fratello è andato a vivere lontano e ora parliamo in videochiamata."
+        "fr": "Mon frère est parti vivre loin et maintenant, on s'appelle en vidéo.",
+        "it": "Mio fratello è andato a vivere lontano e ora parliamo in videochiamata.",
+        "de": "Mein Bruder ist weit weggezogen, und jetzt sprechen wir per Videoanruf."
       },
       "image_url": ""
     },
@@ -1011,7 +1402,8 @@
         "en": "We're still in touch, although we don't see each other as often anymore.",
         "pt": "Continuamos em contato, embora não nos vejamos com tanta frequência.",
         "fr": "Nous restons en contact, même si nous nous voyons moins souvent.",
-        "it": "Restiamo in contatto, anche se non ci vediamo più così spesso."
+        "it": "Restiamo in contatto, anche se non ci vediamo più così spesso.",
+        "de": "Wir bleiben in Kontakt, auch wenn wir uns nicht mehr so oft sehen."
       },
       "image_url": ""
     },
@@ -1022,7 +1414,8 @@
         "en": "We used to spend the holidays all together.",
         "pt": "Antes passávamos as festas todos juntos.",
         "fr": "Avant, nous passions les fêtes tous ensemble.",
-        "it": "Prima passavamo le feste tutti insieme."
+        "it": "Prima passavamo le feste tutti insieme.",
+        "de": "Früher haben wir die Feiertage alle zusammen verbracht."
       },
       "image_url": ""
     },
@@ -1033,7 +1426,8 @@
         "en": "Now we live in different cities and get together once a year.",
         "pt": "Agora moramos em cidades diferentes e nos reunimos uma vez por ano.",
         "fr": "Maintenant, nous habitons dans des villes différentes et nous nous réunissons une fois par an.",
-        "it": "Ora viviamo in città diverse e ci riuniamo una volta all'anno."
+        "it": "Ora viviamo in città diverse e ci riuniamo una volta all'anno.",
+        "de": "Jetzt wohnen wir in verschiedenen Städten und treffen uns einmal im Jahr."
       },
       "image_url": ""
     },
@@ -1044,7 +1438,8 @@
         "en": "In what order did those changes happen?",
         "pt": "Em que ordem aconteceram essas mudanças?",
         "fr": "Dans quel ordre ces changements ont-ils eu lieu ?",
-        "it": "In che ordine sono avvenuti questi cambiamenti?"
+        "it": "In che ordine sono avvenuti questi cambiamenti?",
+        "de": "In welcher Reihenfolge sind diese Veränderungen passiert?"
       },
       "image_url": ""
     },
@@ -1055,7 +1450,8 @@
         "en": "First I finished my studies; two years later I moved to a different city.",
         "pt": "Primeiro terminei os estudos; dois anos depois mudei de cidade.",
         "fr": "J'ai d'abord terminé mes études ; deux ans plus tard, j'ai changé de ville.",
-        "it": "Prima ho finito gli studi; due anni dopo ho cambiato città."
+        "it": "Prima ho finito gli studi; due anni dopo ho cambiato città.",
+        "de": "Zuerst habe ich mein Studium abgeschlossen. Zwei Jahre später bin ich in eine andere Stadt gezogen."
       },
       "image_url": ""
     },
@@ -1066,9 +1462,15 @@
         "en": "Was that before or after you started working?",
         "pt": "Isso foi antes ou depois de você começar a trabalhar?",
         "fr": "C'était avant ou après que tu as commencé à travailler ?",
-        "it": "È stato prima o dopo che hai cominciato a lavorare?"
+        "it": "È stato prima o dopo che hai cominciato a lavorare?",
+        "de": "War das, bevor oder nachdem du angefangen hast zu arbeiten?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_098",
@@ -1077,9 +1479,15 @@
         "en": "How long did you live with your family after finishing your studies?",
         "pt": "Por quanto tempo você morou com sua família depois de terminar os estudos?",
         "fr": "Combien de temps as-tu vécu avec ta famille après tes études ?",
-        "it": "Per quanto tempo hai vissuto con la tua famiglia dopo aver finito gli studi?"
+        "it": "Per quanto tempo hai vissuto con la tua famiglia dopo aver finito gli studi?",
+        "de": "Wie lange hast du nach dem Studium bei deiner Familie gewohnt?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_099",
@@ -1088,9 +1496,15 @@
         "en": "Was it your decision, or did the situation change?",
         "pt": "Foi uma decisão sua ou a situação mudou?",
         "fr": "C'était ta décision ou la situation a changé ?",
-        "it": "È stata una tua decisione o è cambiata la situazione?"
+        "it": "È stata una tua decisione o è cambiata la situazione?",
+        "de": "War das deine Entscheidung oder hat sich die Situation geändert?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_100",
@@ -1099,31 +1513,48 @@
         "en": "What things in your life are still the same?",
         "pt": "Que coisas na sua vida continuam iguais?",
         "fr": "Quelles choses dans ta vie sont restées les mêmes ?",
-        "it": "Quali cose nella tua vita sono rimaste uguali?"
+        "it": "Quali cose nella tua vita sono rimaste uguali?",
+        "de": "Was ist in deinem Leben gleich geblieben?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_101",
-      "es": "¿Qué echas de menos de aquella época?",
+      "es": "¿Qué extrañas de aquella época?",
       "translations": {
         "en": "What do you miss about that time?",
         "pt": "Do que você sente falta daquela época?",
         "fr": "Qu'est-ce qui te manque de cette époque ?",
-        "it": "Cosa ti manca di quel periodo?"
+        "it": "Cosa ti manca di quel periodo?",
+        "de": "Was vermisst du aus dieser Zeit?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(España: ¿Qué echas de menos de aquella época?)",
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_102",
-      "es": "Echo de menos tener más tiempo para mis amigos.",
+      "es": "Extraño tener más tiempo para mis amigos.",
       "translations": {
         "en": "I miss having more time for my friends.",
         "pt": "Sinto falta de ter mais tempo para meus amigos.",
         "fr": "Ça me manque d'avoir plus de temps pour mes amis.",
-        "it": "Mi manca avere più tempo per i miei amici."
+        "it": "Mi manca avere più tempo per i miei amici.",
+        "de": "Ich vermisse es, so viel Zeit für meine Freunde zu haben wie früher."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(España: Echo de menos tener más tiempo para mis amigos)"
+      }
     },
     {
       "id": "hpc_103",
@@ -1132,20 +1563,32 @@
         "en": "Is there anything you find easier now?",
         "pt": "Tem alguma coisa que ficou mais fácil para você agora?",
         "fr": "Y a-t-il quelque chose que tu trouves plus facile maintenant ?",
-        "it": "C'è qualcosa che adesso trovi più facile?"
+        "it": "C'è qualcosa che adesso trovi più facile?",
+        "de": "Gibt es etwas, das dir jetzt leichter fällt?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_104",
       "es": "¿Te gustaría volver a vivir donde creciste?",
       "translations": {
-        "en": "Would you like to live where you grew up again?",
+        "en": "Would you like to move back to where you grew up?",
         "pt": "Você gostaria de voltar a morar onde cresceu?",
         "fr": "Aimerais-tu retourner vivre là où tu as grandi ?",
-        "it": "Ti piacerebbe tornare a vivere dove sei cresciuto? / Ti piacerebbe tornare a vivere dove sei cresciuta?"
+        "it": "Ti piacerebbe tornare a vivere dove sei cresciuto? / Ti piacerebbe tornare a vivere dove sei cresciuta?",
+        "de": "Würdest du gern wieder dort wohnen, wo du aufgewachsen bist?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hpc_105",
@@ -1154,7 +1597,8 @@
         "en": "It was a good stage of my life, but I don't want to go back to that routine.",
         "pt": "Foi uma boa fase, mas não quero voltar àquela rotina.",
         "fr": "C'était une bonne période, mais je ne veux pas reprendre cette routine.",
-        "it": "È stato un bel periodo, ma non voglio tornare a quella routine."
+        "it": "È stato un bel periodo, ma non voglio tornare a quella routine.",
+        "de": "Es war eine schöne Zeit, aber ich möchte nicht wieder so leben wie damals."
       },
       "image_url": ""
     },
@@ -1165,7 +1609,8 @@
         "en": "I like my life now, although I miss some things from the past.",
         "pt": "Gosto da minha vida atual, embora sinta falta de algumas coisas de antes.",
         "fr": "J'aime ma vie actuelle, même si certaines choses d'avant me manquent.",
-        "it": "Mi piace la mia vita attuale, anche se mi mancano alcune cose di prima."
+        "it": "Mi piace la mia vita attuale, anche se mi mancano alcune cose di prima.",
+        "de": "Mein Leben gefällt mir jetzt, auch wenn ich manches von früher vermisse."
       },
       "image_url": ""
     },
@@ -1176,7 +1621,8 @@
         "en": "I'd rather not talk about that stage of my life.",
         "pt": "Prefiro não falar dessa fase da minha vida.",
         "fr": "Je préfère ne pas parler de cette période de ma vie.",
-        "it": "Preferisco non parlare di quella fase della mia vita."
+        "it": "Preferisco non parlare di quella fase della mia vita.",
+        "de": "Über diesen Abschnitt meines Lebens spreche ich lieber nicht."
       },
       "image_url": ""
     },
@@ -1187,7 +1633,8 @@
         "en": "There's no need to share every detail.",
         "pt": "Não precisa contar todos os detalhes.",
         "fr": "Il n'est pas nécessaire de raconter tous les détails.",
-        "it": "Non c'è bisogno di raccontare tutti i dettagli."
+        "it": "Non c'è bisogno di raccontare tutti i dettagli.",
+        "de": "Man muss nicht jedes Detail erzählen."
       },
       "image_url": ""
     },
@@ -1198,7 +1645,8 @@
         "en": "It wasn't in college; it was when I was already working.",
         "pt": "Não foi na faculdade; foi quando eu já trabalhava.",
         "fr": "Ce n'était pas à l'université ; c'était quand je travaillais déjà.",
-        "it": "Non è stato all'università; è stato quando già lavoravo."
+        "it": "Non è stato all'università; è stato quando già lavoravo.",
+        "de": "Das war nicht im Studium, sondern als ich schon gearbeitet habe."
       },
       "image_url": ""
     },
@@ -1209,7 +1657,8 @@
         "en": "I mean what I used to do regularly, not just on one occasion.",
         "pt": "Estou falando do que eu fazia habitualmente, não de uma única ocasião.",
         "fr": "Je parle de ce que je faisais habituellement, pas d'une seule occasion.",
-        "it": "Mi riferisco a quello che facevo abitualmente, non a una sola occasione."
+        "it": "Mi riferisco a quello che facevo abitualmente, non a una sola occasione.",
+        "de": "Ich meine, was ich regelmäßig gemacht habe, nicht nur ein einziges Mal."
       },
       "image_url": ""
     },
@@ -1220,7 +1669,8 @@
         "en": "The move was two years ago; the job change came later.",
         "pt": "A mudança de casa foi há dois anos; a mudança de emprego veio depois.",
         "fr": "Le déménagement date d'il y a deux ans ; le changement d'emploi a eu lieu ensuite.",
-        "it": "Il trasloco è stato due anni fa; il cambio di lavoro è avvenuto dopo."
+        "it": "Il trasloco è stato due anni fa; il cambio di lavoro è avvenuto dopo.",
+        "de": "Der Umzug war vor zwei Jahren. Den Job habe ich erst danach gewechselt."
       },
       "image_url": ""
     },
@@ -1231,7 +1681,8 @@
         "en": "I lived there for three years, but I don't live there anymore.",
         "pt": "Morei lá por três anos, mas não moro mais lá.",
         "fr": "J'y ai vécu pendant trois ans, mais je n'y habite plus.",
-        "it": "Ho vissuto lì per tre anni, ma non ci abito più."
+        "it": "Ho vissuto lì per tre anni, ma non ci abito più.",
+        "de": "Ich habe dort drei Jahre gewohnt, aber jetzt wohne ich nicht mehr dort."
       },
       "image_url": ""
     },
@@ -1241,8 +1692,9 @@
       "translations": {
         "en": "No, I didn't stop studying; I switched courses.",
         "pt": "Não, não parei de estudar; mudei de curso.",
-        "fr": "Non, je n'ai pas arrêté d'étudier ; j'ai changé de formation.",
-        "it": "No, non ho smesso di studiare; ho cambiato corso."
+        "fr": "Non, je n'ai pas arrêté d'étudier ; j'ai changé de cours.",
+        "it": "No, non ho smesso di studiare; ho cambiato corso.",
+        "de": "Nein, ich habe nicht aufgehört zu lernen. Ich habe den Kurs gewechselt."
       },
       "image_url": ""
     },
@@ -1253,7 +1705,8 @@
         "en": "The most important thing for me was learning to live on my own.",
         "pt": "O mais importante para mim foi aprender a morar por conta própria.",
         "fr": "Le plus important pour moi a été d'apprendre à vivre de façon indépendante.",
-        "it": "La cosa più importante per me è stata imparare a vivere per conto mio."
+        "it": "La cosa più importante per me è stata imparare a vivere per conto mio.",
+        "de": "Am wichtigsten war für mich, zu lernen, wie man auf eigenen Beinen steht."
       },
       "image_url": ""
     }
