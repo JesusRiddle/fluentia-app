@@ -1,752 +1,43 @@
 {
   "module": "Geografía y Naturaleza",
   "level": "A1",
-  "revisado": false,
+  "revisado": true,
   "cards": [
-    {
-      "id": "geo1",
-      "es": "El continente",
-      "translations": {
-        "en": "The continent",
-        "pt": "O continente",
-        "fr": "Le continent",
-        "it": "Il continente"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the continents",
-        "pt": "Plural: os continentes",
-        "fr": "Plural: les continents",
-        "it": "Plural: i continenti"
-      }
-    },
-    {
-      "id": "geo2",
-      "es": "El océano",
-      "translations": {
-        "en": "The ocean",
-        "pt": "O oceano",
-        "fr": "L’océan",
-        "it": "L’oceano"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the oceans",
-        "pt": "Plural: os oceanos",
-        "fr": "Plural: les océans",
-        "it": "Plural: gli oceani"
-      }
-    },
-    {
-      "id": "geo3",
-      "es": "El mar",
-      "translations": {
-        "en": "The sea",
-        "pt": "O mar",
-        "fr": "La mer",
-        "it": "Il mare"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the seas",
-        "pt": "Plural: os mares",
-        "fr": "Plural: les mers",
-        "it": "Plural: i mari"
-      }
-    },
-    {
-      "id": "geo4",
-      "es": "La isla",
-      "translations": {
-        "en": "The island",
-        "pt": "A ilha",
-        "fr": "L’île",
-        "it": "L’isola"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the islands",
-        "pt": "Plural: as ilhas",
-        "fr": "Plural: les îles",
-        "it": "Plural: le isole"
-      }
-    },
-    {
-      "id": "geo5",
-      "es": "La península",
-      "translations": {
-        "en": "The peninsula",
-        "pt": "A península",
-        "fr": "La péninsule",
-        "it": "La penisola"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the peninsulas",
-        "pt": "Plural: as penínsulas",
-        "fr": "Plural: les péninsules",
-        "it": "Plural: le penisole"
-      }
-    },
-    {
-      "id": "geo6",
-      "es": "La costa",
-      "translations": {
-        "en": "The coast",
-        "pt": "A costa",
-        "fr": "La côte",
-        "it": "La costa"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the coasts",
-        "pt": "Plural: as costas",
-        "fr": "Plural: les côtes",
-        "it": "Plural: le coste"
-      }
-    },
-    {
-      "id": "geo7",
-      "es": "La bahía",
-      "translations": {
-        "en": "The bay",
-        "pt": "A baía",
-        "fr": "La baie",
-        "it": "La baia"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the bays",
-        "pt": "Plural: as baías",
-        "fr": "Plural: les baies",
-        "it": "Plural: le baie"
-      }
-    },
-    {
-      "id": "geo8",
-      "es": "El golfo",
-      "translations": {
-        "en": "The gulf",
-        "pt": "O golfo",
-        "fr": "Le golfe",
-        "it": "Il golfo"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the gulfs",
-        "pt": "Plural: os golfos",
-        "fr": "Plural: les golfes",
-        "it": "Plural: i golfi"
-      }
-    },
-    {
-      "id": "geo9",
-      "es": "El estrecho",
-      "translations": {
-        "en": "The strait",
-        "pt": "O estreito",
-        "fr": "Le détroit",
-        "it": "Lo stretto"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the straits",
-        "pt": "Plural: os estreitos",
-        "fr": "Plural: les détroits",
-        "it": "Plural: gli stretti"
-      }
-    },
-    {
-      "id": "geo10",
-      "es": "El arrecife de coral",
-      "translations": {
-        "en": "The coral reef",
-        "pt": "O recife de coral",
-        "fr": "Le récif corallien",
-        "it": "La scogliera corallina"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the coral reefs",
-        "pt": "Plural: os recifes de coral",
-        "fr": "Plural: les récifs coralliens",
-        "it": "Plural: le scogliere coralline"
-      }
-    },
-    {
-      "id": "geo11",
-      "es": "La montaña",
-      "translations": {
-        "en": "The mountain",
-        "pt": "A montanha",
-        "fr": "La montagne",
-        "it": "La montagna"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the mountains",
-        "pt": "Plural: as montanhas",
-        "fr": "Plural: les montagnes",
-        "it": "Plural: le montagne"
-      }
-    },
-    {
-      "id": "geo12",
-      "es": "La cordillera",
-      "translations": {
-        "en": "The mountain range",
-        "pt": "A cordilheira",
-        "fr": "La chaîne de montagnes",
-        "it": "La catena montuosa"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the mountain ranges",
-        "pt": "Plural: as cordilheiras",
-        "fr": "Plural: les chaînes de montagnes",
-        "it": "Plural: le catene montuose"
-      }
-    },
-    {
-      "id": "geo13",
-      "es": "La colina",
-      "translations": {
-        "en": "The hill",
-        "pt": "A colina",
-        "fr": "La colline",
-        "it": "La collina"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the hills",
-        "pt": "Plural: as colinas",
-        "fr": "Plural: les collines",
-        "it": "Plural: le colline"
-      }
-    },
-    {
-      "id": "geo14",
-      "es": "El valle",
-      "translations": {
-        "en": "The valley",
-        "pt": "O vale",
-        "fr": "La vallée",
-        "it": "La valle"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the valleys",
-        "pt": "Plural: os vales",
-        "fr": "Plural: les vallées",
-        "it": "Plural: le valli"
-      }
-    },
-    {
-      "id": "geo15",
-      "es": "La llanura",
-      "translations": {
-        "en": "The plain",
-        "pt": "A planície",
-        "fr": "La plaine",
-        "it": "La pianura"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the plains",
-        "pt": "Plural: as planícies",
-        "fr": "Plural: les plaines",
-        "it": "Plural: le pianure"
-      }
-    },
-    {
-      "id": "geo16",
-      "es": "La meseta",
-      "translations": {
-        "en": "The plateau",
-        "pt": "O planalto",
-        "fr": "Le plateau",
-        "it": "L’altopiano"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the plateaus",
-        "pt": "Plural: os planaltos",
-        "fr": "Plural: les plateaux",
-        "it": "Plural: gli altopiani"
-      }
-    },
-    {
-      "id": "geo17",
-      "es": "La cima",
-      "translations": {
-        "en": "The summit",
-        "pt": "O cume",
-        "fr": "Le sommet",
-        "it": "La cima"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the summits",
-        "pt": "Plural: os cumes",
-        "fr": "Plural: les sommets",
-        "it": "Plural: le cime"
-      }
-    },
-    {
-      "id": "geo18",
-      "es": "El acantilado",
-      "translations": {
-        "en": "The cliff",
-        "pt": "A falésia",
-        "fr": "La falaise",
-        "it": "La falesia"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the cliffs",
-        "pt": "Plural: as falésias",
-        "fr": "Plural: les falaises",
-        "it": "Plural: le falesie; se refiere a una pared rocosa escarpada, a menudo junto al mar."
-      }
-    },
-    {
-      "id": "geo19",
-      "es": "El volcán",
-      "translations": {
-        "en": "The volcano",
-        "pt": "O vulcão",
-        "fr": "Le volcan",
-        "it": "Il vulcano"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the volcanoes",
-        "pt": "Plural: os vulcões",
-        "fr": "Plural: les volcans",
-        "it": "Plural: i vulcani"
-      }
-    },
-    {
-      "id": "geo20",
-      "es": "El cráter",
-      "translations": {
-        "en": "The crater",
-        "pt": "A cratera",
-        "fr": "Le cratère",
-        "it": "Il cratere"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the craters",
-        "pt": "Plural: as crateras",
-        "fr": "Plural: les cratères",
-        "it": "Plural: i crateri"
-      }
-    },
-    {
-      "id": "geo21",
-      "es": "La cueva",
-      "translations": {
-        "en": "The cave",
-        "pt": "A caverna",
-        "fr": "La grotte",
-        "it": "La grotta"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the caves",
-        "pt": "Plural: as cavernas",
-        "fr": "Plural: les grottes",
-        "it": "Plural: le grotte"
-      }
-    },
-    {
-      "id": "geo22",
-      "es": "El cañón",
-      "translations": {
-        "en": "The canyon",
-        "pt": "O cânion",
-        "fr": "Le canyon",
-        "it": "Il canyon"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the canyons",
-        "pt": "Plural: os cânions",
-        "fr": "Plural: les canyons",
-        "it": "Plural: i canyon"
-      }
-    },
-    {
-      "id": "geo23",
-      "es": "La cascada",
-      "translations": {
-        "en": "The waterfall",
-        "pt": "A cachoeira",
-        "fr": "La cascade",
-        "it": "La cascata"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the waterfalls",
-        "pt": "Plural: as cachoeiras",
-        "fr": "Plural: les cascades",
-        "it": "Plural: le cascate"
-      }
-    },
-    {
-      "id": "geo24",
-      "es": "El arroyo",
-      "translations": {
-        "en": "The stream",
-        "pt": "O riacho",
-        "fr": "Le ruisseau",
-        "it": "Il ruscello"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the streams",
-        "pt": "Plural: os riachos",
-        "fr": "Plural: les ruisseaux",
-        "it": "Plural: i ruscelli"
-      }
-    },
-    {
-      "id": "geo25",
-      "es": "El manantial",
-      "translations": {
-        "en": "The spring",
-        "pt": "A nascente",
-        "fr": "La source",
-        "it": "La sorgente"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the springs",
-        "pt": "Plural: as nascentes",
-        "fr": "Plural: les sources",
-        "it": "Plural: le sorgenti"
-      }
-    },
-    {
-      "id": "geo26",
-      "es": "El delta",
-      "translations": {
-        "en": "The river delta",
-        "pt": "O delta fluvial",
-        "fr": "Le delta",
-        "it": "Il delta fluviale"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the river deltas",
-        "pt": "Plural: os deltas fluviais",
-        "fr": "Plural: les deltas",
-        "it": "Plural: i delta fluviali",
-        "es": "Desembocadura de un río con acumulación de sedimentos."
-      }
-    },
-    {
-      "id": "geo27",
-      "es": "El glaciar",
-      "translations": {
-        "en": "The glacier",
-        "pt": "A geleira",
-        "fr": "Le glacier",
-        "it": "Il ghiacciaio"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the glaciers",
-        "pt": "Plural: as geleiras",
-        "fr": "Plural: les glaciers",
-        "it": "Plural: i ghiacciai"
-      }
-    },
-    {
-      "id": "geo28",
-      "es": "El iceberg",
-      "translations": {
-        "en": "The iceberg",
-        "pt": "O iceberg",
-        "fr": "L’iceberg",
-        "it": "L’iceberg"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the icebergs",
-        "pt": "Plural: os icebergs",
-        "fr": "Plural: les icebergs",
-        "it": "Plural: gli iceberg"
-      }
-    },
-    {
-      "id": "geo29",
-      "es": "El bosque",
-      "translations": {
-        "en": "The forest",
-        "pt": "A floresta",
-        "fr": "La forêt",
-        "it": "Il bosco"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the forests",
-        "pt": "Plural: as florestas",
-        "fr": "Plural: les forêts",
-        "it": "Plural: i boschi; «Foresta» suele referirse a un bosque extenso o denso."
-      }
-    },
-    {
-      "id": "geo30",
-      "es": "La selva tropical",
-      "translations": {
-        "en": "The tropical rainforest",
-        "pt": "A floresta tropical úmida",
-        "fr": "La forêt tropicale humide",
-        "it": "La foresta pluviale tropicale"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the tropical rainforests",
-        "pt": "Plural: as florestas tropicais úmidas",
-        "fr": "Plural: les forêts tropicales humides",
-        "it": "Plural: le foreste pluviali tropicali"
-      }
-    },
-    {
-      "id": "geo31",
-      "es": "El desierto",
-      "translations": {
-        "en": "The desert",
-        "pt": "O deserto",
-        "fr": "Le désert",
-        "it": "Il deserto"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the deserts",
-        "pt": "Plural: os desertos",
-        "fr": "Plural: les déserts",
-        "it": "Plural: i deserti"
-      }
-    },
-    {
-      "id": "geo32",
-      "es": "La duna",
-      "translations": {
-        "en": "The dune",
-        "pt": "A duna",
-        "fr": "La dune",
-        "it": "La duna"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the dunes",
-        "pt": "Plural: as dunas",
-        "fr": "Plural: les dunes",
-        "it": "Plural: le dune"
-      }
-    },
-    {
-      "id": "geo33",
-      "es": "La sabana",
-      "translations": {
-        "en": "The savanna",
-        "pt": "A savana",
-        "fr": "La savane",
-        "it": "La savana"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the savannas",
-        "pt": "Plural: as savanas",
-        "fr": "Plural: les savanes",
-        "it": "Plural: le savane"
-      }
-    },
-    {
-      "id": "geo34",
-      "es": "La pradera",
-      "translations": {
-        "en": "The prairie",
-        "pt": "A pradaria",
-        "fr": "La prairie",
-        "it": "La prateria"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the prairies; «Grassland» es un término más amplio para los pastizales.",
-        "pt": "Plural: as pradarias",
-        "fr": "Plural: les prairies",
-        "it": "Plural: le praterie"
-      }
-    },
-    {
-      "id": "geo35",
-      "es": "La estepa",
-      "translations": {
-        "en": "The steppe",
-        "pt": "A estepe",
-        "fr": "La steppe",
-        "it": "La steppa"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the steppes",
-        "pt": "Plural: as estepes",
-        "fr": "Plural: les steppes",
-        "it": "Plural: le steppe"
-      }
-    },
-    {
-      "id": "geo36",
-      "es": "La tundra",
-      "translations": {
-        "en": "The tundra",
-        "pt": "A tundra",
-        "fr": "La toundra",
-        "it": "La tundra"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the tundras. Como bioma suele ser incontable; el plural se usa para regiones diferenciadas.",
-        "pt": "Plural: as tundras",
-        "fr": "Plural: les toundras",
-        "it": "Plural: le tundre"
-      }
-    },
-    {
-      "id": "geo37",
-      "es": "El pantano",
-      "translations": {
-        "en": "The swamp",
-        "pt": "O pântano",
-        "fr": "Le marécage",
-        "it": "La palude"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the swamps",
-        "pt": "Plural: os pântanos",
-        "fr": "Plural: les marécages",
-        "it": "Plural: le paludi"
-      }
-    },
-    {
-      "id": "geo38",
-      "es": "El humedal",
-      "translations": {
-        "en": "The wetland",
-        "pt": "A área úmida",
-        "fr": "La zone humide",
-        "it": "La zona umida"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the wetlands",
-        "pt": "Plural: as áreas úmidas",
-        "fr": "Plural: les zones humides",
-        "it": "Plural: le zone umide"
-      }
-    },
-    {
-      "id": "geo39",
-      "es": "El oasis",
-      "translations": {
-        "en": "The oasis",
-        "pt": "O oásis",
-        "fr": "L’oasis",
-        "it": "L’oasi"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the oases",
-        "pt": "Plural: os oásis",
-        "fr": "Plural: les oasis",
-        "it": "Plural: le oasi"
-      }
-    },
-    {
-      "id": "geo40",
-      "es": "El manglar",
-      "translations": {
-        "en": "The mangrove forest",
-        "pt": "O manguezal",
-        "fr": "La mangrove",
-        "it": "La foresta di mangrovie"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the mangrove forests",
-        "pt": "Plural: os manguezais",
-        "fr": "Plural: les mangroves",
-        "it": "Plural: le foreste di mangrovie"
-      }
-    },
-    {
-      "id": "geo41",
-      "es": "El río",
-      "translations": {
-        "en": "The river",
-        "pt": "O rio",
-        "fr": "La rivière",
-        "it": "Il fiume"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the rivers",
-        "pt": "Plural: os rios",
-        "fr": "Plural: les rivières; «Fleuve» se usa para un río que desemboca en el mar;; «rivière» es el término general para otros ríos.",
-        "it": "Plural: i fiumi"
-      }
-    },
-    {
-      "id": "geo42",
-      "es": "El lago",
-      "translations": {
-        "en": "The lake",
-        "pt": "O lago",
-        "fr": "Le lac",
-        "it": "Il lago"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the lakes",
-        "pt": "Plural: os lagos",
-        "fr": "Plural: les lacs",
-        "it": "Plural: i laghi"
-      }
-    },
-    {
-      "id": "geo43",
-      "es": "La playa",
-      "translations": {
-        "en": "The beach",
-        "pt": "A praia",
-        "fr": "La plage",
-        "it": "La spiaggia"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "Plural: the beaches",
-        "pt": "Plural: as praias",
-        "fr": "Plural: les plages",
-        "it": "Plural: le spiagge"
-      }
-    },
     {
       "id": "geo44",
       "es": "La naturaleza",
       "translations": {
-        "en": "The nature",
+        "en": "Nature",
         "pt": "A natureza",
         "fr": "La nature",
-        "it": "La natura"
+        "it": "La natura",
+        "de": "Die Natur"
       },
       "image_url": "",
       "notes": {
-        "en": "En sentido general, se usa normalmente «nature» sin artículo; «the nature» requiere un contexto específico."
+        "en": "Para hablar de la naturaleza en general, se usa «nature» sin artículo."
+      },
+      "examples": {
+        "en": {
+          "text": "I like spending time in nature.",
+          "es": "Me gusta pasar tiempo en la naturaleza."
+        },
+        "fr": {
+          "text": "J'aime passer du temps dans la nature.",
+          "es": "Me gusta pasar tiempo en la naturaleza."
+        },
+        "it": {
+          "text": "Mi piace passare del tempo nella natura.",
+          "es": "Me gusta pasar tiempo en la naturaleza."
+        },
+        "pt": {
+          "text": "Gosto de passar tempo na natureza.",
+          "es": "Me gusta pasar tiempo en la naturaleza."
+        },
+        "de": {
+          "text": "Ich verbringe gern Zeit in der Natur.",
+          "es": "Me gusta pasar tiempo en la naturaleza."
+        }
       }
     },
     {
@@ -756,124 +47,1521 @@
         "en": "The landscape",
         "pt": "A paisagem",
         "fr": "Le paysage",
-        "it": "Il paesaggio"
+        "it": "Il paesaggio",
+        "de": "Die Landschaft"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the landscapes",
-        "pt": "Plural: as paisagens",
-        "fr": "Plural: les paysages",
-        "it": "Plural: i paesaggi"
+        "en": "(Plural: The landscapes)",
+        "pt": "(Plural: As paisagens)",
+        "fr": "(Plural: Les paysages)",
+        "it": "(Plural: I paesaggi)",
+        "de": "(Plural: Die Landschaften)"
+      },
+      "examples": {
+        "en": {
+          "text": "The landscape changes after the tunnel.",
+          "es": "El paisaje cambia después del túnel."
+        },
+        "fr": {
+          "text": "Le paysage change après le tunnel.",
+          "es": "El paisaje cambia después del túnel."
+        },
+        "it": {
+          "text": "Il paesaggio cambia dopo la galleria.",
+          "es": "El paisaje cambia después del túnel."
+        },
+        "pt": {
+          "text": "A paisagem muda depois do túnel.",
+          "es": "El paisaje cambia después del túnel."
+        },
+        "de": {
+          "text": "Nach dem Tunnel verändert sich die Landschaft.",
+          "es": "El paisaje cambia después del túnel."
+        }
       }
     },
     {
-      "id": "geo46",
-      "es": "El árbol",
+      "id": "geo1",
+      "es": "El continente",
       "translations": {
-        "en": "The tree",
-        "pt": "A árvore",
-        "fr": "L’arbre",
-        "it": "L’albero"
+        "en": "The continent",
+        "pt": "O continente",
+        "fr": "Le continent",
+        "it": "Il continente",
+        "de": "Der Kontinent"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the trees",
-        "pt": "Plural: as árvores",
-        "fr": "Plural: les arbres",
-        "it": "Plural: gli alberi"
+        "en": "(Plural: The continents)",
+        "pt": "(Plural: Os continentes)",
+        "fr": "(Plural: Les continents)",
+        "it": "(Plural: I continenti)",
+        "de": "(Plural: Die Kontinente)"
+      },
+      "examples": {
+        "en": {
+          "text": "Europe is a continent.",
+          "es": "Europa es un continente."
+        },
+        "fr": {
+          "text": "L'Europe est un continent.",
+          "es": "Europa es un continente."
+        },
+        "it": {
+          "text": "L'Europa è un continente.",
+          "es": "Europa es un continente."
+        },
+        "pt": {
+          "text": "A Europa é um continente.",
+          "es": "Europa es un continente."
+        },
+        "de": {
+          "text": "Europa ist ein Kontinent.",
+          "es": "Europa es un continente."
+        }
       }
     },
     {
-      "id": "geo47",
-      "es": "La planta",
+      "id": "geo2",
+      "es": "El océano",
       "translations": {
-        "en": "The plant",
-        "pt": "A planta",
-        "fr": "La plante",
-        "it": "La pianta"
+        "en": "The ocean",
+        "pt": "O oceano",
+        "fr": "L'océan",
+        "it": "L'oceano",
+        "de": "Der Ozean"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the plants",
-        "pt": "Plural: as plantas",
-        "fr": "Plural: les plantes",
-        "it": "Plural: le piante"
+        "en": "(Plural: The oceans)",
+        "pt": "(Plural: Os oceanos)",
+        "fr": "(Plural: Les océans)",
+        "it": "(Plural: Gli oceani)",
+        "de": "(Plural: Die Ozeane)"
+      },
+      "examples": {
+        "en": {
+          "text": "This flight crosses the ocean.",
+          "es": "Este vuelo cruza el océano."
+        },
+        "fr": {
+          "text": "Ce vol traverse l'océan.",
+          "es": "Este vuelo cruza el océano."
+        },
+        "it": {
+          "text": "Questo volo attraversa l'oceano.",
+          "es": "Este vuelo cruza el océano."
+        },
+        "pt": {
+          "text": "Este voo cruza o oceano.",
+          "es": "Este vuelo cruza el océano."
+        },
+        "de": {
+          "text": "Dieser Flug führt über den Ozean.",
+          "es": "Este vuelo pasa sobre el océano."
+        }
       }
     },
     {
-      "id": "geo48",
-      "es": "La flor",
+      "id": "geo3",
+      "es": "El mar",
       "translations": {
-        "en": "The flower",
-        "pt": "A flor",
-        "fr": "La fleur",
-        "it": "Il fiore"
+        "en": "The sea",
+        "pt": "O mar",
+        "fr": "La mer",
+        "it": "Il mare",
+        "de": "Das Meer"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the flowers",
-        "pt": "Plural: as flores",
-        "fr": "Plural: les fleurs",
-        "it": "Plural: i fiori"
+        "en": "(Plural: The seas)",
+        "pt": "(Plural: Os mares)",
+        "fr": "(Plural: Les mers)",
+        "it": "(Plural: I mari)",
+        "de": "(Plural: Die Meere)"
+      },
+      "examples": {
+        "en": {
+          "text": "You can see the sea from here.",
+          "es": "Desde aquí se ve el mar."
+        },
+        "fr": {
+          "text": "On voit la mer d'ici.",
+          "es": "Desde aquí se ve el mar."
+        },
+        "it": {
+          "text": "Da qui si vede il mare.",
+          "es": "Desde aquí se ve el mar."
+        },
+        "pt": {
+          "text": "Dá para ver o mar daqui.",
+          "es": "Desde aquí se ve el mar."
+        },
+        "de": {
+          "text": "Von hier aus sieht man das Meer.",
+          "es": "Desde aquí se ve el mar."
+        }
       }
     },
     {
-      "id": "geo49",
-      "es": "La roca",
+      "id": "geo6",
+      "es": "La costa",
       "translations": {
-        "en": "The rock",
-        "pt": "A rocha",
-        "fr": "La roche",
-        "it": "La roccia"
+        "en": "The coast",
+        "pt": "A costa",
+        "fr": "La côte",
+        "it": "La costa",
+        "de": "Die Küste"
       },
       "image_url": "",
       "notes": {
-        "en": "Plural: the rocks",
-        "pt": "Plural: as rochas",
-        "fr": "Plural: les roches; «Pierre» designa habitualmente una piedra suelta;; «roche» se refiere a roca como material o formación.",
-        "it": "Plural: le rocce"
+        "en": "(Plural: The coasts)",
+        "pt": "(Plural: As costas)",
+        "fr": "(Plural: Les côtes)",
+        "it": "(Plural: Le coste)",
+        "de": "(Plural: Die Küsten)"
+      },
+      "examples": {
+        "en": {
+          "text": "The train runs along the coast.",
+          "es": "El tren va por la costa."
+        },
+        "fr": {
+          "text": "Le train longe la côte.",
+          "es": "El tren va por la costa."
+        },
+        "it": {
+          "text": "Il treno corre lungo la costa.",
+          "es": "El tren va por la costa."
+        },
+        "pt": {
+          "text": "O trem segue pela costa.",
+          "es": "El tren va por la costa."
+        },
+        "de": {
+          "text": "Der Zug fährt an der Küste entlang.",
+          "es": "El tren va por la costa."
+        }
       }
     },
     {
-      "id": "geo50",
-      "es": "La arena",
+      "id": "geo43",
+      "es": "La playa",
       "translations": {
-        "en": "The sand",
-        "pt": "A areia",
-        "fr": "Le sable",
-        "it": "La sabbia"
+        "en": "The beach",
+        "pt": "A praia",
+        "fr": "La plage",
+        "it": "La spiaggia",
+        "de": "Der Strand"
       },
       "image_url": "",
       "notes": {
-        "en": "En sentido general, «sand» suele utilizarse sin artículo en inglés."
+        "en": "(Plural: The beaches)",
+        "pt": "(Plural: As praias)",
+        "fr": "(Plural: Les plages)",
+        "it": "(Plural: Le spiagge)",
+        "de": "(Plural: Die Strände)"
+      },
+      "examples": {
+        "en": {
+          "text": "What time are we going to the beach?",
+          "es": "¿A qué hora vamos a la playa?"
+        },
+        "fr": {
+          "text": "À quelle heure est-ce qu'on va à la plage ?",
+          "es": "¿A qué hora vamos a la playa?"
+        },
+        "it": {
+          "text": "A che ora andiamo in spiaggia?",
+          "es": "¿A qué hora vamos a la playa?"
+        },
+        "pt": {
+          "text": "A que horas vamos à praia?",
+          "es": "¿A qué hora vamos a la playa?"
+        },
+        "de": {
+          "text": "Um wie viel Uhr gehen wir zum Strand?",
+          "es": "¿A qué hora vamos a la playa?"
+        }
       }
     },
     {
-      "id": "geo51",
-      "es": "La tierra",
+      "id": "geo4",
+      "es": "La isla",
       "translations": {
-        "en": "The soil",
-        "pt": "O solo",
-        "fr": "La terre",
-        "it": "Il suolo"
+        "en": "The island",
+        "pt": "A ilha",
+        "fr": "L'île",
+        "it": "L'isola",
+        "de": "Die Insel"
       },
       "image_url": "",
       "notes": {
-        "en": "En sentido general, «soil» suele utilizarse sin artículo en inglés."
+        "en": "(Plural: The islands)",
+        "pt": "(Plural: As ilhas)",
+        "fr": "(Plural: Les îles)",
+        "it": "(Plural: Le isole)",
+        "de": "(Plural: Die Inseln)"
+      },
+      "examples": {
+        "en": {
+          "text": "Tomorrow we're going to the island by boat.",
+          "es": "Mañana vamos a la isla en barco."
+        },
+        "fr": {
+          "text": "Demain, on va sur l'île en bateau.",
+          "es": "Mañana vamos a la isla en barco."
+        },
+        "it": {
+          "text": "Domani andiamo sull'isola in barca.",
+          "es": "Mañana vamos a la isla en barco."
+        },
+        "pt": {
+          "text": "Amanhã vamos de barco até a ilha.",
+          "es": "Mañana vamos a la isla en barco."
+        },
+        "de": {
+          "text": "Morgen fahren wir mit dem Boot auf die Insel.",
+          "es": "Mañana vamos a la isla en barco."
+        }
       }
     },
     {
-      "id": "geo52",
-      "es": "El agua",
+      "id": "geo5",
+      "es": "La península",
       "translations": {
-        "en": "The water",
-        "pt": "A água",
-        "fr": "L’eau",
-        "it": "L’acqua"
+        "en": "The peninsula",
+        "pt": "A península",
+        "fr": "La péninsule",
+        "it": "La penisola",
+        "de": "Die Halbinsel"
       },
       "image_url": "",
       "notes": {
-        "en": "En sentido general, «water» suele utilizarse sin artículo en inglés."
+        "en": "(Plural: The peninsulas)",
+        "pt": "(Plural: As penínsulas)",
+        "fr": "(Plural: Les péninsules)",
+        "it": "(Plural: Le penisole)",
+        "de": "(Plural: Die Halbinseln)"
+      },
+      "examples": {
+        "en": {
+          "text": "The peninsula is in the south of the country.",
+          "es": "La península está al sur del país."
+        },
+        "fr": {
+          "text": "La péninsule est dans le sud du pays.",
+          "es": "La península está al sur del país."
+        },
+        "it": {
+          "text": "La penisola si trova nel sud del paese.",
+          "es": "La península está al sur del país."
+        },
+        "pt": {
+          "text": "A península fica no sul do país.",
+          "es": "La península está al sur del país."
+        },
+        "de": {
+          "text": "Die Halbinsel liegt im Süden des Landes.",
+          "es": "La península está al sur del país."
+        }
+      }
+    },
+    {
+      "id": "geo7",
+      "es": "La bahía",
+      "translations": {
+        "en": "The bay",
+        "pt": "A baía",
+        "fr": "La baie",
+        "it": "La baia",
+        "de": "Die Bucht"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The bays)",
+        "pt": "(Plural: As baías)",
+        "fr": "(Plural: Les baies)",
+        "it": "(Plural: Le baie)",
+        "de": "(Plural: Die Buchten)"
+      },
+      "examples": {
+        "en": {
+          "text": "There are three small boats in the bay.",
+          "es": "Hay tres barcos pequeños en la bahía."
+        },
+        "fr": {
+          "text": "Il y a trois petits bateaux dans la baie.",
+          "es": "Hay tres barcos pequeños en la bahía."
+        },
+        "it": {
+          "text": "Nella baia ci sono tre piccole barche.",
+          "es": "Hay tres barcos pequeños en la bahía."
+        },
+        "pt": {
+          "text": "Há três barcos pequenos na baía.",
+          "es": "Hay tres barcos pequeños en la bahía."
+        },
+        "de": {
+          "text": "In der Bucht liegen drei kleine Boote.",
+          "es": "Hay tres barcos pequeños en la bahía."
+        }
+      }
+    },
+    {
+      "id": "geo8",
+      "es": "El golfo",
+      "translations": {
+        "en": "The gulf",
+        "pt": "O golfo",
+        "fr": "Le golfe",
+        "it": "Il golfo",
+        "de": "Der Golf"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The gulfs)",
+        "pt": "(Plural: Os golfos)",
+        "fr": "(Plural: Les golfes)",
+        "it": "(Plural: I golfi)",
+        "de": "(Plural: Die Golfe)"
+      },
+      "examples": {
+        "en": {
+          "text": "Mérida is near the Gulf of Mexico.",
+          "es": "Mérida está cerca del golfo de México."
+        },
+        "fr": {
+          "text": "Mérida est près du golfe du Mexique.",
+          "es": "Mérida está cerca del golfo de México."
+        },
+        "it": {
+          "text": "Mérida è vicino al golfo del Messico.",
+          "es": "Mérida está cerca del golfo de México."
+        },
+        "pt": {
+          "text": "Mérida fica perto do golfo do México.",
+          "es": "Mérida está cerca del golfo de México."
+        },
+        "de": {
+          "text": "Mérida liegt nahe am Golf von Mexiko.",
+          "es": "Mérida está cerca del golfo de México."
+        }
+      }
+    },
+    {
+      "id": "geo9",
+      "es": "El estrecho",
+      "translations": {
+        "en": "The strait",
+        "pt": "O estreito",
+        "fr": "Le détroit",
+        "it": "Lo stretto",
+        "de": "Die Meerenge"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The straits)",
+        "pt": "(Plural: Os estreitos)",
+        "fr": "(Plural: Les détroits)",
+        "it": "(Plural: Gli stretti)",
+        "de": "(Plural: Die Meerengen)",
+        "es": "(Paso angosto de agua entre dos tierras)"
+      },
+      "examples": {
+        "en": {
+          "text": "The ship is going to cross the strait.",
+          "es": "El barco va a cruzar el estrecho."
+        },
+        "fr": {
+          "text": "Le bateau va traverser le détroit.",
+          "es": "El barco va a cruzar el estrecho."
+        },
+        "it": {
+          "text": "La nave attraverserà lo stretto.",
+          "es": "El barco va a cruzar el estrecho."
+        },
+        "pt": {
+          "text": "O navio vai cruzar o estreito.",
+          "es": "El barco va a cruzar el estrecho."
+        },
+        "de": {
+          "text": "Das Schiff fährt gleich durch die Meerenge.",
+          "es": "El barco está a punto de cruzar el estrecho."
+        }
+      }
+    },
+    {
+      "id": "geo54",
+      "es": "El fiordo",
+      "translations": {
+        "en": "The fjord",
+        "pt": "O fiorde",
+        "fr": "Le fjord",
+        "it": "Il fiordo",
+        "de": "Der Fjord"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The fjords)",
+        "pt": "(Plural: Os fiordes)",
+        "fr": "(Plural: Les fjords)",
+        "it": "(Plural: I fiordi)",
+        "es": "(Entrada larga y estrecha del mar en un valle excavado por un glaciar)",
+        "de": "(Plural: Die Fjorde)"
+      },
+      "examples": {
+        "en": {
+          "text": "Does the boat tour go through the fjord?",
+          "es": "¿El paseo en barco pasa por el fiordo?"
+        },
+        "fr": {
+          "text": "La balade en bateau passe par le fjord ?",
+          "es": "¿El paseo en barco pasa por el fiordo?"
+        },
+        "it": {
+          "text": "Il giro in barca passa per il fiordo?",
+          "es": "¿El paseo en barco pasa por el fiordo?"
+        },
+        "pt": {
+          "text": "O passeio de barco passa pelo fiorde?",
+          "es": "¿El paseo en barco pasa por el fiordo?"
+        },
+        "de": {
+          "text": "Fährt das Ausflugsboot durch den Fjord?",
+          "es": "¿El barco de la excursión pasa por el fiordo?"
+        }
+      }
+    },
+    {
+      "id": "geo10",
+      "es": "El arrecife de coral",
+      "translations": {
+        "en": "The coral reef",
+        "pt": "O recife de coral",
+        "fr": "Le récif corallien",
+        "it": "La barriera corallina",
+        "de": "Das Korallenriff"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The coral reefs)",
+        "pt": "(Plural: Os recifes de coral)",
+        "fr": "(Plural: Les récifs coralliens)",
+        "it": "(Plural: Le barriere coralline)",
+        "de": "(Plural: Die Korallenriffe)"
+      },
+      "examples": {
+        "en": {
+          "text": "We saw lots of fish at the coral reef.",
+          "es": "Vimos muchos peces en el arrecife de coral."
+        },
+        "fr": {
+          "text": "On a vu beaucoup de poissons près du récif corallien.",
+          "es": "Vimos muchos peces cerca del arrecife de coral."
+        },
+        "it": {
+          "text": "Abbiamo visto molti pesci vicino alla barriera corallina.",
+          "es": "Vimos muchos peces cerca del arrecife de coral."
+        },
+        "pt": {
+          "text": "Vimos muitos peixes no recife de coral.",
+          "es": "Vimos muchos peces en el arrecife de coral."
+        },
+        "de": {
+          "text": "Am Korallenriff haben wir viele Fische gesehen.",
+          "es": "Vimos muchos peces en el arrecife de coral."
+        }
+      }
+    },
+    {
+      "id": "geo18",
+      "es": "El acantilado",
+      "translations": {
+        "en": "The cliff",
+        "pt": "A falésia",
+        "fr": "La falaise",
+        "it": "La falesia",
+        "de": "Die Klippe"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The cliffs)",
+        "pt": "(Plural: As falésias)",
+        "fr": "(Plural: Les falaises)",
+        "it": "(Plural: Le falesie) Suele referirse a un acantilado costero.",
+        "de": "(Plural: Die Klippen)",
+        "es": "(Pared rocosa alta y casi vertical, aquí junto al mar)"
+      },
+      "examples": {
+        "en": {
+          "text": "You can see the sea from the top of the cliff.",
+          "es": "El mar se ve desde lo alto del acantilado."
+        },
+        "fr": {
+          "text": "On voit la mer du haut de la falaise.",
+          "es": "El mar se ve desde lo alto del acantilado."
+        },
+        "it": {
+          "text": "Dall'alto della falesia si vede il mare.",
+          "es": "El mar se ve desde lo alto del acantilado."
+        },
+        "pt": {
+          "text": "Do alto da falésia dá para ver o mar.",
+          "es": "El mar se ve desde lo alto del acantilado."
+        },
+        "de": {
+          "text": "Von der Klippe aus sieht man das Meer.",
+          "es": "El mar se ve desde lo alto del acantilado."
+        }
+      }
+    },
+    {
+      "id": "geo11",
+      "es": "La montaña",
+      "translations": {
+        "en": "The mountain",
+        "pt": "A montanha",
+        "fr": "La montagne",
+        "it": "La montagna",
+        "de": "Der Berg"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The mountains)",
+        "pt": "(Plural: As montanhas)",
+        "fr": "(Plural: Les montagnes)",
+        "it": "(Plural: Le montagne)",
+        "de": "(Plural: Die Berge)"
+      },
+      "examples": {
+        "en": {
+          "text": "There's snow on the mountain.",
+          "es": "Hay nieve en la montaña."
+        },
+        "fr": {
+          "text": "Il y a de la neige sur la montagne.",
+          "es": "Hay nieve en la montaña."
+        },
+        "it": {
+          "text": "C'è neve sulla montagna.",
+          "es": "Hay nieve en la montaña."
+        },
+        "pt": {
+          "text": "Tem neve na montanha.",
+          "es": "Hay nieve en la montaña."
+        },
+        "de": {
+          "text": "Auf dem Berg liegt Schnee.",
+          "es": "Hay nieve en la montaña."
+        }
+      }
+    },
+    {
+      "id": "geo12",
+      "es": "La cordillera",
+      "translations": {
+        "en": "The mountain range",
+        "pt": "A cordilheira",
+        "fr": "La chaîne de montagnes",
+        "it": "La catena montuosa",
+        "de": "Das Gebirge"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The mountain ranges)",
+        "pt": "(Plural: As cordilheiras)",
+        "fr": "(Plural: Les chaînes de montagnes)",
+        "it": "(Plural: Le catene montuose)",
+        "de": "(Plural: Die Gebirge)"
+      },
+      "examples": {
+        "en": {
+          "text": "The Alps are a mountain range.",
+          "es": "Los Alpes son una cordillera."
+        },
+        "fr": {
+          "text": "Les Alpes sont une chaîne de montagnes.",
+          "es": "Los Alpes son una cordillera."
+        },
+        "it": {
+          "text": "Le Alpi sono una catena montuosa.",
+          "es": "Los Alpes son una cordillera."
+        },
+        "pt": {
+          "text": "Os Alpes são uma cordilheira.",
+          "es": "Los Alpes son una cordillera."
+        },
+        "de": {
+          "text": "Die Alpen sind ein Gebirge.",
+          "es": "Los Alpes son una cordillera."
+        }
+      }
+    },
+    {
+      "id": "geo17",
+      "es": "La cima",
+      "translations": {
+        "en": "The summit",
+        "pt": "O cume",
+        "fr": "Le sommet",
+        "it": "La cima",
+        "de": "Der Gipfel"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The summits)",
+        "pt": "(Plural: Os cumes)",
+        "fr": "(Plural: Les sommets)",
+        "it": "(Plural: Le cime)",
+        "de": "(Plural: Die Gipfel)"
+      },
+      "examples": {
+        "en": {
+          "text": "We're almost at the summit.",
+          "es": "Ya casi llegamos a la cima."
+        },
+        "fr": {
+          "text": "On est presque au sommet.",
+          "es": "Ya casi llegamos a la cima."
+        },
+        "it": {
+          "text": "Siamo quasi in cima.",
+          "es": "Ya casi llegamos a la cima."
+        },
+        "pt": {
+          "text": "Já estamos quase no cume.",
+          "es": "Ya casi llegamos a la cima."
+        },
+        "de": {
+          "text": "Wir sind fast am Gipfel.",
+          "es": "Ya casi llegamos a la cima."
+        }
+      }
+    },
+    {
+      "id": "geo13",
+      "es": "La colina",
+      "translations": {
+        "en": "The hill",
+        "pt": "A colina",
+        "fr": "La colline",
+        "it": "La collina",
+        "de": "Der Hügel"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The hills)",
+        "pt": "(Plural: As colinas)",
+        "fr": "(Plural: Les collines)",
+        "it": "(Plural: Le colline)",
+        "de": "(Plural: Die Hügel)"
+      },
+      "examples": {
+        "en": {
+          "text": "There's a church on top of the hill.",
+          "es": "Hay una iglesia en lo alto de la colina."
+        },
+        "fr": {
+          "text": "Il y a une église en haut de la colline.",
+          "es": "Hay una iglesia en lo alto de la colina."
+        },
+        "it": {
+          "text": "In cima alla collina c'è una chiesa.",
+          "es": "Hay una iglesia en lo alto de la colina."
+        },
+        "pt": {
+          "text": "Tem uma igreja no alto da colina.",
+          "es": "Hay una iglesia en lo alto de la colina."
+        },
+        "de": {
+          "text": "Oben auf dem Hügel steht eine Kirche.",
+          "es": "Hay una iglesia en lo alto de la colina."
+        }
+      }
+    },
+    {
+      "id": "geo14",
+      "es": "El valle",
+      "translations": {
+        "en": "The valley",
+        "pt": "O vale",
+        "fr": "La vallée",
+        "it": "La valle",
+        "de": "Das Tal"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The valleys)",
+        "pt": "(Plural: Os vales)",
+        "fr": "(Plural: Les vallées)",
+        "it": "(Plural: Le valli)",
+        "de": "(Plural: Die Täler)"
+      },
+      "examples": {
+        "en": {
+          "text": "The village is in a valley.",
+          "es": "El pueblo está en un valle."
+        },
+        "fr": {
+          "text": "Le village est dans une vallée.",
+          "es": "El pueblo está en un valle."
+        },
+        "it": {
+          "text": "Il paese si trova in una valle.",
+          "es": "El pueblo está en un valle."
+        },
+        "pt": {
+          "text": "O vilarejo fica em um vale.",
+          "es": "El pueblo está en un valle."
+        },
+        "de": {
+          "text": "Das Dorf liegt in einem Tal.",
+          "es": "El pueblo está en un valle."
+        }
+      }
+    },
+    {
+      "id": "geo15",
+      "es": "La llanura",
+      "translations": {
+        "en": "The plain",
+        "pt": "A planície",
+        "fr": "La plaine",
+        "it": "La pianura",
+        "de": "Die Ebene"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The plains)",
+        "pt": "(Plural: As planícies)",
+        "fr": "(Plural: Les plaines)",
+        "it": "(Plural: Le pianure)",
+        "de": "(Plural: Die Ebenen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The road crosses a plain.",
+          "es": "La carretera cruza una llanura."
+        },
+        "fr": {
+          "text": "La route traverse une plaine.",
+          "es": "La carretera cruza una llanura."
+        },
+        "it": {
+          "text": "La strada attraversa una pianura.",
+          "es": "La carretera cruza una llanura."
+        },
+        "pt": {
+          "text": "A estrada atravessa uma planície.",
+          "es": "La carretera cruza una llanura."
+        },
+        "de": {
+          "text": "Die Straße führt durch eine Ebene.",
+          "es": "La carretera cruza una llanura."
+        }
+      }
+    },
+    {
+      "id": "geo16",
+      "es": "La meseta",
+      "translations": {
+        "en": "The plateau",
+        "pt": "O planalto",
+        "fr": "Le plateau",
+        "it": "L'altopiano",
+        "de": "Die Hochebene"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The plateaus)",
+        "pt": "(Plural: Os planaltos)",
+        "fr": "(Plural: Les plateaux)",
+        "it": "(Plural: Gli altopiani)",
+        "de": "(Plural: Die Hochebenen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The village is on a plateau.",
+          "es": "El pueblo está en una meseta."
+        },
+        "fr": {
+          "text": "Le village est sur un plateau.",
+          "es": "El pueblo está en una meseta."
+        },
+        "it": {
+          "text": "Il paese si trova su un altopiano.",
+          "es": "El pueblo está en una meseta."
+        },
+        "pt": {
+          "text": "O vilarejo fica em um planalto.",
+          "es": "El pueblo está en una meseta."
+        },
+        "de": {
+          "text": "Das Dorf liegt auf einer Hochebene.",
+          "es": "El pueblo está en una meseta."
+        }
+      }
+    },
+    {
+      "id": "geo55",
+      "es": "El sendero",
+      "translations": {
+        "en": "The trail",
+        "pt": "A trilha",
+        "fr": "Le sentier",
+        "it": "Il sentiero",
+        "de": "Der Wanderweg"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The trails)",
+        "pt": "(Plural: As trilhas)",
+        "fr": "(Plural: Les sentiers)",
+        "it": "(Plural: I sentieri)",
+        "es": "(Camino estrecho para recorrer a pie)",
+        "de": "(Plural: Die Wanderwege)"
+      },
+      "examples": {
+        "en": {
+          "text": "This trail leads to the waterfall.",
+          "es": "Este sendero lleva a la cascada."
+        },
+        "fr": {
+          "text": "Ce sentier mène à la cascade.",
+          "es": "Este sendero lleva a la cascada."
+        },
+        "it": {
+          "text": "Questo sentiero porta alla cascata.",
+          "es": "Este sendero lleva a la cascada."
+        },
+        "pt": {
+          "text": "Esta trilha leva à cachoeira.",
+          "es": "Este sendero lleva a la cascada."
+        },
+        "de": {
+          "text": "Dieser Wanderweg führt zum Wasserfall.",
+          "es": "Este sendero lleva a la cascada."
+        }
+      }
+    },
+    {
+      "id": "geo19",
+      "es": "El volcán",
+      "translations": {
+        "en": "The volcano",
+        "pt": "O vulcão",
+        "fr": "Le volcan",
+        "it": "Il vulcano",
+        "de": "Der Vulkan"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The volcanoes)",
+        "pt": "(Plural: Os vulcões)",
+        "fr": "(Plural: Les volcans)",
+        "it": "(Plural: I vulcani)",
+        "de": "(Plural: Die Vulkane)"
+      },
+      "examples": {
+        "en": {
+          "text": "The guide showed us the volcano on the map.",
+          "es": "El guía nos mostró el volcán en el mapa."
+        },
+        "fr": {
+          "text": "Le guide nous a montré le volcan sur la carte.",
+          "es": "El guía nos mostró el volcán en el mapa."
+        },
+        "it": {
+          "text": "La guida ci ha mostrato il vulcano sulla mappa.",
+          "es": "El guía nos mostró el volcán en el mapa."
+        },
+        "pt": {
+          "text": "O guia mostrou o vulcão no mapa.",
+          "es": "El guía nos mostró el volcán en el mapa."
+        },
+        "de": {
+          "text": "Der Guide hat uns den Vulkan auf der Karte gezeigt.",
+          "es": "El guía nos mostró el volcán en el mapa."
+        }
+      }
+    },
+    {
+      "id": "geo20",
+      "es": "El cráter volcánico",
+      "translations": {
+        "en": "The volcanic crater",
+        "pt": "A cratera vulcânica",
+        "fr": "Le cratère volcanique",
+        "it": "Il cratere vulcanico",
+        "de": "Der Vulkankrater"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The volcanic craters)",
+        "pt": "(Plural: As crateras vulcânicas)",
+        "fr": "(Plural: Les cratères volcaniques)",
+        "it": "(Plural: I crateri vulcanici)",
+        "de": "(Plural: Die Vulkankrater)",
+        "es": "(Depresión de origen volcánico)"
+      },
+      "examples": {
+        "en": {
+          "text": "You can see the volcanic crater from the lookout.",
+          "es": "Desde el mirador se ve el cráter volcánico."
+        },
+        "fr": {
+          "text": "On voit le cratère volcanique depuis le belvédère.",
+          "es": "Desde el mirador se ve el cráter volcánico."
+        },
+        "it": {
+          "text": "Dal belvedere si vede il cratere vulcanico.",
+          "es": "Desde el mirador se ve el cráter volcánico."
+        },
+        "pt": {
+          "text": "Do mirante dá para ver a cratera vulcânica.",
+          "es": "Desde el mirador se ve el cráter volcánico."
+        },
+        "de": {
+          "text": "Vom Aussichtspunkt aus sieht man den Vulkankrater.",
+          "es": "Desde el mirador se ve el cráter volcánico."
+        }
+      }
+    },
+    {
+      "id": "geo21",
+      "es": "La cueva",
+      "translations": {
+        "en": "The cave",
+        "pt": "A caverna",
+        "fr": "La grotte",
+        "it": "La grotta",
+        "de": "Die Höhle"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The caves)",
+        "pt": "(Plural: As cavernas)",
+        "fr": "(Plural: Les grottes)",
+        "it": "(Plural: Le grotte)",
+        "de": "(Plural: Die Höhlen)"
+      },
+      "examples": {
+        "en": {
+          "text": "It's cold inside the cave.",
+          "es": "Hace frío dentro de la cueva."
+        },
+        "fr": {
+          "text": "Il fait froid dans la grotte.",
+          "es": "Hace frío dentro de la cueva."
+        },
+        "it": {
+          "text": "Fa freddo dentro la grotta.",
+          "es": "Hace frío dentro de la cueva."
+        },
+        "pt": {
+          "text": "Faz frio dentro da caverna.",
+          "es": "Hace frío dentro de la cueva."
+        },
+        "de": {
+          "text": "In der Höhle ist es kalt.",
+          "es": "Hace frío dentro de la cueva."
+        }
+      }
+    },
+    {
+      "id": "geo22",
+      "es": "El cañón",
+      "translations": {
+        "en": "The canyon",
+        "pt": "O cânion",
+        "fr": "Le canyon",
+        "it": "Il canyon",
+        "de": "Der Canyon"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The canyons)",
+        "pt": "(Plural: Os cânions)",
+        "fr": "(Plural: Les canyons)",
+        "it": "(Plural: I canyon)",
+        "de": "(Plural: Die Canyons)",
+        "es": "(Valle profundo entre paredes rocosas)"
+      },
+      "examples": {
+        "en": {
+          "text": "There's a river at the bottom of the canyon.",
+          "es": "Hay un río en el fondo del cañón."
+        },
+        "fr": {
+          "text": "Il y a une rivière au fond du canyon.",
+          "es": "Hay un río en el fondo del cañón."
+        },
+        "it": {
+          "text": "In fondo al canyon c'è un fiume.",
+          "es": "Hay un río en el fondo del cañón."
+        },
+        "pt": {
+          "text": "Tem um rio no fundo do cânion.",
+          "es": "Hay un río en el fondo del cañón."
+        },
+        "de": {
+          "text": "Unten im Canyon fließt ein Fluss.",
+          "es": "Un río corre por el fondo del cañón."
+        }
+      }
+    },
+    {
+      "id": "geo27",
+      "es": "El glaciar",
+      "translations": {
+        "en": "The glacier",
+        "pt": "A geleira",
+        "fr": "Le glacier",
+        "it": "Il ghiacciaio",
+        "de": "Der Gletscher"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The glaciers)",
+        "pt": "(Plural: As geleiras)",
+        "fr": "(Plural: Les glaciers)",
+        "it": "(Plural: I ghiacciai)",
+        "de": "(Plural: Die Gletscher)"
+      },
+      "examples": {
+        "en": {
+          "text": "You can see the glacier from the cable car.",
+          "es": "Desde el teleférico se ve el glaciar."
+        },
+        "fr": {
+          "text": "On voit le glacier depuis le téléphérique.",
+          "es": "Desde el teleférico se ve el glaciar."
+        },
+        "it": {
+          "text": "Dalla funivia si vede il ghiacciaio.",
+          "es": "Desde el teleférico se ve el glaciar."
+        },
+        "pt": {
+          "text": "Do teleférico dá para ver a geleira.",
+          "es": "Desde el teleférico se ve el glaciar."
+        },
+        "de": {
+          "text": "Von der Seilbahn aus sieht man den Gletscher.",
+          "es": "Desde el teleférico se ve el glaciar."
+        }
+      }
+    },
+    {
+      "id": "geo28",
+      "es": "El iceberg",
+      "translations": {
+        "en": "The iceberg",
+        "pt": "O iceberg",
+        "fr": "L'iceberg",
+        "it": "L'iceberg",
+        "de": "Der Eisberg"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The icebergs)",
+        "pt": "(Plural: Os icebergs)",
+        "fr": "(Plural: Les icebergs)",
+        "it": "(Plural: Gli iceberg)",
+        "de": "(Plural: Die Eisberge)"
+      },
+      "examples": {
+        "en": {
+          "text": "We saw an iceberg from the ship.",
+          "es": "Vimos un iceberg desde el barco."
+        },
+        "fr": {
+          "text": "On a vu un iceberg depuis le bateau.",
+          "es": "Vimos un iceberg desde el barco."
+        },
+        "it": {
+          "text": "Abbiamo visto un iceberg dalla nave.",
+          "es": "Vimos un iceberg desde el barco."
+        },
+        "pt": {
+          "text": "Vimos um iceberg do navio.",
+          "es": "Vimos un iceberg desde el barco."
+        },
+        "de": {
+          "text": "Vom Schiff aus haben wir einen Eisberg gesehen.",
+          "es": "Vimos un iceberg desde el barco."
+        }
+      }
+    },
+    {
+      "id": "geo41",
+      "es": "El río",
+      "translations": {
+        "en": "The river",
+        "pt": "O rio",
+        "fr": "La rivière",
+        "it": "Il fiume",
+        "de": "Der Fluss"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The rivers)",
+        "pt": "(Plural: Os rios)",
+        "fr": "(Plural: Les rivières) Un «fleuve» desemboca en el mar; una «rivière» suele desembocar en otro río.",
+        "it": "(Plural: I fiumi)",
+        "de": "(Plural: Die Flüsse)"
+      },
+      "examples": {
+        "en": {
+          "text": "There's a bridge over the river.",
+          "es": "Hay un puente sobre el río."
+        },
+        "fr": {
+          "text": "Il y a un pont au-dessus de la rivière.",
+          "es": "Hay un puente sobre el río."
+        },
+        "it": {
+          "text": "C'è un ponte sul fiume.",
+          "es": "Hay un puente sobre el río."
+        },
+        "pt": {
+          "text": "Tem uma ponte sobre o rio.",
+          "es": "Hay un puente sobre el río."
+        },
+        "de": {
+          "text": "Über den Fluss führt eine Brücke.",
+          "es": "Hay un puente sobre el río."
+        }
+      }
+    },
+    {
+      "id": "geo42",
+      "es": "El lago",
+      "translations": {
+        "en": "The lake",
+        "pt": "O lago",
+        "fr": "Le lac",
+        "it": "Il lago",
+        "de": "Der See"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The lakes)",
+        "pt": "(Plural: Os lagos)",
+        "fr": "(Plural: Les lacs)",
+        "it": "(Plural: I laghi)",
+        "de": "(Plural: Die Seen) Con artículo masculino, «der See» significa lago; «die See» puede significar el mar."
+      },
+      "examples": {
+        "en": {
+          "text": "The hotel is by the lake.",
+          "es": "El hotel está junto al lago."
+        },
+        "fr": {
+          "text": "L'hôtel est au bord du lac.",
+          "es": "El hotel está junto al lago."
+        },
+        "it": {
+          "text": "L'hotel è in riva al lago.",
+          "es": "El hotel está junto al lago."
+        },
+        "pt": {
+          "text": "O hotel fica à beira do lago.",
+          "es": "El hotel está junto al lago."
+        },
+        "de": {
+          "text": "Das Hotel liegt am See.",
+          "es": "El hotel está junto al lago."
+        }
+      }
+    },
+    {
+      "id": "geo24",
+      "es": "El arroyo",
+      "translations": {
+        "en": "The stream",
+        "pt": "O riacho",
+        "fr": "Le ruisseau",
+        "it": "Il ruscello",
+        "de": "Der Bach"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The streams)",
+        "pt": "(Plural: Os riachos)",
+        "fr": "(Plural: Les ruisseaux)",
+        "it": "(Plural: I ruscelli)",
+        "de": "(Plural: Die Bäche)"
+      },
+      "examples": {
+        "en": {
+          "text": "The trail crosses a stream.",
+          "es": "El sendero cruza un arroyo."
+        },
+        "fr": {
+          "text": "Le sentier traverse un ruisseau.",
+          "es": "El sendero cruza un arroyo."
+        },
+        "it": {
+          "text": "Il sentiero attraversa un ruscello.",
+          "es": "El sendero cruza un arroyo."
+        },
+        "pt": {
+          "text": "A trilha atravessa um riacho.",
+          "es": "El sendero cruza un arroyo."
+        },
+        "de": {
+          "text": "Der Wanderweg führt über einen Bach.",
+          "es": "El sendero cruza un arroyo."
+        }
+      }
+    },
+    {
+      "id": "geo23",
+      "es": "La cascada",
+      "translations": {
+        "en": "The waterfall",
+        "pt": "A cachoeira",
+        "fr": "La cascade",
+        "it": "La cascata",
+        "de": "Der Wasserfall"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The waterfalls)",
+        "pt": "(Plural: As cachoeiras)",
+        "fr": "(Plural: Les cascades)",
+        "it": "(Plural: Le cascate)",
+        "de": "(Plural: Die Wasserfälle)"
+      },
+      "examples": {
+        "en": {
+          "text": "You can hear the waterfall already.",
+          "es": "Ya se oye la cascada."
+        },
+        "fr": {
+          "text": "On entend déjà la cascade.",
+          "es": "Ya se oye la cascada."
+        },
+        "it": {
+          "text": "Si sente già la cascata.",
+          "es": "Ya se oye la cascada."
+        },
+        "pt": {
+          "text": "Já dá para ouvir a cachoeira.",
+          "es": "Ya se oye la cascada."
+        },
+        "de": {
+          "text": "Man hört den Wasserfall schon.",
+          "es": "Ya se oye la cascada."
+        }
+      }
+    },
+    {
+      "id": "geo25",
+      "es": "El manantial",
+      "translations": {
+        "en": "The spring",
+        "pt": "A nascente",
+        "fr": "La source",
+        "it": "La sorgente",
+        "de": "Die Quelle"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The springs) (Nacimiento natural de agua)",
+        "pt": "(Plural: As nascentes)",
+        "fr": "(Plural: Les sources) (Nacimiento natural de agua)",
+        "it": "(Plural: Le sorgenti)",
+        "de": "(Plural: Die Quellen) (Nacimiento natural de agua)"
+      },
+      "examples": {
+        "en": {
+          "text": "The village's water comes from a spring.",
+          "es": "El agua del pueblo viene de un manantial."
+        },
+        "fr": {
+          "text": "L'eau du village vient d'une source.",
+          "es": "El agua del pueblo viene de un manantial."
+        },
+        "it": {
+          "text": "L'acqua del paese viene da una sorgente.",
+          "es": "El agua del pueblo viene de un manantial."
+        },
+        "pt": {
+          "text": "A água do vilarejo vem de uma nascente.",
+          "es": "El agua del pueblo viene de un manantial."
+        },
+        "de": {
+          "text": "Das Wasser im Dorf kommt aus einer Quelle.",
+          "es": "El agua del pueblo viene de un manantial."
+        }
+      }
+    },
+    {
+      "id": "geo26",
+      "es": "El delta",
+      "translations": {
+        "en": "The river delta",
+        "pt": "O delta fluvial",
+        "fr": "Le delta",
+        "it": "Il delta fluviale",
+        "de": "Das Flussdelta"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The river deltas)",
+        "pt": "(Plural: Os deltas fluviais)",
+        "fr": "(Plural: Les deltas)",
+        "it": "(Plural: I delta fluviali)",
+        "es": "Desembocadura de un río con acumulación de sedimentos. (Terreno formado por sedimentos en la desembocadura de un río)",
+        "de": "(Plural: Die Flussdeltas)"
+      },
+      "examples": {
+        "en": {
+          "text": "There are several small islands in the river delta.",
+          "es": "En el delta hay varias islas pequeñas."
+        },
+        "fr": {
+          "text": "Il y a plusieurs petites îles dans le delta.",
+          "es": "En el delta hay varias islas pequeñas."
+        },
+        "it": {
+          "text": "Nel delta fluviale ci sono diverse isole piccole.",
+          "es": "En el delta hay varias islas pequeñas."
+        },
+        "pt": {
+          "text": "Há várias ilhas pequenas no delta fluvial.",
+          "es": "En el delta hay varias islas pequeñas."
+        },
+        "de": {
+          "text": "Im Flussdelta gibt es mehrere kleine Inseln.",
+          "es": "En el delta hay varias islas pequeñas."
+        }
+      }
+    },
+    {
+      "id": "geo38",
+      "es": "El humedal",
+      "translations": {
+        "en": "The wetland",
+        "pt": "A área úmida",
+        "fr": "La zone humide",
+        "it": "La zona umida",
+        "de": "Das Feuchtgebiet"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The wetlands)",
+        "pt": "(Plural: As áreas úmidas)",
+        "fr": "(Plural: Les zones humides)",
+        "it": "(Plural: Le zone umide)",
+        "de": "(Plural: Die Feuchtgebiete)"
+      },
+      "examples": {
+        "en": {
+          "text": "Many birds live in this wetland.",
+          "es": "En este humedal viven muchas aves."
+        },
+        "fr": {
+          "text": "Beaucoup d'oiseaux vivent dans cette zone humide.",
+          "es": "En este humedal viven muchas aves."
+        },
+        "it": {
+          "text": "In questa zona umida vivono molti uccelli.",
+          "es": "En este humedal viven muchas aves."
+        },
+        "pt": {
+          "text": "Muitas aves vivem nesta área úmida.",
+          "es": "En este humedal viven muchas aves."
+        },
+        "de": {
+          "text": "In diesem Feuchtgebiet leben viele Vögel.",
+          "es": "En este humedal viven muchas aves."
+        }
+      }
+    },
+    {
+      "id": "geo37",
+      "es": "El pantano",
+      "translations": {
+        "en": "The swamp",
+        "pt": "O pântano",
+        "fr": "Le marécage",
+        "it": "La palude",
+        "de": "Der Sumpf"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The swamps)",
+        "pt": "(Plural: Os pântanos)",
+        "fr": "(Plural: Les marécages)",
+        "it": "(Plural: Le paludi)",
+        "de": "(Plural: Die Sümpfe)"
+      },
+      "examples": {
+        "en": {
+          "text": "We saw a frog in the swamp.",
+          "es": "Vimos una rana en el pantano."
+        },
+        "fr": {
+          "text": "On a vu une grenouille dans le marécage.",
+          "es": "Vimos una rana en el pantano."
+        },
+        "it": {
+          "text": "Abbiamo visto una rana nella palude.",
+          "es": "Vimos una rana en el pantano."
+        },
+        "pt": {
+          "text": "Vimos uma rã no pântano.",
+          "es": "Vimos una rana en el pantano."
+        },
+        "de": {
+          "text": "Im Sumpf haben wir einen Frosch gesehen.",
+          "es": "Vimos una rana en el pantano."
+        }
+      }
+    },
+    {
+      "id": "geo40",
+      "es": "El manglar",
+      "translations": {
+        "en": "The mangrove forest",
+        "pt": "O manguezal",
+        "fr": "La mangrove",
+        "it": "La foresta di mangrovie",
+        "de": "Der Mangrovenwald"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The mangrove forests)",
+        "pt": "(Plural: Os manguezais)",
+        "fr": "(Plural: Les mangroves)",
+        "it": "(Plural: Le foreste di mangrovie)",
+        "de": "(Plural: Die Mangrovenwälder)"
+      },
+      "examples": {
+        "en": {
+          "text": "The kayak goes through the mangrove forest.",
+          "es": "El kayak pasa por el manglar."
+        },
+        "fr": {
+          "text": "Le kayak traverse la mangrove.",
+          "es": "El kayak atraviesa el manglar."
+        },
+        "it": {
+          "text": "Il kayak attraversa la foresta di mangrovie.",
+          "es": "El kayak atraviesa el manglar."
+        },
+        "pt": {
+          "text": "O caiaque passa pelo manguezal.",
+          "es": "El kayak pasa por el manglar."
+        },
+        "de": {
+          "text": "Das Kajak fährt durch den Mangrovenwald.",
+          "es": "El kayak atraviesa el manglar."
+        }
       }
     },
     {
@@ -883,11 +1571,683 @@
         "en": "The countryside",
         "pt": "O campo",
         "fr": "La campagne",
-        "it": "La campagna"
+        "it": "La campagna",
+        "de": "Das Land"
       },
       "image_url": "",
       "notes": {
-        "es": "El entorno rural, no un campo deportivo."
+        "es": "El entorno rural, no un campo deportivo. (Entorno rural, no campo deportivo)",
+        "en": "En este sentido se usa «the countryside» en singular.",
+        "fr": "En este sentido es común «à la campagne».",
+        "it": "En este sentido es común «in campagna».",
+        "de": "En este sentido es común «auf dem Land»."
+      },
+      "examples": {
+        "en": {
+          "text": "My grandparents live in the countryside.",
+          "es": "Mis abuelos viven en el campo."
+        },
+        "fr": {
+          "text": "Mes grands-parents vivent à la campagne.",
+          "es": "Mis abuelos viven en el campo."
+        },
+        "it": {
+          "text": "I miei nonni vivono in campagna.",
+          "es": "Mis abuelos viven en el campo."
+        },
+        "pt": {
+          "text": "Meus avós moram no campo.",
+          "es": "Mis abuelos viven en el campo."
+        },
+        "de": {
+          "text": "Meine Großeltern wohnen auf dem Land.",
+          "es": "Mis abuelos viven en el campo."
+        }
+      }
+    },
+    {
+      "id": "geo29",
+      "es": "El bosque",
+      "translations": {
+        "en": "The forest",
+        "pt": "A floresta",
+        "fr": "La forêt",
+        "it": "Il bosco",
+        "de": "Der Wald"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The forests)",
+        "pt": "(Plural: As florestas)",
+        "fr": "(Plural: Les forêts)",
+        "it": "(Plural: I boschi) «Foresta» suele referirse a un bosque extenso o denso.",
+        "de": "(Plural: Die Wälder)"
+      },
+      "examples": {
+        "en": {
+          "text": "We walked through the forest before lunch.",
+          "es": "Caminamos por el bosque antes de comer."
+        },
+        "fr": {
+          "text": "On a marché dans la forêt avant le déjeuner.",
+          "es": "Caminamos por el bosque antes de comer."
+        },
+        "it": {
+          "text": "Abbiamo camminato nel bosco prima di pranzo.",
+          "es": "Caminamos por el bosque antes de comer."
+        },
+        "pt": {
+          "text": "Caminhamos pela floresta antes do almoço.",
+          "es": "Caminamos por el bosque antes de comer."
+        },
+        "de": {
+          "text": "Vor dem Mittagessen sind wir durch den Wald spaziert.",
+          "es": "Caminamos por el bosque antes de comer."
+        }
+      }
+    },
+    {
+      "id": "geo30",
+      "es": "La selva tropical",
+      "translations": {
+        "en": "The tropical rainforest",
+        "pt": "A floresta tropical úmida",
+        "fr": "La forêt tropicale humide",
+        "it": "La foresta pluviale tropicale",
+        "de": "Der tropische Regenwald"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The tropical rainforests)",
+        "pt": "(Plural: As florestas tropicais úmidas)",
+        "fr": "(Plural: Les forêts tropicales humides)",
+        "it": "(Plural: Le foreste pluviali tropicali)",
+        "de": "(Plural: Die tropischen Regenwälder)"
+      },
+      "examples": {
+        "en": {
+          "text": "It rains a lot in the tropical rainforest.",
+          "es": "Llueve mucho en la selva tropical."
+        },
+        "fr": {
+          "text": "Il pleut beaucoup dans la forêt tropicale humide.",
+          "es": "Llueve mucho en la selva tropical."
+        },
+        "it": {
+          "text": "Nella foresta pluviale tropicale piove molto.",
+          "es": "Llueve mucho en la selva tropical."
+        },
+        "pt": {
+          "text": "Chove muito na floresta tropical úmida.",
+          "es": "Llueve mucho en la selva tropical."
+        },
+        "de": {
+          "text": "Im tropischen Regenwald regnet es viel.",
+          "es": "Llueve mucho en la selva tropical."
+        }
+      }
+    },
+    {
+      "id": "geo31",
+      "es": "El desierto",
+      "translations": {
+        "en": "The desert",
+        "pt": "O deserto",
+        "fr": "Le désert",
+        "it": "Il deserto",
+        "de": "Die Wüste"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The deserts)",
+        "pt": "(Plural: Os desertos)",
+        "fr": "(Plural: Les déserts)",
+        "it": "(Plural: I deserti)",
+        "de": "(Plural: Die Wüsten)"
+      },
+      "examples": {
+        "en": {
+          "text": "It's cold in the desert at night.",
+          "es": "En la noche hace frío en el desierto."
+        },
+        "fr": {
+          "text": "Dans le désert, il fait froid la nuit.",
+          "es": "En la noche hace frío en el desierto."
+        },
+        "it": {
+          "text": "Di notte nel deserto fa freddo.",
+          "es": "En la noche hace frío en el desierto."
+        },
+        "pt": {
+          "text": "À noite faz frio no deserto.",
+          "es": "En la noche hace frío en el desierto."
+        },
+        "de": {
+          "text": "Nachts ist es in der Wüste kalt.",
+          "es": "En la noche hace frío en el desierto."
+        }
+      }
+    },
+    {
+      "id": "geo32",
+      "es": "La duna",
+      "translations": {
+        "en": "The dune",
+        "pt": "A duna",
+        "fr": "La dune",
+        "it": "La duna",
+        "de": "Die Düne"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The dunes)",
+        "pt": "(Plural: As dunas)",
+        "fr": "(Plural: Les dunes)",
+        "it": "(Plural: Le dune)",
+        "de": "(Plural: Die Dünen)"
+      },
+      "examples": {
+        "en": {
+          "text": "We climbed a dune to watch the sunset.",
+          "es": "Subimos a una duna para ver la puesta de sol."
+        },
+        "fr": {
+          "text": "On est montés sur une dune pour voir le coucher du soleil.",
+          "es": "Subimos a una duna para ver la puesta de sol."
+        },
+        "it": {
+          "text": "Siamo saliti su una duna per vedere il tramonto.",
+          "es": "Subimos a una duna para ver la puesta de sol."
+        },
+        "pt": {
+          "text": "Subimos uma duna para ver o pôr do sol.",
+          "es": "Subimos a una duna para ver la puesta de sol."
+        },
+        "de": {
+          "text": "Wir sind auf eine Düne gestiegen, um den Sonnenuntergang zu sehen.",
+          "es": "Subimos a una duna para ver la puesta de sol."
+        }
+      }
+    },
+    {
+      "id": "geo39",
+      "es": "El oasis",
+      "translations": {
+        "en": "The oasis",
+        "pt": "O oásis",
+        "fr": "L'oasis",
+        "it": "L'oasi",
+        "de": "Die Oase"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The oases)",
+        "pt": "(Plural: Os oásis)",
+        "fr": "(Plural: Les oasis)",
+        "it": "(Plural: Le oasi)",
+        "de": "(Plural: Die Oasen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The oasis has water and palm trees.",
+          "es": "En el oasis hay agua y palmeras."
+        },
+        "fr": {
+          "text": "Dans l'oasis, il y a de l'eau et des palmiers.",
+          "es": "En el oasis hay agua y palmeras."
+        },
+        "it": {
+          "text": "Nell'oasi ci sono acqua e palme.",
+          "es": "En el oasis hay agua y palmeras."
+        },
+        "pt": {
+          "text": "No oásis tem água e palmeiras.",
+          "es": "En el oasis hay agua y palmeras."
+        },
+        "de": {
+          "text": "In der Oase gibt es Wasser und Palmen.",
+          "es": "En el oasis hay agua y palmeras."
+        }
+      }
+    },
+    {
+      "id": "geo33",
+      "es": "La sabana",
+      "translations": {
+        "en": "The savanna",
+        "pt": "A savana",
+        "fr": "La savane",
+        "it": "La savana",
+        "de": "Die Savanne"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The savannas) También se escribe «savannah».",
+        "pt": "(Plural: As savanas)",
+        "fr": "(Plural: Les savanes)",
+        "it": "(Plural: Le savane)",
+        "de": "(Plural: Die Savannen)"
+      },
+      "examples": {
+        "en": {
+          "text": "We saw giraffes in the savanna.",
+          "es": "En la sabana vimos jirafas."
+        },
+        "fr": {
+          "text": "On a vu des girafes dans la savane.",
+          "es": "En la sabana vimos jirafas."
+        },
+        "it": {
+          "text": "Abbiamo visto delle giraffe nella savana.",
+          "es": "En la sabana vimos jirafas."
+        },
+        "pt": {
+          "text": "Vimos girafas na savana.",
+          "es": "En la sabana vimos jirafas."
+        },
+        "de": {
+          "text": "In der Savanne haben wir Giraffen gesehen.",
+          "es": "En la sabana vimos jirafas."
+        }
+      }
+    },
+    {
+      "id": "geo34",
+      "es": "La pradera",
+      "translations": {
+        "en": "The prairie",
+        "pt": "A pradaria",
+        "fr": "La prairie",
+        "it": "La prateria",
+        "de": "Die Prärie"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The prairies) «Grassland» es un término más amplio para los pastizales.",
+        "pt": "(Plural: As pradarias)",
+        "fr": "(Plural: Les prairies)",
+        "it": "(Plural: Le praterie)",
+        "de": "(Plural: Die Prärien)"
+      },
+      "examples": {
+        "en": {
+          "text": "The prairie stretches as far as you can see.",
+          "es": "La pradera se extiende hasta donde alcanza la vista."
+        },
+        "fr": {
+          "text": "La prairie s'étend à perte de vue.",
+          "es": "La pradera se extiende hasta donde alcanza la vista."
+        },
+        "it": {
+          "text": "La prateria si estende a perdita d'occhio.",
+          "es": "La pradera se extiende hasta donde alcanza la vista."
+        },
+        "pt": {
+          "text": "A pradaria se estende até onde a vista alcança.",
+          "es": "La pradera se extiende hasta donde alcanza la vista."
+        },
+        "de": {
+          "text": "Die Prärie reicht so weit, wie man sehen kann.",
+          "es": "La pradera se extiende hasta donde alcanza la vista."
+        }
+      }
+    },
+    {
+      "id": "geo35",
+      "es": "La estepa",
+      "translations": {
+        "en": "The steppe",
+        "pt": "A estepe",
+        "fr": "La steppe",
+        "it": "La steppa",
+        "de": "Die Steppe"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The steppes)",
+        "pt": "(Plural: As estepes)",
+        "fr": "(Plural: Les steppes)",
+        "it": "(Plural: Le steppe)",
+        "de": "(Plural: Die Steppen)"
+      },
+      "examples": {
+        "en": {
+          "text": "There are few trees on the steppe.",
+          "es": "Hay pocos árboles en la estepa."
+        },
+        "fr": {
+          "text": "Il y a peu d'arbres dans la steppe.",
+          "es": "Hay pocos árboles en la estepa."
+        },
+        "it": {
+          "text": "Nella steppa ci sono pochi alberi.",
+          "es": "Hay pocos árboles en la estepa."
+        },
+        "pt": {
+          "text": "Há poucas árvores na estepe.",
+          "es": "Hay pocos árboles en la estepa."
+        },
+        "de": {
+          "text": "In der Steppe gibt es nur wenige Bäume.",
+          "es": "Hay pocos árboles en la estepa."
+        }
+      }
+    },
+    {
+      "id": "geo36",
+      "es": "La tundra",
+      "translations": {
+        "en": "The tundra",
+        "pt": "A tundra",
+        "fr": "La toundra",
+        "it": "La tundra",
+        "de": "Die Tundra"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The tundras) Como bioma suele usarse en singular."
+      },
+      "examples": {
+        "en": {
+          "text": "Few tall plants grow in the tundra.",
+          "es": "En la tundra crecen pocas plantas altas."
+        },
+        "fr": {
+          "text": "Peu de plantes hautes poussent dans la toundra.",
+          "es": "En la tundra crecen pocas plantas altas."
+        },
+        "it": {
+          "text": "Nella tundra crescono poche piante alte.",
+          "es": "En la tundra crecen pocas plantas altas."
+        },
+        "pt": {
+          "text": "Poucas plantas altas crescem na tundra.",
+          "es": "En la tundra crecen pocas plantas altas."
+        },
+        "de": {
+          "text": "In der Tundra wachsen nur wenige hohe Pflanzen.",
+          "es": "En la tundra crecen pocas plantas altas."
+        }
+      }
+    },
+    {
+      "id": "geo46",
+      "es": "El árbol",
+      "translations": {
+        "en": "The tree",
+        "pt": "A árvore",
+        "fr": "L'arbre",
+        "it": "L'albero",
+        "de": "Der Baum"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The trees)",
+        "pt": "(Plural: As árvores)",
+        "fr": "(Plural: Les arbres)",
+        "it": "(Plural: Gli alberi)",
+        "de": "(Plural: Die Bäume)"
+      },
+      "examples": {
+        "en": {
+          "text": "We sat under a tree.",
+          "es": "Nos sentamos bajo un árbol."
+        },
+        "fr": {
+          "text": "On s'est assis sous un arbre.",
+          "es": "Nos sentamos bajo un árbol."
+        },
+        "it": {
+          "text": "Ci siamo seduti sotto un albero.",
+          "es": "Nos sentamos bajo un árbol."
+        },
+        "pt": {
+          "text": "Sentamos debaixo de uma árvore.",
+          "es": "Nos sentamos bajo un árbol."
+        },
+        "de": {
+          "text": "Wir haben uns unter einen Baum gesetzt.",
+          "es": "Nos sentamos bajo un árbol."
+        }
+      }
+    },
+    {
+      "id": "geo47",
+      "es": "La planta",
+      "translations": {
+        "en": "The plant",
+        "pt": "A planta",
+        "fr": "La plante",
+        "it": "La pianta",
+        "de": "Die Pflanze"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The plants)",
+        "pt": "(Plural: As plantas)",
+        "fr": "(Plural: Les plantes)",
+        "it": "(Plural: Le piante)",
+        "de": "(Plural: Die Pflanzen)",
+        "es": "(Ser vivo vegetal)"
+      },
+      "examples": {
+        "en": {
+          "text": "This plant needs a lot of light.",
+          "es": "Esta planta necesita mucha luz."
+        },
+        "fr": {
+          "text": "Cette plante a besoin de beaucoup de lumière.",
+          "es": "Esta planta necesita mucha luz."
+        },
+        "it": {
+          "text": "Questa pianta ha bisogno di molta luce.",
+          "es": "Esta planta necesita mucha luz."
+        },
+        "pt": {
+          "text": "Esta planta precisa de muita luz.",
+          "es": "Esta planta necesita mucha luz."
+        },
+        "de": {
+          "text": "Diese Pflanze braucht viel Licht.",
+          "es": "Esta planta necesita mucha luz."
+        }
+      }
+    },
+    {
+      "id": "geo48",
+      "es": "La flor",
+      "translations": {
+        "en": "The flower",
+        "pt": "A flor",
+        "fr": "La fleur",
+        "it": "Il fiore",
+        "de": "Die Blume"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The flowers)",
+        "pt": "(Plural: As flores)",
+        "fr": "(Plural: Les fleurs)",
+        "it": "(Plural: I fiori)",
+        "de": "(Plural: Die Blumen)"
+      },
+      "examples": {
+        "en": {
+          "text": "There's a yellow flower by the path.",
+          "es": "Hay una flor amarilla junto al camino."
+        },
+        "fr": {
+          "text": "Il y a une fleur jaune au bord du chemin.",
+          "es": "Hay una flor amarilla junto al camino."
+        },
+        "it": {
+          "text": "C'è un fiore giallo lungo il sentiero.",
+          "es": "Hay una flor amarilla junto al camino."
+        },
+        "pt": {
+          "text": "Tem uma flor amarela à beira do caminho.",
+          "es": "Hay una flor amarilla junto al camino."
+        },
+        "de": {
+          "text": "Am Wegrand steht eine gelbe Blume.",
+          "es": "Hay una flor amarilla junto al camino."
+        }
+      }
+    },
+    {
+      "id": "geo49",
+      "es": "La roca",
+      "translations": {
+        "en": "The rock",
+        "pt": "A rocha",
+        "fr": "Le rocher",
+        "it": "La roccia",
+        "de": "Der Fels"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The rocks)",
+        "pt": "(Plural: As rochas)",
+        "fr": "(Plural: Les rochers) «Rocher» es una roca individual o visible; «roche» también designa el material.",
+        "it": "(Plural: Le rocce)",
+        "de": "(Plural: Die Felsen)",
+        "es": "(Formación o masa de piedra)"
+      },
+      "examples": {
+        "en": {
+          "text": "The waves crash against the rocks.",
+          "es": "Las olas chocan contra las rocas."
+        },
+        "fr": {
+          "text": "Les vagues se brisent contre les rochers.",
+          "es": "Las olas chocan contra las rocas."
+        },
+        "it": {
+          "text": "Le onde si infrangono contro le rocce.",
+          "es": "Las olas chocan contra las rocas."
+        },
+        "pt": {
+          "text": "As ondas batem nas rochas.",
+          "es": "Las olas chocan contra las rocas."
+        },
+        "de": {
+          "text": "Die Wellen schlagen gegen die Felsen.",
+          "es": "Las olas chocan contra las rocas."
+        }
+      }
+    },
+    {
+      "id": "geo50",
+      "es": "La arena",
+      "translations": {
+        "en": "The sand",
+        "pt": "A areia",
+        "fr": "Le sable",
+        "it": "La sabbia",
+        "de": "Der Sand"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "En sentido general, «sand» suele utilizarse sin artículo en inglés."
+      },
+      "examples": {
+        "en": {
+          "text": "The sand is really hot.",
+          "es": "La arena está muy caliente."
+        },
+        "fr": {
+          "text": "Le sable est très chaud.",
+          "es": "La arena está muy caliente."
+        },
+        "it": {
+          "text": "La sabbia è molto calda.",
+          "es": "La arena está muy caliente."
+        },
+        "pt": {
+          "text": "A areia está muito quente.",
+          "es": "La arena está muy caliente."
+        },
+        "de": {
+          "text": "Der Sand ist sehr heiß.",
+          "es": "La arena está muy caliente."
+        }
+      }
+    },
+    {
+      "id": "geo51",
+      "es": "La tierra",
+      "translations": {
+        "en": "The soil",
+        "pt": "O solo",
+        "fr": "La terre",
+        "it": "Il terreno",
+        "de": "Die Erde"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "En sentido general, «soil» suele utilizarse sin artículo en inglés.",
+        "es": "(Suelo, no el planeta Tierra)",
+        "it": "(Suelo o terreno)",
+        "de": "(Suelo, no el planeta Tierra)"
+      },
+      "examples": {
+        "en": {
+          "text": "The soil in the garden is damp.",
+          "es": "La tierra del jardín está húmeda."
+        },
+        "fr": {
+          "text": "La terre du jardin est humide.",
+          "es": "La tierra del jardín está húmeda."
+        },
+        "it": {
+          "text": "Il terreno del giardino è umido.",
+          "es": "La tierra del jardín está húmeda."
+        },
+        "pt": {
+          "text": "O solo do jardim está úmido.",
+          "es": "La tierra del jardín está húmeda."
+        },
+        "de": {
+          "text": "Die Erde im Garten ist feucht.",
+          "es": "La tierra del jardín está húmeda."
+        }
+      }
+    },
+    {
+      "id": "geo52",
+      "es": "El agua",
+      "translations": {
+        "en": "The water",
+        "pt": "A água",
+        "fr": "L'eau",
+        "it": "L'acqua",
+        "de": "Das Wasser"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "En sentido general, «water» suele utilizarse sin artículo en inglés."
+      },
+      "examples": {
+        "en": {
+          "text": "The water in the lake is cold.",
+          "es": "El agua del lago está fría."
+        },
+        "fr": {
+          "text": "L'eau du lac est froide.",
+          "es": "El agua del lago está fría."
+        },
+        "it": {
+          "text": "L'acqua del lago è fredda.",
+          "es": "El agua del lago está fría."
+        },
+        "pt": {
+          "text": "A água do lago está fria.",
+          "es": "El agua del lago está fría."
+        },
+        "de": {
+          "text": "Das Wasser im See ist kalt.",
+          "es": "El agua del lago está fría."
+        }
       }
     }
   ]
