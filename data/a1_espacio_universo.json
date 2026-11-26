@@ -1,685 +1,1845 @@
 {
   "module": "El Espacio y el Universo",
   "level": "A1",
-  "revisado": false,
+  "revisado": true,
   "cards": [
-  {
-    "id": "astro1",
-    "es": "El espacio",
-    "translations": {
-      "en": "Space",
-      "fr": "L'espace",
-      "it": "Lo spazio",
-      "pt": "O espaço"
+    {
+      "id": "astro1",
+      "es": "El espacio",
+      "translations": {
+        "en": "Space",
+        "pt": "O espaço",
+        "fr": "L'espace",
+        "it": "Lo spazio",
+        "de": "Der Weltraum"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Región más allá de la atmósfera terrestre)",
+        "fr": "También se dice «l'espace extra-atmosphérique» cuando hace falta distinguirlo de otros sentidos de «espace»."
+      },
+      "examples": {
+        "en": {
+          "text": "My daughter wants to travel to space.",
+          "es": "Mi hija quiere viajar al espacio."
+        },
+        "pt": {
+          "text": "Minha filha quer viajar para o espaço.",
+          "es": "Mi hija quiere viajar al espacio."
+        },
+        "fr": {
+          "text": "Ma fille veut aller dans l'espace.",
+          "es": "Mi hija quiere viajar al espacio."
+        },
+        "it": {
+          "text": "Mia figlia vuole viaggiare nello spazio.",
+          "es": "Mi hija quiere viajar al espacio."
+        },
+        "de": {
+          "text": "Meine Tochter möchte in den Weltraum reisen.",
+          "es": "Mi hija quiere viajar al espacio."
+        }
+      }
     },
-    "image_url": ""
-  },
-  {
-    "id": "astro2",
-    "es": "El universo",
-    "translations": {
-      "en": "The universe",
-      "fr": "L'univers",
-      "it": "L'universo",
-      "pt": "O universo"
+    {
+      "id": "astro2",
+      "es": "El universo",
+      "translations": {
+        "en": "The universe",
+        "pt": "O universo",
+        "fr": "L'univers",
+        "it": "L'universo",
+        "de": "Das Universum"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I read a book about the universe.",
+          "es": "Leí un libro sobre el universo."
+        },
+        "pt": {
+          "text": "Li um livro sobre o universo.",
+          "es": "Leí un libro sobre el universo."
+        },
+        "fr": {
+          "text": "J'ai lu un livre sur l'univers.",
+          "es": "Leí un libro sobre el universo."
+        },
+        "it": {
+          "text": "Ho letto un libro sull'universo.",
+          "es": "Leí un libro sobre el universo."
+        },
+        "de": {
+          "text": "Ich habe ein Buch über das Universum gelesen.",
+          "es": "Leí un libro sobre el universo."
+        }
+      }
     },
-    "image_url": ""
-  },
-  {
-    "id": "astro3",
-    "es": "La galaxia",
-    "translations": {
-      "en": "The galaxy",
-      "fr": "La galaxie",
-      "it": "La galassia",
-      "pt": "A galáxia"
+    {
+      "id": "astro3",
+      "es": "La galaxia",
+      "translations": {
+        "en": "The galaxy",
+        "pt": "A galáxia",
+        "fr": "La galaxie",
+        "it": "La galassia",
+        "de": "Die Galaxie"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The galaxies)",
+        "fr": "(Plural: Les galaxies)",
+        "it": "(Plural: Le galassie)",
+        "pt": "(Plural: As galáxias)",
+        "de": "(Plural: Die Galaxien)"
+      },
+      "examples": {
+        "en": {
+          "text": "We saw a picture of a galaxy.",
+          "es": "Vimos una foto de una galaxia."
+        },
+        "pt": {
+          "text": "Vimos uma foto de uma galáxia.",
+          "es": "Vimos una foto de una galaxia."
+        },
+        "fr": {
+          "text": "On a vu une photo d'une galaxie.",
+          "es": "Vimos una foto de una galaxia."
+        },
+        "it": {
+          "text": "Abbiamo visto una foto di una galassia.",
+          "es": "Vimos una foto de una galaxia."
+        },
+        "de": {
+          "text": "Wir haben ein Foto von einer Galaxie gesehen.",
+          "es": "Vimos una foto de una galaxia."
+        }
+      }
     },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the galaxies",
-      "fr": "Plural: les galaxies",
-      "it": "Plural: le galassie",
-      "pt": "Plural: as galáxias"
+    {
+      "id": "astro4",
+      "es": "La Vía Láctea",
+      "translations": {
+        "en": "The Milky Way",
+        "pt": "A Via Láctea",
+        "fr": "La Voie lactée",
+        "it": "La Via Lattea",
+        "de": "Die Milchstraße"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "You can see the Milky Way from here.",
+          "es": "Desde aquí se ve la Vía Láctea."
+        },
+        "pt": {
+          "text": "Daqui dá para ver a Via Láctea.",
+          "es": "Desde aquí se ve la Vía Láctea."
+        },
+        "fr": {
+          "text": "On voit la Voie lactée d'ici.",
+          "es": "Desde aquí se ve la Vía Láctea."
+        },
+        "it": {
+          "text": "Da qui si vede la Via Lattea.",
+          "es": "Desde aquí se ve la Vía Láctea."
+        },
+        "de": {
+          "text": "Von hier aus sieht man die Milchstraße.",
+          "es": "Desde aquí se ve la Vía Láctea."
+        }
+      }
+    },
+    {
+      "id": "astro6",
+      "es": "La estrella",
+      "translations": {
+        "en": "The star",
+        "pt": "A estrela",
+        "fr": "L'étoile",
+        "it": "La stella",
+        "de": "Der Stern"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The stars)",
+        "fr": "(Plural: Les étoiles)",
+        "it": "(Plural: Le stelle)",
+        "pt": "(Plural: As estrelas)",
+        "de": "(Plural: Die Sterne)"
+      },
+      "examples": {
+        "en": {
+          "text": "You can see a lot of stars tonight.",
+          "es": "Esta noche se ven muchas estrellas."
+        },
+        "pt": {
+          "text": "Hoje à noite dá para ver muitas estrelas.",
+          "es": "Esta noche se ven muchas estrellas."
+        },
+        "fr": {
+          "text": "On voit beaucoup d'étoiles ce soir.",
+          "es": "Esta noche se ven muchas estrellas."
+        },
+        "it": {
+          "text": "Stasera si vedono molte stelle.",
+          "es": "Esta noche se ven muchas estrellas."
+        },
+        "de": {
+          "text": "Heute Abend sieht man viele Sterne.",
+          "es": "Esta noche se ven muchas estrellas."
+        }
+      }
+    },
+    {
+      "id": "astro9",
+      "es": "La constelación",
+      "translations": {
+        "en": "The constellation",
+        "pt": "A constelação",
+        "fr": "La constellation",
+        "it": "La costellazione",
+        "de": "Das Sternbild"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The constellations)",
+        "fr": "(Plural: Les constellations)",
+        "it": "(Plural: Le costellazioni)",
+        "pt": "(Plural: As constelações)",
+        "de": "(Plural: Die Sternbilder)"
+      },
+      "examples": {
+        "en": {
+          "text": "The guide showed us a constellation.",
+          "es": "La guía nos mostró una constelación."
+        },
+        "pt": {
+          "text": "A guia nos mostrou uma constelação.",
+          "es": "La guía nos mostró una constelación."
+        },
+        "fr": {
+          "text": "La guide nous a montré une constellation.",
+          "es": "La guía nos mostró una constelación."
+        },
+        "it": {
+          "text": "La guida ci ha mostrato una costellazione.",
+          "es": "La guía nos mostró una constelación."
+        },
+        "de": {
+          "text": "Die Reiseleiterin hat uns ein Sternbild gezeigt.",
+          "es": "La guía nos mostró una constelación."
+        }
+      }
+    },
+    {
+      "id": "astro5",
+      "es": "El sistema solar",
+      "translations": {
+        "en": "The solar system",
+        "pt": "O sistema solar",
+        "fr": "Le système solaire",
+        "it": "Il sistema solare",
+        "de": "Das Sonnensystem"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The solar systems)",
+        "fr": "(Plural: Les systèmes solaires)",
+        "it": "(Plural: I sistemi solari)",
+        "pt": "(Plural: Os sistemas solares)",
+        "de": "(Plural: Die Sonnensysteme)"
+      },
+      "examples": {
+        "en": {
+          "text": "There's a model of the solar system at the museum.",
+          "es": "En el museo hay una maqueta del sistema solar."
+        },
+        "pt": {
+          "text": "No museu tem uma maquete do Sistema Solar.",
+          "es": "En el museo hay una maqueta del sistema solar."
+        },
+        "fr": {
+          "text": "Il y a une maquette du système solaire au musée.",
+          "es": "En el museo hay una maqueta del sistema solar."
+        },
+        "it": {
+          "text": "Al museo c'è un modello del sistema solare.",
+          "es": "En el museo hay una maqueta del sistema solar."
+        },
+        "de": {
+          "text": "Im Museum gibt es ein Modell des Sonnensystems.",
+          "es": "En el museo hay una maqueta del sistema solar."
+        }
+      }
+    },
+    {
+      "id": "astro14",
+      "es": "El Sol",
+      "translations": {
+        "en": "The Sun",
+        "pt": "O Sol",
+        "fr": "Le Soleil",
+        "it": "Il Sole",
+        "de": "Die Sonne"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The Sun rises behind those mountains.",
+          "es": "El Sol sale detrás de esas montañas."
+        },
+        "pt": {
+          "text": "O Sol nasce atrás daquelas montanhas.",
+          "es": "El Sol sale detrás de esas montañas."
+        },
+        "fr": {
+          "text": "Le Soleil se lève derrière ces montagnes.",
+          "es": "El Sol sale detrás de esas montañas."
+        },
+        "it": {
+          "text": "Il Sole sorge dietro quelle montagne.",
+          "es": "El Sol sale detrás de esas montañas."
+        },
+        "de": {
+          "text": "Die Sonne geht hinter diesen Bergen auf.",
+          "es": "El Sol sale detrás de esas montañas."
+        }
+      }
+    },
+    {
+      "id": "astro7",
+      "es": "El planeta",
+      "translations": {
+        "en": "The planet",
+        "pt": "O planeta",
+        "fr": "La planète",
+        "it": "Il pianeta",
+        "de": "Der Planet"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The planets)",
+        "fr": "(Plural: Les planètes)",
+        "it": "(Plural: I pianeti)",
+        "pt": "(Plural: Os planetas)",
+        "de": "(Plural: Die Planeten)"
+      },
+      "examples": {
+        "en": {
+          "text": "How many planets are in our solar system?",
+          "es": "¿Cuántos planetas hay en nuestro sistema solar?"
+        },
+        "pt": {
+          "text": "Quantos planetas existem no nosso Sistema Solar?",
+          "es": "¿Cuántos planetas hay en nuestro sistema solar?"
+        },
+        "fr": {
+          "text": "Combien de planètes y a-t-il dans notre système solaire ?",
+          "es": "¿Cuántos planetas hay en nuestro sistema solar?"
+        },
+        "it": {
+          "text": "Quanti pianeti ci sono nel nostro sistema solare?",
+          "es": "¿Cuántos planetas hay en nuestro sistema solar?"
+        },
+        "de": {
+          "text": "Wie viele Planeten gibt es in unserem Sonnensystem?",
+          "es": "¿Cuántos planetas hay en nuestro sistema solar?"
+        }
+      }
+    },
+    {
+      "id": "astro17",
+      "es": "Mercurio",
+      "translations": {
+        "en": "Mercury",
+        "pt": "Mercúrio",
+        "fr": "Mercure",
+        "it": "Mercurio",
+        "de": "Merkur"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Mercury is the closest planet to the Sun.",
+          "es": "Mercurio es el planeta más cercano al Sol."
+        },
+        "pt": {
+          "text": "Mercúrio é o planeta mais próximo do Sol.",
+          "es": "Mercurio es el planeta más cercano al Sol."
+        },
+        "fr": {
+          "text": "Mercure est la planète la plus proche du Soleil.",
+          "es": "Mercurio es el planeta más cercano al Sol."
+        },
+        "it": {
+          "text": "Mercurio è il pianeta più vicino al Sole.",
+          "es": "Mercurio es el planeta más cercano al Sol."
+        },
+        "de": {
+          "text": "Merkur ist der Planet, der der Sonne am nächsten ist.",
+          "es": "Mercurio es el planeta más cercano al Sol."
+        }
+      }
+    },
+    {
+      "id": "astro18",
+      "es": "Venus",
+      "translations": {
+        "en": "Venus",
+        "pt": "Vênus",
+        "fr": "Vénus",
+        "it": "Venere",
+        "de": "Venus"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "We saw Venus before sunrise today.",
+          "es": "Hoy vimos Venus antes del amanecer."
+        },
+        "pt": {
+          "text": "Hoje vimos Vênus antes do nascer do Sol.",
+          "es": "Hoy vimos Venus antes del amanecer."
+        },
+        "fr": {
+          "text": "Aujourd'hui, nous avons vu Vénus avant le lever du soleil.",
+          "es": "Hoy vimos Venus antes del amanecer."
+        },
+        "it": {
+          "text": "Oggi abbiamo visto Venere prima dell'alba.",
+          "es": "Hoy vimos Venus antes del amanecer."
+        },
+        "de": {
+          "text": "Heute haben wir Venus vor Sonnenaufgang gesehen.",
+          "es": "Hoy vimos Venus antes del amanecer."
+        }
+      }
+    },
+    {
+      "id": "astro19",
+      "es": "La Tierra",
+      "translations": {
+        "en": "Earth",
+        "pt": "A Terra",
+        "fr": "La Terre",
+        "it": "La Terra",
+        "de": "Die Erde"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Planeta, no suelo)"
+      },
+      "examples": {
+        "en": {
+          "text": "Earth takes a year to go around the Sun.",
+          "es": "La Tierra tarda un año en dar la vuelta al Sol."
+        },
+        "pt": {
+          "text": "A Terra leva um ano para dar uma volta ao redor do Sol.",
+          "es": "La Tierra tarda un año en dar la vuelta al Sol."
+        },
+        "fr": {
+          "text": "La Terre met un an à faire le tour du Soleil.",
+          "es": "La Tierra tarda un año en dar la vuelta al Sol."
+        },
+        "it": {
+          "text": "La Terra impiega un anno a girare intorno al Sole.",
+          "es": "La Tierra tarda un año en dar la vuelta al Sol."
+        },
+        "de": {
+          "text": "Die Erde braucht ein Jahr, um die Sonne zu umrunden.",
+          "es": "La Tierra tarda un año en dar la vuelta al Sol."
+        }
+      }
+    },
+    {
+      "id": "astro20",
+      "es": "Marte",
+      "translations": {
+        "en": "Mars",
+        "pt": "Marte",
+        "fr": "Mars",
+        "it": "Marte",
+        "de": "Mars"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Mars is also called the red planet.",
+          "es": "A Marte también le dicen el planeta rojo."
+        },
+        "pt": {
+          "text": "Marte também é chamado de planeta vermelho.",
+          "es": "A Marte también le dicen el planeta rojo."
+        },
+        "fr": {
+          "text": "On appelle aussi Mars la planète rouge.",
+          "es": "A Marte también le dicen el planeta rojo."
+        },
+        "it": {
+          "text": "Marte è chiamato anche il pianeta rosso.",
+          "es": "A Marte también le dicen el planeta rojo."
+        },
+        "de": {
+          "text": "Mars wird auch der Rote Planet genannt.",
+          "es": "A Marte también le dicen el planeta rojo."
+        }
+      }
+    },
+    {
+      "id": "astro21",
+      "es": "Júpiter",
+      "translations": {
+        "en": "Jupiter",
+        "pt": "Júpiter",
+        "fr": "Jupiter",
+        "it": "Giove",
+        "de": "Jupiter"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Jupiter is the largest planet in the solar system.",
+          "es": "Júpiter es el planeta más grande del sistema solar."
+        },
+        "pt": {
+          "text": "Júpiter é o maior planeta do Sistema Solar.",
+          "es": "Júpiter es el planeta más grande del sistema solar."
+        },
+        "fr": {
+          "text": "Jupiter est la plus grande planète du système solaire.",
+          "es": "Júpiter es el planeta más grande del sistema solar."
+        },
+        "it": {
+          "text": "Giove è il pianeta più grande del sistema solare.",
+          "es": "Júpiter es el planeta más grande del sistema solar."
+        },
+        "de": {
+          "text": "Jupiter ist der größte Planet im Sonnensystem.",
+          "es": "Júpiter es el planeta más grande del sistema solar."
+        }
+      }
+    },
+    {
+      "id": "astro22",
+      "es": "Saturno",
+      "translations": {
+        "en": "Saturn",
+        "pt": "Saturno",
+        "fr": "Saturne",
+        "it": "Saturno",
+        "de": "Saturn"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "You can see Saturn's rings with a telescope.",
+          "es": "Con un telescopio puedes ver los anillos de Saturno."
+        },
+        "pt": {
+          "text": "Com um telescópio, você pode ver os anéis de Saturno.",
+          "es": "Con un telescopio puedes ver los anillos de Saturno."
+        },
+        "fr": {
+          "text": "Avec un télescope, tu peux voir les anneaux de Saturne.",
+          "es": "Con un telescopio puedes ver los anillos de Saturno."
+        },
+        "it": {
+          "text": "Con un telescopio puoi vedere gli anelli di Saturno.",
+          "es": "Con un telescopio puedes ver los anillos de Saturno."
+        },
+        "de": {
+          "text": "Mit einem Teleskop kannst du die Ringe des Saturns sehen.",
+          "es": "Con un telescopio puedes ver los anillos de Saturno."
+        }
+      }
+    },
+    {
+      "id": "astro23",
+      "es": "Urano",
+      "translations": {
+        "en": "Uranus",
+        "pt": "Urano",
+        "fr": "Uranus",
+        "it": "Urano",
+        "de": "Uranus"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Uranus looks blue-green in this photo.",
+          "es": "En esta foto, Urano se ve azul verdoso."
+        },
+        "pt": {
+          "text": "Nesta foto, Urano parece azul-esverdeado.",
+          "es": "En esta foto, Urano se ve azul verdoso."
+        },
+        "fr": {
+          "text": "Sur cette photo, Uranus paraît bleu-vert.",
+          "es": "En esta foto, Urano se ve azul verdoso."
+        },
+        "it": {
+          "text": "In questa foto Urano sembra di un colore tra il blu e il verde.",
+          "es": "En esta foto, Urano se ve azul verdoso."
+        },
+        "de": {
+          "text": "Auf diesem Foto sieht Uranus blaugrün aus.",
+          "es": "En esta foto, Urano se ve azul verdoso."
+        }
+      }
+    },
+    {
+      "id": "astro24",
+      "es": "Neptuno",
+      "translations": {
+        "en": "Neptune",
+        "pt": "Netuno",
+        "fr": "Neptune",
+        "it": "Nettuno",
+        "de": "Neptun"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Neptune is the farthest planet from the Sun.",
+          "es": "Neptuno es el planeta más lejano del Sol."
+        },
+        "pt": {
+          "text": "Netuno é o planeta mais distante do Sol.",
+          "es": "Neptuno es el planeta más lejano del Sol."
+        },
+        "fr": {
+          "text": "Neptune est la planète la plus éloignée du Soleil.",
+          "es": "Neptuno es el planeta más lejano del Sol."
+        },
+        "it": {
+          "text": "Nettuno è il pianeta più lontano dal Sole.",
+          "es": "Neptuno es el planeta más lejano del Sol."
+        },
+        "de": {
+          "text": "Neptun ist der Planet, der am weitesten von der Sonne entfernt ist.",
+          "es": "Neptuno es el planeta más lejano del Sol."
+        }
+      }
+    },
+    {
+      "id": "astro8",
+      "es": "El planeta enano",
+      "translations": {
+        "en": "The dwarf planet",
+        "pt": "O planeta anão",
+        "fr": "La planète naine",
+        "it": "Il pianeta nano",
+        "de": "Der Zwergplanet"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The dwarf planets)",
+        "fr": "(Plural: Les planètes naines)",
+        "it": "(Plural: I pianeti nani)",
+        "pt": "(Plural: Os planetas anões)",
+        "de": "(Plural: Die Zwergplaneten)"
+      },
+      "examples": {
+        "en": {
+          "text": "Pluto is a dwarf planet.",
+          "es": "Plutón es un planeta enano."
+        },
+        "pt": {
+          "text": "Plutão é um planeta anão.",
+          "es": "Plutón es un planeta enano."
+        },
+        "fr": {
+          "text": "Pluton est une planète naine.",
+          "es": "Plutón es un planeta enano."
+        },
+        "it": {
+          "text": "Plutone è un pianeta nano.",
+          "es": "Plutón es un planeta enano."
+        },
+        "de": {
+          "text": "Pluto ist ein Zwergplanet.",
+          "es": "Plutón es un planeta enano."
+        }
+      }
+    },
+    {
+      "id": "astro25",
+      "es": "Plutón",
+      "translations": {
+        "en": "Pluto",
+        "pt": "Plutão",
+        "fr": "Pluton",
+        "it": "Plutone",
+        "de": "Pluto"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Es un planeta enano desde su reclasificación por la Unión Astronómica Internacional en 2006.",
+        "en": "Es un planeta enano desde su reclasificación por la Unión Astronómica Internacional en 2006.",
+        "fr": "Es un planeta enano desde su reclasificación por la Unión Astronómica Internacional en 2006.",
+        "it": "Es un planeta enano desde su reclasificación por la Unión Astronómica Internacional en 2006.",
+        "pt": "Es un planeta enano desde su reclasificación por la Unión Astronómica Internacional en 2006.",
+        "de": "Es un planeta enano desde su reclasificación por la Unión Astronómica Internacional en 2006."
+      },
+      "examples": {
+        "en": {
+          "text": "In this model, you can see Pluto next to other dwarf planets.",
+          "es": "En esta maqueta puedes ver Plutón junto a otros planetas enanos."
+        },
+        "pt": {
+          "text": "Nesta maquete, você pode ver Plutão ao lado de outros planetas anões.",
+          "es": "En esta maqueta puedes ver Plutón junto a otros planetas enanos."
+        },
+        "fr": {
+          "text": "Sur cette maquette, tu peux voir Pluton à côté d'autres planètes naines.",
+          "es": "En esta maqueta puedes ver Plutón junto a otros planetas enanos."
+        },
+        "it": {
+          "text": "In questo modello puoi vedere Plutone accanto ad altri pianeti nani.",
+          "es": "En esta maqueta puedes ver Plutón junto a otros planetas enanos."
+        },
+        "de": {
+          "text": "In diesem Modell kannst du Pluto neben anderen Zwergplaneten sehen.",
+          "es": "En esta maqueta puedes ver Plutón junto a otros planetas enanos."
+        }
+      }
+    },
+    {
+      "id": "astro15",
+      "es": "La Luna",
+      "translations": {
+        "en": "The Moon",
+        "pt": "A Lua",
+        "fr": "La Lune",
+        "it": "La Luna",
+        "de": "Der Mond"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The Moon is almost full today.",
+          "es": "Hoy la Luna está casi llena."
+        },
+        "pt": {
+          "text": "Hoje a Lua está quase cheia.",
+          "es": "Hoy la Luna está casi llena."
+        },
+        "fr": {
+          "text": "Aujourd'hui, la Lune est presque pleine.",
+          "es": "Hoy la Luna está casi llena."
+        },
+        "it": {
+          "text": "Oggi la Luna è quasi piena.",
+          "es": "Hoy la Luna está casi llena."
+        },
+        "de": {
+          "text": "Der Mond ist heute fast voll.",
+          "es": "Hoy la Luna está casi llena."
+        }
+      }
+    },
+    {
+      "id": "astro16",
+      "es": "El satélite natural",
+      "translations": {
+        "en": "The natural satellite",
+        "pt": "O satélite natural",
+        "fr": "Le satellite naturel",
+        "it": "Il satellite naturale",
+        "de": "Der natürliche Satellit"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The natural satellites)",
+        "fr": "(Plural: Les satellites naturels)",
+        "it": "(Plural: I satelliti naturali)",
+        "pt": "(Plural: Os satélites naturais)",
+        "de": "(Plural: Die natürlichen Satelliten)"
+      },
+      "examples": {
+        "en": {
+          "text": "The Moon is Earth's only natural satellite.",
+          "es": "La Luna es el único satélite natural de la Tierra."
+        },
+        "pt": {
+          "text": "A Lua é o único satélite natural da Terra.",
+          "es": "La Luna es el único satélite natural de la Tierra."
+        },
+        "fr": {
+          "text": "La Lune est le seul satellite naturel de la Terre.",
+          "es": "La Luna es el único satélite natural de la Tierra."
+        },
+        "it": {
+          "text": "La Luna è l'unico satellite naturale della Terra.",
+          "es": "La Luna es el único satélite natural de la Tierra."
+        },
+        "de": {
+          "text": "Der Mond ist der einzige natürliche Satellit der Erde.",
+          "es": "La Luna es el único satélite natural de la Tierra."
+        }
+      }
+    },
+    {
+      "id": "astro26",
+      "es": "La órbita",
+      "translations": {
+        "en": "The orbit",
+        "pt": "A órbita",
+        "fr": "L'orbite",
+        "it": "L'orbita",
+        "de": "Die Umlaufbahn"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The orbits)",
+        "fr": "(Plural: Les orbites)",
+        "it": "(Plural: Le orbite)",
+        "pt": "(Plural: As órbitas)",
+        "de": "(Plural: Die Umlaufbahnen)"
+      },
+      "examples": {
+        "en": {
+          "text": "This drawing shows the Moon's orbit.",
+          "es": "En este dibujo se ve la órbita de la Luna."
+        },
+        "pt": {
+          "text": "Neste desenho dá para ver a órbita da Lua.",
+          "es": "En este dibujo se ve la órbita de la Luna."
+        },
+        "fr": {
+          "text": "Sur ce dessin, on voit l'orbite de la Lune.",
+          "es": "En este dibujo se ve la órbita de la Luna."
+        },
+        "it": {
+          "text": "In questo disegno si vede l'orbita della Luna.",
+          "es": "En este dibujo se ve la órbita de la Luna."
+        },
+        "de": {
+          "text": "Auf dieser Zeichnung sieht man die Umlaufbahn des Mondes.",
+          "es": "En este dibujo se ve la órbita de la Luna."
+        }
+      }
+    },
+    {
+      "id": "astro27",
+      "es": "La gravedad",
+      "translations": {
+        "en": "Gravity",
+        "pt": "A gravidade",
+        "fr": "La gravité",
+        "it": "La gravità",
+        "de": "Die Schwerkraft"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Gravity is weaker on the Moon than on Earth.",
+          "es": "En la Luna, la gravedad es menor que en la Tierra."
+        },
+        "pt": {
+          "text": "A gravidade na Lua é menor do que na Terra.",
+          "es": "En la Luna, la gravedad es menor que en la Tierra."
+        },
+        "fr": {
+          "text": "La gravité est plus faible sur la Lune que sur la Terre.",
+          "es": "En la Luna, la gravedad es menor que en la Tierra."
+        },
+        "it": {
+          "text": "La gravità è più debole sulla Luna che sulla Terra.",
+          "es": "En la Luna, la gravedad es menor que en la Tierra."
+        },
+        "de": {
+          "text": "Auf dem Mond ist die Schwerkraft schwächer als auf der Erde.",
+          "es": "En la Luna, la gravedad es menor que en la Tierra."
+        }
+      }
+    },
+    {
+      "id": "astro28",
+      "es": "La atmósfera",
+      "translations": {
+        "en": "The atmosphere",
+        "pt": "A atmosfera",
+        "fr": "L'atmosphère",
+        "it": "L'atmosfera",
+        "de": "Die Atmosphäre"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The atmospheres)",
+        "fr": "(Plural: Les atmosphères)",
+        "it": "(Plural: Le atmosfere)",
+        "pt": "(Plural: As atmosferas)",
+        "de": "(Plural: Die Atmosphären)"
+      },
+      "examples": {
+        "en": {
+          "text": "Mars has a very thin atmosphere.",
+          "es": "La atmósfera de Marte es muy delgada."
+        },
+        "pt": {
+          "text": "A atmosfera de Marte é muito fina.",
+          "es": "La atmósfera de Marte es muy delgada."
+        },
+        "fr": {
+          "text": "L'atmosphère de Mars est très mince.",
+          "es": "La atmósfera de Marte es muy delgada."
+        },
+        "it": {
+          "text": "L'atmosfera di Marte è molto sottile.",
+          "es": "La atmósfera de Marte es muy delgada."
+        },
+        "de": {
+          "text": "Die Atmosphäre des Mars ist sehr dünn.",
+          "es": "La atmósfera de Marte es muy delgada."
+        }
+      }
+    },
+    {
+      "id": "astro30",
+      "es": "El anillo planetario",
+      "translations": {
+        "en": "The planetary ring",
+        "pt": "O anel planetário",
+        "fr": "L'anneau planétaire",
+        "it": "L'anello planetario",
+        "de": "Der Planetenring"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The planetary rings)",
+        "fr": "(Plural: Les anneaux planétaires)",
+        "it": "(Plural: Gli anelli planetari)",
+        "pt": "(Plural: Os anéis planetários)",
+        "de": "(Plural: Die Planetenringe)"
+      },
+      "examples": {
+        "en": {
+          "text": "The photo shows several planetary rings around Saturn.",
+          "es": "La foto muestra varios anillos planetarios alrededor de Saturno."
+        },
+        "pt": {
+          "text": "A foto mostra vários anéis planetários ao redor de Saturno.",
+          "es": "La foto muestra varios anillos planetarios alrededor de Saturno."
+        },
+        "fr": {
+          "text": "La photo montre plusieurs anneaux planétaires autour de Saturne.",
+          "es": "La foto muestra varios anillos planetarios alrededor de Saturno."
+        },
+        "it": {
+          "text": "La foto mostra diversi anelli planetari intorno a Saturno.",
+          "es": "La foto muestra varios anillos planetarios alrededor de Saturno."
+        },
+        "de": {
+          "text": "Das Foto zeigt mehrere Planetenringe um Saturn.",
+          "es": "La foto muestra varios anillos planetarios alrededor de Saturno."
+        }
+      }
+    },
+    {
+      "id": "astro10",
+      "es": "El cometa",
+      "translations": {
+        "en": "The comet",
+        "pt": "O cometa",
+        "fr": "La comète",
+        "it": "La cometa",
+        "de": "Der Komet"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Cuerpo celeste con cola visible en ciertas condiciones)",
+        "en": "(Plural: The comets)",
+        "fr": "(Plural: Les comètes)",
+        "it": "(Plural: Le comete)",
+        "pt": "(Plural: Os cometas)",
+        "de": "(Plural: Die Kometen)"
+      },
+      "examples": {
+        "en": {
+          "text": "You can see the comet's tail in the photo.",
+          "es": "En la foto se ve la cola del cometa."
+        },
+        "pt": {
+          "text": "Na foto dá para ver a cauda do cometa.",
+          "es": "En la foto se ve la cola del cometa."
+        },
+        "fr": {
+          "text": "On voit la queue de la comète sur la photo.",
+          "es": "En la foto se ve la cola del cometa."
+        },
+        "it": {
+          "text": "Nella foto si vede la coda della cometa.",
+          "es": "En la foto se ve la cola del cometa."
+        },
+        "de": {
+          "text": "Auf dem Foto sieht man den Schweif des Kometen.",
+          "es": "En la foto se ve la cola del cometa."
+        }
+      }
+    },
+    {
+      "id": "astro11",
+      "es": "El asteroide",
+      "translations": {
+        "en": "The asteroid",
+        "pt": "O asteroide",
+        "fr": "L'astéroïde",
+        "it": "L'asteroide",
+        "de": "Der Asteroid"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The asteroids)",
+        "fr": "(Plural: Les astéroïdes)",
+        "it": "(Plural: Gli asteroidi)",
+        "pt": "(Plural: Os asteroides)",
+        "de": "(Plural: Die Asteroiden)"
+      },
+      "examples": {
+        "en": {
+          "text": "This asteroid passes close to Earth.",
+          "es": "Este asteroide pasa cerca de la Tierra."
+        },
+        "pt": {
+          "text": "Este asteroide passa perto da Terra.",
+          "es": "Este asteroide pasa cerca de la Tierra."
+        },
+        "fr": {
+          "text": "Cet astéroïde passe près de la Terre.",
+          "es": "Este asteroide pasa cerca de la Tierra."
+        },
+        "it": {
+          "text": "Questo asteroide passa vicino alla Terra.",
+          "es": "Este asteroide pasa cerca de la Tierra."
+        },
+        "de": {
+          "text": "Dieser Asteroid fliegt dicht an der Erde vorbei.",
+          "es": "Este asteroide pasa cerca de la Tierra."
+        }
+      }
+    },
+    {
+      "id": "astro12",
+      "es": "El meteoro",
+      "translations": {
+        "en": "The meteor",
+        "pt": "O meteoro",
+        "fr": "Le météore",
+        "it": "La meteora",
+        "de": "Der Meteor"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Fenómeno luminoso en la atmósfera; en el habla diaria, «estrella fugaz»)",
+        "en": "(Plural: The meteors)",
+        "fr": "(Plural: Les météores) En astronomía, «météore» es el destello; «météorite» es lo que llega al suelo.",
+        "it": "(Plural: Le meteore)",
+        "pt": "(Plural: Os meteoros)",
+        "de": "(Plural: Die Meteore) En astronomía, «Meteor» es el término técnico; «Sternschnuppe» es el nombre cotidiano."
+      },
+      "examples": {
+        "en": {
+          "text": "This meteor left a trail of light in the sky.",
+          "es": "Este meteoro dejó una estela de luz en el cielo."
+        },
+        "pt": {
+          "text": "Este meteoro deixou um rastro de luz no céu.",
+          "es": "Este meteoro dejó una estela de luz en el cielo."
+        },
+        "fr": {
+          "text": "Ce météore a laissé une traînée lumineuse dans le ciel.",
+          "es": "Este meteoro dejó una estela de luz en el cielo."
+        },
+        "it": {
+          "text": "Questa meteora ha lasciato una scia luminosa nel cielo.",
+          "es": "Este meteoro dejó una estela de luz en el cielo."
+        },
+        "de": {
+          "text": "Dieser Meteor hat eine Lichtspur am Himmel hinterlassen.",
+          "es": "Este meteoro dejó una estela de luz en el cielo."
+        }
+      }
+    },
+    {
+      "id": "astro34",
+      "es": "La estrella fugaz",
+      "translations": {
+        "en": "The shooting star",
+        "pt": "A estrela cadente",
+        "fr": "L'étoile filante",
+        "it": "La stella cadente",
+        "de": "Die Sternschnuppe"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Nombre cotidiano del meteoro visible en el cielo; no es una estrella)",
+        "en": "(Plural: The shooting stars)",
+        "fr": "(Plural: Les étoiles filantes)",
+        "it": "(Plural: Le stelle cadenti)",
+        "pt": "(Plural: As estrelas cadentes)",
+        "de": "(Plural: Die Sternschnuppen)"
+      },
+      "examples": {
+        "en": {
+          "text": "Look, a shooting star!",
+          "es": "¡Mira, una estrella fugaz!"
+        },
+        "pt": {
+          "text": "Olha, uma estrela cadente!",
+          "es": "¡Mira, una estrella fugaz!"
+        },
+        "fr": {
+          "text": "Regarde, une étoile filante !",
+          "es": "¡Mira, una estrella fugaz!"
+        },
+        "it": {
+          "text": "Guarda, una stella cadente!",
+          "es": "¡Mira, una estrella fugaz!"
+        },
+        "de": {
+          "text": "Schau, eine Sternschnuppe!",
+          "es": "¡Mira, una estrella fugaz!"
+        }
+      }
+    },
+    {
+      "id": "astro47",
+      "es": "La lluvia de estrellas",
+      "translations": {
+        "en": "The meteor shower",
+        "pt": "A chuva de meteoros",
+        "fr": "La pluie d'étoiles filantes",
+        "it": "La pioggia di stelle cadenti",
+        "de": "Der Meteorschauer"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "También se llama «lluvia de meteoros»; se ven varias estrellas fugaces, no estrellas reales.",
+        "en": "(Plural: The meteor showers)",
+        "fr": "(Plural: Les pluies d'étoiles filantes)",
+        "it": "(Plural: Le piogge di stelle cadenti)",
+        "pt": "(Plural: As chuvas de meteoros)",
+        "de": "(Plural: Die Meteorschauer)"
+      },
+      "examples": {
+        "en": {
+          "text": "There's a meteor shower tonight.",
+          "es": "Esta noche hay una lluvia de estrellas."
+        },
+        "pt": {
+          "text": "Hoje à noite tem uma chuva de meteoros.",
+          "es": "Esta noche hay una lluvia de estrellas."
+        },
+        "fr": {
+          "text": "Il y a une pluie d'étoiles filantes ce soir.",
+          "es": "Esta noche hay una lluvia de estrellas."
+        },
+        "it": {
+          "text": "Stanotte c'è una pioggia di stelle cadenti.",
+          "es": "Esta noche hay una lluvia de estrellas."
+        },
+        "de": {
+          "text": "Heute Nacht gibt es einen Meteorschauer.",
+          "es": "Esta noche hay una lluvia de estrellas."
+        }
+      }
+    },
+    {
+      "id": "astro13",
+      "es": "El meteorito",
+      "translations": {
+        "en": "The meteorite",
+        "pt": "O meteorito",
+        "fr": "La météorite",
+        "it": "Il meteorite",
+        "de": "Der Meteorit"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Fragmento de origen espacial que llega al suelo)",
+        "en": "(Plural: The meteorites)",
+        "fr": "(Plural: Les météorites)",
+        "it": "(Plural: I meteoriti) También puede usarse en femenino: «la meteorite» y, en plural, «le meteoriti».",
+        "pt": "(Plural: Os meteoritos)",
+        "de": "(Plural: Die Meteoriten)"
+      },
+      "examples": {
+        "en": {
+          "text": "You can see a meteorite up close at the museum.",
+          "es": "En el museo puedes ver un meteorito de cerca."
+        },
+        "pt": {
+          "text": "No museu, você pode ver um meteorito de perto.",
+          "es": "En el museo puedes ver un meteorito de cerca."
+        },
+        "fr": {
+          "text": "Au musée, tu peux voir une météorite de près.",
+          "es": "En el museo puedes ver un meteorito de cerca."
+        },
+        "it": {
+          "text": "Al museo puoi vedere una meteorite da vicino.",
+          "es": "En el museo puedes ver un meteorito de cerca."
+        },
+        "de": {
+          "text": "Im Museum kannst du einen Meteoriten aus der Nähe sehen.",
+          "es": "En el museo puedes ver un meteorito de cerca."
+        }
+      }
+    },
+    {
+      "id": "astro29",
+      "es": "El cráter de impacto",
+      "translations": {
+        "en": "The impact crater",
+        "pt": "A cratera de impacto",
+        "fr": "Le cratère d'impact",
+        "it": "Il cratere da impatto",
+        "de": "Der Einschlagkrater"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "No confundir con el cráter volcánico: el de impacto se forma por un choque.",
+        "en": "(Plural: The impact craters)",
+        "fr": "(Plural: Les cratères d'impact)",
+        "it": "(Plural: I crateri da impatto)",
+        "pt": "(Plural: As crateras de impacto)",
+        "de": "(Plural: Die Einschlagkrater)"
+      },
+      "examples": {
+        "en": {
+          "text": "You can see an impact crater on the Moon in this photo.",
+          "es": "En esta foto se ve un cráter de impacto en la Luna."
+        },
+        "pt": {
+          "text": "Nesta foto dá para ver uma cratera de impacto na Lua.",
+          "es": "En esta foto se ve un cráter de impacto en la Luna."
+        },
+        "fr": {
+          "text": "Cette photo montre un cratère d'impact sur la Lune.",
+          "es": "En esta foto se ve un cráter de impacto en la Luna."
+        },
+        "it": {
+          "text": "In questa foto si vede un cratere da impatto sulla Luna.",
+          "es": "En esta foto se ve un cráter de impacto en la Luna."
+        },
+        "de": {
+          "text": "Auf diesem Foto sieht man einen Einschlagkrater auf dem Mond.",
+          "es": "En esta foto se ve un cráter de impacto en la Luna."
+        }
+      }
+    },
+    {
+      "id": "astro31",
+      "es": "El eclipse",
+      "translations": {
+        "en": "The eclipse",
+        "pt": "O eclipse",
+        "fr": "L'éclipse",
+        "it": "L'eclissi",
+        "de": "Die Finsternis"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The eclipses)",
+        "fr": "(Plural: Les éclipses)",
+        "it": "(Plural: Le eclissi)",
+        "pt": "(Plural: Os eclipses)",
+        "de": "(Plural: Die Finsternisse) (En astronomía) Fuera de este contexto, «Finsternis» también significa «oscuridad»."
+      },
+      "examples": {
+        "en": {
+          "text": "What time does the eclipse start?",
+          "es": "¿A qué hora empieza el eclipse?"
+        },
+        "pt": {
+          "text": "A que horas começa o eclipse?",
+          "es": "¿A qué hora empieza el eclipse?"
+        },
+        "fr": {
+          "text": "À quelle heure commence l'éclipse ?",
+          "es": "¿A qué hora empieza el eclipse?"
+        },
+        "it": {
+          "text": "A che ora inizia l'eclissi?",
+          "es": "¿A qué hora empieza el eclipse?"
+        },
+        "de": {
+          "text": "Um wie viel Uhr beginnt die Finsternis?",
+          "es": "¿A qué hora empieza el eclipse?"
+        }
+      }
+    },
+    {
+      "id": "astro32",
+      "es": "El eclipse solar",
+      "translations": {
+        "en": "The solar eclipse",
+        "pt": "O eclipse solar",
+        "fr": "L'éclipse solaire",
+        "it": "L'eclissi solare",
+        "de": "Die Sonnenfinsternis"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The solar eclipses)",
+        "fr": "(Plural: Les éclipses solaires)",
+        "it": "(Plural: Le eclissi solari)",
+        "pt": "(Plural: Os eclipses solares)",
+        "de": "(Plural: Die Sonnenfinsternisse)"
+      },
+      "examples": {
+        "en": {
+          "text": "We watched the solar eclipse on TV.",
+          "es": "Vimos el eclipse solar en la tele."
+        },
+        "pt": {
+          "text": "Vimos o eclipse solar na TV.",
+          "es": "Vimos el eclipse solar en la tele."
+        },
+        "fr": {
+          "text": "On a regardé l'éclipse solaire à la télé.",
+          "es": "Vimos el eclipse solar en la tele."
+        },
+        "it": {
+          "text": "Abbiamo visto l'eclissi solare in TV.",
+          "es": "Vimos el eclipse solar en la tele."
+        },
+        "de": {
+          "text": "Wir haben die Sonnenfinsternis im Fernsehen gesehen.",
+          "es": "Vimos el eclipse solar en la tele."
+        }
+      }
+    },
+    {
+      "id": "astro33",
+      "es": "El eclipse lunar",
+      "translations": {
+        "en": "The lunar eclipse",
+        "pt": "O eclipse lunar",
+        "fr": "L'éclipse lunaire",
+        "it": "L'eclissi lunare",
+        "de": "Die Mondfinsternis"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The lunar eclipses)",
+        "fr": "(Plural: Les éclipses lunaires)",
+        "it": "(Plural: Le eclissi lunari)",
+        "pt": "(Plural: Os eclipses lunares)",
+        "de": "(Plural: Die Mondfinsternisse)"
+      },
+      "examples": {
+        "en": {
+          "text": "The Moon turned red during the lunar eclipse.",
+          "es": "Durante el eclipse lunar, la Luna se puso roja."
+        },
+        "pt": {
+          "text": "Durante o eclipse lunar, a Lua ficou vermelha.",
+          "es": "Durante el eclipse lunar, la Luna se puso roja."
+        },
+        "fr": {
+          "text": "Pendant l'éclipse lunaire, la Lune est devenue rouge.",
+          "es": "Durante el eclipse lunar, la Luna se puso roja."
+        },
+        "it": {
+          "text": "Durante l'eclissi lunare la Luna è diventata rossa.",
+          "es": "Durante el eclipse lunar, la Luna se puso roja."
+        },
+        "de": {
+          "text": "Während der Mondfinsternis wurde der Mond rot.",
+          "es": "Durante el eclipse lunar, la Luna se puso roja."
+        }
+      }
+    },
+    {
+      "id": "astro46",
+      "es": "La aurora boreal",
+      "translations": {
+        "en": "The northern lights",
+        "pt": "A aurora boreal",
+        "fr": "L'aurore boréale",
+        "it": "L'aurora boreale",
+        "de": "Das Nordlicht"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Se usa en plural. «Aurora borealis» es el término científico.",
+        "fr": "(Plural: Les aurores boréales)",
+        "it": "(Plural: Le aurore boreali)",
+        "pt": "(Plural: As auroras boreais)",
+        "de": "(Plural: Die Nordlichter) (Fenómeno luminoso en el cielo del norte)"
+      },
+      "examples": {
+        "en": {
+          "text": "Can we see the northern lights from here?",
+          "es": "¿Podemos ver la aurora boreal desde aquí?"
+        },
+        "pt": {
+          "text": "Dá para ver a aurora boreal daqui?",
+          "es": "¿Podemos ver la aurora boreal desde aquí?"
+        },
+        "fr": {
+          "text": "Est-ce qu'on peut voir l'aurore boréale d'ici ?",
+          "es": "¿Podemos ver la aurora boreal desde aquí?"
+        },
+        "it": {
+          "text": "Possiamo vedere l'aurora boreale da qui?",
+          "es": "¿Podemos ver la aurora boreal desde aquí?"
+        },
+        "de": {
+          "text": "Können wir von hier aus das Nordlicht sehen?",
+          "es": "¿Podemos ver la aurora boreal desde aquí?"
+        }
+      }
+    },
+    {
+      "id": "astro42",
+      "es": "El telescopio",
+      "translations": {
+        "en": "The telescope",
+        "pt": "O telescópio",
+        "fr": "Le télescope",
+        "it": "Il telescopio",
+        "de": "Das Teleskop"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The telescopes)",
+        "fr": "(Plural: Les télescopes)",
+        "it": "(Plural: I telescopi)",
+        "pt": "(Plural: Os telescópios)",
+        "de": "(Plural: Die Teleskope)"
+      },
+      "examples": {
+        "en": {
+          "text": "Can I look at the Moon through your telescope?",
+          "es": "¿Puedo ver la Luna con tu telescopio?"
+        },
+        "pt": {
+          "text": "Posso ver a Lua pelo seu telescópio?",
+          "es": "¿Puedo ver la Luna con tu telescopio?"
+        },
+        "fr": {
+          "text": "Je peux regarder la Lune avec ton télescope ?",
+          "es": "¿Puedo ver la Luna con tu telescopio?"
+        },
+        "it": {
+          "text": "Posso guardare la Luna con il tuo telescopio?",
+          "es": "¿Puedo ver la Luna con tu telescopio?"
+        },
+        "de": {
+          "text": "Kann ich den Mond durch dein Teleskop sehen?",
+          "es": "¿Puedo ver la Luna con tu telescopio?"
+        }
+      }
+    },
+    {
+      "id": "astro35",
+      "es": "El agujero negro",
+      "translations": {
+        "en": "The black hole",
+        "pt": "O buraco negro",
+        "fr": "Le trou noir",
+        "it": "Il buco nero",
+        "de": "Das schwarze Loch"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The black holes)",
+        "fr": "(Plural: Les trous noirs)",
+        "it": "(Plural: I buchi neri)",
+        "pt": "(Plural: Os buracos negros)",
+        "de": "(Plural: Die schwarzen Löcher)"
+      },
+      "examples": {
+        "en": {
+          "text": "We saw the first image of a black hole.",
+          "es": "Vimos la primera imagen de un agujero negro."
+        },
+        "pt": {
+          "text": "Vimos a primeira imagem de um buraco negro.",
+          "es": "Vimos la primera imagen de un agujero negro."
+        },
+        "fr": {
+          "text": "On a vu la première image d'un trou noir.",
+          "es": "Vimos la primera imagen de un agujero negro."
+        },
+        "it": {
+          "text": "Abbiamo visto la prima immagine di un buco nero.",
+          "es": "Vimos la primera imagen de un agujero negro."
+        },
+        "de": {
+          "text": "Wir haben das erste Bild eines schwarzen Lochs gesehen.",
+          "es": "Vimos la primera imagen de un agujero negro."
+        }
+      }
+    },
+    {
+      "id": "astro36",
+      "es": "La nebulosa",
+      "translations": {
+        "en": "The nebula",
+        "pt": "A nebulosa",
+        "fr": "La nébuleuse",
+        "it": "La nebulosa",
+        "de": "Der Nebel"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The nebulae) También se usa el plural «the nebulas».",
+        "fr": "(Plural: Les nébuleuses)",
+        "it": "(Plural: Le nebulose)",
+        "pt": "(Plural: As nebulosas)",
+        "de": "(Plural: Die Nebel) (En astronomía) Fuera de este contexto, «Nebel» también significa «niebla»."
+      },
+      "examples": {
+        "en": {
+          "text": "The telescope took a picture of a nebula.",
+          "es": "El telescopio tomó una foto de una nebulosa."
+        },
+        "pt": {
+          "text": "O telescópio tirou uma foto de uma nebulosa.",
+          "es": "El telescopio tomó una foto de una nebulosa."
+        },
+        "fr": {
+          "text": "Le télescope a pris une photo d'une nébuleuse.",
+          "es": "El telescopio tomó una foto de una nebulosa."
+        },
+        "it": {
+          "text": "Il telescopio ha scattato una foto di una nebulosa.",
+          "es": "El telescopio tomó una foto de una nebulosa."
+        },
+        "de": {
+          "text": "Das Teleskop hat einen Nebel fotografiert.",
+          "es": "El telescopio tomó una foto de una nebulosa."
+        }
+      }
+    },
+    {
+      "id": "astro37",
+      "es": "El astronauta",
+      "translations": {
+        "en": "The astronaut",
+        "pt": "O astronauta",
+        "fr": "L'astronaute",
+        "it": "L'astronauta",
+        "de": "Der Astronaut"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Femenino: la astronauta.",
+        "en": "(Plural: The astronauts) La forma es igual para ambos géneros.",
+        "fr": "(Plural: Les astronautes) Femenino: l'astronaute; en plural, les astronautes.",
+        "it": "(Plural: Gli astronauti) Femenino: l'astronauta; en plural, le astronaute.",
+        "pt": "(Plural: Os astronautas) Femenino: a astronauta; en plural, as astronautas.",
+        "de": "(Plural: Die Astronauten) Femenino: die Astronautin; en plural, die Astronautinnen."
+      },
+      "examples": {
+        "en": {
+          "text": "Ana, the astronaut, told us what it's like to sleep in space.",
+          "es": "La astronauta Ana nos contó cómo es dormir en el espacio."
+        },
+        "pt": {
+          "text": "A astronauta Ana nos contou como é dormir no espaço.",
+          "es": "La astronauta Ana nos contó cómo es dormir en el espacio."
+        },
+        "fr": {
+          "text": "Ana, l'astronaute, nous a raconté comment on dort dans l'espace.",
+          "es": "La astronauta Ana nos contó cómo es dormir en el espacio."
+        },
+        "it": {
+          "text": "L'astronauta Ana ci ha raccontato com'è dormire nello spazio.",
+          "es": "La astronauta Ana nos contó cómo es dormir en el espacio."
+        },
+        "de": {
+          "text": "Die Astronautin Ana hat uns erzählt, wie man im Weltraum schläft.",
+          "es": "La astronauta Ana nos contó cómo es dormir en el espacio."
+        }
+      }
+    },
+    {
+      "id": "astro38",
+      "es": "La nave espacial",
+      "translations": {
+        "en": "The spacecraft",
+        "pt": "A nave espacial",
+        "fr": "Le vaisseau spatial",
+        "it": "La navicella spaziale",
+        "de": "Das Raumschiff"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The spacecraft)",
+        "fr": "(Plural: Les vaisseaux spatiaux)",
+        "it": "(Plural: Le navicelle spaziali)",
+        "pt": "(Plural: As naves espaciais)",
+        "de": "(Plural: Die Raumschiffe)"
+      },
+      "examples": {
+        "en": {
+          "text": "The spacecraft returned to Earth.",
+          "es": "La nave espacial regresó a la Tierra."
+        },
+        "pt": {
+          "text": "A nave espacial voltou à Terra.",
+          "es": "La nave espacial regresó a la Tierra."
+        },
+        "fr": {
+          "text": "Le vaisseau spatial est revenu sur Terre.",
+          "es": "La nave espacial regresó a la Tierra."
+        },
+        "it": {
+          "text": "La navicella spaziale è tornata sulla Terra.",
+          "es": "La nave espacial regresó a la Tierra."
+        },
+        "de": {
+          "text": "Das Raumschiff ist zur Erde zurückgekehrt.",
+          "es": "La nave espacial regresó a la Tierra."
+        }
+      }
+    },
+    {
+      "id": "astro39",
+      "es": "El cohete",
+      "translations": {
+        "en": "The rocket",
+        "pt": "O foguete",
+        "fr": "La fusée",
+        "it": "Il razzo",
+        "de": "Die Rakete"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The rockets)",
+        "fr": "(Plural: Les fusées)",
+        "it": "(Plural: I razzi)",
+        "pt": "(Plural: Os foguetes)",
+        "de": "(Plural: Die Raketen)"
+      },
+      "examples": {
+        "en": {
+          "text": "We watched the rocket launch online.",
+          "es": "Vimos por Internet el lanzamiento del cohete."
+        },
+        "pt": {
+          "text": "Vimos o lançamento do foguete pela internet.",
+          "es": "Vimos por Internet el lanzamiento del cohete."
+        },
+        "fr": {
+          "text": "On a regardé le lancement de la fusée sur Internet.",
+          "es": "Vimos por Internet el lanzamiento del cohete."
+        },
+        "it": {
+          "text": "Abbiamo visto il lancio del razzo su Internet.",
+          "es": "Vimos por Internet el lanzamiento del cohete."
+        },
+        "de": {
+          "text": "Wir haben den Start der Rakete im Internet gesehen.",
+          "es": "Vimos por Internet el lanzamiento del cohete."
+        }
+      }
+    },
+    {
+      "id": "astro40",
+      "es": "El satélite artificial",
+      "translations": {
+        "en": "The artificial satellite",
+        "pt": "O satélite artificial",
+        "fr": "Le satellite artificiel",
+        "it": "Il satellite artificiale",
+        "de": "Der künstliche Satellit"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The artificial satellites)",
+        "fr": "(Plural: Les satellites artificiels)",
+        "it": "(Plural: I satelliti artificiali)",
+        "pt": "(Plural: Os satélites artificiais)",
+        "de": "(Plural: Die künstlichen Satelliten)"
+      },
+      "examples": {
+        "en": {
+          "text": "An artificial satellite takes pictures of Earth.",
+          "es": "Un satélite artificial toma fotos de la Tierra."
+        },
+        "pt": {
+          "text": "Um satélite artificial tira fotos da Terra.",
+          "es": "Un satélite artificial toma fotos de la Tierra."
+        },
+        "fr": {
+          "text": "Un satellite artificiel prend des photos de la Terre.",
+          "es": "Un satélite artificial toma fotos de la Tierra."
+        },
+        "it": {
+          "text": "Un satellite artificiale scatta foto della Terra.",
+          "es": "Un satélite artificial toma fotos de la Tierra."
+        },
+        "de": {
+          "text": "Ein künstlicher Satellit macht Fotos von der Erde.",
+          "es": "Un satélite artificial toma fotos de la Tierra."
+        }
+      }
+    },
+    {
+      "id": "astro41",
+      "es": "La estación espacial",
+      "translations": {
+        "en": "The space station",
+        "pt": "A estação espacial",
+        "fr": "La station spatiale",
+        "it": "La stazione spaziale",
+        "de": "Die Raumstation"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The space stations)",
+        "fr": "(Plural: Les stations spatiales)",
+        "it": "(Plural: Le stazioni spaziali)",
+        "pt": "(Plural: As estações espaciais)",
+        "de": "(Plural: Die Raumstationen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The crew lives on the space station.",
+          "es": "La tripulación vive en la estación espacial."
+        },
+        "pt": {
+          "text": "A tripulação vive na estação espacial.",
+          "es": "La tripulación vive en la estación espacial."
+        },
+        "fr": {
+          "text": "L'équipage vit dans la station spatiale.",
+          "es": "La tripulación vive en la estación espacial."
+        },
+        "it": {
+          "text": "L'equipaggio vive sulla stazione spaziale.",
+          "es": "La tripulación vive en la estación espacial."
+        },
+        "de": {
+          "text": "Die Besatzung lebt auf der Raumstation.",
+          "es": "La tripulación vive en la estación espacial."
+        }
+      }
+    },
+    {
+      "id": "astro43",
+      "es": "La misión espacial",
+      "translations": {
+        "en": "The space mission",
+        "pt": "A missão espacial",
+        "fr": "La mission spatiale",
+        "it": "La missione spaziale",
+        "de": "Die Weltraummission"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The space missions)",
+        "fr": "(Plural: Les missions spatiales)",
+        "it": "(Plural: Le missioni spaziali)",
+        "pt": "(Plural: As missões espaciais)",
+        "de": "(Plural: Die Weltraummissionen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The space mission lasted six months.",
+          "es": "La misión espacial duró seis meses."
+        },
+        "pt": {
+          "text": "A missão espacial durou seis meses.",
+          "es": "La misión espacial duró seis meses."
+        },
+        "fr": {
+          "text": "La mission spatiale a duré six mois.",
+          "es": "La misión espacial duró seis meses."
+        },
+        "it": {
+          "text": "La missione spaziale è durata sei mesi.",
+          "es": "La misión espacial duró seis meses."
+        },
+        "de": {
+          "text": "Die Weltraummission dauerte sechs Monate.",
+          "es": "La misión espacial duró seis meses."
+        }
+      }
+    },
+    {
+      "id": "astro44",
+      "es": "El extraterrestre",
+      "translations": {
+        "en": "The alien",
+        "pt": "O extraterrestre",
+        "fr": "L'extraterrestre",
+        "it": "L'extraterrestre",
+        "de": "Der Außerirdische"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Femenino: la extraterrestre.",
+        "en": "(Plural: The aliens) La forma es igual para ambos géneros. Fuera de la ciencia ficción, «alien» también puede referirse a una persona extranjera en textos jurídicos.",
+        "fr": "(Plural: Les extraterrestres) Femenino: l'extraterrestre; en plural, les extraterrestres.",
+        "it": "(Plural: Gli extraterrestri) Femenino: l'extraterrestre; en plural, le extraterrestri.",
+        "pt": "(Plural: Os extraterrestres) Femenino: a extraterrestre; en plural, as extraterrestres.",
+        "de": "(Plural: Die Außerirdischen) Femenino: die Außerirdische. Con el artículo indefinido: ein Außerirdischer / eine Außerirdische."
+      },
+      "examples": {
+        "en": {
+          "text": "In that movie, an alien comes to Earth.",
+          "es": "En esa película, un extraterrestre llega a la Tierra."
+        },
+        "pt": {
+          "text": "Nesse filme, um extraterrestre chega à Terra.",
+          "es": "En esa película, un extraterrestre llega a la Tierra."
+        },
+        "fr": {
+          "text": "Dans ce film, un extraterrestre arrive sur Terre.",
+          "es": "En esa película, un extraterrestre llega a la Tierra."
+        },
+        "it": {
+          "text": "In quel film, un extraterrestre arriva sulla Terra.",
+          "es": "En esa película, un extraterrestre llega a la Tierra."
+        },
+        "de": {
+          "text": "In dem Film kommt ein Außerirdischer auf die Erde.",
+          "es": "En esa película, un extraterrestre llega a la Tierra."
+        }
+      }
+    },
+    {
+      "id": "astro45",
+      "es": "La vida extraterrestre",
+      "translations": {
+        "en": "Extraterrestrial life",
+        "pt": "A vida extraterrestre",
+        "fr": "La vie extraterrestre",
+        "it": "La vita extraterrestre",
+        "de": "Das außerirdische Leben"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The movie is about the search for extraterrestrial life.",
+          "es": "La película trata sobre la búsqueda de vida extraterrestre."
+        },
+        "pt": {
+          "text": "O filme é sobre a busca por vida extraterrestre.",
+          "es": "La película trata sobre la búsqueda de vida extraterrestre."
+        },
+        "fr": {
+          "text": "Le film parle de la recherche de vie extraterrestre.",
+          "es": "La película trata sobre la búsqueda de vida extraterrestre."
+        },
+        "it": {
+          "text": "Il film parla della ricerca di vita extraterrestre.",
+          "es": "La película trata sobre la búsqueda de vida extraterrestre."
+        },
+        "de": {
+          "text": "Der Film handelt von der Suche nach außerirdischem Leben.",
+          "es": "La película trata sobre la búsqueda de vida extraterrestre."
+        }
+      }
     }
-  },
-  {
-    "id": "astro4",
-    "es": "La Vía Láctea",
-    "translations": {
-      "en": "The Milky Way",
-      "fr": "La Voie lactée",
-      "it": "La Via Lattea",
-      "pt": "A Via Láctea"
-    },
-    "image_url": ""
-  },
-  {
-    "id": "astro5",
-    "es": "El sistema solar",
-    "translations": {
-      "en": "The solar system",
-      "fr": "Le système solaire",
-      "it": "Il sistema solare",
-      "pt": "O sistema solar"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the solar systems",
-      "fr": "Plural: les systèmes solaires",
-      "it": "Plural: i sistemi solari",
-      "pt": "Plural: os sistemas solares"
-    }
-  },
-  {
-    "id": "astro6",
-    "es": "La estrella",
-    "translations": {
-      "en": "The star",
-      "fr": "L'étoile",
-      "it": "La stella",
-      "pt": "A estrela"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the stars",
-      "fr": "Plural: les étoiles",
-      "it": "Plural: le stelle",
-      "pt": "Plural: as estrelas"
-    }
-  },
-  {
-    "id": "astro7",
-    "es": "El planeta",
-    "translations": {
-      "en": "The planet",
-      "fr": "La planète",
-      "it": "Il pianeta",
-      "pt": "O planeta"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the planets",
-      "fr": "Plural: les planètes",
-      "it": "Plural: i pianeti",
-      "pt": "Plural: os planetas"
-    }
-  },
-  {
-    "id": "astro8",
-    "es": "El planeta enano",
-    "translations": {
-      "en": "The dwarf planet",
-      "fr": "La planète naine",
-      "it": "Il pianeta nano",
-      "pt": "O planeta anão"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the dwarf planets",
-      "fr": "Plural: les planètes naines",
-      "it": "Plural: i pianeti nani",
-      "pt": "Plural: os planetas anões"
-    }
-  },
-  {
-    "id": "astro9",
-    "es": "La constelación",
-    "translations": {
-      "en": "The constellation",
-      "fr": "La constellation",
-      "it": "La costellazione",
-      "pt": "A constelação"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the constellations",
-      "fr": "Plural: les constellations",
-      "it": "Plural: le costellazioni",
-      "pt": "Plural: as constelações"
-    }
-  },
-  {
-    "id": "astro10",
-    "es": "El cometa",
-    "translations": {
-      "en": "The comet",
-      "fr": "La comète",
-      "it": "La cometa",
-      "pt": "O cometa"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the comets",
-      "fr": "Plural: les comètes",
-      "it": "Plural: le comete",
-      "pt": "Plural: os cometas"
-    }
-  },
-  {
-    "id": "astro11",
-    "es": "El asteroide",
-    "translations": {
-      "en": "The asteroid",
-      "fr": "L'astéroïde",
-      "it": "L'asteroide",
-      "pt": "O asteroide"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the asteroids",
-      "fr": "Plural: les astéroïdes",
-      "it": "Plural: gli asteroidi",
-      "pt": "Plural: os asteroides"
-    }
-  },
-  {
-    "id": "astro12",
-    "es": "El meteoro",
-    "translations": {
-      "en": "The meteor",
-      "fr": "Le météore",
-      "it": "La meteora",
-      "pt": "O meteoro"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the meteors",
-      "fr": "Plural: les météores",
-      "it": "Plural: le meteore",
-      "pt": "Plural: os meteoros"
-    }
-  },
-  {
-    "id": "astro13",
-    "es": "El meteorito",
-    "translations": {
-      "en": "The meteorite",
-      "fr": "La météorite",
-      "it": "Il meteorite",
-      "pt": "O meteorito"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the meteorites",
-      "fr": "Plural: les météorites",
-      "it": "Plural: i meteoriti",
-      "pt": "Plural: os meteoritos"
-    }
-  },
-  {
-    "id": "astro14",
-    "es": "El Sol",
-    "translations": {
-      "en": "The Sun",
-      "fr": "Le Soleil",
-      "it": "Il Sole",
-      "pt": "O Sol"
-    },
-    "image_url": ""
-  },
-  {
-    "id": "astro15",
-    "es": "La Luna",
-    "translations": {
-      "en": "The Moon",
-      "fr": "La Lune",
-      "it": "La Luna",
-      "pt": "A Lua"
-    },
-    "image_url": ""
-  },
-  {
-    "id": "astro16",
-    "es": "El satélite natural",
-    "translations": {
-      "en": "The natural satellite",
-      "fr": "Le satellite naturel",
-      "it": "Il satellite naturale",
-      "pt": "O satélite natural"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the natural satellites",
-      "fr": "Plural: les satellites naturels",
-      "it": "Plural: i satelliti naturali",
-      "pt": "Plural: os satélites naturais"
-    }
-  },
-  {
-    "id": "astro17",
-    "es": "Mercurio",
-    "translations": {
-      "en": "Mercury",
-      "fr": "Mercure",
-      "it": "Mercurio",
-      "pt": "Mercúrio"
-    },
-    "image_url": ""
-  },
-  {
-    "id": "astro18",
-    "es": "Venus",
-    "translations": {
-      "en": "Venus",
-      "fr": "Vénus",
-      "it": "Venere",
-      "pt": "Vênus"
-    },
-    "image_url": ""
-  },
-  {
-    "id": "astro19",
-    "es": "La Tierra",
-    "translations": {
-      "en": "The Earth",
-      "fr": "La Terre",
-      "it": "La Terra",
-      "pt": "A Terra"
-    },
-    "image_url": ""
-  },
-  {
-    "id": "astro20",
-    "es": "Marte",
-    "translations": {
-      "en": "Mars",
-      "fr": "Mars",
-      "it": "Marte",
-      "pt": "Marte"
-    },
-    "image_url": ""
-  },
-  {
-    "id": "astro21",
-    "es": "Júpiter",
-    "translations": {
-      "en": "Jupiter",
-      "fr": "Jupiter",
-      "it": "Giove",
-      "pt": "Júpiter"
-    },
-    "image_url": ""
-  },
-  {
-    "id": "astro22",
-    "es": "Saturno",
-    "translations": {
-      "en": "Saturn",
-      "fr": "Saturne",
-      "it": "Saturno",
-      "pt": "Saturno"
-    },
-    "image_url": ""
-  },
-  {
-    "id": "astro23",
-    "es": "Urano",
-    "translations": {
-      "en": "Uranus",
-      "fr": "Uranus",
-      "it": "Urano",
-      "pt": "Urano"
-    },
-    "image_url": ""
-  },
-  {
-    "id": "astro24",
-    "es": "Neptuno",
-    "translations": {
-      "en": "Neptune",
-      "fr": "Neptune",
-      "it": "Nettuno",
-      "pt": "Netuno"
-    },
-    "image_url": ""
-  },
-  {
-    "id": "astro25",
-    "es": "Plutón",
-    "translations": {
-      "en": "Pluto",
-      "fr": "Pluton",
-      "it": "Plutone",
-      "pt": "Plutão"
-    },
-    "image_url": "",
-    "notes": {
-      "es": "Es un planeta enano desde su reclasificación por la Unión Astronómica Internacional en 2006.",
-      "en": "Es un planeta enano desde su reclasificación por la Unión Astronómica Internacional en 2006.",
-      "fr": "Es un planeta enano desde su reclasificación por la Unión Astronómica Internacional en 2006.",
-      "it": "Es un planeta enano desde su reclasificación por la Unión Astronómica Internacional en 2006.",
-      "pt": "Es un planeta enano desde su reclasificación por la Unión Astronómica Internacional en 2006."
-    }
-  },
-  {
-    "id": "astro26",
-    "es": "La órbita",
-    "translations": {
-      "en": "The orbit",
-      "fr": "L'orbite",
-      "it": "L'orbita",
-      "pt": "A órbita"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the orbits",
-      "fr": "Plural: les orbites",
-      "it": "Plural: le orbite",
-      "pt": "Plural: as órbitas"
-    }
-  },
-  {
-    "id": "astro27",
-    "es": "La gravedad",
-    "translations": {
-      "en": "Gravity",
-      "fr": "La gravité",
-      "it": "La gravità",
-      "pt": "A gravidade"
-    },
-    "image_url": ""
-  },
-  {
-    "id": "astro28",
-    "es": "La atmósfera",
-    "translations": {
-      "en": "The atmosphere",
-      "fr": "L'atmosphère",
-      "it": "L'atmosfera",
-      "pt": "A atmosfera"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the atmospheres",
-      "fr": "Plural: les atmosphères",
-      "it": "Plural: le atmosfere",
-      "pt": "Plural: as atmosferas"
-    }
-  },
-  {
-    "id": "astro29",
-    "es": "El cráter",
-    "translations": {
-      "en": "The crater",
-      "fr": "Le cratère",
-      "it": "Il cratere",
-      "pt": "A cratera"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the craters",
-      "fr": "Plural: les cratères",
-      "it": "Plural: i crateri",
-      "pt": "Plural: as crateras"
-    }
-  },
-  {
-    "id": "astro30",
-    "es": "El anillo planetario",
-    "translations": {
-      "en": "The planetary ring",
-      "fr": "L'anneau planétaire",
-      "it": "L'anello planetario",
-      "pt": "O anel planetário"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the planetary rings",
-      "fr": "Plural: les anneaux planétaires",
-      "it": "Plural: gli anelli planetari",
-      "pt": "Plural: os anéis planetários"
-    }
-  },
-  {
-    "id": "astro31",
-    "es": "El eclipse",
-    "translations": {
-      "en": "The eclipse",
-      "fr": "L'éclipse",
-      "it": "L'eclissi",
-      "pt": "O eclipse"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the eclipses",
-      "fr": "Plural: les éclipses",
-      "it": "Plural: le eclissi",
-      "pt": "Plural: os eclipses"
-    }
-  },
-  {
-    "id": "astro32",
-    "es": "El eclipse solar",
-    "translations": {
-      "en": "The solar eclipse",
-      "fr": "L'éclipse solaire",
-      "it": "L'eclissi solare",
-      "pt": "O eclipse solar"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the solar eclipses",
-      "fr": "Plural: les éclipses solaires",
-      "it": "Plural: le eclissi solari",
-      "pt": "Plural: os eclipses solares"
-    }
-  },
-  {
-    "id": "astro33",
-    "es": "El eclipse lunar",
-    "translations": {
-      "en": "The lunar eclipse",
-      "fr": "L'éclipse lunaire",
-      "it": "L'eclissi lunare",
-      "pt": "O eclipse lunar"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the lunar eclipses",
-      "fr": "Plural: les éclipses lunaires",
-      "it": "Plural: le eclissi lunari",
-      "pt": "Plural: os eclipses lunares"
-    }
-  },
-  {
-    "id": "astro34",
-    "es": "La estrella fugaz",
-    "translations": {
-      "en": "The shooting star",
-      "fr": "L'étoile filante",
-      "it": "La stella cadente",
-      "pt": "A estrela cadente"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the shooting stars",
-      "fr": "Plural: les étoiles filantes",
-      "it": "Plural: le stelle cadenti",
-      "pt": "Plural: as estrelas cadentes"
-    }
-  },
-  {
-    "id": "astro35",
-    "es": "El agujero negro",
-    "translations": {
-      "en": "The black hole",
-      "fr": "Le trou noir",
-      "it": "Il buco nero",
-      "pt": "O buraco negro"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the black holes",
-      "fr": "Plural: les trous noirs",
-      "it": "Plural: i buchi neri",
-      "pt": "Plural: os buracos negros"
-    }
-  },
-  {
-    "id": "astro36",
-    "es": "La nebulosa",
-    "translations": {
-      "en": "The nebula",
-      "fr": "La nébuleuse",
-      "it": "La nebulosa",
-      "pt": "A nebulosa"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the nebulae; también se utiliza the nebulas.",
-      "fr": "Plural: les nébuleuses",
-      "it": "Plural: le nebulose",
-      "pt": "Plural: as nebulosas"
-    }
-  },
-  {
-    "id": "astro37",
-    "es": "El astronauta",
-    "translations": {
-      "en": "The astronaut",
-      "fr": "L'astronaute",
-      "it": "L'astronauta",
-      "pt": "O astronauta"
-    },
-    "image_url": "",
-    "notes": {
-      "es": "Femenino: la astronauta (pl. las astronautas).",
-      "en": "Plural: the astronauts. La forma es igual para ambos géneros.",
-      "fr": "Plural: les astronautes. Femenino: l'astronaute (pl. les astronautes).",
-      "it": "Plural: gli astronauti. Femenino: l'astronauta (pl. le astronaute).",
-      "pt": "Plural: os astronautas. Femenino: a astronauta (pl. as astronautas)."
-    }
-  },
-  {
-    "id": "astro38",
-    "es": "La nave espacial",
-    "translations": {
-      "en": "The spacecraft",
-      "fr": "Le vaisseau spatial",
-      "it": "La navicella spaziale",
-      "pt": "A nave espacial"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the spacecraft",
-      "fr": "Plural: les vaisseaux spatiaux",
-      "it": "Plural: le navicelle spaziali",
-      "pt": "Plural: as naves espaciais"
-    }
-  },
-  {
-    "id": "astro39",
-    "es": "El cohete",
-    "translations": {
-      "en": "The rocket",
-      "fr": "La fusée",
-      "it": "Il razzo",
-      "pt": "O foguete"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the rockets",
-      "fr": "Plural: les fusées",
-      "it": "Plural: i razzi",
-      "pt": "Plural: os foguetes"
-    }
-  },
-  {
-    "id": "astro40",
-    "es": "El satélite artificial",
-    "translations": {
-      "en": "The artificial satellite",
-      "fr": "Le satellite artificiel",
-      "it": "Il satellite artificiale",
-      "pt": "O satélite artificial"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the artificial satellites",
-      "fr": "Plural: les satellites artificiels",
-      "it": "Plural: i satelliti artificiali",
-      "pt": "Plural: os satélites artificiais"
-    }
-  },
-  {
-    "id": "astro41",
-    "es": "La estación espacial",
-    "translations": {
-      "en": "The space station",
-      "fr": "La station spatiale",
-      "it": "La stazione spaziale",
-      "pt": "A estação espacial"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the space stations",
-      "fr": "Plural: les stations spatiales",
-      "it": "Plural: le stazioni spaziali",
-      "pt": "Plural: as estações espaciais"
-    }
-  },
-  {
-    "id": "astro42",
-    "es": "El telescopio",
-    "translations": {
-      "en": "The telescope",
-      "fr": "Le télescope",
-      "it": "Il telescopio",
-      "pt": "O telescópio"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the telescopes",
-      "fr": "Plural: les télescopes",
-      "it": "Plural: i telescopi",
-      "pt": "Plural: os telescópios"
-    }
-  },
-  {
-    "id": "astro43",
-    "es": "La misión espacial",
-    "translations": {
-      "en": "The space mission",
-      "fr": "La mission spatiale",
-      "it": "La missione spaziale",
-      "pt": "A missão espacial"
-    },
-    "image_url": "",
-    "notes": {
-      "en": "Plural: the space missions",
-      "fr": "Plural: les missions spatiales",
-      "it": "Plural: le missioni spaziali",
-      "pt": "Plural: as missões espaciais"
-    }
-  },
-  {
-    "id": "astro44",
-    "es": "El extraterrestre",
-    "translations": {
-      "en": "The alien",
-      "fr": "L'extraterrestre",
-      "it": "L'extraterrestre",
-      "pt": "O extraterrestre"
-    },
-    "image_url": "",
-    "notes": {
-      "es": "Femenino: la extraterrestre (pl. las extraterrestres).",
-      "en": "Plural: the aliens. La forma es igual para ambos géneros.",
-      "fr": "Plural: les extraterrestres. Femenino: l'extraterrestre (pl. les extraterrestres).",
-      "it": "Plural: gli extraterrestri. Femenino: l'extraterrestre (pl. le extraterrestri).",
-      "pt": "Plural: os extraterrestres. Femenino: a extraterrestre (pl. as extraterrestres)."
-    }
-  },
-  {
-    "id": "astro45",
-    "es": "La vida extraterrestre",
-    "translations": {
-      "en": "Extraterrestrial life",
-      "fr": "La vie extraterrestre",
-      "it": "La vita extraterrestre",
-      "pt": "A vida extraterrestre"
-    },
-    "image_url": ""
-  }
-]
+  ]
 }
