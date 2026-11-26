@@ -1,106 +1,206 @@
 {
   "module": "Visitas y actividades turísticas",
   "level": "A2",
-  "revisado": false,
+  "revisado": true,
   "cards": [
     {
       "id": "vat_001",
-      "es": "Visitas y actividades turísticas",
+      "es": "Las visitas y actividades turísticas",
       "translations": {
         "en": "Sightseeing and tourist activities",
-        "pt": "Visitas e atividades turísticas",
-        "fr": "Visites et activités touristiques",
-        "it": "Visite e attività turistiche"
+        "pt": "As visitas e atividades turísticas",
+        "fr": "Les visites et activités touristiques",
+        "it": "Le visite e le attività turistiche",
+        "de": "Die Besichtigungen und touristischen Aktivitäten"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The tourist office gave us a list of sightseeing and tourist activities.",
+          "es": "En la oficina de turismo nos dieron una lista de visitas y actividades turísticas."
+        },
+        "pt": {
+          "text": "No posto de turismo, deram uma lista de visitas e atividades turísticas para a gente.",
+          "es": "En la oficina de turismo nos dieron una lista de visitas y actividades turísticas."
+        },
+        "fr": {
+          "text": "À l'office de tourisme, on nous a donné une liste de visites et d'activités touristiques.",
+          "es": "En la oficina de turismo nos dieron una lista de visitas y actividades turísticas."
+        },
+        "it": {
+          "text": "All'ufficio turistico ci hanno dato un elenco di visite e attività turistiche.",
+          "es": "En la oficina de turismo nos dieron una lista de visitas y actividades turísticas."
+        },
+        "de": {
+          "text": "Bei der Touristeninformation haben wir eine Liste mit Besichtigungen und touristischen Aktivitäten bekommen.",
+          "es": "En la oficina de turismo nos dieron una lista de visitas y actividades turísticas."
+        }
+      }
     },
     {
       "id": "vat_002",
-      "es": "Visita guiada",
+      "es": "La visita guiada",
       "translations": {
-        "en": "Guided tour",
-        "pt": "Visita guiada",
-        "fr": "Visite guidée",
-        "it": "Visita guidata"
+        "en": "The guided tour",
+        "pt": "A visita guiada",
+        "fr": "La visite guidée",
+        "it": "La visita guidata",
+        "de": "Die Führung"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The guided tour starts in the museum courtyard.",
+          "es": "La visita guiada empieza en el patio del museo."
+        },
+        "pt": {
+          "text": "A visita guiada começa no pátio do museu.",
+          "es": "La visita guiada empieza en el patio del museo."
+        },
+        "fr": {
+          "text": "La visite guidée commence dans la cour du musée.",
+          "es": "La visita guiada empieza en el patio del museo."
+        },
+        "it": {
+          "text": "La visita guidata inizia nel cortile del museo.",
+          "es": "La visita guiada empieza en el patio del museo."
+        },
+        "de": {
+          "text": "Die Führung beginnt im Innenhof des Museums.",
+          "es": "La visita guiada empieza en el patio del museo."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The guided tours)",
+        "pt": "(Plural: As visitas guiadas)",
+        "fr": "(Plural: Les visites guidées)",
+        "it": "(Plural: Le visite guidate)",
+        "de": "(Plural: Die Führungen)"
+      }
     },
     {
       "id": "vat_003",
-      "es": "Visita por tu cuenta / Visita libre",
+      "es": "La visita por cuenta propia",
       "translations": {
-        "en": "Self-guided visit",
-        "pt": "Visita por conta própria",
-        "fr": "Visite libre",
-        "it": "Visita libera"
+        "en": "The self-guided visit",
+        "pt": "A visita por conta própria",
+        "fr": "La visite libre",
+        "it": "La visita libera",
+        "de": "Die Besichtigung auf eigene Faust"
       },
-      "image_url": ""
-    },
-    {
-      "id": "vat_004",
-      "es": "Audioguía",
-      "translations": {
-        "en": "Audio guide",
-        "pt": "Audioguia",
-        "fr": "Audioguide",
-        "it": "Audioguida"
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "We chose the self-guided visit so we could go at our own pace.",
+          "es": "Elegimos la visita por cuenta propia para ir a nuestro ritmo."
+        },
+        "pt": {
+          "text": "Escolhemos a visita por conta própria para ir no nosso ritmo.",
+          "es": "Elegimos la visita por cuenta propia para ir a nuestro ritmo."
+        },
+        "fr": {
+          "text": "On a choisi la visite libre pour aller à notre rythme.",
+          "es": "Elegimos la visita por cuenta propia para ir a nuestro ritmo."
+        },
+        "it": {
+          "text": "Abbiamo scelto la visita libera per andare al nostro ritmo.",
+          "es": "Elegimos la visita por cuenta propia para ir a nuestro ritmo."
+        },
+        "de": {
+          "text": "Wir haben die Besichtigung auf eigene Faust gewählt, damit wir unser Tempo selbst bestimmen können.",
+          "es": "Elegimos la visita por cuenta propia para ir a nuestro ritmo."
+        }
       },
-      "image_url": ""
+      "notes": {
+        "en": "(Plural: The self-guided visits)",
+        "pt": "(Plural: As visitas por conta própria)",
+        "fr": "(Plural: Les visites libres)",
+        "it": "(Plural: Le visite libere)",
+        "de": "(Plural: Die Besichtigungen auf eigene Faust)",
+        "es": "También se dice «visita libre» cuando el acceso no requiere guía."
+      }
     },
     {
       "id": "vat_005",
-      "es": "Excursión de medio día",
+      "es": "La excursión de medio día",
       "translations": {
-        "en": "Half-day tour",
-        "pt": "Passeio de meio dia",
-        "fr": "Excursion d’une demi-journée",
-        "it": "Escursione di mezza giornata"
+        "en": "The half-day tour",
+        "pt": "O passeio de meio dia",
+        "fr": "L'excursion d'une demi-journée",
+        "it": "L'escursione di mezza giornata",
+        "de": "Der Halbtagesausflug"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The half-day tour ends before lunch.",
+          "es": "La excursión de medio día termina antes de la comida."
+        },
+        "pt": {
+          "text": "O passeio de meio dia termina antes do almoço.",
+          "es": "La excursión de medio día termina antes de la comida."
+        },
+        "fr": {
+          "text": "L'excursion d'une demi-journée se termine avant le déjeuner.",
+          "es": "La excursión de medio día termina antes de la comida."
+        },
+        "it": {
+          "text": "L'escursione di mezza giornata finisce prima di pranzo.",
+          "es": "La excursión de medio día termina antes de la comida."
+        },
+        "de": {
+          "text": "Der Halbtagesausflug endet vor dem Mittagessen.",
+          "es": "La excursión de medio día termina antes de la comida."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The half-day tours)",
+        "pt": "(Plural: Os passeios de meio dia)",
+        "fr": "(Plural: Les excursions d'une demi-journée)",
+        "it": "(Plural: Le escursioni di mezza giornata)",
+        "de": "(Plural: Die Halbtagesausflüge)"
+      }
     },
     {
       "id": "vat_006",
-      "es": "Excursión de día completo",
+      "es": "La excursión de día completo",
       "translations": {
-        "en": "Full-day tour",
-        "pt": "Passeio de dia inteiro",
-        "fr": "Excursion d’une journée",
-        "it": "Escursione di un’intera giornata"
+        "en": "The full-day tour",
+        "pt": "O passeio de dia inteiro",
+        "fr": "L'excursion d'une journée entière",
+        "it": "L'escursione di un'intera giornata",
+        "de": "Der Ganztagesausflug"
       },
-      "image_url": ""
-    },
-    {
-      "id": "vat_007",
-      "es": "Entrada con horario asignado",
-      "translations": {
-        "en": "Timed-entry ticket",
-        "pt": "Ingresso com horário marcado",
-        "fr": "Billet avec créneau horaire",
-        "it": "Biglietto con orario d’ingresso"
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The full-day tour includes a lunch stop.",
+          "es": "La excursión de día completo incluye una parada para comer."
+        },
+        "pt": {
+          "text": "O passeio de dia inteiro inclui uma parada para almoçar.",
+          "es": "La excursión de día completo incluye una parada para comer."
+        },
+        "fr": {
+          "text": "L'excursion d'une journée entière comprend une pause pour le déjeuner.",
+          "es": "La excursión de día completo incluye una parada para comer."
+        },
+        "it": {
+          "text": "L'escursione di un'intera giornata comprende una sosta per il pranzo.",
+          "es": "La excursión de día completo incluye una parada para comer."
+        },
+        "de": {
+          "text": "Beim Ganztagesausflug ist eine Mittagspause eingeplant.",
+          "es": "La excursión de día completo incluye una parada para comer."
+        }
       },
-      "image_url": ""
-    },
-    {
-      "id": "vat_008",
-      "es": "Entrada combinada (para varias visitas)",
-      "translations": {
-        "en": "Combined admission ticket",
-        "pt": "Ingresso combinado",
-        "fr": "Billet combiné",
-        "it": "Biglietto combinato"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_009",
-      "es": "Último acceso (hora límite para entrar)",
-      "translations": {
-        "en": "Last admission",
-        "pt": "Último horário de entrada",
-        "fr": "Dernière admission",
-        "it": "Ultimo ingresso"
-      },
-      "image_url": ""
+      "notes": {
+        "en": "(Plural: The full-day tours)",
+        "pt": "(Plural: Os passeios de dia inteiro)",
+        "fr": "(Plural: Les excursions d'une journée entière)",
+        "it": "(Plural: Le escursioni di un'intera giornata)",
+        "de": "(Plural: Die Ganztagesausflüge)"
+      }
     },
     {
       "id": "vat_010",
@@ -109,18 +209,24 @@
         "en": "What activities do you offer for a first visit to the city?",
         "pt": "Quais atividades vocês oferecem para uma primeira visita à cidade?",
         "fr": "Quelles activités proposez-vous pour une première visite de la ville ?",
-        "it": "Quali attività offrite per una prima visita della città?"
+        "it": "Quali attività offrite per una prima visita della città?",
+        "de": "Welche Aktivitäten bieten Sie für einen ersten Besuch in der Stadt an?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal)",
+        "de": "(Formal)"
+      }
     },
     {
       "id": "vat_011",
       "es": "Busco una visita corta porque solo tengo la mañana libre.",
       "translations": {
-        "en": "I’m looking for a short tour because I only have the morning free.",
+        "en": "I'm looking for a short tour because I only have the morning free.",
         "pt": "Procuro uma visita curta porque só tenho a manhã livre.",
-        "fr": "Je cherche une visite courte parce que j’ai seulement la matinée de libre.",
-        "it": "Cerco una visita breve perché ho libera solo la mattina."
+        "fr": "Je cherche une visite courte parce que je n'ai que la matinée de libre.",
+        "it": "Cerco una visita breve perché ho libera solo la mattina.",
+        "de": "Ich suche eine kurze Tour, weil ich nur am Vormittag Zeit habe."
       },
       "image_url": ""
     },
@@ -131,7 +237,8 @@
         "en": "Does this tour focus on one city or include several stops?",
         "pt": "Este passeio se concentra em uma cidade ou inclui várias paradas?",
         "fr": "Cette excursion se concentre sur une ville ou comprend plusieurs arrêts ?",
-        "it": "Questa escursione si concentra su una città o comprende diverse fermate?"
+        "it": "Questa escursione si concentra su una sola città o prevede più tappe?",
+        "de": "Geht es bei diesem Ausflug vor allem um eine Stadt oder gibt es mehrere Zwischenstopps?"
       },
       "image_url": ""
     },
@@ -140,9 +247,10 @@
       "es": "¿Visitamos el interior de los edificios o solo los vemos por fuera?",
       "translations": {
         "en": "Do we go inside the buildings or only see them from the outside?",
-        "pt": "Visitamos o interior dos edifícios ou só vemos por fora?",
-        "fr": "On visite l’intérieur des bâtiments ou on les voit seulement de l’extérieur ?",
-        "it": "Visitiamo l’interno degli edifici o li vediamo solo da fuori?"
+        "pt": "Visitamos o interior dos edifícios ou só os vemos por fora?",
+        "fr": "On visite l'intérieur des bâtiments ou on les voit seulement de l'extérieur ?",
+        "it": "Visitiamo l'interno degli edifici o li vediamo solo da fuori?",
+        "de": "Besichtigen wir die Gebäude auch von innen oder sehen wir sie uns nur von außen an?"
       },
       "image_url": ""
     },
@@ -152,8 +260,9 @@
       "translations": {
         "en": "Which places are included in the tour?",
         "pt": "Quais lugares estão incluídos no passeio?",
-        "fr": "Quels lieux sont inclus dans le parcours ?",
-        "it": "Quali luoghi sono inclusi nel percorso?"
+        "fr": "Quels lieux visitera-t-on pendant le parcours ?",
+        "it": "Quali luoghi visiteremo durante il percorso?",
+        "de": "Welche Orte besuchen wir bei der Tour?"
       },
       "image_url": ""
     },
@@ -164,7 +273,8 @@
         "en": "How much free time will we have at each stop?",
         "pt": "Quanto tempo livre teremos em cada parada?",
         "fr": "Combien de temps libre aurons-nous à chaque arrêt ?",
-        "it": "Quanto tempo libero avremo a ogni fermata?"
+        "it": "Quanto tempo libero avremo a ogni tappa?",
+        "de": "Wie viel Zeit zur freien Verfügung haben wir an jedem Zwischenstopp?"
       },
       "image_url": ""
     },
@@ -174,19 +284,21 @@
       "translations": {
         "en": "Is the activity suitable for someone who walks slowly?",
         "pt": "A atividade é adequada para quem caminha devagar?",
-        "fr": "L’activité convient à quelqu’un qui marche lentement ?",
-        "it": "L’attività è adatta a chi cammina lentamente?"
+        "fr": "L'activité convient à quelqu'un qui marche lentement ?",
+        "it": "L'attività è adatta a chi cammina lentamente?",
+        "de": "Ist die Aktivität für jemanden geeignet, der langsam geht?"
       },
       "image_url": ""
     },
     {
       "id": "vat_017",
-      "es": "¿Cuánto se camina y hay muchas escaleras?",
+      "es": "¿Cuánto hay que caminar? ¿Hay muchas escaleras?",
       "translations": {
-        "en": "How much walking is involved, and are there many stairs?",
-        "pt": "Quanto é preciso caminhar e há muitas escadas?",
-        "fr": "Combien faut-il marcher et y a-t-il beaucoup d’escaliers ?",
-        "it": "Quanto si cammina e ci sono molte scale?"
+        "en": "How much do we need to walk? Are there many stairs?",
+        "pt": "Quanto é preciso caminhar? Tem muitas escadas?",
+        "fr": "Combien faut-il marcher ? Y a-t-il beaucoup d'escaliers ?",
+        "it": "Quanto bisogna camminare? Ci sono molte scale?",
+        "de": "Wie viel müssen wir zu Fuß gehen? Gibt es viele Treppen?"
       },
       "image_url": ""
     },
@@ -197,7 +309,8 @@
         "en": "Is the pace relaxed, or do we need to move quickly between visits?",
         "pt": "O ritmo é tranquilo ou precisamos andar rápido entre as visitas?",
         "fr": "Le rythme est tranquille ou il faut se déplacer rapidement entre les visites ?",
-        "it": "Il ritmo è tranquillo o dobbiamo spostarci velocemente tra le visite?"
+        "it": "Il ritmo è tranquillo o dobbiamo spostarci velocemente tra le visite?",
+        "de": "Ist das Tempo gemütlich oder müssen wir uns zwischen den Besichtigungen beeilen?"
       },
       "image_url": ""
     },
@@ -208,7 +321,8 @@
         "en": "Are there rest stops during the tour?",
         "pt": "Há paradas para descansar durante o passeio?",
         "fr": "Il y a des pauses pour se reposer pendant le parcours ?",
-        "it": "Ci sono pause per riposare durante il percorso?"
+        "it": "Ci sono pause per riposare durante il percorso?",
+        "de": "Gibt es unterwegs Pausen zum Ausruhen?"
       },
       "image_url": ""
     },
@@ -216,10 +330,11 @@
       "id": "vat_020",
       "es": "Prefiero visitar menos lugares y tener tiempo para disfrutarlos.",
       "translations": {
-        "en": "I’d rather visit fewer places and have time to enjoy them.",
+        "en": "I'd rather visit fewer places and have time to enjoy them.",
         "pt": "Prefiro visitar menos lugares e ter tempo para aproveitar.",
-        "fr": "Je préfère visiter moins de lieux et avoir le temps d’en profiter.",
-        "it": "Preferisco visitare meno luoghi e avere il tempo di godermeli."
+        "fr": "Je préfère visiter moins de lieux et avoir le temps d'en profiter.",
+        "it": "Preferisco visitare meno luoghi e avere il tempo di godermeli.",
+        "de": "Ich möchte lieber weniger Orte besuchen und dafür mehr Zeit haben, sie zu genießen."
       },
       "image_url": ""
     },
@@ -229,8 +344,9 @@
       "translations": {
         "en": "How many people usually take part in the tour?",
         "pt": "Quantas pessoas costumam participar do passeio?",
-        "fr": "Combien de personnes participent habituellement à l’excursion ?",
-        "it": "Quante persone partecipano di solito all’escursione?"
+        "fr": "Combien de personnes participent habituellement à l'excursion ?",
+        "it": "Quante persone partecipano di solito all'escursione?",
+        "de": "Wie viele Personen nehmen normalerweise an dem Ausflug teil?"
       },
       "image_url": ""
     },
@@ -239,9 +355,10 @@
       "es": "¿Puedo reservar una visita privada en lugar de unirme a un grupo?",
       "translations": {
         "en": "Can I book a private tour instead of joining a group?",
-        "pt": "Posso reservar uma visita privativa em vez de participar de um grupo?",
+        "pt": "Posso reservar uma visita particular em vez de participar de um grupo?",
         "fr": "Je peux réserver une visite privée au lieu de rejoindre un groupe ?",
-        "it": "Posso prenotare una visita privata invece di unirmi a un gruppo?"
+        "it": "Posso prenotare una visita privata invece di unirmi a un gruppo?",
+        "de": "Kann ich eine private Führung buchen, statt mich einer Gruppe anzuschließen?"
       },
       "image_url": ""
     },
@@ -252,7 +369,8 @@
         "en": "Does the guide speak throughout the tour or only at certain stops?",
         "pt": "O guia fala durante todo o passeio ou só em algumas paradas?",
         "fr": "Le guide parle pendant tout le parcours ou seulement à certains arrêts ?",
-        "it": "La guida parla durante tutto il percorso o solo in alcune tappe?"
+        "it": "La guida parla durante tutto il percorso o solo in alcune tappe?",
+        "de": "Spricht der Guide die ganze Tour über oder nur an bestimmten Stationen?"
       },
       "image_url": ""
     },
@@ -263,18 +381,24 @@
         "en": "Which languages is the guided tour available in?",
         "pt": "Em quais idiomas oferecem a visita guiada?",
         "fr": "Dans quelles langues proposez-vous la visite guidée ?",
-        "it": "In quali lingue offrite la visita guidata?"
+        "it": "In quali lingue offrite la visita guidata?",
+        "de": "In welchen Sprachen bieten Sie die Führung an?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal)",
+        "de": "(Formal)"
+      }
     },
     {
       "id": "vat_025",
-      "es": "¿El grupo es de un solo idioma o el guía alterna entre varios?",
+      "es": "¿La visita se hace en un solo idioma o el guía alterna entre varios?",
       "translations": {
-        "en": "Is the group in one language, or does the guide switch between several?",
-        "pt": "O grupo é de um só idioma ou o guia alterna entre vários?",
-        "fr": "Le groupe est dans une seule langue ou le guide alterne entre plusieurs langues ?",
-        "it": "Il gruppo segue una sola lingua o la guida alterna tra diverse lingue?"
+        "en": "Is the tour in one language, or does the guide switch between several?",
+        "pt": "A visita é em um só idioma ou o guia alterna entre vários?",
+        "fr": "La visite se fait dans une seule langue ou le guide alterne entre plusieurs langues ?",
+        "it": "La visita si svolge in una sola lingua o la guida alterna tra più lingue?",
+        "de": "Findet die Führung in nur einer Sprache statt oder wechselt der Guide zwischen mehreren Sprachen?"
       },
       "image_url": ""
     },
@@ -285,7 +409,8 @@
         "en": "Is there an option with a Spanish audio guide?",
         "pt": "Há uma opção com audioguia em espanhol?",
         "fr": "Il y a une option avec un audioguide en espagnol ?",
-        "it": "C’è un’opzione con audioguida in spagnolo?"
+        "it": "C'è un'opzione con audioguida in spagnolo?",
+        "de": "Gibt es auch eine Variante mit einem Audioguide auf Spanisch?"
       },
       "image_url": ""
     },
@@ -296,7 +421,8 @@
         "en": "Can children take part in this activity?",
         "pt": "As crianças podem participar desta atividade?",
         "fr": "Les enfants peuvent participer à cette activité ?",
-        "it": "I bambini possono partecipare a questa attività?"
+        "it": "I bambini possono partecipare a questa attività?",
+        "de": "Können Kinder an dieser Aktivität teilnehmen?"
       },
       "image_url": ""
     },
@@ -306,8 +432,9 @@
       "translations": {
         "en": "Is previous experience required, or can a beginner take part?",
         "pt": "É necessária experiência prévia ou um iniciante pode participar?",
-        "fr": "Il faut avoir de l’expérience ou un débutant peut participer ?",
-        "it": "Serve esperienza precedente o può partecipare un principiante?"
+        "fr": "Il faut avoir de l'expérience ou un débutant peut participer ?",
+        "it": "Serve esperienza o può partecipare anche un principiante?",
+        "de": "Braucht man Vorkenntnisse oder kann man auch ohne Erfahrung teilnehmen?"
       },
       "image_url": ""
     },
@@ -317,8 +444,9 @@
       "translations": {
         "en": "Does the activity include the necessary equipment, or do we need to bring it?",
         "pt": "A atividade inclui o equipamento necessário ou precisamos levar?",
-        "fr": "L’activité comprend le matériel nécessaire ou il faut l’apporter ?",
-        "it": "L’attività include l’attrezzatura necessaria o dobbiamo portarla?"
+        "fr": "L'activité comprend le matériel nécessaire ou il faut l'apporter ?",
+        "it": "L'attività include l'attrezzatura necessaria o dobbiamo portarla?",
+        "de": "Ist die nötige Ausrüstung bei der Aktivität dabei oder müssen wir sie selbst mitbringen?"
       },
       "image_url": ""
     },
@@ -329,7 +457,8 @@
         "en": "What time will we return to the departure point?",
         "pt": "A que horas voltaremos ao ponto de saída?",
         "fr": "À quelle heure reviendrons-nous au point de départ ?",
-        "it": "A che ora torneremo al punto di partenza?"
+        "it": "A che ora torneremo al punto di partenza?",
+        "de": "Um wie viel Uhr sind wir wieder am Startpunkt?"
       },
       "image_url": ""
     },
@@ -337,10 +466,11 @@
       "id": "vat_031",
       "es": "Tengo otra reserva por la tarde; ¿el regreso suele ser puntual?",
       "translations": {
-        "en": "I have another booking in the afternoon. Is the return usually on time?",
+        "en": "I have another booking in the afternoon. Does the tour usually get back on time?",
         "pt": "Tenho outra reserva à tarde; o retorno costuma ser pontual?",
-        "fr": "J’ai une autre réservation l’après-midi ; le retour se fait généralement à l’heure ?",
-        "it": "Ho un’altra prenotazione nel pomeriggio; il ritorno è di solito puntuale?"
+        "fr": "J'ai une autre réservation l'après-midi ; le retour se fait généralement à l'heure ?",
+        "it": "Ho un'altra prenotazione nel pomeriggio; il ritorno è di solito puntuale?",
+        "de": "Ich habe nachmittags noch eine Reservierung. Sind wir normalerweise pünktlich zurück?"
       },
       "image_url": ""
     },
@@ -348,21 +478,23 @@
       "id": "vat_032",
       "es": "¿La duración anunciada incluye los traslados y las pausas?",
       "translations": {
-        "en": "Does the advertised duration include travel time and breaks?",
+        "en": "Does the advertised duration include transfers and breaks?",
         "pt": "A duração anunciada inclui os deslocamentos e as pausas?",
         "fr": "La durée annoncée comprend les trajets et les pauses ?",
-        "it": "La durata indicata include gli spostamenti e le pause?"
+        "it": "La durata indicata include gli spostamenti e le pause?",
+        "de": "Sind die Fahrzeiten und Pausen in der angegebenen Dauer enthalten?"
       },
       "image_url": ""
     },
     {
       "id": "vat_033",
-      "es": "¿El transporte desde y hacia el punto de salida está incluido?",
+      "es": "¿Está incluido el transporte de ida y vuelta al punto de encuentro?",
       "translations": {
-        "en": "Is transportation to and from the departure point included?",
-        "pt": "O transporte de ida e volta ao ponto de saída está incluído?",
-        "fr": "Le transport aller-retour depuis le point de départ est inclus ?",
-        "it": "Il trasporto di andata e ritorno dal punto di partenza è incluso?"
+        "en": "Is transportation to and from the meeting point included?",
+        "pt": "O transporte de ida e volta ao ponto de encontro está incluído?",
+        "fr": "Le transport aller-retour jusqu'au point de rendez-vous est-il compris ?",
+        "it": "Il trasporto da e verso il punto di ritrovo è incluso?",
+        "de": "Ist die Fahrt zum Treffpunkt und zurück inbegriffen?"
       },
       "image_url": ""
     },
@@ -370,10 +502,11 @@
       "id": "vat_034",
       "es": "¿El precio incluye las entradas a los lugares que visitaremos?",
       "translations": {
-        "en": "Does the price include admission to the places we’ll visit?",
-        "pt": "O preço inclui os ingressos dos lugares que vamos visitar?",
-        "fr": "Le prix comprend les entrées des lieux que nous visiterons ?",
-        "it": "Il prezzo include i biglietti dei luoghi che visiteremo?"
+        "en": "Does the price include admission to the places we'll visit?",
+        "pt": "O preço inclui os ingressos para os lugares que vamos visitar?",
+        "fr": "Le prix comprend-il les billets d'entrée pour les lieux que nous allons visiter ?",
+        "it": "Il prezzo include i biglietti d'ingresso per i luoghi che visiteremo?",
+        "de": "Sind die Eintrittskarten für die Orte, die wir besuchen, im Preis inbegriffen?"
       },
       "image_url": ""
     },
@@ -384,7 +517,8 @@
         "en": "Is there an optional visit that costs extra?",
         "pt": "Há alguma visita opcional paga à parte?",
         "fr": "Il y a une visite facultative à payer en supplément ?",
-        "it": "C’è una visita facoltativa da pagare a parte?"
+        "it": "C'è una visita facoltativa da pagare a parte?",
+        "de": "Gibt es eine Besichtigung, die man dazubuchen und extra bezahlen kann?"
       },
       "image_url": ""
     },
@@ -394,283 +528,33 @@
       "translations": {
         "en": "Is the meal included, or will we have time to eat on our own?",
         "pt": "A refeição está incluída ou teremos tempo para comer por conta própria?",
-        "fr": "Le repas est compris ou nous aurons du temps pour manger par nous-mêmes ?",
-        "it": "Il pasto è incluso o avremo tempo per mangiare per conto nostro?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_037",
-      "es": "Quisiera reservar dos lugares para la visita de la mañana.",
-      "translations": {
-        "en": "I’d like to book two spots for the morning tour.",
-        "pt": "Gostaria de reservar duas vagas para a visita da manhã.",
-        "fr": "Je voudrais réserver deux places pour la visite du matin.",
-        "it": "Vorrei prenotare due posti per la visita del mattino."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_038",
-      "es": "¿Debemos elegir una hora al comprar la entrada?",
-      "translations": {
-        "en": "Do we need to choose a time when buying the ticket?",
-        "pt": "Precisamos escolher um horário ao comprar o ingresso?",
-        "fr": "On doit choisir un horaire au moment d’acheter le billet ?",
-        "it": "Dobbiamo scegliere un orario quando compriamo il biglietto?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_039",
-      "es": "¿El horario indica la entrada al recinto o el inicio de la visita guiada?",
-      "translations": {
-        "en": "Does the time indicate admission to the site or the start of the guided tour?",
-        "pt": "O horário indica a entrada no local ou o início da visita guiada?",
-        "fr": "L’horaire correspond à l’entrée sur le site ou au début de la visite guidée ?",
-        "it": "L’orario indica l’ingresso al sito o l’inizio della visita guidata?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_040",
-      "es": "¿Cuánto tiempo puedo permanecer dentro con esta entrada?",
-      "translations": {
-        "en": "How long can I stay inside with this ticket?",
-        "pt": "Quanto tempo posso ficar lá dentro com este ingresso?",
-        "fr": "Combien de temps puis-je rester à l’intérieur avec ce billet ?",
-        "it": "Quanto tempo posso restare all’interno con questo biglietto?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_041",
-      "es": "¿La entrada combinada permite visitar los lugares en días diferentes?",
-      "translations": {
-        "en": "Does the combined ticket let me visit the sites on different days?",
-        "pt": "O ingresso combinado permite visitar os lugares em dias diferentes?",
-        "fr": "Le billet combiné permet de visiter les lieux à des dates différentes ?",
-        "it": "Il biglietto combinato permette di visitare i luoghi in giorni diversi?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_042",
-      "es": "¿Incluye la exposición temporal o solo la colección permanente?",
-      "translations": {
-        "en": "Does it include the temporary exhibition or only the permanent collection?",
-        "pt": "Inclui a exposição temporária ou só a coleção permanente?",
-        "fr": "Il comprend l’exposition temporaire ou seulement la collection permanente ?",
-        "it": "Include la mostra temporanea o solo la collezione permanente?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_043",
-      "es": "¿Hay zonas que requieren una entrada adicional?",
-      "translations": {
-        "en": "Are there areas that require an additional ticket?",
-        "pt": "Há áreas que exigem um ingresso adicional?",
-        "fr": "Il y a des zones qui nécessitent un billet supplémentaire ?",
-        "it": "Ci sono zone che richiedono un biglietto aggiuntivo?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_044",
-      "es": "¿Esta entrada evita la fila de taquilla o también la del control de seguridad?",
-      "translations": {
-        "en": "Does this ticket let me skip the ticket-counter line or also the security line?",
-        "pt": "Este ingresso evita a fila da bilheteria ou também a da segurança?",
-        "fr": "Ce billet permet d’éviter la file à la billetterie ou aussi celle du contrôle de sécurité ?",
-        "it": "Questo biglietto permette di evitare la fila alla biglietteria o anche quella dei controlli di sicurezza?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_045",
-      "es": "Si compro en línea, ¿debo cambiar el comprobante por una entrada?",
-      "translations": {
-        "en": "If I buy online, do I need to exchange the receipt for a ticket?",
-        "pt": "Se comprar on-line, preciso trocar o comprovante por um ingresso?",
-        "fr": "Si j’achète en ligne, je dois échanger le justificatif contre un billet ?",
-        "it": "Se compro online, devo cambiare la ricevuta con un biglietto?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_046",
-      "es": "¿La entrada lleva mi nombre? ¿Debo mostrar una identificación?",
-      "translations": {
-        "en": "Is the ticket in my name? Do I need to show ID?",
-        "pt": "O ingresso está no meu nome? Preciso mostrar um documento de identidade?",
-        "fr": "Le billet est nominatif ? Je dois présenter une pièce d’identité ?",
-        "it": "Il biglietto è nominativo? Devo mostrare un documento d’identità?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_047",
-      "es": "¿Hay entradas reducidas y qué documento piden para usarlas?",
-      "translations": {
-        "en": "Are discounted tickets available, and what document is needed to use them?",
-        "pt": "Há ingressos com desconto e qual documento é necessário para usar?",
-        "fr": "Il y a des billets à tarif réduit et quel justificatif faut-il présenter ?",
-        "it": "Ci sono biglietti ridotti e quale documento serve per usarli?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_048",
-      "es": "No quedan entradas para esa hora; ¿hay otro horario el mismo día?",
-      "translations": {
-        "en": "There are no tickets left for that time. Is another time available that day?",
-        "pt": "Não há mais ingressos para esse horário; há outro no mesmo dia?",
-        "fr": "Il n’y a plus de billets pour ce créneau ; il y en a un autre le même jour ?",
-        "it": "Non ci sono più biglietti per quell’orario; c’è un altro orario lo stesso giorno?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_049",
-      "es": "¿Es posible reservar ahora y pagar al llegar?",
-      "translations": {
-        "en": "Is it possible to book now and pay on arrival?",
-        "pt": "É possível reservar agora e pagar na chegada?",
-        "fr": "On peut réserver maintenant et payer à l’arrivée ?",
-        "it": "È possibile prenotare adesso e pagare all’arrivo?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_050",
-      "es": "¿Qué sucede si no se reúne el número mínimo de participantes?",
-      "translations": {
-        "en": "What happens if the minimum number of participants isn’t reached?",
-        "pt": "O que acontece se não houver o número mínimo de participantes?",
-        "fr": "Qu’est-ce qui se passe si le nombre minimum de participants n’est pas atteint ?",
-        "it": "Che cosa succede se non si raggiunge il numero minimo di partecipanti?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_051",
-      "es": "¿Puedo ceder mi entrada a otra persona si no puedo participar?",
-      "translations": {
-        "en": "Can I give my ticket to someone else if I can’t take part?",
-        "pt": "Posso passar meu ingresso para outra pessoa se não puder participar?",
-        "fr": "Je peux donner mon billet à quelqu’un d’autre si je ne peux pas participer ?",
-        "it": "Posso cedere il biglietto a un’altra persona se non posso partecipare?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_052",
-      "es": "¿Pueden enviarme las instrucciones del encuentro junto con la confirmación?",
-      "translations": {
-        "en": "Can you send me the meeting instructions along with the confirmation?",
-        "pt": "Podem me enviar as instruções do encontro junto com a confirmação?",
-        "fr": "Pouvez-vous m’envoyer les instructions pour le rendez-vous avec la confirmation ?",
-        "it": "Potete mandarmi le istruzioni per il ritrovo insieme alla conferma?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_053",
-      "es": "¿Debo presentarme antes de la hora que aparece en la reserva?",
-      "translations": {
-        "en": "Do I need to arrive before the time shown on the booking?",
-        "pt": "Preciso me apresentar antes do horário que aparece na reserva?",
-        "fr": "Je dois me présenter avant l’heure indiquée sur la réservation ?",
-        "it": "Devo presentarmi prima dell’orario indicato nella prenotazione?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_054",
-      "es": "¿El punto de encuentro es afuera del edificio o dentro?",
-      "translations": {
-        "en": "Is the meeting point outside the building or inside?",
-        "pt": "O ponto de encontro é fora do prédio ou dentro?",
-        "fr": "Le point de rendez-vous est à l’extérieur du bâtiment ou à l’intérieur ?",
-        "it": "Il punto di ritrovo è fuori dall’edificio o dentro?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_055",
-      "es": "¿Cómo reconoceré al guía y al grupo?",
-      "translations": {
-        "en": "How will I recognize the guide and the group?",
-        "pt": "Como vou reconhecer o guia e o grupo?",
-        "fr": "Comment reconnaîtrai-je le guide et le groupe ?",
-        "it": "Come riconoscerò la guida e il gruppo?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_056",
-      "es": "¿El guía lleva un cartel con el nombre de la empresa?",
-      "translations": {
-        "en": "Does the guide carry a sign with the company’s name?",
-        "pt": "O guia leva uma placa com o nome da empresa?",
-        "fr": "Le guide a un panneau avec le nom de l’entreprise ?",
-        "it": "La guida ha un cartello con il nome dell’azienda?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_057",
-      "es": "¿Esta es la visita que reservé para las diez?",
-      "translations": {
-        "en": "Is this the tour I booked for ten o’clock?",
-        "pt": "Esta é a visita que reservei para as dez?",
-        "fr": "C’est la visite que j’ai réservée pour dix heures ?",
-        "it": "È questa la visita che ho prenotato per le dieci?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_058",
-      "es": "Estoy en el punto indicado, pero no encuentro al guía.",
-      "translations": {
-        "en": "I’m at the meeting point, but I can’t find the guide.",
-        "pt": "Estou no ponto indicado, mas não encontro o guia.",
-        "fr": "Je suis au point indiqué, mais je ne trouve pas le guide.",
-        "it": "Sono al punto indicato, ma non trovo la guida."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_059",
-      "es": "¿Hay un teléfono de contacto para el día de la excursión?",
-      "translations": {
-        "en": "Is there a contact number for the day of the tour?",
-        "pt": "Há um telefone de contato para o dia do passeio?",
-        "fr": "Il y a un numéro de contact pour le jour de l’excursion ?",
-        "it": "C’è un numero di contatto per il giorno dell’escursione?"
+        "fr": "Le repas est compris ou on aura le temps de manger de notre côté ?",
+        "it": "Il pasto è incluso o avremo tempo per mangiare per conto nostro?",
+        "de": "Ist das Essen inbegriffen oder haben wir Zeit, selbst etwas essen zu gehen?"
       },
       "image_url": ""
     },
     {
       "id": "vat_060",
-      "es": "¿La recogida en el hotel está incluida o debemos ir al punto de encuentro?",
+      "es": "¿El transporte desde el hotel está incluido o tenemos que ir al punto de encuentro?",
       "translations": {
         "en": "Is hotel pickup included, or do we need to go to the meeting point?",
-        "pt": "Vocês buscam no hotel ou precisamos ir ao ponto de encontro?",
-        "fr": "La prise en charge à l’hôtel est incluse ou il faut aller au point de rendez-vous ?",
-        "it": "Il prelievo in hotel è incluso o dobbiamo andare al punto di ritrovo?"
+        "pt": "O traslado do hotel está incluído ou precisamos ir ao ponto de encontro?",
+        "fr": "La prise en charge à l'hôtel est incluse ou il faut aller au point de rendez-vous ?",
+        "it": "Il trasferimento dall'hotel è incluso o dobbiamo andare al punto di ritrovo?",
+        "de": "Ist die Abholung am Hotel im Preis inbegriffen oder müssen wir zum Treffpunkt kommen?"
       },
       "image_url": ""
     },
     {
       "id": "vat_061",
-      "es": "Nuestro hotel no aparece en la lista de recogida; ¿qué alternativa tenemos?",
+      "es": "Nuestro hotel no aparece en la lista de lugares donde recogen a los participantes. ¿Qué otra opción tenemos?",
       "translations": {
-        "en": "Our hotel isn’t on the pickup list. What alternative do we have?",
-        "pt": "Nosso hotel não aparece na lista de hotéis onde vocês buscam os participantes; qual alternativa temos?",
-        "fr": "Notre hôtel n’est pas dans la liste des lieux de prise en charge ; quelle autre option avons-nous ?",
-        "it": "Il nostro hotel non è nell’elenco dei punti di prelievo; quale alternativa abbiamo?"
+        "en": "Our hotel isn't on the list of pickup locations. What other options do we have?",
+        "pt": "Nosso hotel não aparece na lista de locais de embarque. Que outra opção temos?",
+        "fr": "Notre hôtel ne figure pas dans la liste des lieux de prise en charge. Quelle autre option avons-nous ?",
+        "it": "Il nostro hotel non è tra i punti di prelievo. Che altra possibilità abbiamo?",
+        "de": "Unser Hotel steht nicht auf der Liste der Abholorte. Welche andere Möglichkeit haben wir?"
       },
       "image_url": ""
     },
@@ -681,161 +565,8 @@
         "en": "Does the tour end where it starts or somewhere else?",
         "pt": "O passeio termina onde começa ou em outro lugar?",
         "fr": "Le parcours se termine là où il commence ou ailleurs ?",
-        "it": "Il percorso finisce dove inizia o in un altro posto?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_063",
-      "es": "¿Qué debo llevar para participar: agua, calzado cómodo o alguna identificación?",
-      "translations": {
-        "en": "What should I bring: water, comfortable shoes, or any ID?",
-        "pt": "O que devo levar para participar: água, calçado confortável ou algum documento?",
-        "fr": "Que dois-je apporter : de l’eau, des chaussures confortables ou une pièce d’identité ?",
-        "it": "Che cosa devo portare: acqua, scarpe comode o un documento d’identità?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_064",
-      "es": "¿Hay que llevar audífonos propios para la audioguía?",
-      "translations": {
-        "en": "Do I need to bring my own headphones for the audio guide?",
-        "pt": "Preciso levar meus próprios fones de ouvido para o audioguia?",
-        "fr": "Il faut apporter ses propres écouteurs pour l’audioguide ?",
-        "it": "Bisogna portare le proprie cuffie per l’audioguida?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_065",
-      "es": "¿La audioguía se recoge aquí o se descarga en el teléfono?",
-      "translations": {
-        "en": "Do I pick up the audio guide here or download it on my phone?",
-        "pt": "O audioguia é retirado aqui ou baixado no celular?",
-        "fr": "L’audioguide se récupère ici ou se télécharge sur le téléphone ?",
-        "it": "L’audioguida si ritira qui o si scarica sul telefono?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_066",
-      "es": "¿Puedo usar la audioguía sin conexión durante la visita?",
-      "translations": {
-        "en": "Can I use the audio guide offline during the visit?",
-        "pt": "Posso usar o audioguia sem conexão durante a visita?",
-        "fr": "Je peux utiliser l’audioguide hors ligne pendant la visite ?",
-        "it": "Posso usare l’audioguida offline durante la visita?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_067",
-      "es": "¿Hay baños antes de empezar o durante el recorrido?",
-      "translations": {
-        "en": "Are there restrooms before the start or along the tour?",
-        "pt": "Há banheiros antes do início ou durante o passeio?",
-        "fr": "Il y a des toilettes avant le départ ou pendant le parcours ?",
-        "it": "Ci sono bagni prima di iniziare o durante il percorso?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_068",
-      "es": "¿Podemos dejar mochilas grandes en una consigna?",
-      "translations": {
-        "en": "Can we leave large backpacks in a storage area?",
-        "pt": "Podemos deixar mochilas grandes em um guarda-volumes?",
-        "fr": "On peut laisser les grands sacs à dos à la consigne ?",
-        "it": "Possiamo lasciare gli zaini grandi in un deposito bagagli?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_069",
-      "es": "¿El acceso exige cubrir los hombros o las rodillas?",
-      "translations": {
-        "en": "Does entry require covering shoulders or knees?",
-        "pt": "Para entrar, é preciso cobrir os ombros ou os joelhos?",
-        "fr": "Pour entrer, faut-il couvrir les épaules ou les genoux ?",
-        "it": "Per entrare bisogna coprire le spalle o le ginocchia?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_070",
-      "es": "¿Se pueden tomar fotos aquí? ¿Hay restricciones sobre el flash?",
-      "translations": {
-        "en": "Can we take photos here? Are there restrictions on flash?",
-        "pt": "Podemos tirar fotos aqui? Há restrições ao flash?",
-        "fr": "On peut prendre des photos ici ? Il y a des restrictions sur le flash ?",
-        "it": "Si possono fare foto qui? Ci sono restrizioni sul flash?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_071",
-      "es": "¿Está permitido grabar video o solo tomar fotografías?",
-      "translations": {
-        "en": "Is recording video allowed, or only taking photos?",
-        "pt": "É permitido gravar vídeos ou só tirar fotos?",
-        "fr": "On peut filmer ou seulement prendre des photos ?",
-        "it": "È consentito registrare video o solo fare fotografie?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_072",
-      "es": "¿Hay objetos que no podemos llevar al interior?",
-      "translations": {
-        "en": "Are there items we can’t bring inside?",
-        "pt": "Há objetos que não podemos levar para dentro?",
-        "fr": "Il y a des objets qu’on ne peut pas apporter à l’intérieur ?",
-        "it": "Ci sono oggetti che non possiamo portare all’interno?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_073",
-      "es": "¿Podemos salir y volver a entrar con el mismo boleto?",
-      "translations": {
-        "en": "Can we leave and reenter with the same ticket?",
-        "pt": "Podemos sair e entrar de novo com o mesmo ingresso?",
-        "fr": "On peut sortir et rentrer avec le même billet ?",
-        "it": "Possiamo uscire e rientrare con lo stesso biglietto?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_074",
-      "es": "¿La visita completa es accesible o hay partes que debemos evitar?",
-      "translations": {
-        "en": "Is the whole tour accessible, or are there sections we need to avoid?",
-        "pt": "A visita inteira é acessível ou há partes que precisamos evitar?",
-        "fr": "Toute la visite est accessible ou il y a des parties à éviter ?",
-        "it": "La visita è tutta accessibile o ci sono parti da evitare?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_075",
-      "es": "¿Podemos llevar una carriola o hay que dejarla en la entrada?",
-      "translations": {
-        "en": "Can we bring a stroller, or do we need to leave it at the entrance?",
-        "pt": "Podemos levar um carrinho de bebê ou precisamos deixar na entrada?",
-        "fr": "On peut prendre une poussette ou il faut la laisser à l’entrée ?",
-        "it": "Possiamo portare un passeggino o dobbiamo lasciarlo all’ingresso?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_076",
-      "es": "No escucho bien al guía; ¿puedo acercarme o usar un receptor?",
-      "translations": {
-        "en": "I can’t hear the guide well. Can I move closer or use a receiver?",
-        "pt": "Não ouço bem o guia; posso me aproximar ou usar um receptor?",
-        "fr": "Je n’entends pas bien le guide ; je peux me rapprocher ou utiliser un récepteur ?",
-        "it": "Non sento bene la guida; posso avvicinarmi o usare un ricevitore?"
+        "it": "Il percorso finisce dove inizia o in un altro posto?",
+        "de": "Endet die Tour dort, wo sie beginnt, oder woanders?"
       },
       "image_url": ""
     },
@@ -845,19 +576,21 @@
       "translations": {
         "en": "Which parts of the tour are outdoors?",
         "pt": "Quais partes do passeio são ao ar livre?",
-        "fr": "Quelles parties du parcours se font à l’extérieur ?",
-        "it": "Quali parti del percorso si svolgono all’aperto?"
+        "fr": "Quelles parties du parcours se déroulent en plein air ?",
+        "it": "Quali parti del percorso si svolgono all'aperto?",
+        "de": "Welche Teile der Tour finden im Freien statt?"
       },
       "image_url": ""
     },
     {
       "id": "vat_078",
-      "es": "¿Cómo nos avisan si el clima obliga a cambiar la actividad?",
+      "es": "¿Cómo nos avisarán si tienen que cambiar la actividad por el clima?",
       "translations": {
-        "en": "How will you let us know if the weather forces a change to the activity?",
-        "pt": "Como vão nos avisar se o tempo obrigar a mudar a atividade?",
-        "fr": "Comment nous prévenez-vous si la météo oblige à changer l’activité ?",
-        "it": "Come ci avvisate se il tempo obbliga a cambiare l’attività?"
+        "en": "How will you let us know if you have to change the activity because of the weather?",
+        "pt": "Como vão nos avisar se precisarem mudar a atividade por causa do tempo?",
+        "fr": "Comment nous préviendrez-vous si vous devez changer l'activité à cause de la météo ?",
+        "it": "Come ci avviserete se dovrete cambiare l'attività per via delle condizioni meteo?",
+        "de": "Wie sagen Sie uns Bescheid, wenn Sie die Aktivität wegen des Wetters ändern müssen?"
       },
       "image_url": ""
     },
@@ -865,296 +598,336 @@
       "id": "vat_079",
       "es": "¿Hay una alternativa bajo techo si no se puede hacer el recorrido previsto?",
       "translations": {
-        "en": "Is there an indoor alternative if the planned tour can’t take place?",
+        "en": "Is there an indoor alternative if the planned tour can't take place?",
         "pt": "Há uma alternativa em local fechado se não for possível fazer o passeio previsto?",
-        "fr": "Il y a une alternative à l’intérieur si le parcours prévu ne peut pas avoir lieu ?",
-        "it": "C’è un’alternativa al coperto se non si può fare il percorso previsto?"
+        "fr": "Y a-t-il une autre activité à l'intérieur si la visite prévue ne peut pas avoir lieu ?",
+        "it": "C'è un'alternativa al coperto se non si può fare il percorso previsto?",
+        "de": "Gibt es eine Alternative drinnen, falls die geplante Tour nicht stattfinden kann?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_080",
-      "es": "¿Puedo preguntar al guía durante la visita o al final?",
+      "id": "vat_007",
+      "es": "El boleto de entrada con horario asignado",
       "translations": {
-        "en": "Can I ask the guide questions during the tour or at the end?",
-        "pt": "Posso fazer perguntas ao guia durante a visita ou no final?",
-        "fr": "Je peux poser des questions au guide pendant la visite ou à la fin ?",
-        "it": "Posso fare domande alla guida durante la visita o alla fine?"
+        "en": "The timed-entry ticket",
+        "pt": "O ingresso com horário marcado",
+        "fr": "Le billet d'entrée pour un créneau horaire précis",
+        "it": "Il biglietto con orario d'ingresso",
+        "de": "Die Eintrittskarte mit festem Zeitfenster"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "This timed-entry ticket lets us get in at eleven.",
+          "es": "Con este boleto de entrada con horario asignado podemos entrar a las once."
+        },
+        "pt": {
+          "text": "Com este ingresso com horário marcado, podemos entrar às onze.",
+          "es": "Con este boleto de entrada con horario asignado podemos entrar a las once."
+        },
+        "fr": {
+          "text": "Notre billet d'entrée est pour un créneau horaire précis : on peut entrer à onze heures.",
+          "es": "Nuestro boleto de entrada tiene un horario asignado: podemos entrar a las once."
+        },
+        "it": {
+          "text": "Con questo biglietto con orario d'ingresso possiamo entrare alle undici.",
+          "es": "Con este boleto de entrada con horario asignado podemos entrar a las once."
+        },
+        "de": {
+          "text": "Mit dieser Eintrittskarte mit festem Zeitfenster dürfen wir um elf Uhr hinein.",
+          "es": "Con este boleto de entrada con horario asignado podemos entrar a las once."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The timed-entry tickets)",
+        "pt": "(Plural: Os ingressos com horário marcado)",
+        "fr": "(Plural: Les billets d'entrée pour des créneaux horaires précis)",
+        "it": "(Plural: I biglietti con orario d'ingresso)",
+        "de": "(Plural: Die Eintrittskarten mit festem Zeitfenster)",
+        "es": "El horario indica cuándo puedes entrar, no cuánto tiempo puedes quedarte."
+      }
+    },
+    {
+      "id": "vat_008",
+      "es": "El boleto de entrada combinado",
+      "translations": {
+        "en": "The combined admission ticket",
+        "pt": "O ingresso combinado",
+        "fr": "Le billet combiné",
+        "it": "Il biglietto combinato",
+        "de": "Das Kombiticket"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I bought a combined admission ticket for the museum and the castle.",
+          "es": "Compré un boleto de entrada combinado para el museo y el castillo."
+        },
+        "pt": {
+          "text": "Comprei um ingresso combinado para o museu e o castelo.",
+          "es": "Compré un boleto de entrada combinado para el museo y el castillo."
+        },
+        "fr": {
+          "text": "J'ai acheté un billet combiné pour le musée et le château.",
+          "es": "Compré un boleto de entrada combinado para el museo y el castillo."
+        },
+        "it": {
+          "text": "Ho comprato un biglietto combinato per il museo e il castello.",
+          "es": "Compré un boleto de entrada combinado para el museo y el castillo."
+        },
+        "de": {
+          "text": "Ich habe ein Kombiticket für das Museum und das Schloss gekauft.",
+          "es": "Compré un boleto de entrada combinado para el museo y el castillo."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The combined admission tickets)",
+        "pt": "(Plural: Os ingressos combinados)",
+        "fr": "(Plural: Les billets combinés)",
+        "it": "(Plural: I biglietti combinati)",
+        "de": "(Plural: Die Kombitickets)",
+        "es": "Un mismo boleto da acceso a varios lugares o actividades."
+      }
+    },
+    {
+      "id": "vat_009",
+      "es": "El último acceso",
+      "translations": {
+        "en": "The last admission",
+        "pt": "O último horário de entrada",
+        "fr": "La dernière heure d'entrée",
+        "it": "L'ultimo ingresso",
+        "de": "Der letzte Einlass"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Last admission is at five, even though the museum closes at six.",
+          "es": "El último acceso es a las cinco, aunque el museo cierra a las seis."
+        },
+        "pt": {
+          "text": "O último horário de entrada é às cinco, embora o museu feche às seis.",
+          "es": "El último acceso es a las cinco, aunque el museo cierra a las seis."
+        },
+        "fr": {
+          "text": "La dernière heure d'entrée est fixée à cinq heures, même si le musée ferme à six heures.",
+          "es": "El último acceso es a las cinco, aunque el museo cierra a las seis."
+        },
+        "it": {
+          "text": "L'ultimo ingresso è alle cinque, anche se il museo chiude alle sei.",
+          "es": "El último acceso es a las cinco, aunque el museo cierra a las seis."
+        },
+        "de": {
+          "text": "Der letzte Einlass ist um fünf, obwohl das Museum erst um sechs schließt.",
+          "es": "El último acceso es a las cinco, aunque el museo cierra a las seis."
+        }
+      },
+      "notes": {
+        "es": "Es la hora límite para entrar, no la hora de cierre."
+      }
+    },
+    {
+      "id": "vat_037",
+      "es": "Quisiera reservar dos lugares para la visita de la mañana.",
+      "translations": {
+        "en": "I'd like to reserve two spots on the morning tour.",
+        "pt": "Gostaria de reservar duas vagas para a visita da manhã.",
+        "fr": "Je voudrais réserver deux places pour la visite du matin.",
+        "it": "Vorrei prenotare due posti per la visita del mattino.",
+        "de": "Ich möchte zwei Plätze für die Führung am Vormittag reservieren."
       },
       "image_url": ""
     },
     {
-      "id": "vat_081",
-      "es": "¿Esta parte es obligatoria o podemos visitarla por nuestra cuenta?",
+      "id": "vat_038",
+      "es": "¿Debemos elegir una hora al comprar la entrada?",
       "translations": {
-        "en": "Is this part required, or can we visit it on our own?",
-        "pt": "Esta parte é obrigatória ou podemos visitar por conta própria?",
-        "fr": "Cette partie est obligatoire ou on peut la visiter librement ?",
-        "it": "Questa parte è obbligatoria o possiamo visitarla per conto nostro?"
+        "en": "Do we need to choose a time when buying the ticket?",
+        "pt": "Precisamos escolher um horário ao comprar o ingresso?",
+        "fr": "On doit choisir un horaire au moment d'acheter le billet ?",
+        "it": "Dobbiamo scegliere un orario quando compriamo il biglietto?",
+        "de": "Müssen wir beim Ticketkauf eine Uhrzeit auswählen?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_082",
-      "es": "¿Hasta qué hora tenemos tiempo libre y dónde nos reunimos después?",
+      "id": "vat_039",
+      "es": "¿El horario indica la entrada al recinto o el inicio de la visita guiada?",
       "translations": {
-        "en": "Until what time do we have free time, and where do we meet afterward?",
-        "pt": "Até que horas temos tempo livre e onde nos encontramos depois?",
-        "fr": "Jusqu’à quelle heure sommes-nous libres et où nous retrouvons-nous ensuite ?",
-        "it": "Fino a che ora abbiamo tempo libero e dove ci ritroviamo dopo?"
+        "en": "Is that the time we enter the site or the time the guided tour starts?",
+        "pt": "Esse é o horário de entrada no local ou de início da visita guiada?",
+        "fr": "L'horaire correspond à l'entrée sur le site ou au début de la visite guidée ?",
+        "it": "L'orario indica quando si entra nel sito o quando inizia la visita guidata?",
+        "de": "Gibt die Uhrzeit an, wann wir aufs Gelände dürfen oder wann die Führung beginnt?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_083",
-      "es": "¿Debemos regresar al autobús o esperar al guía en la salida?",
+      "id": "vat_040",
+      "es": "¿Cuánto tiempo puedo quedarme adentro con esta entrada?",
       "translations": {
-        "en": "Should we return to the bus or wait for the guide at the exit?",
-        "pt": "Devemos voltar ao ônibus ou esperar o guia na saída?",
-        "fr": "On doit retourner au bus ou attendre le guide à la sortie ?",
-        "it": "Dobbiamo tornare all’autobus o aspettare la guida all’uscita?"
+        "en": "How long can I stay inside with this ticket?",
+        "pt": "Quanto tempo posso ficar lá dentro com este ingresso?",
+        "fr": "Combien de temps puis-je rester à l'intérieur avec ce billet ?",
+        "it": "Quanto tempo posso restare all'interno con questo biglietto?",
+        "de": "Wie lange darf ich mit diesem Ticket drinnen bleiben?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_084",
-      "es": "¿Se puede añadir esta visita sin perder el resto del recorrido?",
+      "id": "vat_041",
+      "es": "¿La entrada combinada permite visitar los lugares en días diferentes?",
       "translations": {
-        "en": "Can we add this visit without missing the rest of the tour?",
-        "pt": "É possível incluir esta visita sem perder o restante do passeio?",
-        "fr": "On peut ajouter cette visite sans manquer le reste du parcours ?",
-        "it": "Si può aggiungere questa visita senza perdere il resto del percorso?"
+        "en": "Can I use the combo ticket to visit the sites on different days?",
+        "pt": "O ingresso combinado permite visitar os lugares em dias diferentes?",
+        "fr": "Peut-on visiter les sites à des jours différents avec le billet combiné ?",
+        "it": "Con il biglietto combinato si possono visitare i siti in giorni diversi?",
+        "de": "Kann ich die verschiedenen Orte mit dem Kombiticket an unterschiedlichen Tagen besuchen?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_085",
-      "es": "Quiero hacer una pausa; ¿dónde puedo alcanzar al grupo después?",
+      "id": "vat_042",
+      "es": "¿Incluye la exposición temporal o solo la colección permanente?",
       "translations": {
-        "en": "I want to take a break. Where can I rejoin the group afterward?",
-        "pt": "Quero fazer uma pausa; onde posso me juntar ao grupo depois?",
-        "fr": "Je veux faire une pause ; où puis-je rejoindre le groupe ensuite ?",
-        "it": "Voglio fare una pausa; dove posso ritrovare il gruppo dopo?"
+        "en": "Does it include the temporary exhibition or only the permanent collection?",
+        "pt": "Inclui a exposição temporária ou só a coleção permanente?",
+        "fr": "Il comprend l'exposition temporaire ou seulement la collection permanente ?",
+        "it": "Include la mostra temporanea o solo la collezione permanente?",
+        "de": "Ist die Sonderausstellung inbegriffen oder nur die Dauerausstellung?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_086",
-      "es": "Me separé del grupo y no sé en qué parte del recorrido están.",
+      "id": "vat_043",
+      "es": "¿Hay zonas que requieren una entrada adicional?",
       "translations": {
-        "en": "I got separated from the group and don’t know where they are on the route.",
-        "pt": "Me separei do grupo e não sei em que parte do percurso estão.",
-        "fr": "Je me suis séparé du groupe et je ne sais pas où ils sont dans le parcours. / Je me suis séparée du groupe et je ne sais pas où ils sont dans le parcours.",
-        "it": "Mi sono separato dal gruppo e non so in quale parte del percorso siano. / Mi sono separata dal gruppo e non so in quale parte del percorso siano."
+        "en": "Are there areas that require an additional ticket?",
+        "pt": "Há áreas que exigem um ingresso adicional?",
+        "fr": "Il y a des zones qui nécessitent un billet supplémentaire ?",
+        "it": "Ci sono zone che richiedono un biglietto aggiuntivo?",
+        "de": "Gibt es Bereiche, für die man ein zusätzliches Ticket braucht?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_087",
-      "es": "¿Puedo terminar la visita aquí sin regresar con el grupo?",
+      "id": "vat_044",
+      "es": "¿Esta entrada permite saltarse solo la fila de la taquilla o también la del control de seguridad?",
       "translations": {
-        "en": "Can I end my tour here without returning with the group?",
-        "pt": "Posso terminar a visita aqui sem voltar com o grupo?",
-        "fr": "Je peux terminer la visite ici sans rentrer avec le groupe ?",
-        "it": "Posso terminare la visita qui senza tornare con il gruppo?"
+        "en": "Does this ticket let me skip just the ticket line, or the security line too?",
+        "pt": "Com este ingresso, posso evitar só a fila da bilheteria ou também a do controle de segurança?",
+        "fr": "Ce billet permet d'éviter la file à la billetterie ou aussi celle du contrôle de sécurité ?",
+        "it": "Questo biglietto permette di evitare la fila alla biglietteria o anche quella dei controlli di sicurezza?",
+        "de": "Kann ich mit diesem Ticket nur die Schlange an der Kasse umgehen oder auch die an der Sicherheitskontrolle?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_088",
-      "es": "Prefiero no participar en esta parte; ¿dónde debo esperar?",
+      "id": "vat_045",
+      "es": "Si compro en línea, ¿tengo que canjear la confirmación de compra por una entrada?",
       "translations": {
-        "en": "I’d rather not take part in this section. Where should I wait?",
-        "pt": "Prefiro não participar desta parte; onde devo esperar?",
-        "fr": "Je préfère ne pas participer à cette partie ; où dois-je attendre ?",
-        "it": "Preferisco non partecipare a questa parte; dove devo aspettare?"
+        "en": "If I buy online, do I need to exchange the order confirmation for a ticket?",
+        "pt": "Se eu comprar on-line, preciso trocar a confirmação de compra por um ingresso?",
+        "fr": "Si j'achète en ligne, dois-je échanger la confirmation d'achat contre un billet ?",
+        "it": "Se compro online, devo scambiare la conferma d'acquisto con un biglietto?",
+        "de": "Muss ich die Kaufbestätigung gegen ein Ticket eintauschen, wenn ich online kaufe?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_089",
-      "es": "¿Nos puede explicar por qué esta pieza o este lugar es importante?",
+      "id": "vat_046",
+      "es": "¿La entrada lleva mi nombre? ¿Debo mostrar una identificación?",
       "translations": {
-        "en": "Can you explain why this piece or this place is important?",
-        "pt": "Pode nos explicar por que esta peça ou este lugar é importante?",
-        "fr": "Pouvez-vous nous expliquer pourquoi cette œuvre ou ce lieu est important ?",
-        "it": "Può spiegarci perché quest’opera o questo luogo è importante?"
+        "en": "Is the ticket in my name? Do I need to show ID?",
+        "pt": "O ingresso está no meu nome? Preciso mostrar um documento de identidade?",
+        "fr": "Le billet est-il à mon nom ? Dois-je présenter une pièce d'identité ?",
+        "it": "Il biglietto è nominativo? Devo mostrare un documento d'identità?",
+        "de": "Steht mein Name auf dem Ticket? Muss ich einen Ausweis zeigen?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_090",
-      "es": "¿Qué uso tenía este edificio antes?",
+      "id": "vat_047",
+      "es": "¿Hay entradas con descuento? ¿Qué comprobante hay que presentar?",
       "translations": {
-        "en": "What was this building used for in the past?",
-        "pt": "Para que este prédio era usado antes?",
-        "fr": "À quoi servait ce bâtiment auparavant ?",
-        "it": "A che cosa serviva questo edificio in passato?"
+        "en": "Are discounted tickets available? What proof do I need to show?",
+        "pt": "Há ingressos com desconto? Que comprovante preciso apresentar?",
+        "fr": "Y a-t-il des billets à tarif réduit ? Quel justificatif faut-il présenter ?",
+        "it": "Ci sono biglietti a prezzo ridotto? Quale documento bisogna mostrare?",
+        "de": "Gibt es ermäßigte Tickets? Welchen Nachweis muss ich dafür vorzeigen?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_091",
-      "es": "¿Es una pieza original o una reproducción?",
+      "id": "vat_048",
+      "es": "No quedan entradas para esa hora; ¿hay otro horario el mismo día?",
       "translations": {
-        "en": "Is it an original piece or a reproduction?",
-        "pt": "É uma peça original ou uma reprodução?",
-        "fr": "C’est une œuvre originale ou une reproduction ?",
-        "it": "È un’opera originale o una riproduzione?"
+        "en": "There are no tickets left for that time. Is another time available that day?",
+        "pt": "Não há mais ingressos para esse horário. Tem outro horário disponível no mesmo dia?",
+        "fr": "Il n'y a plus de billets pour ce créneau. Y a-t-il un autre créneau le même jour ?",
+        "it": "Non ci sono più biglietti per quell'orario. Ce n'è un altro disponibile lo stesso giorno?",
+        "de": "Für diese Uhrzeit gibt es keine Tickets mehr. Ist am selben Tag noch eine andere Uhrzeit frei?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_092",
-      "es": "¿Hay un mapa del recinto para elegir qué salas visitar?",
+      "id": "vat_049",
+      "es": "¿Es posible reservar ahora y pagar al llegar?",
       "translations": {
-        "en": "Is there a map of the site so we can choose which rooms to visit?",
-        "pt": "Há um mapa do local para escolher quais salas visitar?",
-        "fr": "Il y a un plan du site pour choisir les salles à visiter ?",
-        "it": "C’è una mappa del sito per scegliere quali sale visitare?"
+        "en": "Is it possible to book now and pay on arrival?",
+        "pt": "É possível reservar agora e pagar na chegada?",
+        "fr": "On peut réserver maintenant et payer à l'arrivée ?",
+        "it": "È possibile prenotare adesso e pagare all'arrivo?",
+        "de": "Kann man jetzt reservieren und erst vor Ort bezahlen?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_093",
-      "es": "¿Puedo seguir una ruta más corta y volver al mismo punto?",
+      "id": "vat_050",
+      "es": "¿Qué sucede si no se reúne el número mínimo de participantes?",
       "translations": {
-        "en": "Can I take a shorter route and return to the same point?",
-        "pt": "Posso seguir um percurso mais curto e voltar ao mesmo ponto?",
-        "fr": "Je peux suivre un parcours plus court et revenir au même point ?",
-        "it": "Posso seguire un percorso più breve e tornare allo stesso punto?"
+        "en": "What happens if the minimum number of participants isn't reached?",
+        "pt": "O que acontece se não houver o número mínimo de participantes?",
+        "fr": "Qu'est-ce qui se passe si le nombre minimum de participants n'est pas atteint ?",
+        "it": "Che cosa succede se non si raggiunge il numero minimo di partecipanti?",
+        "de": "Was passiert, wenn die Mindestzahl an Teilnehmenden nicht erreicht wird?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_094",
-      "es": "¿Necesito reservar otra hora para subir a la torre?",
+      "id": "vat_051",
+      "es": "¿Puedo ceder mi entrada a otra persona si no puedo participar?",
       "translations": {
-        "en": "Do I need to book another time slot to go up the tower?",
-        "pt": "Preciso reservar outro horário para subir na torre?",
-        "fr": "Je dois réserver un autre créneau pour monter dans la tour ?",
-        "it": "Devo prenotare un altro orario per salire sulla torre?"
+        "en": "Can I transfer my ticket to someone else if I can't take part?",
+        "pt": "Posso transferir meu ingresso para outra pessoa se não puder participar?",
+        "fr": "Puis-je transférer mon billet à quelqu'un d'autre si je ne peux pas participer ?",
+        "it": "Posso cedere il biglietto a un'altra persona se non posso partecipare?",
+        "de": "Kann ich mein Ticket jemand anderem geben, wenn ich nicht teilnehmen kann?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_095",
-      "es": "¿La audioguía sigue el mismo orden que las salas?",
+      "id": "vat_052",
+      "es": "¿Me pueden enviar los detalles del punto de encuentro junto con la confirmación?",
       "translations": {
-        "en": "Does the audio guide follow the same order as the rooms?",
-        "pt": "O audioguia segue a mesma ordem das salas?",
-        "fr": "L’audioguide suit le même ordre que les salles ?",
-        "it": "L’audioguida segue lo stesso ordine delle sale?"
+        "en": "Could you send me the meeting-point details along with the confirmation?",
+        "pt": "Podem me enviar os detalhes do ponto de encontro junto com a confirmação?",
+        "fr": "Pouvez-vous joindre les détails du point de rendez-vous à la confirmation ?",
+        "it": "Potete mandarmi i dettagli del punto di ritrovo insieme alla conferma?",
+        "de": "Könnten Sie mir die Informationen zum Treffpunkt zusammen mit der Bestätigung schicken?"
       },
       "image_url": ""
     },
     {
-      "id": "vat_096",
-      "es": "El aparato de la audioguía no funciona; ¿pueden cambiarlo?",
+      "id": "vat_121",
+      "es": "¿Dónde puedo consultar si hay cambios en la actividad antes de salir?",
       "translations": {
-        "en": "The audio guide device isn’t working. Can you replace it?",
-        "pt": "O aparelho do audioguia não funciona; podem trocar?",
-        "fr": "L’appareil de l’audioguide ne fonctionne pas ; pouvez-vous le remplacer ?",
-        "it": "Il dispositivo dell’audioguida non funziona; potete cambiarlo?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_097",
-      "es": "¿Dónde devuelvo la audioguía al terminar?",
-      "translations": {
-        "en": "Where do I return the audio guide when I’m done?",
-        "pt": "Onde devolvo o audioguia ao terminar?",
-        "fr": "Où dois-je rendre l’audioguide à la fin ?",
-        "it": "Dove restituisco l’audioguida alla fine?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_098",
-      "es": "La visita empieza aquí; volveremos a este punto al terminar. (guía)",
-      "translations": {
-        "en": "The tour starts here. We’ll return to this point at the end.",
-        "pt": "A visita começa aqui; voltaremos a este ponto no final.",
-        "fr": "La visite commence ici ; nous reviendrons à ce point à la fin.",
-        "it": "La visita inizia qui; torneremo a questo punto alla fine."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_099",
-      "es": "Tienen treinta minutos libres; nos reunimos junto a la entrada. (guía)",
-      "translations": {
-        "en": "You have thirty minutes of free time. We’ll meet next to the entrance.",
-        "pt": "Vocês têm trinta minutos livres; nos encontramos junto à entrada.",
-        "fr": "Vous avez trente minutes de temps libre ; nous nous retrouvons à côté de l’entrée.",
-        "it": "Avete trenta minuti liberi; ci ritroviamo vicino all’ingresso."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_100",
-      "es": "Mantengan el receptor encendido para escuchar las explicaciones. (guía)",
-      "translations": {
-        "en": "Keep your receiver on to hear the explanations.",
-        "pt": "Mantenham o receptor ligado para ouvir as explicações.",
-        "fr": "Gardez votre récepteur allumé pour entendre les explications.",
-        "it": "Tenete acceso il ricevitore per ascoltare le spiegazioni."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_101",
-      "es": "En esta sala se permite fotografiar, pero sin flash. (personal; ejemplo de norma)",
-      "translations": {
-        "en": "Photography is allowed in this room, but without flash.",
-        "pt": "Nesta sala é permitido fotografar, mas sem flash.",
-        "fr": "Dans cette salle, les photos sont autorisées, mais sans flash.",
-        "it": "In questa sala è consentito fotografare, ma senza flash."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_102",
-      "es": "No toquen las piezas ni crucen las barreras. (personal)",
-      "translations": {
-        "en": "Don’t touch the exhibits or cross the barriers.",
-        "pt": "Não toquem nas peças nem ultrapassem as barreiras.",
-        "fr": "Ne touchez pas les objets exposés et ne franchissez pas les barrières.",
-        "it": "Non toccate gli oggetti esposti e non oltrepassate le barriere."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_103",
-      "es": "La entrada a esta zona no está incluida en su boleto. (personal)",
-      "translations": {
-        "en": "Admission to this area isn’t included in your ticket.",
-        "pt": "A entrada nesta área não está incluída no seu ingresso.",
-        "fr": "L’accès à cette zone n’est pas compris dans votre billet.",
-        "it": "L’ingresso a questa zona non è incluso nel suo biglietto."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_104",
-      "es": "Si necesitan salir del grupo, avísenme antes. (guía)",
-      "translations": {
-        "en": "If you need to leave the group, let me know first.",
-        "pt": "Se precisarem sair do grupo, me avisem antes.",
-        "fr": "Si vous devez quitter le groupe, prévenez-moi d’abord.",
-        "it": "Se dovete lasciare il gruppo, avvisatemi prima."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_105",
-      "es": "La última entrada es antes del cierre; consulten el horario indicado. (personal)",
-      "translations": {
-        "en": "Last admission is before closing. Check the posted time.",
-        "pt": "O último horário de entrada é antes do fechamento; consultem o horário indicado.",
-        "fr": "La dernière admission a lieu avant la fermeture ; consultez l’horaire indiqué.",
-        "it": "L’ultimo ingresso è prima della chiusura; consultate l’orario indicato."
+        "en": "Where can I check for updates about the activity before leaving?",
+        "pt": "Onde posso consultar atualizações sobre a atividade antes de sair?",
+        "fr": "Où puis-je consulter les dernières informations sur l'activité avant de partir ?",
+        "it": "Dove posso controllare gli aggiornamenti sull'attività prima di partire?",
+        "de": "Wo finde ich vor dem Aufbruch aktuelle Informationen zur Aktivität?"
       },
       "image_url": ""
     },
@@ -1163,42 +936,22 @@
       "es": "¿Puedo cambiar mi entrada a otro horario del mismo día?",
       "translations": {
         "en": "Can I change my ticket to another time on the same day?",
-        "pt": "Posso mudar meu ingresso para outro horário do mesmo dia?",
+        "pt": "Posso remarcar meu ingresso para outro horário no mesmo dia?",
         "fr": "Je peux changer mon billet pour un autre créneau le même jour ?",
-        "it": "Posso cambiare il biglietto con un altro orario dello stesso giorno?"
+        "it": "Posso spostare l'ingresso a un altro orario dello stesso giorno?",
+        "de": "Kann ich mein Ticket auf eine andere Uhrzeit am selben Tag umbuchen?"
       },
       "image_url": ""
     },
     {
       "id": "vat_107",
-      "es": "Mi reserva es para mañana, pero el comprobante muestra otra fecha.",
+      "es": "Mi reserva es para mañana, pero en la confirmación aparece otra fecha.",
       "translations": {
         "en": "My booking is for tomorrow, but the confirmation shows a different date.",
-        "pt": "Minha reserva é para amanhã, mas o comprovante mostra outra data.",
-        "fr": "Ma réservation est pour demain, mais le justificatif indique une autre date.",
-        "it": "La mia prenotazione è per domani, ma la conferma indica un’altra data."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_108",
-      "es": "Llegué después del horario reservado; ¿hay alguna opción para entrar?",
-      "translations": {
-        "en": "I arrived after my reserved time. Is there any way to enter?",
-        "pt": "Cheguei depois do horário reservado; há alguma opção para entrar?",
-        "fr": "Je suis arrivé après mon créneau réservé ; y a-t-il une possibilité d’entrer ? / Je suis arrivée après mon créneau réservé ; y a-t-il une possibilité d’entrer ?",
-        "it": "Sono arrivato dopo l’orario prenotato; c’è qualche possibilità di entrare? / Sono arrivata dopo l’orario prenotato; c’è qualche possibilità di entrare?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_109",
-      "es": "El grupo salió antes de la hora indicada; ¿con quién puedo revisarlo?",
-      "translations": {
-        "en": "The group left before the stated time. Who can I check this with?",
-        "pt": "O grupo saiu antes do horário indicado; com quem posso verificar isso?",
-        "fr": "Le groupe est parti avant l’heure indiquée ; avec qui puis-je vérifier cela ?",
-        "it": "Il gruppo è partito prima dell’orario indicato; con chi posso verificare?"
+        "pt": "Minha reserva é para amanhã, mas a confirmação mostra outra data.",
+        "fr": "Ma réservation est pour demain, mais la confirmation indique une autre date.",
+        "it": "La mia prenotazione è per domani, ma sulla conferma c'è un'altra data.",
+        "de": "Meine Buchung ist für morgen, aber auf der Bestätigung steht ein anderes Datum."
       },
       "image_url": ""
     },
@@ -1206,32 +959,23 @@
       "id": "vat_110",
       "es": "No recibí el boleto, aunque el pago aparece confirmado.",
       "translations": {
-        "en": "I didn’t receive the ticket, although the payment shows as confirmed.",
+        "en": "I didn't receive the ticket, although the payment shows as confirmed.",
         "pt": "Não recebi o ingresso, embora o pagamento apareça como confirmado.",
-        "fr": "Je n’ai pas reçu le billet, alors que le paiement est confirmé.",
-        "it": "Non ho ricevuto il biglietto, anche se il pagamento risulta confermato."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_111",
-      "es": "La visita se anuncia en español, pero el grupo es de otro idioma.",
-      "translations": {
-        "en": "The tour is advertised in Spanish, but the group is in another language.",
-        "pt": "A visita é anunciada em espanhol, mas o grupo é em outro idioma.",
-        "fr": "La visite est annoncée en espagnol, mais le groupe est dans une autre langue.",
-        "it": "La visita è pubblicizzata in spagnolo, ma il gruppo segue un’altra lingua."
+        "fr": "Je n'ai pas reçu le billet, alors que le paiement est confirmé.",
+        "it": "Non ho ricevuto il biglietto, anche se il pagamento risulta confermato.",
+        "de": "Ich habe die Eintrittskarte nicht bekommen, obwohl die Zahlung als bestätigt angezeigt wird."
       },
       "image_url": ""
     },
     {
       "id": "vat_112",
-      "es": "No pudimos visitar uno de los lugares incluidos; ¿hay una visita de reemplazo?",
+      "es": "No pudimos visitar uno de los lugares incluidos. ¿Podemos visitar otro en su lugar?",
       "translations": {
-        "en": "We couldn’t visit one of the included sites. Is there a replacement visit?",
-        "pt": "Não conseguimos visitar um dos lugares incluídos; há uma visita substituta?",
-        "fr": "Nous n’avons pas pu visiter l’un des lieux inclus ; il y a une visite de remplacement ?",
-        "it": "Non abbiamo potuto visitare uno dei luoghi inclusi; c’è una visita alternativa?"
+        "en": "We couldn't visit one of the included sites. Is there another place we can visit instead?",
+        "pt": "Não conseguimos visitar um dos lugares incluídos. Podemos visitar outro no lugar?",
+        "fr": "Nous n'avons pas pu visiter l'un des lieux prévus. Peut-on en visiter un autre à la place ?",
+        "it": "Non abbiamo potuto visitare uno dei luoghi inclusi. Possiamo visitarne un altro al suo posto?",
+        "de": "Wir konnten einen der vorgesehenen Orte nicht besuchen. Können wir stattdessen einen anderen Ort besuchen?"
       },
       "image_url": ""
     },
@@ -1241,8 +985,9 @@
       "translations": {
         "en": "The activity was canceled. Can I change the date or request a refund?",
         "pt": "A atividade foi cancelada; posso mudar a data ou pedir um reembolso?",
-        "fr": "L’activité a été annulée ; je peux changer de date ou demander un remboursement ?",
-        "it": "L’attività è stata annullata; posso cambiare data o chiedere un rimborso?"
+        "fr": "L'activité a été annulée ; je peux changer de date ou demander un remboursement ?",
+        "it": "L'attività è stata annullata; posso cambiare data o chiedere un rimborso?",
+        "de": "Die Aktivität wurde abgesagt. Kann ich einen anderen Termin buchen oder eine Rückerstattung beantragen?"
       },
       "image_url": ""
     },
@@ -1252,8 +997,9 @@
       "translations": {
         "en": "The alternative is shorter. Does the price change too?",
         "pt": "A alternativa dura menos; o preço também muda?",
-        "fr": "L’alternative dure moins longtemps ; le prix change aussi ?",
-        "it": "L’alternativa dura meno; cambia anche il prezzo?"
+        "fr": "L'alternative dure moins longtemps ; le prix change aussi ?",
+        "it": "L'alternativa dura meno; cambia anche il prezzo?",
+        "de": "Die Alternative dauert kürzer. Ändert sich auch der Preis?"
       },
       "image_url": ""
     },
@@ -1263,8 +1009,9 @@
       "translations": {
         "en": "If we change activities, does the meeting point stay the same?",
         "pt": "Se mudarmos de atividade, o ponto de encontro continua o mesmo?",
-        "fr": "Si on change d’activité, le point de rendez-vous reste le même ?",
-        "it": "Se cambiamo attività, il punto di ritrovo rimane lo stesso?"
+        "fr": "Si on change d'activité, le point de rendez-vous reste le même ?",
+        "it": "Se cambiamo attività, il punto di ritrovo rimane lo stesso?",
+        "de": "Bleibt der Treffpunkt gleich, wenn wir die Aktivität wechseln?"
       },
       "image_url": ""
     },
@@ -1272,10 +1019,11 @@
       "id": "vat_116",
       "es": "Con el nuevo recorrido, ¿la visita sigue en el mismo idioma y regresamos a la misma hora?",
       "translations": {
-        "en": "With the new itinerary, will the tour be in the same language and return at the same time?",
+        "en": "With the new itinerary, will the tour still be in the same language, and will we get back at the same time?",
         "pt": "Com o novo roteiro, a visita continua no mesmo idioma e voltamos no mesmo horário?",
-        "fr": "Avec le nouveau parcours, la visite reste dans la même langue et on rentre à la même heure ?",
-        "it": "Con il nuovo percorso, la visita resta nella stessa lingua e torniamo allo stesso orario?"
+        "fr": "Avec le nouveau parcours, la visite se déroule-t-elle dans la même langue et rentre-t-on à la même heure ?",
+        "it": "Con il nuovo percorso, la visita si svolge nella stessa lingua e torniamo alla stessa ora?",
+        "de": "Findet die Führung auf der neuen Route in derselben Sprache statt und kommen wir zur gleichen Zeit zurück?"
       },
       "image_url": ""
     },
@@ -1285,8 +1033,9 @@
       "translations": {
         "en": "Was the whole tour canceled or only the visit to one of the sites?",
         "pt": "O passeio inteiro foi cancelado ou só a visita a um dos lugares?",
-        "fr": "Toute l’excursion a été annulée ou seulement la visite de l’un des lieux ?",
-        "it": "È stata annullata tutta l’escursione o solo la visita a uno dei luoghi?"
+        "fr": "Toute l'excursion a été annulée ou seulement la visite de l'un des lieux ?",
+        "it": "È stata annullata tutta l'escursione o solo la visita a uno dei luoghi?",
+        "de": "Wurde der ganze Ausflug abgesagt oder nur der Besuch an einem der Orte?"
       },
       "image_url": ""
     },
@@ -1296,415 +1045,9 @@
       "translations": {
         "en": "Is there a cancellation confirmation so I can follow up on my request?",
         "pt": "Há um comprovante do cancelamento para acompanhar minha solicitação?",
-        "fr": "Il y a un justificatif d’annulation pour suivre ma demande ?",
-        "it": "C’è una conferma dell’annullamento per seguire la mia richiesta?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_119",
-      "es": "El recorrido fue más exigente de lo anunciado; necesito una alternativa para el regreso.",
-      "translations": {
-        "en": "The tour was more demanding than advertised. I need an alternative way back.",
-        "pt": "O passeio foi mais exigente do que o anunciado; preciso de uma alternativa para voltar.",
-        "fr": "Le parcours était plus exigeant que prévu dans l’annonce ; j’ai besoin d’une autre solution pour le retour.",
-        "it": "Il percorso è stato più impegnativo di quanto pubblicizzato; mi serve un’alternativa per il ritorno."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_120",
-      "es": "Dejé un objeto durante la visita; ¿a quién puedo dar los datos del recorrido?",
-      "translations": {
-        "en": "I left an item during the tour. Who can I give the tour details to?",
-        "pt": "Esqueci um objeto durante a visita; para quem posso passar os dados do passeio?",
-        "fr": "J’ai oublié un objet pendant la visite ; à qui puis-je donner les détails du parcours ?",
-        "it": "Ho dimenticato un oggetto durante la visita; a chi posso dare i dettagli del percorso?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_121",
-      "es": "¿Dónde puedo consultar las novedades sobre la actividad antes de salir?",
-      "translations": {
-        "en": "Where can I check for updates about the activity before leaving?",
-        "pt": "Onde posso consultar atualizações sobre a atividade antes de sair?",
-        "fr": "Où puis-je consulter les dernières informations sur l’activité avant de partir ?",
-        "it": "Dove posso controllare gli aggiornamenti sull’attività prima di partire?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_122",
-      "es": "¿Puedo entrar con una mochila pequeña?",
-      "translations": {
-        "en": "Can I bring a small backpack inside?",
-        "pt": "Posso entrar com uma mochila pequena?",
-        "fr": "Je peux entrer avec un petit sac à dos ?",
-        "it": "Posso entrare con uno zaino piccolo?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_123",
-      "es": "¿Puedo llevar mi bolso conmigo durante la visita?",
-      "translations": {
-        "en": "Can I keep my bag with me during the visit?",
-        "pt": "Posso ficar com minha bolsa durante a visita?",
-        "fr": "Je peux garder mon sac avec moi pendant la visite ?",
-        "it": "Posso tenere la mia borsa con me durante la visita?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_124",
-      "es": "¿Hay un tamaño máximo permitido para las mochilas?",
-      "translations": {
-        "en": "Is there a maximum size allowed for backpacks?",
-        "pt": "Há um tamanho máximo permitido para mochilas?",
-        "fr": "Y a-t-il une taille maximale autorisée pour les sacs à dos ?",
-        "it": "C'è una dimensione massima consentita per gli zaini?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_125",
-      "es": "¿Tengo que dejar mi mochila antes de entrar?",
-      "translations": {
-        "en": "Do I have to leave my backpack before going in?",
-        "pt": "Preciso deixar minha mochila antes de entrar?",
-        "fr": "Je dois laisser mon sac à dos avant d'entrer ?",
-        "it": "Devo lasciare lo zaino prima di entrare?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_126",
-      "es": "¿Puedo entrar con mis pertenencias si las dejo guardadas en la mochila?",
-      "translations": {
-        "en": "Can I bring my belongings inside if I keep them in my backpack?",
-        "pt": "Posso entrar com meus pertences se eu os mantiver dentro da mochila?",
-        "fr": "Je peux entrer avec mes affaires si je les garde dans mon sac à dos ?",
-        "it": "Posso entrare con i miei effetti personali se li tengo nello zaino?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_127",
-      "es": "¿Tienen que revisar mi mochila antes de entrar?",
-      "translations": {
-        "en": "Do you need to check my backpack before I go in?",
-        "pt": "Vocês precisam revistar minha mochila antes de eu entrar?",
-        "fr": "Vous devez contrôler mon sac à dos avant que j'entre ?",
-        "it": "Dovete controllare il mio zaino prima che entri?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_128",
-      "es": "¿Dónde están los casilleros?",
-      "translations": {
-        "en": "Where are the lockers?",
-        "pt": "Onde ficam os armários com chave?",
-        "fr": "Où sont les casiers ?",
-        "it": "Dove sono gli armadietti?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_129",
-      "es": "¿Hay una consigna o guardarropa?",
-      "translations": {
-        "en": "Is there a baggage storage area or coat check?",
-        "pt": "Há um guarda-volumes ou guarda-roupa?",
-        "fr": "Y a-t-il une consigne ou un vestiaire ?",
-        "it": "C'è un deposito bagagli o un guardaroba?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_130",
-      "es": "¿Es obligatorio dejar mis cosas en la consigna?",
-      "translations": {
-        "en": "Is it mandatory to leave my belongings at the baggage storage area?",
-        "pt": "É obrigatório deixar meus pertences no guarda-volumes?",
-        "fr": "Est-il obligatoire de laisser mes affaires à la consigne ?",
-        "it": "È obbligatorio lasciare i miei effetti personali al deposito bagagli?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_131",
-      "es": "¿Puedo llevar mis pertenencias conmigo en lugar de dejarlas aquí?",
-      "translations": {
-        "en": "Can I keep my belongings with me instead of leaving them here?",
-        "pt": "Posso levar meus pertences comigo em vez de deixá-los aqui?",
-        "fr": "Je peux garder mes affaires avec moi au lieu de les laisser ici ?",
-        "it": "Posso tenere i miei effetti personali con me invece di lasciarli qui?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_132",
-      "es": "¿Los casilleros son gratuitos?",
-      "translations": {
-        "en": "Are the lockers free?",
-        "pt": "Os armários são gratuitos?",
-        "fr": "Les casiers sont gratuits ?",
-        "it": "Gli armadietti sono gratuiti?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_133",
-      "es": "¿Necesito una moneda para utilizar el casillero?",
-      "translations": {
-        "en": "Do I need a coin to use the locker?",
-        "pt": "Preciso de uma moeda para usar o armário?",
-        "fr": "Il faut une pièce pour utiliser le casier ?",
-        "it": "Serve una moneta per usare l'armadietto?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_134",
-      "es": "¿Cómo funciona el sistema de casilleros?",
-      "translations": {
-        "en": "How does the locker system work?",
-        "pt": "Como funciona o sistema de armários?",
-        "fr": "Comment fonctionne le système de casiers ?",
-        "it": "Come funziona il sistema degli armadietti?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_135",
-      "es": "¿Puedo guardar aquí mi mochila?",
-      "translations": {
-        "en": "Can I leave my backpack here?",
-        "pt": "Posso guardar minha mochila aqui?",
-        "fr": "Je peux laisser mon sac à dos ici ?",
-        "it": "Posso lasciare il mio zaino qui?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_136",
-      "es": "¿Hasta qué hora puedo recoger mis pertenencias?",
-      "translations": {
-        "en": "Until what time can I collect my belongings?",
-        "pt": "Até que horas posso retirar meus pertences?",
-        "fr": "Jusqu'à quelle heure puis-je récupérer mes affaires ?",
-        "it": "Fino a che ora posso ritirare i miei effetti personali?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_137",
-      "es": "¿Dónde puedo recoger mis cosas?",
-      "translations": {
-        "en": "Where can I pick up my belongings?",
-        "pt": "Onde posso retirar meus pertences?",
-        "fr": "Où puis-je récupérer mes affaires ?",
-        "it": "Dove posso ritirare le mie cose?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_138",
-      "es": "¿Puedo entrar con este trípode para celular?",
-      "translations": {
-        "en": "Can I bring this phone tripod inside?",
-        "pt": "Posso entrar com este tripé para celular?",
-        "fr": "Je peux entrer avec ce trépied pour téléphone ?",
-        "it": "Posso entrare con questo treppiede per cellulare?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_139",
-      "es": "¿Puedo llevarlo dentro de mi mochila sin sacarlo?",
-      "translations": {
-        "en": "Can I keep it in my backpack without taking it out?",
-        "pt": "Posso deixá-lo dentro da mochila sem tirá-lo?",
-        "fr": "Je peux le garder dans mon sac à dos sans le sortir ?",
-        "it": "Posso tenerlo nello zaino senza tirarlo fuori?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_140",
-      "es": "No voy a utilizarlo dentro, solo quiero llevarlo conmigo.",
-      "translations": {
-        "en": "I'm not going to use it inside. I just want to keep it with me.",
-        "pt": "Não vou usá-lo lá dentro, só quero levá-lo comigo.",
-        "fr": "Je ne vais pas l'utiliser à l'intérieur, je veux juste le garder avec moi.",
-        "it": "Non lo userò all'interno, voglio solo portarlo con me."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_141",
-      "es": "¿Está permitido utilizar trípodes aquí?",
-      "translations": {
-        "en": "Are tripods allowed here?",
-        "pt": "É permitido usar tripés aqui?",
-        "fr": "Les trépieds sont autorisés ici ?",
-        "it": "È consentito usare i treppiedi qui?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_142",
-      "es": "¿Puedo utilizar un palo para selfies?",
-      "translations": {
-        "en": "Can I use a selfie stick?",
-        "pt": "Posso usar um bastão de selfie?",
-        "fr": "Je peux utiliser une perche à selfie ?",
-        "it": "Posso usare un bastone per selfie?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_143",
-      "es": "¿Puedo entrar con mi cámara aunque no la utilice?",
-      "translations": {
-        "en": "Can I bring my camera inside even if I don't use it?",
-        "pt": "Posso entrar com minha câmera mesmo que não a use?",
-        "fr": "Je peux entrer avec mon appareil photo même si je ne l'utilise pas ?",
-        "it": "Posso entrare con la mia macchina fotografica anche se non la uso?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_144",
-      "es": "¿Puedo entrar con una botella de agua?",
-      "translations": {
-        "en": "Can I bring a bottle of water inside?",
-        "pt": "Posso entrar com uma garrafa de água?",
-        "fr": "Je peux entrer avec une bouteille d'eau ?",
-        "it": "Posso entrare con una bottiglia d'acqua?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_145",
-      "es": "¿Está permitido comer o beber dentro?",
-      "translations": {
-        "en": "Is eating or drinking allowed inside?",
-        "pt": "É permitido comer ou beber lá dentro?",
-        "fr": "Il est permis de manger ou de boire à l'intérieur ?",
-        "it": "È consentito mangiare o bere all'interno?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_146",
-      "es": "¿Puedo dejar este objeto aquí y recogerlo al salir?",
-      "translations": {
-        "en": "Can I leave this item here and pick it up on my way out?",
-        "pt": "Posso deixar este objeto aqui e pegá-lo na saída?",
-        "fr": "Je peux laisser cet objet ici et le récupérer en sortant ?",
-        "it": "Posso lasciare questo oggetto qui e ritirarlo all'uscita?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_147",
-      "es": "¿Qué puedo hacer si no está permitido entrar con este objeto?",
-      "translations": {
-        "en": "What can I do if I'm not allowed to bring this item inside?",
-        "pt": "O que posso fazer se não for permitido entrar com este objeto?",
-        "fr": "Que puis-je faire si je n'ai pas le droit d'entrer avec cet objet ?",
-        "it": "Cosa posso fare se non è consentito entrare con questo oggetto?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_148",
-      "es": "Las mochilas pequeñas están permitidas. (personal)",
-      "translations": {
-        "en": "Small backpacks are allowed.",
-        "pt": "Mochilas pequenas são permitidas.",
-        "fr": "Les petits sacs à dos sont autorisés.",
-        "it": "Gli zaini piccoli sono consentiti."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_149",
-      "es": "Tiene que dejarlo en la consigna. (personal)",
-      "translations": {
-        "en": "You have to leave it at the baggage storage area.",
-        "pt": "Você precisa deixá-lo no guarda-volumes.",
-        "fr": "Vous devez le laisser à la consigne.",
-        "it": "Deve lasciarlo al deposito bagagli."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_150",
-      "es": "Puede llevarlo, pero no utilizarlo. (personal)",
-      "translations": {
-        "en": "You can bring it, but you can't use it.",
-        "pt": "Você pode levá-lo, mas não pode usá-lo.",
-        "fr": "Vous pouvez l'emporter, mais pas l'utiliser.",
-        "it": "Può portarlo con sé, ma non può usarlo."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_151",
-      "es": "No está permitido introducir ese objeto. (personal)",
-      "translations": {
-        "en": "That item is not allowed inside.",
-        "pt": "Não é permitido entrar com esse objeto.",
-        "fr": "Cet objet n'est pas autorisé à l'intérieur.",
-        "it": "Non è consentito introdurre quell'oggetto."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_152",
-      "es": "Tiene que pasar por el control de seguridad. (personal)",
-      "translations": {
-        "en": "You have to go through security screening.",
-        "pt": "Você precisa passar pela inspeção de segurança.",
-        "fr": "Vous devez passer le contrôle de sécurité.",
-        "it": "Deve passare il controllo di sicurezza."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_153",
-      "es": "Los casilleros funcionan con monedas. (personal)",
-      "translations": {
-        "en": "The lockers are coin-operated.",
-        "pt": "Os armários funcionam com moedas.",
-        "fr": "Les casiers fonctionnent avec des pièces.",
-        "it": "Gli armadietti funzionano a monete."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_154",
-      "es": "Puede recoger sus pertenencias al terminar la visita. (personal)",
-      "translations": {
-        "en": "You can collect your belongings at the end of your visit.",
-        "pt": "Você pode retirar seus pertences ao terminar a visita.",
-        "fr": "Vous pouvez récupérer vos affaires à la fin de la visite.",
-        "it": "Può ritirare i suoi effetti personali al termine della visita."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_155",
-      "es": "No se permite tomar fotografías en esta sala. (personal)",
-      "translations": {
-        "en": "Photography is not allowed in this room.",
-        "pt": "Não é permitido tirar fotos nesta sala.",
-        "fr": "Il est interdit de prendre des photos dans cette salle.",
-        "it": "Non è consentito scattare fotografie in questa sala."
+        "fr": "Y a-t-il une confirmation de l'annulation pour que je puisse suivre ma demande ?",
+        "it": "C'è una conferma dell'annullamento per poter sapere a che punto è la mia richiesta?",
+        "de": "Gibt es eine Bestätigung der Absage, damit ich mich nach dem Stand meiner Anfrage erkundigen kann?"
       },
       "image_url": ""
     }
