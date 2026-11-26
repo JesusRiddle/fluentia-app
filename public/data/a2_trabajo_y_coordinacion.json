@@ -1,60 +1,245 @@
 {
   "module": "Trabajo y coordinación cotidiana",
   "level": "A2",
-  "revisado": false,
+  "revisado": true,
   "cards": [
     {
       "id": "tcc_001",
-      "es": "Trabajo y coordinación cotidiana",
+      "es": "El trabajo y la coordinación cotidiana",
       "translations": {
         "en": "Work and everyday coordination",
-        "pt": "Trabalho e coordenação no dia a dia",
-        "fr": "Travail et coordination au quotidien",
-        "it": "Lavoro e coordinamento quotidiano"
+        "pt": "O trabalho e a coordenação no dia a dia",
+        "fr": "Le travail et la coordination au quotidien",
+        "it": "Il lavoro e il coordinamento quotidiano",
+        "de": "Die Arbeit und die Abstimmung im Alltag"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "A shared calendar makes work and everyday coordination easier.",
+          "es": "Un calendario compartido facilita el trabajo y la coordinación cotidiana."
+        },
+        "pt": {
+          "text": "Um calendário compartilhado facilita o trabalho e a coordenação no dia a dia.",
+          "es": "Un calendario compartido facilita el trabajo y la coordinación cotidiana."
+        },
+        "fr": {
+          "text": "Un calendrier partagé facilite le travail et la coordination au quotidien.",
+          "es": "Un calendario compartido facilita el trabajo y la coordinación cotidiana."
+        },
+        "it": {
+          "text": "Un calendario condiviso facilita il lavoro e il coordinamento quotidiano.",
+          "es": "Un calendario compartido facilita el trabajo y la coordinación cotidiana."
+        },
+        "de": {
+          "text": "Ein gemeinsamer Kalender erleichtert die Arbeit und die Abstimmung im Alltag.",
+          "es": "Un calendario compartido facilita el trabajo y la coordinación cotidiana."
+        }
+      }
     },
     {
       "id": "tcc_002",
-      "es": "Carga de trabajo",
+      "es": "La carga de trabajo",
       "translations": {
-        "en": "Workload",
-        "pt": "Carga de trabalho",
-        "fr": "Charge de travail",
-        "it": "Carico di lavoro"
+        "en": "The workload",
+        "pt": "A carga de trabalho",
+        "fr": "La charge de travail",
+        "it": "Il carico di lavoro",
+        "de": "Die Arbeitsbelastung"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The workloads)",
+        "pt": "(Plural: As cargas de trabalho)",
+        "fr": "(Plural: Les charges de travail)",
+        "it": "(Plural: I carichi di lavoro)",
+        "de": "(Plural: Die Arbeitsbelastungen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The workload increased this week.",
+          "es": "La carga de trabajo aumentó esta semana."
+        },
+        "pt": {
+          "text": "A carga de trabalho aumentou nesta semana.",
+          "es": "La carga de trabajo aumentó esta semana."
+        },
+        "fr": {
+          "text": "La charge de travail a augmenté cette semaine.",
+          "es": "La carga de trabajo aumentó esta semana."
+        },
+        "it": {
+          "text": "Il carico di lavoro è aumentato questa settimana.",
+          "es": "La carga de trabajo aumentó esta semana."
+        },
+        "de": {
+          "text": "Die Arbeitsbelastung ist diese Woche gestiegen.",
+          "es": "La carga de trabajo aumentó esta semana."
+        }
+      }
     },
     {
       "id": "tcc_003",
-      "es": "Pendiente / En curso / Terminado (estado de una tarea)",
+      "es": "Pendiente",
       "translations": {
-        "en": "Pending / In progress / Completed",
-        "pt": "Pendente / Em andamento / Concluído",
-        "fr": "En attente / En cours / Terminé",
-        "it": "In attesa / In corso / Completato"
+        "en": "Pending",
+        "pt": "Pendente",
+        "fr": "En attente",
+        "it": "In sospeso",
+        "de": "Offen"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Estado de una tarea que aún falta hacer."
+      },
+      "examples": {
+        "en": {
+          "text": "The review is still pending because two pieces of information are missing.",
+          "es": "La revisión sigue pendiente porque faltan dos datos."
+        },
+        "pt": {
+          "text": "A revisão ainda está pendente porque faltam duas informações.",
+          "es": "La revisión sigue pendiente porque faltan dos datos."
+        },
+        "fr": {
+          "text": "La vérification est toujours en attente parce qu'il manque deux informations.",
+          "es": "La revisión sigue pendiente porque faltan dos datos."
+        },
+        "it": {
+          "text": "La verifica è ancora in sospeso perché mancano due dati.",
+          "es": "La revisión sigue pendiente porque faltan dos datos."
+        },
+        "de": {
+          "text": "Die Prüfung ist noch offen, weil zwei Angaben fehlen.",
+          "es": "La revisión sigue pendiente porque faltan dos datos."
+        }
+      }
+    },
+    {
+      "id": "tcc_097",
+      "es": "En curso",
+      "translations": {
+        "en": "In progress",
+        "pt": "Em andamento",
+        "fr": "En cours",
+        "it": "In corso",
+        "de": "In Bearbeitung"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Estado de una tarea que ya empezó y aún no termina."
+      },
+      "examples": {
+        "en": {
+          "text": "The review is in progress. I'll let you know when it's finished.",
+          "es": "La revisión está en curso. Te aviso cuando termine."
+        },
+        "pt": {
+          "text": "A revisão está em andamento. Aviso você quando terminar.",
+          "es": "La revisión está en curso. Te aviso cuando termine."
+        },
+        "fr": {
+          "text": "La vérification est en cours. Je te préviens quand elle est terminée.",
+          "es": "La revisión está en curso. Te aviso cuando termine."
+        },
+        "it": {
+          "text": "La verifica è in corso. Ti avviso quando è finita.",
+          "es": "La revisión está en curso. Te aviso cuando termine."
+        },
+        "de": {
+          "text": "Die Prüfung ist in Bearbeitung. Ich sage dir Bescheid, wenn sie fertig ist.",
+          "es": "La revisión está en curso. Te aviso cuando termine."
+        }
+      }
+    },
+    {
+      "id": "tcc_098",
+      "es": "Terminado / Terminada",
+      "translations": {
+        "en": "Completed",
+        "pt": "Concluído / Concluída",
+        "fr": "Terminé / Terminée",
+        "it": "Completato / Completata",
+        "de": "Erledigt"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Estado de una tarea que ya se completó."
+      },
+      "examples": {
+        "en": {
+          "text": "The review is completed. We can send the document now.",
+          "es": "La revisión está terminada. Ya podemos enviar el documento."
+        },
+        "pt": {
+          "text": "A revisão está concluída. Já podemos enviar o documento.",
+          "es": "La revisión está terminada. Ya podemos enviar el documento."
+        },
+        "fr": {
+          "text": "La vérification est terminée. On peut maintenant envoyer le document.",
+          "es": "La revisión está terminada. Ya podemos enviar el documento."
+        },
+        "it": {
+          "text": "La verifica è completata. Ora possiamo inviare il documento.",
+          "es": "La revisión está terminada. Ya podemos enviar el documento."
+        },
+        "de": {
+          "text": "Die Prüfung ist erledigt. Wir können das Dokument jetzt abschicken.",
+          "es": "La revisión está terminada. Ya podemos enviar el documento."
+        }
+      }
     },
     {
       "id": "tcc_004",
-      "es": "Relevo de turno (pasar la información al siguiente compañero)",
+      "es": "El relevo de turno",
       "translations": {
-        "en": "Shift handover",
-        "pt": "Passagem de turno",
-        "fr": "Passation de consignes entre équipes",
-        "it": "Passaggio di consegne tra turni"
+        "en": "The shift handover",
+        "pt": "A passagem de turno",
+        "fr": "La passation de consignes",
+        "it": "Il passaggio di consegne",
+        "de": "Die Schichtübergabe"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "En esta tarjeta, es el momento en que se pasa la información al equipo del turno siguiente.",
+        "en": "(Plural: The shift handovers)",
+        "pt": "(Plural: As passagens de turno)",
+        "fr": "(Plural: Les passations de consignes)",
+        "it": "(Plural: I passaggi di consegne)",
+        "de": "(Plural: Die Schichtübergaben)"
+      },
+      "examples": {
+        "en": {
+          "text": "During the shift handover, we write down the orders that are still pending.",
+          "es": "Durante el relevo de turno, anotamos los pedidos que quedan pendientes."
+        },
+        "pt": {
+          "text": "Durante a passagem de turno, anotamos os pedidos que ainda estão pendentes.",
+          "es": "Durante el relevo de turno, anotamos los pedidos que quedan pendientes."
+        },
+        "fr": {
+          "text": "Pendant la passation de consignes, on note les commandes encore en attente.",
+          "es": "Durante el relevo de turno, anotamos los pedidos que quedan pendientes."
+        },
+        "it": {
+          "text": "Durante il passaggio di consegne annotiamo gli ordini ancora in sospeso.",
+          "es": "Durante el relevo de turno, anotamos los pedidos que quedan pendientes."
+        },
+        "de": {
+          "text": "Bei der Schichtübergabe notieren wir, welche Bestellungen noch offen sind.",
+          "es": "Durante el relevo de turno, anotamos los pedidos que quedan pendientes."
+        }
+      }
     },
     {
       "id": "tcc_005",
       "es": "Me encargo de revisar los pedidos antes de enviarlos.",
       "translations": {
-        "en": "I’m responsible for checking orders before they’re sent out.",
+        "en": "I'm responsible for checking orders before they're sent out.",
         "pt": "Sou responsável por conferir os pedidos antes do envio.",
-        "fr": "Je m’occupe de vérifier les commandes avant leur envoi.",
-        "it": "Mi occupo di controllare gli ordini prima della spedizione."
+        "fr": "Je m'occupe de vérifier les commandes avant leur envoi.",
+        "it": "Mi occupo di controllare gli ordini prima della spedizione.",
+        "de": "Ich bin dafür zuständig, die Bestellungen vor dem Versand zu prüfen."
       },
       "image_url": ""
     },
@@ -64,19 +249,21 @@
       "translations": {
         "en": "My job is to help customers and answer their questions.",
         "pt": "Meu trabalho consiste em atender os clientes e tirar dúvidas.",
-        "fr": "Mon travail consiste à accueillir les clients et à répondre à leurs questions.",
-        "it": "Il mio lavoro consiste nell’assistere i clienti e rispondere alle loro domande."
+        "fr": "Mon travail consiste à aider les clients et à répondre à leurs questions.",
+        "it": "Il mio lavoro è assistere i clienti e rispondere alle loro domande.",
+        "de": "Meine Aufgabe ist es, Kunden zu betreuen und ihre Fragen zu beantworten."
       },
       "image_url": ""
     },
     {
       "id": "tcc_007",
-      "es": "Trabajo con otro equipo, pero compartimos algunas tareas.",
+      "es": "Trabajo en otro equipo, pero compartimos algunas tareas.",
       "translations": {
-        "en": "I work with another team, but we share some tasks.",
-        "pt": "Trabalho com outra equipe, mas compartilhamos algumas tarefas.",
-        "fr": "Je travaille avec une autre équipe, mais nous partageons certaines tâches.",
-        "it": "Lavoro con un altro gruppo, ma condividiamo alcuni compiti."
+        "en": "I work on a different team, but we share some tasks.",
+        "pt": "Faço parte de outra equipe, mas compartilhamos algumas tarefas.",
+        "fr": "Je fais partie d'une autre équipe, mais nous partageons certaines tâches.",
+        "it": "Faccio parte di un altro team, ma ci dividiamo alcuni compiti.",
+        "de": "Ich arbeite in einem anderen Team, aber wir teilen uns einige Aufgaben."
       },
       "image_url": ""
     },
@@ -84,21 +271,23 @@
       "id": "tcc_008",
       "es": "Hoy estoy apoyando a un compañero que tiene mucho trabajo.",
       "translations": {
-        "en": "Today I’m helping a coworker who has a lot of work.",
+        "en": "Today I'm helping a coworker who has a lot to do.",
         "pt": "Hoje estou ajudando um colega que está com muito trabalho.",
-        "fr": "Aujourd’hui, j’aide un collègue qui a beaucoup de travail.",
-        "it": "Oggi sto aiutando un collega che ha molto lavoro."
+        "fr": "Aujourd'hui, j'aide un collègue qui a beaucoup de travail.",
+        "it": "Oggi sto aiutando un collega che ha molto lavoro.",
+        "de": "Heute helfe ich einem Kollegen, der viel zu tun hat."
       },
       "image_url": ""
     },
     {
       "id": "tcc_009",
-      "es": "Estoy aprendiendo esta tarea; todavía necesito que alguien la revise.",
+      "es": "Estoy aprendiendo a hacer esta tarea; todavía necesito que alguien revise mi trabajo.",
       "translations": {
-        "en": "I’m learning this task. I still need someone to check my work.",
-        "pt": "Estou aprendendo esta tarefa; ainda preciso que alguém confira meu trabalho.",
-        "fr": "J’apprends à faire cette tâche ; j’ai encore besoin que quelqu’un vérifie mon travail.",
-        "it": "Sto imparando a svolgere questo compito; ho ancora bisogno che qualcuno controlli il mio lavoro."
+        "en": "I'm learning how to do this task. I still need someone to check my work.",
+        "pt": "Ainda estou aprendendo a fazer esta tarefa e preciso que alguém confira meu trabalho.",
+        "fr": "J'apprends à faire cette tâche ; j'ai encore besoin que quelqu'un vérifie mon travail.",
+        "it": "Sto imparando a svolgere questo compito; ho ancora bisogno che qualcuno controlli il mio lavoro.",
+        "de": "Ich lerne gerade, wie man diese Aufgabe erledigt. Jemand muss meine Arbeit noch prüfen."
       },
       "image_url": ""
     },
@@ -106,10 +295,11 @@
       "id": "tcc_010",
       "es": "¿Quién es responsable de esta parte?",
       "translations": {
-        "en": "Who’s responsible for this part?",
+        "en": "Who's responsible for this part?",
         "pt": "Quem é responsável por esta parte?",
         "fr": "Qui est responsable de cette partie ?",
-        "it": "Chi è responsabile di questa parte?"
+        "it": "Chi è responsabile di questa parte?",
+        "de": "Wer ist für diesen Teil zuständig?"
       },
       "image_url": ""
     },
@@ -117,10 +307,11 @@
       "id": "tcc_011",
       "es": "¿Con quién debo revisar el resultado antes de enviarlo?",
       "translations": {
-        "en": "Who should I review the result with before sending it?",
-        "pt": "Com quem devo revisar o resultado antes de enviar?",
-        "fr": "Avec qui dois-je vérifier le résultat avant de l’envoyer ?",
-        "it": "Con chi devo controllare il risultato prima di inviarlo?"
+        "en": "Who should I go over the result with before I send it?",
+        "pt": "Com quem devo conferir o resultado antes de enviá-lo?",
+        "fr": "Avec qui dois-je vérifier le résultat avant de l'envoyer ?",
+        "it": "Con chi devo controllare il risultato prima di inviarlo?",
+        "de": "Mit wem soll ich das Ergebnis prüfen, bevor ich es abschicke?"
       },
       "image_url": ""
     },
@@ -130,8 +321,9 @@
       "translations": {
         "en": "Do I need approval to make that change?",
         "pt": "Preciso de autorização para fazer essa alteração?",
-        "fr": "J’ai besoin d’une autorisation pour faire ce changement ?",
-        "it": "Mi serve un’autorizzazione per fare questa modifica?"
+        "fr": "J'ai besoin d'une autorisation pour faire ce changement ?",
+        "it": "Mi serve un'autorizzazione per fare questa modifica?",
+        "de": "Brauche ich eine Genehmigung für diese Änderung?"
       },
       "image_url": ""
     },
@@ -140,9 +332,10 @@
       "es": "Eso lo lleva otro equipo; puedo ponerte en contacto con ellos.",
       "translations": {
         "en": "Another team handles that. I can put you in touch with them.",
-        "pt": "Outra equipe cuida disso; posso colocar você em contato com eles.",
-        "fr": "C’est une autre équipe qui s’en occupe ; je peux te mettre en contact avec eux.",
-        "it": "Se ne occupa un altro gruppo; posso metterti in contatto con loro."
+        "pt": "Outra equipe cuida disso; posso colocar você em contato com o pessoal de lá.",
+        "fr": "C'est une autre équipe qui s'en occupe ; je peux te mettre en contact avec eux.",
+        "it": "Se ne occupa un altro team; posso metterti in contatto con loro.",
+        "de": "Dafür ist ein anderes Team zuständig. Ich kann dich mit dem Team in Kontakt bringen."
       },
       "image_url": ""
     },
@@ -150,10 +343,11 @@
       "id": "tcc_014",
       "es": "Esta tarea no está asignada; ¿quién puede hacerse cargo?",
       "translations": {
-        "en": "This task hasn’t been assigned. Who can take it on?",
+        "en": "This task hasn't been assigned. Who can take it on?",
         "pt": "Esta tarefa não foi atribuída; quem pode assumir?",
-        "fr": "Cette tâche n’est attribuée à personne ; qui peut s’en charger ?",
-        "it": "Questo compito non è stato assegnato; chi può occuparsene?"
+        "fr": "Cette tâche n'est attribuée à personne ; qui peut s'en charger ?",
+        "it": "Questo compito non è stato assegnato; chi può occuparsene?",
+        "de": "Diese Aufgabe ist noch nicht vergeben. Wer kann sie übernehmen?"
       },
       "image_url": ""
     },
@@ -163,8 +357,9 @@
       "translations": {
         "en": "I cover the front desk during my shift. Ana takes over after me.",
         "pt": "Durante meu turno fico na recepção; depois a Ana me substitui.",
-        "fr": "Pendant mon service, je m’occupe de l’accueil ; ensuite, Ana prend le relais.",
-        "it": "Durante il mio turno mi occupo della reception; poi mi sostituisce Ana."
+        "fr": "Pendant mon service, je m'occupe de l'accueil ; ensuite, Ana prend le relais.",
+        "it": "Durante il mio turno mi occupo della reception; poi mi sostituisce Ana.",
+        "de": "Während meiner Schicht bin ich am Empfang. Danach übernimmt Ana."
       },
       "image_url": ""
     },
@@ -172,10 +367,11 @@
       "id": "tcc_016",
       "es": "¿Dónde puedo consultar el horario de turnos de esta semana?",
       "translations": {
-        "en": "Where can I check this week’s shift schedule?",
-        "pt": "Onde posso consultar a escala de trabalho desta semana?",
-        "fr": "Où puis-je consulter le planning des équipes de cette semaine ?",
-        "it": "Dove posso consultare l’orario dei turni di questa settimana?"
+        "en": "Where can I check this week's shift schedule?",
+        "pt": "Onde posso consultar a escala de turnos desta semana?",
+        "fr": "Où puis-je consulter le planning des services de cette semaine ?",
+        "it": "Dove posso consultare l'orario dei turni di questa settimana?",
+        "de": "Wo finde ich den Schichtplan für diese Woche?"
       },
       "image_url": ""
     },
@@ -183,10 +379,11 @@
       "id": "tcc_017",
       "es": "¿Puedes cubrir mi turno el viernes? Yo cubro el tuyo el lunes.",
       "translations": {
-        "en": "Can you cover my shift on Friday? I’ll cover yours on Monday.",
+        "en": "Can you cover my shift on Friday? I'll cover yours on Monday.",
         "pt": "Você pode cobrir meu turno na sexta-feira? Eu cubro o seu na segunda.",
-        "fr": "Tu peux prendre mon service vendredi ? Je prends le tien lundi.",
-        "it": "Puoi coprire il mio turno venerdì? Io copro il tuo lunedì."
+        "fr": "Tu peux prendre mon service vendredi ? Je prendrai le tien lundi.",
+        "it": "Puoi coprire il mio turno venerdì? Io coprirò il tuo lunedì.",
+        "de": "Kannst du meine Schicht am Freitag übernehmen? Ich übernehme deine am Montag."
       },
       "image_url": ""
     },
@@ -194,10 +391,11 @@
       "id": "tcc_018",
       "es": "Antes de cambiar el turno, hay que avisar al encargado.",
       "translations": {
-        "en": "Before changing shifts, we need to let the supervisor know.",
+        "en": "Before swapping shifts, we need to let the supervisor know.",
         "pt": "Antes de trocar o turno, precisamos avisar o responsável.",
-        "fr": "Avant d’échanger nos services, il faut prévenir le responsable.",
-        "it": "Prima di scambiare il turno, bisogna avvisare il responsabile."
+        "fr": "Avant d'échanger un service, il faut prévenir le responsable.",
+        "it": "Prima di scambiare il turno, bisogna avvisare il responsabile.",
+        "de": "Wenn man seine Schicht tauschen will, muss man vorher der zuständigen Person Bescheid geben."
       },
       "image_url": ""
     },
@@ -208,29 +406,32 @@
         "en": "Can I start earlier and leave earlier that day?",
         "pt": "Posso entrar mais cedo e sair mais cedo nesse dia?",
         "fr": "Je peux commencer plus tôt et partir plus tôt ce jour-là ?",
-        "it": "Posso iniziare prima e uscire prima quel giorno?"
+        "it": "Posso iniziare prima e uscire prima quel giorno?",
+        "de": "Kann ich an dem Tag früher anfangen und früher gehen?"
       },
       "image_url": ""
     },
     {
       "id": "tcc_020",
-      "es": "Necesito ausentarme dos horas; ¿cómo organizamos la cobertura?",
+      "es": "Necesito ausentarme dos horas; ¿cómo hacemos para que alguien me cubra?",
       "translations": {
         "en": "I need to be away for two hours. How should we arrange coverage?",
-        "pt": "Preciso me ausentar por duas horas; como organizamos a cobertura?",
-        "fr": "Je dois m’absenter deux heures ; comment organise-t-on mon remplacement ?",
-        "it": "Devo assentarmi per due ore; come organizziamo la sostituzione?"
+        "pt": "Preciso me ausentar por duas horas; como vamos organizar a minha substituição?",
+        "fr": "Je dois m'absenter deux heures ; comment organise-t-on mon remplacement ?",
+        "it": "Devo assentarmi per due ore; come organizziamo la sostituzione?",
+        "de": "Ich muss zwei Stunden weg. Wie regeln wir meine Vertretung?"
       },
       "image_url": ""
     },
     {
       "id": "tcc_021",
-      "es": "Mañana no estaré; dejaré las tareas pendientes por escrito.",
+      "es": "Mañana no estaré; dejaré por escrito la lista de tareas pendientes.",
       "translations": {
-        "en": "I won’t be here tomorrow. I’ll leave a written list of pending tasks.",
-        "pt": "Amanhã não estarei aqui; vou deixar as tarefas pendentes por escrito.",
-        "fr": "Je ne serai pas là demain ; je laisserai les tâches en attente par écrit.",
-        "it": "Domani non ci sarò; lascerò per iscritto i compiti in sospeso."
+        "en": "I won't be here tomorrow. I'll leave a written list of pending tasks.",
+        "pt": "Amanhã não estarei aqui; vou deixar uma lista das tarefas pendentes.",
+        "fr": "Je ne serai pas là demain ; je laisserai une liste des tâches en attente.",
+        "it": "Domani non ci sarò; lascerò un elenco dei compiti in sospeso.",
+        "de": "Morgen bin ich nicht da. Ich schreibe auf, welche Aufgaben noch offen sind."
       },
       "image_url": ""
     },
@@ -238,10 +439,11 @@
       "id": "tcc_022",
       "es": "¿A quién debo avisar si no puedo venir a trabajar?",
       "translations": {
-        "en": "Who should I notify if I can’t come to work?",
+        "en": "Who should I notify if I can't come to work?",
         "pt": "Quem devo avisar se não puder ir trabalhar?",
         "fr": "Qui dois-je prévenir si je ne peux pas venir travailler ?",
-        "it": "Chi devo avvisare se non posso venire al lavoro?"
+        "it": "Chi devo avvisare se non posso venire al lavoro?",
+        "de": "Wem muss ich Bescheid geben, wenn ich nicht zur Arbeit kommen kann?"
       },
       "image_url": ""
     },
@@ -249,10 +451,11 @@
       "id": "tcc_023",
       "es": "Hoy trabajo desde casa; puedes contactarme por mensaje.",
       "translations": {
-        "en": "I’m working from home today. You can reach me by message.",
+        "en": "I'm working from home today. You can send me a message.",
         "pt": "Hoje trabalho de casa; pode falar comigo por mensagem.",
-        "fr": "Aujourd’hui, je travaille de chez moi ; tu peux me joindre par message.",
-        "it": "Oggi lavoro da casa; puoi contattarmi per messaggio."
+        "fr": "Aujourd'hui, je travaille de chez moi ; tu peux me joindre par message.",
+        "it": "Oggi lavoro da casa; puoi contattarmi per messaggio.",
+        "de": "Ich arbeite heute von zu Hause aus. Du kannst mir eine Nachricht schreiben."
       },
       "image_url": ""
     },
@@ -260,10 +463,11 @@
       "id": "tcc_024",
       "es": "Estaré sin conexión durante la pausa; respondo al volver.",
       "translations": {
-        "en": "I’ll be offline during my break. I’ll reply when I’m back.",
+        "en": "I'll be offline during my break. I'll reply when I'm back.",
         "pt": "Vou ficar off-line durante a pausa; respondo quando voltar.",
         "fr": "Je serai hors ligne pendant ma pause ; je répondrai à mon retour.",
-        "it": "Sarò offline durante la pausa; rispondo quando torno."
+        "it": "Sarò offline durante la pausa; rispondo quando torno.",
+        "de": "In der Pause bin ich offline. Ich antworte, wenn ich wieder da bin."
       },
       "image_url": ""
     },
@@ -274,7 +478,8 @@
         "en": "Both tasks have the same deadline. Which one takes priority?",
         "pt": "As duas tarefas têm o mesmo prazo; qual tem prioridade?",
         "fr": "Les deux tâches ont la même échéance ; laquelle est prioritaire ?",
-        "it": "I due compiti hanno la stessa scadenza; quale ha la priorità?"
+        "it": "I due compiti hanno la stessa scadenza; quale ha la priorità?",
+        "de": "Beide Aufgaben haben dieselbe Frist. Welche hat Vorrang?"
       },
       "image_url": ""
     },
@@ -284,8 +489,9 @@
       "translations": {
         "en": "Is this urgent, or can it wait until tomorrow?",
         "pt": "Isso é urgente ou pode esperar até amanhã?",
-        "fr": "C’est urgent ou ça peut attendre demain ?",
-        "it": "È urgente o può aspettare fino a domani?"
+        "fr": "C'est urgent ou ça peut attendre demain ?",
+        "it": "È urgente o può aspettare fino a domani?",
+        "de": "Ist das dringend oder kann es bis morgen warten?"
       },
       "image_url": ""
     },
@@ -293,10 +499,11 @@
       "id": "tcc_027",
       "es": "Puedo encargarme de eso después de terminar lo que estoy haciendo.",
       "translations": {
-        "en": "I can take care of that after I finish what I’m doing.",
+        "en": "I can take care of that after I finish what I'm doing.",
         "pt": "Posso cuidar disso depois de terminar o que estou fazendo.",
-        "fr": "Je peux m’en occuper après avoir terminé ce que je fais.",
-        "it": "Posso occuparmene dopo aver finito quello che sto facendo."
+        "fr": "Je peux m'en occuper après avoir terminé ce que je fais.",
+        "it": "Posso occuparmene dopo aver finito quello che sto facendo.",
+        "de": "Ich kann das übernehmen, sobald ich mit meiner aktuellen Aufgabe fertig bin."
       },
       "image_url": ""
     },
@@ -304,10 +511,11 @@
       "id": "tcc_028",
       "es": "Si esta tarea va primero, terminaremos la otra más tarde.",
       "translations": {
-        "en": "If this task comes first, we’ll finish the other one later.",
-        "pt": "Se esta tarefa vier primeiro, vamos terminar a outra mais tarde.",
-        "fr": "Si cette tâche passe en premier, on terminera l’autre plus tard.",
-        "it": "Se questo compito viene prima, finiremo l’altro più tardi."
+        "en": "If we do this task first, we'll finish the other one later.",
+        "pt": "Se fizermos esta tarefa primeiro, vamos terminar a outra mais tarde.",
+        "fr": "Si cette tâche passe en premier, on terminera l'autre plus tard.",
+        "it": "Se facciamo prima questo compito, finiremo l'altro più tardi.",
+        "de": "Wenn diese Aufgabe zuerst dran ist, machen wir die andere später fertig."
       },
       "image_url": ""
     },
@@ -315,10 +523,11 @@
       "id": "tcc_029",
       "es": "Tengo tres tareas en curso; no puedo empezar otra hoy.",
       "translations": {
-        "en": "I have three tasks in progress. I can’t start another one today.",
+        "en": "I have three tasks in progress. I can't start another one today.",
         "pt": "Tenho três tarefas em andamento; não posso começar outra hoje.",
-        "fr": "J’ai trois tâches en cours ; je ne peux pas en commencer une autre aujourd’hui.",
-        "it": "Ho tre compiti in corso; oggi non posso iniziarne un altro."
+        "fr": "J'ai trois tâches en cours ; je ne peux pas en commencer une autre aujourd'hui.",
+        "it": "Ho tre compiti in corso; oggi non posso iniziarne un altro.",
+        "de": "Ich arbeite schon an drei Aufgaben. Heute kann ich keine weitere anfangen."
       },
       "image_url": ""
     },
@@ -329,7 +538,8 @@
         "en": "Can we distribute the workload more evenly?",
         "pt": "Podemos distribuir a carga de trabalho de forma mais equilibrada?",
         "fr": "On peut répartir la charge de travail de façon plus équilibrée ?",
-        "it": "Possiamo distribuire il carico di lavoro in modo più equilibrato?"
+        "it": "Possiamo distribuire il carico di lavoro in modo più equilibrato?",
+        "de": "Können wir die Arbeit gleichmäßiger verteilen?"
       },
       "image_url": ""
     },
@@ -340,7 +550,8 @@
         "en": "What result do you expect, and when do you need it?",
         "pt": "Qual resultado você espera e para quando precisa?",
         "fr": "Quel résultat attends-tu, et pour quand en as-tu besoin ?",
-        "it": "Quale risultato ti aspetti e per quando ti serve?"
+        "it": "Quale risultato ti aspetti e per quando ti serve?",
+        "de": "Welches Ergebnis erwartest du und bis wann brauchst du es?"
       },
       "image_url": ""
     },
@@ -350,8 +561,9 @@
       "translations": {
         "en": "Do you need a first version or the finished work?",
         "pt": "Você precisa de uma primeira versão ou do trabalho concluído?",
-        "fr": "Tu as besoin d’une première version ou du travail terminé ?",
-        "it": "Ti serve una prima versione o il lavoro finito?"
+        "fr": "Tu as besoin d'une première version ou du travail terminé ?",
+        "it": "Ti serve una prima versione o il lavoro finito?",
+        "de": "Brauchst du eine erste Fassung oder schon die fertige Arbeit?"
       },
       "image_url": ""
     },
@@ -361,8 +573,9 @@
       "translations": {
         "en": "I need to know what this task includes.",
         "pt": "Preciso saber o que está incluído nesta tarefa.",
-        "fr": "J’ai besoin de savoir ce qui est compris dans cette tâche.",
-        "it": "Ho bisogno di sapere che cosa è incluso in questo compito."
+        "fr": "J'ai besoin de savoir ce qui est compris dans cette tâche.",
+        "it": "Ho bisogno di sapere che cosa è incluso in questo compito.",
+        "de": "Ich muss wissen, was zu dieser Aufgabe gehört."
       },
       "image_url": ""
     },
@@ -372,8 +585,9 @@
       "translations": {
         "en": "Is this part my responsibility too, or is someone else doing it?",
         "pt": "Esta parte também é minha responsabilidade ou outra pessoa vai fazer?",
-        "fr": "Cette partie me revient aussi ou quelqu’un d’autre s’en occupe ?",
-        "it": "Anche questa parte spetta a me o la fa un’altra persona?"
+        "fr": "Cette partie me revient aussi ou quelqu'un d'autre s'en occupe ?",
+        "it": "Anche questa parte spetta a me o la fa un'altra persona?",
+        "de": "Bin ich auch für diesen Teil zuständig oder macht das jemand anderes?"
       },
       "image_url": ""
     },
@@ -383,8 +597,9 @@
       "translations": {
         "en": "I need the missing information before I can start.",
         "pt": "Preciso das informações que faltam antes de começar.",
-        "fr": "J’ai besoin des informations manquantes avant de commencer.",
-        "it": "Ho bisogno delle informazioni mancanti prima di iniziare."
+        "fr": "J'ai besoin des informations manquantes avant de commencer.",
+        "it": "Ho bisogno delle informazioni mancanti prima di iniziare.",
+        "de": "Ich brauche die fehlenden Informationen, bevor ich anfangen kann."
       },
       "image_url": ""
     },
@@ -392,21 +607,23 @@
       "id": "tcc_036",
       "es": "¿Podemos acordar una entrega parcial para hoy y el resto para mañana?",
       "translations": {
-        "en": "Can we agree to deliver part today and the rest tomorrow?",
+        "en": "Can we agree to turn in part of it today and the rest tomorrow?",
         "pt": "Podemos combinar uma entrega parcial para hoje e o restante para amanhã?",
-        "fr": "On peut convenir de livrer une partie aujourd’hui et le reste demain ?",
-        "it": "Possiamo concordare una consegna parziale per oggi e il resto per domani?"
+        "fr": "On peut convenir de livrer une partie aujourd'hui et le reste demain ?",
+        "it": "Possiamo concordare una consegna parziale per oggi e il resto per domani?",
+        "de": "Können wir vereinbaren, dass wir einen Teil heute abgeben und den Rest morgen?"
       },
       "image_url": ""
     },
     {
       "id": "tcc_037",
-      "es": "Calculo que necesito dos horas, si no hay cambios.",
+      "es": "Calculo que necesitaré dos horas si no hay cambios.",
       "translations": {
-        "en": "I estimate I’ll need two hours, if there are no changes.",
-        "pt": "Calculo que preciso de duas horas, se não houver alterações.",
-        "fr": "Je pense qu’il me faut deux heures, s’il n’y a pas de changements.",
-        "it": "Calcolo che mi servano due ore, se non ci sono modifiche."
+        "en": "I think I'll need two hours if nothing changes.",
+        "pt": "Calculo que vou precisar de duas horas se não houver alterações.",
+        "fr": "Je pense qu'il me faudra deux heures si rien ne change.",
+        "it": "Penso che mi serviranno due ore se non ci sono modifiche.",
+        "de": "Ich rechne mit zwei Stunden, wenn sich nichts ändert."
       },
       "image_url": ""
     },
@@ -414,10 +631,11 @@
       "id": "tcc_038",
       "es": "Todavía no puedo dar una hora exacta; primero necesito revisar la tarea.",
       "translations": {
-        "en": "I can’t give an exact time yet. I need to review the task first.",
+        "en": "I can't give an exact time yet. I need to review the task first.",
         "pt": "Ainda não posso dar um horário exato; primeiro preciso analisar a tarefa.",
-        "fr": "Je ne peux pas encore donner une heure précise ; je dois d’abord examiner la tâche.",
-        "it": "Non posso ancora dare un orario preciso; prima devo esaminare il compito."
+        "fr": "Je ne peux pas encore donner une heure précise ; je dois d'abord examiner la tâche.",
+        "it": "Non posso ancora dare un orario preciso; prima devo esaminare il compito.",
+        "de": "Ich kann noch keine genaue Uhrzeit nennen. Ich muss mir die Aufgabe erst ansehen."
       },
       "image_url": ""
     },
@@ -428,7 +646,8 @@
         "en": "Is there room to change the date if a problem comes up?",
         "pt": "Há margem para mudar a data se surgir um problema?",
         "fr": "On peut modifier la date si un problème survient ?",
-        "it": "C’è margine per cambiare la data se si presenta un problema?"
+        "it": "C'è margine per cambiare la data se si presenta un problema?",
+        "de": "Können wir den Termin verschieben, wenn ein Problem auftritt?"
       },
       "image_url": ""
     },
@@ -436,10 +655,11 @@
       "id": "tcc_040",
       "es": "¿Cuándo revisamos el avance antes de la entrega final?",
       "translations": {
-        "en": "When should we check progress before the final delivery?",
+        "en": "When should we check our progress before we submit the final version?",
         "pt": "Quando vamos conferir o andamento antes da entrega final?",
-        "fr": "Quand fait-on le point avant la livraison finale ?",
-        "it": "Quando controlliamo i progressi prima della consegna finale?"
+        "fr": "Quand fait-on le point sur l'avancement avant de rendre le travail ?",
+        "it": "Quando controlliamo i progressi prima della consegna finale?",
+        "de": "Wann schauen wir uns den Fortschritt an, bevor wir alles abgeben?"
       },
       "image_url": ""
     },
@@ -449,8 +669,9 @@
       "translations": {
         "en": "To move forward, I need someone to show me this step.",
         "pt": "Para avançar, preciso que alguém me mostre este passo.",
-        "fr": "Pour avancer, j’ai besoin que quelqu’un me montre cette étape.",
-        "it": "Per andare avanti, ho bisogno che qualcuno mi mostri questo passaggio."
+        "fr": "Pour avancer, j'ai besoin que quelqu'un me montre cette étape.",
+        "it": "Per andare avanti, ho bisogno che qualcuno mi mostri questo passaggio.",
+        "de": "Damit ich weitermachen kann, muss mir jemand diesen Schritt zeigen."
       },
       "image_url": ""
     },
@@ -458,10 +679,11 @@
       "id": "tcc_042",
       "es": "Ya intenté hacerlo de esta manera, pero no obtuve el resultado esperado.",
       "translations": {
-        "en": "I already tried doing it this way, but I didn’t get the expected result.",
+        "en": "I already tried doing it this way, but I didn't get the expected result.",
         "pt": "Já tentei fazer desta forma, mas não obtive o resultado esperado.",
-        "fr": "J’ai déjà essayé de le faire comme ça, mais je n’ai pas obtenu le résultat attendu.",
-        "it": "Ho già provato a farlo così, ma non ho ottenuto il risultato previsto."
+        "fr": "J'ai déjà essayé de le faire comme ça, mais je n'ai pas obtenu le résultat attendu.",
+        "it": "Ho già provato a farlo così, ma non ho ottenuto il risultato previsto.",
+        "de": "Ich habe es schon so versucht, aber das Ergebnis war nicht wie erwartet."
       },
       "image_url": ""
     },
@@ -472,7 +694,8 @@
         "en": "Can you go over this point with me? Everything else is ready.",
         "pt": "Você pode revisar este ponto comigo? O restante já está pronto.",
         "fr": "Tu peux revoir ce point avec moi ? Le reste est déjà prêt.",
-        "it": "Puoi rivedere questo punto con me? Il resto è già pronto."
+        "it": "Puoi rivedere questo punto con me? Il resto è già pronto.",
+        "de": "Kannst du diesen Punkt mit mir durchgehen? Der Rest ist schon fertig."
       },
       "image_url": ""
     },
@@ -483,7 +706,8 @@
         "en": "Where can I find the current version of the instructions?",
         "pt": "Onde encontro a versão atual das instruções?",
         "fr": "Où est-ce que je trouve la version actuelle des consignes ?",
-        "it": "Dove trovo la versione attuale delle istruzioni?"
+        "it": "Dove trovo la versione attuale delle istruzioni?",
+        "de": "Wo finde ich die aktuelle Version der Anleitung?"
       },
       "image_url": ""
     },
@@ -493,8 +717,9 @@
       "translations": {
         "en": "Can you send me the missing information so I can continue?",
         "pt": "Você pode me enviar as informações que faltam para eu continuar?",
-        "fr": "Tu peux m’envoyer les informations manquantes pour que je continue ?",
-        "it": "Puoi mandarmi le informazioni mancanti per continuare?"
+        "fr": "Tu peux m'envoyer les informations manquantes pour que je continue ?",
+        "it": "Puoi mandarmi le informazioni che mi mancano per andare avanti?",
+        "de": "Kannst du mir die fehlenden Informationen schicken, damit ich weitermachen kann?"
       },
       "image_url": ""
     },
@@ -502,10 +727,11 @@
       "id": "tcc_046",
       "es": "Puedo ayudarte con la revisión, pero no hacer toda la tarea.",
       "translations": {
-        "en": "I can help you review it, but I can’t do the whole task.",
-        "pt": "Posso ajudar na revisão, mas não fazer a tarefa inteira.",
-        "fr": "Je peux t’aider à vérifier, mais pas faire toute la tâche.",
-        "it": "Posso aiutarti con la revisione, ma non fare tutto il compito."
+        "en": "I can help you review it, but I can't do the whole task.",
+        "pt": "Posso ajudar você com a revisão, mas não posso fazer a tarefa inteira.",
+        "fr": "Je peux t'aider à vérifier ton travail, mais je ne peux pas faire toute la tâche.",
+        "it": "Posso aiutarti con la revisione, ma non fare tutto il compito.",
+        "de": "Ich kann dir beim Prüfen helfen, aber nicht die ganze Aufgabe für dich erledigen."
       },
       "image_url": ""
     },
@@ -513,10 +739,11 @@
       "id": "tcc_047",
       "es": "Tengo quince minutos libres; veamos la parte que te está deteniendo.",
       "translations": {
-        "en": "I have fifteen minutes free. Let’s look at the part that’s holding you up.",
+        "en": "I have fifteen minutes free. Let's look at the part that's holding you up.",
         "pt": "Tenho quinze minutos livres; vamos ver a parte que está impedindo você de avançar.",
-        "fr": "J’ai quinze minutes de libre ; regardons la partie qui te bloque.",
-        "it": "Ho quindici minuti liberi; vediamo la parte che ti sta bloccando."
+        "fr": "J'ai quinze minutes de libre ; regardons la partie qui te bloque.",
+        "it": "Ho quindici minuti liberi; vediamo la parte che ti sta bloccando.",
+        "de": "Ich habe fünfzehn Minuten Zeit. Schauen wir uns an, wo du nicht weiterkommst."
       },
       "image_url": ""
     },
@@ -526,8 +753,9 @@
       "translations": {
         "en": "Can you leave me a completed example to use as a reference?",
         "pt": "Você pode me deixar um exemplo pronto para usar como referência?",
-        "fr": "Tu peux me laisser un exemple terminé comme modèle ?",
-        "it": "Puoi lasciarmi un esempio completato da usare come riferimento?"
+        "fr": "Tu peux me laisser un exemple déjà fait pour que je puisse suivre le modèle ?",
+        "it": "Puoi lasciarmi un esempio già fatto da usare come riferimento?",
+        "de": "Kannst du mir ein fertiges Beispiel als Vorlage hinterlassen?"
       },
       "image_url": ""
     },
@@ -535,10 +763,11 @@
       "id": "tcc_049",
       "es": "No tengo acceso a ese documento; ¿quién puede darme permiso?",
       "translations": {
-        "en": "I don’t have access to that document. Who can give me permission?",
+        "en": "I don't have access to that document. Who can give me permission?",
         "pt": "Não tenho acesso a esse documento; quem pode me dar permissão?",
-        "fr": "Je n’ai pas accès à ce document ; qui peut me donner l’autorisation ?",
-        "it": "Non ho accesso a quel documento; chi può darmi il permesso?"
+        "fr": "Je n'ai pas accès à ce document ; qui peut me donner accès ?",
+        "it": "Non ho accesso a quel documento; chi può darmi il permesso?",
+        "de": "Ich habe keinen Zugriff auf das Dokument. Wer kann mir Zugriff darauf geben?"
       },
       "image_url": ""
     },
@@ -549,7 +778,8 @@
         "en": "Where should we save the work so we all use the same version?",
         "pt": "Onde salvamos o trabalho para todos usarmos a mesma versão?",
         "fr": "Où doit-on enregistrer le travail pour que tout le monde utilise la même version ?",
-        "it": "Dove salviamo il lavoro in modo che tutti usiamo la stessa versione?"
+        "it": "Dove salviamo il lavoro in modo che tutti usiamo la stessa versione?",
+        "de": "Wo speichern wir unsere Arbeit, damit alle dieselbe Version benutzen?"
       },
       "image_url": ""
     },
@@ -557,21 +787,23 @@
       "id": "tcc_051",
       "es": "Hay dos versiones diferentes; confirmemos cuál debemos usar.",
       "translations": {
-        "en": "There are two different versions. Let’s confirm which one we should use.",
+        "en": "There are two different versions. Let's confirm which one we should use.",
         "pt": "Há duas versões diferentes; vamos confirmar qual devemos usar.",
         "fr": "Il y a deux versions différentes ; confirmons laquelle utiliser.",
-        "it": "Ci sono due versioni diverse; confermiamo quale dobbiamo usare."
+        "it": "Ci sono due versioni diverse; confermiamo quale dobbiamo usare.",
+        "de": "Es gibt zwei unterschiedliche Versionen. Klären wir, welche wir verwenden sollen."
       },
       "image_url": ""
     },
     {
       "id": "tcc_052",
-      "es": "¿Necesitamos reunirnos o podemos resolverlo por mensaje?",
+      "es": "¿Necesitamos reunirnos o podemos resolverlo por mensajes?",
       "translations": {
-        "en": "Do we need to meet, or can we handle it by message?",
+        "en": "Do we need to meet, or can we sort it out over chat?",
         "pt": "Precisamos fazer uma reunião ou podemos resolver por mensagem?",
         "fr": "On doit se réunir ou on peut régler ça par message ?",
-        "it": "Dobbiamo riunirci o possiamo risolvere per messaggio?"
+        "it": "Dobbiamo riunirci o possiamo risolverlo per messaggio?",
+        "de": "Müssen wir uns treffen oder können wir das per Nachricht klären?"
       },
       "image_url": ""
     },
@@ -582,7 +814,8 @@
         "en": "The meeting is to decide the next step, not just to share information.",
         "pt": "A reunião é para decidir o próximo passo, não só para informar.",
         "fr": "La réunion sert à décider de la prochaine étape, pas seulement à informer.",
-        "it": "La riunione serve a decidere il prossimo passo, non solo a informare."
+        "it": "La riunione serve a decidere il prossimo passo, non solo a informare.",
+        "de": "In der Besprechung geht es darum, den nächsten Schritt festzulegen, nicht nur Informationen weiterzugeben."
       },
       "image_url": ""
     },
@@ -592,8 +825,9 @@
       "translations": {
         "en": "Who needs to take part so we can make that decision?",
         "pt": "Quem precisa participar para podermos tomar essa decisão?",
-        "fr": "Qui doit participer pour qu’on puisse prendre cette décision ?",
-        "it": "Chi deve partecipare per poter prendere questa decisione?"
+        "fr": "Qui doit participer pour qu'on puisse prendre cette décision ?",
+        "it": "Chi deve partecipare per poter prendere questa decisione?",
+        "de": "Wer muss dabei sein, damit wir das entscheiden können?"
       },
       "image_url": ""
     },
@@ -601,21 +835,23 @@
       "id": "tcc_055",
       "es": "Antes de la reunión, necesito la lista de asuntos que vamos a tratar.",
       "translations": {
-        "en": "Before the meeting, I need the list of topics we’re going to discuss.",
+        "en": "Before the meeting, I need the list of topics we're going to discuss.",
         "pt": "Antes da reunião, preciso da lista de assuntos que vamos tratar.",
-        "fr": "Avant la réunion, j’ai besoin de la liste des sujets à traiter.",
-        "it": "Prima della riunione, mi serve l’elenco degli argomenti da discutere."
+        "fr": "Avant la réunion, j'ai besoin de la liste des sujets à traiter.",
+        "it": "Prima della riunione, mi serve l'elenco degli argomenti da discutere.",
+        "de": "Vor der Besprechung brauche ich eine Liste der Themen, über die wir sprechen wollen."
       },
       "image_url": ""
     },
     {
       "id": "tcc_056",
-      "es": "¿Puedes incluir el enlace del documento en la invitación de la reunión?",
+      "es": "¿Puedes incluir el enlace al documento en la invitación a la reunión?",
       "translations": {
         "en": "Can you include the document link in the meeting invitation?",
         "pt": "Você pode incluir o link do documento no convite da reunião?",
-        "fr": "Tu peux mettre le lien du document dans l’invitation à la réunion ?",
-        "it": "Puoi includere il link del documento nell’invito alla riunione?"
+        "fr": "Tu peux mettre le lien vers le document dans l'invitation à la réunion ?",
+        "it": "Puoi includere il link del documento nell'invito alla riunione?",
+        "de": "Kannst du den Link zum Dokument in die Einladung zur Besprechung aufnehmen?"
       },
       "image_url": ""
     },
@@ -623,10 +859,11 @@
       "id": "tcc_057",
       "es": "Tenemos diez minutos; centrémonos en lo que falta decidir.",
       "translations": {
-        "en": "We have ten minutes. Let’s focus on what still needs to be decided.",
+        "en": "We have ten minutes. Let's focus on what still needs to be decided.",
         "pt": "Temos dez minutos; vamos focar no que falta decidir.",
-        "fr": "On a dix minutes ; concentrons-nous sur ce qu’il reste à décider.",
-        "it": "Abbiamo dieci minuti; concentriamoci su quello che resta da decidere."
+        "fr": "On a dix minutes ; concentrons-nous sur ce qu'il reste à décider.",
+        "it": "Abbiamo dieci minuti; concentriamoci su quello che resta da decidere.",
+        "de": "Wir haben zehn Minuten. Konzentrieren wir uns auf das, was wir noch entscheiden müssen."
       },
       "image_url": ""
     },
@@ -634,10 +871,11 @@
       "id": "tcc_058",
       "es": "Al terminar la reunión, anotemos quién hace cada cosa y para cuándo.",
       "translations": {
-        "en": "At the end of the meeting, let’s write down who does what and by when.",
+        "en": "At the end of the meeting, let's write down who does what and by when.",
         "pt": "Ao terminar a reunião, vamos anotar quem faz cada coisa e até quando.",
         "fr": "À la fin de la réunion, notons qui fait quoi et pour quand.",
-        "it": "Alla fine della riunione, scriviamo chi fa cosa e per quando."
+        "it": "Alla fine della riunione, scriviamo chi fa cosa e per quando.",
+        "de": "Halten wir am Ende der Besprechung fest, wer was bis wann erledigt."
       },
       "image_url": ""
     },
@@ -645,10 +883,11 @@
       "id": "tcc_059",
       "es": "No estuve en la reunión; ¿hubo algún cambio que afecte mi tarea?",
       "translations": {
-        "en": "I wasn’t at the meeting. Were there any changes that affect my task?",
+        "en": "I wasn't at the meeting. Were there any changes that affect my task?",
         "pt": "Não participei da reunião; houve alguma mudança que afete minha tarefa?",
-        "fr": "Je n’étais pas à la réunion ; il y a eu un changement qui concerne ma tâche ?",
-        "it": "Non ero alla riunione; ci sono state modifiche che riguardano il mio compito?"
+        "fr": "Je n'étais pas à la réunion ; il y a eu un changement qui concerne ma tâche ?",
+        "it": "Non ero alla riunione; ci sono state modifiche che riguardano il mio compito?",
+        "de": "Ich war bei der Besprechung nicht dabei. Hat sich etwas geändert, das meine Aufgabe betrifft?"
       },
       "image_url": ""
     },
@@ -656,10 +895,11 @@
       "id": "tcc_060",
       "es": "¿En qué punto está la tarea?",
       "translations": {
-        "en": "What’s the status of the task?",
+        "en": "What's the status of the task?",
         "pt": "Em que ponto está a tarefa?",
         "fr": "Où en est la tâche ?",
-        "it": "A che punto è il compito?"
+        "it": "A che punto è il compito?",
+        "de": "Wie weit ist die Aufgabe?"
       },
       "image_url": ""
     },
@@ -667,10 +907,11 @@
       "id": "tcc_061",
       "es": "Ya terminé la primera parte y estoy revisando la segunda.",
       "translations": {
-        "en": "I’ve finished the first part and I’m reviewing the second.",
+        "en": "I've finished the first part and I'm reviewing the second.",
         "pt": "Já terminei a primeira parte e estou revisando a segunda.",
-        "fr": "J’ai terminé la première partie et je vérifie la deuxième.",
-        "it": "Ho finito la prima parte e sto controllando la seconda."
+        "fr": "J'ai terminé la première partie et je vérifie la deuxième.",
+        "it": "Ho finito la prima parte e sto controllando la seconda.",
+        "de": "Den ersten Teil habe ich fertig. Den zweiten prüfe ich gerade."
       },
       "image_url": ""
     },
@@ -678,21 +919,23 @@
       "id": "tcc_062",
       "es": "Está casi listo; falta comprobar los datos.",
       "translations": {
-        "en": "It’s almost ready. We still need to check the data.",
+        "en": "It's almost ready. We just need to check the data.",
         "pt": "Está quase pronto; falta conferir os dados.",
-        "fr": "C’est presque prêt ; il reste à vérifier les données.",
-        "it": "È quasi pronto; manca il controllo dei dati."
+        "fr": "C'est presque prêt ; il reste à vérifier les données.",
+        "it": "È quasi pronto; manca il controllo dei dati.",
+        "de": "Es ist fast fertig. Wir müssen nur noch die Daten prüfen."
       },
       "image_url": ""
     },
     {
       "id": "tcc_063",
-      "es": "La tarea está terminada, pero todavía no tiene aprobación.",
+      "es": "La tarea está terminada, pero todavía no la han aprobado.",
       "translations": {
-        "en": "The task is finished, but it hasn’t been approved yet.",
+        "en": "The task is finished, but it hasn't been approved yet.",
         "pt": "A tarefa está concluída, mas ainda não foi aprovada.",
-        "fr": "La tâche est terminée, mais elle n’est pas encore approuvée.",
-        "it": "Il compito è finito, ma non è ancora stato approvato."
+        "fr": "La tâche est terminée, mais elle n'est pas encore approuvée.",
+        "it": "Il compito è finito, ma non è ancora stato approvato.",
+        "de": "Die Aufgabe ist erledigt, aber noch nicht freigegeben."
       },
       "image_url": ""
     },
@@ -700,21 +943,23 @@
       "id": "tcc_064",
       "es": "Ya lo envié para revisión; estoy esperando comentarios.",
       "translations": {
-        "en": "I’ve sent it for review. I’m waiting for feedback.",
+        "en": "I've sent it for review. I'm waiting for feedback.",
         "pt": "Já enviei para revisão; estou esperando comentários.",
-        "fr": "Je l’ai envoyé pour vérification ; j’attends des commentaires.",
-        "it": "L’ho già inviato per la revisione; aspetto i commenti."
+        "fr": "Je l'ai envoyé pour relecture et j'attends des retours.",
+        "it": "L'ho già inviato per la revisione; aspetto i commenti.",
+        "de": "Ich habe es zur Überprüfung geschickt und warte auf Rückmeldung."
       },
       "image_url": ""
     },
     {
       "id": "tcc_065",
-      "es": "Lo dejé listo antes de salir para que puedas continuar.",
+      "es": "Dejé todo listo antes de salir para que puedas continuar.",
       "translations": {
-        "en": "I left it ready before leaving so you can continue.",
+        "en": "I got everything ready before I left so you can keep going.",
         "pt": "Deixei tudo pronto antes de sair para você continuar.",
-        "fr": "J’ai tout préparé avant de partir pour que tu puisses continuer.",
-        "it": "Ho lasciato tutto pronto prima di uscire, così puoi continuare."
+        "fr": "J'ai tout préparé avant de partir pour que tu puisses continuer.",
+        "it": "Ho lasciato tutto pronto prima di uscire, così puoi continuare.",
+        "de": "Ich habe alles fertig gemacht, bevor ich gegangen bin, damit du weitermachen kannst."
       },
       "image_url": ""
     },
@@ -724,8 +969,9 @@
       "translations": {
         "en": "Is the deadline still the same?",
         "pt": "O prazo de entrega continua o mesmo?",
-        "fr": "La date de livraison est toujours la même ?",
-        "it": "La scadenza per la consegna è ancora la stessa?"
+        "fr": "La date limite de remise est toujours la même ?",
+        "it": "La scadenza per la consegna è ancora la stessa?",
+        "de": "Gilt noch dieselbe Abgabefrist?"
       },
       "image_url": ""
     },
@@ -733,10 +979,11 @@
       "id": "tcc_067",
       "es": "Voy según lo previsto; puedo entregarlo esta tarde.",
       "translations": {
-        "en": "I’m on track. I can deliver it this afternoon.",
+        "en": "I'm on track. I can deliver it this afternoon.",
         "pt": "Estou dentro do previsto; posso entregar esta tarde.",
-        "fr": "J’avance comme prévu ; je peux le livrer cet après-midi.",
-        "it": "Sto rispettando il programma; posso consegnarlo questo pomeriggio."
+        "fr": "J'avance comme prévu ; je peux le livrer cet après-midi.",
+        "it": "Sto procedendo come previsto; posso consegnarlo questo pomeriggio.",
+        "de": "Ich liege im Zeitplan und kann es heute Nachmittag abgeben."
       },
       "image_url": ""
     },
@@ -744,10 +991,11 @@
       "id": "tcc_068",
       "es": "Voy con retraso porque recibí la información más tarde de lo previsto.",
       "translations": {
-        "en": "I’m behind schedule because I received the information later than expected.",
+        "en": "I'm behind schedule because I received the information later than expected.",
         "pt": "Estou atrasado porque recebi as informações depois do previsto. / Estou atrasada porque recebi as informações depois do previsto.",
-        "fr": "J’ai du retard parce que j’ai reçu les informations plus tard que prévu.",
-        "it": "Sono in ritardo perché ho ricevuto le informazioni più tardi del previsto."
+        "fr": "J'ai du retard parce que j'ai reçu les informations plus tard que prévu.",
+        "it": "Sono in ritardo perché ho ricevuto le informazioni più tardi del previsto.",
+        "de": "Ich liege hinter dem Zeitplan, weil ich die Informationen später bekommen habe als erwartet."
       },
       "image_url": ""
     },
@@ -755,43 +1003,47 @@
       "id": "tcc_069",
       "es": "No he podido avanzar; falta la respuesta de otro equipo.",
       "translations": {
-        "en": "I haven’t been able to move forward. We’re waiting for another team’s response.",
+        "en": "I haven't been able to move forward. We're waiting for another team's response.",
         "pt": "Não consegui avançar; falta a resposta de outra equipe.",
-        "fr": "Je n’ai pas pu avancer ; il manque la réponse d’une autre équipe.",
-        "it": "Non sono riuscito ad andare avanti; manca la risposta di un altro gruppo. / Non sono riuscita ad andare avanti; manca la risposta di un altro gruppo."
+        "fr": "Je n'ai pas pu avancer ; il manque la réponse d'une autre équipe.",
+        "it": "Non sono riuscito ad andare avanti; manca la risposta di un altro team. / Non sono riuscita ad andare avanti; manca la risposta di un altro team.",
+        "de": "Ich konnte nicht weitermachen. Die Antwort eines anderen Teams fehlt noch."
       },
       "image_url": ""
     },
     {
       "id": "tcc_070",
-      "es": "La fecha actual ya no es posible; necesito avisarlo ahora.",
+      "es": "Ya no puedo cumplir con el plazo acordado; necesito avisarlo ahora.",
       "translations": {
-        "en": "The current deadline is no longer possible. I need to report that now.",
-        "pt": "O prazo atual não é mais possível; preciso avisar agora.",
-        "fr": "La date prévue n’est plus possible ; je dois le signaler maintenant.",
-        "it": "La scadenza attuale non è più possibile; devo segnalarlo adesso."
+        "en": "I can't meet the deadline we agreed on. I need to let people know now.",
+        "pt": "Não vou conseguir cumprir o prazo combinado; preciso avisar agora.",
+        "fr": "Je ne pourrai pas respecter le délai convenu ; je dois le signaler maintenant.",
+        "it": "Non riesco più a rispettare la scadenza concordata; devo avvisare subito.",
+        "de": "Ich kann den vereinbarten Abgabetermin nicht mehr einhalten. Ich muss jetzt Bescheid geben."
       },
       "image_url": ""
     },
     {
       "id": "tcc_071",
-      "es": "Podré entregar la parte principal hoy; el resto estará mañana.",
+      "es": "Podré entregar la parte principal hoy; el resto estará listo mañana.",
       "translations": {
         "en": "I can deliver the main part today. The rest will be ready tomorrow.",
-        "pt": "Posso entregar a parte principal hoje; o restante ficará pronto amanhã.",
-        "fr": "Je pourrai livrer la partie principale aujourd’hui ; le reste sera prêt demain.",
-        "it": "Potrò consegnare la parte principale oggi; il resto sarà pronto domani."
+        "pt": "Vou poder entregar a parte principal hoje; o restante vai ficar pronto amanhã.",
+        "fr": "Je pourrai livrer la partie principale aujourd'hui ; le reste sera prêt demain.",
+        "it": "Potrò consegnare la parte principale oggi; il resto sarà pronto domani.",
+        "de": "Den Hauptteil kann ich heute abgeben. Der Rest ist morgen fertig."
       },
       "image_url": ""
     },
     {
       "id": "tcc_072",
-      "es": "Para recuperar el tiempo, necesito ayuda con la revisión.",
+      "es": "Para recuperar el tiempo perdido, necesito ayuda con la revisión.",
       "translations": {
         "en": "To catch up, I need help with the review.",
-        "pt": "Para recuperar o tempo, preciso de ajuda com a revisão.",
-        "fr": "Pour rattraper le retard, j’ai besoin d’aide pour la vérification.",
-        "it": "Per recuperare il tempo, mi serve aiuto con la revisione."
+        "pt": "Para recuperar o tempo perdido, preciso de ajuda com a revisão.",
+        "fr": "Pour rattraper le retard, j'ai besoin d'aide pour la vérification.",
+        "it": "Per recuperare il tempo perso, mi serve aiuto con la revisione.",
+        "de": "Um die verlorene Zeit aufzuholen, brauche ich Hilfe beim Prüfen."
       },
       "image_url": ""
     },
@@ -802,18 +1054,20 @@
         "en": "Can we leave the less urgent part until later?",
         "pt": "Podemos deixar a parte menos urgente para depois?",
         "fr": "On peut garder la partie moins urgente pour plus tard ?",
-        "it": "Possiamo lasciare la parte meno urgente per dopo?"
+        "it": "Possiamo lasciare la parte meno urgente per dopo?",
+        "de": "Können wir den weniger dringenden Teil auf später verschieben?"
       },
       "image_url": ""
     },
     {
       "id": "tcc_074",
-      "es": "Te avisaré si cambia mi estimación, antes de que llegue la fecha de entrega.",
+      "es": "Te avisaré antes de la fecha de entrega si cambia mi estimación.",
       "translations": {
-        "en": "I’ll let you know if my estimate changes, before the deadline arrives.",
-        "pt": "Vou te avisar se minha estimativa mudar, antes do prazo de entrega.",
-        "fr": "Je te préviendrai si mon estimation change, avant la date de livraison.",
-        "it": "Ti avviserò se la mia stima cambia, prima della scadenza."
+        "en": "I'll let you know before the deadline if my estimate changes.",
+        "pt": "Vou te avisar antes do prazo de entrega se minha estimativa mudar.",
+        "fr": "Je te préviendrai avant la date limite si mon estimation change.",
+        "it": "Ti avviserò prima della scadenza se la mia stima cambia.",
+        "de": "Ich gebe dir vor Ablauf der Frist Bescheid, falls sich meine Einschätzung ändert."
       },
       "image_url": ""
     },
@@ -821,21 +1075,23 @@
       "id": "tcc_075",
       "es": "Encontré un error en la información que estamos usando.",
       "translations": {
-        "en": "I found an error in the information we’re using.",
+        "en": "I found an error in the information we're using.",
         "pt": "Encontrei um erro nas informações que estamos usando.",
-        "fr": "J’ai trouvé une erreur dans les informations qu’on utilise.",
-        "it": "Ho trovato un errore nelle informazioni che stiamo usando."
+        "fr": "J'ai trouvé une erreur dans les informations qu'on utilise.",
+        "it": "Ho trovato un errore nelle informazioni che stiamo usando.",
+        "de": "Ich habe einen Fehler in den Informationen gefunden, die wir gerade verwenden."
       },
       "image_url": ""
     },
     {
       "id": "tcc_076",
-      "es": "Necesito detener esta parte hasta que confirmemos los datos.",
+      "es": "Necesito pausar esta parte hasta que confirmemos los datos.",
       "translations": {
-        "en": "I need to stop this part until we confirm the data.",
-        "pt": "Preciso parar esta parte até confirmarmos os dados.",
-        "fr": "Je dois arrêter cette partie jusqu’à ce qu’on confirme les données.",
-        "it": "Devo fermare questa parte finché non confermiamo i dati."
+        "en": "I need to put this part on hold until we confirm the data.",
+        "pt": "Preciso deixar esta parte em espera até confirmarmos os dados.",
+        "fr": "Je dois mettre cette partie en pause jusqu'à ce qu'on confirme les données.",
+        "it": "Devo sospendere questa parte finché non avremo verificato i dati.",
+        "de": "Ich muss die Arbeit an diesem Teil unterbrechen, bis wir die Daten bestätigt haben."
       },
       "image_url": ""
     },
@@ -846,18 +1102,20 @@
         "en": "The work was already finished, but they requested a change.",
         "pt": "O trabalho já estava concluído, mas pediram uma alteração.",
         "fr": "Le travail était déjà terminé, mais ils ont demandé un changement.",
-        "it": "Il lavoro era già finito, ma hanno chiesto una modifica."
+        "it": "Il lavoro era già finito, ma hanno chiesto una modifica.",
+        "de": "Die Arbeit war schon fertig, aber dann wurde eine Änderung verlangt."
       },
       "image_url": ""
     },
     {
       "id": "tcc_078",
-      "es": "¿Este cambio sustituye lo anterior o hay que hacer las dos cosas?",
+      "es": "¿Este cambio sustituye lo que ya estaba previsto o hay que hacer las dos cosas?",
       "translations": {
-        "en": "Does this change replace the previous task, or do we need to do both?",
-        "pt": "Esta alteração substitui o que foi pedido antes ou precisamos fazer as duas coisas?",
+        "en": "Does this change replace what we had planned, or do we need to do both?",
+        "pt": "Esta alteração substitui o que já estava previsto ou precisamos fazer as duas coisas?",
         "fr": "Ce changement remplace ce qui était prévu ou il faut faire les deux ?",
-        "it": "Questa modifica sostituisce quello che era previsto o dobbiamo fare entrambe le cose?"
+        "it": "Questa modifica sostituisce quello che era previsto o dobbiamo fare entrambe le cose?",
+        "de": "Ersetzt diese Änderung das, was vorher geplant war, oder müssen wir beides machen?"
       },
       "image_url": ""
     },
@@ -865,10 +1123,11 @@
       "id": "tcc_079",
       "es": "Con ese cambio, necesito revisar de nuevo el plazo.",
       "translations": {
-        "en": "With that change, I need to review the deadline again.",
+        "en": "With that change, I need to check the deadline again.",
         "pt": "Com essa alteração, preciso rever o prazo.",
         "fr": "Avec ce changement, je dois revoir le délai.",
-        "it": "Con questa modifica, devo rivedere la scadenza."
+        "it": "Con questa modifica, devo rivedere la scadenza.",
+        "de": "Wegen dieser Änderung muss ich die Frist noch einmal prüfen."
       },
       "image_url": ""
     },
@@ -876,21 +1135,23 @@
       "id": "tcc_080",
       "es": "No tengo el equipo necesario para hacerlo hoy.",
       "translations": {
-        "en": "I don’t have the equipment I need to do it today.",
+        "en": "I don't have the equipment I need to do it today.",
         "pt": "Não tenho o equipamento necessário para fazer isso hoje.",
-        "fr": "Je n’ai pas le matériel nécessaire pour le faire aujourd’hui.",
-        "it": "Non ho l’attrezzatura necessaria per farlo oggi."
+        "fr": "Je n'ai pas le matériel nécessaire pour le faire aujourd'hui.",
+        "it": "Non ho l'attrezzatura necessaria per farlo oggi.",
+        "de": "Mir fehlt die Ausrüstung, die ich dafür heute brauche."
       },
       "image_url": ""
     },
     {
       "id": "tcc_081",
-      "es": "El equipo dejó de funcionar; ya lo reporté y estoy esperando asistencia.",
+      "es": "El equipo dejó de funcionar; ya reporté la falla y estoy esperando ayuda.",
       "translations": {
-        "en": "The equipment stopped working. I’ve reported it and I’m waiting for support.",
-        "pt": "O equipamento parou de funcionar; já avisei e estou esperando assistência.",
-        "fr": "Le matériel ne fonctionne plus ; je l’ai signalé et j’attends de l’aide.",
-        "it": "L’attrezzatura ha smesso di funzionare; l’ho segnalato e aspetto assistenza."
+        "en": "The equipment stopped working. I've reported it and I'm waiting for support.",
+        "pt": "O equipamento parou de funcionar; já comuniquei o problema e estou esperando ajuda.",
+        "fr": "Le matériel ne fonctionne plus ; je l'ai signalé et j'attends de l'aide.",
+        "it": "L'attrezzatura ha smesso di funzionare; l'ho segnalato e aspetto assistenza.",
+        "de": "Das Gerät funktioniert nicht mehr. Ich habe es schon gemeldet und warte auf Hilfe."
       },
       "image_url": ""
     },
@@ -898,10 +1159,11 @@
       "id": "tcc_082",
       "es": "Hay un riesgo para la seguridad; no debemos continuar sin revisarlo.",
       "translations": {
-        "en": "There’s a safety risk. We shouldn’t continue without checking it.",
-        "pt": "Há um risco de segurança; não devemos continuar sem verificar.",
-        "fr": "Il y a un risque pour la sécurité ; on ne doit pas continuer sans vérifier.",
-        "it": "C’è un rischio per la sicurezza; non dobbiamo continuare senza controllare."
+        "en": "There's a safety risk. We shouldn't continue until we've reviewed it.",
+        "pt": "Há um risco para a segurança; não devemos continuar sem avaliar esse risco.",
+        "fr": "Il y a un risque pour la sécurité ; on ne doit pas continuer sans évaluer ce risque.",
+        "it": "C'è un rischio per la sicurezza; non dobbiamo continuare senza valutarlo.",
+        "de": "Es gibt ein Sicherheitsrisiko. Wir sollten erst weitermachen, wenn wir es geprüft haben."
       },
       "image_url": ""
     },
@@ -912,18 +1174,20 @@
         "en": "Who can approve a different solution?",
         "pt": "Quem pode autorizar uma solução diferente?",
         "fr": "Qui peut autoriser une autre solution ?",
-        "it": "Chi può autorizzare una soluzione diversa?"
+        "it": "Chi può autorizzare una soluzione diversa?",
+        "de": "Wer kann eine andere Lösung genehmigen?"
       },
       "image_url": ""
     },
     {
       "id": "tcc_084",
-      "es": "Si ese paso no puede hacerse, ¿qué podemos avanzar mientras tanto?",
+      "es": "Si no podemos hacer ese paso, ¿en qué podemos avanzar mientras tanto?",
       "translations": {
-        "en": "If we can’t do that step, what can we work on in the meantime?",
+        "en": "If we can't do that step, what can we work on in the meantime?",
         "pt": "Se não pudermos fazer esse passo, o que podemos adiantar enquanto isso?",
         "fr": "Si on ne peut pas faire cette étape, sur quoi peut-on avancer en attendant ?",
-        "it": "Se non possiamo fare quel passaggio, su cosa possiamo lavorare nel frattempo?"
+        "it": "Se non possiamo fare quel passaggio, su cosa possiamo lavorare nel frattempo?",
+        "de": "Wenn dieser Schritt nicht möglich ist, woran können wir in der Zwischenzeit arbeiten?"
       },
       "image_url": ""
     },
@@ -931,10 +1195,11 @@
       "id": "tcc_085",
       "es": "No prometamos una fecha hasta saber cuánto trabajo falta.",
       "translations": {
-        "en": "Let’s not promise a date until we know how much work is left.",
+        "en": "Let's not promise a date until we know how much work is left.",
         "pt": "Não vamos prometer uma data antes de saber quanto trabalho falta.",
         "fr": "Ne promettons pas de date avant de savoir combien de travail il reste.",
-        "it": "Non promettiamo una data prima di sapere quanto lavoro resta."
+        "it": "Non promettiamo una data prima di sapere quanto lavoro resta.",
+        "de": "Versprechen wir keinen Termin, bevor wir wissen, wie viel Arbeit noch übrig ist."
       },
       "image_url": ""
     },
@@ -944,8 +1209,9 @@
       "translations": {
         "en": "I need you to review only the changes, not the whole document.",
         "pt": "Preciso que você revise só as alterações, não o documento inteiro.",
-        "fr": "J’ai besoin que tu vérifies seulement les changements, pas tout le document.",
-        "it": "Ho bisogno che tu controlli solo le modifiche, non tutto il documento."
+        "fr": "J'ai besoin que tu vérifies seulement les changements, pas tout le document.",
+        "it": "Ho bisogno che tu controlli solo le modifiche, non tutto il documento.",
+        "de": "Ich brauche dich nur für die Prüfung der Änderungen, nicht des ganzen Dokuments."
       },
       "image_url": ""
     },
@@ -955,8 +1221,9 @@
       "translations": {
         "en": "Is there anything I should correct before sending it to the customer?",
         "pt": "Há algo que eu precise corrigir antes de enviar ao cliente?",
-        "fr": "Il y a quelque chose à corriger avant de l’envoyer au client ?",
-        "it": "C’è qualcosa che devo correggere prima di inviarlo al cliente?"
+        "fr": "Il y a quelque chose à corriger avant de l'envoyer au client ?",
+        "it": "C'è qualcosa che devo correggere prima di inviarlo al cliente?",
+        "de": "Muss ich noch etwas korrigieren, bevor ich es an den Kunden schicke?"
       },
       "image_url": ""
     },
@@ -964,10 +1231,11 @@
       "id": "tcc_088",
       "es": "Ya hice las correcciones que acordamos.",
       "translations": {
-        "en": "I’ve made the corrections we agreed on.",
+        "en": "I've made the corrections we agreed on.",
         "pt": "Já fiz as correções que combinamos.",
-        "fr": "J’ai fait les corrections convenues.",
-        "it": "Ho fatto le correzioni che abbiamo concordato."
+        "fr": "J'ai fait les corrections convenues.",
+        "it": "Ho fatto le correzioni che abbiamo concordato.",
+        "de": "Ich habe die vereinbarten Korrekturen vorgenommen."
       },
       "image_url": ""
     },
@@ -976,9 +1244,10 @@
       "es": "¿Puedes confirmar que no falta nada para darlo por terminado?",
       "translations": {
         "en": "Can you confirm that nothing is missing so we can mark it as complete?",
-        "pt": "Você pode confirmar que não falta nada para dar como concluído?",
-        "fr": "Tu peux confirmer qu’il ne manque rien pour considérer le travail comme terminé ?",
-        "it": "Puoi confermare che non manca niente per considerarlo completato?"
+        "pt": "Você pode confirmar que não falta nada para darmos o trabalho por concluído?",
+        "fr": "Tu peux confirmer qu'il ne manque rien pour considérer le travail comme terminé ?",
+        "it": "Puoi confermare che non manca nulla per considerare il lavoro concluso?",
+        "de": "Kannst du bestätigen, dass nichts mehr fehlt und wir die Aufgabe abschließen können?"
       },
       "image_url": ""
     },
@@ -988,8 +1257,9 @@
       "translations": {
         "en": "The result has been approved. We can move on to the next step.",
         "pt": "O resultado já foi aprovado; podemos continuar com o próximo passo.",
-        "fr": "Le résultat est approuvé ; on peut passer à l’étape suivante.",
-        "it": "Il risultato è stato approvato; possiamo passare alla fase successiva."
+        "fr": "Le résultat est approuvé ; on peut passer à l'étape suivante.",
+        "it": "Il risultato è stato approvato; possiamo passare alla fase successiva.",
+        "de": "Das Ergebnis ist freigegeben. Wir können mit dem nächsten Schritt weitermachen."
       },
       "image_url": ""
     },
@@ -997,21 +1267,23 @@
       "id": "tcc_091",
       "es": "Te dejo una nota con lo que ya hice y lo que sigue pendiente.",
       "translations": {
-        "en": "I’m leaving you a note with what I’ve done and what’s still pending.",
+        "en": "I'm leaving you a note with what I've done and what's still pending.",
         "pt": "Vou deixar uma nota com o que já fiz e o que ainda está pendente.",
-        "fr": "Je te laisse une note avec ce que j’ai fait et ce qui reste à faire.",
-        "it": "Ti lascio una nota con quello che ho fatto e quello che resta da fare."
+        "fr": "Je te laisse une note avec ce que j'ai fait et ce qui reste à faire.",
+        "it": "Ti lascio una nota con quello che ho fatto e quello che resta da fare.",
+        "de": "Ich hinterlasse dir eine Notiz mit allem, was ich erledigt habe und was noch offen ist."
       },
       "image_url": ""
     },
     {
       "id": "tcc_092",
-      "es": "Durante el relevo, revisemos las tareas urgentes y los problemas abiertos.",
+      "es": "Durante el relevo, revisemos las tareas urgentes y los problemas que siguen sin resolverse.",
       "translations": {
-        "en": "During the handover, let’s go over urgent tasks and unresolved problems.",
+        "en": "During the handover, let's go over urgent tasks and unresolved problems.",
         "pt": "Na passagem de turno, vamos revisar as tarefas urgentes e os problemas em aberto.",
         "fr": "Lors de la passation, faisons le point sur les tâches urgentes et les problèmes non résolus.",
-        "it": "Durante il passaggio di consegne, rivediamo i compiti urgenti e i problemi aperti."
+        "it": "Durante il passaggio di consegne rivediamo i compiti urgenti e i problemi ancora da risolvere.",
+        "de": "Gehen wir bei der Schichtübergabe die dringenden Aufgaben und offenen Probleme durch."
       },
       "image_url": ""
     },
@@ -1019,10 +1291,11 @@
       "id": "tcc_093",
       "es": "Ana continuará con esta tarea mientras yo esté fuera.",
       "translations": {
-        "en": "Ana will continue with this task while I’m away.",
+        "en": "Ana will continue with this task while I'm away.",
         "pt": "A Ana vai continuar esta tarefa enquanto eu estiver fora.",
         "fr": "Ana continuera cette tâche pendant mon absence.",
-        "it": "Ana continuerà questo compito mentre io sarò assente."
+        "it": "Ana continuerà a occuparsi di questo compito mentre sarò via.",
+        "de": "Ana arbeitet an dieser Aufgabe weiter, während ich nicht da bin."
       },
       "image_url": ""
     },
@@ -1033,7 +1306,8 @@
         "en": "Two tasks remain for tomorrow: checking the data and sending the confirmation.",
         "pt": "Ficam duas tarefas para amanhã: conferir os dados e enviar a confirmação.",
         "fr": "Il reste deux tâches pour demain : vérifier les données et envoyer la confirmation.",
-        "it": "Per domani restano due compiti: controllare i dati e inviare la conferma."
+        "it": "Per domani restano due compiti: controllare i dati e inviare la conferma.",
+        "de": "Für morgen bleiben zwei Aufgaben: die Daten prüfen und die Bestätigung abschicken."
       },
       "image_url": ""
     },
@@ -1041,10 +1315,11 @@
       "id": "tcc_095",
       "es": "Si llega una respuesta durante mi ausencia, avisa a quien me reemplaza.",
       "translations": {
-        "en": "If a reply comes while I’m away, let the person covering for me know.",
-        "pt": "Se chegar uma resposta durante minha ausência, avise quem está me substituindo.",
+        "en": "If a reply comes while I'm away, let the person covering for me know.",
+        "pt": "Se chegar uma resposta enquanto eu estiver fora, avise quem estiver me substituindo.",
         "fr": "Si une réponse arrive pendant mon absence, préviens la personne qui me remplace.",
-        "it": "Se arriva una risposta durante la mia assenza, avvisa chi mi sostituisce."
+        "it": "Se arriva una risposta durante la mia assenza, avvisa chi mi sostituisce.",
+        "de": "Falls eine Antwort kommt, während ich weg bin, gib meiner Vertretung Bescheid."
       },
       "image_url": ""
     },
@@ -1055,7 +1330,8 @@
         "en": "Thanks for your help. I can continue on my own now.",
         "pt": "Obrigado pela ajuda; agora posso continuar sozinho. / Obrigada pela ajuda; agora posso continuar sozinha.",
         "fr": "Merci pour ton aide ; je peux maintenant continuer seul. / Merci pour ton aide ; je peux maintenant continuer seule.",
-        "it": "Grazie per l’aiuto; adesso posso continuare da solo. / Grazie per l’aiuto; adesso posso continuare da sola."
+        "it": "Grazie per l'aiuto; adesso posso continuare da solo. / Grazie per l'aiuto; adesso posso continuare da sola.",
+        "de": "Danke für deine Hilfe. Jetzt kann ich allein weitermachen."
       },
       "image_url": ""
     }
