@@ -1,0 +1,1488 @@
+{
+  "module": "Cuenta, pagos y problemas con el pedido",
+  "level": "A2",
+  "revisado": true,
+  "cards": [
+    {
+      "id": "rm117",
+      "es": "El precio",
+      "translations": {
+        "en": "The price",
+        "pt": "O preço",
+        "fr": "Le prix",
+        "it": "Il prezzo",
+        "de": "Der Preis"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The prices)",
+        "pt": "(Plural: Os preços)",
+        "fr": "(Plural: Les prix)",
+        "it": "(Plural: I prezzi)",
+        "de": "(Plural: Die Preise)"
+      },
+      "examples": {
+        "en": {
+          "text": "The price includes service.",
+          "es": "El precio incluye el servicio."
+        },
+        "pt": {
+          "text": "O preço inclui o serviço.",
+          "es": "El precio incluye el servicio."
+        },
+        "fr": {
+          "text": "Le prix inclut le service.",
+          "es": "El precio incluye el servicio."
+        },
+        "it": {
+          "text": "Il prezzo include il servizio.",
+          "es": "El precio incluye el servicio."
+        },
+        "de": {
+          "text": "Der Preis schließt den Service ein.",
+          "es": "El precio incluye el servicio."
+        }
+      }
+    },
+    {
+      "id": "rm118",
+      "es": "La cuenta del restaurante",
+      "translations": {
+        "en": "The check",
+        "pt": "A conta",
+        "fr": "L'addition",
+        "it": "Il conto",
+        "de": "Die Rechnung"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "«Check» es la forma típica en un restaurante estadounidense. «Bill» también se entiende y es la opción habitual en el Reino Unido. (Plural: The checks)",
+        "pt": "(Plural: As contas)",
+        "fr": "(Plural: Les additions)",
+        "it": "(Plural: I conti)",
+        "de": "(Plural: Die Rechnungen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The check includes a drink I didn't order.",
+          "es": "La cuenta del restaurante incluye una bebida que no pedí."
+        },
+        "pt": {
+          "text": "A conta inclui uma bebida que eu não pedi.",
+          "es": "La cuenta del restaurante incluye una bebida que no pedí."
+        },
+        "fr": {
+          "text": "L'addition comprend une boisson que je n'ai pas commandée.",
+          "es": "La cuenta del restaurante incluye una bebida que no pedí."
+        },
+        "it": {
+          "text": "Il conto include una bevanda che non ho ordinato.",
+          "es": "La cuenta del restaurante incluye una bebida que no pedí."
+        },
+        "de": {
+          "text": "Die Rechnung enthält ein Getränk, das ich nicht bestellt habe.",
+          "es": "La cuenta del restaurante incluye una bebida que no pedí."
+        }
+      }
+    },
+    {
+      "id": "rm119",
+      "es": "La propina",
+      "translations": {
+        "en": "The tip",
+        "pt": "A gorjeta",
+        "fr": "Le pourboire",
+        "it": "La mancia",
+        "de": "Das Trinkgeld"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The tips)",
+        "pt": "(Plural: As gorjetas)",
+        "fr": "(Plural: Les pourboires)",
+        "it": "(Plural: Le mance)",
+        "de": "(Plural: Die Trinkgelder)"
+      },
+      "examples": {
+        "en": {
+          "text": "I left the tip in cash.",
+          "es": "Dejé la propina en efectivo."
+        },
+        "pt": {
+          "text": "Deixei a gorjeta em dinheiro.",
+          "es": "Dejé la propina en efectivo."
+        },
+        "fr": {
+          "text": "J'ai laissé le pourboire en espèces.",
+          "es": "Dejé la propina en efectivo."
+        },
+        "it": {
+          "text": "Ho lasciato la mancia in contanti.",
+          "es": "Dejé la propina en efectivo."
+        },
+        "de": {
+          "text": "Ich habe das Trinkgeld bar gegeben.",
+          "es": "Dejé la propina en efectivo."
+        }
+      }
+    },
+    {
+      "id": "rm120",
+      "es": "El cargo por servicio",
+      "translations": {
+        "en": "The service charge",
+        "pt": "A taxa de serviço",
+        "fr": "Les frais de service",
+        "it": "Il costo del servizio",
+        "de": "Die Servicegebühr"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The service charges)",
+        "pt": "(Plural: As taxas de serviço)",
+        "it": "(Plural: I costi del servizio)",
+        "de": "(Plural: Die Servicegebühren)"
+      },
+      "examples": {
+        "en": {
+          "text": "The service charge appears on the check.",
+          "es": "El cargo por servicio aparece en la cuenta."
+        },
+        "pt": {
+          "text": "A taxa de serviço aparece na conta.",
+          "es": "El cargo por servicio aparece en la cuenta."
+        },
+        "fr": {
+          "text": "Les frais de service figurent sur l'addition.",
+          "es": "El cargo por servicio aparece en la cuenta."
+        },
+        "it": {
+          "text": "Il costo del servizio compare sul conto.",
+          "es": "El cargo por servicio aparece en la cuenta."
+        },
+        "de": {
+          "text": "Die Servicegebühr steht auf der Rechnung.",
+          "es": "El cargo por servicio aparece en la cuenta."
+        }
+      }
+    },
+    {
+      "id": "rm121",
+      "es": "El cargo por cubierto",
+      "translations": {
+        "en": "The per-person cover charge",
+        "pt": "A taxa de couvert",
+        "fr": "Les frais de couvert par personne",
+        "it": "Il coperto",
+        "de": "Das Gedeckgeld"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Cargo por persona independiente del consumo, habitual en algunos restaurantes de Italia)",
+        "it": "«Coperto» es el cargo por persona, no la propina ni el cargo por servicio. (Plural: I coperti)",
+        "de": "En una carta italiana puede aparecer como «coperto».",
+        "en": "(Plural: The per-person cover charges)",
+        "pt": "(Plural: As taxas de couvert) Se refiere al «coperto» de un restaurante italiano; en Brasil, «couvert» también puede nombrar los aperitivos que se sirven al comienzo."
+      },
+      "examples": {
+        "en": {
+          "text": "There's a per-person cover charge on the check.",
+          "es": "En la cuenta viene un cargo por cubierto por persona."
+        },
+        "pt": {
+          "text": "A taxa de couvert é cobrada por pessoa.",
+          "es": "El cargo por cubierto se cobra por cada persona."
+        },
+        "fr": {
+          "text": "Les frais de couvert par personne sont indiqués sur l'addition.",
+          "es": "En la cuenta se indica el cargo por cubierto por persona."
+        },
+        "it": {
+          "text": "Il coperto si paga per ogni persona.",
+          "es": "El cargo por cubierto se cobra por cada persona."
+        },
+        "de": {
+          "text": "Das Gedeckgeld wird pro Person berechnet.",
+          "es": "El cargo por cubierto se cobra por cada persona."
+        }
+      }
+    },
+    {
+      "id": "rm122",
+      "es": "El impuesto",
+      "translations": {
+        "en": "The tax",
+        "pt": "O imposto",
+        "fr": "La taxe",
+        "it": "L'imposta",
+        "de": "Die Steuer"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The taxes)",
+        "pt": "(Plural: Os impostos)",
+        "fr": "(Plural: Les taxes)",
+        "it": "(Plural: Le imposte)",
+        "de": "(Plural: Die Steuern)"
+      },
+      "examples": {
+        "en": {
+          "text": "The tax is already included in the price.",
+          "es": "El impuesto ya está incluido en el precio."
+        },
+        "pt": {
+          "text": "O imposto já está incluído no preço.",
+          "es": "El impuesto ya está incluido en el precio."
+        },
+        "fr": {
+          "text": "La taxe est déjà comprise dans le prix.",
+          "es": "El impuesto ya está incluido en el precio."
+        },
+        "it": {
+          "text": "L'imposta è già inclusa nel prezzo.",
+          "es": "El impuesto ya está incluido en el precio."
+        },
+        "de": {
+          "text": "Die Steuer ist schon im Preis enthalten.",
+          "es": "El impuesto ya está incluido en el precio."
+        }
+      }
+    },
+    {
+      "id": "rm123",
+      "es": "El recibo",
+      "translations": {
+        "en": "The receipt",
+        "pt": "O comprovante de pagamento",
+        "fr": "Le reçu / Le ticket de caisse",
+        "it": "La ricevuta / Lo scontrino",
+        "de": "Der Kassenbon"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The receipts)",
+        "pt": "(Plural: Os comprovantes de pagamento)",
+        "fr": "(Plural: Les reçus)",
+        "it": "(Plural: Le ricevute)",
+        "de": "(Plural: Die Kassenbons)"
+      },
+      "examples": {
+        "en": {
+          "text": "The receipt shows the total I paid.",
+          "es": "El recibo muestra el total que pagué."
+        },
+        "pt": {
+          "text": "O comprovante de pagamento mostra o total que eu paguei.",
+          "es": "El recibo muestra el total que pagué."
+        },
+        "fr": {
+          "text": "Le reçu indique le montant total que j'ai payé.",
+          "es": "El recibo muestra el total que pagué."
+        },
+        "it": {
+          "text": "La ricevuta indica il totale che ho pagato.",
+          "es": "El recibo muestra el total que pagué."
+        },
+        "de": {
+          "text": "Der Kassenbon zeigt den Gesamtbetrag, den ich bezahlt habe.",
+          "es": "El recibo muestra el total que pagué."
+        }
+      }
+    },
+    {
+      "id": "rm124",
+      "es": "El efectivo",
+      "translations": {
+        "en": "The cash",
+        "pt": "O dinheiro em espécie",
+        "fr": "Les espèces",
+        "it": "I contanti",
+        "de": "Das Bargeld"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "«Dinheiro em espécie» aclara que se trata de dinero en monedas o billetes."
+      },
+      "examples": {
+        "en": {
+          "text": "They only take cash today.",
+          "es": "Hoy solo aceptan efectivo."
+        },
+        "pt": {
+          "text": "Hoje só aceitam dinheiro em espécie.",
+          "es": "Hoy solo aceptan efectivo."
+        },
+        "fr": {
+          "text": "Aujourd'hui, ils n'acceptent que les espèces.",
+          "es": "Hoy solo aceptan efectivo."
+        },
+        "it": {
+          "text": "Oggi accettano solo i contanti.",
+          "es": "Hoy solo aceptan efectivo."
+        },
+        "de": {
+          "text": "Heute nehmen sie nur Bargeld.",
+          "es": "Hoy solo aceptan efectivo."
+        }
+      }
+    },
+    {
+      "id": "rm125",
+      "es": "El cambio",
+      "translations": {
+        "en": "The change",
+        "pt": "O troco",
+        "fr": "La monnaie",
+        "it": "Il resto",
+        "de": "Das Wechselgeld"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Dinero que devuelven después de pagar, no monedas que ya se traen ni intercambio de divisas)"
+      },
+      "examples": {
+        "en": {
+          "text": "The change was given to me in coins.",
+          "es": "El cambio me lo dieron en monedas."
+        },
+        "pt": {
+          "text": "O troco me deram em moedas.",
+          "es": "El cambio me lo dieron en monedas."
+        },
+        "fr": {
+          "text": "On m'a rendu la monnaie en pièces.",
+          "es": "El cambio me lo dieron en monedas."
+        },
+        "it": {
+          "text": "Il resto mi è stato dato in monete.",
+          "es": "El cambio me lo dieron en monedas."
+        },
+        "de": {
+          "text": "Das Wechselgeld habe ich in Münzen bekommen.",
+          "es": "El cambio me lo dieron en monedas."
+        }
+      }
+    },
+    {
+      "id": "rm126",
+      "es": "La tarjeta de crédito",
+      "translations": {
+        "en": "The credit card",
+        "pt": "O cartão de crédito",
+        "fr": "La carte de crédit",
+        "it": "La carta di credito",
+        "de": "Die Kreditkarte"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The credit cards)",
+        "pt": "(Plural: Os cartões de crédito)",
+        "fr": "(Plural: Les cartes de crédit)",
+        "it": "(Plural: Le carte di credito)",
+        "de": "(Plural: Die Kreditkarten)"
+      },
+      "examples": {
+        "en": {
+          "text": "The credit card didn't work at the terminal.",
+          "es": "La tarjeta de crédito no funcionó en la terminal."
+        },
+        "pt": {
+          "text": "O cartão de crédito não funcionou na maquininha.",
+          "es": "La tarjeta de crédito no funcionó en la terminal."
+        },
+        "fr": {
+          "text": "La carte de crédit n'a pas fonctionné sur le terminal de paiement.",
+          "es": "La tarjeta de crédito no funcionó en la terminal."
+        },
+        "it": {
+          "text": "La carta di credito non ha funzionato sul terminale di pagamento.",
+          "es": "La tarjeta de crédito no funcionó en la terminal."
+        },
+        "de": {
+          "text": "Die Kreditkarte hat am Kartenterminal nicht funktioniert.",
+          "es": "La tarjeta de crédito no funcionó en la terminal."
+        }
+      }
+    },
+    {
+      "id": "rm127",
+      "es": "La tarjeta de débito",
+      "translations": {
+        "en": "The debit card",
+        "pt": "O cartão de débito",
+        "fr": "La carte de débit",
+        "it": "La carta di debito",
+        "de": "Die Debitkarte"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The debit cards)",
+        "pt": "(Plural: Os cartões de débito)",
+        "fr": "(Plural: Les cartes de débit)",
+        "it": "(Plural: Le carte di debito)",
+        "de": "(Plural: Die Debitkarten)"
+      },
+      "examples": {
+        "en": {
+          "text": "I'll pay for dinner with my debit card.",
+          "es": "Voy a pagar la cena con mi tarjeta de débito."
+        },
+        "pt": {
+          "text": "Vou pagar o jantar com meu cartão de débito.",
+          "es": "Voy a pagar la cena con mi tarjeta de débito."
+        },
+        "fr": {
+          "text": "Je vais payer le dîner avec ma carte de débit.",
+          "es": "Voy a pagar la cena con mi tarjeta de débito."
+        },
+        "it": {
+          "text": "Pagherò la cena con la mia carta di debito.",
+          "es": "Voy a pagar la cena con mi tarjeta de débito."
+        },
+        "de": {
+          "text": "Ich bezahle das Abendessen mit meiner Debitkarte.",
+          "es": "Voy a pagar la cena con mi tarjeta de débito."
+        }
+      }
+    },
+    {
+      "id": "rm128",
+      "es": "La terminal de pago",
+      "translations": {
+        "en": "The payment terminal / The card reader",
+        "pt": "A maquininha de cartão",
+        "fr": "Le terminal de paiement",
+        "it": "Il terminale di pagamento",
+        "de": "Das Kartenterminal"
+      },
+      "image_url": "",
+      "notes": {
+        "it": "Sigla: POS (Plural: I terminali di pagamento)",
+        "pt": "«Maquininha de cartão» es la forma frecuente en Brasil para la terminal donde se paga con tarjeta. (Plural: As maquininhas de cartão)",
+        "en": "(Plural: The payment terminals)",
+        "fr": "(Plural: Les terminaux de paiement)",
+        "de": "(Plural: Die Kartenterminals)"
+      },
+      "examples": {
+        "en": {
+          "text": "The payment terminal is next to the register.",
+          "es": "La terminal de pago está junto a la caja."
+        },
+        "pt": {
+          "text": "A maquininha de cartão fica ao lado do caixa.",
+          "es": "La terminal de pago está junto a la caja."
+        },
+        "fr": {
+          "text": "Le terminal de paiement se trouve près de la caisse.",
+          "es": "La terminal de pago está junto a la caja."
+        },
+        "it": {
+          "text": "Il terminale di pagamento è vicino alla cassa.",
+          "es": "La terminal de pago está junto a la caja."
+        },
+        "de": {
+          "text": "Das Kartenterminal steht neben der Kasse.",
+          "es": "La terminal de pago está junto a la caja."
+        }
+      }
+    },
+    {
+      "id": "rm129",
+      "es": "El pago sin contacto",
+      "translations": {
+        "en": "The contactless payment",
+        "pt": "O pagamento por aproximação",
+        "fr": "Le paiement sans contact",
+        "it": "Il pagamento senza contatto",
+        "de": "Die kontaktlose Zahlung"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The contactless payments)",
+        "pt": "(Plural: Os pagamentos por aproximação)",
+        "fr": "(Plural: Les paiements sans contact)",
+        "it": "(Plural: I pagamenti senza contatto)",
+        "de": "(Plural: Die kontaktlosen Zahlungen)"
+      },
+      "examples": {
+        "en": {
+          "text": "I use my watch for contactless payment.",
+          "es": "Uso mi reloj para pagar sin contacto."
+        },
+        "pt": {
+          "text": "O pagamento por aproximação funciona com meu relógio.",
+          "es": "El pago sin contacto funciona con mi reloj."
+        },
+        "fr": {
+          "text": "Le paiement sans contact fonctionne avec ma montre.",
+          "es": "El pago sin contacto funciona con mi reloj."
+        },
+        "it": {
+          "text": "Il pagamento senza contatto funziona con il mio orologio.",
+          "es": "El pago sin contacto funciona con mi reloj."
+        },
+        "de": {
+          "text": "Die kontaktlose Zahlung funktioniert mit meiner Uhr.",
+          "es": "El pago sin contacto funciona con mi reloj."
+        }
+      }
+    },
+    {
+      "id": "rm130",
+      "es": "Pix",
+      "translations": {
+        "en": "Pix",
+        "pt": "Pix",
+        "fr": "Pix",
+        "it": "Pix",
+        "de": "Pix"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Sistema brasileño de transferencias y pagos instantáneos.",
+        "en": "Sistema brasileño de transferencias y pagos instantáneos.",
+        "pt": "En Brasil, «pagar com Pix» es la forma habitual de decir «pagar con Pix».",
+        "fr": "Sistema brasileño de transferencias y pagos instantáneos.",
+        "it": "Sistema brasileño de transferencias y pagos instantáneos.",
+        "de": "Sistema brasileño de transferencias y pagos instantáneos."
+      },
+      "examples": {
+        "en": {
+          "text": "Can I pay with Pix?",
+          "es": "¿Puedo pagar con Pix?"
+        },
+        "pt": {
+          "text": "Posso pagar com Pix?",
+          "es": "¿Puedo pagar con Pix?"
+        },
+        "fr": {
+          "text": "Je peux payer par Pix ?",
+          "es": "¿Puedo pagar con Pix?"
+        },
+        "it": {
+          "text": "Posso pagare con Pix?",
+          "es": "¿Puedo pagar con Pix?"
+        },
+        "de": {
+          "text": "Kann ich mit Pix bezahlen?",
+          "es": "¿Puedo pagar con Pix?"
+        }
+      }
+    },
+    {
+      "id": "rm131",
+      "es": "La cuenta separada",
+      "translations": {
+        "en": "The separate check",
+        "pt": "A conta separada",
+        "fr": "L'addition séparée",
+        "it": "Il conto separato",
+        "de": "Die getrennte Rechnung"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The separate checks)",
+        "pt": "(Plural: As contas separadas)",
+        "fr": "(Plural: Les additions séparées)",
+        "it": "(Plural: I conti separati)",
+        "de": "(Plural: Die getrennten Rechnungen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The separate check has already been printed.",
+          "es": "La cuenta separada ya está impresa."
+        },
+        "pt": {
+          "text": "A conta separada já foi impressa.",
+          "es": "La cuenta separada ya está impresa."
+        },
+        "fr": {
+          "text": "L'addition séparée est déjà imprimée.",
+          "es": "La cuenta separada ya está impresa."
+        },
+        "it": {
+          "text": "Il conto separato è già stato stampato.",
+          "es": "La cuenta separada ya está impresa."
+        },
+        "de": {
+          "text": "Die getrennte Rechnung ist schon ausgedruckt.",
+          "es": "La cuenta separada ya está impresa."
+        }
+      }
+    },
+    {
+      "id": "rm400",
+      "es": "¿Podría traerme la cuenta, por favor? / ¿Me trae la cuenta, por favor?",
+      "translations": {
+        "en": "Could I have the check, please? / Can I have the bill, please?",
+        "pt": "Poderia me trazer a conta, por favor? / Pode trazer a conta, por favor?",
+        "fr": "Pourrais-je avoir l'addition, s'il vous plaît ? / Pouvez-vous m'apporter l'addition, s'il vous plaît ?",
+        "it": "Potrei avere il conto, per favore? / Mi porta il conto, per favore?",
+        "de": "Könnte ich bitte die Rechnung haben? / Bringen Sie mir bitte die Rechnung?"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "En Estados Unidos, «check» es habitual para la cuenta de un restaurante. (Reino Unido: The bill)"
+      }
+    },
+    {
+      "id": "rm401",
+      "es": "¿Podemos pagar por separado?",
+      "translations": {
+        "en": "Can we pay separately?",
+        "pt": "Podemos pagar separadamente? / Podemos pagar separado?",
+        "fr": "Pouvons-nous payer séparément ?",
+        "it": "Possiamo pagare separatamente?",
+        "de": "Können wir getrennt zahlen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Pregunta por la posibilidad de pagar por separado; no pide necesariamente cuentas impresas individuales."
+      }
+    },
+    {
+      "id": "rm402",
+      "es": "¿Nos puede traer cuentas separadas?",
+      "translations": {
+        "en": "Could we have separate checks?",
+        "pt": "Pode trazer contas separadas para a gente?",
+        "fr": "Pouvez-vous nous apporter des additions séparées ?",
+        "it": "Può portarci conti separati?",
+        "de": "Könnten Sie uns getrennte Rechnungen bringen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Pide cuentas individuales, no solo dividir el pago de una cuenta."
+      }
+    },
+    {
+      "id": "rm403",
+      "es": "Quisiéramos dividir la cuenta en partes iguales.",
+      "translations": {
+        "en": "We'd like to split the check equally.",
+        "pt": "Gostaríamos de dividir a conta em partes iguais.",
+        "fr": "Nous voudrions partager l'addition à parts égales.",
+        "it": "Vorremmo dividere il conto in parti uguali.",
+        "de": "Wir möchten die Rechnung zu gleichen Teilen aufteilen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm404",
+      "es": "Cada quien pagará lo que pidió.",
+      "translations": {
+        "en": "Each person will pay for what they ordered.",
+        "pt": "Cada pessoa vai pagar o que pediu.",
+        "fr": "Chaque personne paiera ce qu'elle a commandé.",
+        "it": "Ognuno pagherà quello che ha ordinato.",
+        "de": "Alle bezahlen, was sie jeweils bestellt haben."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm405",
+      "es": "Todo en una sola cuenta, por favor.",
+      "translations": {
+        "en": "One check for everything, please.",
+        "pt": "Tudo em uma só conta, por favor.",
+        "fr": "Tout sur une seule addition, s'il vous plaît.",
+        "it": "Tutto su un unico conto, per favore.",
+        "de": "Alles auf eine Rechnung, bitte."
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "We asked for one check for everything because it was my treat.",
+          "es": "Pedimos que pusieran todo en una sola cuenta porque yo invitaba."
+        },
+        "pt": {
+          "text": "Pedimos tudo em uma só conta porque eu ia pagar.",
+          "es": "Pedimos que pusieran todo en una sola cuenta porque yo invitaba."
+        },
+        "fr": {
+          "text": "On a demandé de tout mettre sur une seule addition parce que c'est moi qui invitais.",
+          "es": "Pedimos que pusieran todo en una sola cuenta porque yo invitaba."
+        },
+        "it": {
+          "text": "Abbiamo chiesto di mettere tutto su un unico conto perché offrivo io.",
+          "es": "Pedimos que pusieran todo en una sola cuenta porque yo invitaba."
+        },
+        "de": {
+          "text": "Wir haben alles auf eine Rechnung setzen lassen, weil ich eingeladen habe.",
+          "es": "Pedimos que pusieran todo en una sola cuenta porque yo invitaba."
+        }
+      }
+    },
+    {
+      "id": "rm406",
+      "es": "Yo pago la cuenta.",
+      "translations": {
+        "en": "I'll pay the check.",
+        "pt": "Eu pago a conta.",
+        "fr": "C'est moi qui paie l'addition.",
+        "it": "Pago io il conto.",
+        "de": "Ich bezahle die Rechnung."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm407",
+      "es": "¿Aceptan tarjetas de crédito?",
+      "translations": {
+        "en": "Do you take credit cards? / Do you accept credit cards?",
+        "pt": "Vocês aceitam cartão de crédito?",
+        "fr": "Acceptez-vous les cartes de crédit ?",
+        "it": "Accettate carte di credito?",
+        "de": "Akzeptieren Sie Kreditkarten?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm408",
+      "es": "¿Hay un monto mínimo para pagar con tarjeta?",
+      "translations": {
+        "en": "Is there a minimum for card payments?",
+        "pt": "Tem valor mínimo para pagar com cartão?",
+        "fr": "Y a-t-il un montant minimum pour payer par carte ?",
+        "it": "C'è un importo minimo per pagare con carta?",
+        "de": "Gibt es einen Mindestbetrag für Kartenzahlungen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm409",
+      "es": "¿Aceptan tarjetas de débito?",
+      "translations": {
+        "en": "Do you take debit cards?",
+        "pt": "Vocês aceitam cartão de débito?",
+        "fr": "Acceptez-vous les cartes de débit ?",
+        "it": "Accettate carte di debito?",
+        "de": "Akzeptieren Sie Debitkarten?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm410",
+      "es": "¿Puedo pagar en efectivo?",
+      "translations": {
+        "en": "Can I pay in cash?",
+        "pt": "Posso pagar em dinheiro?",
+        "fr": "Puis-je payer en espèces ?",
+        "it": "Posso pagare in contanti?",
+        "de": "Kann ich bar bezahlen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm411",
+      "es": "Quisiera pagar con tarjeta.",
+      "translations": {
+        "en": "I'd like to pay by card.",
+        "pt": "Gostaria de pagar com cartão.",
+        "fr": "Je voudrais payer par carte.",
+        "it": "Vorrei pagare con carta.",
+        "de": "Ich möchte mit Karte bezahlen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm412",
+      "es": "¿Puedo usar otra tarjeta?",
+      "translations": {
+        "en": "Can I use another card?",
+        "pt": "Posso usar outro cartão?",
+        "fr": "Puis-je utiliser une autre carte ?",
+        "it": "Posso usare un'altra carta?",
+        "de": "Kann ich eine andere Karte benutzen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm413",
+      "es": "¿Pueden volver a intentar el pago?",
+      "translations": {
+        "en": "Could you try running the payment again?",
+        "pt": "Podem tentar o pagamento de novo?",
+        "fr": "Pouvez-vous réessayer de passer le paiement ?",
+        "it": "Potete riprovare a effettuare il pagamento?",
+        "de": "Können Sie es mit der Zahlung noch einmal versuchen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm414",
+      "es": "¿Podemos pagar una parte en efectivo y otra con tarjeta?",
+      "translations": {
+        "en": "Can we pay part in cash and part by card?",
+        "pt": "Podemos pagar uma parte em dinheiro e outra no cartão?",
+        "fr": "Pouvons-nous payer une partie en espèces et l'autre par carte ?",
+        "it": "Possiamo pagare una parte in contanti e una con carta?",
+        "de": "Können wir einen Teil bar und den anderen mit Karte zahlen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm415",
+      "es": "¿Aceptan pagos con Pix?",
+      "translations": {
+        "en": "Do you accept Pix payments?",
+        "pt": "Vocês aceitam Pix?",
+        "fr": "Acceptez-vous les paiements par Pix ?",
+        "it": "Accettate pagamenti con Pix?",
+        "de": "Kann man bei Ihnen mit Pix bezahlen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Pix es el sistema brasileño de pagos instantáneos."
+      }
+    },
+    {
+      "id": "rm416",
+      "es": "¿Puedo pagar con el teléfono?",
+      "translations": {
+        "en": "Can I pay with my phone?",
+        "pt": "Posso pagar com o celular?",
+        "fr": "Puis-je payer avec mon téléphone ?",
+        "it": "Posso pagare con il telefono?",
+        "de": "Kann ich mit dem Handy bezahlen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm417",
+      "es": "¿Puedo pagar aquí en la mesa?",
+      "translations": {
+        "en": "Can I pay here at the table?",
+        "pt": "Posso pagar aqui na mesa?",
+        "fr": "Puis-je payer ici à table ?",
+        "it": "Posso pagare qui al tavolo?",
+        "de": "Kann ich hier am Tisch bezahlen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm418",
+      "es": "¿Se paga en la caja?",
+      "translations": {
+        "en": "Do I pay at the register?",
+        "pt": "O pagamento é no caixa?",
+        "fr": "Faut-il payer à la caisse ?",
+        "it": "Si paga alla cassa?",
+        "de": "Bezahlt man an der Kasse?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm419",
+      "es": "¿Puede traer la terminal de pago?",
+      "translations": {
+        "en": "Could you bring the card reader?",
+        "pt": "Pode trazer a maquininha de cartão?",
+        "fr": "Pouvez-vous apporter le terminal de paiement ?",
+        "it": "Può portare il terminale di pagamento?",
+        "de": "Könnten Sie das Kartenlesegerät bringen?"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "«Maquininha» es una forma habitual en Brasil para la terminal de pago."
+      }
+    },
+    {
+      "id": "rm420",
+      "es": "¿Ya está incluido el cargo por servicio?",
+      "translations": {
+        "en": "Is service included?",
+        "pt": "A taxa de serviço já está incluída?",
+        "fr": "Le service est-il compris ?",
+        "it": "Il servizio è già incluso?",
+        "de": "Ist die Bedienung im Preis inbegriffen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Pregunta por el cargo de servicio, no por una propina voluntaria."
+      }
+    },
+    {
+      "id": "rm421",
+      "es": "¿Cobran cubierto por persona?",
+      "translations": {
+        "en": "Is there a per-person cover charge?",
+        "pt": "É cobrada uma taxa de couvert por pessoa?",
+        "fr": "Le couvert est-il facturé par personne ?",
+        "it": "Il coperto si paga a persona?",
+        "de": "Berechnen Sie eine Gedeckgebühr pro Person?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "El cubierto puede ser un cargo fijo por persona, distinto del servicio y de la propina.",
+        "pt": "En Brasil, «couvert» puede referirse a aperitivos; «couvert artístico» es un cargo por entretenimiento."
+      }
+    },
+    {
+      "id": "rm422",
+      "es": "¿La propina está incluida?",
+      "translations": {
+        "en": "Is the tip included?",
+        "pt": "A gorjeta está incluída?",
+        "fr": "Le pourboire est-il compris ?",
+        "it": "La mancia è inclusa?",
+        "de": "Ist das Trinkgeld inbegriffen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Pregunta por la propina; no equivale automáticamente a un cargo de servicio."
+      }
+    },
+    {
+      "id": "rm423",
+      "es": "¿Los impuestos están incluidos?",
+      "translations": {
+        "en": "Are taxes included?",
+        "pt": "Os impostos estão incluídos?",
+        "fr": "Les taxes sont-elles comprises ?",
+        "it": "Le imposte sono incluse?",
+        "de": "Sind die Steuern inbegriffen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm424",
+      "es": "¿Puedo dejar la propina con tarjeta?",
+      "translations": {
+        "en": "Can I leave the tip on my card?",
+        "pt": "Posso deixar a gorjeta no cartão?",
+        "fr": "Puis-je laisser un pourboire par carte ?",
+        "it": "Posso lasciare la mancia con la carta?",
+        "de": "Kann ich das Trinkgeld mit Karte geben?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm425",
+      "es": "Quédese con el cambio.",
+      "translations": {
+        "en": "Keep the change.",
+        "pt": "Pode ficar com o troco.",
+        "fr": "Gardez la monnaie.",
+        "it": "Tenga il resto.",
+        "de": "Stimmt so."
+      },
+      "image_url": "",
+      "notes": {
+        "de": "Fórmula que se usa al pagar en efectivo para indicar que no quieres que te den cambio."
+      }
+    },
+    {
+      "id": "rm426",
+      "es": "¿Me puede dar un recibo?",
+      "translations": {
+        "en": "Could I have a receipt?",
+        "pt": "Pode me dar um comprovante de pagamento?",
+        "fr": "Pouvez-vous me donner un reçu ?",
+        "it": "Può darmi una ricevuta? / Può darmi lo scontrino?",
+        "de": "Könnte ich bitte einen Kassenbon haben?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm427",
+      "es": "Necesito un recibo impreso.",
+      "translations": {
+        "en": "I need a printed receipt.",
+        "pt": "Preciso de um comprovante impresso.",
+        "fr": "J'ai besoin d'un reçu imprimé.",
+        "it": "Mi serve una ricevuta stampata.",
+        "de": "Ich brauche einen ausgedruckten Kassenbon."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm428",
+      "es": "¿Me puede dar una factura?",
+      "translations": {
+        "en": "Could I have an invoice?",
+        "pt": "Pode me emitir uma nota fiscal?",
+        "fr": "Pouvez-vous me donner une facture ?",
+        "it": "Può darmi una fattura?",
+        "de": "Könnte ich bitte eine Rechnung für meine Unterlagen bekommen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Aquí «factura» significa un comprobante fiscal, no la cuenta de la mesa ni un recibo simple."
+      }
+    },
+    {
+      "id": "rm429",
+      "es": "¿Cuánto es en total?",
+      "translations": {
+        "en": "How much is it altogether?",
+        "pt": "Quanto dá no total?",
+        "fr": "Combien cela fait-il au total ?",
+        "it": "Quanto viene in totale?",
+        "de": "Wie viel macht das insgesamt?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm430",
+      "es": "Creo que hay un error en la cuenta.",
+      "translations": {
+        "en": "I think there's a mistake on the check.",
+        "pt": "Acho que tem um erro na conta.",
+        "fr": "Je crois qu'il y a une erreur dans l'addition.",
+        "it": "Credo che ci sia un errore nel conto.",
+        "de": "Ich glaube, auf der Rechnung ist ein Fehler."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm431",
+      "es": "No pedimos esto.",
+      "translations": {
+        "en": "We didn't order this.",
+        "pt": "Não pedimos isto.",
+        "fr": "Nous n'avons pas commandé ceci.",
+        "it": "Non abbiamo ordinato questo.",
+        "de": "Das haben wir nicht bestellt."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm432",
+      "es": "¿Qué es este cargo?",
+      "translations": {
+        "en": "What's this charge for?",
+        "pt": "O que é esta cobrança?",
+        "fr": "À quoi correspondent ces frais ?",
+        "it": "Che cos'è questo addebito?",
+        "de": "Wofür ist dieser Betrag?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm433",
+      "es": "¿Puede revisar la cuenta, por favor?",
+      "translations": {
+        "en": "Could you take another look at the check, please?",
+        "pt": "Pode conferir a conta, por favor?",
+        "fr": "Pouvez-vous vérifier l'addition, s'il vous plaît ?",
+        "it": "Può controllare il conto, per favore?",
+        "de": "Könnten Sie bitte die Rechnung prüfen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm443",
+      "es": "¿Cuánto cuesta ese extra?",
+      "translations": {
+        "en": "How much does that extra cost?",
+        "pt": "Quanto custa esse extra?",
+        "fr": "Combien coûte ce supplément ?",
+        "it": "Quanto costa quell'aggiunta?",
+        "de": "Wie viel kostet das extra?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm444",
+      "es": "Esto no es lo que pedí.",
+      "translations": {
+        "en": "This isn't what I ordered.",
+        "pt": "Não foi isso que eu pedi.",
+        "fr": "Ce n'est pas ce que j'ai commandé.",
+        "it": "Non è quello che ho ordinato.",
+        "de": "Das ist nicht das, was ich bestellt habe."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm445",
+      "es": "Falta uno de nuestros platillos.",
+      "translations": {
+        "en": "One of our dishes is missing.",
+        "pt": "Está faltando um dos nossos pratos.",
+        "fr": "Il manque un de nos plats.",
+        "it": "Manca uno dei nostri piatti.",
+        "de": "Eines unserer Gerichte fehlt noch."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm446",
+      "es": "Mi comida está fría.",
+      "translations": {
+        "en": "My food is cold.",
+        "pt": "Minha comida está fria.",
+        "fr": "Mon plat est froid.",
+        "it": "Il mio piatto è freddo.",
+        "de": "Mein Essen ist kalt."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm447",
+      "es": "Esta carne está demasiado cruda para mí.",
+      "translations": {
+        "en": "This meat is too rare for me. / This meat isn't cooked enough for me.",
+        "pt": "Esta carne está malpassada demais para mim.",
+        "fr": "Cette viande n'est pas assez cuite pour moi.",
+        "it": "Questa carne è troppo al sangue per me. / Questa carne non è abbastanza cotta per me.",
+        "de": "Das Fleisch ist mir zu roh."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm448",
+      "es": "¿Podría cocinarla un poco más?",
+      "translations": {
+        "en": "Could you cook it a little more?",
+        "pt": "Poderia cozinhar um pouco mais?",
+        "fr": "Pourriez-vous la cuire un peu plus ?",
+        "it": "Potrebbe cuocerla un po' di più?",
+        "de": "Könnten Sie es etwas länger garen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm449",
+      "es": "Pedí este platillo sin queso.",
+      "translations": {
+        "en": "I ordered this dish without cheese.",
+        "pt": "Pedi este prato sem queijo.",
+        "fr": "J'ai commandé ce plat sans fromage.",
+        "it": "Ho ordinato questo piatto senza formaggio.",
+        "de": "Ich habe dieses Gericht ohne Käse bestellt."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm450",
+      "es": "¿Puede traerme el platillo que pedí?",
+      "translations": {
+        "en": "Could you bring me the dish I ordered?",
+        "pt": "Pode me trazer o prato que eu pedi?",
+        "fr": "Pouvez-vous m'apporter le plat que j'ai commandé ?",
+        "it": "Può portarmi il piatto che ho ordinato?",
+        "de": "Könnten Sie mir das Gericht bringen, das ich bestellt habe?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm451",
+      "es": "No puedo comer esto.",
+      "translations": {
+        "en": "I can't eat this.",
+        "pt": "Não posso comer isto.",
+        "fr": "Je ne peux pas manger ceci.",
+        "it": "Non posso mangiare questo.",
+        "de": "Das kann ich nicht essen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm452",
+      "es": "¿Puede revisar si nuestro pedido ya está listo?",
+      "translations": {
+        "en": "Could you check whether our order is ready?",
+        "pt": "Pode verificar se nosso pedido está pronto?",
+        "fr": "Pouvez-vous vérifier si notre commande est prête ?",
+        "it": "Può controllare se la nostra ordinazione è pronta?",
+        "de": "Könnten Sie nachsehen, ob unsere Bestellung fertig ist?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm524",
+      "es": "Lo siento por la demora.",
+      "translations": {
+        "en": "Sorry for the wait.",
+        "pt": "Desculpe pela demora.",
+        "fr": "Veuillez nous excuser pour l'attente.",
+        "it": "Mi dispiace per l'attesa.",
+        "de": "Entschuldigen Sie die Wartezeit."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm525",
+      "es": "Su pedido estará listo pronto.",
+      "translations": {
+        "en": "Your order will be ready soon.",
+        "pt": "Seu pedido vai ficar pronto em breve.",
+        "fr": "Votre commande sera bientôt prête.",
+        "it": "La sua ordinazione sarà pronta a breve.",
+        "de": "Ihre Bestellung ist gleich fertig."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm526",
+      "es": "Lo siento, voy a corregir el pedido.",
+      "translations": {
+        "en": "Sorry, I'll fix the order.",
+        "pt": "Desculpe, vou corrigir o pedido.",
+        "fr": "Veuillez m'excuser, je vais corriger la commande.",
+        "it": "Mi dispiace, correggo l'ordinazione.",
+        "de": "Entschuldigung, ich korrigiere die Bestellung."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm527",
+      "es": "¿Van a pagar juntos o por separado? / ¿Una sola cuenta o cuentas separadas?",
+      "translations": {
+        "en": "Are you paying together or separately? / One check or separate checks?",
+        "pt": "Vão pagar tudo junto ou separado? / Uma conta só ou contas separadas?",
+        "fr": "Vous payez ensemble ou séparément ? / Une seule addition ou des additions séparées ?",
+        "it": "Pagate insieme o separatamente? / Un conto unico o conti separati?",
+        "de": "Zahlen Sie zusammen oder getrennt? / Eine Rechnung oder getrennte Rechnungen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm528",
+      "es": "¿Cómo desea pagar?",
+      "translations": {
+        "en": "How would you like to pay?",
+        "pt": "Como gostaria de pagar?",
+        "fr": "Comment souhaitez-vous payer ?",
+        "it": "Come desidera pagare?",
+        "de": "Wie möchten Sie bezahlen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm529",
+      "es": "¿En efectivo o con tarjeta?",
+      "translations": {
+        "en": "Cash or card?",
+        "pt": "Em dinheiro ou no cartão?",
+        "fr": "En espèces ou par carte ?",
+        "it": "In contanti o con carta?",
+        "de": "Bar oder mit Karte?"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I got to the register, and they asked, “Cash or card?”",
+          "es": "Llegué a la caja y me preguntaron: «¿En efectivo o con tarjeta?»."
+        },
+        "pt": {
+          "text": "Cheguei ao caixa e me perguntaram: «Em dinheiro ou no cartão?»",
+          "es": "Llegué a la caja y me preguntaron: «¿En efectivo o con tarjeta?»."
+        },
+        "fr": {
+          "text": "Quand je suis arrivé à la caisse, on m'a demandé : « En espèces ou par carte ? »",
+          "es": "Llegué a la caja y me preguntaron: «¿En efectivo o con tarjeta?»."
+        },
+        "it": {
+          "text": "Quando sono arrivato alla cassa, mi hanno chiesto: «In contanti o con carta?»",
+          "es": "Llegué a la caja y me preguntaron: «¿En efectivo o con tarjeta?»."
+        },
+        "de": {
+          "text": "An der Kasse hat man mich gefragt: „Bar oder mit Karte?“",
+          "es": "En la caja me preguntaron: «¿En efectivo o con tarjeta?»."
+        }
+      }
+    },
+    {
+      "id": "rm530",
+      "es": "¿Crédito o débito?",
+      "translations": {
+        "en": "Credit or debit?",
+        "pt": "Crédito ou débito?",
+        "fr": "Carte de crédit ou de débit ?",
+        "it": "Carta di credito o di debito?",
+        "de": "Kreditkarte oder Debitkarte?"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I took out my card, and they asked, “Credit or debit?”",
+          "es": "Saqué mi tarjeta y me preguntaron: «¿Crédito o débito?»."
+        },
+        "pt": {
+          "text": "Peguei meu cartão e me perguntaram: «Crédito ou débito?»",
+          "es": "Tomé mi tarjeta y me preguntaron: «¿Crédito o débito?»."
+        },
+        "fr": {
+          "text": "J'ai sorti ma carte et on m'a demandé : « Carte de crédit ou de débit ? »",
+          "es": "Saqué mi tarjeta y me preguntaron: «¿Tarjeta de crédito o de débito?»."
+        },
+        "it": {
+          "text": "Ho tirato fuori la carta e mi hanno chiesto: «Carta di credito o di debito?»",
+          "es": "Saqué mi tarjeta y me preguntaron: «¿Tarjeta de crédito o de débito?»."
+        },
+        "de": {
+          "text": "Ich habe meine Karte rausgeholt, und man hat mich gefragt: „Kreditkarte oder Debitkarte?“",
+          "es": "Saqué mi tarjeta y me preguntaron: «¿Tarjeta de crédito o de débito?»."
+        }
+      }
+    },
+    {
+      "id": "rm531",
+      "es": "Solo aceptamos efectivo.",
+      "translations": {
+        "en": "We only accept cash.",
+        "pt": "Só aceitamos dinheiro.",
+        "fr": "Nous n'acceptons que les espèces.",
+        "it": "Accettiamo solo contanti.",
+        "de": "Wir nehmen nur Bargeld."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm532",
+      "es": "El servicio está incluido.",
+      "translations": {
+        "en": "Service is included.",
+        "pt": "O serviço está incluído.",
+        "fr": "Le service est compris.",
+        "it": "Il servizio è incluso.",
+        "de": "Die Bedienung ist im Preis inbegriffen."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "«Servicio» se refiere al cargo de servicio, no necesariamente a una propina."
+      }
+    },
+    {
+      "id": "rm533",
+      "es": "La propina no está incluida.",
+      "translations": {
+        "en": "The tip isn't included.",
+        "pt": "A gorjeta não está incluída.",
+        "fr": "Le pourboire n'est pas compris.",
+        "it": "La mancia non è inclusa.",
+        "de": "Das Trinkgeld ist nicht inbegriffen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm534",
+      "es": "Puede pagar en la caja.",
+      "translations": {
+        "en": "You can pay at the register.",
+        "pt": "Pode pagar no caixa.",
+        "fr": "Vous pouvez payer à la caisse.",
+        "it": "Può pagare alla cassa.",
+        "de": "Sie können an der Kasse bezahlen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm535",
+      "es": "Puede acercar su tarjeta a la terminal.",
+      "translations": {
+        "en": "You can tap your card.",
+        "pt": "Pode aproximar o cartão.",
+        "fr": "Vous pouvez approcher votre carte du terminal.",
+        "it": "Può avvicinare la carta al lettore.",
+        "de": "Sie können Ihre Karte ans Lesegerät halten."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Para un pago sin contacto, sin insertar la tarjeta."
+      }
+    },
+    {
+      "id": "rm536",
+      "es": "Inserte su tarjeta, por favor.",
+      "translations": {
+        "en": "Please insert your card.",
+        "pt": "Insira seu cartão, por favor.",
+        "fr": "Insérez votre carte, s'il vous plaît.",
+        "it": "Inserisca la carta, per favore.",
+        "de": "Stecken Sie bitte Ihre Karte ein."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm537",
+      "es": "Ingrese su NIP, por favor.",
+      "translations": {
+        "en": "Please enter your PIN.",
+        "pt": "Digite a senha do cartão, por favor.",
+        "fr": "Saisissez votre code PIN, s'il vous plaît.",
+        "it": "Inserisca il PIN, per favore.",
+        "de": "Geben Sie bitte Ihre PIN ein."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "NIP: número de identificación personal. En la terminal también puede aparecer «PIN»."
+      }
+    },
+    {
+      "id": "rm538",
+      "es": "Puede retirar su tarjeta.",
+      "translations": {
+        "en": "You can remove your card.",
+        "pt": "Pode retirar seu cartão.",
+        "fr": "Vous pouvez retirer votre carte.",
+        "it": "Può rimuovere la carta.",
+        "de": "Sie können Ihre Karte herausnehmen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm539",
+      "es": "Su tarjeta fue rechazada.",
+      "translations": {
+        "en": "Your card was declined.",
+        "pt": "Seu cartão foi recusado.",
+        "fr": "Votre carte a été refusée.",
+        "it": "La carta è stata rifiutata.",
+        "de": "Ihre Karte wurde abgelehnt."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm540",
+      "es": "¿Tiene otra forma de pago?",
+      "translations": {
+        "en": "Do you have another way to pay?",
+        "pt": "Você tem outra forma de pagamento?",
+        "fr": "Avez-vous un autre moyen de paiement ?",
+        "it": "Ha un altro metodo di pagamento?",
+        "de": "Können Sie anders bezahlen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm541",
+      "es": "¿Desea un recibo?",
+      "translations": {
+        "en": "Would you like a receipt?",
+        "pt": "Gostaria de um recibo?",
+        "fr": "Souhaitez-vous un reçu ?",
+        "it": "Desidera una ricevuta?",
+        "de": "Möchten Sie einen Kassenbon?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm542",
+      "es": "Aquí tiene su cambio.",
+      "translations": {
+        "en": "Here's your change.",
+        "pt": "Aqui está seu troco.",
+        "fr": "Voici votre monnaie.",
+        "it": "Ecco il resto.",
+        "de": "Hier ist Ihr Wechselgeld."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm543",
+      "es": "Gracias, que tenga un buen día.",
+      "translations": {
+        "en": "Thank you, have a nice day.",
+        "pt": "Obrigado, tenha um bom dia. / Obrigada, tenha um bom dia.",
+        "fr": "Merci, bonne journée.",
+        "it": "Grazie, buona giornata.",
+        "de": "Vielen Dank. Ich wünsche Ihnen einen schönen Tag."
+      },
+      "image_url": ""
+    }
+  ]
+}

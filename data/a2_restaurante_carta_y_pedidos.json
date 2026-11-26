@@ -1,0 +1,2884 @@
+{
+  "module": "Carta y pedidos en restaurante",
+  "level": "A2",
+  "revisado": true,
+  "cards": [
+    {
+      "id": "rm81",
+      "es": "El menú / La carta",
+      "translations": {
+        "en": "The menu",
+        "pt": "O cardápio",
+        "fr": "La carte",
+        "it": "Il menù",
+        "de": "Die Speisekarte"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Lista de platillos, no una selección de tiempos a precio fijo)",
+        "fr": "En restaurantes, «carte» es la lista de platillos; «menu» puede indicar una selección de tiempos por un precio fijo. (Plural: Les cartes)",
+        "de": "«Speisekarte» designa la carta de un restaurante. «Menü» suele referirse a una comida de varios tiempos. (Plural: Die Speisekarten)",
+        "en": "(Plural: The menus)",
+        "pt": "(Plural: Os cardápios)",
+        "it": "(Plural: I menù)"
+      },
+      "examples": {
+        "en": {
+          "text": "Scan the QR code to see the menu.",
+          "es": "Escanea el código QR para ver el menú."
+        },
+        "pt": {
+          "text": "O cardápio está disponível pelo código QR.",
+          "es": "El menú se puede consultar con el código QR."
+        },
+        "fr": {
+          "text": "La carte est accessible par le code QR.",
+          "es": "El menú se puede consultar con el código QR."
+        },
+        "it": {
+          "text": "Il menù è disponibile tramite il codice QR.",
+          "es": "El menú se puede consultar con el código QR."
+        },
+        "de": {
+          "text": "Die Speisekarte ist über den QR-Code abrufbar.",
+          "es": "El menú se puede consultar con el código QR."
+        }
+      }
+    },
+    {
+      "id": "rm82",
+      "es": "La carta de bebidas",
+      "translations": {
+        "en": "The drink menu",
+        "pt": "O cardápio de bebidas",
+        "fr": "La carte des boissons",
+        "it": "Il menù delle bevande",
+        "de": "Die Getränkekarte"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The drink menus)",
+        "pt": "(Plural: Os cardápios de bebidas)",
+        "fr": "(Plural: Les cartes des boissons)",
+        "it": "(Plural: I menù delle bevande)",
+        "de": "(Plural: Die Getränkekarten)"
+      },
+      "examples": {
+        "en": {
+          "text": "The drink menu includes homemade lemonade.",
+          "es": "La carta de bebidas incluye limonada casera."
+        },
+        "pt": {
+          "text": "O cardápio de bebidas inclui limonada caseira.",
+          "es": "La carta de bebidas incluye limonada casera."
+        },
+        "fr": {
+          "text": "La carte des boissons propose de la citronnade maison.",
+          "es": "La carta de bebidas incluye limonada casera."
+        },
+        "it": {
+          "text": "Il menù delle bevande include una limonata fatta in casa.",
+          "es": "La carta de bebidas incluye limonada casera."
+        },
+        "de": {
+          "text": "Auf der Getränkekarte steht hausgemachte Zitronenlimonade.",
+          "es": "La carta de bebidas incluye limonada casera."
+        }
+      }
+    },
+    {
+      "id": "rm83",
+      "es": "La carta de vinos",
+      "translations": {
+        "en": "The wine list",
+        "pt": "A carta de vinhos",
+        "fr": "La carte des vins",
+        "it": "La carta dei vini",
+        "de": "Die Weinkarte"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The wine lists)",
+        "pt": "(Plural: As cartas de vinhos)",
+        "fr": "(Plural: Les cartes des vins)",
+        "it": "(Plural: Le carte dei vini)",
+        "de": "(Plural: Die Weinkarten)"
+      },
+      "examples": {
+        "en": {
+          "text": "The wine list includes local wines.",
+          "es": "La carta de vinos incluye vinos de la región."
+        },
+        "pt": {
+          "text": "A carta de vinhos inclui vinhos da região.",
+          "es": "La carta de vinos incluye vinos de la región."
+        },
+        "fr": {
+          "text": "La carte des vins propose des vins de la région.",
+          "es": "La carta de vinos incluye vinos de la región."
+        },
+        "it": {
+          "text": "La carta dei vini include vini della regione.",
+          "es": "La carta de vinos incluye vinos de la región."
+        },
+        "de": {
+          "text": "Die Weinkarte enthält Weine aus der Region.",
+          "es": "La carta de vinos incluye vinos de la región."
+        }
+      }
+    },
+    {
+      "id": "rm84",
+      "es": "El menú del día",
+      "translations": {
+        "en": "The daily set menu",
+        "pt": "O menu do dia",
+        "fr": "Le menu du jour",
+        "it": "Il menù del giorno",
+        "de": "Das Tagesmenü"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Selección de tiempos que ofrece el restaurante para ese día; no un único platillo)",
+        "en": "(Plural: The daily set menus)",
+        "pt": "(Plural: Os menus do dia)",
+        "fr": "(Plural: Les menus du jour)",
+        "it": "(Plural: I menù del giorno)",
+        "de": "(Plural: Die Tagesmenüs)"
+      },
+      "examples": {
+        "en": {
+          "text": "The daily set menu includes soup and a main course.",
+          "es": "El menú del día incluye sopa y un plato fuerte."
+        },
+        "pt": {
+          "text": "O menu do dia inclui sopa e prato principal.",
+          "es": "El menú del día incluye sopa y un plato fuerte."
+        },
+        "fr": {
+          "text": "Le menu du jour comprend une soupe et un plat principal.",
+          "es": "El menú del día incluye sopa y un plato fuerte."
+        },
+        "it": {
+          "text": "Il menù del giorno comprende una zuppa e un piatto principale.",
+          "es": "El menú del día incluye sopa y un plato fuerte."
+        },
+        "de": {
+          "text": "Das Tagesmenü enthält eine Suppe und ein Hauptgericht.",
+          "es": "El menú del día incluye sopa y un plato fuerte."
+        }
+      }
+    },
+    {
+      "id": "rm85",
+      "es": "El menú de precio fijo",
+      "translations": {
+        "en": "The fixed-price menu / The prix fixe menu",
+        "pt": "O menu de preço fixo",
+        "fr": "Le menu à prix fixe",
+        "it": "Il menù a prezzo fisso",
+        "de": "Das Menü zum Festpreis"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The fixed-price menus)",
+        "pt": "(Plural: Os menus de preço fixo)",
+        "fr": "(Plural: Les menus à prix fixe)",
+        "it": "(Plural: I menù a prezzo fisso)",
+        "de": "(Plural: Die Menüs zum Festpreis)"
+      },
+      "examples": {
+        "en": {
+          "text": "The fixed-price menu includes dessert.",
+          "es": "El menú de precio fijo incluye un postre."
+        },
+        "pt": {
+          "text": "O menu de preço fixo inclui uma sobremesa.",
+          "es": "El menú de precio fijo incluye un postre."
+        },
+        "fr": {
+          "text": "Le menu à prix fixe comprend un dessert.",
+          "es": "El menú de precio fijo incluye un postre."
+        },
+        "it": {
+          "text": "Il menù a prezzo fisso comprende un dolce.",
+          "es": "El menú de precio fijo incluye un postre."
+        },
+        "de": {
+          "text": "Das Menü zum Festpreis enthält ein Dessert.",
+          "es": "El menú de precio fijo incluye un postre."
+        }
+      }
+    },
+    {
+      "id": "rm86",
+      "es": "A la carta",
+      "translations": {
+        "en": "À la carte",
+        "pt": "À la carte",
+        "fr": "À la carte",
+        "it": "Alla carta",
+        "de": "À la carte"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Platillos que se piden individualmente, no como parte de un menú fijo)"
+      },
+      "examples": {
+        "en": {
+          "text": "We ordered à la carte because we didn't want the set menu.",
+          "es": "Pedimos a la carta porque no queríamos el menú fijo."
+        },
+        "pt": {
+          "text": "Pedimos à la carte porque não queríamos o menu fixo.",
+          "es": "Pedimos a la carta porque no queríamos el menú fijo."
+        },
+        "fr": {
+          "text": "On a commandé à la carte parce qu'on ne voulait pas du menu fixe.",
+          "es": "Pedimos a la carta porque no queríamos el menú fijo."
+        },
+        "it": {
+          "text": "Abbiamo ordinato alla carta perché non volevamo il menù fisso.",
+          "es": "Pedimos a la carta porque no queríamos el menú fijo."
+        },
+        "de": {
+          "text": "Wir haben à la carte bestellt, weil wir kein festes Menü wollten.",
+          "es": "Pedimos a la carta porque no queríamos el menú fijo."
+        }
+      }
+    },
+    {
+      "id": "rm87",
+      "es": "El menú infantil",
+      "translations": {
+        "en": "The kids' menu",
+        "pt": "O cardápio infantil / O menu infantil",
+        "fr": "Le menu enfant",
+        "it": "Il menù per bambini",
+        "de": "Die Kinderkarte"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The kids' menus)",
+        "pt": "(Plural: Os cardápios infantis)",
+        "fr": "(Plural: Les menus enfant)",
+        "it": "(Plural: I menù per bambini)",
+        "de": "(Plural: Die Kinderkarten)"
+      },
+      "examples": {
+        "en": {
+          "text": "The kids' menu includes a small serving of pasta.",
+          "es": "El menú infantil incluye una porción pequeña de pasta."
+        },
+        "pt": {
+          "text": "O cardápio infantil inclui uma porção pequena de macarrão.",
+          "es": "El menú infantil incluye una porción pequeña de pasta."
+        },
+        "fr": {
+          "text": "Le menu enfant comprend une petite portion de pâtes.",
+          "es": "El menú infantil incluye una porción pequeña de pasta."
+        },
+        "it": {
+          "text": "Il menù per bambini include una piccola porzione di pasta.",
+          "es": "El menú infantil incluye una porción pequeña de pasta."
+        },
+        "de": {
+          "text": "Die Kinderkarte enthält eine kleine Portion Nudeln.",
+          "es": "El menú infantil incluye una porción pequeña de pasta."
+        }
+      }
+    },
+    {
+      "id": "rm88",
+      "es": "La especialidad de la casa",
+      "translations": {
+        "en": "The house specialty",
+        "pt": "A especialidade da casa",
+        "fr": "La spécialité de la maison",
+        "it": "La specialità della casa",
+        "de": "Die Spezialität des Hauses"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The house specialties)",
+        "pt": "(Plural: As especialidades da casa)",
+        "fr": "(Plural: Les spécialités de la maison)",
+        "it": "(Plural: Le specialità della casa)",
+        "de": "(Plural: Die Spezialitäten des Hauses)"
+      },
+      "examples": {
+        "en": {
+          "text": "The house specialty is grilled fish.",
+          "es": "La especialidad de la casa es el pescado a la parrilla."
+        },
+        "pt": {
+          "text": "A especialidade da casa é o peixe grelhado.",
+          "es": "La especialidad de la casa es el pescado a la parrilla."
+        },
+        "fr": {
+          "text": "La spécialité de la maison est le poisson grillé.",
+          "es": "La especialidad de la casa es el pescado a la parrilla."
+        },
+        "it": {
+          "text": "La specialità della casa è il pesce alla griglia.",
+          "es": "La especialidad de la casa es el pescado a la parrilla."
+        },
+        "de": {
+          "text": "Die Spezialität des Hauses ist der gegrillte Fisch.",
+          "es": "La especialidad de la casa es el pescado a la parrilla."
+        }
+      }
+    },
+    {
+      "id": "rm89",
+      "es": "El platillo del día",
+      "translations": {
+        "en": "The dish of the day",
+        "pt": "O prato do dia",
+        "fr": "Le plat du jour",
+        "it": "Il piatto del giorno",
+        "de": "Das Tagesgericht"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Un platillo preparado ese día, no un menú completo)",
+        "en": "(Plural: The dishes of the day)",
+        "pt": "(Plural: Os pratos do dia)",
+        "fr": "(Plural: Les plats du jour)",
+        "it": "(Plural: I piatti del giorno)",
+        "de": "(Plural: Die Tagesgerichte)"
+      },
+      "examples": {
+        "en": {
+          "text": "The dish of the day changes daily.",
+          "es": "El platillo del día cambia a diario."
+        },
+        "pt": {
+          "text": "O prato do dia muda todos os dias.",
+          "es": "El platillo del día cambia a diario."
+        },
+        "fr": {
+          "text": "Le plat du jour change tous les jours.",
+          "es": "El platillo del día cambia a diario."
+        },
+        "it": {
+          "text": "Il piatto del giorno cambia ogni giorno.",
+          "es": "El platillo del día cambia a diario."
+        },
+        "de": {
+          "text": "Das Tagesgericht wechselt täglich.",
+          "es": "El platillo del día cambia a diario."
+        }
+      }
+    },
+    {
+      "id": "rm97",
+      "es": "El aperitivo",
+      "translations": {
+        "en": "The aperitif",
+        "pt": "O aperitivo",
+        "fr": "L'apéritif",
+        "it": "L'aperitivo",
+        "de": "Der Aperitif"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(En esta tarjeta, bebida que se sirve antes de comer, no un platillo)",
+        "en": "(Plural: The aperitifs)",
+        "pt": "(Plural: Os aperitivos)",
+        "fr": "(Plural: Les apéritifs)",
+        "it": "(Plural: Gli aperitivi)",
+        "de": "(Plural: Die Aperitifs)"
+      },
+      "examples": {
+        "en": {
+          "text": "The aperitif is served before dinner.",
+          "es": "El aperitivo se sirve antes de la cena."
+        },
+        "pt": {
+          "text": "O aperitivo é servido antes do jantar.",
+          "es": "El aperitivo se sirve antes de la cena."
+        },
+        "fr": {
+          "text": "L'apéritif est servi avant le dîner.",
+          "es": "El aperitivo se sirve antes de la cena."
+        },
+        "it": {
+          "text": "L'aperitivo viene servito prima di cena.",
+          "es": "El aperitivo se sirve antes de la cena."
+        },
+        "de": {
+          "text": "Der Aperitif wird vor dem Abendessen serviert.",
+          "es": "El aperitivo se sirve antes de la cena."
+        }
+      }
+    },
+    {
+      "id": "rm90",
+      "es": "La entrada",
+      "translations": {
+        "en": "The appetizer",
+        "pt": "A entrada",
+        "fr": "L'entrée",
+        "it": "L'antipasto",
+        "de": "Die Vorspeise"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Platillo que se sirve antes del plato fuerte)",
+        "en": "Falso amigo: en Estados Unidos, «entrée» es normalmente el plato fuerte, no la entrada. (Plural: The appetizers)",
+        "fr": "«Entrée» se refiere al platillo que precede al plato fuerte. (Plural: Les entrées)",
+        "pt": "(Plural: As entradas)",
+        "it": "(Plural: Gli antipasti)",
+        "de": "(Plural: Die Vorspeisen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The appetizer came before the drinks.",
+          "es": "La entrada llegó antes que las bebidas."
+        },
+        "pt": {
+          "text": "A entrada chegou antes das bebidas.",
+          "es": "La entrada llegó antes que las bebidas."
+        },
+        "fr": {
+          "text": "L'entrée est arrivée avant les boissons.",
+          "es": "La entrada llegó antes que las bebidas."
+        },
+        "it": {
+          "text": "L'antipasto è arrivato prima delle bevande.",
+          "es": "La entrada llegó antes que las bebidas."
+        },
+        "de": {
+          "text": "Die Vorspeise kam vor den Getränken.",
+          "es": "La entrada llegó antes que las bebidas."
+        }
+      }
+    },
+    {
+      "id": "rm91",
+      "es": "El plato fuerte / El plato principal",
+      "translations": {
+        "en": "The main course",
+        "pt": "O prato principal",
+        "fr": "Le plat principal",
+        "it": "Il piatto principale",
+        "de": "Das Hauptgericht"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "En Estados Unidos también se dice «entrée». Falso amigo: no confundir con la entrada que se sirve antes del plato fuerte. (Plural: The main courses)",
+        "pt": "(Plural: Os pratos principais)",
+        "fr": "(Plural: Les plats principaux)",
+        "it": "(Plural: I piatti principali)",
+        "de": "(Plural: Die Hauptgerichte)"
+      },
+      "examples": {
+        "en": {
+          "text": "The main course comes with rice and vegetables.",
+          "es": "El plato fuerte incluye arroz y verduras."
+        },
+        "pt": {
+          "text": "O prato principal vem com arroz e legumes.",
+          "es": "El plato fuerte incluye arroz y verduras."
+        },
+        "fr": {
+          "text": "Le plat principal est servi avec du riz et des légumes.",
+          "es": "El plato fuerte incluye arroz y verduras."
+        },
+        "it": {
+          "text": "Il piatto principale è servito con riso e verdure.",
+          "es": "El plato fuerte incluye arroz y verduras."
+        },
+        "de": {
+          "text": "Das Hauptgericht wird mit Reis und Gemüse serviert.",
+          "es": "El plato fuerte incluye arroz y verduras."
+        }
+      }
+    },
+    {
+      "id": "rm92",
+      "es": "El primer plato italiano",
+      "translations": {
+        "en": "The first course",
+        "pt": "O primeiro prato",
+        "fr": "Le premier plat",
+        "it": "Il primo piatto",
+        "de": "Der erste Gang"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Primer plato de una comida al estilo italiano; puede ser pasta, arroz o sopa)",
+        "en": "En una carta italiana se puede ver «primo». (Plural: The first courses)",
+        "it": "En las cartas, también se usa la forma abreviada «primo». (Plural: I primi piatti)",
+        "pt": "(Plural: Os primeiros pratos)",
+        "fr": "(Plural: Les premiers plats)",
+        "de": "(Plural: Die ersten Gänge)"
+      },
+      "examples": {
+        "en": {
+          "text": "The first course in Italy is often pasta or rice.",
+          "es": "El primer plato en Italia suele ser de pasta o arroz."
+        },
+        "pt": {
+          "text": "O primeiro prato na Itália costuma ser de massa ou arroz.",
+          "es": "El primer plato en Italia suele ser de pasta o arroz."
+        },
+        "fr": {
+          "text": "Le premier plat en Italie est souvent composé de pâtes ou de riz.",
+          "es": "El primer plato en Italia suele ser de pasta o arroz."
+        },
+        "it": {
+          "text": "Il primo piatto in Italia è spesso a base di pasta o riso.",
+          "es": "El primer plato en Italia suele ser de pasta o arroz."
+        },
+        "de": {
+          "text": "Der erste Gang besteht in Italien oft aus Nudeln oder Reis.",
+          "es": "El primer plato en Italia suele ser de pasta o arroz."
+        }
+      }
+    },
+    {
+      "id": "rm93",
+      "es": "El segundo plato italiano",
+      "translations": {
+        "en": "The second course",
+        "pt": "O segundo prato",
+        "fr": "Le deuxième plat",
+        "it": "Il secondo piatto",
+        "de": "Der zweite Gang"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Segundo plato de una comida al estilo italiano; suele ser carne o pescado)",
+        "en": "En una carta italiana se puede ver «secondo». (Plural: The second courses)",
+        "it": "En las cartas, también se usa la forma abreviada «secondo». (Plural: I secondi piatti)",
+        "pt": "(Plural: Os segundos pratos)",
+        "fr": "(Plural: Les deuxièmes plats)",
+        "de": "(Plural: Die zweiten Gänge)"
+      },
+      "examples": {
+        "en": {
+          "text": "The second course in Italy can be meat or fish.",
+          "es": "El segundo plato en Italia puede ser carne o pescado."
+        },
+        "pt": {
+          "text": "O segundo prato na Itália pode ser carne ou peixe.",
+          "es": "El segundo plato en Italia puede ser carne o pescado."
+        },
+        "fr": {
+          "text": "Le deuxième plat en Italie peut être de la viande ou du poisson.",
+          "es": "El segundo plato en Italia puede ser carne o pescado."
+        },
+        "it": {
+          "text": "Il secondo piatto in Italia può essere di carne o di pesce.",
+          "es": "El segundo plato en Italia puede ser carne o pescado."
+        },
+        "de": {
+          "text": "Der zweite Gang kann in Italien Fleisch oder Fisch sein.",
+          "es": "El segundo plato en Italia puede ser carne o pescado."
+        }
+      }
+    },
+    {
+      "id": "rm94",
+      "es": "La guarnición",
+      "translations": {
+        "en": "The side dish",
+        "pt": "O acompanhamento",
+        "fr": "L'accompagnement",
+        "it": "Il contorno",
+        "de": "Die Beilage"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The side dishes)",
+        "pt": "(Plural: Os acompanhamentos)",
+        "fr": "(Plural: Les accompagnements)",
+        "it": "(Plural: I contorni)",
+        "de": "(Plural: Die Beilagen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The side dish is baked potatoes.",
+          "es": "La guarnición es de papas al horno."
+        },
+        "pt": {
+          "text": "O acompanhamento é de batatas assadas.",
+          "es": "La guarnición es de papas al horno."
+        },
+        "fr": {
+          "text": "L'accompagnement est composé de pommes de terre au four.",
+          "es": "La guarnición es de papas al horno."
+        },
+        "it": {
+          "text": "Il contorno è di patate al forno.",
+          "es": "La guarnición es de papas al horno."
+        },
+        "de": {
+          "text": "Die Beilage besteht aus Ofenkartoffeln.",
+          "es": "La guarnición es de papas al horno."
+        }
+      }
+    },
+    {
+      "id": "rm95",
+      "es": "El postre",
+      "translations": {
+        "en": "The dessert",
+        "pt": "A sobremesa",
+        "fr": "Le dessert",
+        "it": "Il dolce / Il dessert",
+        "de": "Das Dessert"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The desserts)",
+        "pt": "(Plural: As sobremesas)",
+        "fr": "(Plural: Les desserts)",
+        "it": "(Plural: I dolci)",
+        "de": "(Plural: Die Desserts)"
+      },
+      "examples": {
+        "en": {
+          "text": "The dessert is chocolate-flavored.",
+          "es": "El postre es de chocolate."
+        },
+        "pt": {
+          "text": "A sobremesa é de chocolate.",
+          "es": "El postre es de chocolate."
+        },
+        "fr": {
+          "text": "Le dessert est au chocolat.",
+          "es": "El postre es de chocolate."
+        },
+        "it": {
+          "text": "Il dolce è al cioccolato.",
+          "es": "El postre es de chocolate."
+        },
+        "de": {
+          "text": "Das Dessert wird mit Schokolade zubereitet.",
+          "es": "El postre se prepara con chocolate."
+        }
+      }
+    },
+    {
+      "id": "rm96",
+      "es": "La bebida",
+      "translations": {
+        "en": "The drink / The beverage",
+        "pt": "A bebida",
+        "fr": "La boisson",
+        "it": "La bevanda",
+        "de": "Das Getränk"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The drinks)",
+        "pt": "(Plural: As bebidas)",
+        "fr": "(Plural: Les boissons)",
+        "it": "(Plural: Le bevande)",
+        "de": "(Plural: Die Getränke)"
+      },
+      "examples": {
+        "en": {
+          "text": "The drink is included in the set meal.",
+          "es": "La bebida está incluida en el menú."
+        },
+        "pt": {
+          "text": "A bebida está incluída no menu.",
+          "es": "La bebida está incluida en el menú."
+        },
+        "fr": {
+          "text": "La boisson est comprise dans le menu.",
+          "es": "La bebida está incluida en el menú."
+        },
+        "it": {
+          "text": "La bevanda è inclusa nel menù.",
+          "es": "La bebida está incluida en el menú."
+        },
+        "de": {
+          "text": "Das Getränk ist im Menü inbegriffen.",
+          "es": "La bebida está incluida en el menú."
+        }
+      }
+    },
+    {
+      "id": "rm98",
+      "es": "El desayuno",
+      "translations": {
+        "en": "The breakfast",
+        "pt": "O café da manhã",
+        "fr": "Le petit-déjeuner",
+        "it": "La colazione",
+        "de": "Das Frühstück"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The breakfasts)",
+        "pt": "(Plural: Os cafés da manhã)",
+        "fr": "(Plural: Les petits-déjeuners)",
+        "it": "(Plural: Le colazioni)",
+        "de": "(Plural: Die Frühstücke)"
+      },
+      "examples": {
+        "en": {
+          "text": "Breakfast is served until eleven.",
+          "es": "El desayuno se sirve hasta las once."
+        },
+        "pt": {
+          "text": "O café da manhã é servido até as onze.",
+          "es": "El desayuno se sirve hasta las once."
+        },
+        "fr": {
+          "text": "Le petit-déjeuner est servi jusqu'à onze heures.",
+          "es": "El desayuno se sirve hasta las once."
+        },
+        "it": {
+          "text": "La colazione è servita fino alle undici.",
+          "es": "El desayuno se sirve hasta las once."
+        },
+        "de": {
+          "text": "Das Frühstück wird bis elf Uhr serviert.",
+          "es": "El desayuno se sirve hasta las once."
+        }
+      }
+    },
+    {
+      "id": "rm99",
+      "es": "La comida del mediodía",
+      "translations": {
+        "en": "The lunch",
+        "pt": "O almoço",
+        "fr": "Le déjeuner",
+        "it": "Il pranzo",
+        "de": "Das Mittagessen"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "En México, «la comida» suele nombrar la comida del mediodía; «almuerzo» no siempre designa la misma hora.",
+        "en": "(Plural: The lunches)",
+        "pt": "(Plural: Os almoços)",
+        "fr": "(Plural: Les déjeuners)",
+        "it": "(Plural: I pranzi)",
+        "de": "(Plural: Die Mittagessen)"
+      },
+      "examples": {
+        "en": {
+          "text": "Lunch starts at one.",
+          "es": "La comida del mediodía empieza a la una."
+        },
+        "pt": {
+          "text": "O almoço começa à uma hora.",
+          "es": "La comida del mediodía empieza a la una."
+        },
+        "fr": {
+          "text": "Le déjeuner commence à treize heures.",
+          "es": "La comida del mediodía empieza a la una de la tarde."
+        },
+        "it": {
+          "text": "Il pranzo inizia all'una.",
+          "es": "La comida del mediodía empieza a la una."
+        },
+        "de": {
+          "text": "Das Mittagessen beginnt um 13 Uhr.",
+          "es": "La comida del mediodía empieza a la una."
+        }
+      }
+    },
+    {
+      "id": "rm100",
+      "es": "La cena",
+      "translations": {
+        "en": "The dinner",
+        "pt": "O jantar",
+        "fr": "Le dîner",
+        "it": "La cena",
+        "de": "Das Abendessen"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The dinners)",
+        "pt": "(Plural: Os jantares)",
+        "fr": "(Plural: Les dîners)",
+        "it": "(Plural: Le cene)",
+        "de": "(Plural: Die Abendessen)"
+      },
+      "examples": {
+        "en": {
+          "text": "Dinner will be ready in twenty minutes.",
+          "es": "La cena estará lista en veinte minutos."
+        },
+        "pt": {
+          "text": "O jantar vai ficar pronto em vinte minutos.",
+          "es": "La cena estará lista en veinte minutos."
+        },
+        "fr": {
+          "text": "Le dîner sera prêt dans vingt minutes.",
+          "es": "La cena estará lista en veinte minutos."
+        },
+        "it": {
+          "text": "La cena sarà pronta tra venti minuti.",
+          "es": "La cena estará lista en veinte minutos."
+        },
+        "de": {
+          "text": "Das Abendessen ist in zwanzig Minuten fertig.",
+          "es": "La cena estará lista en veinte minutos."
+        }
+      }
+    },
+    {
+      "id": "rm101",
+      "es": "El brunch",
+      "translations": {
+        "en": "The brunch",
+        "pt": "O brunch",
+        "fr": "Le brunch",
+        "it": "Il brunch",
+        "de": "Der Brunch"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The brunches)",
+        "pt": "(Plural: Os brunches)",
+        "fr": "(Plural: Les brunchs)",
+        "it": "(Plural: I brunch)",
+        "de": "(Plural: Die Brunchs)"
+      },
+      "examples": {
+        "en": {
+          "text": "The brunch includes eggs and fruit.",
+          "es": "El brunch incluye huevos y fruta."
+        },
+        "pt": {
+          "text": "O brunch inclui ovos e frutas.",
+          "es": "El brunch incluye huevos y fruta."
+        },
+        "fr": {
+          "text": "Le brunch comprend des œufs et des fruits.",
+          "es": "El brunch incluye huevos y fruta."
+        },
+        "it": {
+          "text": "Il brunch include uova e frutta.",
+          "es": "El brunch incluye huevos y fruta."
+        },
+        "de": {
+          "text": "Der Brunch enthält Eier und Obst.",
+          "es": "El brunch incluye huevos y fruta."
+        }
+      }
+    },
+    {
+      "id": "rm102",
+      "es": "La comida",
+      "translations": {
+        "en": "The meal",
+        "pt": "A refeição",
+        "fr": "Le repas",
+        "it": "Il pasto",
+        "de": "Die Mahlzeit"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Ocasión de comer; no un platillo ni solamente la comida del mediodía)",
+        "en": "(Plural: The meals)",
+        "pt": "(Plural: As refeições)",
+        "fr": "(Plural: Les repas)",
+        "it": "(Plural: I pasti)",
+        "de": "(Plural: Die Mahlzeiten)"
+      },
+      "examples": {
+        "en": {
+          "text": "The meal includes two dishes.",
+          "es": "La comida incluye dos platillos."
+        },
+        "pt": {
+          "text": "A refeição inclui dois pratos.",
+          "es": "La comida incluye dos platillos."
+        },
+        "fr": {
+          "text": "Le repas comprend deux plats.",
+          "es": "La comida incluye dos platillos."
+        },
+        "it": {
+          "text": "Il pasto comprende due piatti.",
+          "es": "La comida incluye dos platillos."
+        },
+        "de": {
+          "text": "Die Mahlzeit besteht aus zwei Gerichten.",
+          "es": "La comida incluye dos platillos."
+        }
+      }
+    },
+    {
+      "id": "rm103",
+      "es": "El platillo",
+      "translations": {
+        "en": "The dish",
+        "pt": "O prato",
+        "fr": "Le plat",
+        "it": "Il piatto",
+        "de": "Das Gericht"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Comida preparada, no el recipiente donde se sirve)",
+        "en": "(Plural: The dishes)",
+        "pt": "(Plural: Os pratos)",
+        "fr": "(Plural: Les plats)",
+        "it": "(Plural: I piatti)",
+        "de": "(Plural: Die Gerichte)"
+      },
+      "examples": {
+        "en": {
+          "text": "The dish comes with a salad.",
+          "es": "El platillo llega con una ensalada."
+        },
+        "pt": {
+          "text": "O prato vem com uma salada.",
+          "es": "El platillo llega con una ensalada."
+        },
+        "fr": {
+          "text": "Le plat est servi avec une salade.",
+          "es": "El platillo llega con una ensalada."
+        },
+        "it": {
+          "text": "Il piatto è servito con un'insalata.",
+          "es": "El platillo llega con una ensalada."
+        },
+        "de": {
+          "text": "Das Gericht wird mit einem Salat serviert.",
+          "es": "El platillo llega con una ensalada."
+        }
+      }
+    },
+    {
+      "id": "rm26",
+      "es": "El platillo para compartir",
+      "translations": {
+        "en": "The dish to share",
+        "pt": "O prato para compartilhar",
+        "fr": "Le plat à partager",
+        "it": "Il piatto da condividere",
+        "de": "Das Gericht zum Teilen"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Comida que se pide para compartir entre varias personas)",
+        "en": "(Plural: The dishes to share)",
+        "pt": "(Plural: Os pratos para compartilhar)",
+        "fr": "(Plural: Les plats à partager)",
+        "it": "(Plural: I piatti da condividere)",
+        "de": "(Plural: Die Gerichte zum Teilen)"
+      },
+      "examples": {
+        "en": {
+          "text": "Do you have a dish to share for the four of us?",
+          "es": "¿Tienen algún platillo que podamos compartir entre los cuatro?"
+        },
+        "pt": {
+          "text": "Vocês têm um prato para compartilhar para nós quatro?",
+          "es": "¿Tienen algún platillo que podamos compartir entre los cuatro?"
+        },
+        "fr": {
+          "text": "Vous avez un plat à partager pour nous quatre ?",
+          "es": "¿Tienen algún platillo que podamos compartir entre los cuatro?"
+        },
+        "it": {
+          "text": "Avete un piatto da condividere per noi quattro?",
+          "es": "¿Tienen algún platillo que podamos compartir entre los cuatro?"
+        },
+        "de": {
+          "text": "Haben Sie ein Gericht zum Teilen für uns vier?",
+          "es": "¿Tienen algún platillo que podamos compartir entre los cuatro?"
+        }
+      }
+    },
+    {
+      "id": "rm104",
+      "es": "La porción",
+      "translations": {
+        "en": "The portion",
+        "pt": "A porção",
+        "fr": "La portion",
+        "it": "La porzione",
+        "de": "Die Portion"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The portions)",
+        "pt": "(Plural: As porções)",
+        "fr": "(Plural: Les portions)",
+        "it": "(Plural: Le porzioni)",
+        "de": "(Plural: Die Portionen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The portion is enough for two people.",
+          "es": "La porción alcanza para dos personas."
+        },
+        "pt": {
+          "text": "A porção dá para duas pessoas.",
+          "es": "La porción alcanza para dos personas."
+        },
+        "fr": {
+          "text": "La portion suffit pour deux personnes.",
+          "es": "La porción alcanza para dos personas."
+        },
+        "it": {
+          "text": "La porzione basta per due persone.",
+          "es": "La porción alcanza para dos personas."
+        },
+        "de": {
+          "text": "Die Portion reicht für zwei Personen.",
+          "es": "La porción alcanza para dos personas."
+        }
+      }
+    },
+    {
+      "id": "rm105",
+      "es": "La media porción",
+      "translations": {
+        "en": "The half portion",
+        "pt": "A meia porção",
+        "fr": "La demi-portion",
+        "it": "La mezza porzione",
+        "de": "Die halbe Portion"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The half portions)",
+        "pt": "(Plural: As meias porções)",
+        "fr": "(Plural: Les demi-portions)",
+        "it": "(Plural: Le mezze porzioni)",
+        "de": "(Plural: Die halben Portionen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The half portion costs half as much.",
+          "es": "La media porción cuesta la mitad."
+        },
+        "pt": {
+          "text": "A meia porção custa a metade.",
+          "es": "La media porción cuesta la mitad."
+        },
+        "fr": {
+          "text": "La demi-portion coûte deux fois moins cher.",
+          "es": "La media porción cuesta la mitad."
+        },
+        "it": {
+          "text": "La mezza porzione costa la metà.",
+          "es": "La media porción cuesta la mitad."
+        },
+        "de": {
+          "text": "Die halbe Portion kostet die Hälfte.",
+          "es": "La media porción cuesta la mitad."
+        }
+      }
+    },
+    {
+      "id": "rm106",
+      "es": "El ingrediente",
+      "translations": {
+        "en": "The ingredient",
+        "pt": "O ingrediente",
+        "fr": "L'ingrédient",
+        "it": "L'ingrediente",
+        "de": "Die Zutat"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The ingredients)",
+        "pt": "(Plural: Os ingredientes)",
+        "fr": "(Plural: Les ingrédients)",
+        "it": "(Plural: Gli ingredienti)",
+        "de": "(Plural: Die Zutaten)"
+      },
+      "examples": {
+        "en": {
+          "text": "The main ingredient in this sauce is tomato.",
+          "es": "El ingrediente principal de esta salsa es el jitomate."
+        },
+        "pt": {
+          "text": "O ingrediente principal deste molho é o tomate.",
+          "es": "El ingrediente principal de esta salsa es el jitomate."
+        },
+        "fr": {
+          "text": "L'ingrédient principal de cette sauce est la tomate.",
+          "es": "El ingrediente principal de esta salsa es el jitomate."
+        },
+        "it": {
+          "text": "L'ingrediente principale di questa salsa è il pomodoro.",
+          "es": "El ingrediente principal de esta salsa es el jitomate."
+        },
+        "de": {
+          "text": "Die wichtigste Zutat dieser Soße ist Tomate.",
+          "es": "El ingrediente principal de esta salsa es el jitomate."
+        }
+      }
+    },
+    {
+      "id": "rm107",
+      "es": "La salsa",
+      "translations": {
+        "en": "The sauce",
+        "pt": "O molho",
+        "fr": "La sauce",
+        "it": "La salsa",
+        "de": "Die Soße"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The sauces)",
+        "pt": "(Plural: Os molhos)",
+        "fr": "(Plural: Les sauces)",
+        "it": "(Plural: Le salse)",
+        "de": "(Plural: Die Soßen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The sauce comes on the side so the salad doesn't get soggy.",
+          "es": "La salsa va aparte para que la ensalada no se aguade."
+        },
+        "pt": {
+          "text": "O molho vem à parte para a salada não murchar.",
+          "es": "La salsa va aparte para que la ensalada no se marchite."
+        },
+        "fr": {
+          "text": "La sauce est servie à part pour que la salade reste croquante.",
+          "es": "La salsa va aparte para que la ensalada siga crujiente."
+        },
+        "it": {
+          "text": "La salsa è servita a parte perché l'insalata non perda la sua croccantezza.",
+          "es": "La salsa va aparte para que la ensalada no pierda lo crujiente."
+        },
+        "de": {
+          "text": "Die Soße wird separat serviert, damit der Salat nicht matschig wird.",
+          "es": "La salsa va aparte para que la ensalada no se aguade."
+        }
+      }
+    },
+    {
+      "id": "rm108",
+      "es": "El aderezo para ensalada",
+      "translations": {
+        "en": "The salad dressing",
+        "pt": "O molho para salada",
+        "fr": "La sauce pour salade / La vinaigrette",
+        "it": "Il condimento per insalata",
+        "de": "Das Salatdressing"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The salad dressings)",
+        "pt": "(Plural: Os molhos para salada)",
+        "fr": "(Plural: Les sauces pour salade)",
+        "it": "(Plural: I condimenti per insalata)",
+        "de": "(Plural: Die Salatdressings)"
+      },
+      "examples": {
+        "en": {
+          "text": "The salad dressing contains lemon and oil.",
+          "es": "El aderezo para ensalada lleva limón y aceite."
+        },
+        "pt": {
+          "text": "O molho para salada leva limão e azeite.",
+          "es": "El aderezo para ensalada lleva limón y aceite de oliva."
+        },
+        "fr": {
+          "text": "La sauce pour salade contient du citron et de l'huile.",
+          "es": "El aderezo para ensalada lleva limón y aceite."
+        },
+        "it": {
+          "text": "Il condimento per insalata contiene limone e olio.",
+          "es": "El aderezo para ensalada lleva limón y aceite."
+        },
+        "de": {
+          "text": "Das Salatdressing enthält Zitrone und Öl.",
+          "es": "El aderezo para ensalada lleva limón y aceite."
+        }
+      }
+    },
+    {
+      "id": "rm109",
+      "es": "El condimento",
+      "translations": {
+        "en": "The seasoning",
+        "pt": "O tempero",
+        "fr": "L'assaisonnement",
+        "it": "Il condimento",
+        "de": "Das Würzmittel"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The seasonings)",
+        "pt": "(Plural: Os temperos)",
+        "fr": "(Plural: Les assaisonnements)",
+        "it": "(Plural: I condimenti)",
+        "de": "(Plural: Die Würzmittel)"
+      },
+      "examples": {
+        "en": {
+          "text": "The seasoning contains garlic and pepper.",
+          "es": "El condimento tiene ajo y pimienta."
+        },
+        "pt": {
+          "text": "O tempero leva alho e pimenta.",
+          "es": "El condimento tiene ajo y pimienta."
+        },
+        "fr": {
+          "text": "L'assaisonnement contient de l'ail et du poivre.",
+          "es": "El condimento tiene ajo y pimienta."
+        },
+        "it": {
+          "text": "Il condimento contiene aglio e pepe.",
+          "es": "El condimento tiene ajo y pimienta."
+        },
+        "de": {
+          "text": "Das Würzmittel enthält Knoblauch und Pfeffer.",
+          "es": "El condimento tiene ajo y pimienta."
+        }
+      }
+    },
+    {
+      "id": "rm110",
+      "es": "El relleno",
+      "translations": {
+        "en": "The filling",
+        "pt": "O recheio",
+        "fr": "La farce",
+        "it": "Il ripieno",
+        "de": "Die Füllung"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The fillings)",
+        "pt": "(Plural: Os recheios)",
+        "fr": "(Plural: Les farces)",
+        "it": "(Plural: I ripieni)",
+        "de": "(Plural: Die Füllungen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The filling is made with cheese and spinach.",
+          "es": "El relleno es de queso y espinacas."
+        },
+        "pt": {
+          "text": "O recheio é de queijo e espinafre.",
+          "es": "El relleno es de queso y espinacas."
+        },
+        "fr": {
+          "text": "La farce est au fromage et aux épinards.",
+          "es": "El relleno es de queso y espinacas."
+        },
+        "it": {
+          "text": "Il ripieno è di formaggio e spinaci.",
+          "es": "El relleno es de queso y espinacas."
+        },
+        "de": {
+          "text": "Die Füllung besteht aus Käse und Spinat.",
+          "es": "El relleno es de queso y espinacas."
+        }
+      }
+    },
+    {
+      "id": "rm111",
+      "es": "El pedido",
+      "translations": {
+        "en": "The order",
+        "pt": "O pedido",
+        "fr": "La commande",
+        "it": "L'ordinazione / L'ordine",
+        "de": "Die Bestellung"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Lo que se pide en el restaurante, para consumir ahí o para llevar)",
+        "en": "(Plural: The orders)",
+        "pt": "(Plural: Os pedidos)",
+        "fr": "(Plural: Les commandes)",
+        "it": "(Plural: Le ordinazioni)",
+        "de": "(Plural: Die Bestellungen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The order is ready for pickup now.",
+          "es": "El pedido ya está listo para recoger."
+        },
+        "pt": {
+          "text": "O pedido já está pronto para retirada.",
+          "es": "El pedido ya está listo para recoger."
+        },
+        "fr": {
+          "text": "La commande est prête à être récupérée.",
+          "es": "El pedido ya está listo para recoger."
+        },
+        "it": {
+          "text": "L'ordinazione è pronta da ritirare.",
+          "es": "El pedido ya está listo para recoger."
+        },
+        "de": {
+          "text": "Die Bestellung liegt jetzt zur Abholung bereit.",
+          "es": "El pedido ya está listo para recoger."
+        }
+      }
+    },
+    {
+      "id": "rm135",
+      "es": "El bufé",
+      "translations": {
+        "en": "The buffet",
+        "pt": "O bufê / O buffet",
+        "fr": "Le buffet",
+        "it": "Il buffet",
+        "de": "Das Buffet"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Comida dispuesta para que cada persona pueda servirse; no siempre es ilimitada)",
+        "en": "(Plural: The buffets)",
+        "pt": "(Plural: Os bufês)",
+        "fr": "(Plural: Les buffets)",
+        "it": "(Plural: I buffet)",
+        "de": "(Plural: Die Buffets)"
+      },
+      "examples": {
+        "en": {
+          "text": "The buffet includes salads and soups.",
+          "es": "El bufé incluye ensaladas y sopas."
+        },
+        "pt": {
+          "text": "O bufê inclui saladas e sopas.",
+          "es": "El bufé incluye ensaladas y sopas."
+        },
+        "fr": {
+          "text": "Le buffet comprend des salades et des soupes.",
+          "es": "El bufé incluye ensaladas y sopas."
+        },
+        "it": {
+          "text": "Il buffet comprende insalate e zuppe.",
+          "es": "El bufé incluye ensaladas y sopas."
+        },
+        "de": {
+          "text": "Das Buffet enthält Salate und Suppen.",
+          "es": "El bufé incluye ensaladas y sopas."
+        }
+      }
+    },
+    {
+      "id": "rm136",
+      "es": "Comida ilimitada por precio fijo",
+      "translations": {
+        "en": "All-you-can-eat",
+        "pt": "Comida à vontade por um preço fixo",
+        "fr": "À volonté à prix fixe",
+        "it": "A volontà a prezzo fisso",
+        "de": "Essen zum Festpreis ohne Mengenlimit"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Modalidad con comida ilimitada y un solo precio; no exige que haya un bufé)"
+      },
+      "examples": {
+        "en": {
+          "text": "It's all-you-can-eat here for a fixed price.",
+          "es": "Aquí puedes comer todo lo que quieras por un precio fijo."
+        },
+        "pt": {
+          "text": "Aqui tem comida à vontade por um preço fixo.",
+          "es": "Aquí puedes comer todo lo que quieras por un precio fijo."
+        },
+        "fr": {
+          "text": "Ici, on mange à volonté à prix fixe.",
+          "es": "Aquí puedes comer todo lo que quieras por un precio fijo."
+        },
+        "it": {
+          "text": "Qui si mangia a volontà a prezzo fisso.",
+          "es": "Aquí puedes comer todo lo que quieras por un precio fijo."
+        },
+        "de": {
+          "text": "Hier gibt es Essen zum Festpreis ohne Mengenlimit.",
+          "es": "Aquí puedes comer todo lo que quieras por un precio fijo."
+        }
+      }
+    },
+    {
+      "id": "rm137",
+      "es": "El sabor",
+      "translations": {
+        "en": "The flavor / The taste",
+        "pt": "O sabor",
+        "fr": "Le goût",
+        "it": "Il sapore",
+        "de": "Der Geschmack"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The flavors)",
+        "pt": "(Plural: Os sabores)",
+        "fr": "(Plural: Les goûts)",
+        "it": "(Plural: I sapori)",
+        "de": "(Plural: Die Geschmäcker)"
+      },
+      "examples": {
+        "en": {
+          "text": "The flavor of the soup is mild.",
+          "es": "El sabor de la sopa es suave."
+        },
+        "pt": {
+          "text": "O sabor da sopa é suave.",
+          "es": "El sabor de la sopa es suave."
+        },
+        "fr": {
+          "text": "Le goût de la soupe est doux.",
+          "es": "El sabor de la sopa es suave."
+        },
+        "it": {
+          "text": "Il sapore della zuppa è delicato.",
+          "es": "El sabor de la sopa es suave."
+        },
+        "de": {
+          "text": "Der Geschmack der Suppe ist mild.",
+          "es": "El sabor de la sopa es suave."
+        }
+      }
+    },
+    {
+      "id": "rm138",
+      "es": "Dulce",
+      "translations": {
+        "en": "Sweet",
+        "pt": "Doce",
+        "fr": "Sucré / Sucrée",
+        "it": "Dolce",
+        "de": "Süß"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "This sauce is sweet.",
+          "es": "Esta salsa es dulce."
+        },
+        "pt": {
+          "text": "Este molho é doce.",
+          "es": "Esta salsa es dulce."
+        },
+        "fr": {
+          "text": "Cette sauce est sucrée.",
+          "es": "Esta salsa es dulce."
+        },
+        "it": {
+          "text": "Questa salsa è dolce.",
+          "es": "Esta salsa es dulce."
+        },
+        "de": {
+          "text": "Diese Soße ist süß.",
+          "es": "Esta salsa es dulce."
+        }
+      }
+    },
+    {
+      "id": "rm139",
+      "es": "Salado / Salada",
+      "translations": {
+        "en": "Salty",
+        "pt": "Salgado / Salgada",
+        "fr": "Salé / Salée",
+        "it": "Salato / Salata",
+        "de": "Salzig"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Con sabor a sal o con demasiada sal)"
+      },
+      "examples": {
+        "en": {
+          "text": "The soup is very salty.",
+          "es": "La sopa está muy salada."
+        },
+        "pt": {
+          "text": "A sopa está muito salgada.",
+          "es": "La sopa está muy salada."
+        },
+        "fr": {
+          "text": "La soupe est très salée.",
+          "es": "La sopa está muy salada."
+        },
+        "it": {
+          "text": "La zuppa è molto salata.",
+          "es": "La sopa está muy salada."
+        },
+        "de": {
+          "text": "Die Suppe ist sehr salzig.",
+          "es": "La sopa está muy salada."
+        }
+      }
+    },
+    {
+      "id": "rm140",
+      "es": "Algo salado, no dulce",
+      "translations": {
+        "en": "Something savory",
+        "pt": "Algo salgado",
+        "fr": "Quelque chose de salé",
+        "it": "Qualcosa di salato",
+        "de": "Etwas Herzhaftes"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Tipo de comida opuesto a lo dulce, aunque no tenga mucha sal)",
+        "pt": "En este sentido, «salgado» se opone a «doce».",
+        "fr": "En este sentido, «salé» se opone a «sucré».",
+        "it": "En este sentido, «salato» se opone a «dolce».",
+        "de": "«Herzhaft» describe una comida no dulce; «salzig» significa que sabe a sal."
+      },
+      "examples": {
+        "en": {
+          "text": "I prefer something savory for breakfast.",
+          "es": "De desayuno prefiero algo salado."
+        },
+        "pt": {
+          "text": "No café da manhã, prefiro algo salgado.",
+          "es": "De desayuno prefiero algo salado."
+        },
+        "fr": {
+          "text": "Au petit-déjeuner, je préfère quelque chose de salé.",
+          "es": "De desayuno prefiero algo salado."
+        },
+        "it": {
+          "text": "A colazione preferisco qualcosa di salato.",
+          "es": "De desayuno prefiero algo salado."
+        },
+        "de": {
+          "text": "Zum Frühstück esse ich lieber etwas Herzhaftes.",
+          "es": "De desayuno prefiero algo salado."
+        }
+      }
+    },
+    {
+      "id": "rm141",
+      "es": "Ácido / Ácida",
+      "translations": {
+        "en": "Sour",
+        "pt": "Azedo / Azeda",
+        "fr": "Acide",
+        "it": "Aspro / Aspra",
+        "de": "Sauer"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Sabor agrio, no acidez química)"
+      },
+      "examples": {
+        "en": {
+          "text": "This lemonade is sour.",
+          "es": "Esta limonada está ácida."
+        },
+        "pt": {
+          "text": "Esta limonada está azeda.",
+          "es": "Esta limonada está ácida."
+        },
+        "fr": {
+          "text": "Cette citronnade est acide.",
+          "es": "Esta limonada está ácida."
+        },
+        "it": {
+          "text": "Questa limonata è aspra.",
+          "es": "Esta limonada está ácida."
+        },
+        "de": {
+          "text": "Diese Limonade ist sauer.",
+          "es": "Esta limonada está ácida."
+        }
+      }
+    },
+    {
+      "id": "rm142",
+      "es": "Amargo / Amarga",
+      "translations": {
+        "en": "Bitter",
+        "pt": "Amargo / Amarga",
+        "fr": "Amer / Amère",
+        "it": "Amaro / Amara",
+        "de": "Bitter"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "This coffee is bitter.",
+          "es": "Este café está amargo."
+        },
+        "pt": {
+          "text": "Este café está amargo.",
+          "es": "Este café está amargo."
+        },
+        "fr": {
+          "text": "Ce café est amer.",
+          "es": "Este café está amargo."
+        },
+        "it": {
+          "text": "Questo caffè è amaro.",
+          "es": "Este café está amargo."
+        },
+        "de": {
+          "text": "Dieser Kaffee ist bitter.",
+          "es": "Este café está amargo."
+        }
+      }
+    },
+    {
+      "id": "rm143",
+      "es": "Picante",
+      "translations": {
+        "en": "Spicy",
+        "pt": "Apimentado / Apimentada",
+        "fr": "Piquant / Piquante",
+        "it": "Piccante",
+        "de": "Scharf"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Que produce picor; no caliente por temperatura)",
+        "en": "«Spicy» aquí se refiere al picor, no a la temperatura. «Hot» también puede significar «picante» según el contexto."
+      },
+      "examples": {
+        "en": {
+          "text": "Is the sauce spicy?",
+          "es": "¿La salsa es picante?"
+        },
+        "pt": {
+          "text": "O molho é apimentado?",
+          "es": "¿La salsa es picante?"
+        },
+        "fr": {
+          "text": "La sauce est piquante ?",
+          "es": "¿La salsa es picante?"
+        },
+        "it": {
+          "text": "La salsa è piccante?",
+          "es": "¿La salsa es picante?"
+        },
+        "de": {
+          "text": "Ist die Soße scharf?",
+          "es": "¿La salsa es picante?"
+        }
+      }
+    },
+    {
+      "id": "rm144",
+      "es": "No picante",
+      "translations": {
+        "en": "Not spicy",
+        "pt": "Não apimentado / Não apimentada",
+        "fr": "Pas piquant / Pas piquante",
+        "it": "Non piccante",
+        "de": "Nicht scharf"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I'm looking for a sauce that's not spicy.",
+          "es": "Busco una salsa que no sea picante."
+        },
+        "pt": {
+          "text": "Procuro um molho não apimentado.",
+          "es": "Busco una salsa que no sea picante."
+        },
+        "fr": {
+          "text": "Je cherche une sauce qui ne soit pas piquante.",
+          "es": "Busco una salsa que no sea picante."
+        },
+        "it": {
+          "text": "Cerco una salsa non piccante.",
+          "es": "Busco una salsa que no sea picante."
+        },
+        "de": {
+          "text": "Ich suche eine Soße, die nicht scharf ist.",
+          "es": "Busco una salsa que no sea picante."
+        }
+      }
+    },
+    {
+      "id": "rm145",
+      "es": "Muy picante",
+      "translations": {
+        "en": "Very spicy",
+        "pt": "Muito apimentado / Muito apimentada",
+        "fr": "Très piquant / Très piquante",
+        "it": "Molto piccante",
+        "de": "Sehr scharf"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The broth is very spicy.",
+          "es": "El caldo está muy picante."
+        },
+        "pt": {
+          "text": "O caldo está muito apimentado.",
+          "es": "El caldo está muy picante."
+        },
+        "fr": {
+          "text": "Le bouillon est très piquant.",
+          "es": "El caldo está muy picante."
+        },
+        "it": {
+          "text": "Il brodo è molto piccante.",
+          "es": "El caldo está muy picante."
+        },
+        "de": {
+          "text": "Die Brühe ist sehr scharf.",
+          "es": "El caldo está muy picante."
+        }
+      }
+    },
+    {
+      "id": "rm146",
+      "es": "Crujiente",
+      "translations": {
+        "en": "Crispy",
+        "pt": "Crocante",
+        "fr": "Croustillant / Croustillante",
+        "it": "Croccante",
+        "de": "Knusprig"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The bread is crispy on the outside.",
+          "es": "El pan está crujiente por fuera."
+        },
+        "pt": {
+          "text": "O pão está crocante por fora.",
+          "es": "El pan está crujiente por fuera."
+        },
+        "fr": {
+          "text": "Le pain est croustillant à l'extérieur.",
+          "es": "El pan está crujiente por fuera."
+        },
+        "it": {
+          "text": "Il pane è croccante fuori.",
+          "es": "El pan está crujiente por fuera."
+        },
+        "de": {
+          "text": "Das Brot ist außen knusprig.",
+          "es": "El pan está crujiente por fuera."
+        }
+      }
+    },
+    {
+      "id": "rm147",
+      "es": "Tierno / Tierna",
+      "translations": {
+        "en": "Tender",
+        "pt": "Macio / Macia",
+        "fr": "Tendre",
+        "it": "Tenero / Tenera",
+        "de": "Zart"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The meat is so tender you can cut it with a fork.",
+          "es": "La carne está tan tierna que se corta con el tenedor."
+        },
+        "pt": {
+          "text": "A carne está tão macia que dá para cortar com o garfo.",
+          "es": "La carne está tan tierna que se corta con el tenedor."
+        },
+        "fr": {
+          "text": "La viande est si tendre qu'on peut la couper à la fourchette.",
+          "es": "La carne está tan tierna que se corta con el tenedor."
+        },
+        "it": {
+          "text": "La carne è così tenera che si taglia con la forchetta.",
+          "es": "La carne está tan tierna que se corta con el tenedor."
+        },
+        "de": {
+          "text": "Das Fleisch ist so zart, dass man es mit der Gabel schneiden kann.",
+          "es": "La carne está tan tierna que se corta con el tenedor."
+        }
+      }
+    },
+    {
+      "id": "rm148",
+      "es": "Jugoso / Jugosa",
+      "translations": {
+        "en": "Juicy",
+        "pt": "Suculento / Suculenta",
+        "fr": "Juteux / Juteuse",
+        "it": "Succoso / Succosa",
+        "de": "Saftig"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The chicken is juicy on the inside.",
+          "es": "El pollo está jugoso por dentro."
+        },
+        "pt": {
+          "text": "O frango está suculento por dentro.",
+          "es": "El pollo está jugoso por dentro."
+        },
+        "fr": {
+          "text": "Le poulet est juteux à l'intérieur.",
+          "es": "El pollo está jugoso por dentro."
+        },
+        "it": {
+          "text": "Il pollo è succoso all'interno.",
+          "es": "El pollo está jugoso por dentro."
+        },
+        "de": {
+          "text": "Das Hähnchen ist innen saftig.",
+          "es": "El pollo está jugoso por dentro."
+        }
+      }
+    },
+    {
+      "id": "rm149",
+      "es": "Cremoso / Cremosa",
+      "translations": {
+        "en": "Creamy",
+        "pt": "Cremoso / Cremosa",
+        "fr": "Crémeux / Crémeuse",
+        "it": "Cremoso / Cremosa",
+        "de": "Cremig"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The mashed potatoes are creamy.",
+          "es": "El puré de papa está cremoso."
+        },
+        "pt": {
+          "text": "O purê de batata está cremoso.",
+          "es": "El puré de papa está cremoso."
+        },
+        "fr": {
+          "text": "La purée de pommes de terre est crémeuse.",
+          "es": "El puré de papa está cremoso."
+        },
+        "it": {
+          "text": "Il purè di patate è cremoso.",
+          "es": "El puré de papa está cremoso."
+        },
+        "de": {
+          "text": "Der Kartoffelbrei ist cremig.",
+          "es": "El puré de papa está cremoso."
+        }
+      }
+    },
+    {
+      "id": "rm150",
+      "es": "Caliente",
+      "translations": {
+        "en": "Hot",
+        "pt": "Quente",
+        "fr": "Chaud / Chaude",
+        "it": "Caldo / Calda",
+        "de": "Heiß"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Temperatura, no intensidad del picor)",
+        "en": "Aquí «hot» indica temperatura; en otros contextos puede significar «picante»."
+      },
+      "examples": {
+        "en": {
+          "text": "The cup is still hot.",
+          "es": "La taza todavía está caliente."
+        },
+        "pt": {
+          "text": "A xícara ainda está quente.",
+          "es": "La taza todavía está caliente."
+        },
+        "fr": {
+          "text": "La tasse est encore chaude.",
+          "es": "La taza todavía está caliente."
+        },
+        "it": {
+          "text": "La tazza è ancora calda.",
+          "es": "La taza todavía está caliente."
+        },
+        "de": {
+          "text": "Die Tasse ist noch heiß.",
+          "es": "La taza todavía está caliente."
+        }
+      }
+    },
+    {
+      "id": "rm151",
+      "es": "Frío / Fría",
+      "translations": {
+        "en": "Cold",
+        "pt": "Frio / Fria",
+        "fr": "Froid / Froide",
+        "it": "Freddo / Fredda",
+        "de": "Kalt"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The juice is cold, and there's no ice in it.",
+          "es": "El jugo está frío y no tiene hielo."
+        },
+        "pt": {
+          "text": "O suco está frio e não tem gelo.",
+          "es": "El jugo está frío y no tiene hielo."
+        },
+        "fr": {
+          "text": "Le jus est froid et il n'y a pas de glaçons dedans.",
+          "es": "El jugo está frío y no tiene hielo."
+        },
+        "it": {
+          "text": "Il succo è freddo e non c'è ghiaccio.",
+          "es": "El jugo está frío y no tiene hielo."
+        },
+        "de": {
+          "text": "Der Saft ist kalt und ohne Eis.",
+          "es": "El jugo está frío y no tiene hielo."
+        }
+      }
+    },
+    {
+      "id": "rm152",
+      "es": "Tibio / Tibia",
+      "translations": {
+        "en": "Lukewarm",
+        "pt": "Morno / Morna",
+        "fr": "Tiède",
+        "it": "Tiepido / Tiepida",
+        "de": "Lauwarm"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "They served me lukewarm coffee.",
+          "es": "Me sirvieron el café tibio."
+        },
+        "pt": {
+          "text": "Me serviram o café morno.",
+          "es": "Me sirvieron el café tibio."
+        },
+        "fr": {
+          "text": "On m'a servi le café tiède.",
+          "es": "Me sirvieron el café tibio."
+        },
+        "it": {
+          "text": "Mi hanno servito il caffè tiepido.",
+          "es": "Me sirvieron el café tibio."
+        },
+        "de": {
+          "text": "Der Kaffee wurde mir lauwarm serviert.",
+          "es": "Me sirvieron el café tibio."
+        }
+      }
+    },
+    {
+      "id": "rm153",
+      "es": "Crudo / Cruda",
+      "translations": {
+        "en": "Raw",
+        "pt": "Cru / Crua",
+        "fr": "Cru / Crue",
+        "it": "Crudo / Cruda",
+        "de": "Roh"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Sin cocinar, no áspero ni indigesto)"
+      },
+      "examples": {
+        "en": {
+          "text": "This dish contains raw fish.",
+          "es": "Este platillo lleva pescado crudo."
+        },
+        "pt": {
+          "text": "Este prato leva peixe cru.",
+          "es": "Este platillo lleva pescado crudo."
+        },
+        "fr": {
+          "text": "Ce plat contient du poisson cru.",
+          "es": "Este platillo lleva pescado crudo."
+        },
+        "it": {
+          "text": "Questo piatto contiene pesce crudo.",
+          "es": "Este platillo lleva pescado crudo."
+        },
+        "de": {
+          "text": "In diesem Gericht ist roher Fisch.",
+          "es": "Este platillo lleva pescado crudo."
+        }
+      }
+    },
+    {
+      "id": "rm154",
+      "es": "Cocido / Cocida",
+      "translations": {
+        "en": "Cooked",
+        "pt": "Cozido / Cozida",
+        "fr": "Cuit / Cuite",
+        "it": "Cotto / Cotta",
+        "de": "Gegart"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Que ya se cocinó, sin especificar el método)"
+      },
+      "examples": {
+        "en": {
+          "text": "I prefer cooked fish, not raw fish.",
+          "es": "Prefiero el pescado cocido, no crudo."
+        },
+        "pt": {
+          "text": "Prefiro o peixe cozido, não cru.",
+          "es": "Prefiero el pescado cocido, no crudo."
+        },
+        "fr": {
+          "text": "Je préfère le poisson cuit, pas cru.",
+          "es": "Prefiero el pescado cocido, no crudo."
+        },
+        "it": {
+          "text": "Preferisco il pesce cotto, non crudo.",
+          "es": "Prefiero el pescado cocido, no crudo."
+        },
+        "de": {
+          "text": "Ich esse lieber gegarten Fisch als rohen Fisch.",
+          "es": "Prefiero el pescado cocido, no crudo."
+        }
+      }
+    },
+    {
+      "id": "rm256",
+      "es": "¿Podría traerme la carta, por favor?",
+      "translations": {
+        "en": "Could I have the menu, please?",
+        "pt": "Poderia me trazer o cardápio, por favor?",
+        "fr": "Pourrais-je avoir la carte, s'il vous plaît ?",
+        "it": "Potrei avere il menù, per favore?",
+        "de": "Könnten Sie mir bitte die Speisekarte bringen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm257",
+      "es": "¿Tienen una carta en [idioma]?",
+      "translations": {
+        "en": "Do you have a menu in [language]?",
+        "pt": "Vocês têm um cardápio em [idioma]?",
+        "fr": "Avez-vous une carte en [langue] ?",
+        "it": "Avete un menù in [lingua]?",
+        "de": "Haben Sie eine Speisekarte auf [Sprache]?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm258",
+      "es": "¿Nos puede traer la carta de bebidas?",
+      "translations": {
+        "en": "Could you bring us the drink menu?",
+        "pt": "Pode trazer o cardápio de bebidas para a gente?",
+        "fr": "Pouvez-vous nous apporter la carte des boissons ?",
+        "it": "Può portarci il menù delle bevande?",
+        "de": "Könnten Sie uns die Getränkekarte bringen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm259",
+      "es": "¿Nos puede traer la carta de vinos?",
+      "translations": {
+        "en": "Could you bring us the wine list?",
+        "pt": "Pode trazer a carta de vinhos para a gente?",
+        "fr": "Pouvez-vous nous apporter la carte des vins ?",
+        "it": "Può portarci la carta dei vini?",
+        "de": "Könnten Sie uns die Weinkarte bringen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm260",
+      "es": "¿Tienen menú del día?",
+      "translations": {
+        "en": "Do you have a daily set menu?",
+        "pt": "Vocês têm menu do dia?",
+        "fr": "Proposez-vous un menu du jour ?",
+        "it": "Avete un menù del giorno?",
+        "de": "Haben Sie ein Tagesmenü?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm261",
+      "es": "¿Qué incluye el menú de precio fijo?",
+      "translations": {
+        "en": "What's included in the set menu?",
+        "pt": "O que está incluído no menu de preço fixo?",
+        "fr": "Qu'est-ce qui est compris dans le menu à prix fixe ?",
+        "it": "Che cosa comprende il menù a prezzo fisso?",
+        "de": "Was ist im Menü zum Festpreis enthalten?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm262",
+      "es": "¿La bebida está incluida?",
+      "translations": {
+        "en": "Is a drink included?",
+        "pt": "A bebida está incluída?",
+        "fr": "La boisson est-elle comprise ?",
+        "it": "La bevanda è inclusa?",
+        "de": "Ist ein Getränk dabei?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm263",
+      "es": "¿Las bebidas se pagan aparte?",
+      "translations": {
+        "en": "Are drinks charged separately?",
+        "pt": "As bebidas são cobradas à parte?",
+        "fr": "Les boissons sont-elles facturées séparément ?",
+        "it": "Le bevande si pagano a parte?",
+        "de": "Kosten die Getränke extra?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm264",
+      "es": "¿Cuál es el plato del día?",
+      "translations": {
+        "en": "What's the dish of the day?",
+        "pt": "Qual é o prato do dia?",
+        "fr": "Quel est le plat du jour ?",
+        "it": "Qual è il piatto del giorno?",
+        "de": "Was ist das Tagesgericht?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm265",
+      "es": "¿Cuál es la especialidad de la casa?",
+      "translations": {
+        "en": "What's the house specialty?",
+        "pt": "Qual é a especialidade da casa?",
+        "fr": "Quelle est la spécialité de la maison ?",
+        "it": "Qual è la specialità della casa?",
+        "de": "Was ist die Spezialität des Hauses?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm266",
+      "es": "¿Qué recomienda?",
+      "translations": {
+        "en": "What do you recommend? / What would you recommend?",
+        "pt": "O que você recomenda? / O que você sugere?",
+        "fr": "Que me conseillez-vous ? / Que recommandez-vous ?",
+        "it": "Che cosa mi consiglia? / Che cosa mi suggerisce?",
+        "de": "Was empfehlen Sie?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm267",
+      "es": "¿Cuál es su plato más popular?",
+      "translations": {
+        "en": "What's your most popular dish?",
+        "pt": "Qual é o prato mais pedido?",
+        "fr": "Quel est votre plat le plus populaire ?",
+        "it": "Qual è il vostro piatto più richiesto?",
+        "de": "Was ist Ihr beliebtestes Gericht?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm268",
+      "es": "¿Qué ingredientes lleva este platillo?",
+      "translations": {
+        "en": "What's in this dish? / What ingredients are in this dish?",
+        "pt": "O que tem neste prato? / Quais são os ingredientes deste prato?",
+        "fr": "Qu'y a-t-il dans ce plat ?",
+        "it": "Che cosa c'è in questo piatto?",
+        "de": "Was ist in diesem Gericht drin? / Welche Zutaten sind in diesem Gericht?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm269",
+      "es": "¿Cómo se prepara este platillo?",
+      "translations": {
+        "en": "How is this dish prepared?",
+        "pt": "Como este prato é preparado?",
+        "fr": "Comment ce plat est-il préparé ?",
+        "it": "Come viene preparato questo piatto?",
+        "de": "Wie wird dieses Gericht zubereitet?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm270",
+      "es": "¿Con qué viene acompañado?",
+      "translations": {
+        "en": "What does it come with?",
+        "pt": "Que acompanhamento vem com o prato?",
+        "fr": "Avec quel accompagnement est-il servi ?",
+        "it": "Con che contorno viene servito?",
+        "de": "Welche Beilage gibt es dazu?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm271",
+      "es": "¿La guarnición está incluida?",
+      "translations": {
+        "en": "Is the side dish included?",
+        "pt": "O acompanhamento está incluído?",
+        "fr": "L'accompagnement est-il compris ?",
+        "it": "Il contorno è incluso?",
+        "de": "Ist die Beilage im Preis inbegriffen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm272",
+      "es": "¿La guarnición se pide por separado?",
+      "translations": {
+        "en": "Do I order the side dish separately?",
+        "pt": "O acompanhamento é pedido à parte?",
+        "fr": "Faut-il commander l'accompagnement séparément ?",
+        "it": "Il contorno si ordina a parte?",
+        "de": "Muss man die Beilage extra bestellen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm273",
+      "es": "¿Este platillo es para una persona?",
+      "translations": {
+        "en": "Is this dish for one person?",
+        "pt": "Este prato serve uma pessoa?",
+        "fr": "Ce plat est-il pour une personne ?",
+        "it": "Questo piatto è per una persona?",
+        "de": "Ist dieses Gericht für eine Person?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm274",
+      "es": "¿La porción es suficiente para compartir?",
+      "translations": {
+        "en": "Is the portion large enough to share?",
+        "pt": "A porção é suficiente para compartilhar?",
+        "fr": "La portion est-elle assez grande pour être partagée ?",
+        "it": "La porzione è abbastanza grande da condividere?",
+        "de": "Ist die Portion groß genug zum Teilen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm275",
+      "es": "¿Tienen medias porciones?",
+      "translations": {
+        "en": "Do you have half portions?",
+        "pt": "Vocês têm meias porções?",
+        "fr": "Proposez-vous des demi-portions ?",
+        "it": "Avete mezze porzioni?",
+        "de": "Bieten Sie halbe Portionen an?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm276",
+      "es": "¿Todavía tienen este platillo?",
+      "translations": {
+        "en": "Do you still have this dish?",
+        "pt": "Vocês ainda têm este prato?",
+        "fr": "Ce plat est-il encore disponible ?",
+        "it": "Questo piatto è ancora disponibile?",
+        "de": "Gibt es dieses Gericht noch?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm277",
+      "es": "¿Este bufé se cobra por kilo?",
+      "translations": {
+        "en": "Is this buffet priced by weight, per kilogram?",
+        "pt": "Este bufê é cobrado por quilo?",
+        "fr": "Ce buffet est-il facturé au kilo ?",
+        "it": "Questo buffet si paga al chilo?",
+        "de": "Wird bei diesem Buffet pro Kilo abgerechnet?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm278",
+      "es": "¿Cuál es el precio por kilo?",
+      "translations": {
+        "en": "What's the price per kilogram?",
+        "pt": "Qual é o preço por quilo?",
+        "fr": "Quel est le prix au kilo ?",
+        "it": "Qual è il prezzo al chilo?",
+        "de": "Was kostet ein Kilo?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm279",
+      "es": "¿Dónde se pesa el plato?",
+      "translations": {
+        "en": "Where do I weigh my plate?",
+        "pt": "Onde se pesa o prato?",
+        "fr": "Où pèse-t-on l'assiette ?",
+        "it": "Dove si pesa il piatto?",
+        "de": "Wo wird der Teller gewogen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm280",
+      "es": "¿Este bufé tiene precio fijo?",
+      "translations": {
+        "en": "Does this buffet have a fixed price?",
+        "pt": "Este bufê tem preço fixo?",
+        "fr": "Ce buffet est-il à prix fixe ?",
+        "it": "Questo buffet ha un prezzo fisso?",
+        "de": "Kostet das Buffet einen festen Preis?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm281",
+      "es": "¿En este bufé podemos servirnos todas las veces que queramos?",
+      "translations": {
+        "en": "Is this buffet all-you-can-eat?",
+        "pt": "Este bufê é à vontade?",
+        "fr": "Ce buffet est-il à volonté ?",
+        "it": "Questo buffet è a volontà?",
+        "de": "Kann man sich an diesem Buffet so oft bedienen, wie man möchte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm282",
+      "es": "¿Cuánto cuesta este platillo?",
+      "translations": {
+        "en": "How much is this dish?",
+        "pt": "Quanto custa este prato?",
+        "fr": "Combien coûte ce plat ?",
+        "it": "Quanto costa questo piatto?",
+        "de": "Was kostet dieses Gericht?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm283",
+      "es": "¿Este precio es por persona?",
+      "translations": {
+        "en": "Is this price per person?",
+        "pt": "Este preço é por pessoa?",
+        "fr": "Ce prix est-il par personne ?",
+        "it": "Questo prezzo è a persona?",
+        "de": "Gilt der Preis pro Person?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm284",
+      "es": "Necesitamos unos minutos más.",
+      "translations": {
+        "en": "We need a few more minutes.",
+        "pt": "Precisamos de mais alguns minutos.",
+        "fr": "Il nous faut encore quelques minutes.",
+        "it": "Ci servono ancora alcuni minuti.",
+        "de": "Wir brauchen noch ein paar Minuten."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm285",
+      "es": "Todavía no hemos decidido.",
+      "translations": {
+        "en": "We haven't decided yet.",
+        "pt": "Ainda não decidimos.",
+        "fr": "Nous n'avons pas encore choisi.",
+        "it": "Non abbiamo ancora deciso.",
+        "de": "Wir haben uns noch nicht entschieden."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm286",
+      "es": "Ya estamos listos para ordenar. / Ya estamos listas para ordenar.",
+      "translations": {
+        "en": "We're ready to order.",
+        "pt": "Já estamos prontos para pedir. / Já estamos prontas para pedir.",
+        "fr": "Nous sommes prêts à commander. / Nous sommes prêtes à commander.",
+        "it": "Siamo pronti per ordinare. / Siamo pronte per ordinare.",
+        "de": "Wir sind bereit zu bestellen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm287",
+      "es": "Quisiera pedir [platillo], por favor. / Voy a pedir [platillo], por favor.",
+      "translations": {
+        "en": "I'd like to order [dish], please. / I'll have [dish], please.",
+        "pt": "Gostaria de pedir [prato], por favor. / Vou querer [prato], por favor.",
+        "fr": "Je voudrais commander [plat], s'il vous plaît. / Je prendrai [plat], s'il vous plaît.",
+        "it": "Vorrei ordinare [piatto], per favore. / Prendo [piatto], per favore.",
+        "de": "Ich würde gern [Gericht] bestellen, bitte. / Ich nehme [Gericht], bitte."
+      },
+      "image_url": "",
+      "notes": {
+        "en": "Sustituye [dish] por el nombre y, si corresponde, el artículo o la cantidad: «a salad», «the salmon», «some soup»."
+      }
+    },
+    {
+      "id": "rm288",
+      "es": "¿Me puede dar [platillo o bebida], por favor? / ¿Podría darme [platillo o bebida], por favor?",
+      "translations": {
+        "en": "Can I get [dish or drink], please? / Could I get [dish or drink], please?",
+        "pt": "Pode me trazer [prato ou bebida], por favor? / Poderia me trazer [prato ou bebida], por favor?",
+        "fr": "Est-ce que je peux avoir [plat ou boisson], s'il vous plaît ? / Pourrais-je avoir [plat ou boisson], s'il vous plaît ?",
+        "it": "Posso avere [piatto o bevanda], per favore? / Potrei avere [piatto o bevanda], per favore?",
+        "de": "Kann ich [Gericht oder Getränk] bekommen, bitte? / Könnte ich [Gericht oder Getränk] bekommen, bitte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm289",
+      "es": "Quisiera esto, por favor.",
+      "translations": {
+        "en": "I'd like this, please.",
+        "pt": "Gostaria deste aqui, por favor. / Vou querer este aqui, por favor.",
+        "fr": "Je voudrais ceci, s'il vous plaît.",
+        "it": "Vorrei questo, per favore.",
+        "de": "Ich hätte gern das hier, bitte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm290",
+      "es": "Quisiera lo mismo.",
+      "translations": {
+        "en": "I'd like the same.",
+        "pt": "Gostaria do mesmo.",
+        "fr": "Je voudrais la même chose.",
+        "it": "Vorrei la stessa cosa.",
+        "de": "Ich hätte gern das Gleiche."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm291",
+      "es": "Para mí, una ensalada, por favor. / ¿Me puede dar una ensalada, por favor?",
+      "translations": {
+        "en": "A salad for me, please. / Can I get a salad, please?",
+        "pt": "Para mim, uma salada, por favor. / Pode me trazer uma salada, por favor?",
+        "fr": "Pour moi, une salade, s'il vous plaît. / Est-ce que je peux avoir une salade, s'il vous plaît ?",
+        "it": "Per me un'insalata, per favore. / Posso avere un'insalata, per favore?",
+        "de": "Für mich bitte einen Salat. / Könnte ich bitte einen Salat bekommen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm292",
+      "es": "Quisiéramos compartir una entrada.",
+      "translations": {
+        "en": "We'd like to share an appetizer.",
+        "pt": "Gostaríamos de compartilhar uma entrada.",
+        "fr": "Nous voudrions partager une entrée.",
+        "it": "Vorremmo condividere un antipasto.",
+        "de": "Wir würden uns gern eine Vorspeise teilen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm293",
+      "es": "Quisiera pedir primero las bebidas.",
+      "translations": {
+        "en": "I'd like to order drinks first.",
+        "pt": "Gostaria de pedir as bebidas primeiro.",
+        "fr": "Je voudrais commander les boissons d'abord.",
+        "it": "Vorrei ordinare prima le bevande.",
+        "de": "Ich möchte zuerst die Getränke bestellen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm294",
+      "es": "Quisiera una porción pequeña.",
+      "translations": {
+        "en": "I'd like a small portion.",
+        "pt": "Gostaria de uma porção pequena.",
+        "fr": "Je voudrais une petite portion.",
+        "it": "Vorrei una porzione piccola.",
+        "de": "Ich hätte gern eine kleine Portion."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm295",
+      "es": "Quisiera media porción.",
+      "translations": {
+        "en": "I'd like a half portion.",
+        "pt": "Gostaria de meia porção.",
+        "fr": "Je voudrais une demi-portion.",
+        "it": "Vorrei mezza porzione.",
+        "de": "Ich hätte gern eine halbe Portion."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm296",
+      "es": "¿Podemos pedir otra entrada?",
+      "translations": {
+        "en": "Can we order another appetizer?",
+        "pt": "Podemos pedir outra entrada?",
+        "fr": "Pouvons-nous commander une autre entrée ?",
+        "it": "Possiamo ordinare un altro antipasto?",
+        "de": "Können wir noch eine Vorspeise bestellen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm297",
+      "es": "¿Podría cambiar mi pedido?",
+      "translations": {
+        "en": "Could I change my order?",
+        "pt": "Poderia alterar meu pedido?",
+        "fr": "Pourrais-je modifier ma commande ?",
+        "it": "Potrei cambiare la mia ordinazione?",
+        "de": "Könnte ich meine Bestellung ändern?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm298",
+      "es": "¿Podemos agregar un platillo más?",
+      "translations": {
+        "en": "Can we add one more dish?",
+        "pt": "Podemos acrescentar mais um prato?",
+        "fr": "Pouvons-nous ajouter un plat ?",
+        "it": "Possiamo aggiungere un altro piatto?",
+        "de": "Können wir noch ein Gericht dazubestellen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm299",
+      "es": "¿Cuánto tardará el pedido?",
+      "translations": {
+        "en": "How long will our order take?",
+        "pt": "Quanto tempo nosso pedido vai demorar?",
+        "fr": "Dans combien de temps notre commande sera-t-elle prête ?",
+        "it": "Quanto ci vorrà per preparare la nostra ordinazione?",
+        "de": "Wie lange dauert es, bis unser Essen fertig ist?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm300",
+      "es": "Tenemos un poco de prisa.",
+      "translations": {
+        "en": "We're in a bit of a hurry.",
+        "pt": "Estamos com um pouco de pressa.",
+        "fr": "Nous sommes un peu pressés. / Nous sommes un peu pressées.",
+        "it": "Abbiamo un po' di fretta.",
+        "de": "Wir haben es etwas eilig."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm301",
+      "es": "¿Qué platillo sale más rápido?",
+      "translations": {
+        "en": "Which dish is quickest to prepare?",
+        "pt": "Qual prato fica pronto mais rápido?",
+        "fr": "Quel plat est le plus rapide à préparer ?",
+        "it": "Quale piatto è più veloce da preparare?",
+        "de": "Welches Gericht ist am schnellsten fertig?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm302",
+      "es": "Eso es todo, gracias.",
+      "translations": {
+        "en": "That's all, thank you.",
+        "pt": "É só isso, obrigado. / É só isso, obrigada.",
+        "fr": "Ce sera tout, merci.",
+        "it": "È tutto, grazie.",
+        "de": "Das ist alles, danke."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm303",
+      "es": "Por ahora, eso es todo.",
+      "translations": {
+        "en": "That's all for now.",
+        "pt": "Por enquanto, é só isso.",
+        "fr": "Pour l'instant, ce sera tout.",
+        "it": "Per ora è tutto.",
+        "de": "Das ist vorerst alles."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm469",
+      "es": "Aquí tienen la carta.",
+      "translations": {
+        "en": "Here's the menu.",
+        "pt": "Aqui está o cardápio.",
+        "fr": "Voici la carte.",
+        "it": "Ecco il menù.",
+        "de": "Hier ist die Speisekarte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm470",
+      "es": "Estos son los platillos especiales de hoy.",
+      "translations": {
+        "en": "These are today's specials.",
+        "pt": "Hoje temos estes pratos especiais.",
+        "fr": "Voici nos suggestions du jour.",
+        "it": "Questi sono i piatti speciali di oggi.",
+        "de": "Das sind unsere Empfehlungen für heute."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm476",
+      "es": "¿Ya están listos para ordenar? / ¿Ya están listas para ordenar?",
+      "translations": {
+        "en": "Are you ready to order?",
+        "pt": "Já estão prontos para pedir? / Já estão prontas para pedir?",
+        "fr": "Êtes-vous prêts à commander ? / Êtes-vous prêtes à commander ?",
+        "it": "Siete pronti per ordinare? / Siete pronte per ordinare?",
+        "de": "Möchten Sie schon bestellen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm477",
+      "es": "¿Necesitan unos minutos más?",
+      "translations": {
+        "en": "Do you need a few more minutes?",
+        "pt": "Precisam de mais alguns minutos?",
+        "fr": "Vous faut-il encore quelques minutes ?",
+        "it": "Vi serve ancora qualche minuto?",
+        "de": "Brauchen Sie noch ein paar Minuten?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm478",
+      "es": "¿Qué les gustaría pedir?",
+      "translations": {
+        "en": "What would you like to order?",
+        "pt": "O que vocês gostariam de pedir?",
+        "fr": "Que souhaitez-vous commander ?",
+        "it": "Che cosa vorreste ordinare?",
+        "de": "Was möchten Sie bestellen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm479",
+      "es": "¿Y para usted?",
+      "translations": {
+        "en": "And for you?",
+        "pt": "E para você?",
+        "fr": "Et pour vous ?",
+        "it": "E per lei?",
+        "de": "Und für Sie?"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The server took Ana's order and then asked me, “And for you?”",
+          "es": "La mesera tomó el pedido de Ana y luego me preguntó: «¿Y para usted?»."
+        },
+        "pt": {
+          "text": "A garçonete anotou o pedido da Ana e depois me perguntou: «E para você?»",
+          "es": "La mesera tomó el pedido de Ana y luego me preguntó: «¿Y para usted?»."
+        },
+        "fr": {
+          "text": "La serveuse a pris la commande d'Ana, puis elle m'a demandé : « Et pour vous ? »",
+          "es": "La mesera tomó el pedido de Ana y luego me preguntó: «¿Y para usted?»."
+        },
+        "it": {
+          "text": "La cameriera ha preso l'ordinazione di Ana e poi mi ha chiesto: «E per lei?»",
+          "es": "La mesera tomó el pedido de Ana y luego me preguntó: «¿Y para usted?»."
+        },
+        "de": {
+          "text": "Die Kellnerin hat Anas Bestellung aufgenommen und mich dann gefragt: „Und für Sie?“",
+          "es": "La mesera tomó el pedido de Ana y luego me preguntó: «¿Y para usted?»."
+        }
+      }
+    },
+    {
+      "id": "rm480",
+      "es": "¿Desea una entrada?",
+      "translations": {
+        "en": "Would you like an appetizer?",
+        "pt": "Gostaria de uma entrada?",
+        "fr": "Souhaitez-vous une entrée ?",
+        "it": "Desidera un antipasto?",
+        "de": "Möchten Sie eine Vorspeise?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm484",
+      "es": "¿Eso es todo?",
+      "translations": {
+        "en": "Is that everything?",
+        "pt": "É só isso?",
+        "fr": "Ce sera tout ?",
+        "it": "È tutto?",
+        "de": "War das alles?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm485",
+      "es": "¿Quieren compartirlo?",
+      "translations": {
+        "en": "Would you like to share it?",
+        "pt": "Vocês querem compartilhar?",
+        "fr": "Souhaitez-vous le partager ?",
+        "it": "Volete condividerlo?",
+        "de": "Möchten Sie sich das teilen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm486",
+      "es": "¿Quiere la entrada antes del plato principal?",
+      "translations": {
+        "en": "Would you like the appetizer before the main course?",
+        "pt": "Quer a entrada antes do prato principal?",
+        "fr": "Souhaitez-vous l'entrée avant le plat principal ?",
+        "it": "Desidera l'antipasto prima del piatto principale?",
+        "de": "Möchten Sie die Vorspeise vor dem Hauptgericht?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm487",
+      "es": "¿Quiere que traigamos todo junto?",
+      "translations": {
+        "en": "Would you like everything brought out together?",
+        "pt": "Quer que a gente traga tudo junto?",
+        "fr": "Souhaitez-vous que nous apportions tout en même temps ?",
+        "it": "Desidera che portiamo tutto insieme?",
+        "de": "Sollen wir alles auf einmal bringen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm488",
+      "es": "Entonces, pidió [platillo], ¿correcto?",
+      "translations": {
+        "en": "So you ordered [dish], correct?",
+        "pt": "Então você pediu [prato], certo?",
+        "fr": "Vous avez donc commandé [plat], c'est bien cela ?",
+        "it": "Quindi ha ordinato [piatto], giusto?",
+        "de": "Sie haben also [Gericht] bestellt, richtig?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "Sustituye [platillo] por el nombre de lo que pidió el cliente."
+      }
+    },
+    {
+      "id": "rm490",
+      "es": "Este platillo viene con ensalada.",
+      "translations": {
+        "en": "This dish comes with a salad.",
+        "pt": "Este prato vem com salada.",
+        "fr": "Ce plat est accompagné d'une salade.",
+        "it": "Questo piatto è accompagnato da un'insalata.",
+        "de": "Zu diesem Gericht gibt es Salat."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm491",
+      "es": "Sí, la guarnición está incluida.",
+      "translations": {
+        "en": "Yes, the side is included.",
+        "pt": "Sim, o acompanhamento está incluído.",
+        "fr": "Oui, la garniture est comprise dans le prix.",
+        "it": "Sì, il contorno è incluso.",
+        "de": "Ja, die Beilage ist im Preis inbegriffen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm492",
+      "es": "La bebida no está incluida.",
+      "translations": {
+        "en": "The drink isn't included.",
+        "pt": "A bebida não está incluída.",
+        "fr": "La boisson n'est pas comprise.",
+        "it": "La bevanda non è inclusa.",
+        "de": "Das Getränk ist nicht im Preis inbegriffen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm493",
+      "es": "Este platillo es para compartir.",
+      "translations": {
+        "en": "This dish is meant to be shared.",
+        "pt": "Este prato é para compartilhar.",
+        "fr": "Ce plat est à partager.",
+        "it": "Questo piatto è da condividere.",
+        "de": "Dieses Gericht ist zum Teilen gedacht."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm495",
+      "es": "Recomiendo el plato del día.",
+      "translations": {
+        "en": "I recommend the dish of the day.",
+        "pt": "Recomendo o prato do dia.",
+        "fr": "Je vous conseille le plat du jour.",
+        "it": "Consiglio il piatto del giorno.",
+        "de": "Ich empfehle das Tagesgericht."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm496",
+      "es": "Lo siento, ese platillo se nos terminó.",
+      "translations": {
+        "en": "Sorry, we're out of that dish.",
+        "pt": "Desculpe, esse prato acabou.",
+        "fr": "Désolé, ce plat est épuisé. / Désolée, ce plat est épuisé.",
+        "it": "Mi dispiace, quel piatto è esaurito.",
+        "de": "Tut mir leid, das Gericht ist schon aus."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rm497",
+      "es": "Este platillo no está disponible hoy.",
+      "translations": {
+        "en": "This dish isn't available today.",
+        "pt": "Este prato não está disponível hoje.",
+        "fr": "Ce plat n'est pas disponible aujourd'hui.",
+        "it": "Questo piatto non è disponibile oggi.",
+        "de": "Das Gericht gibt es heute nicht."
+      },
+      "image_url": ""
+    }
+  ]
+}
