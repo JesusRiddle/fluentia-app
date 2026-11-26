@@ -1,7 +1,7 @@
 {
   "module": "Cursos y organización del estudio",
   "level": "A2",
-  "revisado": false,
+  "revisado": true,
   "cards": [
     {
       "id": "coe_001",
@@ -10,75 +10,279 @@
         "en": "Courses and study planning",
         "pt": "Cursos e organização dos estudos",
         "fr": "Cours et organisation des études",
-        "it": "Corsi e organizzazione dello studio"
+        "it": "Corsi e organizzazione dello studio",
+        "de": "Kurse und Lernplanung"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "We talk about courses and study planning at the orientation session.",
+          "es": "En la sesión de orientación hablamos de cursos y organización del estudio."
+        },
+        "pt": {
+          "text": "Na sessão de orientação, falamos sobre cursos e organização dos estudos.",
+          "es": "En la sesión de orientación hablamos de cursos y organización del estudio."
+        },
+        "fr": {
+          "text": "Pendant la séance d'orientation, on parle de cours et d'organisation des études.",
+          "es": "En la sesión de orientación hablamos de cursos y organización del estudio."
+        },
+        "it": {
+          "text": "Durante l'incontro di orientamento parliamo di corsi e organizzazione dello studio.",
+          "es": "En la sesión de orientación hablamos de cursos y organización del estudio."
+        },
+        "de": {
+          "text": "Beim Einführungstermin sprechen wir über Kurse und Lernplanung.",
+          "es": "En la sesión de orientación hablamos de cursos y organización del estudio."
+        }
+      }
     },
     {
       "id": "coe_002",
-      "es": "Inscripción / Matrícula (registro en un curso)",
+      "es": "La inscripción / La matrícula",
       "translations": {
         "en": "Enrollment / Registration",
-        "pt": "Inscrição / Matrícula",
-        "fr": "Inscription",
-        "it": "Iscrizione"
+        "pt": "A inscrição / A matrícula",
+        "fr": "L'inscription",
+        "it": "L'iscrizione",
+        "de": "Die Anmeldung / Die Einschreibung"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Registro en un curso)",
+        "pt": "«Matrícula» suele indicar la inscripción formal; no confundir con «taxa de matrícula», que es el cargo. (Plural: As inscrições / As matrículas)",
+        "de": "«Anmeldung» es la forma habitual para apuntarse a un curso; «Einschreibung» se usa también para la matrícula formal. (Plural: Die Anmeldungen / Die Einschreibungen)",
+        "fr": "(Plural: Les inscriptions)",
+        "it": "(Plural: Le iscrizioni)"
+      },
+      "examples": {
+        "en": {
+          "text": "Registration for the French course opens tomorrow.",
+          "es": "Mañana abre la inscripción al curso de francés."
+        },
+        "pt": {
+          "text": "A inscrição para o curso de francês abre amanhã.",
+          "es": "Mañana abre la inscripción al curso de francés."
+        },
+        "fr": {
+          "text": "Les inscriptions au cours de français ouvrent demain.",
+          "es": "Mañana abre la inscripción al curso de francés."
+        },
+        "it": {
+          "text": "Le iscrizioni al corso di francese aprono domani.",
+          "es": "Mañana abre la inscripción al curso de francés."
+        },
+        "de": {
+          "text": "Die Anmeldung für den Französischkurs beginnt morgen.",
+          "es": "Mañana abre la inscripción al curso de francés."
+        }
+      }
     },
     {
       "id": "coe_003",
-      "es": "Requisito de ingreso",
+      "es": "El requisito de ingreso",
       "translations": {
-        "en": "Entry requirement",
-        "pt": "Requisito de ingresso",
-        "fr": "Condition d’admission",
-        "it": "Requisito di ammissione"
+        "en": "The entry requirement",
+        "pt": "O requisito de ingresso",
+        "fr": "La condition d'admission",
+        "it": "Il requisito di ammissione",
+        "de": "Die Zugangsvoraussetzung"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The entry requirements)",
+        "pt": "(Plural: Os requisitos de ingresso)",
+        "fr": "(Plural: Les conditions d'admission)",
+        "it": "(Plural: I requisiti di ammissione)",
+        "de": "(Plural: Die Zugangsvoraussetzungen)"
+      },
+      "examples": {
+        "en": {
+          "text": "Being at least eighteen is an entry requirement for this course.",
+          "es": "Tener al menos dieciocho años es un requisito de ingreso para este curso."
+        },
+        "pt": {
+          "text": "Ter pelo menos dezoito anos é um requisito de ingresso neste curso.",
+          "es": "Tener al menos dieciocho años es un requisito de ingreso para este curso."
+        },
+        "fr": {
+          "text": "Avoir au moins dix-huit ans est une condition d'admission à ce cours.",
+          "es": "Tener al menos dieciocho años es un requisito de ingreso para este curso."
+        },
+        "it": {
+          "text": "Avere almeno diciotto anni è un requisito di ammissione a questo corso.",
+          "es": "Tener al menos dieciocho años es un requisito de ingreso para este curso."
+        },
+        "de": {
+          "text": "Ein Mindestalter von achtzehn Jahren ist eine Zugangsvoraussetzung für diesen Kurs.",
+          "es": "Tener al menos dieciocho años es un requisito de ingreso para este curso."
+        }
+      }
     },
     {
       "id": "coe_004",
-      "es": "Prueba de nivel",
+      "es": "La prueba de nivel",
       "translations": {
-        "en": "Placement test",
-        "pt": "Teste de nivelamento",
-        "fr": "Test de niveau",
-        "it": "Test di livello"
+        "en": "The placement test",
+        "pt": "O teste de nivelamento",
+        "fr": "Le test de niveau",
+        "it": "Il test di livello",
+        "de": "Der Einstufungstest"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The placement tests)",
+        "pt": "(Plural: Os testes de nivelamento)",
+        "fr": "(Plural: Les tests de niveau)",
+        "it": "(Plural: I test di livello)",
+        "de": "(Plural: Die Einstufungstests)"
+      },
+      "examples": {
+        "en": {
+          "text": "I take a placement test before choosing a class.",
+          "es": "Hago una prueba de nivel antes de elegir grupo."
+        },
+        "pt": {
+          "text": "Faço um teste de nivelamento antes de escolher a turma.",
+          "es": "Hago una prueba de nivel antes de elegir grupo."
+        },
+        "fr": {
+          "text": "Je passe un test de niveau avant de choisir un groupe.",
+          "es": "Hago una prueba de nivel antes de elegir grupo."
+        },
+        "it": {
+          "text": "Faccio un test di livello prima di scegliere il gruppo.",
+          "es": "Hago una prueba de nivel antes de elegir grupo."
+        },
+        "de": {
+          "text": "Ich mache einen Einstufungstest, bevor ich eine Gruppe auswähle.",
+          "es": "Hago una prueba de nivel antes de elegir grupo."
+        }
+      }
     },
     {
       "id": "coe_005",
-      "es": "Fecha límite de inscripción",
+      "es": "La fecha límite de inscripción",
       "translations": {
-        "en": "Registration deadline",
-        "pt": "Prazo final de inscrição",
-        "fr": "Date limite d’inscription",
-        "it": "Scadenza per l’iscrizione"
+        "en": "The registration deadline",
+        "pt": "O prazo de inscrição",
+        "fr": "La date limite d'inscription",
+        "it": "La scadenza per l'iscrizione",
+        "de": "Die Anmeldefrist"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The registration deadlines)",
+        "pt": "(Plural: Os prazos de inscrição)",
+        "fr": "(Plural: Les dates limites d'inscription)",
+        "it": "(Plural: Le scadenze per l'iscrizione)",
+        "de": "(Plural: Die Anmeldefristen)"
+      },
+      "examples": {
+        "en": {
+          "text": "The registration deadline is Friday.",
+          "es": "La fecha límite de inscripción es el viernes."
+        },
+        "pt": {
+          "text": "O prazo de inscrição termina na sexta-feira.",
+          "es": "La fecha límite de inscripción vence el viernes."
+        },
+        "fr": {
+          "text": "La date limite d'inscription est vendredi.",
+          "es": "La fecha límite de inscripción es el viernes."
+        },
+        "it": {
+          "text": "La scadenza per l'iscrizione è venerdì.",
+          "es": "La fecha límite de inscripción es el viernes."
+        },
+        "de": {
+          "text": "Die Anmeldefrist endet am Freitag.",
+          "es": "La fecha límite de inscripción vence el viernes."
+        }
+      }
     },
     {
       "id": "coe_006",
-      "es": "Grupo de estudio",
+      "es": "El grupo de estudio",
       "translations": {
-        "en": "Study group",
-        "pt": "Grupo de estudos",
-        "fr": "Groupe d’étude",
-        "it": "Gruppo di studio"
+        "en": "The study group",
+        "pt": "O grupo de estudos",
+        "fr": "Le groupe d'étude",
+        "it": "Il gruppo di studio",
+        "de": "Die Lerngruppe"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The study groups)",
+        "pt": "(Plural: Os grupos de estudos)",
+        "fr": "(Plural: Les groupes d'étude)",
+        "it": "(Plural: I gruppi di studio)",
+        "de": "(Plural: Die Lerngruppen)"
+      },
+      "examples": {
+        "en": {
+          "text": "My study group meets at the library on Tuesdays.",
+          "es": "Mi grupo de estudio se reúne los martes en la biblioteca."
+        },
+        "pt": {
+          "text": "Meu grupo de estudos se reúne na biblioteca às terças-feiras.",
+          "es": "Mi grupo de estudio se reúne los martes en la biblioteca."
+        },
+        "fr": {
+          "text": "Mon groupe d'étude se réunit à la bibliothèque le mardi.",
+          "es": "Mi grupo de estudio se reúne los martes en la biblioteca."
+        },
+        "it": {
+          "text": "Il mio gruppo di studio si riunisce in biblioteca il martedì.",
+          "es": "Mi grupo de estudio se reúne los martes en la biblioteca."
+        },
+        "de": {
+          "text": "Meine Lerngruppe trifft sich dienstags in der Bibliothek.",
+          "es": "Mi grupo de estudio se reúne los martes en la biblioteca."
+        }
+      }
     },
     {
       "id": "coe_007",
-      "es": "Constancia de participación",
+      "es": "La constancia de participación",
       "translations": {
-        "en": "Certificate of participation",
-        "pt": "Declaração de participação",
-        "fr": "Attestation de participation",
-        "it": "Attestato di partecipazione"
+        "en": "The certificate of participation",
+        "pt": "A declaração de participação",
+        "fr": "L'attestation de participation",
+        "it": "L'attestato di partecipazione",
+        "de": "Die Teilnahmebescheinigung"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Acredita la participación; no implica por sí sola que se haya aprobado una evaluación.",
+        "en": "(Plural: The certificates of participation)",
+        "pt": "(Plural: As declarações de participação)",
+        "fr": "(Plural: Les attestations de participation)",
+        "it": "(Plural: Gli attestati di partecipazione)",
+        "de": "(Plural: Die Teilnahmebescheinigungen)"
+      },
+      "examples": {
+        "en": {
+          "text": "We get a certificate of participation at the end of the workshop.",
+          "es": "Nos dan una constancia de participación al final del taller."
+        },
+        "pt": {
+          "text": "Recebemos uma declaração de participação no final da oficina.",
+          "es": "Nos dan una constancia de participación al final del taller."
+        },
+        "fr": {
+          "text": "On reçoit une attestation de participation à la fin de l'atelier.",
+          "es": "Nos dan una constancia de participación al final del taller."
+        },
+        "it": {
+          "text": "Riceviamo un attestato di partecipazione alla fine del laboratorio.",
+          "es": "Nos dan una constancia de participación al final del taller."
+        },
+        "de": {
+          "text": "Am Ende des Workshops bekommen wir eine Teilnahmebescheinigung.",
+          "es": "Nos dan una constancia de participación al final del taller."
+        }
+      }
     },
     {
       "id": "coe_008",
@@ -87,18 +291,23 @@
         "en": "What courses do you offer for beginners?",
         "pt": "Quais cursos vocês oferecem para iniciantes?",
         "fr": "Quels cours proposez-vous pour les débutants ?",
-        "it": "Quali corsi offrite per principianti?"
+        "it": "Quali corsi offrite per principianti?",
+        "de": "Welche Kurse bieten Sie für Anfänger an?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Sie» es el trato formal adecuado para dirigirse a una escuela o institución."
+      }
     },
     {
       "id": "coe_009",
       "es": "Busco un curso que pueda combinar con mi trabajo.",
       "translations": {
-        "en": "I’m looking for a course that fits around my work schedule.",
+        "en": "I'm looking for a course that fits around my work schedule.",
         "pt": "Procuro um curso que possa conciliar com meu trabalho.",
         "fr": "Je cherche un cours que je puisse suivre en parallèle de mon travail.",
-        "it": "Cerco un corso che possa conciliare con il mio lavoro."
+        "it": "Cerco un corso che possa conciliare con il mio lavoro.",
+        "de": "Ich suche einen Kurs, den ich mit meiner Arbeit vereinbaren kann."
       },
       "image_url": ""
     },
@@ -109,7 +318,8 @@
         "en": "What do I need to know before joining this course?",
         "pt": "O que preciso saber antes de entrar neste curso?",
         "fr": "Quelles connaissances faut-il avoir pour suivre ce cours ?",
-        "it": "Quali conoscenze servono per frequentare questo corso?"
+        "it": "Quali conoscenze servono per frequentare questo corso?",
+        "de": "Was muss ich wissen, bevor ich an diesem Kurs teilnehme?"
       },
       "image_url": ""
     },
@@ -117,10 +327,11 @@
       "id": "coe_011",
       "es": "Ya estudié este tema, pero necesito retomarlo.",
       "translations": {
-        "en": "I’ve studied this topic before, but I need to get back to it.",
-        "pt": "Já estudei esse assunto, mas preciso retomar os estudos.",
-        "fr": "J’ai déjà étudié ce sujet, mais j’ai besoin de m’y remettre.",
-        "it": "Ho già studiato questo argomento, ma ho bisogno di riprenderlo."
+        "en": "I've studied this topic before, but I need to get back to it.",
+        "pt": "Já estudei esse assunto, mas preciso voltar a estudá-lo.",
+        "fr": "J'ai déjà étudié ce sujet, mais j'ai besoin de m'y remettre.",
+        "it": "Ho già studiato questo argomento, ma ho bisogno di riprenderlo.",
+        "de": "Ich habe mich schon mit dem Thema beschäftigt, aber ich muss wieder daran arbeiten."
       },
       "image_url": ""
     },
@@ -131,7 +342,8 @@
         "en": "Do I need to take a test to find out which level is right for me?",
         "pt": "Preciso fazer um teste para saber qual é o meu nível?",
         "fr": "Je dois passer un test pour savoir quel niveau me correspond ?",
-        "it": "Devo fare un test per sapere quale livello è adatto a me?"
+        "it": "Devo fare un test per sapere quale livello è adatto a me?",
+        "de": "Muss ich einen Test machen, um herauszufinden, welches Niveau zu mir passt?"
       },
       "image_url": ""
     },
@@ -141,8 +353,9 @@
       "translations": {
         "en": "Can I see the course outline before enrolling?",
         "pt": "Posso ver o programa do curso antes de me matricular?",
-        "fr": "Je peux voir le programme avant de m’inscrire ?",
-        "it": "Posso vedere il programma prima di iscrivermi?"
+        "fr": "Je peux voir le programme avant de m'inscrire ?",
+        "it": "Posso vedere il programma prima di iscrivermi?",
+        "de": "Kann ich das Kursprogramm sehen, bevor ich mich anmelde?"
       },
       "image_url": ""
     },
@@ -152,8 +365,9 @@
       "translations": {
         "en": "What will I be able to do by the end of the course?",
         "pt": "O que vou conseguir fazer ao terminar o curso?",
-        "fr": "Qu’est-ce que je pourrai faire à la fin du cours ?",
-        "it": "Che cosa saprò fare alla fine del corso?"
+        "fr": "Qu'est-ce que je pourrai faire à la fin du cours ?",
+        "it": "Che cosa saprò fare alla fine del corso?",
+        "de": "Was kann ich am Ende des Kurses machen?"
       },
       "image_url": ""
     },
@@ -164,7 +378,8 @@
         "en": "Does the course focus more on practice or theory?",
         "pt": "O curso é mais voltado para a prática ou para a teoria?",
         "fr": "Le cours est plutôt pratique ou théorique ?",
-        "it": "Il corso è più orientato alla pratica o alla teoria?"
+        "it": "Il corso è più orientato alla pratica o alla teoria?",
+        "de": "Geht es in dem Kurs mehr um Praxis oder um Theorie?"
       },
       "image_url": ""
     },
@@ -174,19 +389,21 @@
       "translations": {
         "en": "Are the classes in person, online, or a combination of both?",
         "pt": "As aulas são presenciais, on-line ou uma combinação das duas?",
-        "fr": "Les cours sont en présentiel, en ligne ou un mélange des deux ?",
-        "it": "Le lezioni sono in presenza, online o una combinazione delle due modalità?"
+        "fr": "Les cours se déroulent en présentiel, en ligne ou dans les deux formats ?",
+        "it": "Le lezioni sono in presenza, online o una combinazione delle due modalità?",
+        "de": "Findet der Unterricht vor Ort, online oder teils vor Ort und teils online statt?"
       },
       "image_url": ""
     },
     {
       "id": "coe_017",
-      "es": "¿Las clases en línea son en directo o están grabadas?",
+      "es": "¿Las clases en línea son en vivo o están grabadas?",
       "translations": {
         "en": "Are the online classes live or prerecorded?",
         "pt": "As aulas on-line são ao vivo ou gravadas?",
         "fr": "Les cours en ligne sont en direct ou enregistrés ?",
-        "it": "Le lezioni online sono in diretta o registrate?"
+        "it": "Le lezioni online sono in diretta o registrate?",
+        "de": "Finden die Online-Stunden live statt oder sind sie aufgezeichnet?"
       },
       "image_url": ""
     },
@@ -195,9 +412,10 @@
       "es": "¿Cuántas personas hay normalmente en cada grupo?",
       "translations": {
         "en": "How many people are usually in each class?",
-        "pt": "Quantas pessoas normalmente há em cada turma?",
+        "pt": "Quantas pessoas costuma ter cada turma?",
         "fr": "Combien de personnes y a-t-il habituellement dans chaque groupe ?",
-        "it": "Quante persone ci sono di solito in ogni gruppo?"
+        "it": "Quante persone ci sono di solito in ogni gruppo?",
+        "de": "Wie viele Leute sind normalerweise in jeder Gruppe?"
       },
       "image_url": ""
     },
@@ -207,8 +425,9 @@
       "translations": {
         "en": "Can I attend a trial class?",
         "pt": "Posso assistir a uma aula experimental?",
-        "fr": "Je peux assister à un cours d’essai ?",
-        "it": "Posso partecipare a una lezione di prova?"
+        "fr": "Je peux assister à un cours d'essai ?",
+        "it": "Posso partecipare a una lezione di prova?",
+        "de": "Kann ich an einer Probestunde teilnehmen?"
       },
       "image_url": ""
     },
@@ -216,21 +435,23 @@
       "id": "coe_020",
       "es": "¿Qué diferencia hay entre el curso intensivo y el regular?",
       "translations": {
-        "en": "What’s the difference between the intensive and regular courses?",
+        "en": "What's the difference between the intensive and regular courses?",
         "pt": "Qual é a diferença entre o curso intensivo e o regular?",
         "fr": "Quelle est la différence entre le cours intensif et le cours classique ?",
-        "it": "Qual è la differenza tra il corso intensivo e quello regolare?"
+        "it": "Qual è la differenza tra il corso intensivo e quello normale?",
+        "de": "Was ist der Unterschied zwischen dem Intensivkurs und dem normalen Kurs?"
       },
       "image_url": ""
     },
     {
       "id": "coe_021",
-      "es": "No busco un título; quiero aprender a usarlo en la vida diaria.",
+      "es": "No busco un título; quiero aprender cosas que pueda aplicar en la vida diaria.",
       "translations": {
-        "en": "I’m not looking for a diploma. I want to learn to use it in everyday life.",
-        "pt": "Não estou buscando um diploma; quero aprender a usar isso no dia a dia.",
-        "fr": "Je ne cherche pas à obtenir un diplôme ; je veux apprendre à l’utiliser au quotidien.",
-        "it": "Non cerco un diploma; voglio imparare a usarlo nella vita quotidiana."
+        "en": "I'm not trying to earn a diploma. I want to learn skills I can use in everyday life.",
+        "pt": "Não estou buscando um diploma; quero aprender coisas que possa usar no dia a dia.",
+        "fr": "Je ne cherche pas à obtenir un diplôme ; je veux apprendre des choses que je pourrai utiliser au quotidien.",
+        "it": "Non cerco un diploma; voglio imparare cose che possa usare nella vita quotidiana.",
+        "de": "Ich will keinen Abschluss. Ich will lernen, wie ich das Gelernte im Alltag anwenden kann."
       },
       "image_url": ""
     },
@@ -241,7 +462,8 @@
         "en": "When does the next class start?",
         "pt": "Quando começa a próxima turma?",
         "fr": "Quand commence le prochain groupe ?",
-        "it": "Quando inizia il prossimo gruppo?"
+        "it": "Quando inizia il prossimo gruppo?",
+        "de": "Wann fängt die nächste Gruppe an?"
       },
       "image_url": ""
     },
@@ -252,7 +474,8 @@
         "en": "How many weeks does the course run for?",
         "pt": "O curso dura quantas semanas?",
         "fr": "Le cours se déroule sur combien de semaines ?",
-        "it": "Quante settimane dura il corso?"
+        "it": "Quante settimane dura il corso?",
+        "de": "Wie viele Wochen dauert der Kurs?"
       },
       "image_url": ""
     },
@@ -262,8 +485,9 @@
       "translations": {
         "en": "How many hours of class are there per week?",
         "pt": "Quantas horas de aula há por semana?",
-        "fr": "Combien d’heures de cours y a-t-il par semaine ?",
-        "it": "Quante ore di lezione ci sono alla settimana?"
+        "fr": "Combien d'heures de cours y a-t-il par semaine ?",
+        "it": "Quante ore di lezione ci sono alla settimana?",
+        "de": "Wie viele Stunden Unterricht gibt es pro Woche?"
       },
       "image_url": ""
     },
@@ -274,7 +498,8 @@
         "en": "How much time should I spend studying outside class?",
         "pt": "Quanto tempo devo dedicar aos estudos fora das aulas?",
         "fr": "Combien de temps dois-je consacrer au travail personnel en dehors des cours ?",
-        "it": "Quanto tempo devo dedicare allo studio fuori dalle lezioni?"
+        "it": "Quanto tempo devo dedicare allo studio fuori dalle lezioni?",
+        "de": "Wie viel Zeit sollte ich außerhalb des Unterrichts fürs Lernen einplanen?"
       },
       "image_url": ""
     },
@@ -285,7 +510,8 @@
         "en": "Is there a class that meets only on weekends?",
         "pt": "Há uma turma com aulas só nos fins de semana?",
         "fr": "Il y a un groupe avec des cours uniquement le week-end ?",
-        "it": "C’è un gruppo con lezioni solo nel fine settimana?"
+        "it": "C'è un gruppo con lezioni solo nel fine settimana?",
+        "de": "Gibt es eine Gruppe, die nur am Wochenende Unterricht hat?"
       },
       "image_url": ""
     },
@@ -295,8 +521,9 @@
       "translations": {
         "en": "Does the schedule stay the same throughout the course?",
         "pt": "O horário continua o mesmo durante todo o curso?",
-        "fr": "L’horaire reste le même pendant tout le cours ?",
-        "it": "L’orario rimane lo stesso per tutto il corso?"
+        "fr": "L'horaire reste le même pendant tout le cours ?",
+        "it": "L'orario rimane lo stesso per tutto il corso?",
+        "de": "Bleiben die Kurszeiten während des ganzen Kurses gleich?"
       },
       "image_url": ""
     },
@@ -306,19 +533,21 @@
       "translations": {
         "en": "Is the advertised schedule in my time zone?",
         "pt": "O horário anunciado está no meu fuso horário?",
-        "fr": "L’horaire annoncé correspond à mon fuseau horaire ?",
-        "it": "L’orario indicato corrisponde al mio fuso orario?"
+        "fr": "L'horaire annoncé correspond à mon fuseau horaire ?",
+        "it": "L'orario indicato corrisponde al mio fuso orario?",
+        "de": "Sind die Kurszeiten in meiner Zeitzone angegeben?"
       },
       "image_url": ""
     },
     {
       "id": "coe_029",
-      "es": "Ese horario coincide con mi trabajo; ¿hay otro grupo?",
+      "es": "Ese horario se empalma con mi trabajo; ¿hay otro grupo?",
       "translations": {
         "en": "That schedule conflicts with my work. Is there another class?",
-        "pt": "Esse horário coincide com meu trabalho; há outra turma?",
+        "pt": "Esse horário bate com meu horário de trabalho; há outra turma?",
         "fr": "Cet horaire tombe pendant mes heures de travail ; il y a un autre groupe ?",
-        "it": "Quell’orario coincide con il mio lavoro; c’è un altro gruppo?"
+        "it": "Quell'orario si sovrappone al mio orario di lavoro; c'è un altro gruppo?",
+        "de": "Zu dieser Zeit muss ich arbeiten. Gibt es eine andere Gruppe?"
       },
       "image_url": ""
     },
@@ -329,7 +558,8 @@
         "en": "Is there a minimum attendance requirement to complete the course?",
         "pt": "Há uma frequência mínima para concluir o curso?",
         "fr": "Il faut assister à un nombre minimum de cours pour terminer la formation ?",
-        "it": "È richiesta una frequenza minima per completare il corso?"
+        "it": "È richiesta una frequenza minima per completare il corso?",
+        "de": "Muss ich für den Kursabschluss an einer Mindestzahl von Terminen teilnehmen?"
       },
       "image_url": ""
     },
@@ -340,7 +570,8 @@
         "en": "Are there breaks between sessions?",
         "pt": "Há intervalos entre as sessões?",
         "fr": "Il y a des pauses entre les séances ?",
-        "it": "Ci sono pause tra le sessioni?"
+        "it": "Ci sono pause tra le sessioni?",
+        "de": "Gibt es Pausen zwischen den Terminen?"
       },
       "image_url": ""
     },
@@ -348,10 +579,11 @@
       "id": "coe_032",
       "es": "Quisiera inscribirme en el grupo de la tarde.",
       "translations": {
-        "en": "I’d like to enroll in the afternoon class.",
+        "en": "I'd like to enroll in the afternoon class.",
         "pt": "Gostaria de me matricular na turma da tarde.",
-        "fr": "Je voudrais m’inscrire dans le groupe de l’après-midi.",
-        "it": "Vorrei iscrivermi al gruppo del pomeriggio."
+        "fr": "Je voudrais m'inscrire dans le groupe de l'après-midi.",
+        "it": "Vorrei iscrivermi al gruppo del pomeriggio.",
+        "de": "Ich möchte mich für die Nachmittagsgruppe anmelden."
       },
       "image_url": ""
     },
@@ -361,8 +593,9 @@
       "translations": {
         "en": "Do I register online or at the front desk?",
         "pt": "A inscrição é feita on-line ou na recepção?",
-        "fr": "L’inscription se fait en ligne ou à l’accueil ?",
-        "it": "L’iscrizione si fa online o in segreteria?"
+        "fr": "L'inscription se fait en ligne ou à l'accueil ?",
+        "it": "L'iscrizione si fa online o in segreteria?",
+        "de": "Melde ich mich online oder am Empfang an?"
       },
       "image_url": ""
     },
@@ -372,8 +605,9 @@
       "translations": {
         "en": "What documents do you need for registration?",
         "pt": "Quais documentos são necessários para a matrícula?",
-        "fr": "Quels documents faut-il pour l’inscription ?",
-        "it": "Quali documenti servono per l’iscrizione?"
+        "fr": "Quels documents faut-il pour l'inscription ?",
+        "it": "Quali documenti servono per l'iscrizione?",
+        "de": "Welche Unterlagen brauchen Sie für die Anmeldung?"
       },
       "image_url": ""
     },
@@ -384,7 +618,8 @@
         "en": "Are there still spots available in that class?",
         "pt": "Ainda há vagas nessa turma?",
         "fr": "Il reste encore des places dans ce groupe ?",
-        "it": "Ci sono ancora posti in quel gruppo?"
+        "it": "Ci sono ancora posti in quel gruppo?",
+        "de": "Sind in dieser Gruppe noch Plätze frei?"
       },
       "image_url": ""
     },
@@ -394,8 +629,9 @@
       "translations": {
         "en": "If the class is full, can you put me on a waiting list?",
         "pt": "Se a turma estiver lotada, podem me colocar em uma lista de espera?",
-        "fr": "Si le groupe est complet, pouvez-vous me mettre sur liste d’attente ?",
-        "it": "Se il gruppo è al completo, potete mettermi in lista d’attesa?"
+        "fr": "Si le groupe est complet, pouvez-vous me mettre sur liste d'attente ?",
+        "it": "Se il gruppo è al completo, potete mettermi in lista d'attesa?",
+        "de": "Können Sie mich auf die Warteliste setzen, wenn die Gruppe voll ist?"
       },
       "image_url": ""
     },
@@ -406,7 +642,8 @@
         "en": "When will you let me know if a spot opens up?",
         "pt": "Quando vocês vão me avisar se surgir uma vaga?",
         "fr": "Quand me préviendrez-vous si une place se libère ?",
-        "it": "Quando mi avviserete se si libera un posto?"
+        "it": "Quando mi avviserete se si libera un posto?",
+        "de": "Wann sagen Sie mir Bescheid, falls ein Platz frei wird?"
       },
       "image_url": ""
     },
@@ -416,8 +653,9 @@
       "translations": {
         "en": "Is my enrollment confirmed when I submit the form or when I pay?",
         "pt": "Minha matrícula fica confirmada ao enviar o formulário ou ao pagar?",
-        "fr": "Mon inscription est confirmée quand j’envoie le formulaire ou quand je paie ?",
-        "it": "L’iscrizione è confermata quando invio il modulo o quando pago?"
+        "fr": "Mon inscription est confirmée quand j'envoie le formulaire ou quand je paie ?",
+        "it": "L'iscrizione è confermata quando invio il modulo o quando pago?",
+        "de": "Wird meine Anmeldung bestätigt, wenn ich das Formular abschicke oder wenn ich bezahle?"
       },
       "image_url": ""
     },
@@ -425,10 +663,11 @@
       "id": "coe_039",
       "es": "¿El precio incluye la inscripción y los materiales?",
       "translations": {
-        "en": "Does the price include registration and materials?",
-        "pt": "O preço inclui a matrícula e os materiais?",
-        "fr": "Le prix comprend les frais d’inscription et le matériel ?",
-        "it": "Il prezzo include l’iscrizione e i materiali?"
+        "en": "Does the price include the registration fee and the materials?",
+        "pt": "O preço inclui a taxa de matrícula e os materiais?",
+        "fr": "Le prix comprend les frais d'inscription et le matériel ?",
+        "it": "Il prezzo include l'iscrizione e i materiali?",
+        "de": "Sind die Anmeldegebühr und die Materialien im Preis enthalten?"
       },
       "image_url": ""
     },
@@ -439,7 +678,8 @@
         "en": "Can I pay for the course in installments?",
         "pt": "Posso pagar o curso em parcelas?",
         "fr": "Je peux payer le cours en plusieurs fois ?",
-        "it": "Posso pagare il corso a rate?"
+        "it": "Posso pagare il corso a rate?",
+        "de": "Kann ich den Kurs in Raten bezahlen?"
       },
       "image_url": ""
     },
@@ -450,7 +690,8 @@
         "en": "Do I need to buy the book before the first class?",
         "pt": "É preciso comprar o livro antes da primeira aula?",
         "fr": "Il faut acheter le livre avant le premier cours ?",
-        "it": "Bisogna comprare il libro prima della prima lezione?"
+        "it": "Bisogna comprare il libro prima della prima lezione?",
+        "de": "Muss man das Buch vor der ersten Stunde kaufen?"
       },
       "image_url": ""
     },
@@ -461,7 +702,8 @@
         "en": "Can I use an earlier edition of the book?",
         "pt": "Posso usar uma edição anterior do livro?",
         "fr": "Je peux utiliser une édition précédente du livre ?",
-        "it": "Posso usare un’edizione precedente del libro?"
+        "it": "Posso usare un'edizione precedente del libro?",
+        "de": "Kann ich eine ältere Ausgabe des Buches benutzen?"
       },
       "image_url": ""
     },
@@ -471,8 +713,9 @@
       "translations": {
         "en": "What happens if not enough people sign up for the class?",
         "pt": "O que acontece se a turma não tiver pessoas suficientes?",
-        "fr": "Qu’est-ce qui se passe s’il n’y a pas assez d’inscrits dans le groupe ?",
-        "it": "Che cosa succede se non si iscrivono abbastanza persone?"
+        "fr": "Qu'est-ce qui se passe s'il n'y a pas assez d'inscrits dans le groupe ?",
+        "it": "Che cosa succede se non si iscrivono abbastanza persone?",
+        "de": "Was passiert, wenn sich nicht genug Leute für die Gruppe anmelden?"
       },
       "image_url": ""
     },
@@ -483,7 +726,8 @@
         "en": "Can I cancel before the course starts? Is there a fee?",
         "pt": "Posso cancelar antes do início do curso? Há alguma taxa?",
         "fr": "Je peux annuler avant le début du cours ? Il y a des frais ?",
-        "it": "Posso annullare prima dell’inizio del corso? Ci sono dei costi?"
+        "it": "Posso annullare prima dell'inizio del corso? Ci sono dei costi?",
+        "de": "Kann ich vor Kursbeginn absagen? Kostet das etwas?"
       },
       "image_url": ""
     },
@@ -493,8 +737,9 @@
       "translations": {
         "en": "Can you send me confirmation of my class and schedule?",
         "pt": "Podem me enviar uma confirmação com a turma e o horário?",
-        "fr": "Pouvez-vous m’envoyer une confirmation avec le groupe et l’horaire ?",
-        "it": "Potete mandarmi una conferma con il gruppo e l’orario?"
+        "fr": "Pouvez-vous m'envoyer une confirmation avec le groupe et l'horaire ?",
+        "it": "Potete mandarmi una conferma con il gruppo e l'orario?",
+        "de": "Können Sie mir eine Bestätigung mit den Angaben zur Gruppe und zu den Kurszeiten schicken?"
       },
       "image_url": ""
     },
@@ -505,7 +750,8 @@
         "en": "Where can I find the materials for each session?",
         "pt": "Onde encontro os materiais de cada aula?",
         "fr": "Où est-ce que je trouve les documents de chaque séance ?",
-        "it": "Dove trovo i materiali di ogni lezione?"
+        "it": "Dove trovo i materiali di ogni lezione?",
+        "de": "Wo finde ich die Materialien für jeden Kurstermin?"
       },
       "image_url": ""
     },
@@ -516,7 +762,8 @@
         "en": "How long will I have access to the recordings?",
         "pt": "Por quanto tempo terei acesso às gravações?",
         "fr": "Pendant combien de temps aurai-je accès aux enregistrements ?",
-        "it": "Per quanto tempo avrò accesso alle registrazioni?"
+        "it": "Per quanto tempo avrò accesso alle registrazioni?",
+        "de": "Wie lange habe ich Zugriff auf die Aufzeichnungen?"
       },
       "image_url": ""
     },
@@ -527,7 +774,8 @@
         "en": "Do I need a computer, or can I take the course on my phone?",
         "pt": "Preciso de um computador ou posso acompanhar o curso pelo celular?",
         "fr": "Il me faut un ordinateur ou je peux suivre le cours sur mon téléphone ?",
-        "it": "Mi serve un computer o posso seguire il corso dal telefono?"
+        "it": "Mi serve un computer o posso seguire il corso dal telefono?",
+        "de": "Brauche ich einen Computer oder kann ich den Kurs auf dem Handy machen?"
       },
       "image_url": ""
     },
@@ -538,7 +786,8 @@
         "en": "Do I need to keep my camera on during class?",
         "pt": "Preciso manter a câmera ligada durante a aula?",
         "fr": "Je dois garder la caméra allumée pendant le cours ?",
-        "it": "Devo tenere la videocamera accesa durante la lezione?"
+        "it": "Devo tenere la videocamera accesa durante la lezione?",
+        "de": "Muss meine Kamera während des Unterrichts anbleiben?"
       },
       "image_url": ""
     },
@@ -546,23 +795,28 @@
       "id": "coe_050",
       "es": "No recibí el enlace de la primera sesión.",
       "translations": {
-        "en": "I didn’t receive the link for the first session.",
+        "en": "I didn't receive the link for the first session.",
         "pt": "Não recebi o link da primeira aula.",
-        "fr": "Je n’ai pas reçu le lien de la première séance.",
-        "it": "Non ho ricevuto il link della prima lezione."
+        "fr": "Je n'ai pas reçu le lien de la première séance.",
+        "it": "Non ho ricevuto il link della prima lezione.",
+        "de": "Ich habe den Link für den ersten Kurstermin nicht bekommen."
       },
       "image_url": ""
     },
     {
       "id": "coe_051",
-      "es": "Ya estoy inscrito/a, pero no puedo acceder a los materiales.",
+      "es": "Ya estoy inscrito, pero no puedo acceder a los materiales. / Ya estoy inscrita, pero no puedo acceder a los materiales.",
       "translations": {
-        "en": "I’m already enrolled, but I can’t access the materials.",
+        "en": "I'm already enrolled, but I can't access the materials.",
         "pt": "Já estou matriculado, mas não consigo acessar os materiais. / Já estou matriculada, mas não consigo acessar os materiais.",
-        "fr": "Je suis déjà inscrit, mais je n’arrive pas à accéder aux documents. / Je suis déjà inscrite, mais je n’arrive pas à accéder aux documents.",
-        "it": "Sono già iscritto, ma non riesco ad accedere ai materiali. / Sono già iscritta, ma non riesco ad accedere ai materiali."
+        "fr": "Je suis déjà inscrit, mais je n'arrive pas à accéder aux documents. / Je suis déjà inscrite, mais je n'arrive pas à accéder aux documents.",
+        "it": "Sono già iscritto, ma non riesco ad accedere ai materiali. / Sono già iscritta, ma non riesco ad accedere ai materiali.",
+        "de": "Ich bin schon angemeldet, aber ich kann nicht auf die Materialien zugreifen."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "La primera forma se usa en masculino y la segunda en femenino."
+      }
     },
     {
       "id": "coe_052",
@@ -570,8 +824,9 @@
       "translations": {
         "en": "Who should I contact if I have a problem with registration?",
         "pt": "Com quem devo falar se tiver um problema com a matrícula?",
-        "fr": "Qui dois-je contacter si j’ai un problème avec l’inscription ?",
-        "it": "Chi devo contattare se ho un problema con l’iscrizione?"
+        "fr": "Qui dois-je contacter si j'ai un problème avec l'inscription ?",
+        "it": "Chi devo contattare se ho un problema con l'iscrizione?",
+        "de": "An wen soll ich mich wenden, wenn ich ein Problem mit der Anmeldung habe?"
       },
       "image_url": ""
     },
@@ -580,9 +835,10 @@
       "es": "Quiero organizar un horario de estudio que pueda mantener.",
       "translations": {
         "en": "I want to create a study schedule I can stick to.",
-        "pt": "Quero organizar uma rotina de estudos que eu consiga manter.",
-        "fr": "Je veux organiser un planning d’étude que je puisse respecter.",
-        "it": "Voglio organizzare un programma di studio che riesca a mantenere."
+        "pt": "Quero organizar um horário de estudos que eu consiga manter.",
+        "fr": "Je veux me faire un emploi du temps pour étudier que je puisse respecter.",
+        "it": "Voglio organizzare un orario di studio che riesca a rispettare.",
+        "de": "Ich möchte einen Lernplan machen, an den ich mich halten kann."
       },
       "image_url": ""
     },
@@ -590,10 +846,11 @@
       "id": "coe_054",
       "es": "Prefiero estudiar un poco cada día en lugar de hacerlo todo de una vez.",
       "translations": {
-        "en": "I’d rather study a little every day than do it all at once.",
+        "en": "I'd rather study a little every day than do it all at once.",
         "pt": "Prefiro estudar um pouco todos os dias em vez de fazer tudo de uma vez.",
-        "fr": "Je préfère étudier un peu chaque jour plutôt que de tout faire d’un coup.",
-        "it": "Preferisco studiare un po’ ogni giorno invece di fare tutto in una volta."
+        "fr": "Je préfère étudier un peu chaque jour plutôt que de tout faire d'un coup.",
+        "it": "Preferisco studiare un po' ogni giorno invece di fare tutto in una volta.",
+        "de": "Ich lerne lieber jeden Tag ein bisschen, als alles auf einmal zu machen."
       },
       "image_url": ""
     },
@@ -601,10 +858,11 @@
       "id": "coe_055",
       "es": "Esta semana voy a concentrarme en los temas que más me cuestan.",
       "translations": {
-        "en": "This week, I’m going to focus on the topics I find hardest.",
+        "en": "This week, I'm going to focus on the topics I find hardest.",
         "pt": "Nesta semana vou me concentrar nos assuntos em que tenho mais dificuldade.",
         "fr": "Cette semaine, je vais me concentrer sur les sujets qui me posent le plus de difficultés.",
-        "it": "Questa settimana mi concentrerò sugli argomenti che trovo più difficili."
+        "it": "Questa settimana mi concentrerò sugli argomenti che trovo più difficili.",
+        "de": "Diese Woche konzentriere ich mich auf die Themen, die mir am schwersten fallen."
       },
       "image_url": ""
     },
@@ -615,7 +873,8 @@
         "en": "Which part should I study first?",
         "pt": "Qual parte é melhor estudar primeiro?",
         "fr": "Quelle partie vaut-il mieux étudier en premier ?",
-        "it": "Quale parte conviene studiare per prima?"
+        "it": "Quale parte conviene studiare per prima?",
+        "de": "Welchen Teil sollte ich zuerst lernen?"
       },
       "image_url": ""
     },
@@ -623,10 +882,11 @@
       "id": "coe_057",
       "es": "Voy a dividir el trabajo en tareas pequeñas.",
       "translations": {
-        "en": "I’m going to break the work into small tasks.",
+        "en": "I'm going to break the work into small tasks.",
         "pt": "Vou dividir o trabalho em tarefas pequenas.",
         "fr": "Je vais diviser le travail en petites tâches.",
-        "it": "Dividerò il lavoro in piccoli compiti."
+        "it": "Dividerò il lavoro in piccoli compiti.",
+        "de": "Ich werde die Arbeit in kleine Aufgaben aufteilen."
       },
       "image_url": ""
     },
@@ -637,7 +897,8 @@
         "en": "I set aside twenty minutes to review the previous class.",
         "pt": "Reservo vinte minutos para revisar a aula anterior.",
         "fr": "Je réserve vingt minutes pour réviser le cours précédent.",
-        "it": "Dedico venti minuti al ripasso della lezione precedente."
+        "it": "Dedico venti minuti al ripasso della lezione precedente.",
+        "de": "Ich nehme mir zwanzig Minuten, um den Stoff aus der letzten Stunde zu wiederholen."
       },
       "image_url": ""
     },
@@ -647,8 +908,9 @@
       "translations": {
         "en": "I learn better when I connect new information to something I already know.",
         "pt": "Aprendo melhor quando relaciono o que é novo com algo que já conheço.",
-        "fr": "J’apprends mieux quand je relie les nouvelles informations à ce que je connais déjà.",
-        "it": "Imparo meglio quando collego le nuove informazioni a qualcosa che conosco già."
+        "fr": "J'apprends mieux quand je relie les nouvelles informations à ce que je connais déjà.",
+        "it": "Imparo meglio quando collego le nuove informazioni a qualcosa che conosco già.",
+        "de": "Ich lerne besser, wenn ich Neues mit etwas verbinde, das ich schon kenne."
       },
       "image_url": ""
     },
@@ -656,10 +918,11 @@
       "id": "coe_060",
       "es": "Voy a probar diferentes formas de estudiar para ver cuál me ayuda más.",
       "translations": {
-        "en": "I’ll try different ways of studying to see which helps me most.",
+        "en": "I'll try different ways of studying to see which helps me most.",
         "pt": "Vou experimentar diferentes formas de estudar para ver qual me ajuda mais.",
-        "fr": "Je vais essayer différentes façons d’étudier pour voir laquelle m’aide le plus.",
-        "it": "Proverò diversi modi di studiare per vedere quale mi aiuta di più."
+        "fr": "Je vais essayer différentes façons d'étudier pour voir laquelle m'aide le plus.",
+        "it": "Proverò diversi modi di studiare per vedere quale mi aiuta di più.",
+        "de": "Ich probiere verschiedene Lernmethoden aus, um zu sehen, welche mir am meisten hilft."
       },
       "image_url": ""
     },
@@ -667,10 +930,11 @@
       "id": "coe_061",
       "es": "Leer mis apuntes no me basta; necesito practicar con ejemplos.",
       "translations": {
-        "en": "Reading my notes isn’t enough for me. I need to practice with examples.",
+        "en": "Reading my notes isn't enough for me. I need to practice with examples.",
         "pt": "Ler minhas anotações não basta; preciso praticar com exemplos.",
-        "fr": "Lire mes notes ne me suffit pas ; j’ai besoin de m’entraîner avec des exemples.",
-        "it": "Leggere i miei appunti non mi basta; devo esercitarmi con degli esempi."
+        "fr": "Lire mes notes ne me suffit pas ; j'ai besoin de m'entraîner avec des exemples.",
+        "it": "Leggere i miei appunti non mi basta; devo esercitarmi con degli esempi.",
+        "de": "Es reicht nicht, meine Notizen zu lesen. Ich muss mit Beispielen üben."
       },
       "image_url": ""
     },
@@ -680,8 +944,9 @@
       "translations": {
         "en": "Can we practice by taking turns asking each other questions?",
         "pt": "Podemos praticar fazendo perguntas um ao outro, por turnos?",
-        "fr": "On peut s’entraîner en se posant des questions à tour de rôle ?",
-        "it": "Possiamo esercitarci facendoci domande a turno?"
+        "fr": "On peut s'entraîner en se posant des questions à tour de rôle ?",
+        "it": "Possiamo esercitarci facendoci domande a turno?",
+        "de": "Können wir üben, indem wir uns abwechselnd Fragen stellen?"
       },
       "image_url": ""
     },
@@ -689,10 +954,11 @@
       "id": "coe_063",
       "es": "Me gustaría explicar lo que aprendí para comprobar si lo entendí.",
       "translations": {
-        "en": "I’d like to explain what I learned to check whether I understood it.",
+        "en": "I'd like to explain what I learned to check whether I understood it.",
         "pt": "Gostaria de explicar o que aprendi para ver se entendi.",
-        "fr": "J’aimerais expliquer ce que j’ai appris pour vérifier si j’ai compris.",
-        "it": "Vorrei spiegare quello che ho imparato per verificare se l’ho capito."
+        "fr": "J'aimerais expliquer ce que j'ai appris pour vérifier si j'ai compris.",
+        "it": "Vorrei spiegare quello che ho imparato per verificare se l'ho capito.",
+        "de": "Ich würde gern erklären, was ich gelernt habe, um zu sehen, ob ich es verstanden habe."
       },
       "image_url": ""
     },
@@ -701,9 +967,10 @@
       "es": "Anoto mis dudas y las reviso al final de la sesión.",
       "translations": {
         "en": "I write down my questions and go over them at the end of the session.",
-        "pt": "Anoto minhas dúvidas e reviso no final da sessão.",
-        "fr": "Je note mes questions et je les reprends à la fin de la séance.",
-        "it": "Annoto i miei dubbi e li rivedo alla fine della sessione."
+        "pt": "Anoto minhas dúvidas e volto a elas no final da sessão.",
+        "fr": "Je note mes questions et je les revois à la fin de la séance.",
+        "it": "Annoto i miei dubbi e li rivedo alla fine della sessione.",
+        "de": "Ich notiere meine offenen Fragen und gehe sie am Ende der Stunde noch einmal durch."
       },
       "image_url": ""
     },
@@ -714,7 +981,8 @@
         "en": "Can we divide up the parts of the assignment based on how much time each person has?",
         "pt": "Podemos dividir as partes do trabalho de acordo com o tempo que cada um tem?",
         "fr": "On peut répartir les parties du travail selon le temps disponible de chacun ?",
-        "it": "Possiamo dividere le parti del lavoro in base al tempo che ha ciascuno?"
+        "it": "Possiamo dividere le parti del lavoro in base al tempo che ha ciascuno?",
+        "de": "Können wir die Arbeit danach aufteilen, wie viel Zeit jeder hat?"
       },
       "image_url": ""
     },
@@ -722,10 +990,11 @@
       "id": "coe_066",
       "es": "Yo preparo el resumen y tú buscas los ejemplos.",
       "translations": {
-        "en": "I’ll prepare the summary, and you find the examples.",
+        "en": "I'll put together the summary, and you'll look for the examples.",
         "pt": "Eu preparo o resumo e você procura os exemplos.",
         "fr": "Je prépare le résumé et tu cherches les exemples.",
-        "it": "Io preparo il riassunto e tu cerchi gli esempi."
+        "it": "Io preparo il riassunto e tu cerchi gli esempi.",
+        "de": "Ich mache die Zusammenfassung, und du suchst die Beispiele."
       },
       "image_url": ""
     },
@@ -733,10 +1002,11 @@
       "id": "coe_067",
       "es": "Antes de entregar, revisemos el trabajo completo juntos.",
       "translations": {
-        "en": "Before submitting it, let’s review the whole assignment together.",
+        "en": "Before submitting it, let's review the whole assignment together.",
         "pt": "Antes de entregar, vamos revisar o trabalho inteiro juntos.",
         "fr": "Avant de le rendre, relisons tout le travail ensemble.",
-        "it": "Prima di consegnare, rivediamo tutto il lavoro insieme."
+        "it": "Prima di consegnare, rivediamo tutto il lavoro insieme.",
+        "de": "Lass uns vor der Abgabe die ganze Arbeit zusammen durchgehen."
       },
       "image_url": ""
     },
@@ -747,7 +1017,8 @@
         "en": "How are we going to share our progress?",
         "pt": "Como vamos compartilhar o andamento do trabalho?",
         "fr": "Comment allons-nous partager nos avancées ?",
-        "it": "Come ci aggiorniamo sui progressi del lavoro?"
+        "it": "Come condividiamo i nostri progressi?",
+        "de": "Wie tauschen wir uns über unsere Fortschritte aus?"
       },
       "image_url": ""
     },
@@ -758,7 +1029,8 @@
         "en": "Can we use a shared document to work together?",
         "pt": "Podemos usar um documento compartilhado para trabalhar?",
         "fr": "On peut utiliser un document partagé pour travailler ?",
-        "it": "Possiamo usare un documento condiviso per lavorare?"
+        "it": "Possiamo usare un documento condiviso per lavorare?",
+        "de": "Können wir in einem gemeinsamen Dokument arbeiten?"
       },
       "image_url": ""
     },
@@ -768,8 +1040,9 @@
       "translations": {
         "en": "I need written instructions to organize the tasks.",
         "pt": "Preciso de instruções por escrito para organizar as tarefas.",
-        "fr": "J’ai besoin de consignes écrites pour organiser les tâches.",
-        "it": "Ho bisogno di istruzioni scritte per organizzare i compiti."
+        "fr": "J'ai besoin de consignes écrites pour organiser les tâches.",
+        "it": "Ho bisogno di istruzioni scritte per organizzare i compiti.",
+        "de": "Ich brauche schriftliche Anweisungen, um die Aufgaben zu organisieren."
       },
       "image_url": ""
     },
@@ -779,19 +1052,21 @@
       "translations": {
         "en": "Is the date listed for the draft or the final assignment?",
         "pt": "A data indicada é para entregar o rascunho ou o trabalho final?",
-        "fr": "La date indiquée est pour rendre le brouillon ou le travail final ?",
-        "it": "La data indicata è per consegnare la bozza o il lavoro finale?"
+        "fr": "La date indiquée correspond à la remise du brouillon ou du travail final ?",
+        "it": "La data indicata è per consegnare la bozza o il lavoro finale?",
+        "de": "Ist das angegebene Datum für die Abgabe des Entwurfs oder der Endfassung?"
       },
       "image_url": ""
     },
     {
       "id": "coe_072",
-      "es": "¿La entrega es antes de la clase o al final del día?",
+      "es": "¿La entrega es antes de la clase o antes de que termine el día?",
       "translations": {
-        "en": "Is the assignment due before class or at the end of the day?",
+        "en": "Is the assignment due before class or by the end of the day?",
         "pt": "A entrega é antes da aula ou até o final do dia?",
         "fr": "Il faut rendre le travail avant le cours ou avant la fin de la journée ?",
-        "it": "Il lavoro va consegnato prima della lezione o entro la fine della giornata?"
+        "it": "Il lavoro va consegnato prima della lezione o entro la fine della giornata?",
+        "de": "Muss die Aufgabe vor dem Unterricht oder bis zum Ende des Tages abgegeben werden?"
       },
       "image_url": ""
     },
@@ -802,7 +1077,8 @@
         "en": "Do we submit one copy per group or one per person?",
         "pt": "Devemos entregar uma cópia por grupo ou uma por pessoa?",
         "fr": "On doit rendre un exemplaire par groupe ou un par personne ?",
-        "it": "Dobbiamo consegnare una copia per gruppo o una per persona?"
+        "it": "Dobbiamo consegnare una copia per gruppo o una per persona?",
+        "de": "Sollen wir ein Exemplar pro Gruppe oder eins pro Person abgeben?"
       },
       "image_url": ""
     },
@@ -813,7 +1089,8 @@
         "en": "Is there a required format or a maximum length for the assignment?",
         "pt": "Há um formato obrigatório ou um tamanho máximo para o trabalho?",
         "fr": "Il y a un format imposé ou une longueur maximale pour le travail ?",
-        "it": "Ci sono un formato obbligatorio o una lunghezza massima per il lavoro?"
+        "it": "Ci sono un formato obbligatorio o una lunghezza massima per il lavoro?",
+        "de": "Gibt es für die Aufgabe ein festes Format oder eine maximale Länge?"
       },
       "image_url": ""
     },
@@ -824,7 +1101,8 @@
         "en": "Do we need to include the sources we used?",
         "pt": "Precisamos incluir as fontes que consultamos?",
         "fr": "Il faut indiquer les sources que nous avons consultées ?",
-        "it": "Dobbiamo indicare le fonti che abbiamo consultato?"
+        "it": "Dobbiamo indicare le fonti che abbiamo consultato?",
+        "de": "Müssen wir die Quellen angeben, die wir benutzt haben?"
       },
       "image_url": ""
     },
@@ -835,7 +1113,8 @@
         "en": "Where do I upload the file, and what should I name it?",
         "pt": "Onde envio o arquivo e qual nome ele deve ter?",
         "fr": "Où faut-il déposer le fichier et quel nom doit-il avoir ?",
-        "it": "Dove si carica il file e che nome deve avere?"
+        "it": "Dove si carica il file e che nome deve avere?",
+        "de": "Wo lade ich die Datei hoch und wie soll ich sie nennen?"
       },
       "image_url": ""
     },
@@ -846,7 +1125,8 @@
         "en": "How can I check that my submission was received?",
         "pt": "Como posso conferir se minha entrega foi recebida?",
         "fr": "Comment puis-je vérifier que mon travail a bien été reçu ?",
-        "it": "Come posso verificare che la consegna sia stata ricevuta?"
+        "it": "Come posso verificare che la consegna sia stata ricevuta?",
+        "de": "Wie kann ich prüfen, ob meine Abgabe angekommen ist?"
       },
       "image_url": ""
     },
@@ -857,7 +1137,8 @@
         "en": "Can I replace the file before the deadline?",
         "pt": "Posso substituir o arquivo antes do prazo final?",
         "fr": "Je peux remplacer le fichier avant la date limite ?",
-        "it": "Posso sostituire il file prima della scadenza?"
+        "it": "Posso sostituire il file prima della scadenza?",
+        "de": "Kann ich die Datei vor Ablauf der Frist ersetzen?"
       },
       "image_url": ""
     },
@@ -865,10 +1146,11 @@
       "id": "coe_079",
       "es": "El archivo que envié no era la versión final.",
       "translations": {
-        "en": "The file I sent wasn’t the final version.",
+        "en": "The file I sent wasn't the final version.",
         "pt": "O arquivo que enviei não era a versão final.",
-        "fr": "Le fichier que j’ai envoyé n’était pas la version finale.",
-        "it": "Il file che ho inviato non era la versione finale."
+        "fr": "Le fichier que j'ai envoyé n'était pas la version finale.",
+        "it": "Il file che ho inviato non era la versione finale.",
+        "de": "Die Datei, die ich abgeschickt habe, war nicht die Endfassung."
       },
       "image_url": ""
     },
@@ -876,10 +1158,11 @@
       "id": "coe_080",
       "es": "No voy a terminar a tiempo; ¿puedo pedir dos días más?",
       "translations": {
-        "en": "I won’t finish on time. Can I ask for two more days?",
+        "en": "I won't finish on time. Can I ask for two more days?",
         "pt": "Não vou terminar a tempo; posso pedir mais dois dias?",
         "fr": "Je ne vais pas finir à temps ; je peux demander deux jours de plus ?",
-        "it": "Non riuscirò a finire in tempo; posso chiedere altri due giorni?"
+        "it": "Non riuscirò a finire in tempo; posso chiedere altri due giorni?",
+        "de": "Ich werde nicht rechtzeitig fertig. Kann ich um zwei Tage mehr bitten?"
       },
       "image_url": ""
     },
@@ -890,7 +1173,8 @@
         "en": "Do you accept late submissions? Do they affect the grade?",
         "pt": "Vocês aceitam entregas fora do prazo? Isso afeta a nota?",
         "fr": "Acceptez-vous les travaux en retard ? Est-ce que cela affecte la note ?",
-        "it": "Accettate consegne in ritardo? Influiscono sul voto?"
+        "it": "Accettate consegne in ritardo? Influiscono sul voto?",
+        "de": "Nehmen Sie verspätete Abgaben an? Hat das Einfluss auf die Note?"
       },
       "image_url": ""
     },
@@ -900,8 +1184,9 @@
       "translations": {
         "en": "I had a technical problem submitting the assignment. I saved a screenshot of the error.",
         "pt": "Tive um problema técnico ao enviar o trabalho; salvei uma captura de tela do erro.",
-        "fr": "J’ai eu un problème technique en envoyant le travail ; j’ai gardé une capture d’écran de l’erreur.",
-        "it": "Ho avuto un problema tecnico nell’invio del lavoro; ho salvato una schermata dell’errore."
+        "fr": "J'ai eu un problème technique en envoyant le travail ; j'ai gardé une capture d'écran de l'erreur.",
+        "it": "Ho avuto un problema tecnico nell'invio del lavoro; ho salvato una schermata dell'errore.",
+        "de": "Beim Einreichen der Aufgabe hatte ich ein technisches Problem. Ich habe einen Screenshot der Fehlermeldung gespeichert."
       },
       "image_url": ""
     },
@@ -911,8 +1196,9 @@
       "translations": {
         "en": "Can I email it while the platform issue is being fixed?",
         "pt": "Posso enviar por e-mail enquanto o problema da plataforma é resolvido?",
-        "fr": "Je peux l’envoyer par e-mail en attendant que le problème de la plateforme soit résolu ?",
-        "it": "Posso inviarlo via e-mail mentre viene risolto il problema della piattaforma?"
+        "fr": "Je peux l'envoyer par e-mail en attendant que le problème de la plateforme soit résolu ?",
+        "it": "Posso inviarlo via e-mail mentre viene risolto il problema della piattaforma?",
+        "de": "Kann ich Ihnen die Arbeit per E-Mail schicken, bis das Problem mit der Plattform behoben ist?"
       },
       "image_url": ""
     },
@@ -920,10 +1206,11 @@
       "id": "coe_084",
       "es": "No podré asistir a la próxima clase; ¿qué debo hacer para ponerme al día?",
       "translations": {
-        "en": "I won’t be able to attend the next class. What should I do to catch up?",
+        "en": "I won't be able to attend the next class. What should I do to catch up?",
         "pt": "Não vou poder ir à próxima aula; o que devo fazer para colocar os estudos em dia?",
-        "fr": "Je ne pourrai pas assister au prochain cours ; que dois-je faire pour rattraper ?",
-        "it": "Non potrò partecipare alla prossima lezione; che cosa devo fare per recuperare?"
+        "fr": "Je ne pourrai pas assister au prochain cours ; que dois-je faire pour rattraper mon retard ?",
+        "it": "Non potrò partecipare alla prossima lezione; che cosa devo fare per mettermi in pari?",
+        "de": "Ich kann beim nächsten Unterrichtstermin nicht dabei sein. Was soll ich tun, um den Stoff nachzuholen?"
       },
       "image_url": ""
     },
@@ -934,7 +1221,8 @@
         "en": "Can I make up that session with another class?",
         "pt": "Posso repor essa aula com outra turma?",
         "fr": "Je peux rattraper cette séance avec un autre groupe ?",
-        "it": "Posso recuperare quella lezione con un altro gruppo?"
+        "it": "Posso recuperare quella lezione con un altro gruppo?",
+        "de": "Kann ich diese Stunde mit einer anderen Gruppe nachholen?"
       },
       "image_url": ""
     },
@@ -944,21 +1232,26 @@
       "translations": {
         "en": "Which part did we cover in the class I missed?",
         "pt": "Qual parte foi vista na aula que eu perdi?",
-        "fr": "Quelle partie avons-nous vue pendant le cours que j’ai manqué ?",
-        "it": "Quale parte abbiamo visto durante la lezione che ho perso?"
+        "fr": "Quelle partie avons-nous vue pendant le cours que j'ai manqué ?",
+        "it": "Quale parte abbiamo visto durante la lezione che ho perso?",
+        "de": "Welchen Teil haben wir in der Stunde behandelt, die ich verpasst habe?"
       },
       "image_url": ""
     },
     {
       "id": "coe_087",
-      "es": "Estoy atrasado/a con el material; necesito un plan para ponerme al día.",
+      "es": "Estoy atrasado con el material; necesito un plan para ponerme al día. / Estoy atrasada con el material; necesito un plan para ponerme al día.",
       "translations": {
-        "en": "I’m behind on the course material. I need a plan to catch up.",
+        "en": "I'm behind on the course material. I need a plan to catch up.",
         "pt": "Estou atrasado com o conteúdo; preciso de um plano para colocar os estudos em dia. / Estou atrasada com o conteúdo; preciso de um plano para colocar os estudos em dia.",
-        "fr": "J’ai du retard dans le cours ; il me faut un plan pour rattraper.",
-        "it": "Sono indietro con il materiale; mi serve un piano per recuperare."
+        "fr": "J'ai du retard sur le contenu du cours ; il me faut un plan pour le rattraper.",
+        "it": "Sono indietro con il materiale; mi serve un piano per mettermi in pari.",
+        "de": "Ich bin mit dem Lernstoff im Rückstand. Ich brauche einen Plan, um ihn nachzuholen."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "La primera forma se usa en masculino y la segunda en femenino."
+      }
     },
     {
       "id": "coe_088",
@@ -967,7 +1260,8 @@
         "en": "This class moves too fast for me. Can I switch levels?",
         "pt": "Esta turma avança rápido demais para mim; posso mudar de nível?",
         "fr": "Ce groupe avance trop vite pour moi ; je peux changer de niveau ?",
-        "it": "Questo gruppo procede troppo velocemente per me; posso cambiare livello?"
+        "it": "Questo gruppo procede troppo velocemente per me; posso cambiare livello?",
+        "de": "Diese Gruppe ist zu schnell für mich. Kann ich das Niveau wechseln?"
       },
       "image_url": ""
     },
@@ -978,7 +1272,8 @@
         "en": "I already know much of the material. Can I move to another class?",
         "pt": "Já conheço boa parte do conteúdo; posso passar para outra turma?",
         "fr": "Je connais déjà une bonne partie du contenu ; je peux passer dans un autre groupe ?",
-        "it": "Conosco già gran parte del contenuto; posso passare a un altro gruppo?"
+        "it": "Conosco già gran parte del contenuto; posso passare a un altro gruppo?",
+        "de": "Ich kenne schon einen großen Teil des Stoffs. Kann ich in eine andere Gruppe wechseln?"
       },
       "image_url": ""
     },
@@ -989,7 +1284,8 @@
         "en": "My work schedule changed. I need to switch to a different class time.",
         "pt": "Meu horário de trabalho mudou; preciso mudar de turno.",
         "fr": "Mes horaires de travail ont changé ; je dois changer de créneau de cours.",
-        "it": "Il mio orario di lavoro è cambiato; devo cambiare l’orario delle lezioni."
+        "it": "Il mio orario di lavoro è cambiato; devo cambiare l'orario delle lezioni.",
+        "de": "Meine Arbeitszeiten haben sich geändert. Ich muss in eine Gruppe mit anderen Kurszeiten wechseln."
       },
       "image_url": ""
     },
@@ -1000,7 +1296,8 @@
         "en": "Can I pause the course and resume it later?",
         "pt": "Posso pausar o curso e retomar mais adiante?",
         "fr": "Je peux interrompre le cours et le reprendre plus tard ?",
-        "it": "Posso sospendere il corso e riprenderlo più avanti?"
+        "it": "Posso sospendere il corso e riprenderlo più avanti?",
+        "de": "Kann ich mit dem Kurs eine Pause machen und später weitermachen?"
       },
       "image_url": ""
     },
@@ -1010,8 +1307,9 @@
       "translations": {
         "en": "Can I arrange a time to go over my questions with the teacher?",
         "pt": "Posso combinar um horário para tirar minhas dúvidas com o professor?",
-        "fr": "Je peux convenir d’un moment pour poser mes questions au professeur ?",
-        "it": "Posso concordare un momento per chiarire i miei dubbi con l’insegnante?"
+        "fr": "Je peux fixer un rendez-vous avec le professeur pour lui poser mes questions ?",
+        "it": "Posso concordare un momento per chiarire i miei dubbi con l'insegnante?",
+        "de": "Kann ich mit der Lehrkraft einen Termin ausmachen, um meine Fragen zu klären?"
       },
       "image_url": ""
     },
@@ -1021,8 +1319,9 @@
       "translations": {
         "en": "What should I improve first in my assignment?",
         "pt": "O que devo melhorar primeiro no meu trabalho?",
-        "fr": "Qu’est-ce que je dois améliorer en premier dans mon travail ?",
-        "it": "Che cosa devo migliorare per prima cosa nel mio lavoro?"
+        "fr": "Qu'est-ce que je dois améliorer en premier dans mon travail ?",
+        "it": "Che cosa devo migliorare per prima cosa nel mio lavoro?",
+        "de": "Was sollte ich in meiner Arbeit zuerst verbessern?"
       },
       "image_url": ""
     },
@@ -1033,7 +1332,8 @@
         "en": "Can I revise it and submit it again?",
         "pt": "Posso corrigir e entregar de novo?",
         "fr": "Je peux le corriger et le rendre à nouveau ?",
-        "it": "Posso correggerlo e consegnarlo di nuovo?"
+        "it": "Posso correggerlo e consegnarlo di nuovo?",
+        "de": "Kann ich die Arbeit korrigieren und noch einmal abgeben?"
       },
       "image_url": ""
     },
@@ -1043,8 +1343,9 @@
       "translations": {
         "en": "Does the assessment include assignments and participation, or just the exam?",
         "pt": "A avaliação inclui os trabalhos e a participação ou só a prova?",
-        "fr": "L’évaluation comprend les travaux et la participation, ou seulement l’examen ?",
-        "it": "La valutazione include i compiti e la partecipazione o solo l’esame?"
+        "fr": "L'évaluation comprend les travaux et la participation, ou seulement l'examen ?",
+        "it": "La valutazione include i compiti e la partecipazione o solo l'esame?",
+        "de": "Zählen die Aufgaben und die Mitarbeit für die Bewertung oder nur die Prüfung?"
       },
       "image_url": ""
     },
@@ -1054,8 +1355,9 @@
       "translations": {
         "en": "Can I see an example of the types of questions on the assessment?",
         "pt": "Posso ver um exemplo dos tipos de perguntas da avaliação?",
-        "fr": "Je peux voir un exemple du type de questions de l’évaluation ?",
-        "it": "Posso vedere un esempio del tipo di domande della valutazione?"
+        "fr": "Je peux voir un exemple du type de questions de l'évaluation ?",
+        "it": "Posso vedere un esempio del tipo di domande della valutazione?",
+        "de": "Kann ich ein Beispiel dafür sehen, welche Fragen bei der Lernkontrolle gestellt werden?"
       },
       "image_url": ""
     },
@@ -1066,7 +1368,8 @@
         "en": "I want to review my mistakes before starting the next unit.",
         "pt": "Quero revisar meus erros antes de começar a próxima unidade.",
         "fr": "Je veux revoir mes erreurs avant de commencer la prochaine unité.",
-        "it": "Voglio rivedere i miei errori prima di iniziare la prossima unità."
+        "it": "Voglio rivedere i miei errori prima di iniziare la prossima unità.",
+        "de": "Bevor ich mit der nächsten Einheit anfange, möchte ich meine Fehler noch einmal ansehen."
       },
       "image_url": ""
     },
@@ -1077,7 +1380,8 @@
         "en": "When will the results be available?",
         "pt": "Quando os resultados estarão disponíveis?",
         "fr": "Quand les résultats seront-ils disponibles ?",
-        "it": "Quando saranno disponibili i risultati?"
+        "it": "Quando saranno disponibili i risultati?",
+        "de": "Wann gibt es die Ergebnisse?"
       },
       "image_url": ""
     },
@@ -1087,8 +1391,9 @@
       "translations": {
         "en": "Is the certificate awarded for attendance or for passing an assessment?",
         "pt": "A declaração é emitida por frequência ou por aprovação em uma avaliação?",
-        "fr": "L’attestation est délivrée pour la présence aux cours ou pour la réussite à une évaluation ?",
-        "it": "L’attestato viene rilasciato per la frequenza o per il superamento di una valutazione?"
+        "fr": "L'attestation est délivrée pour la présence aux cours ou pour la réussite à une évaluation ?",
+        "it": "L'attestato viene rilasciato per la frequenza o per il superamento di una valutazione?",
+        "de": "Reicht es, am Kurs teilzunehmen, oder muss ich für die Bescheinigung eine Prüfung bestehen?"
       },
       "image_url": ""
     },
@@ -1099,7 +1404,8 @@
         "en": "Which course do you recommend taking after this one?",
         "pt": "Qual curso vocês recomendam para continuar depois deste?",
         "fr": "Quel cours me conseillez-vous pour continuer après celui-ci ?",
-        "it": "Quale corso mi consigliate per continuare dopo questo?"
+        "it": "Quale corso mi consigliate per continuare dopo questo?",
+        "de": "Welchen Kurs empfehlen Sie mir nach diesem Kurs?"
       },
       "image_url": ""
     },
@@ -1107,10 +1413,11 @@
       "id": "coe_101",
       "es": "Quiero seguir practicando después del curso para no olvidar lo aprendido.",
       "translations": {
-        "en": "I want to keep practicing after the course so I don’t forget what I’ve learned.",
+        "en": "I want to keep practicing after the course so I don't forget what I've learned.",
         "pt": "Quero continuar praticando depois do curso para não esquecer o que aprendi.",
-        "fr": "Je veux continuer à m’entraîner après le cours pour ne pas oublier ce que j’ai appris.",
-        "it": "Voglio continuare a esercitarmi dopo il corso per non dimenticare quello che ho imparato."
+        "fr": "Je veux continuer à m'entraîner après le cours pour ne pas oublier ce que j'ai appris.",
+        "it": "Voglio continuare a esercitarmi dopo il corso per non dimenticare quello che ho imparato.",
+        "de": "Ich möchte nach dem Kurs weiterüben, damit ich nicht vergesse, was ich gelernt habe."
       },
       "image_url": ""
     }
