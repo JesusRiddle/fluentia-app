@@ -1,51 +1,165 @@
 {
   "module": "Hogar, convivencia y reparaciones",
   "level": "A2",
-  "revisado": false,
+  "revisado": true,
   "cards": [
     {
       "id": "hcr_001",
       "es": "Hogar, convivencia y reparaciones",
       "translations": {
-        "en": "Home, shared living, and repairs",
-        "pt": "Casa, convivência e reparos",
+        "en": "Home life, living together, and repairs",
+        "pt": "Moradia, convivência e reparos",
         "fr": "Logement, vie en commun et réparations",
-        "it": "Casa, convivenza e riparazioni"
+        "it": "Casa, convivenza e riparazioni",
+        "de": "Wohnen, Zusammenleben und Reparaturen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "At the workshop we talk about home life, living together, and repairs.",
+          "es": "En el taller hablamos de hogar, convivencia y reparaciones."
+        },
+        "pt": {
+          "text": "Na oficina, falamos de moradia, convivência e reparos.",
+          "es": "En el taller hablamos de hogar, convivencia y reparaciones."
+        },
+        "fr": {
+          "text": "À l'atelier, on parle de logement, de vie en commun et de réparations.",
+          "es": "En el taller hablamos de hogar, convivencia y reparaciones."
+        },
+        "it": {
+          "text": "Durante il corso parliamo di casa, convivenza e riparazioni.",
+          "es": "En el curso hablamos de hogar, convivencia y reparaciones."
+        },
+        "de": {
+          "text": "Im Kurs sprechen wir über Wohnen, Zusammenleben und Reparaturen.",
+          "es": "En el curso hablamos de hogar, convivencia y reparaciones."
+        }
+      }
     },
     {
       "id": "hcr_002",
-      "es": "Un compañero o una compañera de casa",
+      "es": "El compañero de casa",
       "translations": {
-        "en": "A roommate",
-        "pt": "Um colega ou uma colega de casa",
-        "fr": "Un colocataire ou une colocataire",
-        "it": "Un coinquilino o una coinquilina"
+        "en": "The roommate",
+        "pt": "O colega de casa",
+        "fr": "Le colocataire",
+        "it": "Il coinquilino",
+        "de": "Der Mitbewohner"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The roommates)",
+        "pt": "(Plural: Os colegas de casa) (Femenino: A colega de casa)",
+        "fr": "(Plural: Les colocataires) (Femenino: La colocataire)",
+        "it": "(Plural: I coinquilini) (Femenino: La coinquilina)",
+        "de": "(Plural: Die Mitbewohner) (Femenino: Die Mitbewohnerin)",
+        "es": "(Femenino: La compañera de casa)"
+      },
+      "examples": {
+        "en": {
+          "text": "My roommate and I share the bathroom.",
+          "es": "Mi compañero de casa y yo compartimos el baño."
+        },
+        "pt": {
+          "text": "Meu colega de casa e eu dividimos o banheiro.",
+          "es": "Mi compañero de casa y yo compartimos el baño."
+        },
+        "fr": {
+          "text": "Mon colocataire et moi partageons la salle de bains.",
+          "es": "Mi compañero de casa y yo compartimos el baño."
+        },
+        "it": {
+          "text": "Io e il mio coinquilino condividiamo il bagno.",
+          "es": "Mi compañero de casa y yo compartimos el baño."
+        },
+        "de": {
+          "text": "Mein Mitbewohner und ich teilen uns das Bad.",
+          "es": "Mi compañero de casa y yo compartimos el baño."
+        }
+      }
     },
     {
       "id": "hcr_003",
-      "es": "Un espacio compartido",
+      "es": "El espacio compartido",
       "translations": {
-        "en": "A shared space",
-        "pt": "Um espaço compartilhado",
-        "fr": "Un espace commun",
-        "it": "Uno spazio condiviso"
+        "en": "The shared space",
+        "pt": "O espaço compartilhado",
+        "fr": "L'espace commun",
+        "it": "Lo spazio condiviso",
+        "de": "Der gemeinsam genutzte Bereich"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The shared spaces)",
+        "pt": "(Plural: Os espaços compartilhados)",
+        "fr": "(Plural: Les espaces communs)",
+        "it": "(Plural: Gli spazi condivisi)",
+        "de": "(Plural: Die gemeinsam genutzten Bereiche)"
+      },
+      "examples": {
+        "en": {
+          "text": "The living room is a shared space.",
+          "es": "La sala es un espacio compartido."
+        },
+        "pt": {
+          "text": "A sala é um espaço compartilhado.",
+          "es": "La sala es un espacio compartido."
+        },
+        "fr": {
+          "text": "Le salon est un espace commun.",
+          "es": "La sala es un espacio compartido."
+        },
+        "it": {
+          "text": "Il soggiorno è uno spazio condiviso.",
+          "es": "La sala es un espacio compartido."
+        },
+        "de": {
+          "text": "Das Wohnzimmer ist ein gemeinsam genutzter Bereich.",
+          "es": "La sala es un espacio compartido."
+        }
+      }
     },
     {
       "id": "hcr_004",
-      "es": "Una norma de convivencia",
+      "es": "La regla de la casa",
       "translations": {
-        "en": "A house rule",
-        "pt": "Uma regra de convivência",
-        "fr": "Une règle de vie en commun",
-        "it": "Una regola di convivenza"
+        "en": "The house rule",
+        "pt": "A regra da casa",
+        "fr": "La règle de la maison",
+        "it": "La regola della casa",
+        "de": "Die Hausregel"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The house rules)",
+        "pt": "(Plural: As regras da casa)",
+        "fr": "(Plural: Les règles de la maison)",
+        "it": "(Plural: Le regole della casa)",
+        "de": "(Plural: Die Hausregeln)"
+      },
+      "examples": {
+        "en": {
+          "text": "Taking your shoes off at the door is a house rule.",
+          "es": "Quitarse los zapatos en la entrada es una regla de la casa."
+        },
+        "pt": {
+          "text": "Tirar os sapatos na entrada é uma regra da casa.",
+          "es": "Quitarse los zapatos en la entrada es una regla de la casa."
+        },
+        "fr": {
+          "text": "Enlever ses chaussures à l'entrée est une règle de la maison.",
+          "es": "Quitarse los zapatos en la entrada es una regla de la casa."
+        },
+        "it": {
+          "text": "Togliersi le scarpe all'ingresso è una regola della casa.",
+          "es": "Quitarse los zapatos en la entrada es una regla de la casa."
+        },
+        "de": {
+          "text": "Eine Hausregel ist, dass wir die Schuhe an der Tür ausziehen.",
+          "es": "Quitarse los zapatos en la entrada es una regla de la casa."
+        }
+      }
     },
     {
       "id": "hcr_005",
@@ -54,53 +168,190 @@
         "en": "The division of chores",
         "pt": "A divisão das tarefas domésticas",
         "fr": "La répartition des tâches ménagères",
-        "it": "La suddivisione delle faccende domestiche"
+        "it": "La suddivisione delle faccende domestiche",
+        "de": "Die Aufteilung der Hausarbeit"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Today we're going to talk about the division of chores.",
+          "es": "Hoy vamos a hablar del reparto de tareas."
+        },
+        "pt": {
+          "text": "Hoje vamos falar sobre a divisão das tarefas domésticas.",
+          "es": "Hoy vamos a hablar del reparto de tareas."
+        },
+        "fr": {
+          "text": "Aujourd'hui, on va parler de la répartition des tâches ménagères.",
+          "es": "Hoy vamos a hablar del reparto de tareas."
+        },
+        "it": {
+          "text": "Oggi parleremo della suddivisione delle faccende domestiche.",
+          "es": "Hoy vamos a hablar del reparto de tareas."
+        },
+        "de": {
+          "text": "Heute sprechen wir über die Aufteilung der Hausarbeit.",
+          "es": "Hoy vamos a hablar del reparto de tareas."
+        }
+      }
     },
     {
       "id": "hcr_006",
-      "es": "Un gasto compartido",
+      "es": "El gasto compartido",
       "translations": {
-        "en": "A shared expense",
-        "pt": "Uma despesa compartilhada",
-        "fr": "Une dépense commune",
-        "it": "Una spesa condivisa"
+        "en": "The shared expense",
+        "pt": "A despesa compartilhada",
+        "fr": "La dépense commune",
+        "it": "La spesa condivisa",
+        "de": "Die gemeinsame Ausgabe"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The shared expenses)",
+        "pt": "(Plural: As despesas compartilhadas)",
+        "fr": "(Plural: Les dépenses communes)",
+        "it": "(Plural: Le spese condivise)",
+        "de": "(Plural: Die gemeinsamen Ausgaben)"
+      },
+      "examples": {
+        "en": {
+          "text": "The internet bill is a shared expense.",
+          "es": "La cuenta de internet es un gasto compartido."
+        },
+        "pt": {
+          "text": "A conta de internet é uma despesa compartilhada.",
+          "es": "La cuenta de internet es un gasto compartido."
+        },
+        "fr": {
+          "text": "La facture Internet est une dépense commune.",
+          "es": "La cuenta de internet es un gasto compartido."
+        },
+        "it": {
+          "text": "La bolletta di Internet è una spesa condivisa.",
+          "es": "La cuenta de internet es un gasto compartido."
+        },
+        "de": {
+          "text": "Die Internetrechnung ist eine gemeinsame Ausgabe.",
+          "es": "La cuenta de internet es un gasto compartido."
+        }
+      }
     },
     {
       "id": "hcr_007",
-      "es": "Una avería en casa",
+      "es": "La falla en casa",
       "translations": {
-        "en": "A household fault",
-        "pt": "Um problema de funcionamento em casa",
-        "fr": "Une panne dans le logement",
-        "it": "Un guasto in casa"
+        "en": "The problem at home",
+        "pt": "O problema em casa",
+        "fr": "Le problème technique à la maison",
+        "it": "Il guasto in casa",
+        "de": "Der Defekt zu Hause"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The problems at home)",
+        "pt": "(Plural: Os problemas em casa)",
+        "fr": "(Plural: Les problèmes techniques à la maison)",
+        "it": "(Plural: I guasti in casa)",
+        "de": "(Plural: Die Defekte zu Hause)",
+        "es": "(Algo dejó de funcionar, como un aparato o una instalación)"
+      },
+      "examples": {
+        "en": {
+          "text": "We have a problem at home: the water heater isn't working.",
+          "es": "Tenemos una falla en casa: el calentador no funciona."
+        },
+        "pt": {
+          "text": "Temos um problema em casa: o aquecedor não funciona.",
+          "es": "Tenemos una falla en casa: el calentador no funciona."
+        },
+        "fr": {
+          "text": "On a un problème technique à la maison : le chauffe-eau ne marche pas.",
+          "es": "Tenemos una falla en casa: el calentador no funciona."
+        },
+        "it": {
+          "text": "Abbiamo un guasto in casa: lo scaldabagno non funziona.",
+          "es": "Tenemos una falla en casa: el calentador no funciona."
+        },
+        "de": {
+          "text": "Wir haben einen Defekt zu Hause: Der Warmwasserbereiter funktioniert nicht.",
+          "es": "Tenemos una falla en casa: el calentador no funciona."
+        }
+      }
     },
     {
       "id": "hcr_008",
-      "es": "Una fuga de agua",
+      "es": "La fuga de agua",
       "translations": {
-        "en": "A water leak",
-        "pt": "Um vazamento de água",
-        "fr": "Une fuite d'eau",
-        "it": "Una perdita d'acqua"
+        "en": "The water leak",
+        "pt": "O vazamento de água",
+        "fr": "La fuite d'eau",
+        "it": "La perdita d'acqua",
+        "de": "Das Wasserleck"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The water leaks)",
+        "pt": "(Plural: Os vazamentos de água)",
+        "fr": "(Plural: Les fuites d'eau)",
+        "it": "(Plural: Le perdite d'acqua)",
+        "de": "(Plural: Die Wasserlecks)"
+      },
+      "examples": {
+        "en": {
+          "text": "There's a water leak under the kitchen sink.",
+          "es": "Hay una fuga de agua debajo del fregadero."
+        },
+        "pt": {
+          "text": "Tem um vazamento de água embaixo da pia da cozinha.",
+          "es": "Hay una fuga de agua debajo del fregadero."
+        },
+        "fr": {
+          "text": "Il y a une fuite d'eau sous l'évier.",
+          "es": "Hay una fuga de agua debajo del fregadero."
+        },
+        "it": {
+          "text": "C'è una perdita d'acqua sotto il lavello.",
+          "es": "Hay una fuga de agua debajo del fregadero."
+        },
+        "de": {
+          "text": "Unter der Küchenspüle gibt es ein Wasserleck.",
+          "es": "Hay una fuga de agua debajo del fregadero."
+        }
+      }
     },
     {
       "id": "hcr_009",
-      "es": "La humedad en una pared",
+      "es": "La humedad en la pared",
       "translations": {
-        "en": "Dampness in a wall",
-        "pt": "A umidade em uma parede",
-        "fr": "L'humidité dans un mur",
-        "it": "L'umidità in una parete"
+        "en": "The dampness in the wall",
+        "pt": "A umidade na parede",
+        "fr": "L'humidité dans le mur",
+        "it": "L'umidità nella parete",
+        "de": "Die Feuchtigkeit in der Wand"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The dampness in the wall got worse after the rain.",
+          "es": "La humedad en la pared aumentó después de la lluvia."
+        },
+        "pt": {
+          "text": "A umidade na parede aumentou depois da chuva.",
+          "es": "La humedad en la pared aumentó después de la lluvia."
+        },
+        "fr": {
+          "text": "L'humidité dans le mur a augmenté après la pluie.",
+          "es": "La humedad en la pared aumentó después de la lluvia."
+        },
+        "it": {
+          "text": "L'umidità nella parete è aumentata dopo la pioggia.",
+          "es": "La humedad en la pared aumentó después de la lluvia."
+        },
+        "de": {
+          "text": "Die Feuchtigkeit in der Wand hat nach dem Regen zugenommen.",
+          "es": "La humedad en la pared aumentó después de la lluvia."
+        }
+      }
     },
     {
       "id": "hcr_010",
@@ -109,53 +360,199 @@
         "en": "Home maintenance",
         "pt": "A manutenção da casa",
         "fr": "L'entretien du logement",
-        "it": "La manutenzione della casa"
+        "it": "La manutenzione della casa",
+        "de": "Die Instandhaltung der Wohnung"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The landlady takes care of home maintenance.",
+          "es": "La propietaria se encarga del mantenimiento de la vivienda."
+        },
+        "pt": {
+          "text": "A proprietária cuida da manutenção da casa.",
+          "es": "La propietaria se encarga del mantenimiento de la vivienda."
+        },
+        "fr": {
+          "text": "La propriétaire s'occupe de l'entretien du logement.",
+          "es": "La propietaria se encarga del mantenimiento de la vivienda."
+        },
+        "it": {
+          "text": "La proprietaria si occupa della manutenzione della casa.",
+          "es": "La propietaria se encarga del mantenimiento de la vivienda."
+        },
+        "de": {
+          "text": "Die Vermieterin kümmert sich um die Instandhaltung der Wohnung.",
+          "es": "La propietaria se encarga del mantenimiento de la vivienda."
+        }
+      }
     },
     {
       "id": "hcr_011",
-      "es": "Un plomero o una plomera",
+      "es": "El plomero",
       "translations": {
-        "en": "A plumber",
-        "pt": "Um encanador ou uma encanadora",
-        "fr": "Un plombier ou une plombière",
-        "it": "Un idraulico o un'idraulica"
+        "en": "The plumber",
+        "pt": "O encanador",
+        "fr": "Le plombier",
+        "it": "L'idraulico",
+        "de": "Der Klempner"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The plumbers)",
+        "pt": "(Plural: Os encanadores) (Femenino: A encanadora)",
+        "fr": "(Plural: Les plombiers) (Femenino: La plombière)",
+        "it": "(Plural: Gli idraulici) (Femenino: L'idraulica)",
+        "de": "(Plural: Die Klempner) (Femenino: Die Klempnerin) En el habla cotidiana, se usa para quien viene a arreglar una tubería.",
+        "es": "(Femenino: La plomera)"
+      },
+      "examples": {
+        "en": {
+          "text": "We called a plumber to fix the leak.",
+          "es": "Llamamos a un plomero para arreglar la fuga."
+        },
+        "pt": {
+          "text": "Chamamos um encanador para consertar o vazamento.",
+          "es": "Llamamos a un plomero para arreglar la fuga."
+        },
+        "fr": {
+          "text": "On a appelé un plombier pour réparer la fuite.",
+          "es": "Llamamos a un plomero para arreglar la fuga."
+        },
+        "it": {
+          "text": "Abbiamo chiamato un idraulico per riparare la perdita.",
+          "es": "Llamamos a un plomero para arreglar la fuga."
+        },
+        "de": {
+          "text": "Wir haben einen Klempner gerufen, um das Leck zu reparieren.",
+          "es": "Llamamos a un plomero para arreglar la fuga."
+        }
+      }
     },
     {
       "id": "hcr_012",
-      "es": "Un electricista o una electricista",
+      "es": "El electricista",
       "translations": {
-        "en": "An electrician",
-        "pt": "Um eletricista ou uma eletricista",
-        "fr": "Un électricien ou une électricienne",
-        "it": "Un elettricista o un'elettricista"
+        "en": "The electrician",
+        "pt": "O eletricista",
+        "fr": "L'électricien",
+        "it": "L'elettricista",
+        "de": "Der Elektriker"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The electricians)",
+        "pt": "(Plural: Os eletricistas) (Femenino: A eletricista)",
+        "fr": "(Plural: Les électriciens) (Femenino: L'électricienne)",
+        "it": "(Plural: Gli elettricisti) (Femenino: L'elettricista)",
+        "de": "(Plural: Die Elektriker) (Femenino: Die Elektrikerin)",
+        "es": "(Femenino: La electricista)"
+      },
+      "examples": {
+        "en": {
+          "text": "The electrician replaced the kitchen outlet.",
+          "es": "El electricista cambió el contacto de la cocina."
+        },
+        "pt": {
+          "text": "O eletricista trocou a tomada da cozinha.",
+          "es": "El electricista cambió el contacto de la cocina."
+        },
+        "fr": {
+          "text": "L'électricien a remplacé la prise de la cuisine.",
+          "es": "El electricista cambió el contacto de la cocina."
+        },
+        "it": {
+          "text": "L'elettricista ha sostituito la presa della cucina.",
+          "es": "El electricista cambió el contacto de la cocina."
+        },
+        "de": {
+          "text": "Der Elektriker hat die Steckdose in der Küche ausgetauscht.",
+          "es": "El electricista cambió el contacto de la cocina."
+        }
+      }
     },
     {
       "id": "hcr_013",
-      "es": "Un cerrajero o una cerrajera",
+      "es": "El cerrajero",
       "translations": {
-        "en": "A locksmith",
-        "pt": "Um chaveiro ou uma chaveira",
-        "fr": "Un serrurier ou une serrurière",
-        "it": "Un fabbro o una fabbra"
+        "en": "The locksmith",
+        "pt": "O chaveiro",
+        "fr": "Le serrurier",
+        "it": "Il fabbro",
+        "de": "Der Mitarbeiter vom Schlüsseldienst"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The locksmiths)",
+        "pt": "(Plural: Os chaveiros) (Femenino: A chaveira) También significa llavero; aquí designa a la persona.",
+        "fr": "(Plural: Les serruriers) (Femenino: La serrurière)",
+        "it": "(Plural: I fabbri) (Femenino: La fabbra) También significa herrero; aquí se refiere a quien abre o cambia cerraduras.",
+        "de": "(Plural: Die Mitarbeiter vom Schlüsseldienst) (Femenino: Die Mitarbeiterin vom Schlüsseldienst) «Der Schlüsseldienst» es el servicio de cerrajería, no la persona.",
+        "es": "(Femenino: La cerrajera)"
+      },
+      "examples": {
+        "en": {
+          "text": "A locksmith opened the door for us.",
+          "es": "Un cerrajero nos abrió la puerta."
+        },
+        "pt": {
+          "text": "Um chaveiro abriu a porta para a gente.",
+          "es": "Un cerrajero nos abrió la puerta."
+        },
+        "fr": {
+          "text": "Un serrurier nous a ouvert la porte.",
+          "es": "Un cerrajero nos abrió la puerta."
+        },
+        "it": {
+          "text": "Un fabbro ci ha aperto la porta.",
+          "es": "Un cerrajero nos abrió la puerta."
+        },
+        "de": {
+          "text": "Ein Mitarbeiter vom Schlüsseldienst hat uns die Tür geöffnet.",
+          "es": "Un cerrajero nos abrió la puerta."
+        }
+      }
     },
     {
       "id": "hcr_014",
-      "es": "Un presupuesto de reparación",
+      "es": "El presupuesto de reparación",
       "translations": {
-        "en": "A repair estimate",
-        "pt": "Um orçamento de conserto",
-        "fr": "Un devis de réparation",
-        "it": "Un preventivo per la riparazione"
+        "en": "The repair estimate",
+        "pt": "O orçamento de conserto",
+        "fr": "Le devis de réparation",
+        "it": "Il preventivo per la riparazione",
+        "de": "Der Kostenvoranschlag für die Reparatur"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The repair estimates)",
+        "pt": "(Plural: Os orçamentos de conserto)",
+        "fr": "(Plural: Les devis de réparation)",
+        "it": "(Plural: I preventivi per le riparazioni)",
+        "de": "(Plural: Die Kostenvoranschläge für Reparaturen)"
+      },
+      "examples": {
+        "en": {
+          "text": "I asked for a repair estimate for the washing machine.",
+          "es": "Pedí un presupuesto de reparación para la lavadora."
+        },
+        "pt": {
+          "text": "Pedi um orçamento de conserto para a máquina de lavar.",
+          "es": "Pedí un presupuesto de reparación para la lavadora."
+        },
+        "fr": {
+          "text": "J'ai demandé un devis de réparation pour le lave-linge.",
+          "es": "Pedí un presupuesto de reparación para la lavadora."
+        },
+        "it": {
+          "text": "Ho chiesto un preventivo per la riparazione della lavatrice.",
+          "es": "Pedí un presupuesto de reparación para la lavadora."
+        },
+        "de": {
+          "text": "Ich habe nach einem Kostenvoranschlag für die Reparatur der Waschmaschine gefragt.",
+          "es": "Pedí un presupuesto de reparación para la lavadora."
+        }
+      }
     },
     {
       "id": "hcr_015",
@@ -164,20 +561,81 @@
         "en": "The technician's visit",
         "pt": "A visita do técnico",
         "fr": "La visite du technicien",
-        "it": "La visita del tecnico"
+        "it": "La visita del tecnico",
+        "de": "Der Besuch des Technikers"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The technician's visits)",
+        "pt": "(Plural: As visitas do técnico) (Femenino: A visita da técnica)",
+        "fr": "(Plural: Les visites du technicien) (Femenino: La visite de la technicienne)",
+        "it": "(Plural: Le visite del tecnico) (Femenino: La visita della tecnica)",
+        "de": "(Plural: Die Besuche des Technikers) (Femenino: Der Besuch der Technikerin)",
+        "es": "(Femenino: La visita de la técnica)"
+      },
+      "examples": {
+        "en": {
+          "text": "The technician's visit is scheduled for Thursday.",
+          "es": "La visita del técnico está programada para el jueves."
+        },
+        "pt": {
+          "text": "A visita do técnico está marcada para quinta-feira.",
+          "es": "La visita del técnico está programada para el jueves."
+        },
+        "fr": {
+          "text": "La visite du technicien est prévue pour jeudi.",
+          "es": "La visita del técnico está programada para el jueves."
+        },
+        "it": {
+          "text": "La visita del tecnico è fissata per giovedì.",
+          "es": "La visita del técnico está programada para el jueves."
+        },
+        "de": {
+          "text": "Der Besuch des Technikers ist für Donnerstag geplant.",
+          "es": "La visita del técnico está programada para el jueves."
+        }
+      }
     },
     {
       "id": "hcr_016",
-      "es": "Una pieza de repuesto",
+      "es": "La pieza de repuesto",
       "translations": {
-        "en": "A replacement part",
-        "pt": "Uma peça de reposição",
-        "fr": "Une pièce de rechange",
-        "it": "Un pezzo di ricambio"
+        "en": "The replacement part",
+        "pt": "A peça de reposição",
+        "fr": "La pièce de rechange",
+        "it": "Il pezzo di ricambio",
+        "de": "Das Ersatzteil"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The replacement parts)",
+        "pt": "(Plural: As peças de reposição)",
+        "fr": "(Plural: Les pièces de rechange)",
+        "it": "(Plural: I pezzi di ricambio)",
+        "de": "(Plural: Die Ersatzteile)"
+      },
+      "examples": {
+        "en": {
+          "text": "We need a replacement part for the washing machine.",
+          "es": "Necesitamos una pieza de repuesto para la lavadora."
+        },
+        "pt": {
+          "text": "Precisamos de uma peça de reposição para a máquina de lavar.",
+          "es": "Necesitamos una pieza de repuesto para la lavadora."
+        },
+        "fr": {
+          "text": "Il nous faut une pièce de rechange pour le lave-linge.",
+          "es": "Necesitamos una pieza de repuesto para la lavadora."
+        },
+        "it": {
+          "text": "Ci serve un pezzo di ricambio per la lavatrice.",
+          "es": "Necesitamos una pieza de repuesto para la lavadora."
+        },
+        "de": {
+          "text": "Wir brauchen ein Ersatzteil für die Waschmaschine.",
+          "es": "Necesitamos una pieza de repuesto para la lavadora."
+        }
+      }
     },
     {
       "id": "hcr_017",
@@ -186,7 +644,8 @@
         "en": "How are we going to divide up the chores?",
         "pt": "Como vamos dividir as tarefas da casa?",
         "fr": "Comment allons-nous répartir les tâches ménagères ?",
-        "it": "Come ci divideremo le faccende domestiche?"
+        "it": "Come ci divideremo le faccende domestiche?",
+        "de": "Wie teilen wir die Hausarbeit auf?"
       },
       "image_url": ""
     },
@@ -197,7 +656,8 @@
         "en": "I'd prefer each person to have a regular chore.",
         "pt": "Prefiro que cada pessoa tenha uma tarefa fixa.",
         "fr": "Je préfère que chaque personne ait une tâche fixe.",
-        "it": "Preferisco che ogni persona abbia un compito fisso."
+        "it": "Preferisco che ogni persona abbia un compito fisso.",
+        "de": "Mir wäre es lieber, wenn jeder eine feste Aufgabe hätte."
       },
       "image_url": ""
     },
@@ -208,7 +668,8 @@
         "en": "We can rotate chores every week to make it fairer.",
         "pt": "Podemos trocar de tarefa toda semana para ficar mais justo.",
         "fr": "Nous pouvons changer de tâche chaque semaine pour que ce soit plus juste.",
-        "it": "Possiamo scambiarci i compiti ogni settimana per essere più equi."
+        "it": "Possiamo scambiarci i compiti ogni settimana per essere più equi.",
+        "de": "Wir können jede Woche die Aufgaben wechseln, damit es fairer ist."
       },
       "image_url": ""
     },
@@ -219,7 +680,8 @@
         "en": "Let's make a list so we know whose turn it is to do each chore.",
         "pt": "Vamos fazer uma lista para saber o que cabe a cada um.",
         "fr": "Faisons une liste pour savoir qui doit faire quoi.",
-        "it": "Facciamo un elenco per sapere a chi tocca ogni compito."
+        "it": "Facciamo un elenco per sapere a chi tocca ogni compito.",
+        "de": "Machen wir eine Liste, damit wir wissen, wer was macht."
       },
       "image_url": ""
     },
@@ -230,7 +692,8 @@
         "en": "I can't clean on Tuesdays; I get home very late that day.",
         "pt": "Não posso limpar às terças; nesse dia chego muito tarde.",
         "fr": "Je ne peux pas faire le ménage le mardi ; je rentre très tard ce jour-là.",
-        "it": "Non posso fare le pulizie il martedì; quel giorno torno molto tardi."
+        "it": "Non posso fare le pulizie il martedì; quel giorno torno molto tardi.",
+        "de": "Dienstags kann ich nicht putzen. Da komme ich sehr spät nach Hause."
       },
       "image_url": ""
     },
@@ -241,7 +704,8 @@
         "en": "Can we swap chores this week?",
         "pt": "Podemos trocar nossas tarefas esta semana?",
         "fr": "Pouvons-nous échanger nos tâches cette semaine ?",
-        "it": "Possiamo scambiarci i compiti questa settimana?"
+        "it": "Possiamo scambiarci i compiti questa settimana?",
+        "de": "Können wir diese Woche die Aufgaben tauschen?"
       },
       "image_url": ""
     },
@@ -252,7 +716,8 @@
         "en": "I've done my part, but the shared area still needs cleaning.",
         "pt": "Já fiz minha parte, mas falta limpar a área comum.",
         "fr": "J'ai fait ma part, mais il reste à nettoyer l'espace commun.",
-        "it": "Ho fatto la mia parte, ma manca da pulire la zona comune."
+        "it": "Ho fatto la mia parte, ma manca da pulire la zona comune.",
+        "de": "Ich habe meinen Teil erledigt, aber der Gemeinschaftsraum muss noch geputzt werden."
       },
       "image_url": ""
     },
@@ -260,10 +725,11 @@
       "id": "hcr_024",
       "es": "Si alguien no puede hacer su tarea, debe avisar.",
       "translations": {
-        "en": "If someone can't do their chore, they should let us know.",
+        "en": "If someone can't do their chore, they need to let us know.",
         "pt": "Se alguém não puder fazer sua tarefa, deve avisar.",
         "fr": "Si quelqu'un ne peut pas faire sa tâche, il doit prévenir.",
-        "it": "Se qualcuno non può svolgere il proprio compito, deve avvisare."
+        "it": "Se qualcuno non può svolgere il proprio compito, deve avvisare.",
+        "de": "Wer seine Aufgabe nicht erledigen kann, muss Bescheid sagen."
       },
       "image_url": ""
     },
@@ -274,7 +740,8 @@
         "en": "I'd rather agree on it before there's a problem.",
         "pt": "Prefiro que a gente combine antes de haver um problema.",
         "fr": "Je préfère que nous nous mettions d'accord avant qu'il y ait un problème.",
-        "it": "Preferisco che ci mettiamo d'accordo prima che ci sia un problema."
+        "it": "Preferisco che ci mettiamo d'accordo prima che ci sia un problema.",
+        "de": "Ich möchte, dass wir uns einigen, bevor es ein Problem gibt."
       },
       "image_url": ""
     },
@@ -282,43 +749,47 @@
       "id": "hcr_026",
       "es": "Cada persona limpia lo que usa en la cocina.",
       "translations": {
-        "en": "Each person cleans up what they use in the kitchen.",
+        "en": "Each person cleans whatever they use in the kitchen.",
         "pt": "Cada pessoa limpa o que usa na cozinha.",
         "fr": "Chaque personne nettoie ce qu'elle utilise dans la cuisine.",
-        "it": "Ogni persona pulisce quello che usa in cucina."
+        "it": "Ogni persona pulisce quello che usa in cucina.",
+        "de": "Jeder macht sauber, was er in der Küche benutzt."
       },
       "image_url": ""
     },
     {
       "id": "hcr_027",
-      "es": "No dejemos platos sucios durante varios días.",
+      "es": "No dejemos los trastes sucios durante varios días.",
       "translations": {
         "en": "Let's not leave dirty dishes for several days.",
         "pt": "Vamos evitar deixar louça suja por vários dias.",
         "fr": "Ne laissons pas de vaisselle sale pendant plusieurs jours.",
-        "it": "Non lasciamo i piatti sporchi per diversi giorni."
+        "it": "Non lasciamo i piatti sporchi per diversi giorni.",
+        "de": "Lassen wir das schmutzige Geschirr nicht tagelang stehen."
       },
       "image_url": ""
     },
     {
       "id": "hcr_028",
-      "es": "¿Podemos dejar la cocina lista antes de acostarnos?",
+      "es": "¿Podemos dejar la cocina en orden antes de acostarnos?",
       "translations": {
-        "en": "Can we leave the kitchen clean and ready before bed?",
+        "en": "Can we leave the kitchen tidy before going to bed?",
         "pt": "Podemos deixar a cozinha em ordem antes de dormir?",
         "fr": "Pouvons-nous laisser la cuisine en ordre avant de nous coucher ?",
-        "it": "Possiamo lasciare la cucina in ordine prima di andare a letto?"
+        "it": "Possiamo lasciare la cucina in ordine prima di andare a letto?",
+        "de": "Können wir die Küche ordentlich hinterlassen, bevor wir ins Bett gehen?"
       },
       "image_url": ""
     },
     {
       "id": "hcr_029",
-      "es": "Hay que cambiar la bolsa, no solo llevarse la basura.",
+      "es": "Hay que cambiar la bolsa, no solo sacar la basura.",
       "translations": {
         "en": "We need to replace the bag, not just take out the trash.",
-        "pt": "É preciso trocar o saco, não só levar o lixo.",
-        "fr": "Il faut remplacer le sac, pas seulement sortir les déchets.",
-        "it": "Bisogna sostituire il sacchetto, non solo portare fuori la spazzatura."
+        "pt": "É preciso trocar o saco, não só colocar o lixo para fora.",
+        "fr": "Il faut changer le sac, pas seulement sortir les poubelles.",
+        "it": "Bisogna sostituire il sacchetto, non solo portare fuori la spazzatura.",
+        "de": "Wir müssen den Müllbeutel wechseln, nicht nur den Müll rausbringen."
       },
       "image_url": ""
     },
@@ -327,11 +798,17 @@
       "es": "El baño es compartido; necesito que lo dejes limpio después de usarlo.",
       "translations": {
         "en": "The bathroom is shared; I need you to leave it clean after using it.",
-        "pt": "O banheiro é compartilhado; preciso que você deixe limpo depois de usar.",
+        "pt": "O banheiro é compartilhado; preciso que você o deixe limpo depois de usar.",
         "fr": "La salle de bains est commune ; j'ai besoin que tu la laisses propre après l'avoir utilisée.",
-        "it": "Il bagno è condiviso; ho bisogno che tu lo lasci pulito dopo averlo usato."
+        "it": "Il bagno è condiviso; ho bisogno che tu lo lasci pulito dopo averlo usato.",
+        "de": "Wir teilen uns das Bad. Mir ist wichtig, dass du es nach der Benutzung sauber hinterlässt."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hcr_031",
@@ -340,9 +817,15 @@
         "en": "What time do you need to use the bathroom in the morning?",
         "pt": "A que horas você precisa usar o banheiro de manhã?",
         "fr": "À quelle heure as-tu besoin de la salle de bains le matin ?",
-        "it": "A che ora ti serve il bagno la mattina?"
+        "it": "A che ora ti serve il bagno la mattina?",
+        "de": "Um wie viel Uhr brauchst du morgens das Bad?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hcr_032",
@@ -351,7 +834,8 @@
         "en": "Let's try not to use the washing machine too late because of the noise.",
         "pt": "Vamos tentar não usar a máquina de lavar muito tarde por causa do barulho.",
         "fr": "Essayons de ne pas utiliser le lave-linge trop tard à cause du bruit.",
-        "it": "Cerchiamo di non usare la lavatrice troppo tardi per via del rumore."
+        "it": "Cerchiamo di non usare la lavatrice troppo tardi per via del rumore.",
+        "de": "Versuchen wir, die Waschmaschine wegen des Lärms nicht zu spät anzumachen."
       },
       "image_url": ""
     },
@@ -361,19 +845,24 @@
       "translations": {
         "en": "Can we agree on quiet hours at night?",
         "pt": "Podemos combinar um horário de silêncio à noite?",
-        "fr": "Pouvons-nous convenir d'horaires de calme le soir ?",
-        "it": "Possiamo concordare degli orari di silenzio la sera?"
+        "fr": "Est-ce qu'on peut fixer des heures où on doit faire moins de bruit le soir ?",
+        "it": "Possiamo concordare degli orari di silenzio la sera?",
+        "de": "Können wir uns auf Ruhezeiten am Abend einigen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "«Quiet hours» son las horas en que se pide evitar ruido."
+      }
     },
     {
       "id": "hcr_034",
       "es": "Mañana tengo que levantarme temprano; necesito descansar.",
       "translations": {
         "en": "I have to get up early tomorrow; I need to rest.",
-        "pt": "Amanhã preciso acordar cedo; preciso descansar.",
+        "pt": "Amanhã preciso levantar cedo; preciso descansar.",
         "fr": "Je dois me lever tôt demain ; j'ai besoin de me reposer.",
-        "it": "Domani devo alzarmi presto; ho bisogno di riposare."
+        "it": "Domani devo alzarmi presto; ho bisogno di riposare.",
+        "de": "Ich muss morgen früh aufstehen. Ich brauche Ruhe."
       },
       "image_url": ""
     },
@@ -384,29 +873,42 @@
         "en": "You can talk on the phone, but please close the door.",
         "pt": "Pode falar ao telefone, mas por favor feche a porta.",
         "fr": "Tu peux parler au téléphone, mais ferme la porte, s'il te plaît.",
-        "it": "Puoi parlare al telefono, ma per favore chiudi la porta."
+        "it": "Puoi parlare al telefono, ma per favore chiudi la porta.",
+        "de": "Du kannst telefonieren, aber mach bitte die Tür zu."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hcr_036",
       "es": "Voy a invitar a dos amigos; ¿te molesta que vengan esta tarde?",
       "translations": {
         "en": "I'm going to invite two friends over; do you mind if they come this afternoon?",
-        "pt": "Vou convidar dois amigos; você se importa que venham hoje à tarde?",
-        "fr": "Je vais inviter deux amis ; cela te dérange-t-il qu'ils viennent cet après-midi ?",
-        "it": "Inviterò due amici; ti dispiace se vengono questo pomeriggio?"
+        "pt": "Vou convidar dois amigos. Você se incomoda se eles vierem hoje à tarde?",
+        "fr": "Je vais inviter deux amis. Ça te dérange qu'ils viennent cet après-midi ?",
+        "it": "Inviterò due amici; ti dispiace se vengono questo pomeriggio?",
+        "de": "Ich möchte zwei Freunde einladen. Stört es dich, wenn sie heute Nachmittag kommen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hcr_037",
       "es": "Si alguien va a quedarse a dormir, avisemos antes.",
       "translations": {
         "en": "If someone is going to stay overnight, let's let each other know beforehand.",
-        "pt": "Se alguém for dormir aqui, vamos avisar antes.",
+        "pt": "Se alguém for dormir aqui, vamos avisar uns aos outros antes.",
         "fr": "Si quelqu'un reste dormir, prévenons-nous à l'avance.",
-        "it": "Se qualcuno resta a dormire, avvisiamoci prima."
+        "it": "Se qualcuno resta a dormire, avvisiamoci prima.",
+        "de": "Wenn jemand hier übernachtet, sagen wir uns vorher Bescheid."
       },
       "image_url": ""
     },
@@ -416,8 +918,9 @@
       "translations": {
         "en": "I need my guests to follow the same rules.",
         "pt": "Preciso que meus convidados respeitem as mesmas regras.",
-        "fr": "Mes invités doivent respecter les mêmes règles.",
-        "it": "Ho bisogno che i miei ospiti rispettino le stesse regole."
+        "fr": "Il faut que mes invités respectent les mêmes règles.",
+        "it": "Ho bisogno che i miei ospiti rispettino le stesse regole.",
+        "de": "Meine Gäste müssen sich an dieselben Regeln halten."
       },
       "image_url": ""
     },
@@ -427,19 +930,21 @@
       "translations": {
         "en": "I'd prefer people not to enter my room without asking me.",
         "pt": "Prefiro que não entrem no meu quarto sem me perguntar.",
-        "fr": "Je préfère qu'on n'entre pas dans ma chambre sans me demander.",
-        "it": "Preferisco che non entrino nella mia camera senza chiedermelo."
+        "fr": "Je préfère qu'on n'entre pas dans ma chambre sans me demander la permission.",
+        "it": "Preferisco che non entrino nella mia camera senza chiedermelo.",
+        "de": "Ich möchte nicht, dass jemand mein Zimmer betritt, ohne mich vorher zu fragen."
       },
       "image_url": ""
     },
     {
       "id": "hcr_040",
-      "es": "¿Podemos separar en el refrigerador lo de cada persona?",
+      "es": "¿Podemos usar un espacio distinto del refrigerador para la comida de cada persona?",
       "translations": {
-        "en": "Can we keep each person's food separate in the refrigerator?",
-        "pt": "Podemos separar na geladeira a comida de cada pessoa?",
-        "fr": "Pouvons-nous séparer les aliments de chacun dans le réfrigérateur ?",
-        "it": "Possiamo tenere separato in frigorifero il cibo di ciascuno?"
+        "en": "Can we use a separate space in the fridge for each person's food?",
+        "pt": "Podemos usar um espaço separado na geladeira para a comida de cada pessoa?",
+        "fr": "Est-ce qu'on peut séparer les aliments de chacun dans le frigo ?",
+        "it": "Possiamo tenere il cibo di ciascuno in uno spazio separato del frigorifero?",
+        "de": "Können wir das Essen für jede Person getrennt im Kühlschrank aufbewahren?"
       },
       "image_url": ""
     },
@@ -449,8 +954,9 @@
       "translations": {
         "en": "This is for everyone to share; what's on the other shelf is mine.",
         "pt": "Isto é para compartilhar; o que está na outra prateleira é meu.",
-        "fr": "Ceci est à partager ; ce qui est sur l'autre étagère est à moi.",
-        "it": "Questo è da condividere; quello sull'altro ripiano è mio."
+        "fr": "Ça, c'est à partager. Ce qui est sur l'autre étagère est à moi.",
+        "it": "Questo è da condividere; quello sull'altro ripiano è mio.",
+        "de": "Das hier ist zum Teilen. Was im anderen Fach liegt, gehört mir."
       },
       "image_url": ""
     },
@@ -461,9 +967,15 @@
         "en": "Please ask me before using my things.",
         "pt": "Antes de usar minhas coisas, me pergunte, por favor.",
         "fr": "Demande-moi avant d'utiliser mes affaires, s'il te plaît.",
-        "it": "Prima di usare le mie cose, chiedimelo, per favore."
+        "it": "Prima di usare le mie cose, chiedimelo, per favore.",
+        "de": "Frag mich bitte, bevor du meine Sachen benutzt."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal)",
+        "it": "(Informal)",
+        "de": "(Informal)"
+      }
     },
     {
       "id": "hcr_043",
@@ -472,7 +984,8 @@
         "en": "I didn't know it was yours; next time I'll ask.",
         "pt": "Não sabia que era seu; da próxima vez vou perguntar.",
         "fr": "Je ne savais pas que c'était à toi ; la prochaine fois, je demanderai.",
-        "it": "Non sapevo che fosse tuo; la prossima volta chiederò."
+        "it": "Non sapevo che fosse tuo; la prossima volta chiederò.",
+        "de": "Ich wusste nicht, dass das dir gehört. Nächstes Mal frage ich."
       },
       "image_url": ""
     },
@@ -483,7 +996,8 @@
         "en": "The cleaning supplies are for everyone.",
         "pt": "Os produtos de limpeza são para todos.",
         "fr": "Les produits d'entretien sont pour tout le monde.",
-        "it": "I prodotti per le pulizie sono per tutti."
+        "it": "I prodotti per le pulizie sono per tutti.",
+        "de": "Die Putzmittel sind für alle da."
       },
       "image_url": ""
     },
@@ -491,10 +1005,11 @@
       "id": "hcr_045",
       "es": "¿Quién compra lo que falta y cómo repartimos el costo?",
       "translations": {
-        "en": "Who buys what's missing, and how do we split the cost?",
+        "en": "Who's going to buy what we're out of, and how do we split the cost?",
         "pt": "Quem compra o que falta e como dividimos o custo?",
         "fr": "Qui achète ce qui manque et comment partageons-nous le coût ?",
-        "it": "Chi compra quello che manca e come dividiamo il costo?"
+        "it": "Chi compra quello che manca e come dividiamo il costo?",
+        "de": "Wer kauft, was fehlt, und wie teilen wir die Kosten auf?"
       },
       "image_url": ""
     },
@@ -505,7 +1020,8 @@
         "en": "Let's keep the receipts for shared expenses.",
         "pt": "Vamos guardar os recibos das despesas compartilhadas.",
         "fr": "Gardons les reçus des dépenses communes.",
-        "it": "Conserviamo gli scontrini delle spese condivise."
+        "it": "Conserviamo gli scontrini delle spese condivise.",
+        "de": "Heben wir die Belege für die gemeinsamen Ausgaben auf."
       },
       "image_url": ""
     },
@@ -516,7 +1032,8 @@
         "en": "The electricity bill went up. Can we review our usage?",
         "pt": "A conta de luz aumentou. Podemos rever nosso consumo?",
         "fr": "La facture d'électricité a augmenté. Pouvons-nous revoir notre consommation ?",
-        "it": "La bolletta della luce è aumentata. Possiamo rivedere i nostri consumi?"
+        "it": "La bolletta della luce è aumentata. Possiamo rivedere i nostri consumi?",
+        "de": "Die Stromrechnung ist höher als vorher. Können wir unseren Verbrauch prüfen?"
       },
       "image_url": ""
     },
@@ -527,7 +1044,8 @@
         "en": "Do we split that expense equally or according to how much each person uses?",
         "pt": "Essa despesa é dividida igualmente ou conforme o uso de cada um?",
         "fr": "Cette dépense se partage-t-elle à parts égales ou selon l'utilisation de chacun ?",
-        "it": "Quella spesa si divide in parti uguali o in base a quanto usa ciascuno?"
+        "it": "Quella spesa si divide in parti uguali o in base all'uso che ne fa ciascuno?",
+        "de": "Teilen wir die Kosten gleichmäßig auf oder danach, wie viel jeder verbraucht?"
       },
       "image_url": ""
     },
@@ -538,7 +1056,8 @@
         "en": "It wasn't included in our agreement; let's talk before paying for it.",
         "pt": "Não estava incluído no que combinamos; vamos conversar antes de pagar.",
         "fr": "Ce n'était pas prévu dans notre accord ; parlons-en avant de payer.",
-        "it": "Non era incluso nel nostro accordo; parliamone prima di pagare."
+        "it": "Non era incluso nel nostro accordo; parliamone prima di pagare.",
+        "de": "Das hatten wir nicht vereinbart. Lass uns darüber sprechen, bevor wir es bezahlen."
       },
       "image_url": ""
     },
@@ -549,7 +1068,8 @@
         "en": "I'm concerned that I almost always end up cleaning up after everyone.",
         "pt": "Me preocupa que quase sempre sobre para mim arrumar a bagunça de todos.",
         "fr": "Ce qui m'inquiète, c'est que je me retrouve presque toujours à ranger derrière tout le monde.",
-        "it": "Mi preoccupa che quasi sempre tocchi a me riordinare quello che lasciano tutti."
+        "it": "Mi preoccupa che quasi sempre tocchi a me riordinare quello che lasciano tutti.",
+        "de": "Es macht mir Sorgen, dass ich fast immer hinter allen herräumen muss."
       },
       "image_url": ""
     },
@@ -560,7 +1080,8 @@
         "en": "I don't want to argue; I want to find a fairer way to organize things.",
         "pt": "Não quero discutir; quero encontrar uma forma mais justa de nos organizarmos.",
         "fr": "Je ne veux pas me disputer ; je veux trouver une façon plus juste de nous organiser.",
-        "it": "Non voglio litigare; voglio trovare un modo più equo di organizzarci."
+        "it": "Non voglio litigare; voglio trovare un modo più equo di organizzarci.",
+        "de": "Ich will nicht streiten. Ich möchte, dass wir uns fairer organisieren."
       },
       "image_url": ""
     },
@@ -571,7 +1092,8 @@
         "en": "Can we talk about what's working and what isn't?",
         "pt": "Podemos conversar sobre o que está funcionando e o que não está?",
         "fr": "Pouvons-nous parler de ce qui fonctionne et de ce qui ne fonctionne pas ?",
-        "it": "Possiamo parlare di cosa funziona e di cosa non funziona?"
+        "it": "Possiamo parlare di cosa funziona e di cosa non funziona?",
+        "de": "Können wir darüber reden, was funktioniert und was nicht?"
       },
       "image_url": ""
     },
@@ -580,9 +1102,10 @@
       "es": "Probemos este reparto durante dos semanas y después lo revisamos.",
       "translations": {
         "en": "Let's try this division of chores for two weeks and then review it.",
-        "pt": "Vamos testar esta divisão por duas semanas e depois rever.",
+        "pt": "Vamos testar essa divisão de tarefas por duas semanas e depois ver como foi.",
         "fr": "Essayons cette répartition pendant deux semaines, puis faisons le point.",
-        "it": "Proviamo questa suddivisione per due settimane e poi la rivediamo."
+        "it": "Proviamo questa suddivisione per due settimane e poi la rivediamo.",
+        "de": "Probieren wir diese Aufteilung zwei Wochen lang aus und schauen dann, ob sie funktioniert."
       },
       "image_url": ""
     },
@@ -593,40 +1116,47 @@
         "en": "There's been water under the kitchen sink since this morning.",
         "pt": "Tem água embaixo da pia da cozinha desde hoje de manhã.",
         "fr": "Il y a de l'eau sous l'évier depuis ce matin.",
-        "it": "C'è acqua sotto il lavello da stamattina."
+        "it": "C'è acqua sotto il lavello da stamattina.",
+        "de": "Seit heute Morgen steht Wasser unter der Küchenspüle."
       },
       "image_url": ""
     },
     {
       "id": "hcr_055",
-      "es": "La fuga aparece cuando abrimos el grifo.",
+      "es": "La fuga aparece cuando abrimos la llave.",
       "translations": {
-        "en": "The leak appears when we turn on the faucet.",
-        "pt": "O vazamento aparece quando abrimos a torneira.",
-        "fr": "La fuite apparaît quand nous ouvrons le robinet.",
-        "it": "La perdita compare quando apriamo il rubinetto."
+        "en": "It leaks when we turn on the faucet.",
+        "pt": "Começa a vazar quando abrimos a torneira.",
+        "fr": "Ça fuit quand on ouvre le robinet.",
+        "it": "C'è una perdita quando apriamo il rubinetto.",
+        "de": "Es tritt Wasser aus, wenn wir den Wasserhahn aufdrehen."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Llave de agua; no la que abre una cerradura)"
+      }
     },
     {
       "id": "hcr_056",
-      "es": "El agua de la ducha tarda mucho en salir por el desagüe.",
+      "es": "El agua de la regadera tarda mucho en irse por el desagüe.",
       "translations": {
         "en": "The shower water takes a long time to drain.",
         "pt": "A água do chuveiro demora muito para escoar pelo ralo.",
         "fr": "L'eau de la douche met beaucoup de temps à s'évacuer.",
-        "it": "L'acqua della doccia ci mette molto a defluire dallo scarico."
+        "it": "L'acqua della doccia ci mette molto a defluire dallo scarico.",
+        "de": "Das Wasser in der Dusche läuft sehr langsam ab."
       },
       "image_url": ""
     },
     {
       "id": "hcr_057",
-      "es": "El inodoro sigue haciendo ruido después de usarlo.",
+      "es": "El inodoro sigue haciendo ruido después de jalarle.",
       "translations": {
-        "en": "The toilet keeps making noise after use.",
-        "pt": "O vaso sanitário continua fazendo barulho depois do uso.",
-        "fr": "Les toilettes continuent à faire du bruit après utilisation.",
-        "it": "Il WC continua a fare rumore dopo l'uso."
+        "en": "The toilet keeps making noise after you flush it.",
+        "pt": "O vaso sanitário continua fazendo barulho depois da descarga.",
+        "fr": "Les toilettes continuent à faire du bruit après qu'on a tiré la chasse.",
+        "it": "Il WC continua a fare rumore anche dopo aver tirato lo sciacquone.",
+        "de": "Die Toilette macht auch nach dem Spülen noch Geräusche."
       },
       "image_url": ""
     },
@@ -637,7 +1167,8 @@
         "en": "The water heater turns on, but the water comes out cold.",
         "pt": "O aquecedor liga, mas a água sai fria.",
         "fr": "Le chauffe-eau s'allume, mais l'eau sort froide.",
-        "it": "Lo scaldabagno si accende, ma l'acqua esce fredda."
+        "it": "Lo scaldabagno si accende, ma l'acqua esce fredda.",
+        "de": "Der Warmwasserbereiter springt an, aber das Wasser bleibt kalt."
       },
       "image_url": ""
     },
@@ -648,7 +1179,8 @@
         "en": "The heating works in one room, but not in the others.",
         "pt": "O aquecimento funciona em um cômodo, mas não nos outros.",
         "fr": "Le chauffage fonctionne dans une pièce, mais pas dans les autres.",
-        "it": "Il riscaldamento funziona in una stanza, ma non nelle altre."
+        "it": "Il riscaldamento funziona in una stanza, ma non nelle altre.",
+        "de": "Die Heizung funktioniert in einem Zimmer, aber in den anderen nicht."
       },
       "image_url": ""
     },
@@ -659,7 +1191,8 @@
         "en": "The washing machine starts the cycle and then stops.",
         "pt": "A máquina de lavar começa o ciclo e depois para.",
         "fr": "Le lave-linge démarre le cycle, puis s'arrête.",
-        "it": "La lavatrice avvia il ciclo e poi si ferma."
+        "it": "La lavatrice avvia il ciclo e poi si ferma.",
+        "de": "Die Waschmaschine startet das Programm und bleibt dann stehen."
       },
       "image_url": ""
     },
@@ -670,7 +1203,8 @@
         "en": "The refrigerator makes noise and no longer cools properly.",
         "pt": "A geladeira faz barulho e não está gelando bem.",
         "fr": "Le réfrigérateur fait du bruit et ne refroidit plus correctement.",
-        "it": "Il frigorifero fa rumore e non raffredda più bene."
+        "it": "Il frigorifero fa rumore e non raffredda più bene.",
+        "de": "Der Kühlschrank macht Geräusche und kühlt nicht mehr richtig."
       },
       "image_url": ""
     },
@@ -678,10 +1212,11 @@
       "id": "hcr_062",
       "es": "La ventana no cierra bien y entra aire.",
       "translations": {
-        "en": "The window doesn't close properly, and air comes in.",
+        "en": "The window doesn't close properly, so there's a draft.",
         "pt": "A janela não fecha direito e entra ar.",
         "fr": "La fenêtre ferme mal et laisse passer de l'air.",
-        "it": "La finestra non si chiude bene ed entra aria."
+        "it": "La finestra non si chiude bene ed entra aria.",
+        "de": "Das Fenster schließt nicht richtig und es zieht."
       },
       "image_url": ""
     },
@@ -692,7 +1227,8 @@
         "en": "The key turns, but the door won't open.",
         "pt": "A chave gira, mas a porta não abre.",
         "fr": "La clé tourne, mais la porte ne s'ouvre pas.",
-        "it": "La chiave gira, ma la porta non si apre."
+        "it": "La chiave gira, ma la porta non si apre.",
+        "de": "Der Schlüssel lässt sich drehen, aber die Tür geht nicht auf."
       },
       "image_url": ""
     },
@@ -703,7 +1239,8 @@
         "en": "The blind got stuck halfway.",
         "pt": "A persiana ficou presa na metade.",
         "fr": "Le store est resté bloqué à mi-hauteur.",
-        "it": "La tapparella si è bloccata a metà."
+        "it": "La tapparella si è bloccata a metà.",
+        "de": "Der Rollladen ist auf halber Höhe stecken geblieben."
       },
       "image_url": ""
     },
@@ -714,7 +1251,8 @@
         "en": "A damp patch appeared on the ceiling.",
         "pt": "Apareceu uma mancha de umidade no teto.",
         "fr": "Une tache d'humidité est apparue au plafond.",
-        "it": "È comparsa una macchia di umidità sul soffitto."
+        "it": "È comparsa una macchia di umidità sul soffitto.",
+        "de": "An der Decke ist ein feuchter Fleck aufgetaucht."
       },
       "image_url": ""
     },
@@ -725,31 +1263,37 @@
         "en": "The patch gets bigger every time it rains.",
         "pt": "A mancha aumenta toda vez que chove.",
         "fr": "La tache s'agrandit chaque fois qu'il pleut.",
-        "it": "La macchia si allarga ogni volta che piove."
+        "it": "La macchia si allarga ogni volta che piove.",
+        "de": "Der Fleck wird jedes Mal größer, wenn es regnet."
       },
       "image_url": ""
     },
     {
       "id": "hcr_067",
-      "es": "Solo se fue la electricidad en una parte de la casa.",
+      "es": "Solo se fue la luz en una parte de la casa.",
       "translations": {
         "en": "The power went out in only part of the house.",
         "pt": "Faltou energia só em uma parte da casa.",
-        "fr": "L'électricité a été coupée seulement dans une partie du logement.",
-        "it": "È mancata la corrente solo in una parte della casa."
+        "fr": "Il y a eu une coupure de courant dans une partie du logement, mais pas ailleurs.",
+        "it": "È mancata la corrente solo in una parte della casa.",
+        "de": "Der Strom ist nur in einem Teil der Wohnung ausgefallen."
       },
       "image_url": ""
     },
     {
       "id": "hcr_068",
-      "es": "Ese enchufe hace chispas; necesitamos ayuda urgente.",
+      "es": "Ese contacto echa chispas; necesitamos ayuda urgente.",
       "translations": {
         "en": "That outlet is sparking; we need urgent help.",
         "pt": "Essa tomada está soltando faíscas; precisamos de ajuda urgente.",
         "fr": "Cette prise fait des étincelles ; nous avons besoin d'une aide urgente.",
-        "it": "Quella presa fa scintille; abbiamo bisogno di aiuto urgente."
+        "it": "Quella presa fa scintille; abbiamo bisogno di aiuto urgente.",
+        "de": "Aus der Steckdose kommen Funken. Wir brauchen dringend Hilfe."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Contacto: conexión eléctrica en la pared; también se le dice «enchufe»)"
+      }
     },
     {
       "id": "hcr_069",
@@ -758,7 +1302,8 @@
         "en": "I haven't tried to repair it; I'd rather have a professional check it.",
         "pt": "Não tentei consertar; prefiro que um profissional verifique.",
         "fr": "Je n'ai pas essayé de le réparer ; je préfère qu'un professionnel le vérifie.",
-        "it": "Non ho provato a ripararlo; preferisco che lo controlli un professionista."
+        "it": "Non ho provato a ripararlo; preferisco che lo controlli un professionista.",
+        "de": "Ich habe nicht versucht, es zu reparieren. Lieber soll sich das eine Fachkraft ansehen."
       },
       "image_url": ""
     },
@@ -769,7 +1314,8 @@
         "en": "How long has it been happening, and how often?",
         "pt": "Desde quando isso acontece e com que frequência?",
         "fr": "Depuis quand cela se produit-il et à quelle fréquence ?",
-        "it": "Da quanto tempo succede e con quale frequenza?"
+        "it": "Da quanto tempo succede e con quale frequenza?",
+        "de": "Seit wann passiert das und wie oft?"
       },
       "image_url": ""
     },
@@ -780,7 +1326,8 @@
         "en": "It started yesterday and has happened three times.",
         "pt": "Começou ontem e já aconteceu três vezes.",
         "fr": "Cela a commencé hier et s'est produit trois fois.",
-        "it": "È cominciato ieri ed è successo tre volte."
+        "it": "È cominciato ieri ed è successo tre volte.",
+        "de": "Es hat gestern angefangen und ist schon dreimal passiert."
       },
       "image_url": ""
     },
@@ -791,18 +1338,20 @@
         "en": "It used to work properly; we haven't changed anything.",
         "pt": "Antes funcionava bem; não mudamos nada.",
         "fr": "Avant, cela fonctionnait bien ; nous n'avons rien changé.",
-        "it": "Prima funzionava bene; non abbiamo cambiato nulla."
+        "it": "Prima funzionava bene; non abbiamo cambiato nulla.",
+        "de": "Vorher hat es gut funktioniert. Wir haben nichts verändert."
       },
       "image_url": ""
     },
     {
       "id": "hcr_073",
-      "es": "Puedo enviar una foto o un video de la avería.",
+      "es": "Puedo enviar una foto o un video de la falla.",
       "translations": {
-        "en": "I can send a photo or video of the fault.",
+        "en": "I can send a photo or a video of the problem.",
         "pt": "Posso enviar uma foto ou um vídeo do problema.",
         "fr": "Je peux envoyer une photo ou une vidéo du problème.",
-        "it": "Posso inviare una foto o un video del guasto."
+        "it": "Posso inviare una foto o un video del guasto.",
+        "de": "Ich kann ein Foto oder ein Video von dem Problem schicken."
       },
       "image_url": ""
     },
@@ -813,9 +1362,13 @@
         "en": "Who should I notify: the landlord or the building management?",
         "pt": "A quem devo avisar: ao proprietário ou à administração do prédio?",
         "fr": "Qui dois-je prévenir : le propriétaire ou le gestionnaire de l'immeuble ?",
-        "it": "Chi devo avvisare: il proprietario o l'amministrazione del condominio?"
+        "it": "Chi devo avvisare: il proprietario o l'amministrazione del condominio?",
+        "de": "Wem soll ich Bescheid sagen, dem Vermieter oder der Hausverwaltung?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Administración del edificio)"
+      }
     },
     {
       "id": "hcr_075",
@@ -824,18 +1377,20 @@
         "en": "Who needs to authorize the repair before we hire someone?",
         "pt": "Quem precisa autorizar o conserto antes de contratarmos alguém?",
         "fr": "Qui doit autoriser la réparation avant de faire appel à quelqu'un ?",
-        "it": "Chi deve autorizzare la riparazione prima di incaricare qualcuno?"
+        "it": "Chi deve autorizzare la riparazione prima di incaricare qualcuno?",
+        "de": "Wer muss die Reparatur genehmigen, bevor wir jemanden beauftragen?"
       },
       "image_url": ""
     },
     {
       "id": "hcr_076",
-      "es": "La avería afecta al departamento de abajo también.",
+      "es": "La falla también afecta al departamento de abajo.",
       "translations": {
-        "en": "The fault is also affecting the apartment downstairs.",
+        "en": "The problem is also affecting the apartment downstairs.",
         "pt": "O problema também afeta o apartamento de baixo.",
         "fr": "Le problème touche aussi l'appartement du dessous.",
-        "it": "Il guasto riguarda anche l'appartamento di sotto."
+        "it": "Il guasto riguarda anche l'appartamento di sotto.",
+        "de": "Das Problem betrifft auch die Wohnung unter uns."
       },
       "image_url": ""
     },
@@ -846,7 +1401,8 @@
         "en": "Can someone come and check the problem this week?",
         "pt": "Alguém pode vir verificar o problema esta semana?",
         "fr": "Quelqu'un peut-il venir examiner le problème cette semaine ?",
-        "it": "Può venire qualcuno a controllare il problema questa settimana?"
+        "it": "Può venire qualcuno a controllare il problema questa settimana?",
+        "de": "Kann diese Woche jemand kommen und sich das Problem ansehen?"
       },
       "image_url": ""
     },
@@ -857,9 +1413,13 @@
         "en": "Is the visit just for an inspection or also for a repair?",
         "pt": "A visita é só para verificar ou também para consertar?",
         "fr": "La visite est-elle pour un diagnostic ou aussi pour une réparation ?",
-        "it": "La visita è per un controllo o anche per una riparazione?"
+        "it": "La visita è per un controllo o anche per una riparazione?",
+        "de": "Kommen Sie nur, um nachzusehen, oder auch, um es zu reparieren?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_079",
@@ -868,7 +1428,8 @@
         "en": "Is there a charge for the visit even if no repair is carried out?",
         "pt": "A visita tem algum custo mesmo se o conserto não for feito?",
         "fr": "La visite est-elle payante même si aucune réparation n'est effectuée ?",
-        "it": "La visita ha un costo anche se non viene effettuata la riparazione?"
+        "it": "La visita ha un costo anche se non viene effettuata la riparazione?",
+        "de": "Kostet der Besuch etwas, auch wenn nichts repariert wird?"
       },
       "image_url": ""
     },
@@ -879,7 +1440,8 @@
         "en": "I'd like an estimate before deciding.",
         "pt": "Gostaria de um orçamento antes de decidir.",
         "fr": "Je voudrais un devis avant de décider.",
-        "it": "Vorrei un preventivo prima di decidere."
+        "it": "Vorrei un preventivo prima di decidere.",
+        "de": "Ich hätte gern einen Kostenvoranschlag, bevor ich mich entscheide."
       },
       "image_url": ""
     },
@@ -890,9 +1452,13 @@
         "en": "Does the estimate include parts and labor?",
         "pt": "O orçamento inclui as peças e a mão de obra?",
         "fr": "Le devis comprend-il les pièces et la main-d'œuvre ?",
-        "it": "Il preventivo comprende i pezzi e la manodopera?"
+        "it": "Il preventivo comprende i pezzi e la manodopera?",
+        "de": "Sind im Kostenvoranschlag die Ersatzteile und die Arbeitskosten enthalten?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "«Labor» es el costo del trabajo, sin contar las piezas."
+      }
     },
     {
       "id": "hcr_082",
@@ -901,9 +1467,13 @@
         "en": "Is there an extra charge for an after-hours visit?",
         "pt": "Há alguma cobrança extra para vir fora do horário normal?",
         "fr": "Y a-t-il un supplément pour une visite en dehors des horaires habituels ?",
-        "it": "C'è un costo aggiuntivo per una visita fuori dall'orario normale?"
+        "it": "C'è un costo aggiuntivo per una visita fuori dall'orario normale?",
+        "de": "Kostet es extra, wenn Sie außerhalb Ihrer normalen Arbeitszeit kommen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_083",
@@ -912,7 +1482,8 @@
         "en": "Who will pay for the repair? We need to confirm that first.",
         "pt": "Quem vai pagar o conserto? Precisamos confirmar antes.",
         "fr": "Qui paiera la réparation ? Nous devons le confirmer avant.",
-        "it": "Chi pagherà la riparazione? Dobbiamo confermarlo prima."
+        "it": "Chi pagherà la riparazione? Dobbiamo confermarlo prima.",
+        "de": "Wer bezahlt die Reparatur? Das müssen wir vorher klären."
       },
       "image_url": ""
     },
@@ -923,7 +1494,8 @@
         "en": "I can be home in the morning, but not all day.",
         "pt": "Posso estar em casa de manhã, mas não o dia todo.",
         "fr": "Je peux être chez moi le matin, mais pas toute la journée.",
-        "it": "Posso essere a casa la mattina, ma non tutto il giorno."
+        "it": "Posso essere a casa la mattina, ma non tutto il giorno.",
+        "de": "Ich kann vormittags zu Hause sein, aber nicht den ganzen Tag."
       },
       "image_url": ""
     },
@@ -934,9 +1506,16 @@
         "en": "Can you give me a time window for the visit?",
         "pt": "Pode me dar uma faixa de horário para a visita?",
         "fr": "Pouvez-vous me donner un créneau horaire pour la visite ?",
-        "it": "Può indicarmi una fascia oraria per la visita?"
+        "it": "Può indicarmi una fascia oraria per la visita?",
+        "de": "Können Sie mir sagen, in welchem Zeitraum Sie kommen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Un intervalo, por ejemplo, de 9 a 11 a. m.; no una hora exacta)",
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_086",
@@ -945,9 +1524,15 @@
         "en": "Can you let me know when you're on your way?",
         "pt": "Pode me avisar quando estiver a caminho?",
         "fr": "Pouvez-vous me prévenir quand vous serez en route ?",
-        "it": "Può avvisarmi quando sarà in viaggio?"
+        "it": "Può avvisarmi quando si mette in viaggio?",
+        "de": "Können Sie mir Bescheid sagen, wenn Sie unterwegs sind?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_087",
@@ -956,9 +1541,15 @@
         "en": "The doorbell isn't working; please call me when you arrive.",
         "pt": "A campainha não funciona; me ligue quando chegar.",
         "fr": "La sonnette ne fonctionne pas ; appelez-moi à votre arrivée.",
-        "it": "Il campanello non funziona; mi chiami quando arriva."
+        "it": "Il campanello non funziona; mi chiami quando arriva.",
+        "de": "Die Klingel ist kaputt. Rufen Sie mich bitte an, wenn Sie da sind."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_088",
@@ -966,8 +1557,9 @@
       "translations": {
         "en": "The building entrance is on the street behind it.",
         "pt": "A entrada do prédio fica na rua de trás.",
-        "fr": "L'entrée de l'immeuble se trouve dans la rue derrière.",
-        "it": "L'ingresso dell'edificio è nella strada sul retro."
+        "fr": "L'entrée de l'immeuble donne sur la rue de derrière.",
+        "it": "L'ingresso dell'edificio è nella strada sul retro.",
+        "de": "Der Hauseingang ist an der Straße hinter dem Gebäude."
       },
       "image_url": ""
     },
@@ -978,9 +1570,15 @@
         "en": "I won't be there, but my roommate can let you in.",
         "pt": "Não vou estar em casa, mas meu colega de casa pode abrir para você.",
         "fr": "Je ne serai pas là, mais mon colocataire pourra vous ouvrir.",
-        "it": "Io non ci sarò, ma il mio coinquilino potrà aprirle."
+        "it": "Io non ci sarò, ma il mio coinquilino potrà aprirle.",
+        "de": "Ich bin nicht da, aber mein Mitbewohner kann Sie reinlassen."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_090",
@@ -989,7 +1587,8 @@
         "en": "What name should the technician give at reception?",
         "pt": "Que nome o técnico deve informar na recepção?",
         "fr": "Quel nom le technicien doit-il donner à l'accueil ?",
-        "it": "Quale nome deve dare il tecnico alla reception?"
+        "it": "Quale nome deve dare il tecnico alla reception?",
+        "de": "Welchen Namen soll der Techniker am Empfang nennen?"
       },
       "image_url": ""
     },
@@ -1000,9 +1599,15 @@
         "en": "Do I need to clear the area before you come?",
         "pt": "Preciso liberar a área antes de você vir?",
         "fr": "Dois-je dégager la zone avant votre venue ?",
-        "it": "Devo liberare la zona prima che venga?"
+        "it": "Devo liberare la zona prima che venga?",
+        "de": "Muss ich den Bereich freiräumen, bevor Sie kommen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_092",
@@ -1011,9 +1616,15 @@
         "en": "How long do you expect the work to take?",
         "pt": "Quanto tempo estima que o serviço vai durar?",
         "fr": "Combien de temps pensez-vous que les travaux dureront ?",
-        "it": "Quanto tempo pensa che durerà il lavoro?"
+        "it": "Quanto tempo pensa che durerà il lavoro?",
+        "de": "Wie lange wird die Arbeit Ihrer Einschätzung nach dauern?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_093",
@@ -1022,31 +1633,38 @@
         "en": "Will we be able to use the water during the repair?",
         "pt": "Durante o conserto, vamos poder usar a água?",
         "fr": "Pourrons-nous utiliser l'eau pendant la réparation ?",
-        "it": "Potremo usare l'acqua durante la riparazione?"
+        "it": "Potremo usare l'acqua durante la riparazione?",
+        "de": "Können wir während der Reparatur das Wasser benutzen?"
       },
       "image_url": ""
     },
     {
       "id": "hcr_094",
-      "es": "Necesito avisar a quienes viven aquí si habrá un corte.",
+      "es": "Necesito avisarles a quienes viven aquí si van a cortar el agua.",
       "translations": {
-        "en": "I need to let the people who live here know if there will be an interruption.",
-        "pt": "Preciso avisar quem mora aqui se houver uma interrupção.",
-        "fr": "Je dois prévenir les personnes qui vivent ici s'il y a une coupure.",
-        "it": "Devo avvisare chi abita qui se ci sarà un'interruzione."
+        "en": "I need to let the people who live here know if the water will be shut off.",
+        "pt": "Preciso avisar quem mora aqui se vão cortar a água.",
+        "fr": "Je dois prévenir les personnes qui vivent ici si l'eau doit être coupée.",
+        "it": "Devo avvisare chi abita qui se verrà chiusa l'acqua.",
+        "de": "Falls das Wasser abgestellt wird, muss ich den anderen hier Bescheid sagen."
       },
       "image_url": ""
     },
     {
       "id": "hcr_095",
-      "es": "La cita era hoy, pero nadie vino ni avisó.",
+      "es": "La cita era hoy, pero nadie vino ni me avisó.",
       "translations": {
         "en": "The appointment was today, but no one came or let me know.",
         "pt": "A visita estava marcada para hoje, mas ninguém veio nem avisou.",
         "fr": "Le rendez-vous était aujourd'hui, mais personne n'est venu ni ne m'a prévenu. / Le rendez-vous était aujourd'hui, mais personne n'est venu ni ne m'a prévenue.",
-        "it": "L'appuntamento era oggi, ma nessuno è venuto né mi ha avvisato. / L'appuntamento era oggi, ma nessuno è venuto né mi ha avvisata."
+        "it": "L'appuntamento era oggi, ma nessuno è venuto né mi ha avvisato. / L'appuntamento era oggi, ma nessuno è venuto né mi ha avvisata.",
+        "de": "Der Termin war für heute vereinbart, aber es ist niemand gekommen und niemand hat Bescheid gesagt."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(«Prévenu» si habla un hombre; «prévenue» si habla una mujer)",
+        "it": "(«Avvisato» si habla un hombre; «avvisata» si habla una mujer)"
+      }
     },
     {
       "id": "hcr_096",
@@ -1055,9 +1673,13 @@
         "en": "Can we reschedule the visit for a specific time?",
         "pt": "Podemos remarcar a visita para um horário exato?",
         "fr": "Pouvons-nous reprogrammer la visite à une heure précise ?",
-        "it": "Possiamo riprogrammare la visita per un orario preciso?"
+        "it": "Possiamo riprogrammare la visita per un orario preciso?",
+        "de": "Können wir für den neuen Termin eine genaue Uhrzeit vereinbaren?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Se pide una hora exacta, no un intervalo)"
+      }
     },
     {
       "id": "hcr_097",
@@ -1066,9 +1688,15 @@
         "en": "Before starting, please confirm the total cost.",
         "pt": "Antes de começar, por favor confirme o custo total.",
         "fr": "Avant de commencer, veuillez confirmer le coût total.",
-        "it": "Prima di cominciare, confermi il costo totale, per favore."
+        "it": "Prima di cominciare, confermi il costo totale, per favore.",
+        "de": "Bitte bestätigen Sie den Gesamtpreis, bevor Sie anfangen."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_098",
@@ -1077,9 +1705,15 @@
         "en": "If another part is needed, please let me know before buying it.",
         "pt": "Se precisar de outra peça, me avise antes de comprar.",
         "fr": "Si une autre pièce est nécessaire, prévenez-moi avant de l'acheter.",
-        "it": "Se serve un altro pezzo, mi avvisi prima di comprarlo."
+        "it": "Se serve un altro pezzo, mi avvisi prima di comprarlo.",
+        "de": "Falls Sie noch ein Teil brauchen, sagen Sie mir bitte Bescheid, bevor Sie es kaufen."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_099",
@@ -1088,7 +1722,8 @@
         "en": "Can it be repaired, or does it need to be replaced?",
         "pt": "Dá para consertar ou é necessário substituir?",
         "fr": "Peut-on le réparer ou faut-il le remplacer ?",
-        "it": "Si può riparare o bisogna sostituirlo?"
+        "it": "Si può riparare o bisogna sostituirlo?",
+        "de": "Kann man es reparieren oder muss man es austauschen?"
       },
       "image_url": ""
     },
@@ -1099,9 +1734,15 @@
         "en": "Do you have the part, or will you need to order it?",
         "pt": "Tem a peça ou vai precisar encomendar?",
         "fr": "Avez-vous la pièce ou devrez-vous la commander ?",
-        "it": "Ha il pezzo o dovrà ordinarlo?"
+        "it": "Ha il pezzo o dovrà ordinarlo?",
+        "de": "Haben Sie das Teil da oder müssen Sie es bestellen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_101",
@@ -1110,9 +1751,15 @@
         "en": "If you need to come back, will there be another visit charge?",
         "pt": "Se precisar voltar, será necessário pagar outra visita?",
         "fr": "Si vous devez revenir, faudra-t-il payer une autre visite ?",
-        "it": "Se deve tornare, dovremo pagare un'altra visita?"
+        "it": "Se deve tornare, dovremo pagare un'altra visita?",
+        "de": "Wenn Sie noch einmal kommen müssen, kostet das wieder etwas?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_102",
@@ -1121,9 +1768,15 @@
         "en": "I'd like to check that it works before you leave.",
         "pt": "Gostaria de verificar se funciona antes de você ir embora.",
         "fr": "Je voudrais vérifier que cela fonctionne avant votre départ.",
-        "it": "Vorrei verificare che funzioni prima che vada via."
+        "it": "Vorrei verificare che funzioni prima che vada via.",
+        "de": "Ich möchte prüfen, ob es funktioniert, bevor Sie gehen."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_103",
@@ -1132,7 +1785,8 @@
         "en": "What should I do if the problem comes back?",
         "pt": "O que devo fazer se o problema aparecer de novo?",
         "fr": "Que dois-je faire si le problème réapparaît ?",
-        "it": "Cosa devo fare se il problema si ripresenta?"
+        "it": "Cosa devo fare se il problema si ripresenta?",
+        "de": "Was soll ich tun, wenn das Problem wieder auftritt?"
       },
       "image_url": ""
     },
@@ -1143,7 +1797,8 @@
         "en": "Is the repair covered by a warranty? For how long?",
         "pt": "O conserto tem garantia? Por quanto tempo?",
         "fr": "La réparation est-elle garantie ? Pendant combien de temps ?",
-        "it": "La riparazione è coperta da garanzia? Per quanto tempo?"
+        "it": "La riparazione è coperta da garanzia? Per quanto tempo?",
+        "de": "Gibt es eine Garantie auf die Reparatur? Wie lange gilt sie?"
       },
       "image_url": ""
     },
@@ -1151,12 +1806,19 @@
       "id": "hcr_105",
       "es": "¿Puede dejarme un comprobante del trabajo realizado?",
       "translations": {
-        "en": "Can you leave me a receipt for the work carried out?",
+        "en": "Could you give me proof of the work you did?",
         "pt": "Pode me deixar um comprovante do serviço realizado?",
         "fr": "Pouvez-vous me laisser un justificatif des travaux effectués ?",
-        "it": "Può lasciarmi una ricevuta del lavoro svolto?"
+        "it": "Può lasciarmi un documento che attesti il lavoro svolto?",
+        "de": "Können Sie mir einen Beleg für die erledigte Arbeit geben?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Documento que constata el trabajo; no necesariamente un recibo de pago)",
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_106",
@@ -1165,7 +1827,8 @@
         "en": "After the repair, the leak came back the next day.",
         "pt": "Depois do conserto, o vazamento voltou no dia seguinte.",
         "fr": "Après la réparation, la fuite est revenue le lendemain.",
-        "it": "Dopo la riparazione, la perdita è ricomparsa il giorno dopo."
+        "it": "Dopo la riparazione, la perdita è ricomparsa il giorno dopo.",
+        "de": "Am Tag nach der Reparatur ist wieder Wasser ausgetreten."
       },
       "image_url": ""
     },
@@ -1176,7 +1839,8 @@
         "en": "The technician repaired one part, but the other problem is unchanged.",
         "pt": "O técnico consertou uma parte, mas o outro problema continua igual.",
         "fr": "Le technicien a réparé une partie, mais l'autre problème persiste.",
-        "it": "Il tecnico ha riparato una parte, ma l'altro problema è rimasto uguale."
+        "it": "Il tecnico ha riparato una parte, ma l'altro problema è rimasto uguale.",
+        "de": "Der Techniker hat einen Teil repariert, aber das andere Problem besteht noch."
       },
       "image_url": ""
     },
@@ -1187,9 +1851,15 @@
         "en": "Can you check what still needs fixing without starting everything over?",
         "pt": "Pode verificar o que ficou pendente sem começar tudo de novo?",
         "fr": "Pouvez-vous vérifier ce qui reste à faire sans tout recommencer ?",
-        "it": "Può controllare quello che è rimasto da fare senza ricominciare tutto da capo?"
+        "it": "Può controllare quello che è rimasto da fare senza ricominciare tutto da capo?",
+        "de": "Können Sie sich ansehen, was noch zu tun ist, ohne wieder von vorn anzufangen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Formal: vous)",
+        "it": "(Formal: Lei)",
+        "de": "(Formal: Sie)"
+      }
     },
     {
       "id": "hcr_109",
@@ -1198,7 +1868,8 @@
         "en": "It's been repaired; we can use it again.",
         "pt": "Já foi consertado; podemos voltar a usar.",
         "fr": "C'est réparé ; nous pouvons l'utiliser à nouveau.",
-        "it": "È stato riparato; possiamo usarlo di nuovo."
+        "it": "È stato riparato; possiamo usarlo di nuovo.",
+        "de": "Es ist repariert. Wir können es wieder benutzen."
       },
       "image_url": ""
     },
@@ -1206,10 +1877,11 @@
       "id": "hcr_110",
       "es": "Anotemos la fecha de la reparación y guardemos el comprobante.",
       "translations": {
-        "en": "Let's write down the repair date and keep the receipt.",
+        "en": "Let's write down the repair date and keep the record of the work done.",
         "pt": "Vamos anotar a data do conserto e guardar o comprovante.",
         "fr": "Notons la date de la réparation et conservons le justificatif.",
-        "it": "Annotiamo la data della riparazione e conserviamo la ricevuta."
+        "it": "Annotiamo la data della riparazione e conserviamo il documento.",
+        "de": "Notieren wir das Datum der Reparatur und heben wir den Beleg auf."
       },
       "image_url": ""
     }
