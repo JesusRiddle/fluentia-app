@@ -7,7 +7,7 @@
       "id": "vat_053",
       "es": "¿Debo llegar antes de la hora indicada en la reservación?",
       "translations": {
-        "en": "Do I need to get there before the time on my booking confirmation?",
+        "en": "Do I need to arrive before the time on my reservation?",
         "pt": "Preciso chegar antes do horário indicado na reserva?",
         "fr": "Je dois me présenter avant l'heure indiquée sur la réservation ?",
         "it": "Devo presentarmi prima dell'orario indicato nella prenotazione?",
@@ -64,14 +64,42 @@
       "image_url": ""
     },
     {
+      "id": "vat_108",
+      "es": "Llegué después del horario reservado; ¿hay alguna opción para entrar?",
+      "translations": {
+        "en": "I arrived after my reserved time. Is there any way to enter?",
+        "pt": "Cheguei depois do horário reservado; há alguma opção para entrar?",
+        "fr": "Je suis arrivé après l'heure que j'avais réservée ; puis-je encore entrer ? / Je suis arrivée après l'heure que j'avais réservée ; puis-je encore entrer ?",
+        "it": "Sono arrivato dopo l'orario prenotato; c'è qualche possibilità di entrare? / Sono arrivata dopo l'orario prenotato; c'è qualche possibilità di entrare?",
+        "de": "Ich bin erst nach der gebuchten Einlasszeit angekommen. Kann ich trotzdem noch hinein?"
+      },
+      "image_url": "",
+      "notes": {
+        "fr": "(Primera forma: masculino; segunda: femenino)",
+        "it": "(Primera forma: masculino; segunda: femenino)"
+      }
+    },
+    {
       "id": "vat_058",
       "es": "Estoy en el punto de encuentro indicado, pero no encuentro al guía.",
       "translations": {
-        "en": "I'm at the meeting point, but I can't find the guide.",
+        "en": "I'm at the designated meeting point, but I can't find the guide.",
         "pt": "Estou no ponto de encontro indicado, mas não encontro o guia.",
         "fr": "Je suis au point de rendez-vous indiqué, mais je ne trouve pas le guide.",
         "it": "Sono al punto di ritrovo indicato, ma non trovo la guida.",
         "de": "Ich bin am angegebenen Treffpunkt, aber ich finde den Guide nicht."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "vat_109",
+      "es": "El grupo salió antes de la hora indicada. ¿Con quién puedo aclarar lo que pasó?",
+      "translations": {
+        "en": "The group left before the stated time. Who can I talk to about what happened?",
+        "pt": "O grupo saiu antes do horário indicado. Com quem posso falar sobre isso?",
+        "fr": "Le groupe est parti avant l'heure indiquée. À qui puis-je en parler ?",
+        "it": "Il gruppo è partito prima dell'orario indicato. Con chi posso parlarne?",
+        "de": "Die Gruppe ist vor der angegebenen Uhrzeit losgegangen. Mit wem kann ich das klären?"
       },
       "image_url": ""
     },
@@ -112,18 +140,6 @@
       "image_url": ""
     },
     {
-      "id": "vat_068",
-      "es": "¿Podemos dejar las mochilas grandes en el área de resguardo de equipaje?",
-      "translations": {
-        "en": "Can we leave large backpacks at the bag check?",
-        "pt": "Podemos deixar mochilas grandes em um guarda-volumes?",
-        "fr": "On peut laisser les grands sacs à dos à la consigne ?",
-        "it": "Possiamo lasciare gli zaini grandi in un deposito bagagli?",
-        "de": "Können wir große Rucksäcke bei der Gepäckaufbewahrung abgeben?"
-      },
-      "image_url": ""
-    },
-    {
       "id": "vat_069",
       "es": "¿El acceso exige cubrir los hombros o las rodillas?",
       "translations": {
@@ -148,21 +164,6 @@
       "image_url": ""
     },
     {
-      "id": "vat_152",
-      "es": "Tiene que pasar por el control de seguridad.",
-      "translations": {
-        "en": "You have to go through security screening.",
-        "pt": "Você precisa passar pela inspeção de segurança.",
-        "fr": "Vous devez passer le contrôle de sécurité.",
-        "it": "Deve passare il controllo di sicurezza.",
-        "de": "Sie müssen durch die Sicherheitskontrolle."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Frase del personal)"
-      }
-    },
-    {
       "id": "vat_122",
       "es": "¿Puedo entrar con una mochila pequeña?",
       "translations": {
@@ -170,9 +171,24 @@
         "pt": "Posso entrar com uma mochila pequena?",
         "fr": "Je peux entrer avec un petit sac à dos ?",
         "it": "Posso entrare con uno zaino piccolo?",
-        "de": "Darf ich mit einem kleinen Rucksack rein?"
+        "de": "Darf ich einen kleinen Rucksack mit hineinnehmen?"
       },
       "image_url": ""
+    },
+    {
+      "id": "vat_148",
+      "es": "Las mochilas pequeñas están permitidas.",
+      "translations": {
+        "en": "Small backpacks are allowed.",
+        "pt": "Mochilas pequenas são permitidas.",
+        "fr": "Les petits sacs à dos sont autorisés.",
+        "it": "Gli zaini piccoli sono consentiti.",
+        "de": "Kleine Rucksäcke sind erlaubt."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
     },
     {
       "id": "vat_123",
@@ -235,6 +251,21 @@
       "image_url": ""
     },
     {
+      "id": "vat_152",
+      "es": "Tiene que pasar por el control de seguridad.",
+      "translations": {
+        "en": "You have to go through security screening.",
+        "pt": "Você precisa passar pela inspeção de segurança.",
+        "fr": "Vous devez passer le contrôle de sécurité.",
+        "it": "Deve passare il controllo di sicurezza.",
+        "de": "Sie müssen durch die Sicherheitskontrolle."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
+    },
+    {
       "id": "vat_128",
       "es": "¿Dónde están los casilleros?",
       "translations": {
@@ -251,7 +282,7 @@
       "es": "¿Hay un lugar para guardar el equipaje o un guardarropa?",
       "translations": {
         "en": "Is there a luggage storage area or a coat check?",
-        "pt": "Tem guarda-volumes ou chapelaria?",
+        "pt": "Há um guarda-volumes ou um lugar para deixar os casacos?",
         "fr": "Y a-t-il une consigne ou un vestiaire ?",
         "it": "C'è un deposito bagagli o un guardaroba?",
         "de": "Gibt es eine Gepäckaufbewahrung oder eine Garderobe?"
@@ -261,6 +292,18 @@
         "es": "También se dice «consigna» para el lugar donde se deja equipaje u otros objetos.",
         "fr": "«Consigne» es para guardar objetos o equipaje. «Vestiaire» es el guardarropa."
       }
+    },
+    {
+      "id": "vat_068",
+      "es": "¿Podemos dejar las mochilas grandes en el área de resguardo de equipaje?",
+      "translations": {
+        "en": "Can we leave large backpacks at the bag check?",
+        "pt": "Podemos deixar as mochilas grandes no guarda-volumes?",
+        "fr": "On peut laisser les grands sacs à dos à la consigne ?",
+        "it": "Possiamo lasciare gli zaini grandi in un deposito bagagli?",
+        "de": "Können wir große Rucksäcke bei der Gepäckaufbewahrung abgeben?"
+      },
+      "image_url": ""
     },
     {
       "id": "vat_130",
@@ -273,6 +316,21 @@
         "de": "Muss ich meine Sachen bei der Gepäckaufbewahrung abgeben?"
       },
       "image_url": ""
+    },
+    {
+      "id": "vat_149",
+      "es": "Tiene que dejarlo en el depósito de equipaje.",
+      "translations": {
+        "en": "You have to leave it at the baggage storage area.",
+        "pt": "Você precisa deixá-lo no guarda-volumes.",
+        "fr": "Vous devez le laisser à la consigne.",
+        "it": "Deve lasciarlo al deposito bagagli.",
+        "de": "Sie müssen es bei der Gepäckaufbewahrung abgeben."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
     },
     {
       "id": "vat_131",
@@ -311,6 +369,21 @@
       "image_url": ""
     },
     {
+      "id": "vat_153",
+      "es": "Los casilleros funcionan con monedas.",
+      "translations": {
+        "en": "The lockers are coin-operated.",
+        "pt": "Os armários funcionam com moedas.",
+        "fr": "Les casiers fonctionnent avec des pièces.",
+        "it": "Gli armadietti funzionano a monete.",
+        "de": "Die Schließfächer funktionieren mit Münzen."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
+    },
+    {
       "id": "vat_134",
       "es": "¿Cómo funciona el sistema de casilleros?",
       "translations": {
@@ -318,7 +391,7 @@
         "pt": "Como funciona o sistema de armários?",
         "fr": "Comment fonctionne le système de casiers ?",
         "it": "Come funziona il sistema degli armadietti?",
-        "de": "Wie funktionieren die Schließfächer?"
+        "de": "Wie funktioniert das System mit den Schließfächern?"
       },
       "image_url": ""
     },
@@ -359,51 +432,6 @@
       "image_url": ""
     },
     {
-      "id": "vat_148",
-      "es": "Las mochilas pequeñas están permitidas.",
-      "translations": {
-        "en": "Small backpacks are allowed.",
-        "pt": "Mochilas pequenas são permitidas.",
-        "fr": "Les petits sacs à dos sont autorisés.",
-        "it": "Gli zaini piccoli sono consentiti.",
-        "de": "Kleine Rucksäcke sind erlaubt."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Frase del personal)"
-      }
-    },
-    {
-      "id": "vat_149",
-      "es": "Tiene que dejarlo en el depósito de equipaje.",
-      "translations": {
-        "en": "You have to leave it at the baggage storage area.",
-        "pt": "Você precisa deixá-lo no guarda-volumes.",
-        "fr": "Vous devez le laisser à la consigne.",
-        "it": "Deve lasciarlo al deposito bagagli.",
-        "de": "Sie müssen es bei der Gepäckaufbewahrung abgeben."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Frase del personal)"
-      }
-    },
-    {
-      "id": "vat_153",
-      "es": "Los casilleros funcionan con monedas.",
-      "translations": {
-        "en": "The lockers are coin-operated.",
-        "pt": "Os armários funcionam com moedas.",
-        "fr": "Les casiers fonctionnent avec des pièces.",
-        "it": "Gli armadietti funzionano a monete.",
-        "de": "Die Schließfächer funktionieren mit Münzen."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Frase del personal)"
-      }
-    },
-    {
       "id": "vat_154",
       "es": "Puede recoger sus pertenencias al terminar la visita.",
       "translations": {
@@ -429,174 +457,6 @@
         "de": "Darf man hier fotografieren? Gibt es Einschränkungen beim Fotografieren mit Blitz?"
       },
       "image_url": ""
-    },
-    {
-      "id": "vat_071",
-      "es": "¿Está permitido grabar video o solo tomar fotografías?",
-      "translations": {
-        "en": "Is recording video allowed, or only taking photos?",
-        "pt": "É permitido gravar vídeos ou só tirar fotos?",
-        "fr": "On peut filmer ou seulement prendre des photos ?",
-        "it": "È consentito registrare video o solo fare fotografie?",
-        "de": "Darf man hier filmen oder nur fotografieren?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_138",
-      "es": "¿Puedo entrar con este trípode para celular?",
-      "translations": {
-        "en": "Can I bring this phone tripod inside?",
-        "pt": "Posso entrar com este tripé para celular?",
-        "fr": "Je peux entrer avec ce trépied pour téléphone ?",
-        "it": "Posso entrare con questo treppiede per cellulare?",
-        "de": "Darf ich dieses Stativ fürs Handy mit hineinnehmen?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_139",
-      "es": "¿Puedo llevarlo guardado en mi mochila sin sacarlo?",
-      "translations": {
-        "en": "Can I keep it in my backpack without taking it out?",
-        "pt": "Posso deixá-lo dentro da mochila sem tirá-lo?",
-        "fr": "Je peux le garder dans mon sac à dos sans le sortir ?",
-        "it": "Posso tenerlo nello zaino senza tirarlo fuori?",
-        "de": "Darf ich es im Rucksack lassen, ohne es herauszunehmen?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "«Lo» puede referirse al trípode u otro objeto del que ya se habló."
-      }
-    },
-    {
-      "id": "vat_140",
-      "es": "No voy a usarlo adentro. Solo quiero llevarlo conmigo.",
-      "translations": {
-        "en": "I'm not going to use it inside. I just want to keep it with me.",
-        "pt": "Não vou usar lá dentro. Só quero levar comigo.",
-        "fr": "Je ne vais pas l'utiliser à l'intérieur. Je veux juste le garder avec moi.",
-        "it": "Non lo userò all'interno. Voglio solo portarlo con me.",
-        "de": "Ich benutze es drinnen nicht. Ich möchte es nur bei mir behalten."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_141",
-      "es": "¿Está permitido utilizar trípodes aquí?",
-      "translations": {
-        "en": "Are we allowed to use tripods here?",
-        "pt": "É permitido usar tripés aqui?",
-        "fr": "Est-ce qu'on peut utiliser un trépied ici ?",
-        "it": "È consentito usare i treppiedi qui?",
-        "de": "Darf man hier Stative benutzen?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_142",
-      "es": "¿Puedo usar un bastón para selfis?",
-      "translations": {
-        "en": "Can I use a selfie stick?",
-        "pt": "Posso usar um bastão de selfie?",
-        "fr": "Je peux utiliser une perche à selfie ?",
-        "it": "Posso usare un bastone per selfie?",
-        "de": "Darf ich einen Selfie-Stick benutzen?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "También se dice «palo para selfis»."
-      }
-    },
-    {
-      "id": "vat_143",
-      "es": "¿Puedo entrar con mi cámara aunque no la vaya a usar?",
-      "translations": {
-        "en": "Can I bring my camera inside even if I don't use it?",
-        "pt": "Posso entrar com minha câmera mesmo que não a use?",
-        "fr": "Je peux entrer avec mon appareil photo même si je ne l'utilise pas ?",
-        "it": "Posso entrare con la mia macchina fotografica anche se non la uso?",
-        "de": "Darf ich meine Kamera mit hineinnehmen, auch wenn ich sie nicht benutze?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_144",
-      "es": "¿Puedo entrar con una botella de agua?",
-      "translations": {
-        "en": "Can I bring a bottle of water inside?",
-        "pt": "Posso entrar com uma garrafa de água?",
-        "fr": "Je peux entrer avec une bouteille d'eau ?",
-        "it": "Posso entrare con una bottiglia d'acqua?",
-        "de": "Darf ich eine Flasche Wasser mit hineinnehmen?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_145",
-      "es": "¿Está permitido comer o beber dentro?",
-      "translations": {
-        "en": "Is eating or drinking allowed inside?",
-        "pt": "É permitido comer ou beber lá dentro?",
-        "fr": "Il est permis de manger ou de boire à l'intérieur ?",
-        "it": "È consentito mangiare o bere all'interno?",
-        "de": "Darf man drinnen essen oder trinken?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_150",
-      "es": "Puede llevarlo, pero no utilizarlo.",
-      "translations": {
-        "en": "You can bring it, but you can't use it.",
-        "pt": "Você pode levá-lo, mas não pode usá-lo.",
-        "fr": "Vous pouvez le garder sur vous, mais vous ne pouvez pas l'utiliser.",
-        "it": "Può portarlo con sé, ma non può usarlo.",
-        "de": "Sie dürfen es mit hineinnehmen, aber nicht benutzen."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Frase del personal)"
-      }
-    },
-    {
-      "id": "vat_146",
-      "es": "¿Puedo dejar este objeto aquí y recogerlo al salir?",
-      "translations": {
-        "en": "Can I leave this item here and pick it up on my way out?",
-        "pt": "Posso deixar este objeto aqui e pegá-lo na saída?",
-        "fr": "Je peux laisser cet objet ici et le récupérer en sortant ?",
-        "it": "Posso lasciare questo oggetto qui e ritirarlo all'uscita?",
-        "de": "Kann ich diesen Gegenstand hier abgeben und beim Rausgehen wieder abholen?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_147",
-      "es": "¿Qué puedo hacer si no está permitido entrar con este objeto?",
-      "translations": {
-        "en": "What can I do if I'm not allowed to bring this item inside?",
-        "pt": "O que posso fazer se não for permitido entrar com este objeto?",
-        "fr": "Que puis-je faire si je n'ai pas le droit d'entrer avec cet objet ?",
-        "it": "Cosa posso fare se non è consentito entrare con questo oggetto?",
-        "de": "Was kann ich tun, wenn ich diesen Gegenstand nicht mit hineinnehmen darf?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "vat_151",
-      "es": "No puede entrar con ese objeto.",
-      "translations": {
-        "en": "That item is not allowed inside.",
-        "pt": "Não é permitido entrar com esse objeto.",
-        "fr": "Cet objet n'est pas autorisé à l'intérieur.",
-        "it": "Non si può entrare con quell'oggetto.",
-        "de": "Diesen Gegenstand dürfen Sie nicht mit hineinnehmen."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Frase del personal)"
-      }
     },
     {
       "id": "vat_101",
@@ -629,6 +489,174 @@
       }
     },
     {
+      "id": "vat_071",
+      "es": "¿Está permitido grabar video o solo tomar fotografías?",
+      "translations": {
+        "en": "Is recording video allowed, or only taking photos?",
+        "pt": "É permitido gravar vídeos ou só tirar fotos?",
+        "fr": "On peut filmer ou seulement prendre des photos ?",
+        "it": "È consentito registrare video o solo fare fotografie?",
+        "de": "Darf man hier filmen oder nur fotografieren?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "vat_138",
+      "es": "¿Puedo entrar con este trípode para celular?",
+      "translations": {
+        "en": "Can I bring this phone tripod inside?",
+        "pt": "Posso entrar com este tripé para celular?",
+        "fr": "Je peux entrer avec ce trépied pour téléphone ?",
+        "it": "Posso entrare con questo treppiede per cellulare?",
+        "de": "Darf ich dieses Stativ fürs Handy mit hineinnehmen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "vat_139",
+      "es": "¿Puedo llevarlo en la mochila sin sacarlo?",
+      "translations": {
+        "en": "Can I bring it in if I leave it in my backpack?",
+        "pt": "Posso levar o objeto na mochila sem tirá-lo de lá?",
+        "fr": "Je peux l'emporter dans mon sac à dos sans le sortir ?",
+        "it": "Posso portarlo nello zaino senza tirarlo fuori?",
+        "de": "Darf ich es im Rucksack mit hineinnehmen, wenn ich es nicht herausnehme?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "«Lo» puede referirse al trípode u otro objeto del que ya se habló."
+      }
+    },
+    {
+      "id": "vat_140",
+      "es": "No voy a usarlo adentro. Solo quiero llevarlo conmigo.",
+      "translations": {
+        "en": "I'm not going to use it inside. I just want to keep it with me.",
+        "pt": "Não vou usar lá dentro. Só quero levar comigo.",
+        "fr": "Je ne vais pas l'utiliser à l'intérieur. Je veux juste le garder avec moi.",
+        "it": "Non lo userò all'interno. Voglio solo portarlo con me.",
+        "de": "Ich werde es drinnen nicht benutzen. Ich möchte es nur bei mir behalten."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "vat_150",
+      "es": "Puede llevarlo, pero no utilizarlo.",
+      "translations": {
+        "en": "You can bring it, but you can't use it.",
+        "pt": "Você pode levá-lo, mas não pode usá-lo.",
+        "fr": "Vous pouvez le garder sur vous, mais vous ne pouvez pas l'utiliser.",
+        "it": "Può portarlo con sé, ma non può usarlo.",
+        "de": "Sie dürfen es mit hineinnehmen, aber nicht benutzen."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
+    },
+    {
+      "id": "vat_141",
+      "es": "¿Está permitido utilizar trípodes aquí?",
+      "translations": {
+        "en": "Are we allowed to use tripods here?",
+        "pt": "É permitido usar tripés aqui?",
+        "fr": "Est-ce qu'on peut utiliser un trépied ici ?",
+        "it": "È consentito usare i treppiedi qui?",
+        "de": "Darf man hier Stative benutzen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "vat_142",
+      "es": "¿Puedo usar un bastón para selfis?",
+      "translations": {
+        "en": "Can I use a selfie stick?",
+        "pt": "Posso usar um bastão de selfie?",
+        "fr": "Je peux utiliser une perche à selfie ?",
+        "it": "Posso usare un bastone per selfie?",
+        "de": "Darf ich einen Selfie-Stick benutzen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "También se dice «palo para selfis»."
+      }
+    },
+    {
+      "id": "vat_143",
+      "es": "¿Puedo entrar con mi cámara aunque no la vaya a usar?",
+      "translations": {
+        "en": "Can I bring my camera inside even if I don't plan to use it?",
+        "pt": "Posso entrar com minha câmera mesmo que eu não pretenda usá-la?",
+        "fr": "Je peux entrer avec mon appareil photo même si je ne compte pas l'utiliser ?",
+        "it": "Posso entrare con la mia macchina fotografica anche se non intendo usarla?",
+        "de": "Darf ich meine Kamera mit hineinnehmen, auch wenn ich sie nicht benutzen werde?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "vat_146",
+      "es": "¿Puedo dejar este objeto aquí y recogerlo al salir?",
+      "translations": {
+        "en": "Can I leave this item here and pick it up on my way out?",
+        "pt": "Posso deixar este objeto aqui e pegá-lo na saída?",
+        "fr": "Je peux laisser cet objet ici et le récupérer en sortant ?",
+        "it": "Posso lasciare questo oggetto qui e ritirarlo all'uscita?",
+        "de": "Kann ich diesen Gegenstand hier abgeben und beim Hinausgehen wieder abholen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "vat_147",
+      "es": "¿Qué puedo hacer si no está permitido entrar con este objeto?",
+      "translations": {
+        "en": "What can I do if I'm not allowed to bring this item inside?",
+        "pt": "O que posso fazer se não for permitido entrar com este objeto?",
+        "fr": "Que puis-je faire si je n'ai pas le droit d'entrer avec cet objet ?",
+        "it": "Cosa posso fare se non è consentito entrare con questo oggetto?",
+        "de": "Was kann ich tun, wenn ich diesen Gegenstand nicht mit hineinnehmen darf?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "vat_151",
+      "es": "No puede entrar con ese objeto.",
+      "translations": {
+        "en": "That item is not allowed inside.",
+        "pt": "Não é permitido entrar com esse objeto.",
+        "fr": "Cet objet n'est pas autorisé à l'intérieur.",
+        "it": "Non si può entrare con quell'oggetto.",
+        "de": "Diesen Gegenstand dürfen Sie nicht mit hineinnehmen."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
+    },
+    {
+      "id": "vat_144",
+      "es": "¿Puedo entrar con una botella de agua?",
+      "translations": {
+        "en": "Can I bring a bottle of water inside?",
+        "pt": "Posso entrar com uma garrafa de água?",
+        "fr": "Je peux entrer avec une bouteille d'eau ?",
+        "it": "Posso entrare con una bottiglia d'acqua?",
+        "de": "Darf ich eine Flasche Wasser mit hineinnehmen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "vat_145",
+      "es": "¿Está permitido comer o beber dentro?",
+      "translations": {
+        "en": "Is eating or drinking allowed inside?",
+        "pt": "É permitido comer ou beber lá dentro?",
+        "fr": "Il est permis de manger ou de boire à l'intérieur ?",
+        "it": "È consentito mangiare o bere all'interno?",
+        "de": "Darf man drinnen essen oder trinken?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "vat_102",
       "es": "No toquen las piezas ni crucen las barreras.",
       "translations": {
@@ -651,7 +679,7 @@
         "pt": "Podemos sair e entrar de novo com o mesmo ingresso?",
         "fr": "On peut sortir et rentrer avec le même billet ?",
         "it": "Possiamo uscire e rientrare con lo stesso biglietto?",
-        "de": "Können wir rausgehen und mit demselben Ticket wieder reinkommen?"
+        "de": "Können wir hinausgehen und mit derselben Eintrittskarte wieder hineingehen?"
       },
       "image_url": ""
     },
@@ -763,19 +791,19 @@
         },
         "pt": {
           "text": "O audioguia conta a história deste quadro.",
-          "es": "La audioguía explica la historia de este cuadro."
+          "es": "La audioguía cuenta la historia de este cuadro."
         },
         "fr": {
           "text": "L'audioguide raconte l'histoire de ce tableau.",
-          "es": "La audioguía explica la historia de este cuadro."
+          "es": "La audioguía cuenta la historia de este cuadro."
         },
         "it": {
           "text": "L'audioguida racconta la storia di questo quadro.",
-          "es": "La audioguía explica la historia de este cuadro."
+          "es": "La audioguía cuenta la historia de este cuadro."
         },
         "de": {
           "text": "Der Audioguide erzählt die Geschichte dieses Gemäldes.",
-          "es": "La audioguía explica la historia de este cuadro."
+          "es": "La audioguía cuenta la historia de este cuadro."
         }
       },
       "notes": {
@@ -840,9 +868,9 @@
       "translations": {
         "en": "The audio guide device isn't working. Can you replace it?",
         "pt": "O aparelho do audioguia não funciona; podem trocar?",
-        "fr": "L'audioguide ne fonctionne pas ; pouvez-vous le remplacer ?",
+        "fr": "L'appareil de l'audioguide ne fonctionne pas ; pouvez-vous le remplacer ?",
         "it": "Il dispositivo dell'audioguida non funziona; potete cambiarlo?",
-        "de": "Das Gerät für den Audioguide funktioniert nicht. Können Sie es austauschen?"
+        "de": "Das Audioguide-Gerät funktioniert nicht. Können Sie es austauschen?"
       },
       "image_url": "",
       "notes": {
@@ -882,7 +910,7 @@
         "pt": "Mantenham o receptor ligado para ouvir as explicações.",
         "fr": "Gardez votre récepteur allumé pour entendre les explications.",
         "it": "Tenete acceso il ricevitore per ascoltare le spiegazioni.",
-        "de": "Lassen Sie den Empfänger eingeschaltet, damit Sie die Erklärungen hören können."
+        "de": "Lassen Sie den Funkempfänger eingeschaltet, damit Sie die Erklärungen hören können."
       },
       "image_url": "",
       "notes": {
@@ -905,6 +933,18 @@
       }
     },
     {
+      "id": "vat_111",
+      "es": "La visita se anuncia en español, pero la están dando en otro idioma.",
+      "translations": {
+        "en": "The tour is supposed to be in Spanish, but they're giving it in another language.",
+        "pt": "A visita é anunciada em espanhol, mas está sendo feita em outro idioma.",
+        "fr": "La visite est annoncée en espagnol, mais elle se déroule dans une autre langue.",
+        "it": "La visita è pubblicizzata in spagnolo, ma si svolge in un'altra lingua.",
+        "de": "Laut Beschreibung sollte die Führung auf Spanisch sein, aber sie findet in einer anderen Sprache statt."
+      },
+      "image_url": ""
+    },
+    {
       "id": "vat_080",
       "es": "¿Puedo preguntar al guía durante la visita o al final?",
       "translations": {
@@ -918,25 +958,25 @@
     },
     {
       "id": "vat_081",
-      "es": "¿Esta parte es obligatoria o podemos visitarla por nuestra cuenta?",
+      "es": "¿Tenemos que hacer esta parte con el grupo o podemos hacerla por nuestra cuenta?",
       "translations": {
-        "en": "Is this part required, or can we visit it on our own?",
-        "pt": "Esta parte é obrigatória ou podemos visitá-la por conta própria?",
-        "fr": "Cette partie est-elle obligatoire ou pouvons-nous l'explorer par nous-mêmes ?",
-        "it": "Questa parte è obbligatoria o possiamo visitarla per conto nostro?",
-        "de": "Müssen wir bei diesem Teil mitmachen oder können wir ihn auf eigene Faust erkunden?"
+        "en": "Do we have to do this part with the group, or can we do it on our own?",
+        "pt": "Temos que fazer esta parte com o grupo ou podemos fazê-la por conta própria?",
+        "fr": "Doit-on faire cette partie avec le groupe ou peut-on la faire par nous-mêmes ?",
+        "it": "Dobbiamo fare questa parte con il gruppo o possiamo farla per conto nostro?",
+        "de": "Müssen wir diesen Teil mit der Gruppe machen oder können wir ihn auf eigene Faust erkunden?"
       },
       "image_url": ""
     },
     {
       "id": "vat_089",
-      "es": "¿Nos puede explicar por qué esta pieza o este lugar es importante?",
+      "es": "¿Nos puede explicar por qué esta pieza es importante? / ¿Nos puede explicar por qué este lugar es importante?",
       "translations": {
-        "en": "Can you explain why this piece or this place is important?",
-        "pt": "Pode nos explicar por que esta peça ou este lugar é importante?",
-        "fr": "Pouvez-vous nous expliquer pourquoi cette pièce ou ce lieu a de l'importance ?",
-        "it": "Può spiegarci perché questo pezzo o questo luogo è importante?",
-        "de": "Können Sie uns erklären, warum dieses Stück oder dieser Ort wichtig ist?"
+        "en": "Can you explain why this piece is important? / Can you explain why this place is important?",
+        "pt": "Pode nos explicar por que esta peça é importante? / Pode nos explicar por que este lugar é importante?",
+        "fr": "Pouvez-vous nous expliquer pourquoi cette pièce a de l'importance ? / Pouvez-vous nous expliquer pourquoi ce lieu a de l'importance ?",
+        "it": "Può spiegarci perché questo pezzo è importante? / Può spiegarci perché questo luogo è importante?",
+        "de": "Können Sie uns erklären, warum dieses Ausstellungsstück wichtig ist? / Können Sie uns erklären, warum dieser Ort wichtig ist?"
       },
       "image_url": "",
       "notes": {
