@@ -1,71 +1,189 @@
 {
   "module": "Experiencias y acontecimientos",
   "level": "A2",
-  "revisado": false,
+  "revisado": true,
   "cards": [
     {
       "id": "eya_001",
-      "es": "Experiencias y acontecimientos",
+      "es": "Las experiencias y los acontecimientos",
       "translations": {
-        "en": "Experiences and events",
-        "pt": "Experiências e acontecimentos",
-        "fr": "Expériences et événements",
-        "it": "Esperienze e avvenimenti"
+        "en": "The experiences and events",
+        "pt": "As experiências e os acontecimentos",
+        "fr": "Les expériences et les événements",
+        "it": "Le esperienze e gli avvenimenti",
+        "de": "Die Erfahrungen und die Ereignisse"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I write about my experiences and the day's events in my journal.",
+          "es": "En el diario escribo sobre mis experiencias y los acontecimientos del día."
+        },
+        "fr": {
+          "text": "Dans mon journal, j'écris sur mes expériences et les événements de la journée.",
+          "es": "En el diario escribo sobre mis experiencias y los acontecimientos del día."
+        },
+        "it": {
+          "text": "Nel diario scrivo delle mie esperienze e degli avvenimenti della giornata.",
+          "es": "En el diario escribo sobre mis experiencias y los acontecimientos del día."
+        },
+        "pt": {
+          "text": "No diário, escrevo sobre minhas experiências e os acontecimentos do dia.",
+          "es": "En el diario escribo sobre mis experiencias y los acontecimientos del día."
+        },
+        "de": {
+          "text": "In meinem Tagebuch schreibe ich über meine Erfahrungen und die Ereignisse des Tages.",
+          "es": "En el diario escribo sobre mis experiencias y los acontecimientos del día."
+        }
+      }
     },
     {
       "id": "eya_002",
-      "es": "Anécdota (relato breve de algo vivido)",
+      "es": "La anécdota",
       "translations": {
-        "en": "Anecdote / Short personal story",
-        "pt": "Relato breve de uma experiência pessoal",
-        "fr": "Anecdote",
-        "it": "Aneddoto"
+        "en": "The anecdote",
+        "pt": "O relato breve",
+        "fr": "L'anecdote",
+        "it": "L'aneddoto",
+        "de": "Die Anekdote"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Relato breve de algo vivido)",
+        "en": "(Plural: The anecdotes)",
+        "fr": "(Plural: Les anecdotes)",
+        "it": "(Plural: Gli aneddoti)",
+        "pt": "(Plural: Os relatos breves) Aquí se refiere a una vivencia personal. «Anedota» también existe, pero suele sugerir una historia graciosa. (Relato breve de un hecho curioso o personal, no necesariamente un chiste)",
+        "de": "(Plural: Die Anekdoten)"
+      },
+      "examples": {
+        "en": {
+          "text": "At dinner, I told an anecdote about my first trip.",
+          "es": "Durante la cena, conté una anécdota de mi primer viaje."
+        },
+        "fr": {
+          "text": "Pendant le dîner, j'ai raconté une anecdote sur mon premier voyage.",
+          "es": "Durante la cena, conté una anécdota de mi primer viaje."
+        },
+        "it": {
+          "text": "Durante la cena ho raccontato un aneddoto sul mio primo viaggio.",
+          "es": "Durante la cena, conté una anécdota de mi primer viaje."
+        },
+        "pt": {
+          "text": "No jantar, fiz um relato breve sobre a minha primeira viagem.",
+          "es": "En la cena, hice un relato breve sobre mi primer viaje."
+        },
+        "de": {
+          "text": "Beim Abendessen habe ich eine Anekdote von meiner ersten Reise erzählt.",
+          "es": "Durante la cena, conté una anécdota de mi primer viaje."
+        }
+      }
     },
     {
       "id": "eya_003",
-      "es": "Coincidencia (dos cosas que ocurren por casualidad)",
+      "es": "La coincidencia",
       "translations": {
-        "en": "Coincidence",
-        "pt": "Coincidência",
-        "fr": "Coïncidence",
-        "it": "Coincidenza"
+        "en": "The coincidence",
+        "pt": "A coincidência",
+        "fr": "La coïncidence",
+        "it": "La coincidenza",
+        "de": "Der Zufall"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Hechos que coinciden por casualidad)",
+        "en": "(Plural: The coincidences)",
+        "fr": "(Plural: Les coïncidences)",
+        "it": "(Plural: Le coincidenze)",
+        "pt": "(Plural: As coincidências)",
+        "de": "(Plural: Die Zufälle) «Was für ein Zufall!» expresa «¡Qué coincidencia!»."
+      },
+      "examples": {
+        "en": {
+          "text": "It was a coincidence that we both bought tickets for the same day.",
+          "es": "Fue una coincidencia que los dos compráramos boletos para el mismo día."
+        },
+        "fr": {
+          "text": "C'était une coïncidence : nous avons tous les deux acheté des billets pour le même jour.",
+          "es": "Fue una coincidencia: los dos compramos boletos para el mismo día."
+        },
+        "it": {
+          "text": "È stata una coincidenza: abbiamo comprato entrambi i biglietti per lo stesso giorno.",
+          "es": "Fue una coincidencia: los dos compramos boletos para el mismo día."
+        },
+        "pt": {
+          "text": "Foi uma coincidência nós dois comprarmos ingressos para o mesmo dia.",
+          "es": "Fue una coincidencia que los dos compráramos boletos para el mismo día."
+        },
+        "de": {
+          "text": "Es war Zufall, dass wir beide Karten für denselben Tag gekauft haben.",
+          "es": "Fue una coincidencia que los dos compráramos boletos para el mismo día."
+        }
+      }
     },
     {
       "id": "eya_004",
-      "es": "Imprevisto (algo inesperado que cambia lo que haces)",
+      "es": "El imprevisto",
       "translations": {
-        "en": "Unexpected event",
-        "pt": "Imprevisto",
-        "fr": "Imprévu",
-        "it": "Imprevisto"
+        "en": "The unexpected event",
+        "pt": "O imprevisto",
+        "fr": "L'imprévu",
+        "it": "L'imprevisto",
+        "de": "Das unerwartete Ereignis"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Hecho inesperado que altera lo previsto)",
+        "en": "(Plural: The unexpected events)",
+        "fr": "(Plural: Les imprévus)",
+        "it": "(Plural: Gli imprevisti)",
+        "pt": "(Plural: Os imprevistos)",
+        "de": "(Plural: Die unerwarteten Ereignisse)"
+      },
+      "examples": {
+        "en": {
+          "text": "An unexpected event made us late for the museum.",
+          "es": "Por un imprevisto, llegamos tarde al museo."
+        },
+        "fr": {
+          "text": "À cause d'un imprévu, nous sommes arrivés en retard au musée.",
+          "es": "Por un imprevisto, llegamos tarde al museo."
+        },
+        "it": {
+          "text": "Per un imprevisto siamo arrivati tardi al museo.",
+          "es": "Por un imprevisto, llegamos tarde al museo."
+        },
+        "pt": {
+          "text": "Por causa de um imprevisto, chegamos atrasados ao museu.",
+          "es": "Por un imprevisto, llegamos tarde al museo."
+        },
+        "de": {
+          "text": "Wegen eines unerwarteten Ereignisses sind wir zu spät im Museum angekommen.",
+          "es": "Por un imprevisto, llegamos tarde al museo."
+        }
+      }
     },
     {
       "id": "eya_005",
       "es": "Ayer me pasó algo curioso.",
       "translations": {
-        "en": "Something interesting happened to me yesterday.",
+        "en": "Something unusual happened to me yesterday.",
         "pt": "Ontem aconteceu uma coisa curiosa comigo.",
-        "fr": "Il m’est arrivé quelque chose de curieux hier.",
-        "it": "Ieri mi è successa una cosa curiosa."
+        "fr": "Il m'est arrivé quelque chose de curieux hier.",
+        "it": "Ieri mi è successa una cosa curiosa.",
+        "de": "Gestern ist mir etwas Merkwürdiges passiert."
       },
       "image_url": ""
     },
     {
       "id": "eya_006",
-      "es": "Te cuento lo que me ocurrió el fin de semana.",
+      "es": "Te cuento lo que me ocurrió el fin de semana. / Le cuento a usted lo que me ocurrió el fin de semana.",
       "translations": {
         "en": "Let me tell you what happened to me over the weekend.",
         "pt": "Vou te contar o que aconteceu comigo no fim de semana.",
-        "fr": "Je te raconte ce qui m’est arrivé ce week-end.",
-        "it": "Ti racconto quello che mi è successo nel fine settimana."
+        "fr": "Je te raconte ce qui m'est arrivé ce week-end. / Je vous raconte ce qui m'est arrivé ce week-end.",
+        "it": "Ti racconto quello che mi è successo nel fine settimana. / Le racconto quello che mi è successo nel fine settimana.",
+        "de": "Ich erzähle dir, was mir am Wochenende passiert ist. / Ich erzähle Ihnen, was mir am Wochenende passiert ist."
       },
       "image_url": ""
     },
@@ -75,8 +193,9 @@
       "translations": {
         "en": "It happened while I was out with my friends.",
         "pt": "Foi durante um passeio com meus amigos.",
-        "fr": "C’était pendant une sortie avec mes amis.",
-        "it": "È successo durante un’uscita con i miei amici."
+        "fr": "C'était pendant une sortie avec mes amis.",
+        "it": "È successo durante un'uscita con i miei amici.",
+        "de": "Das ist passiert, als ich mit meinen Freunden unterwegs war."
       },
       "image_url": ""
     },
@@ -84,10 +203,11 @@
       "id": "eya_008",
       "es": "Me ocurrió hace unos días, al salir del trabajo.",
       "translations": {
-        "en": "It happened a few days ago, when I was leaving work.",
+        "en": "It happened to me a few days ago as I was leaving work.",
         "pt": "Aconteceu há alguns dias, quando eu estava saindo do trabalho.",
-        "fr": "Ça m’est arrivé il y a quelques jours, en sortant du travail.",
-        "it": "Mi è successo qualche giorno fa, mentre uscivo dal lavoro."
+        "fr": "Ça m'est arrivé il y a quelques jours, en sortant du travail.",
+        "it": "Mi è successo qualche giorno fa, mentre uscivo dal lavoro.",
+        "de": "Das ist mir vor ein paar Tagen passiert, als ich die Arbeit verließ."
       },
       "image_url": ""
     },
@@ -95,10 +215,11 @@
       "id": "eya_009",
       "es": "Todo empezó con una llamada que no esperaba.",
       "translations": {
-        "en": "It all started with a call I wasn’t expecting.",
+        "en": "It all started with a call I wasn't expecting.",
         "pt": "Tudo começou com uma ligação que eu não esperava.",
-        "fr": "Tout a commencé par un appel que je n’attendais pas.",
-        "it": "Tutto è iniziato con una telefonata che non aspettavo."
+        "fr": "Tout a commencé par un appel que je n'attendais pas.",
+        "it": "Tutto è iniziato con una telefonata che non aspettavo.",
+        "de": "Alles begann mit einem Anruf, den ich nicht erwartet hatte."
       },
       "image_url": ""
     },
@@ -107,9 +228,10 @@
       "es": "Perdí un archivo por accidente, pero pude recuperarlo.",
       "translations": {
         "en": "I accidentally lost a file, but I was able to recover it.",
-        "pt": "Perdi um arquivo sem querer, mas consegui recuperar.",
-        "fr": "J’ai perdu un fichier par erreur, mais j’ai pu le récupérer.",
-        "it": "Ho perso un file per sbaglio, ma sono riuscito a recuperarlo. / Ho perso un file per sbaglio, ma sono riuscita a recuperarlo."
+        "pt": "Perdi um arquivo sem querer, mas consegui recuperá-lo.",
+        "fr": "J'ai perdu un fichier par erreur, mais j'ai pu le récupérer.",
+        "it": "Ho perso un file per sbaglio, ma sono riuscito a recuperarlo. / Ho perso un file per sbaglio, ma sono riuscita a recuperarlo.",
+        "de": "Ich habe aus Versehen eine Datei verloren, konnte sie aber wiederherstellen."
       },
       "image_url": ""
     },
@@ -119,32 +241,42 @@
       "translations": {
         "en": "The last time I went, I found the place closed.",
         "pt": "Da última vez que fui, encontrei o lugar fechado.",
-        "fr": "La dernière fois que j’y suis allé, l’endroit était fermé. / La dernière fois que j’y suis allée, l’endroit était fermé.",
-        "it": "L’ultima volta che sono andato, ho trovato il posto chiuso. / L’ultima volta che sono andata, ho trovato il posto chiuso."
+        "fr": "La dernière fois que j'y suis allé, l'endroit était fermé. / La dernière fois que j'y suis allée, l'endroit était fermé.",
+        "it": "L'ultima volta che sono andato, ho trovato il posto chiuso. / L'ultima volta che sono andata, ho trovato il posto chiuso.",
+        "de": "Als ich das letzte Mal da war, war dort geschlossen."
       },
       "image_url": ""
     },
     {
       "id": "eya_012",
-      "es": "¿Cuándo fue la última vez que hiciste algo así?",
+      "es": "¿Cuándo fue la última vez que hiciste algo así? / ¿Cuándo fue la última vez que hizo usted algo así?",
       "translations": {
         "en": "When was the last time you did something like that?",
         "pt": "Quando foi a última vez que você fez algo assim?",
-        "fr": "C’était quand, la dernière fois que tu as fait quelque chose comme ça ?",
-        "it": "Quando è stata l’ultima volta che hai fatto qualcosa del genere?"
+        "fr": "Quand as-tu fait quelque chose comme ça pour la dernière fois ? / Quand avez-vous fait quelque chose comme ça pour la dernière fois ?",
+        "it": "Quando è stata l'ultima volta che hai fatto qualcosa del genere? / Quando è stata l'ultima volta che ha fatto qualcosa del genere?",
+        "de": "Wann hast du das letzte Mal so etwas gemacht? / Wann haben Sie das letzte Mal so etwas gemacht?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es un tratamiento cotidiano en gran parte de Brasil y no equivale necesariamente al «usted» del español."
+      }
     },
     {
       "id": "eya_013",
-      "es": "¿Alguna vez has viajado solo/a?",
+      "es": "¿Alguna vez has viajado sin compañía? / ¿Alguna vez ha viajado sin compañía?",
       "translations": {
         "en": "Have you ever traveled alone?",
-        "pt": "Você já viajou sozinho alguma vez? / Você já viajou sozinha alguma vez?",
-        "fr": "Tu as déjà voyagé seul ? / Tu as déjà voyagé seule ?",
-        "it": "Hai mai viaggiato da solo? / Hai mai viaggiato da sola?"
+        "pt": "Você já viajou sem companhia?",
+        "fr": "As-tu déjà voyagé en solo ? / Avez-vous déjà voyagé en solo ?",
+        "it": "Hai mai viaggiato da solo? / Hai mai viaggiato da sola? / Ha mai viaggiato da solo? / Ha mai viaggiato da sola?",
+        "de": "Bist du schon einmal allein verreist? / Sind Sie schon einmal allein verreist?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "it": "Las dos primeras preguntas son de trato informal; las dos últimas, de trato formal.",
+        "pt": "«Você» es un tratamiento cotidiano en gran parte de Brasil y no equivale necesariamente al «usted» del español."
+      }
     },
     {
       "id": "eya_014",
@@ -152,8 +284,9 @@
       "translations": {
         "en": "Yes, I did it once, but not recently.",
         "pt": "Sim, fiz isso uma vez, mas não recentemente.",
-        "fr": "Oui, je l’ai fait une fois, mais pas récemment.",
-        "it": "Sì, l’ho fatto una volta, ma non di recente."
+        "fr": "Oui, je l'ai fait une fois, mais pas récemment.",
+        "it": "Sì, l'ho fatto una volta, ma non di recente.",
+        "de": "Ja, das habe ich einmal gemacht, aber nicht in letzter Zeit."
       },
       "image_url": ""
     },
@@ -161,10 +294,11 @@
       "id": "eya_015",
       "es": "Nunca lo he intentado, aunque me gustaría.",
       "translations": {
-        "en": "I’ve never tried it, although I’d like to.",
+        "en": "I've never tried it, although I'd like to.",
         "pt": "Nunca tentei, embora tenha vontade.",
-        "fr": "Je n’ai jamais essayé, même si j’aimerais bien.",
-        "it": "Non ci ho mai provato, anche se mi piacerebbe."
+        "fr": "Je n'ai jamais essayé, même si j'aimerais bien le faire.",
+        "it": "Non ci ho mai provato, anche se mi piacerebbe.",
+        "de": "Ich habe es noch nie versucht, würde es aber gern einmal ausprobieren."
       },
       "image_url": ""
     },
@@ -172,10 +306,11 @@
       "id": "eya_016",
       "es": "Esta fue mi primera experiencia haciendo algo así.",
       "translations": {
-        "en": "This was my first experience doing something like that.",
-        "pt": "Esta foi minha primeira experiência fazendo algo assim.",
-        "fr": "C’était la première fois que je faisais quelque chose comme ça.",
-        "it": "È stata la mia prima esperienza con qualcosa del genere."
+        "en": "It was my first time doing something like that.",
+        "pt": "Foi a primeira vez que fiz algo assim.",
+        "fr": "C'était la première fois que je faisais quelque chose comme ça.",
+        "it": "Era la prima volta che facevo qualcosa del genere.",
+        "de": "Das war das erste Mal, dass ich so etwas gemacht habe."
       },
       "image_url": ""
     },
@@ -185,8 +320,9 @@
       "translations": {
         "en": "I tried several times before I managed to do it.",
         "pt": "Tentei várias vezes antes de conseguir.",
-        "fr": "J’ai essayé plusieurs fois avant d’y arriver.",
-        "it": "Ci ho provato diverse volte prima di riuscirci."
+        "fr": "J'ai essayé plusieurs fois avant d'y arriver.",
+        "it": "Ci ho provato diverse volte prima di riuscirci.",
+        "de": "Ich habe es mehrmals versucht, bis es geklappt hat."
       },
       "image_url": ""
     },
@@ -194,10 +330,11 @@
       "id": "eya_018",
       "es": "No recuerdo la fecha exacta, pero fue el mes pasado.",
       "translations": {
-        "en": "I don’t remember the exact date, but it was last month.",
+        "en": "I don't remember the exact date, but it was last month.",
         "pt": "Não lembro a data exata, mas foi no mês passado.",
-        "fr": "Je ne me souviens pas de la date exacte, mais c’était le mois dernier.",
-        "it": "Non ricordo la data esatta, ma è stato il mese scorso."
+        "fr": "Je ne me souviens pas de la date exacte, mais c'était le mois dernier.",
+        "it": "Non ricordo la data esatta, ma è stato il mese scorso.",
+        "de": "Ich weiß das genaue Datum nicht mehr, aber es war letzten Monat."
       },
       "image_url": ""
     },
@@ -207,8 +344,9 @@
       "translations": {
         "en": "That time, I went with someone who knew the place well.",
         "pt": "Dessa vez, fui com alguém que conhecia bem o lugar.",
-        "fr": "Cette fois-là, j’y suis allé avec quelqu’un qui connaissait bien l’endroit. / Cette fois-là, j’y suis allée avec quelqu’un qui connaissait bien l’endroit.",
-        "it": "Quella volta sono andato con qualcuno che conosceva bene il posto. / Quella volta sono andata con qualcuno che conosceva bene il posto."
+        "fr": "Cette fois-là, j'y suis allé avec quelqu'un qui connaissait bien l'endroit. / Cette fois-là, j'y suis allée avec quelqu'un qui connaissait bien l'endroit.",
+        "it": "Quella volta sono andato con qualcuno che conosceva bene il posto. / Quella volta sono andata con qualcuno che conosceva bene il posto.",
+        "de": "Damals bin ich mit jemandem hingegangen, der den Ort gut kannte."
       },
       "image_url": ""
     },
@@ -216,10 +354,11 @@
       "id": "eya_020",
       "es": "Era temprano y todavía había poca gente.",
       "translations": {
-        "en": "It was early, and there weren’t many people there yet.",
+        "en": "It was early, and there weren't many people there yet.",
         "pt": "Era cedo e ainda havia pouca gente.",
         "fr": "Il était tôt et il y avait encore peu de monde.",
-        "it": "Era presto e c’era ancora poca gente."
+        "it": "Era presto e c'era ancora poca gente.",
+        "de": "Es war früh und es waren noch nicht viele Leute da."
       },
       "image_url": ""
     },
@@ -227,10 +366,11 @@
       "id": "eya_021",
       "es": "Hacía frío, pero no estaba lloviendo.",
       "translations": {
-        "en": "It was cold, but it wasn’t raining.",
+        "en": "It was cold, but it wasn't raining.",
         "pt": "Estava frio, mas não estava chovendo.",
         "fr": "Il faisait froid, mais il ne pleuvait pas.",
-        "it": "Faceva freddo, ma non pioveva."
+        "it": "Faceva freddo, ma non pioveva.",
+        "de": "Es war kalt, aber es hat nicht geregnet."
       },
       "image_url": ""
     },
@@ -240,8 +380,9 @@
       "translations": {
         "en": "I was waiting outside when my friend arrived.",
         "pt": "Eu estava esperando do lado de fora quando meu amigo chegou.",
-        "fr": "J’attendais dehors quand mon ami est arrivé.",
-        "it": "Stavo aspettando fuori quando è arrivato il mio amico."
+        "fr": "J'attendais dehors quand mon ami est arrivé.",
+        "it": "Stavo aspettando fuori quando è arrivato il mio amico.",
+        "de": "Ich habe draußen gewartet, als mein Freund gekommen ist."
       },
       "image_url": ""
     },
@@ -251,8 +392,9 @@
       "translations": {
         "en": "I was carrying a backpack, and my hands were full.",
         "pt": "Eu estava com uma mochila e com as mãos ocupadas.",
-        "fr": "Je portais un sac à dos et j’avais les mains prises.",
-        "it": "Avevo uno zaino e le mani occupate."
+        "fr": "Je portais un sac à dos et j'avais les mains prises.",
+        "it": "Avevo uno zaino e le mani occupate.",
+        "de": "Ich hatte einen Rucksack dabei und hatte keine Hand frei."
       },
       "image_url": ""
     },
@@ -260,10 +402,11 @@
       "id": "eya_024",
       "es": "Íbamos sin prisa y no teníamos un horario fijo.",
       "translations": {
-        "en": "We weren’t in a hurry and didn’t have a fixed schedule.",
+        "en": "We weren't in a hurry and didn't have a fixed schedule.",
         "pt": "Estávamos sem pressa e não tínhamos um horário fixo.",
-        "fr": "Nous n’étions pas pressés et nous n’avions pas d’horaire fixe.",
-        "it": "Non avevamo fretta e non avevamo un orario fisso."
+        "fr": "Nous n'avions pas besoin de nous presser et nous n'avions pas d'horaire fixe.",
+        "it": "Non avevamo fretta e non avevamo un orario fisso.",
+        "de": "Wir hatten es nicht eilig und hatten keinen festen Zeitplan."
       },
       "image_url": ""
     },
@@ -273,8 +416,9 @@
       "translations": {
         "en": "The place was full, so we waited outside.",
         "pt": "O lugar estava cheio, então esperamos do lado de fora.",
-        "fr": "L’endroit était plein, alors nous avons attendu dehors.",
-        "it": "Il posto era pieno, quindi abbiamo aspettato fuori."
+        "fr": "L'endroit était plein, alors nous avons attendu dehors.",
+        "it": "Il posto era pieno, quindi abbiamo aspettato fuori.",
+        "de": "Es war voll, also haben wir draußen gewartet."
       },
       "image_url": ""
     },
@@ -285,7 +429,8 @@
         "en": "At first, everything seemed to be going well.",
         "pt": "No começo, tudo parecia estar indo bem.",
         "fr": "Au début, tout semblait bien se passer.",
-        "it": "All’inizio, tutto sembrava andare bene."
+        "it": "All'inizio, tutto sembrava andare bene.",
+        "de": "Am Anfang schien alles gut zu laufen."
       },
       "image_url": ""
     },
@@ -293,10 +438,11 @@
       "id": "eya_027",
       "es": "Primero recogimos las entradas y después buscamos nuestros asientos.",
       "translations": {
-        "en": "First we picked up the tickets, then we found our seats.",
+        "en": "First we picked up the tickets, and then we looked for our seats.",
         "pt": "Primeiro pegamos os ingressos e depois procuramos nossos lugares.",
-        "fr": "D’abord, nous avons récupéré les billets, puis nous avons cherché nos places.",
-        "it": "Prima abbiamo ritirato i biglietti e poi abbiamo cercato i nostri posti."
+        "fr": "D'abord, nous avons récupéré les billets, puis nous avons cherché nos places.",
+        "it": "Prima abbiamo ritirato i biglietti e poi abbiamo cercato i nostri posti.",
+        "de": "Zuerst haben wir die Eintrittskarten abgeholt und dann unsere Plätze gesucht."
       },
       "image_url": ""
     },
@@ -306,8 +452,9 @@
       "translations": {
         "en": "Before leaving, I checked that I had my keys.",
         "pt": "Antes de sair, conferi se estava com as chaves.",
-        "fr": "Avant de sortir, j’ai vérifié que j’avais mes clés.",
-        "it": "Prima di uscire, ho controllato di avere le chiavi."
+        "fr": "Avant de sortir, j'ai vérifié que j'avais mes clés.",
+        "it": "Prima di uscire, ho controllato di avere le chiavi.",
+        "de": "Bevor ich losging, habe ich nachgesehen, ob ich meine Schlüssel dabeihatte."
       },
       "image_url": ""
     },
@@ -317,8 +464,9 @@
       "translations": {
         "en": "While I was looking for the address, my friend called the place.",
         "pt": "Enquanto eu procurava o endereço, meu amigo ligou para o local.",
-        "fr": "Pendant que je cherchais l’adresse, mon ami a appelé l’établissement.",
-        "it": "Mentre cercavo l’indirizzo, il mio amico ha chiamato il locale."
+        "fr": "Pendant que je cherchais l'adresse, mon ami a appelé l'établissement.",
+        "it": "Mentre cercavo l'indirizzo, il mio amico ha chiamato il locale.",
+        "de": "Während ich die Adresse gesucht habe, hat mein Freund dort angerufen."
       },
       "image_url": ""
     },
@@ -329,7 +477,8 @@
         "en": "A few minutes later, we received a reply.",
         "pt": "Alguns minutos depois, recebemos uma resposta.",
         "fr": "Quelques minutes plus tard, nous avons reçu une réponse.",
-        "it": "Qualche minuto dopo abbiamo ricevuto una risposta."
+        "it": "Qualche minuto dopo abbiamo ricevuto una risposta.",
+        "de": "Ein paar Minuten später haben wir eine Antwort bekommen."
       },
       "image_url": ""
     },
@@ -339,8 +488,9 @@
       "translations": {
         "en": "Just as I was about to leave, the phone rang.",
         "pt": "Bem quando eu ia sair, o telefone tocou.",
-        "fr": "Au moment où j’allais sortir, le téléphone a sonné.",
-        "it": "Proprio mentre stavo per uscire, è squillato il telefono."
+        "fr": "Juste au moment où j'allais sortir, le téléphone a sonné.",
+        "it": "Proprio mentre stavo per uscire, è squillato il telefono.",
+        "de": "Genau als ich losgehen wollte, hat das Telefon geklingelt."
       },
       "image_url": ""
     },
@@ -351,7 +501,8 @@
         "en": "Suddenly, the lights went out.",
         "pt": "De repente, as luzes se apagaram.",
         "fr": "Tout à coup, les lumières se sont éteintes.",
-        "it": "All’improvviso si sono spente le luci."
+        "it": "All'improvviso si sono spente le luci.",
+        "de": "Plötzlich gingen die Lichter aus."
       },
       "image_url": ""
     },
@@ -359,10 +510,11 @@
       "id": "eya_033",
       "es": "Cuando llegué a casa, descubrí que el paquete no era para mí.",
       "translations": {
-        "en": "When I got home, I discovered that the package wasn’t for me.",
+        "en": "When I got home, I discovered that the package wasn't for me.",
         "pt": "Quando cheguei em casa, descobri que o pacote não era para mim.",
-        "fr": "Quand je suis rentré chez moi, j’ai découvert que le colis n’était pas pour moi. / Quand je suis rentrée chez moi, j’ai découvert que le colis n’était pas pour moi.",
-        "it": "Quando sono arrivato a casa, ho scoperto che il pacco non era per me. / Quando sono arrivata a casa, ho scoperto che il pacco non era per me."
+        "fr": "Quand je suis rentré chez moi, j'ai découvert que le colis n'était pas pour moi. / Quand je suis rentrée chez moi, j'ai découvert que le colis n'était pas pour moi.",
+        "it": "Quando sono arrivato a casa, ho scoperto che il pacco non era per me. / Quando sono arrivata a casa, ho scoperto che il pacco non era per me.",
+        "de": "Als ich nach Hause gekommen bin, habe ich gemerkt, dass das Paket nicht für mich war."
       },
       "image_url": ""
     },
@@ -373,7 +525,8 @@
         "en": "After talking to the person in charge, we were able to continue.",
         "pt": "Depois de falar com o responsável, conseguimos continuar.",
         "fr": "Après avoir parlé au responsable, nous avons pu continuer.",
-        "it": "Dopo aver parlato con il responsabile, abbiamo potuto continuare."
+        "it": "Dopo aver parlato con il responsabile, abbiamo potuto continuare.",
+        "de": "Nachdem wir mit dem Verantwortlichen gesprochen hatten, konnten wir weitermachen."
       },
       "image_url": ""
     },
@@ -384,7 +537,8 @@
         "en": "It took longer than expected, but we arrived on time.",
         "pt": "Demoramos mais do que o previsto, mas chegamos a tempo.",
         "fr": "Nous avons mis plus de temps que prévu, mais nous sommes arrivés à temps.",
-        "it": "Ci abbiamo messo più del previsto, ma siamo arrivati in tempo."
+        "it": "Ci abbiamo messo più del previsto, ma siamo arrivati in tempo.",
+        "de": "Wir haben länger gebraucht als erwartet, sind aber rechtzeitig angekommen."
       },
       "image_url": ""
     },
@@ -394,8 +548,9 @@
       "translations": {
         "en": "It all happened very fast. I barely had time to react.",
         "pt": "Tudo aconteceu muito rápido; quase não tive tempo de reagir.",
-        "fr": "Tout s’est passé très vite ; j’ai à peine eu le temps de réagir.",
-        "it": "È successo tutto molto in fretta; ho avuto appena il tempo di reagire."
+        "fr": "Tout s'est passé très vite ; j'ai à peine eu le temps de réagir.",
+        "it": "È successo tutto molto in fretta; ho avuto appena il tempo di reagire.",
+        "de": "Alles ging sehr schnell; ich hatte kaum Zeit zu reagieren."
       },
       "image_url": ""
     },
@@ -403,32 +558,38 @@
       "id": "eya_037",
       "es": "¿El problema apareció al llegar o durante la actividad?",
       "translations": {
-        "en": "Did the problem come up when you arrived or during the activity?",
+        "en": "Did the problem come up on arrival or during the activity?",
         "pt": "O problema apareceu na chegada ou durante a atividade?",
-        "fr": "Le problème est apparu à l’arrivée ou pendant l’activité ?",
-        "it": "Il problema si è presentato all’arrivo o durante l’attività?"
+        "fr": "Le problème est apparu à l'arrivée ou pendant l'activité ?",
+        "it": "Il problema si è presentato all'arrivo o durante l'attività?",
+        "de": "Ist das Problem bei der Ankunft oder während der Aktivität aufgetreten?"
       },
       "image_url": ""
     },
     {
       "id": "eya_038",
-      "es": "¿Qué estabas haciendo en ese momento?",
+      "es": "¿Qué estabas haciendo en ese momento? / ¿Qué estaba haciendo usted en ese momento?",
       "translations": {
         "en": "What were you doing at that moment?",
         "pt": "O que você estava fazendo naquele momento?",
-        "fr": "Qu’est-ce que tu faisais à ce moment-là ?",
-        "it": "Che cosa stavi facendo in quel momento?"
+        "fr": "Qu'est-ce que tu faisais à ce moment-là ? / Qu'est-ce que vous faisiez à ce moment-là ?",
+        "it": "Che cosa stavi facendo in quel momento? / Che cosa stava facendo in quel momento?",
+        "de": "Was hast du in dem Moment gemacht? / Was haben Sie in dem Moment gemacht?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es un tratamiento cotidiano en gran parte de Brasil y no equivale necesariamente al «usted» del español."
+      }
     },
     {
       "id": "eya_039",
       "es": "¿Eso ocurrió antes o después de recibir el mensaje?",
       "translations": {
-        "en": "Did that happen before or after you received the message?",
+        "en": "Did that happen before or after the message came in?",
         "pt": "Isso aconteceu antes ou depois de você receber a mensagem?",
-        "fr": "Ça s’est passé avant ou après avoir reçu le message ?",
-        "it": "È successo prima o dopo aver ricevuto il messaggio?"
+        "fr": "Ça s'est passé avant ou après avoir reçu le message ?",
+        "it": "È successo prima o dopo aver ricevuto il messaggio?",
+        "de": "Ist das vor oder nach dem Erhalt der Nachricht passiert?"
       },
       "image_url": ""
     },
@@ -439,20 +600,25 @@
         "en": "Did both things happen at the same time?",
         "pt": "As duas coisas aconteceram ao mesmo tempo?",
         "fr": "Les deux choses se sont passées en même temps ?",
-        "it": "Le due cose sono successe nello stesso momento?"
+        "it": "Le due cose sono successe nello stesso momento?",
+        "de": "Sind beide Dinge gleichzeitig passiert?"
       },
       "image_url": ""
     },
     {
       "id": "eya_041",
-      "es": "¿Cuánto tiempo pasó entre la llamada y tu llegada?",
+      "es": "¿Cuánto tiempo pasó entre la llamada y tu llegada? / ¿Cuánto tiempo pasó entre la llamada y su llegada?",
       "translations": {
         "en": "How much time passed between the call and your arrival?",
         "pt": "Quanto tempo passou entre a ligação e sua chegada?",
-        "fr": "Combien de temps s’est écoulé entre l’appel et ton arrivée ?",
-        "it": "Quanto tempo è passato tra la telefonata e il tuo arrivo?"
+        "fr": "Combien de temps s'est écoulé entre l'appel et ton arrivée ? / Combien de temps s'est écoulé entre l'appel et votre arrivée ?",
+        "it": "Quanto tempo è passato tra la telefonata e il tuo arrivo? / Quanto tempo è passato tra la telefonata e il suo arrivo?",
+        "de": "Wie viel Zeit ist zwischen dem Anruf und deiner Ankunft vergangen? / Wie viel Zeit ist zwischen dem Anruf und Ihrer Ankunft vergangen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es un tratamiento cotidiano en gran parte de Brasil y no equivale necesariamente al «usted» del español."
+      }
     },
     {
       "id": "eya_042",
@@ -460,8 +626,9 @@
       "translations": {
         "en": "We went to the wrong entrance and had to go around.",
         "pt": "Erramos a entrada e tivemos que dar a volta.",
-        "fr": "Nous nous sommes trompés d’entrée et nous avons dû faire le tour.",
-        "it": "Abbiamo sbagliato ingresso e abbiamo dovuto fare il giro."
+        "fr": "Nous nous sommes trompés d'entrée et nous avons dû faire le tour.",
+        "it": "Abbiamo sbagliato ingresso e abbiamo dovuto fare il giro.",
+        "de": "Wir waren am falschen Eingang und mussten außen herumgehen."
       },
       "image_url": ""
     },
@@ -469,10 +636,11 @@
       "id": "eya_043",
       "es": "No vi el aviso porque estaba mirando el mapa.",
       "translations": {
-        "en": "I didn’t see the notice because I was looking at the map.",
+        "en": "I didn't see the notice because I was looking at the map.",
         "pt": "Não vi o aviso porque estava olhando o mapa.",
-        "fr": "Je n’ai pas vu l’avis parce que je regardais le plan.",
-        "it": "Non ho visto l’avviso perché stavo guardando la mappa."
+        "fr": "Je n'ai pas vu l'avis parce que je regardais le plan.",
+        "it": "Non ho visto l'avviso perché stavo guardando la mappa.",
+        "de": "Ich habe den Hinweis nicht gesehen, weil ich auf den Plan geschaut habe."
       },
       "image_url": ""
     },
@@ -480,10 +648,11 @@
       "id": "eya_044",
       "es": "Me di cuenta del error cuando intenté entrar.",
       "translations": {
-        "en": "I realized the mistake when I tried to go in.",
+        "en": "I noticed the mistake when I tried to go in.",
         "pt": "Percebi o erro quando tentei entrar.",
-        "fr": "Je me suis rendu compte de l’erreur quand j’ai essayé d’entrer.",
-        "it": "Mi sono accorto dell’errore quando ho provato a entrare. / Mi sono accorta dell’errore quando ho provato a entrare."
+        "fr": "Je me suis rendu compte de l'erreur quand j'ai essayé d'entrer.",
+        "it": "Mi sono accorto dell'errore quando ho provato a entrare. / Mi sono accorta dell'errore quando ho provato a entrare.",
+        "de": "Ich habe den Fehler bemerkt, als ich versucht habe, hineinzugehen."
       },
       "image_url": ""
     },
@@ -493,8 +662,9 @@
       "translations": {
         "en": "I thought the place was nearby, but we walked for almost an hour.",
         "pt": "Achei que o lugar fosse perto, mas caminhamos quase uma hora.",
-        "fr": "Je pensais que l’endroit était proche, mais nous avons marché presque une heure.",
-        "it": "Pensavo che il posto fosse vicino, ma abbiamo camminato quasi un’ora."
+        "fr": "Je pensais que l'endroit était proche, mais nous avons marché presque une heure.",
+        "it": "Pensavo che il posto fosse vicino, ma abbiamo camminato quasi un'ora.",
+        "de": "Ich dachte, es wäre ganz in der Nähe, aber wir sind fast eine Stunde gelaufen."
       },
       "image_url": ""
     },
@@ -504,8 +674,9 @@
       "translations": {
         "en": "I forgot to charge my phone and ran out of battery halfway there.",
         "pt": "Esqueci de carregar o celular e fiquei sem bateria no meio do caminho.",
-        "fr": "J’ai oublié de charger mon téléphone et la batterie s’est déchargée à mi-chemin.",
-        "it": "Ho dimenticato di caricare il telefono e la batteria si è scaricata a metà strada."
+        "fr": "J'ai oublié de charger mon téléphone et la batterie s'est déchargée à mi-chemin.",
+        "it": "Ho dimenticato di caricare il telefono e la batteria si è scaricata a metà strada.",
+        "de": "Ich habe vergessen, mein Handy aufzuladen, und auf halbem Weg war der Akku leer."
       },
       "image_url": ""
     },
@@ -515,8 +686,9 @@
       "translations": {
         "en": "The plan changed because it started raining.",
         "pt": "O plano mudou porque começou a chover.",
-        "fr": "Le programme a changé parce qu’il s’est mis à pleuvoir.",
-        "it": "Il programma è cambiato perché ha iniziato a piovere."
+        "fr": "Le programme a changé parce qu'il s'est mis à pleuvoir.",
+        "it": "Il programma è cambiato perché ha iniziato a piovere.",
+        "de": "Der Plan hat sich geändert, weil es angefangen hat zu regnen."
       },
       "image_url": ""
     },
@@ -524,10 +696,11 @@
       "id": "eya_048",
       "es": "No sabíamos que era necesario reservar.",
       "translations": {
-        "en": "We didn’t know we needed a reservation.",
+        "en": "We didn't know we needed a reservation.",
         "pt": "Não sabíamos que era necessário reservar.",
-        "fr": "Nous ne savions pas qu’il fallait réserver.",
-        "it": "Non sapevamo che fosse necessario prenotare."
+        "fr": "Nous ne savions pas qu'il fallait réserver.",
+        "it": "Non sapevamo che fosse necessario prenotare.",
+        "de": "Wir wussten nicht, dass man reservieren musste."
       },
       "image_url": ""
     },
@@ -538,7 +711,8 @@
         "en": "There was a mix-up with the names on the reservation.",
         "pt": "Havia uma confusão com os nomes da reserva.",
         "fr": "Il y avait une confusion avec les noms de la réservation.",
-        "it": "C’era una confusione con i nomi della prenotazione."
+        "it": "C'era una confusione con i nomi della prenotazione.",
+        "de": "Bei der Reservierung gab es eine Verwechslung mit den Namen."
       },
       "image_url": ""
     },
@@ -546,21 +720,23 @@
       "id": "eya_050",
       "es": "El problema no fue la espera, sino la falta de información.",
       "translations": {
-        "en": "The problem wasn’t the wait. It was the lack of information.",
+        "en": "The problem wasn't the wait. It was the lack of information.",
         "pt": "O problema não foi a espera, mas a falta de informação.",
-        "fr": "Le problème n’était pas l’attente, mais le manque d’informations.",
-        "it": "Il problema non era l’attesa, ma la mancanza di informazioni."
+        "fr": "Le problème n'était pas l'attente, mais le manque d'informations.",
+        "it": "Il problema non era l'attesa, ma la mancanza di informazioni.",
+        "de": "Nicht das Warten war das Problem, sondern die fehlenden Informationen."
       },
       "image_url": ""
     },
     {
       "id": "eya_051",
-      "es": "Al principio me preocupé, porque no sabía qué hacer.",
+      "es": "Al principio me preocupé porque no sabía qué hacer.",
       "translations": {
-        "en": "At first I was worried because I didn’t know what to do.",
+        "en": "At first I was worried because I didn't know what to do.",
         "pt": "No começo fiquei preocupado porque não sabia o que fazer. / No começo fiquei preocupada porque não sabia o que fazer.",
         "fr": "Au début, je me suis inquiété parce que je ne savais pas quoi faire. / Au début, je me suis inquiétée parce que je ne savais pas quoi faire.",
-        "it": "All’inizio mi sono preoccupato perché non sapevo cosa fare. / All’inizio mi sono preoccupata perché non sapevo cosa fare."
+        "it": "All'inizio mi sono preoccupato perché non sapevo cosa fare. / All'inizio mi sono preoccupata perché non sapevo cosa fare.",
+        "de": "Am Anfang habe ich mir Sorgen gemacht, weil ich nicht wusste, was ich tun sollte."
       },
       "image_url": ""
     },
@@ -568,21 +744,23 @@
       "id": "eya_052",
       "es": "Me sorprendió encontrar a alguien conocido en ese lugar.",
       "translations": {
-        "en": "I was surprised to see someone I knew in that place.",
+        "en": "I was surprised to run into someone I knew there.",
         "pt": "Fiquei surpreso de encontrar alguém conhecido naquele lugar. / Fiquei surpresa de encontrar alguém conhecido naquele lugar.",
-        "fr": "J’ai été surpris de rencontrer quelqu’un que je connaissais à cet endroit. / J’ai été surprise de rencontrer quelqu’un que je connaissais à cet endroit.",
-        "it": "Mi ha sorpreso incontrare qualcuno che conoscevo in quel posto."
+        "fr": "J'ai été surpris de rencontrer quelqu'un que je connaissais à cet endroit. / J'ai été surprise de rencontrer quelqu'un que je connaissais à cet endroit.",
+        "it": "Mi ha sorpreso incontrare qualcuno che conoscevo in quel posto.",
+        "de": "Es hat mich überrascht, dort jemanden zu treffen, den ich kannte."
       },
       "image_url": ""
     },
     {
       "id": "eya_053",
-      "es": "Me sentí más tranquilo/a cuando alguien me explicó lo que pasaba.",
+      "es": "Me sentí más tranquilo cuando alguien me explicó lo que pasaba. / Me sentí más tranquila cuando alguien me explicó lo que pasaba.",
       "translations": {
         "en": "I felt calmer when someone explained what was happening.",
-        "pt": "Fiquei mais tranquilo quando alguém explicou o que estava acontecendo. / Fiquei mais tranquila quando alguém explicou o que estava acontecendo.",
-        "fr": "Je me suis senti plus calme quand quelqu’un m’a expliqué ce qui se passait. / Je me suis sentie plus calme quand quelqu’un m’a expliqué ce qui se passait.",
-        "it": "Mi sono sentito più tranquillo quando qualcuno mi ha spiegato cosa stava succedendo. / Mi sono sentita più tranquilla quando qualcuno mi ha spiegato cosa stava succedendo."
+        "pt": "Fiquei mais tranquilo quando alguém me explicou o que estava acontecendo. / Fiquei mais tranquila quando alguém me explicou o que estava acontecendo.",
+        "fr": "Je me suis senti plus calme quand quelqu'un m'a expliqué ce qui se passait. / Je me suis sentie plus calme quand quelqu'un m'a expliqué ce qui se passait.",
+        "it": "Mi sono sentito più tranquillo quando qualcuno mi ha spiegato cosa stava succedendo. / Mi sono sentita più tranquilla quando qualcuno mi ha spiegato cosa stava succedendo.",
+        "de": "Ich habe mich ruhiger gefühlt, als mir jemand erklärt hat, was los war."
       },
       "image_url": ""
     },
@@ -590,10 +768,11 @@
       "id": "eya_054",
       "es": "No salió como esperaba, pero disfruté la experiencia.",
       "translations": {
-        "en": "It didn’t turn out as I expected, but I enjoyed the experience.",
+        "en": "It didn't turn out the way I expected, but I enjoyed the experience.",
         "pt": "Não saiu como eu esperava, mas gostei da experiência.",
-        "fr": "Ça ne s’est pas passé comme je l’espérais, mais j’ai apprécié l’expérience.",
-        "it": "Non è andata come speravo, ma mi è piaciuta l’esperienza."
+        "fr": "Ça ne s'est pas passé comme je m'y attendais, mais j'ai apprécié l'expérience.",
+        "it": "Non è andata come mi aspettavo, ma mi è piaciuta l'esperienza.",
+        "de": "Es ist nicht so gelaufen, wie ich es erwartet hatte, aber mir hat die Erfahrung gefallen."
       },
       "image_url": ""
     },
@@ -603,8 +782,9 @@
       "translations": {
         "en": "It was harder than expected.",
         "pt": "Foi mais difícil do que o previsto.",
-        "fr": "C’était plus difficile que prévu.",
-        "it": "È stato più difficile del previsto."
+        "fr": "C'était plus difficile que prévu.",
+        "it": "È stato più difficile del previsto.",
+        "de": "Es war schwieriger als erwartet."
       },
       "image_url": ""
     },
@@ -614,8 +794,9 @@
       "translations": {
         "en": "I felt embarrassed to ask, but I did it in the end.",
         "pt": "Fiquei com vergonha de perguntar, mas no fim perguntei.",
-        "fr": "J’étais gêné de poser la question, mais je l’ai fait finalement. / J’étais gênée de poser la question, mais je l’ai fait finalement.",
-        "it": "Mi vergognavo a chiedere, ma alla fine l’ho fatto."
+        "fr": "J'étais gêné de poser la question, mais j'ai fini par la poser. / J'étais gênée de poser la question, mais j'ai fini par la poser.",
+        "it": "Mi vergognavo di fare la domanda, ma alla fine l'ho fatta.",
+        "de": "Es war mir peinlich, zu fragen, aber am Ende habe ich es gemacht."
       },
       "image_url": ""
     },
@@ -625,8 +806,9 @@
       "translations": {
         "en": "When it was over, I felt relieved.",
         "pt": "Quando terminou, senti alívio.",
-        "fr": "Quand c’était fini, j’ai ressenti du soulagement.",
-        "it": "Quando è finito, mi sono sentito sollevato. / Quando è finito, mi sono sentita sollevata."
+        "fr": "Quand c'était fini, j'ai ressenti du soulagement.",
+        "it": "Quando è finito, mi sono sentito sollevato. / Quando è finito, mi sono sentita sollevata.",
+        "de": "Als es vorbei war, war ich erleichtert."
       },
       "image_url": ""
     },
@@ -636,8 +818,9 @@
       "translations": {
         "en": "The funniest moment was when we all realized the mistake.",
         "pt": "O momento mais divertido foi quando todos percebemos o erro.",
-        "fr": "Le moment le plus drôle, c’était quand nous nous sommes tous rendu compte de l’erreur.",
-        "it": "Il momento più divertente è stato quando ci siamo tutti accorti dell’errore."
+        "fr": "Le moment le plus drôle, c'était quand nous nous sommes tous rendu compte de l'erreur.",
+        "it": "Il momento più divertente è stato quando ci siamo tutti accorti dell'errore.",
+        "de": "Am lustigsten war es, als wir alle den Fehler bemerkt haben."
       },
       "image_url": ""
     },
@@ -645,10 +828,11 @@
       "id": "eya_059",
       "es": "Ahora me río de lo que pasó, pero en ese momento no fue divertido.",
       "translations": {
-        "en": "Now I laugh about what happened, but it wasn’t funny at the time.",
+        "en": "Now I laugh about what happened, but it wasn't funny at the time.",
         "pt": "Agora dou risada do que aconteceu, mas na hora não foi engraçado.",
-        "fr": "Maintenant, j’en ris, mais sur le moment, ce n’était pas drôle.",
-        "it": "Adesso rido di quello che è successo, ma in quel momento non era divertente."
+        "fr": "Maintenant, j'en ris, mais sur le moment, ce n'était pas drôle.",
+        "it": "Adesso rido di quello che è successo, ma in quel momento non era divertente.",
+        "de": "Jetzt lache ich darüber, aber in dem Moment war es nicht lustig."
       },
       "image_url": ""
     },
@@ -658,8 +842,9 @@
       "translations": {
         "en": "We decided to change locations instead of canceling the whole outing.",
         "pt": "Decidimos mudar de lugar em vez de cancelar o passeio inteiro.",
-        "fr": "Nous avons décidé de changer d’endroit au lieu d’annuler toute la sortie.",
-        "it": "Abbiamo deciso di cambiare posto invece di annullare tutta l’uscita."
+        "fr": "Nous avons décidé de changer d'endroit au lieu d'annuler toute la sortie.",
+        "it": "Abbiamo deciso di cambiare posto invece di annullare tutta l'uscita.",
+        "de": "Wir haben uns entschieden, woandershin zu gehen, statt den ganzen Ausflug abzusagen."
       },
       "image_url": ""
     },
@@ -669,8 +854,9 @@
       "translations": {
         "en": "I asked someone who worked there for help.",
         "pt": "Pedi ajuda a uma pessoa que trabalhava lá.",
-        "fr": "J’ai demandé de l’aide à une personne qui travaillait là.",
-        "it": "Ho chiesto aiuto a una persona che lavorava lì."
+        "fr": "J'ai demandé de l'aide à une personne qui travaillait là.",
+        "it": "Ho chiesto aiuto a una persona che lavorava lì.",
+        "de": "Ich habe eine Person um Hilfe gebeten, die dort gearbeitet hat."
       },
       "image_url": ""
     },
@@ -680,8 +866,9 @@
       "translations": {
         "en": "I showed the confirmation on my phone, and they were able to find the reservation.",
         "pt": "Mostrei a confirmação no celular e conseguiram encontrar a reserva.",
-        "fr": "J’ai montré la confirmation sur mon téléphone et ils ont retrouvé la réservation.",
-        "it": "Ho mostrato la conferma sul telefono e hanno trovato la prenotazione."
+        "fr": "J'ai montré la confirmation sur mon téléphone et ils ont retrouvé la réservation.",
+        "it": "Ho mostrato la conferma sul telefono e hanno trovato la prenotazione.",
+        "de": "Ich habe die Bestätigung auf meinem Handy gezeigt. So konnten sie die Reservierung finden."
       },
       "image_url": ""
     },
@@ -689,10 +876,11 @@
       "id": "eya_063",
       "es": "Como no podíamos entrar, buscamos otra actividad cerca.",
       "translations": {
-        "en": "Since we couldn’t go in, we looked for another activity nearby.",
+        "en": "Since we couldn't go in, we looked for another activity nearby.",
         "pt": "Como não podíamos entrar, procuramos outra atividade por perto.",
         "fr": "Comme nous ne pouvions pas entrer, nous avons cherché une autre activité à proximité.",
-        "it": "Dato che non potevamo entrare, abbiamo cercato un’altra attività nelle vicinanze."
+        "it": "Dato che non potevamo entrare, abbiamo cercato un'altra attività nelle vicinanze.",
+        "de": "Weil wir nicht hineinkonnten, haben wir in der Nähe nach einer anderen Aktivität gesucht."
       },
       "image_url": ""
     },
@@ -703,7 +891,8 @@
         "en": "We waited a little longer and then tried again.",
         "pt": "Esperamos um pouco mais e depois tentamos de novo.",
         "fr": "Nous avons attendu un peu plus, puis nous avons réessayé.",
-        "it": "Abbiamo aspettato ancora un po’ e poi abbiamo riprovato."
+        "it": "Abbiamo aspettato ancora un po' e poi abbiamo riprovato.",
+        "de": "Wir haben noch ein bisschen gewartet und es dann noch einmal versucht."
       },
       "image_url": ""
     },
@@ -714,7 +903,8 @@
         "en": "A friend explained a simple solution to us.",
         "pt": "Um amigo nos explicou uma solução simples.",
         "fr": "Un ami nous a expliqué une solution simple.",
-        "it": "Un amico ci ha spiegato una soluzione semplice."
+        "it": "Un amico ci ha spiegato una soluzione semplice.",
+        "de": "Ein Freund hat uns erklärt, wie wir das Problem einfach lösen konnten."
       },
       "image_url": ""
     },
@@ -724,8 +914,9 @@
       "translations": {
         "en": "We had to start again, but it went well the second time.",
         "pt": "Tivemos que começar de novo, mas na segunda vez deu certo.",
-        "fr": "Nous avons dû recommencer, mais la deuxième fois, ça s’est bien passé.",
-        "it": "Abbiamo dovuto ricominciare, ma la seconda volta è andata bene."
+        "fr": "Nous avons dû recommencer, mais la deuxième fois, ça s'est bien passé.",
+        "it": "Abbiamo dovuto ricominciare, ma la seconda volta è andata bene.",
+        "de": "Wir mussten noch einmal anfangen, aber beim zweiten Mal hat es geklappt."
       },
       "image_url": ""
     },
@@ -734,44 +925,63 @@
       "es": "Busqué las llaves por toda la casa y al final las encontré en mi bolsillo.",
       "translations": {
         "en": "I looked for my keys all over the house and finally found them in my pocket.",
-        "pt": "Procurei as chaves pela casa toda e no fim encontrei no meu bolso.",
-        "fr": "J’ai cherché mes clés dans toute la maison et je les ai finalement trouvées dans ma poche.",
-        "it": "Ho cercato le chiavi per tutta la casa e alla fine le ho trovate in tasca."
+        "pt": "Procurei as chaves pela casa toda e acabei encontrando no meu bolso.",
+        "fr": "J'ai cherché mes clés dans toute la maison et je les ai finalement trouvées dans ma poche.",
+        "it": "Ho cercato le chiavi per tutta la casa e alla fine le ho trovate in tasca.",
+        "de": "Ich habe im ganzen Haus nach den Schlüsseln gesucht und sie schließlich in meiner Hosentasche gefunden."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Hosentasche» es el bolsillo del pantalón; «Tasche» sin contexto también puede ser una bolsa."
+      }
     },
     {
       "id": "eya_068",
-      "es": "¿Lo resolviste por tu cuenta o alguien te ayudó?",
+      "es": "¿Lo resolviste por tu cuenta o alguien te ayudó? / ¿Lo resolvió usted por su cuenta o alguien le ayudó?",
       "translations": {
         "en": "Did you solve it on your own, or did someone help you?",
-        "pt": "Você resolveu sozinho ou alguém ajudou? / Você resolveu sozinha ou alguém ajudou?",
-        "fr": "Tu l’as résolu seul ou quelqu’un t’a aidé ? / Tu l’as résolu seule ou quelqu’un t’a aidée ?",
-        "it": "Hai risolto da solo o qualcuno ti ha aiutato? / Hai risolto da sola o qualcuno ti ha aiutato?"
+        "pt": "Você resolveu por conta própria ou alguém te ajudou?",
+        "fr": "Tu as résolu le problème sans aide ou quelqu'un t'a aidé ? / Tu as résolu le problème sans aide ou quelqu'un t'a aidée ? / Vous avez résolu le problème sans aide ou quelqu'un vous a aidé ? / Vous avez résolu le problème sans aide ou quelqu'un vous a aidée ?",
+        "it": "Hai risolto il problema senza aiuto o qualcuno ti ha dato una mano? / Ha risolto il problema senza aiuto o qualcuno le ha dato una mano?",
+        "de": "Hast du das allein gelöst oder hat dir jemand geholfen? / Haben Sie das allein gelöst oder hat Ihnen jemand geholfen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "«Aidé» y «aidée» concuerdan con la persona a quien ayudaron; «vous» se usa aquí para el trato formal singular.",
+        "pt": "«Você» es un tratamiento cotidiano en gran parte de Brasil y no equivale necesariamente al «usted» del español."
+      }
     },
     {
       "id": "eya_069",
-      "es": "¿Pudiste continuar con la actividad?",
+      "es": "¿Pudiste continuar con la actividad? / ¿Pudo usted continuar con la actividad?",
       "translations": {
         "en": "Were you able to continue with the activity?",
         "pt": "Você conseguiu continuar a atividade?",
-        "fr": "Tu as pu continuer l’activité ?",
-        "it": "Hai potuto continuare l’attività?"
+        "fr": "Tu as pu continuer l'activité ? / Vous avez pu continuer l'activité ?",
+        "it": "Hai potuto continuare l'attività? / Ha potuto continuare l'attività?",
+        "de": "Konntest du mit der Aktivität weitermachen? / Konnten Sie mit der Aktivität weitermachen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es un tratamiento cotidiano en gran parte de Brasil y no equivale necesariamente al «usted» del español."
+      }
     },
     {
       "id": "eya_070",
-      "es": "¿Qué hicieron para evitar que el problema se repitiera? (a un grupo)",
+      "es": "¿Qué hicieron para evitar que el problema se repitiera?",
       "translations": {
         "en": "What did you do to keep the problem from happening again?",
         "pt": "O que vocês fizeram para evitar que o problema se repetisse?",
-        "fr": "Qu’avez-vous fait pour éviter que le problème se reproduise ?",
-        "it": "Che cosa avete fatto per evitare che il problema si ripetesse?"
+        "fr": "Qu'est-ce que vous avez fait pour éviter que le problème se reproduise ?",
+        "it": "Che cosa avete fatto per evitare che il problema si ripetesse?",
+        "de": "Was habt ihr getan, damit das Problem nicht noch einmal auftritt? / Was haben Sie getan, damit das Problem nicht noch einmal auftritt?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Pregunta dirigida a un grupo)",
+        "fr": "Aquí «vous» se refiere a un grupo.",
+        "de": "«Ihr» es el trato informal plural; «Sie» es el trato formal también para un grupo."
+      }
     },
     {
       "id": "eya_071",
@@ -780,7 +990,8 @@
         "en": "Which part was the hardest to resolve?",
         "pt": "Qual foi a parte mais complicada de resolver?",
         "fr": "Quelle partie a été la plus difficile à résoudre ?",
-        "it": "Qual è stata la parte più difficile da risolvere?"
+        "it": "Qual è stata la parte più difficile da risolvere?",
+        "de": "Was war am schwierigsten zu lösen?"
       },
       "image_url": ""
     },
@@ -788,10 +999,11 @@
       "id": "eya_072",
       "es": "Al final, pudimos hacer casi todo lo que teníamos previsto.",
       "translations": {
-        "en": "In the end, we were able to do almost everything we’d planned.",
+        "en": "In the end, we were able to do almost everything we'd planned.",
         "pt": "No fim, conseguimos fazer quase tudo que estava previsto.",
         "fr": "Finalement, nous avons pu faire presque tout ce qui était prévu.",
-        "it": "Alla fine abbiamo potuto fare quasi tutto quello che era previsto."
+        "it": "Alla fine abbiamo potuto fare quasi tutto quello che era previsto.",
+        "de": "Am Ende konnten wir fast alles machen, was wir geplant hatten."
       },
       "image_url": ""
     },
@@ -802,7 +1014,8 @@
         "en": "We missed the beginning, but we saw the rest of the show.",
         "pt": "Perdemos o começo, mas vimos o restante do espetáculo.",
         "fr": "Nous avons manqué le début, mais nous avons vu le reste du spectacle.",
-        "it": "Ci siamo persi l’inizio, ma abbiamo visto il resto dello spettacolo."
+        "it": "Ci siamo persi l'inizio, ma abbiamo visto il resto dello spettacolo.",
+        "de": "Wir haben den Anfang verpasst, aber den Rest der Show gesehen."
       },
       "image_url": ""
     },
@@ -813,7 +1026,8 @@
         "en": "We arrived tired, but happy with the outing.",
         "pt": "Chegamos cansados, mas felizes com o passeio.",
         "fr": "Nous sommes arrivés fatigués, mais contents de la sortie.",
-        "it": "Siamo arrivati stanchi, ma contenti dell’uscita."
+        "it": "Siamo arrivati stanchi, ma contenti dell'uscita.",
+        "de": "Wir sind müde, aber zufrieden mit dem Ausflug angekommen."
       },
       "image_url": ""
     },
@@ -823,8 +1037,9 @@
       "translations": {
         "en": "The wait was long, but the visit was worth it.",
         "pt": "A espera foi longa, mas a visita valeu a pena.",
-        "fr": "L’attente a été longue, mais la visite en valait la peine.",
-        "it": "L’attesa è stata lunga, ma la visita ne è valsa la pena."
+        "fr": "L'attente a été longue, mais la visite en valait la peine.",
+        "it": "L'attesa è stata lunga, ma la visita ne è valsa la pena.",
+        "de": "Wir mussten lange warten, aber der Besuch hat sich gelohnt."
       },
       "image_url": ""
     },
@@ -834,8 +1049,9 @@
       "translations": {
         "en": "We spent less than expected because we changed activities.",
         "pt": "Gastamos menos do que o previsto porque mudamos de atividade.",
-        "fr": "Nous avons dépensé moins que prévu parce que nous avons changé d’activité.",
-        "it": "Abbiamo speso meno del previsto perché abbiamo cambiato attività."
+        "fr": "Nous avons dépensé moins que prévu parce que nous avons changé d'activité.",
+        "it": "Abbiamo speso meno del previsto perché abbiamo cambiato attività.",
+        "de": "Wir haben weniger ausgegeben als gedacht, weil wir uns für eine andere Aktivität entschieden haben."
       },
       "image_url": ""
     },
@@ -843,10 +1059,11 @@
       "id": "eya_077",
       "es": "La experiencia me ayudó a perder el miedo a intentarlo.",
       "translations": {
-        "en": "The experience helped me feel less afraid to try it.",
+        "en": "The experience helped me get over my fear of trying it.",
         "pt": "A experiência me ajudou a perder o medo de tentar.",
-        "fr": "Cette expérience m’a aidé à avoir moins peur d’essayer. / Cette expérience m’a aidée à avoir moins peur d’essayer.",
-        "it": "L’esperienza mi ha aiutato a superare la paura di provarci."
+        "fr": "Cette expérience m'a aidé à surmonter ma peur d'essayer. / Cette expérience m'a aidée à surmonter ma peur d'essayer.",
+        "it": "L'esperienza mi ha aiutato a superare la paura di provarci.",
+        "de": "Die Erfahrung hat mir geholfen, meine Angst vor dem Ausprobieren zu überwinden."
       },
       "image_url": ""
     },
@@ -854,10 +1071,11 @@
       "id": "eya_078",
       "es": "Aprendí que conviene revisar los detalles antes de salir.",
       "translations": {
-        "en": "I learned that it’s best to check the details before leaving.",
+        "en": "I learned that it's best to check the details before leaving.",
         "pt": "Aprendi que é melhor conferir os detalhes antes de sair.",
-        "fr": "J’ai appris qu’il vaut mieux vérifier les détails avant de partir.",
-        "it": "Ho imparato che conviene controllare i dettagli prima di uscire."
+        "fr": "J'ai appris qu'il vaut mieux vérifier les détails avant de partir.",
+        "it": "Ho imparato che conviene controllare i dettagli prima di uscire.",
+        "de": "Ich habe gelernt, dass man die Details besser prüft, bevor man losgeht."
       },
       "image_url": ""
     },
@@ -865,10 +1083,11 @@
       "id": "eya_079",
       "es": "Después de eso, guardé la confirmación para tenerla a mano.",
       "translations": {
-        "en": "After that, I saved the confirmation so I could have it handy.",
-        "pt": "Depois disso, salvei a confirmação para ter à mão.",
-        "fr": "Après ça, j’ai gardé la confirmation pour l’avoir sous la main.",
-        "it": "Dopo, ho salvato la conferma per averla a portata di mano."
+        "en": "After that, I saved the confirmation so I could keep it handy.",
+        "pt": "Depois disso, salvei a confirmação para tê-la à mão.",
+        "fr": "Après ça, j'ai gardé la confirmation pour l'avoir sous la main.",
+        "it": "Dopo, ho salvato la conferma per averla a portata di mano.",
+        "de": "Danach habe ich die Bestätigung gespeichert, um sie griffbereit zu haben."
       },
       "image_url": ""
     },
@@ -876,10 +1095,11 @@
       "id": "eya_080",
       "es": "Fue una buena experiencia, aunque hubo algunos imprevistos.",
       "translations": {
-        "en": "It was a good experience, even though a few things came up.",
+        "en": "It was a good experience, even though a few unexpected things happened.",
         "pt": "Foi uma boa experiência, embora tenha havido alguns imprevistos.",
-        "fr": "C’était une bonne expérience, même s’il y a eu quelques imprévus.",
-        "it": "È stata una bella esperienza, anche se ci sono stati alcuni imprevisti."
+        "fr": "C'était une bonne expérience, même s'il y a eu quelques imprévus.",
+        "it": "È stata una bella esperienza, anche se ci sono stati alcuni imprevisti.",
+        "de": "Es war eine gute Erfahrung, auch wenn es ein paar unerwartete Probleme gab."
       },
       "image_url": ""
     },
@@ -889,32 +1109,41 @@
       "translations": {
         "en": "I went to return a product and ended up exchanging it for another one.",
         "pt": "Fui devolver um produto e acabei trocando por outro.",
-        "fr": "Je suis allé rendre un produit et j’ai finalement choisi de l’échanger contre un autre. / Je suis allée rendre un produit et j’ai finalement choisi de l’échanger contre un autre.",
-        "it": "Sono andato a restituire un prodotto e alla fine l’ho cambiato con un altro. / Sono andata a restituire un prodotto e alla fine l’ho cambiato con un altro."
+        "fr": "Je suis allé rendre un produit et j'ai fini par l'échanger contre un autre. / Je suis allée rendre un produit et j'ai fini par l'échanger contre un autre.",
+        "it": "Sono andato a restituire un prodotto e alla fine l'ho cambiato con un altro. / Sono andata a restituire un prodotto e alla fine l'ho cambiato con un altro.",
+        "de": "Ich bin hingegangen, um einen Artikel zurückzugeben, und habe ihn am Ende gegen einen anderen umgetauscht."
       },
       "image_url": ""
     },
     {
       "id": "eya_082",
-      "es": "¿El resultado fue el que esperabas?",
+      "es": "¿El resultado fue el que esperabas? / ¿El resultado fue el que esperaba usted?",
       "translations": {
         "en": "Was the result what you expected?",
         "pt": "O resultado foi o que você esperava?",
-        "fr": "Le résultat était celui que tu attendais ?",
-        "it": "Il risultato è stato quello che ti aspettavi?"
+        "fr": "Le résultat était-il celui que tu attendais ? / Le résultat était-il celui que vous attendiez ?",
+        "it": "Il risultato è stato quello che ti aspettavi? / Il risultato è stato quello che si aspettava?",
+        "de": "War das Ergebnis so, wie du es erwartet hast? / War das Ergebnis so, wie Sie es erwartet haben?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es un tratamiento cotidiano en gran parte de Brasil y no equivale necesariamente al «usted» del español."
+      }
     },
     {
       "id": "eya_083",
-      "es": "¿Qué aprendiste de esa experiencia?",
+      "es": "¿Qué aprendiste de esa experiencia? / ¿Qué aprendió usted de esa experiencia?",
       "translations": {
         "en": "What did you learn from that experience?",
         "pt": "O que você aprendeu com essa experiência?",
-        "fr": "Qu’est-ce que tu as appris de cette expérience ?",
-        "it": "Che cosa hai imparato da quell’esperienza?"
+        "fr": "Qu'est-ce que tu as appris de cette expérience ? / Qu'est-ce que vous avez appris de cette expérience ?",
+        "it": "Che cosa hai imparato da quell'esperienza? / Che cosa ha imparato da quell'esperienza?",
+        "de": "Was hast du aus dieser Erfahrung gelernt? / Was haben Sie aus dieser Erfahrung gelernt?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es un tratamiento cotidiano en gran parte de Brasil y no equivale necesariamente al «usted» del español."
+      }
     },
     {
       "id": "eya_084",
@@ -923,7 +1152,8 @@
         "en": "Were there any consequences afterward?",
         "pt": "Houve alguma consequência depois?",
         "fr": "Il y a eu des conséquences ensuite ?",
-        "it": "Ci sono state conseguenze dopo?"
+        "it": "Ci sono state conseguenze dopo?",
+        "de": "Hatte das danach noch Folgen?"
       },
       "image_url": ""
     },
@@ -933,30 +1163,36 @@
       "translations": {
         "en": "Was it completely resolved, or was something left to do?",
         "pt": "Foi resolvido completamente ou ficou algo pendente?",
-        "fr": "Le problème a été complètement résolu ou il reste quelque chose à faire ?",
-        "it": "Si è risolto completamente o è rimasto qualcosa in sospeso?"
+        "fr": "Est-ce que le problème a été complètement résolu ou est-ce qu'il restait quelque chose à faire ?",
+        "it": "Si è risolto completamente o è rimasto qualcosa in sospeso?",
+        "de": "Wurde das Problem ganz gelöst oder blieb noch etwas offen?"
       },
       "image_url": ""
     },
     {
       "id": "eya_086",
-      "es": "¿Volviste a intentarlo después?",
+      "es": "¿Volviste a intentarlo después? / ¿Volvió usted a intentarlo después?",
       "translations": {
         "en": "Did you try again afterward?",
         "pt": "Você tentou de novo depois?",
-        "fr": "Tu as réessayé après ?",
-        "it": "Ci hai riprovato dopo?"
+        "fr": "Tu as réessayé après ? / Vous avez réessayé après ?",
+        "it": "Ci hai riprovato dopo? / Ci ha riprovato dopo?",
+        "de": "Hast du es danach noch einmal versucht? / Haben Sie es danach noch einmal versucht?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "«Você» es un tratamiento cotidiano en gran parte de Brasil y no equivale necesariamente al «usted» del español."
+      }
     },
     {
       "id": "eya_087",
       "es": "No sé por qué ocurrió; solo puedo contar lo que vi.",
       "translations": {
-        "en": "I don’t know why it happened. I can only tell you what I saw.",
+        "en": "I don't know why it happened. I can only tell you what I saw.",
         "pt": "Não sei por que aconteceu; só posso contar o que vi.",
-        "fr": "Je ne sais pas pourquoi c’est arrivé ; je peux seulement raconter ce que j’ai vu.",
-        "it": "Non so perché è successo; posso solo raccontare quello che ho visto."
+        "fr": "Je ne sais pas pourquoi c'est arrivé ; je peux seulement raconter ce que j'ai vu.",
+        "it": "Non so perché è successo; posso solo raccontare quello che ho visto.",
+        "de": "Ich weiß nicht, warum es passiert ist; ich kann nur erzählen, was ich gesehen habe."
       },
       "image_url": ""
     },
@@ -964,10 +1200,11 @@
       "id": "eya_088",
       "es": "Yo estaba presente, pero no vi el comienzo.",
       "translations": {
-        "en": "I was there, but I didn’t see the beginning.",
+        "en": "I was there, but I didn't see the beginning.",
         "pt": "Eu estava presente, mas não vi o começo.",
-        "fr": "J’étais là, mais je n’ai pas vu le début.",
-        "it": "Ero presente, ma non ho visto l’inizio."
+        "fr": "J'étais là, mais je n'ai pas vu le début.",
+        "it": "Ero presente, ma non ho visto l'inizio.",
+        "de": "Ich war dabei, habe aber den Anfang nicht gesehen."
       },
       "image_url": ""
     },
@@ -975,10 +1212,11 @@
       "id": "eya_089",
       "es": "Eso me lo contó otra persona; no me pasó a mí.",
       "translations": {
-        "en": "Someone else told me about that. It didn’t happen to me.",
+        "en": "Someone else told me about that. It didn't happen to me.",
         "pt": "Outra pessoa me contou isso; não aconteceu comigo.",
-        "fr": "C’est une autre personne qui me l’a raconté ; ça ne m’est pas arrivé à moi.",
-        "it": "Me l’ha raccontato un’altra persona; non è successo a me."
+        "fr": "C'est une autre personne qui me l'a raconté ; ça ne m'est pas arrivé à moi.",
+        "it": "Me l'ha raccontato un'altra persona; non è successo a me.",
+        "de": "Das hat mir jemand anderes erzählt; mir selbst ist das nicht passiert."
       },
       "image_url": ""
     },
@@ -986,10 +1224,11 @@
       "id": "eya_090",
       "es": "No recuerdo cada detalle, pero sí cómo terminó.",
       "translations": {
-        "en": "I don’t remember every detail, but I do remember how it ended.",
+        "en": "I don't remember every detail, but I do remember how it ended.",
         "pt": "Não lembro cada detalhe, mas lembro como terminou.",
-        "fr": "Je ne me souviens pas de chaque détail, mais je me souviens de la fin.",
-        "it": "Non ricordo ogni dettaglio, ma ricordo come è finito."
+        "fr": "Je ne me souviens pas de chaque détail, mais je me rappelle comment ça s'est terminé.",
+        "it": "Non ricordo ogni dettaglio, ma ricordo come è finito.",
+        "de": "Ich erinnere mich nicht an jedes Detail, aber ich weiß noch, wie es ausgegangen ist."
       },
       "image_url": ""
     },
@@ -997,10 +1236,11 @@
       "id": "eya_091",
       "es": "Para resumir: hubo un problema, buscamos ayuda y pudimos continuar.",
       "translations": {
-        "en": "To sum up: there was a problem, we got help, and we were able to continue.",
+        "en": "To sum up: there was a problem, we looked for help, and we were able to continue.",
         "pt": "Resumindo: houve um problema, buscamos ajuda e conseguimos continuar.",
-        "fr": "Pour résumer : il y a eu un problème, nous avons demandé de l’aide et nous avons pu continuer.",
-        "it": "Per riassumere: c’è stato un problema, abbiamo cercato aiuto e abbiamo potuto continuare."
+        "fr": "Pour résumer : il y a eu un problème, nous avons cherché de l'aide et nous avons pu continuer.",
+        "it": "Per riassumere: c'è stato un problema, abbiamo cercato aiuto e abbiamo potuto continuare.",
+        "de": "Kurz gesagt: Es gab ein Problem, wir haben Hilfe gesucht und konnten weitermachen."
       },
       "image_url": ""
     }
