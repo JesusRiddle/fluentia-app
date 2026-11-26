@@ -1,7 +1,7 @@
 {
   "module": "Compras, cambios y devoluciones",
   "level": "A2",
-  "revisado": false,
+  "revisado": true,
   "cards": [
     {
       "id": "ccd_001",
@@ -10,9 +10,32 @@
         "en": "Shopping, exchanges, and returns",
         "pt": "Compras, trocas e devoluções",
         "fr": "Achats, échanges et retours",
-        "it": "Acquisti, cambi e resi"
+        "it": "Acquisti, cambi e resi",
+        "de": "Einkaufen, Umtausch und Rückgabe"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "This section has information on shopping, exchanges, and returns.",
+          "es": "En esta sección hay información sobre compras, cambios y devoluciones."
+        },
+        "pt": {
+          "text": "Nesta seção há informações sobre compras, trocas e devoluções.",
+          "es": "En esta sección hay información sobre compras, cambios y devoluciones."
+        },
+        "fr": {
+          "text": "Cette rubrique contient des informations sur les achats, les échanges et les retours.",
+          "es": "En esta sección hay información sobre compras, cambios y devoluciones."
+        },
+        "it": {
+          "text": "In questa sezione trovi informazioni su acquisti, cambi e resi.",
+          "es": "En esta sección hay información sobre compras, cambios y devoluciones."
+        },
+        "de": {
+          "text": "In diesem Abschnitt finden Sie Informationen zum Einkaufen, zum Umtausch und zur Rückgabe.",
+          "es": "En esta sección hay información sobre compras, cambios y devoluciones."
+        }
+      }
     },
     {
       "id": "ccd_002",
@@ -21,9 +44,32 @@
         "en": "The product features",
         "pt": "As características do produto",
         "fr": "Les caractéristiques du produit",
-        "it": "Le caratteristiche del prodotto"
+        "it": "Le caratteristiche del prodotto",
+        "de": "Die Produkteigenschaften"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I checked the product features before ordering the blender.",
+          "es": "Antes de pedir la licuadora, revisé las características del producto."
+        },
+        "pt": {
+          "text": "Conferi as características do produto antes de pedir o liquidificador.",
+          "es": "Antes de pedir la licuadora, revisé las características del producto."
+        },
+        "fr": {
+          "text": "J'ai vérifié les caractéristiques du produit avant de commander le mixeur.",
+          "es": "Antes de pedir la licuadora, revisé las características del producto."
+        },
+        "it": {
+          "text": "Ho controllato le caratteristiche del prodotto prima di ordinare il frullatore.",
+          "es": "Antes de pedir la licuadora, revisé las características del producto."
+        },
+        "de": {
+          "text": "Vor der Bestellung des Mixers habe ich mir die Produkteigenschaften angesehen.",
+          "es": "Antes de pedir la licuadora, revisé las características del producto."
+        }
+      }
     },
     {
       "id": "ccd_003",
@@ -32,9 +78,32 @@
         "en": "The item's dimensions",
         "pt": "As dimensões do produto",
         "fr": "Les dimensions de l'article",
-        "it": "Le dimensioni dell'articolo"
+        "it": "Le dimensioni dell'articolo",
+        "de": "Die Maße des Artikels"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The item's dimensions aren't listed on the page.",
+          "es": "Las medidas del artículo no aparecen en la página."
+        },
+        "pt": {
+          "text": "As dimensões do produto não aparecem na página.",
+          "es": "Las medidas del artículo no aparecen en la página."
+        },
+        "fr": {
+          "text": "Les dimensions de l'article ne sont pas indiquées sur la page.",
+          "es": "Las medidas del artículo no aparecen en la página."
+        },
+        "it": {
+          "text": "Le dimensioni dell'articolo non sono indicate sulla pagina.",
+          "es": "Las medidas del artículo no aparecen en la página."
+        },
+        "de": {
+          "text": "Die Maße des Artikels stehen nicht auf der Seite.",
+          "es": "Las medidas del artículo no aparecen en la página."
+        }
+      }
     },
     {
       "id": "ccd_004",
@@ -43,20 +112,81 @@
         "en": "The material it's made of",
         "pt": "O material de fabricação",
         "fr": "Le matériau de fabrication",
-        "it": "Il materiale di fabbricazione"
+        "it": "Il materiale di fabbricazione",
+        "de": "Das Material"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Where does it say what material this coat is made of?",
+          "es": "¿Dónde dice de qué material está hecho este abrigo?"
+        },
+        "pt": {
+          "text": "Onde diz qual é o material de fabricação deste casaco?",
+          "es": "¿Dónde dice de qué material está hecho este abrigo?"
+        },
+        "fr": {
+          "text": "Où est indiqué le matériau de fabrication de ce manteau ?",
+          "es": "¿Dónde dice de qué material está hecho este abrigo?"
+        },
+        "it": {
+          "text": "Dove è indicato il materiale di fabbricazione di questo cappotto?",
+          "es": "¿Dónde dice de qué material está hecho este abrigo?"
+        },
+        "de": {
+          "text": "Wo steht, aus welchem Material dieser Mantel hergestellt ist?",
+          "es": "¿Dónde dice de qué material está hecho este abrigo?"
+        }
+      },
+      "notes": {
+        "es": "(Material del que está hecho un producto)",
+        "en": "(Plural: The materials it's made of)",
+        "pt": "(Plural: Os materiais de fabricação)",
+        "fr": "(Plural: Les matériaux de fabrication)",
+        "it": "(Plural: I materiali di fabbricazione)",
+        "de": "(Plural: Die Materialien)"
+      }
     },
     {
       "id": "ccd_005",
       "es": "El comprobante de compra",
       "translations": {
-        "en": "Proof of purchase",
+        "en": "The proof of purchase",
         "pt": "O comprovante de compra",
         "fr": "La preuve d'achat",
-        "it": "La prova d'acquisto"
+        "it": "La prova d'acquisto",
+        "de": "Der Kaufbeleg"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "They ask for proof of purchase to honor the warranty.",
+          "es": "Para hacer válida la garantía, me piden el comprobante de compra."
+        },
+        "pt": {
+          "text": "Para usar a garantia, pedem o comprovante de compra.",
+          "es": "Para hacer válida la garantía, me piden el comprobante de compra."
+        },
+        "fr": {
+          "text": "Pour faire jouer la garantie, on me demande la preuve d'achat.",
+          "es": "Para hacer válida la garantía, me piden el comprobante de compra."
+        },
+        "it": {
+          "text": "Per usufruire della garanzia mi chiedono la prova d'acquisto.",
+          "es": "Para hacer válida la garantía, me piden el comprobante de compra."
+        },
+        "de": {
+          "text": "Für die Garantie verlangen sie einen Kaufbeleg.",
+          "es": "Para hacer válida la garantía, me piden el comprobante de compra."
+        }
+      },
+      "notes": {
+        "es": "(Documento que demuestra que se hizo la compra; puede ser un recibo o una confirmación digital)",
+        "de": "«Kaufbeleg» puede ser cualquier comprobante válido de compra; «Kassenbon» es el recibo de caja. (Plural: Die Kaufbelege)",
+        "pt": "(Plural: Os comprovantes de compra)",
+        "fr": "(Plural: Les preuves d'achat)",
+        "it": "(Plural: Le prove d'acquisto)"
+      }
     },
     {
       "id": "ccd_006",
@@ -65,9 +195,39 @@
         "en": "The store receipt",
         "pt": "O recibo da loja",
         "fr": "Le ticket de caisse",
-        "it": "Lo scontrino del negozio"
+        "it": "Lo scontrino del negozio",
+        "de": "Der Kassenbon"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I found the store receipt in my bag.",
+          "es": "Encontré el recibo de la tienda en mi bolsa."
+        },
+        "pt": {
+          "text": "Encontrei o recibo da loja na minha bolsa.",
+          "es": "Encontré el recibo de la tienda en mi bolsa."
+        },
+        "fr": {
+          "text": "J'ai retrouvé le ticket de caisse dans mon sac.",
+          "es": "Volví a encontrar el recibo de la tienda en mi bolsa."
+        },
+        "it": {
+          "text": "Ho trovato lo scontrino del negozio nella mia borsa.",
+          "es": "Encontré el recibo de la tienda en mi bolsa."
+        },
+        "de": {
+          "text": "Ich habe den Kassenbon in meiner Tasche gefunden.",
+          "es": "Encontré el recibo de la tienda en mi bolsa."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The store receipts)",
+        "pt": "(Plural: Os recibos da loja)",
+        "fr": "(Plural: Les tickets de caisse)",
+        "it": "(Plural: Gli scontrini del negozio)",
+        "de": "(Plural: Die Kassenbons)"
+      }
     },
     {
       "id": "ccd_007",
@@ -76,64 +236,246 @@
         "en": "The product warranty",
         "pt": "A garantia do produto",
         "fr": "La garantie du produit",
-        "it": "La garanzia del prodotto"
+        "it": "La garanzia del prodotto",
+        "de": "Die Produktgarantie"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The product warranty covers this defect.",
+          "es": "La garantía del producto cubre este defecto."
+        },
+        "pt": {
+          "text": "A garantia do produto cobre esse defeito.",
+          "es": "La garantía del producto cubre este defecto."
+        },
+        "fr": {
+          "text": "La garantie du produit couvre ce défaut.",
+          "es": "La garantía del producto cubre este defecto."
+        },
+        "it": {
+          "text": "La garanzia del prodotto copre questo difetto.",
+          "es": "La garantía del producto cubre este defecto."
+        },
+        "de": {
+          "text": "Die Produktgarantie deckt diesen Mangel ab.",
+          "es": "La garantía del producto cubre este defecto."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The product warranties)",
+        "pt": "(Plural: As garantias do produto)",
+        "fr": "(Plural: Les garanties du produit)",
+        "it": "(Plural: Le garanzie del prodotto)",
+        "de": "(Plural: Die Produktgarantien)"
+      }
     },
     {
       "id": "ccd_008",
-      "es": "Un defecto de fabricación",
+      "es": "El defecto de fabricación",
       "translations": {
-        "en": "A manufacturing defect",
-        "pt": "Um defeito de fabricação",
-        "fr": "Un défaut de fabrication",
-        "it": "Un difetto di fabbricazione"
+        "en": "The manufacturing defect",
+        "pt": "O defeito de fabricação",
+        "fr": "Le défaut de fabrication",
+        "it": "Il difetto di fabbricazione",
+        "de": "Der Herstellungsfehler"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The store found a manufacturing defect in the zipper.",
+          "es": "La tienda encontró un defecto de fabricación en el cierre."
+        },
+        "pt": {
+          "text": "A loja encontrou um defeito de fabricação no zíper.",
+          "es": "La tienda encontró un defecto de fabricación en el cierre."
+        },
+        "fr": {
+          "text": "Le magasin a trouvé un défaut de fabrication sur la fermeture éclair.",
+          "es": "La tienda encontró un defecto de fabricación en el cierre."
+        },
+        "it": {
+          "text": "Il negozio ha trovato un difetto di fabbricazione nella cerniera.",
+          "es": "La tienda encontró un defecto de fabricación en el cierre."
+        },
+        "de": {
+          "text": "Das Geschäft hat einen Herstellungsfehler am Reißverschluss festgestellt.",
+          "es": "La tienda encontró un defecto de fabricación en el cierre."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The manufacturing defects)",
+        "pt": "(Plural: Os defeitos de fabricação)",
+        "fr": "(Plural: Les défauts de fabrication)",
+        "it": "(Plural: I difetti di fabbricazione)",
+        "de": "(Plural: Die Herstellungsfehler)"
+      }
     },
     {
       "id": "ccd_009",
-      "es": "Un artículo defectuoso",
+      "es": "El artículo defectuoso",
       "translations": {
-        "en": "A defective item",
-        "pt": "Um produto com defeito",
-        "fr": "Un article défectueux",
-        "it": "Un articolo difettoso"
+        "en": "The defective item",
+        "pt": "O produto com defeito",
+        "fr": "L'article défectueux",
+        "it": "L'articolo difettoso",
+        "de": "Der defekte Artikel"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I'd like to exchange the defective item for a new one.",
+          "es": "Quisiera cambiar el artículo defectuoso por uno nuevo."
+        },
+        "pt": {
+          "text": "Gostaria de trocar o produto com defeito por um novo.",
+          "es": "Quisiera cambiar el artículo defectuoso por uno nuevo."
+        },
+        "fr": {
+          "text": "Je voudrais échanger l'article défectueux contre un neuf.",
+          "es": "Quisiera cambiar el artículo defectuoso por uno nuevo."
+        },
+        "it": {
+          "text": "Vorrei cambiare l'articolo difettoso con uno nuovo.",
+          "es": "Quisiera cambiar el artículo defectuoso por uno nuevo."
+        },
+        "de": {
+          "text": "Ich möchte den defekten Artikel gegen einen neuen umtauschen.",
+          "es": "Quisiera cambiar el artículo defectuoso por uno nuevo."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The defective items)",
+        "pt": "(Plural: Os produtos com defeito)",
+        "fr": "(Plural: Les articles défectueux)",
+        "it": "(Plural: Gli articoli difettosi)",
+        "de": "(Plural: Die defekten Artikel)"
+      }
     },
     {
       "id": "ccd_010",
       "es": "El cambio por otro artículo",
       "translations": {
-        "en": "An exchange for another item",
+        "en": "The exchange for another item",
         "pt": "A troca por outro produto",
         "fr": "L'échange contre un autre article",
-        "it": "Il cambio con un altro articolo"
+        "it": "Il cambio con un altro articolo",
+        "de": "Der Umtausch gegen einen anderen Artikel"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The store approved the exchange for another item.",
+          "es": "La tienda autorizó el cambio por otro artículo."
+        },
+        "pt": {
+          "text": "A loja autorizou a troca por outro produto.",
+          "es": "La tienda autorizó el cambio por otro artículo."
+        },
+        "fr": {
+          "text": "Le magasin a accepté l'échange contre un autre article.",
+          "es": "La tienda aceptó el cambio por otro artículo."
+        },
+        "it": {
+          "text": "Il negozio ha autorizzato il cambio con un altro articolo.",
+          "es": "La tienda autorizó el cambio por otro artículo."
+        },
+        "de": {
+          "text": "Das Geschäft hat den Umtausch gegen einen anderen Artikel genehmigt.",
+          "es": "La tienda autorizó el cambio por otro artículo."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The exchanges for other items)",
+        "pt": "(Plural: As trocas por outros produtos)",
+        "fr": "(Plural: Les échanges contre d'autres articles)",
+        "it": "(Plural: I cambi con altri articoli)",
+        "de": "(Plural: Die Umtausche gegen andere Artikel)"
+      }
     },
     {
       "id": "ccd_011",
       "es": "La devolución del producto",
       "translations": {
-        "en": "Returning the product",
+        "en": "The return of the product",
         "pt": "A devolução do produto",
         "fr": "Le retour du produit",
-        "it": "Il reso del prodotto"
+        "it": "Il reso del prodotto",
+        "de": "Die Rückgabe des Produkts"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I requested the return of the product through my account.",
+          "es": "Solicité la devolución del producto desde mi cuenta."
+        },
+        "pt": {
+          "text": "Solicitei a devolução do produto pela minha conta.",
+          "es": "Solicité la devolución del producto desde mi cuenta."
+        },
+        "fr": {
+          "text": "J'ai demandé le retour du produit depuis mon compte.",
+          "es": "Solicité la devolución del producto desde mi cuenta."
+        },
+        "it": {
+          "text": "Ho richiesto il reso del prodotto dal mio account.",
+          "es": "Solicité la devolución del producto desde mi cuenta."
+        },
+        "de": {
+          "text": "Ich habe die Rückgabe des Produkts über mein Kundenkonto beantragt.",
+          "es": "Solicité la devolución del producto desde mi cuenta."
+        }
+      },
+      "notes": {
+        "es": "(Regresar el producto a la tienda, con o sin que te devuelvan el dinero)",
+        "en": "(Plural: The product returns)",
+        "pt": "(Plural: As devoluções do produto)",
+        "fr": "(Plural: Les retours du produit)",
+        "it": "(Plural: I resi del prodotto)",
+        "de": "(Plural: Die Rückgaben des Produkts)"
+      }
     },
     {
       "id": "ccd_012",
-      "es": "El reembolso del dinero",
+      "es": "El reembolso",
       "translations": {
-        "en": "A refund",
-        "pt": "O reembolso do dinheiro",
+        "en": "The refund",
+        "pt": "O reembolso",
         "fr": "Le remboursement",
-        "it": "Il rimborso"
+        "it": "Il rimborso",
+        "de": "Die Rückerstattung"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The refund showed up on my card today.",
+          "es": "El reembolso apareció hoy en mi tarjeta."
+        },
+        "pt": {
+          "text": "O reembolso apareceu hoje no meu cartão.",
+          "es": "El reembolso apareció hoy en mi tarjeta."
+        },
+        "fr": {
+          "text": "Le remboursement est apparu aujourd'hui sur mon relevé de carte.",
+          "es": "El reembolso apareció hoy en el estado de cuenta de mi tarjeta."
+        },
+        "it": {
+          "text": "Il rimborso risulta oggi sulla mia carta.",
+          "es": "El reembolso apareció hoy en mi tarjeta."
+        },
+        "de": {
+          "text": "Die Rückerstattung wurde heute meiner Karte gutgeschrieben.",
+          "es": "Hoy me abonaron el reembolso en mi tarjeta."
+        }
+      },
+      "notes": {
+        "es": "(Dinero que se devuelve al cliente)",
+        "en": "(Plural: The refunds)",
+        "pt": "(Plural: Os reembolsos)",
+        "fr": "(Plural: Les remboursements)",
+        "it": "(Plural: I rimborsi)",
+        "de": "(Plural: Die Rückerstattungen)"
+      }
     },
     {
       "id": "ccd_013",
@@ -142,31 +484,116 @@
         "en": "The original packaging",
         "pt": "A embalagem original",
         "fr": "L'emballage d'origine",
-        "it": "La confezione originale"
+        "it": "La confezione originale",
+        "de": "Die Originalverpackung"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I kept the original packaging in case I had to return the product.",
+          "es": "Guardé el empaque original por si tenía que devolver el producto."
+        },
+        "pt": {
+          "text": "Guardei a embalagem original para o caso de precisar devolver o produto.",
+          "es": "Guardé el empaque original por si tenía que devolver el producto."
+        },
+        "fr": {
+          "text": "J'ai gardé l'emballage d'origine au cas où je devrais retourner le produit.",
+          "es": "Guardé el empaque original por si tenía que devolver el producto."
+        },
+        "it": {
+          "text": "Ho tenuto la confezione originale nel caso dovessi restituire il prodotto.",
+          "es": "Guardé el empaque original por si tenía que devolver el producto."
+        },
+        "de": {
+          "text": "Ich habe die Originalverpackung aufgehoben, falls ich das Produkt zurückgeben muss.",
+          "es": "Guardé el empaque original por si tengo que devolver el producto."
+        }
+      },
+      "notes": {
+        "pt": "(Plural: As embalagens originais)",
+        "fr": "(Plural: Les emballages d'origine)",
+        "it": "(Plural: Le confezioni originali)",
+        "de": "(Plural: Die Originalverpackungen)"
+      }
     },
     {
       "id": "ccd_014",
-      "es": "Una pieza faltante",
+      "es": "La pieza que falta",
       "translations": {
-        "en": "A missing part",
-        "pt": "Uma peça faltando",
-        "fr": "Une pièce manquante",
-        "it": "Un pezzo mancante"
+        "en": "The missing part",
+        "pt": "A peça que falta",
+        "fr": "La pièce manquante",
+        "it": "Il pezzo mancante",
+        "de": "Das fehlende Teil"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The store sent me the missing part.",
+          "es": "La tienda me mandó la pieza que faltaba."
+        },
+        "pt": {
+          "text": "A loja me enviou a peça que faltava.",
+          "es": "La tienda me mandó la pieza que faltaba."
+        },
+        "fr": {
+          "text": "Le magasin m'a envoyé la pièce manquante.",
+          "es": "La tienda me mandó la pieza que faltaba."
+        },
+        "it": {
+          "text": "Il negozio mi ha spedito il pezzo mancante.",
+          "es": "La tienda me mandó la pieza que faltaba."
+        },
+        "de": {
+          "text": "Das Geschäft hat mir das fehlende Teil geschickt.",
+          "es": "La tienda me mandó la pieza que faltaba."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The missing parts)",
+        "pt": "(Plural: As peças que faltam)",
+        "fr": "(Plural: Les pièces manquantes)",
+        "it": "(Plural: I pezzi mancanti)",
+        "de": "(Plural: Die fehlenden Teile)"
+      }
     },
     {
       "id": "ccd_015",
       "es": "El servicio posventa",
       "translations": {
-        "en": "After-sales service",
+        "en": "The after-sales service",
         "pt": "O atendimento pós-venda",
         "fr": "Le service après-vente",
-        "it": "L'assistenza post-vendita"
+        "it": "L'assistenza post-vendita",
+        "de": "Der Kundendienst"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I called after-sales service because the screen won't turn on.",
+          "es": "Llamé al servicio posventa porque la pantalla no prende."
+        },
+        "pt": {
+          "text": "Liguei para o atendimento pós-venda porque a tela não liga.",
+          "es": "Llamé al servicio posventa porque la pantalla no prende."
+        },
+        "fr": {
+          "text": "J'ai appelé le service après-vente parce que l'écran ne s'allume pas.",
+          "es": "Llamé al servicio posventa porque la pantalla no prende."
+        },
+        "it": {
+          "text": "Ho chiamato l'assistenza post-vendita perché lo schermo non si accende.",
+          "es": "Llamé al servicio posventa porque la pantalla no prende."
+        },
+        "de": {
+          "text": "Ich habe beim Kundendienst angerufen, weil sich der Bildschirm nicht einschalten lässt.",
+          "es": "Llamé al servicio posventa porque la pantalla no prende."
+        }
+      },
+      "notes": {
+        "de": "Aquí se refiere a la atención al cliente después de la compra."
+      }
     },
     {
       "id": "ccd_016",
@@ -175,9 +602,39 @@
         "en": "The order number",
         "pt": "O número do pedido",
         "fr": "Le numéro de commande",
-        "it": "Il numero dell'ordine"
+        "it": "Il numero dell'ordine",
+        "de": "Die Bestellnummer"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The order number is in the confirmation email.",
+          "es": "El número de pedido aparece en el correo de confirmación."
+        },
+        "pt": {
+          "text": "O número do pedido aparece no e-mail de confirmação.",
+          "es": "El número de pedido aparece en el correo de confirmación."
+        },
+        "fr": {
+          "text": "Le numéro de commande figure dans le mail de confirmation.",
+          "es": "El número de pedido aparece en el correo de confirmación."
+        },
+        "it": {
+          "text": "Il numero dell'ordine è nell'e-mail di conferma.",
+          "es": "El número de pedido aparece en el correo de confirmación."
+        },
+        "de": {
+          "text": "Die Bestellnummer steht in der Bestätigungs-E-Mail.",
+          "es": "El número de pedido aparece en el correo de confirmación."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The order numbers)",
+        "pt": "(Plural: Os números do pedido)",
+        "fr": "(Plural: Les numéros de commande)",
+        "it": "(Plural: I numeri dell'ordine)",
+        "de": "(Plural: Die Bestellnummern)"
+      }
     },
     {
       "id": "ccd_017",
@@ -186,7 +643,8 @@
         "en": "Does this material require any special care?",
         "pt": "Este material exige algum cuidado especial?",
         "fr": "Ce matériau nécessite-t-il un entretien particulier ?",
-        "it": "Questo materiale richiede qualche cura particolare?"
+        "it": "Questo materiale richiede qualche cura particolare?",
+        "de": "Muss man dieses Material besonders pflegen?"
       },
       "image_url": ""
     },
@@ -197,7 +655,8 @@
         "en": "What are the exact dimensions?",
         "pt": "Quais são as medidas exatas?",
         "fr": "Quelles sont les dimensions exactes ?",
-        "it": "Quali sono le dimensioni esatte?"
+        "it": "Quali sono le dimensioni esatte?",
+        "de": "Wie lauten die genauen Maße?"
       },
       "image_url": ""
     },
@@ -207,8 +666,9 @@
       "translations": {
         "en": "I need to check that it fits in the space I have.",
         "pt": "Preciso verificar se cabe no espaço que tenho.",
-        "fr": "Je dois vérifier que cela rentre dans l'espace dont je dispose.",
-        "it": "Devo verificare che ci stia nello spazio che ho."
+        "fr": "Je dois vérifier s'il rentre dans l'espace dont je dispose.",
+        "it": "Devo verificare se c'è abbastanza spazio.",
+        "de": "Ich muss prüfen, ob ich genug Platz dafür habe."
       },
       "image_url": ""
     },
@@ -219,7 +679,8 @@
         "en": "Can it be machine-washed, or only hand-washed?",
         "pt": "Pode lavar na máquina ou só à mão?",
         "fr": "Peut-on le laver en machine ou seulement à la main ?",
-        "it": "Si può lavare in lavatrice o solo a mano?"
+        "it": "Si può lavare in lavatrice o solo a mano?",
+        "de": "Kann man das in der Waschmaschine waschen oder nur von Hand?"
       },
       "image_url": ""
     },
@@ -230,7 +691,8 @@
         "en": "Does this fabric shrink when washed?",
         "pt": "Este tecido encolhe quando é lavado?",
         "fr": "Ce tissu rétrécit-il au lavage ?",
-        "it": "Questo tessuto si restringe quando viene lavato?"
+        "it": "Questo tessuto si restringe quando viene lavato?",
+        "de": "Läuft dieser Stoff beim Waschen ein?"
       },
       "image_url": ""
     },
@@ -239,20 +701,22 @@
       "es": "¿Resiste la lluvia o debo mantenerlo seco?",
       "translations": {
         "en": "Can it handle rain, or should I keep it dry?",
-        "pt": "Resiste à chuva ou preciso manter seco?",
+        "pt": "Resiste à chuva ou preciso manter o produto seco?",
         "fr": "Cela résiste-t-il à la pluie ou faut-il le garder au sec ?",
-        "it": "Resiste alla pioggia o devo tenerlo asciutto?"
+        "it": "Resiste alla pioggia o devo tenerlo asciutto?",
+        "de": "Verträgt es Regen oder muss ich es trocken halten?"
       },
       "image_url": ""
     },
     {
       "id": "ccd_023",
-      "es": "¿Funciona con pilas o hay que conectarlo a la corriente?",
+      "es": "¿Funciona con pilas o hay que enchufarlo?",
       "translations": {
         "en": "Does it run on batteries, or does it need to be plugged in?",
-        "pt": "Funciona com pilhas ou precisa ligar na tomada?",
+        "pt": "Funciona com pilhas ou precisa ser ligado na tomada?",
         "fr": "Cela fonctionne-t-il avec des piles ou faut-il le brancher ?",
-        "it": "Funziona a pile o bisogna collegarlo alla corrente?"
+        "it": "Funziona a pile o bisogna collegarlo alla corrente?",
+        "de": "Läuft das mit Batterien oder muss man es an die Steckdose anschließen?"
       },
       "image_url": ""
     },
@@ -263,7 +727,8 @@
         "en": "Is the charger included?",
         "pt": "O carregador está incluído?",
         "fr": "Le chargeur est-il inclus ?",
-        "it": "Il caricabatterie è incluso?"
+        "it": "Il caricabatterie è incluso?",
+        "de": "Ist das Ladegerät im Lieferumfang enthalten?"
       },
       "image_url": ""
     },
@@ -274,7 +739,8 @@
         "en": "Do I need to buy any accessories separately?",
         "pt": "Preciso comprar algum acessório separadamente?",
         "fr": "Faut-il acheter un accessoire séparément ?",
-        "it": "Bisogna comprare qualche accessorio separatamente?"
+        "it": "Bisogna comprare qualche accessorio separatamente?",
+        "de": "Muss man Zubehör separat kaufen?"
       },
       "image_url": ""
     },
@@ -285,7 +751,8 @@
         "en": "Is it compatible with this phone model?",
         "pt": "É compatível com este modelo de celular?",
         "fr": "Est-ce compatible avec ce modèle de téléphone ?",
-        "it": "È compatibile con questo modello di telefono?"
+        "it": "È compatibile con questo modello di telefono?",
+        "de": "Ist es mit diesem Handymodell kompatibel?"
       },
       "image_url": ""
     },
@@ -293,10 +760,11 @@
       "id": "ccd_027",
       "es": "¿Puede mostrarme cómo funciona antes de comprarlo?",
       "translations": {
-        "en": "Can you show me how it works before I buy it?",
-        "pt": "Pode me mostrar como funciona antes de eu comprar?",
+        "en": "Could you show me how it works before I buy it?",
+        "pt": "Pode me mostrar como funciona antes de eu comprar o produto?",
         "fr": "Pouvez-vous me montrer comment cela fonctionne avant l'achat ?",
-        "it": "Può mostrarmi come funziona prima di comprarlo?"
+        "it": "Può mostrarmi come funziona prima di comprarlo?",
+        "de": "Können Sie mir vor dem Kauf zeigen, wie es funktioniert?"
       },
       "image_url": ""
     },
@@ -307,7 +775,8 @@
         "en": "Does the price include installation, or just the product?",
         "pt": "O preço inclui a instalação ou só o produto?",
         "fr": "Le prix comprend-il l'installation ou seulement le produit ?",
-        "it": "Il prezzo comprende l'installazione o solo il prodotto?"
+        "it": "Il prezzo comprende l'installazione o solo il prodotto?",
+        "de": "Ist die Montage im Preis enthalten oder gilt der Preis nur für das Produkt?"
       },
       "image_url": ""
     },
@@ -316,9 +785,10 @@
       "es": "¿Se entrega armado o tengo que armarlo?",
       "translations": {
         "en": "Does it come assembled, or do I need to assemble it?",
-        "pt": "É entregue montado ou preciso montar?",
+        "pt": "É entregue montado ou preciso montá-lo?",
         "fr": "Est-ce livré monté ou dois-je le monter ?",
-        "it": "Viene consegnato montato o devo montarlo?"
+        "it": "Viene consegnato montato o devo montarlo?",
+        "de": "Wird es fertig montiert geliefert oder muss ich es selbst zusammenbauen?"
       },
       "image_url": ""
     },
@@ -326,10 +796,11 @@
       "id": "ccd_030",
       "es": "¿Puedo probarme esta prenda?",
       "translations": {
-        "en": "Can I try this on?",
+        "en": "Can I try on this garment?",
         "pt": "Posso experimentar esta peça?",
         "fr": "Puis-je essayer ce vêtement ?",
-        "it": "Posso provare questo capo?"
+        "it": "Posso provare questo capo?",
+        "de": "Kann ich dieses Kleidungsstück anprobieren?"
       },
       "image_url": ""
     },
@@ -340,7 +811,8 @@
         "en": "Can I try on both sizes to see which fits me better?",
         "pt": "Posso experimentar os dois tamanhos para ver qual fica melhor em mim?",
         "fr": "Puis-je essayer les deux tailles pour voir laquelle me va le mieux ?",
-        "it": "Posso provare entrambe le taglie per vedere quale mi sta meglio?"
+        "it": "Posso provare entrambe le taglie per vedere quale mi sta meglio?",
+        "de": "Kann ich beide Größen anprobieren, um zu sehen, welche mir besser passt?"
       },
       "image_url": ""
     },
@@ -349,9 +821,10 @@
       "es": "Me queda bien de largo, pero demasiado ajustado en la cintura.",
       "translations": {
         "en": "The length is right, but it's too tight around the waist.",
-        "pt": "O comprimento está bom, mas está apertado demais na cintura.",
+        "pt": "O comprimento está bom, mas a peça está apertada demais na cintura.",
         "fr": "La longueur est bonne, mais c'est trop serré à la taille.",
-        "it": "La lunghezza va bene, ma è troppo stretto in vita."
+        "it": "La lunghezza va bene, ma è troppo stretto in vita.",
+        "de": "Die Länge passt, aber an der Taille ist es zu eng."
       },
       "image_url": ""
     },
@@ -360,9 +833,10 @@
       "es": "¿Tiene la misma prenda en una talla más grande?",
       "translations": {
         "en": "Do you have the same item in a larger size?",
-        "pt": "Tem a mesma peça em um tamanho maior?",
+        "pt": "Vocês têm a mesma peça num tamanho maior?",
         "fr": "Avez-vous le même vêtement dans une taille plus grande ?",
-        "it": "Ha lo stesso capo in una taglia più grande?"
+        "it": "Ha lo stesso capo in una taglia più grande?",
+        "de": "Haben Sie dasselbe Kleidungsstück in einer größeren Größe?"
       },
       "image_url": ""
     },
@@ -373,7 +847,8 @@
         "en": "Is this size based on the local sizing system or another country's?",
         "pt": "Este tamanho corresponde ao sistema daqui ou ao de outro país?",
         "fr": "Cette taille correspond-elle au système d'ici ou à celui d'un autre pays ?",
-        "it": "Questa taglia corrisponde al sistema locale o a quello di un altro paese?"
+        "it": "Questa taglia corrisponde al sistema locale o a quello di un altro paese?",
+        "de": "Gilt diese Größe hier oder gehört sie zum Größensystem eines anderen Landes?"
       },
       "image_url": ""
     },
@@ -384,7 +859,8 @@
         "en": "Can I see a size chart?",
         "pt": "Posso ver uma tabela de tamanhos?",
         "fr": "Puis-je voir un guide des tailles ?",
-        "it": "Posso vedere una tabella delle taglie?"
+        "it": "Posso vedere una tabella delle taglie?",
+        "de": "Kann ich eine Größentabelle sehen?"
       },
       "image_url": ""
     },
@@ -395,18 +871,20 @@
         "en": "Is this the display pair, or do you have a new pair in a box?",
         "pt": "Este par é o de exposição ou tem um novo na caixa?",
         "fr": "Cette paire est-elle celle d'exposition ou en avez-vous une neuve en boîte ?",
-        "it": "Questo paio è quello in esposizione o ne avete uno nuovo nella scatola?"
+        "it": "Questo paio è quello in esposizione o ne avete uno nuovo nella scatola?",
+        "de": "Ist dieses Paar das Ausstellungsstück oder haben Sie ein neues Paar im Karton?"
       },
       "image_url": ""
     },
     {
       "id": "ccd_037",
-      "es": "La etiqueta indica una talla distinta de la caja.",
+      "es": "La talla de la etiqueta no coincide con la de la caja.",
       "translations": {
-        "en": "The label shows a different size from the box.",
-        "pt": "A etiqueta indica um tamanho diferente do da caixa.",
-        "fr": "L'étiquette indique une taille différente de celle de la boîte.",
-        "it": "L'etichetta indica una taglia diversa da quella sulla scatola."
+        "en": "The size on the tag doesn't match the one on the box.",
+        "pt": "O tamanho da etiqueta não corresponde ao da caixa.",
+        "fr": "La taille indiquée sur l'étiquette ne correspond pas à celle de la boîte.",
+        "it": "La taglia sull'etichetta non corrisponde a quella sulla scatola.",
+        "de": "Die Größe auf dem Etikett stimmt nicht mit der auf dem Karton überein."
       },
       "image_url": ""
     },
@@ -417,7 +895,8 @@
         "en": "Before buying, I'd like to know your return policy.",
         "pt": "Antes de comprar, gostaria de conhecer as condições de devolução.",
         "fr": "Avant d'acheter, je voudrais connaître les conditions de retour.",
-        "it": "Prima di comprare, vorrei conoscere le condizioni di reso."
+        "it": "Prima di comprare, vorrei conoscere le condizioni di reso.",
+        "de": "Vor dem Kauf würde ich gerne wissen, welche Rückgabebedingungen gelten."
       },
       "image_url": ""
     },
@@ -428,18 +907,20 @@
         "en": "How many days do I have to exchange or return it?",
         "pt": "Quantos dias tenho para trocar ou devolver?",
         "fr": "De combien de jours est-ce que je dispose pour l'échanger ou le retourner ?",
-        "it": "Quanti giorni ho per cambiarlo o restituirlo?"
+        "it": "Quanti giorni ho per cambiarlo o restituirlo?",
+        "de": "Wie viele Tage habe ich Zeit, es umzutauschen oder zurückzugeben?"
       },
       "image_url": ""
     },
     {
       "id": "ccd_040",
-      "es": "¿El plazo cuenta desde la compra o desde la entrega?",
+      "es": "¿El plazo de devolución empieza el día de la compra o el día de la entrega?",
       "translations": {
         "en": "Does the return period start on the purchase date or the delivery date?",
-        "pt": "O prazo começa na data da compra ou da entrega?",
-        "fr": "Le délai commence-t-il à la date d'achat ou à la date de livraison ?",
-        "it": "Il termine decorre dalla data dell'acquisto o della consegna?"
+        "pt": "O prazo para devolução começa na data da compra ou da entrega?",
+        "fr": "Le délai de retour commence-t-il à la date d'achat ou à la date de livraison ?",
+        "it": "Il termine per il reso decorre dalla data di acquisto o dalla data di consegna?",
+        "de": "Beginnt die Rückgabefrist am Tag des Kaufs oder am Tag der Lieferung?"
       },
       "image_url": ""
     },
@@ -450,7 +931,8 @@
         "en": "Do I need to keep the tag and the packaging?",
         "pt": "Preciso guardar a etiqueta e a embalagem?",
         "fr": "Faut-il conserver l'étiquette et l'emballage ?",
-        "it": "Bisogna conservare l'etichetta e la confezione?"
+        "it": "Bisogna conservare l'etichetta e la confezione?",
+        "de": "Muss man das Etikett und die Verpackung aufbewahren?"
       },
       "image_url": ""
     },
@@ -461,7 +943,8 @@
         "en": "Can I return it if I open it to try it out?",
         "pt": "Posso devolver se abrir para testar?",
         "fr": "Puis-je le retourner si je l'ouvre pour l'essayer ?",
-        "it": "Posso restituirlo se lo apro per provarlo?"
+        "it": "Posso restituirlo se lo apro per provarlo?",
+        "de": "Kann ich es zurückgeben, wenn ich es zum Ausprobieren öffne?"
       },
       "image_url": ""
     },
@@ -472,18 +955,20 @@
         "en": "Do sale items have the same return policy?",
         "pt": "Os produtos em promoção têm as mesmas condições?",
         "fr": "Les articles en promotion ont-ils les mêmes conditions de retour ?",
-        "it": "Gli articoli in offerta hanno le stesse condizioni di reso?"
+        "it": "Gli articoli in offerta hanno le stesse condizioni di reso?",
+        "de": "Gelten für reduzierte Artikel dieselben Rückgabebedingungen?"
       },
       "image_url": ""
     },
     {
       "id": "ccd_044",
-      "es": "¿Hay productos que no aceptan para devolución?",
+      "es": "¿Hay algún producto que no se pueda devolver?",
       "translations": {
-        "en": "Are there any products you don't accept returns for?",
-        "pt": "Há produtos que vocês não aceitam para devolução?",
-        "fr": "Y a-t-il des produits que vous n'acceptez pas en retour ?",
-        "it": "Ci sono prodotti che non accettate come reso?"
+        "en": "Are there any products that can't be returned?",
+        "pt": "Há algum produto que não pode ser devolvido?",
+        "fr": "Y a-t-il des produits qu'on ne peut pas retourner ?",
+        "it": "Ci sono prodotti che non si possono restituire?",
+        "de": "Gibt es Produkte, die Sie nicht zurücknehmen?"
       },
       "image_url": ""
     },
@@ -494,7 +979,8 @@
         "en": "Can I exchange it at another branch?",
         "pt": "Posso trocar em outra filial?",
         "fr": "Puis-je l'échanger dans une autre boutique de votre enseigne ?",
-        "it": "Posso cambiarlo in un altro punto vendita?"
+        "it": "Posso cambiarlo in un altro punto vendita?",
+        "de": "Kann ich es in einer anderen Filiale umtauschen?"
       },
       "image_url": ""
     },
@@ -505,7 +991,8 @@
         "en": "If I buy it online, can I return it at this store?",
         "pt": "Se eu comprar pela internet, posso devolver nesta loja?",
         "fr": "Si je l'achète en ligne, puis-je le retourner dans ce magasin ?",
-        "it": "Se lo compro online, posso restituirlo in questo negozio?"
+        "it": "Se lo compro online, posso restituirlo in questo negozio?",
+        "de": "Wenn ich es online kaufe, kann ich es dann in diesem Geschäft zurückgeben?"
       },
       "image_url": ""
     },
@@ -516,7 +1003,8 @@
         "en": "Is there a fee for returning it?",
         "pt": "A devolução tem algum custo?",
         "fr": "Le retour est-il payant ?",
-        "it": "Il reso ha un costo?"
+        "it": "Il reso ha un costo?",
+        "de": "Kostet die Rückgabe etwas?"
       },
       "image_url": ""
     },
@@ -527,7 +1015,8 @@
         "en": "Who pays for return shipping?",
         "pt": "Quem paga o frete de devolução?",
         "fr": "Qui paie les frais de retour ?",
-        "it": "Chi paga le spese di spedizione del reso?"
+        "it": "Chi paga le spese di spedizione del reso?",
+        "de": "Wer zahlt den Rückversand?"
       },
       "image_url": ""
     },
@@ -535,12 +1024,16 @@
       "id": "ccd_049",
       "es": "¿Devuelven el dinero o dan un vale para la tienda?",
       "translations": {
-        "en": "Do you refund the money or give store credit?",
-        "pt": "Vocês devolvem o dinheiro ou dão um vale para a loja?",
+        "en": "Do you refund the money or issue store credit?",
+        "pt": "Vocês devolvem o dinheiro ou dão um vale para usar na loja?",
         "fr": "Remboursez-vous l'argent ou donnez-vous un avoir ?",
-        "it": "Rimborsate il denaro o date un buono per il negozio?"
+        "it": "Rimborsate il denaro o date un buono per il negozio?",
+        "de": "Erstatten Sie das Geld oder geben Sie mir einen Gutschein für Ihr Geschäft?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "En Estados Unidos, «store credit» es saldo que puede usarse en la tienda, no un crédito bancario."
+      }
     },
     {
       "id": "ccd_050",
@@ -549,7 +1042,8 @@
         "en": "Does the store credit expire?",
         "pt": "O vale tem prazo de validade?",
         "fr": "L'avoir a-t-il une date d'expiration ?",
-        "it": "Il buono ha una scadenza?"
+        "it": "Il buono ha una scadenza?",
+        "de": "Hat der Gutschein ein Ablaufdatum?"
       },
       "image_url": ""
     },
@@ -557,10 +1051,11 @@
       "id": "ccd_051",
       "es": "¿Cuánto dura la garantía y qué cubre?",
       "translations": {
-        "en": "How long is the warranty, and what does it cover?",
+        "en": "How long does the warranty last, and what does it cover?",
         "pt": "Quanto tempo dura a garantia e o que ela cobre?",
         "fr": "Quelle est la durée de la garantie et que couvre-t-elle ?",
-        "it": "Quanto dura la garanzia e cosa copre?"
+        "it": "Quanto dura la garanzia e cosa copre?",
+        "de": "Wie lange gilt die Garantie und was deckt sie ab?"
       },
       "image_url": ""
     },
@@ -571,7 +1066,8 @@
         "en": "Who should I contact if I notice a defect?",
         "pt": "Com quem devo falar se aparecer um defeito?",
         "fr": "Qui dois-je contacter si je constate un défaut ?",
-        "it": "Con chi devo parlare se noto un difetto?"
+        "it": "Con chi devo parlare se noto un difetto?",
+        "de": "An wen soll ich mich wenden, wenn ich einen Mangel bemerke?"
       },
       "image_url": ""
     },
@@ -582,7 +1078,8 @@
         "en": "Can you give me those terms in writing?",
         "pt": "Pode me dar essas condições por escrito?",
         "fr": "Pouvez-vous me donner ces conditions par écrit ?",
-        "it": "Può darmi queste condizioni per iscritto?"
+        "it": "Può darmi queste condizioni per iscritto?",
+        "de": "Können Sie mir diese Bedingungen schriftlich geben?"
       },
       "image_url": ""
     },
@@ -593,7 +1090,8 @@
         "en": "I bought this item here on Saturday, and it doesn't work.",
         "pt": "Comprei este produto aqui no sábado e ele não funciona.",
         "fr": "J'ai acheté cet article ici samedi et il ne fonctionne pas.",
-        "it": "Ho comprato questo articolo qui sabato e non funziona."
+        "it": "Ho comprato questo articolo qui sabato e non funziona.",
+        "de": "Ich habe diesen Artikel am Samstag hier gekauft, und er funktioniert nicht."
       },
       "image_url": ""
     },
@@ -604,18 +1102,20 @@
         "en": "When I opened the box, I saw that a part was missing.",
         "pt": "Ao abrir a caixa, vi que faltava uma peça.",
         "fr": "En ouvrant la boîte, j'ai vu qu'il manquait une pièce.",
-        "it": "Quando ho aperto la scatola, ho visto che mancava un pezzo."
+        "it": "Quando ho aperto la scatola, ho visto che mancava un pezzo.",
+        "de": "Beim Öffnen des Kartons habe ich gesehen, dass ein Teil fehlt."
       },
       "image_url": ""
     },
     {
       "id": "ccd_056",
-      "es": "La pantalla tiene una grieta; llegó así.",
+      "es": "La pantalla llegó con una grieta.",
       "translations": {
-        "en": "The screen has a crack; it arrived like that.",
-        "pt": "A tela tem uma rachadura; chegou assim.",
-        "fr": "L'écran est fissuré ; il est arrivé comme ça.",
-        "it": "Lo schermo ha una crepa; è arrivato così."
+        "en": "The screen arrived with a crack.",
+        "pt": "A tela chegou com uma rachadura.",
+        "fr": "L'écran est arrivé avec une fissure.",
+        "it": "Lo schermo è arrivato con una crepa.",
+        "de": "Der Bildschirm ist mit einem Riss angekommen."
       },
       "image_url": ""
     },
@@ -626,18 +1126,20 @@
         "en": "The zipper gets stuck, and I can't open the backpack.",
         "pt": "O zíper trava e não consigo abrir a mochila.",
         "fr": "La fermeture éclair se bloque et je n'arrive pas à ouvrir le sac à dos.",
-        "it": "La cerniera si blocca e non riesco ad aprire lo zaino."
+        "it": "La cerniera si blocca e non riesco ad aprire lo zaino.",
+        "de": "Der Reißverschluss klemmt, und ich bekomme den Rucksack nicht auf."
       },
       "image_url": ""
     },
     {
       "id": "ccd_058",
-      "es": "La costura se abrió la primera vez que lo usé.",
+      "es": "La costura se abrió la primera vez que me puse la prenda.",
       "translations": {
         "en": "The seam came apart the first time I wore it.",
-        "pt": "A costura abriu na primeira vez que usei.",
+        "pt": "A costura abriu na primeira vez que vesti a peça.",
         "fr": "La couture s'est défaite la première fois que je l'ai porté.",
-        "it": "La cucitura si è aperta la prima volta che l'ho indossato."
+        "it": "La cucitura si è aperta la prima volta che l'ho indossato.",
+        "de": "Die Naht ist beim ersten Tragen aufgegangen."
       },
       "image_url": ""
     },
@@ -648,7 +1150,8 @@
         "en": "One of the buttons doesn't respond.",
         "pt": "Um dos botões não responde.",
         "fr": "L'un des boutons ne répond pas.",
-        "it": "Uno dei pulsanti non risponde."
+        "it": "Uno dei pulsanti non risponde.",
+        "de": "Eine der Tasten reagiert nicht."
       },
       "image_url": ""
     },
@@ -659,7 +1162,8 @@
         "en": "It shuts off by itself after a few minutes.",
         "pt": "Desliga sozinho depois de alguns minutos.",
         "fr": "Il s'éteint tout seul après quelques minutes.",
-        "it": "Si spegne da solo dopo qualche minuto."
+        "it": "Si spegne da solo dopo qualche minuto.",
+        "de": "Es schaltet sich nach ein paar Minuten von selbst aus."
       },
       "image_url": ""
     },
@@ -670,29 +1174,32 @@
         "en": "It makes a strange noise when I turn it on.",
         "pt": "Faz um barulho estranho quando ligo.",
         "fr": "Il fait un bruit étrange quand je l'allume.",
-        "it": "Fa un rumore strano quando lo accendo."
+        "it": "Fa un rumore strano quando lo accendo.",
+        "de": "Es macht ein seltsames Geräusch, wenn ich es einschalte."
       },
       "image_url": ""
     },
     {
       "id": "ccd_062",
-      "es": "El cargador no carga, aunque la toma de corriente funciona.",
+      "es": "El cargador no carga el aparato, aunque el contacto sí funciona.",
       "translations": {
-        "en": "The charger doesn't charge, even though the outlet works.",
-        "pt": "O carregador não carrega, embora a tomada funcione.",
-        "fr": "Le chargeur ne charge pas, alors que la prise fonctionne.",
-        "it": "Il caricabatterie non carica, anche se la presa funziona."
+        "en": "The charger won't charge the device, even though the outlet works.",
+        "pt": "O carregador não carrega o aparelho, embora a tomada funcione.",
+        "fr": "Le chargeur ne recharge pas l'appareil, alors que la prise fonctionne.",
+        "it": "Il caricabatterie non carica il dispositivo, anche se la presa funziona.",
+        "de": "Mit dem Ladegerät lädt das Gerät nicht, obwohl die Steckdose funktioniert."
       },
       "image_url": ""
     },
     {
       "id": "ccd_063",
-      "es": "El producto pierde agua por la base.",
+      "es": "Al producto se le sale el agua por la base.",
       "translations": {
         "en": "The product leaks water from the bottom.",
         "pt": "O produto vaza água pela base.",
         "fr": "Le produit fuit par la base.",
-        "it": "Il prodotto perde acqua dalla base."
+        "it": "Il prodotto perde acqua dalla base.",
+        "de": "Unten am Produkt läuft Wasser aus."
       },
       "image_url": ""
     },
@@ -703,7 +1210,8 @@
         "en": "I ordered one model, but received another.",
         "pt": "Pedi um modelo, mas recebi outro.",
         "fr": "J'ai commandé un modèle, mais j'en ai reçu un autre.",
-        "it": "Ho ordinato un modello, ma ne ho ricevuto un altro."
+        "it": "Ho ordinato un modello, ma ne ho ricevuto un altro.",
+        "de": "Ich habe ein Modell bestellt, aber ein anderes bekommen."
       },
       "image_url": ""
     },
@@ -714,7 +1222,8 @@
         "en": "The description said the accessory was included.",
         "pt": "A descrição dizia que o acessório estava incluído.",
         "fr": "La description indiquait que l'accessoire était inclus.",
-        "it": "La descrizione diceva che l'accessorio era incluso."
+        "it": "La descrizione diceva che l'accessorio era incluso.",
+        "de": "Laut Beschreibung war das Zubehör im Lieferumfang enthalten."
       },
       "image_url": ""
     },
@@ -725,7 +1234,8 @@
         "en": "The product's color is different from the one I chose.",
         "pt": "A cor do produto é diferente da que escolhi.",
         "fr": "La couleur du produit est différente de celle que j'ai choisie.",
-        "it": "Il colore del prodotto è diverso da quello che ho scelto."
+        "it": "Il colore del prodotto è diverso da quello che ho scelto.",
+        "de": "Das Produkt hat eine andere Farbe als die, die ich ausgewählt habe."
       },
       "image_url": ""
     },
@@ -736,7 +1246,8 @@
         "en": "The problem only happens when I use this feature.",
         "pt": "O problema só aparece quando uso esta função.",
         "fr": "Le problème apparaît seulement quand j'utilise cette fonction.",
-        "it": "Il problema si presenta solo quando uso questa funzione."
+        "it": "Il problema si presenta solo quando uso questa funzione.",
+        "de": "Das Problem tritt nur auf, wenn ich diese Funktion benutze."
       },
       "image_url": ""
     },
@@ -744,10 +1255,11 @@
       "id": "ccd_068",
       "es": "Lo probé siguiendo las instrucciones, pero sigue sin funcionar.",
       "translations": {
-        "en": "I tried it according to the instructions, but it still doesn't work.",
+        "en": "I followed the instructions when I tried it, but it still doesn't work.",
         "pt": "Testei seguindo as instruções, mas continua sem funcionar.",
         "fr": "Je l'ai essayé en suivant les instructions, mais il ne fonctionne toujours pas.",
-        "it": "L'ho provato seguendo le istruzioni, ma continua a non funzionare."
+        "it": "L'ho provato seguendo le istruzioni, ma continua a non funzionare.",
+        "de": "Ich habe es nach Anleitung ausprobiert, aber es funktioniert immer noch nicht."
       },
       "image_url": ""
     },
@@ -758,7 +1270,8 @@
         "en": "I can show you a photo of the defect.",
         "pt": "Posso mostrar uma foto do defeito.",
         "fr": "Je peux vous montrer une photo du défaut.",
-        "it": "Posso mostrarle una foto del difetto."
+        "it": "Posso mostrarle una foto del difetto.",
+        "de": "Ich kann Ihnen ein Foto des Mangels zeigen."
       },
       "image_url": ""
     },
@@ -769,7 +1282,8 @@
         "en": "Can you check the product with me?",
         "pt": "Pode verificar o produto comigo?",
         "fr": "Pouvez-vous vérifier le produit avec moi ?",
-        "it": "Può controllare il prodotto insieme a me?"
+        "it": "Può controllare il prodotto insieme a me?",
+        "de": "Können Sie das Produkt mit mir zusammen überprüfen?"
       },
       "image_url": ""
     },
@@ -780,7 +1294,8 @@
         "en": "I'd like to exchange it for one that works.",
         "pt": "Gostaria de trocar por um que funcione.",
         "fr": "Je voudrais l'échanger contre un article qui fonctionne.",
-        "it": "Vorrei cambiarlo con uno che funzioni."
+        "it": "Vorrei cambiarlo con uno che funzioni.",
+        "de": "Ich würde es gern gegen ein funktionierendes Exemplar umtauschen."
       },
       "image_url": ""
     },
@@ -788,10 +1303,11 @@
       "id": "ccd_072",
       "es": "No tiene ningún defecto, pero la talla no me queda bien.",
       "translations": {
-        "en": "There's nothing wrong with it, but the size doesn't fit me.",
-        "pt": "Não tem defeito, mas o tamanho não ficou bom em mim.",
+        "en": "There's nothing wrong with it, but it doesn't fit me.",
+        "pt": "Não tem defeito, mas o tamanho não serve para mim.",
         "fr": "Il n'a aucun défaut, mais la taille ne me convient pas.",
-        "it": "Non ha difetti, ma la taglia non mi va bene."
+        "it": "Non ha difetti, ma la taglia non mi va bene.",
+        "de": "Es hat keinen Mangel, aber die Größe passt mir nicht."
       },
       "image_url": ""
     },
@@ -802,7 +1318,8 @@
         "en": "I bought it as a gift, but the person already has one.",
         "pt": "Comprei para dar de presente, mas a pessoa já tem um.",
         "fr": "Je l'ai acheté pour l'offrir, mais la personne en a déjà un.",
-        "it": "L'ho comprato per regalarlo, ma la persona ne ha già uno."
+        "it": "L'ho comprato per regalarlo, ma la persona ne ha già uno.",
+        "de": "Ich habe es als Geschenk gekauft, aber die Person hat schon so eins."
       },
       "image_url": ""
     },
@@ -813,7 +1330,8 @@
         "en": "I haven't used it; I only took it out of the box.",
         "pt": "Não usei; só tirei da caixa.",
         "fr": "Je ne l'ai pas utilisé ; je l'ai seulement sorti de la boîte.",
-        "it": "Non l'ho usato; l'ho solo tolto dalla scatola."
+        "it": "Non l'ho usato; l'ho solo tolto dalla scatola.",
+        "de": "Ich habe es nicht benutzt. Ich habe es nur aus dem Karton genommen."
       },
       "image_url": ""
     },
@@ -824,7 +1342,8 @@
         "en": "Here are the receipt and the original packaging.",
         "pt": "Aqui estão o recibo e a embalagem original.",
         "fr": "Voici le ticket de caisse et l'emballage d'origine.",
-        "it": "Ecco lo scontrino e la confezione originale."
+        "it": "Ecco lo scontrino e la confezione originale.",
+        "de": "Hier sind der Kassenbon und die Originalverpackung."
       },
       "image_url": ""
     },
@@ -835,7 +1354,8 @@
         "en": "I can't find the receipt, but I have the purchase confirmation.",
         "pt": "Não encontro o recibo, mas tenho a confirmação da compra.",
         "fr": "Je ne trouve pas le ticket, mais j'ai la confirmation d'achat.",
-        "it": "Non trovo lo scontrino, ma ho la conferma dell'acquisto."
+        "it": "Non trovo lo scontrino, ma ho la conferma dell'acquisto.",
+        "de": "Ich finde den Kassenbon nicht, aber ich habe die Kaufbestätigung."
       },
       "image_url": ""
     },
@@ -846,7 +1366,8 @@
         "en": "Is this digital proof of purchase enough?",
         "pt": "Este comprovante digital é suficiente?",
         "fr": "Cette preuve d'achat numérique suffit-elle ?",
-        "it": "Questa prova d'acquisto digitale è sufficiente?"
+        "it": "Questa prova d'acquisto digitale è sufficiente?",
+        "de": "Reicht dieser digitale Kaufbeleg aus?"
       },
       "image_url": ""
     },
@@ -855,11 +1376,18 @@
       "es": "La compra está a nombre de mi pareja.",
       "translations": {
         "en": "The purchase is in my partner's name.",
-        "pt": "A compra está no nome do meu parceiro ou da minha parceira.",
-        "fr": "L'achat est au nom de mon partenaire ou de ma partenaire.",
-        "it": "L'acquisto è a nome del mio compagno o della mia compagna."
+        "pt": "A compra está no nome do meu parceiro. / A compra está no nome da minha parceira.",
+        "fr": "L'achat est au nom de mon partenaire. / L'achat est au nom de ma partenaire.",
+        "it": "L'acquisto è a nome del mio compagno. / L'acquisto è a nome della mia compagna.",
+        "de": "Der Kauf läuft auf den Namen meines Partners. / Der Kauf läuft auf den Namen meiner Partnerin."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "La primera alternativa se refiere a una pareja masculina; la segunda, a una femenina.",
+        "it": "La primera alternativa se refiere a una pareja masculina; la segunda, a una femenina.",
+        "fr": "La primera alternativa se refiere a una pareja masculina; la segunda, a una femenina.",
+        "de": "La primera alternativa se refiere a una pareja masculina; la segunda, a una femenina."
+      }
     },
     {
       "id": "ccd_079",
@@ -868,7 +1396,8 @@
         "en": "Does the person who made the purchase need to come in?",
         "pt": "A pessoa que fez a compra precisa vir?",
         "fr": "La personne qui a effectué l'achat doit-elle venir ?",
-        "it": "Deve venire la persona che ha fatto l'acquisto?"
+        "it": "Deve venire la persona che ha fatto l'acquisto?",
+        "de": "Muss die Person, die es gekauft hat, selbst vorbeikommen?"
       },
       "image_url": ""
     },
@@ -879,7 +1408,8 @@
         "en": "I'd prefer the same model in a different size.",
         "pt": "Prefiro o mesmo modelo em outro tamanho.",
         "fr": "Je préfère le même modèle dans une autre taille.",
-        "it": "Preferisco lo stesso modello in un'altra taglia."
+        "it": "Preferisco lo stesso modello in un'altra taglia.",
+        "de": "Ich hätte lieber dasselbe Modell in einer anderen Größe."
       },
       "image_url": ""
     },
@@ -890,7 +1420,8 @@
         "en": "If you don't have the same one, I'd like to see what alternatives you offer.",
         "pt": "Se não tiverem um igual, gostaria de ver quais alternativas oferecem.",
         "fr": "Si vous n'avez pas le même, je voudrais voir quelles alternatives vous proposez.",
-        "it": "Se non ne avete uno uguale, vorrei vedere quali alternative offrite."
+        "it": "Se non ne avete uno uguale, vorrei vedere quali alternative offrite.",
+        "de": "Wenn Sie nicht dasselbe Modell haben, würde ich gern wissen, welche Alternativen Sie anbieten."
       },
       "image_url": ""
     },
@@ -901,7 +1432,8 @@
         "en": "Do I have to pay the price difference?",
         "pt": "Preciso pagar a diferença de preço?",
         "fr": "Dois-je payer la différence de prix ?",
-        "it": "Devo pagare la differenza di prezzo?"
+        "it": "Devo pagare la differenza di prezzo?",
+        "de": "Muss ich den Preisunterschied bezahlen?"
       },
       "image_url": ""
     },
@@ -912,7 +1444,8 @@
         "en": "The new item costs less. How is the difference refunded?",
         "pt": "O novo produto custa menos. Como a diferença é devolvida?",
         "fr": "Le nouvel article coûte moins cher. Comment la différence est-elle remboursée ?",
-        "it": "Il nuovo articolo costa meno. Come viene rimborsata la differenza?"
+        "it": "Il nuovo articolo costa meno. Come viene rimborsata la differenza?",
+        "de": "Der neue Artikel kostet weniger. Wie wird mir die Differenz erstattet?"
       },
       "image_url": ""
     },
@@ -923,7 +1456,8 @@
         "en": "I no longer want an exchange; I'd rather return it and ask for a refund.",
         "pt": "Não quero mais trocar; prefiro devolver e pedir um reembolso.",
         "fr": "Je ne veux plus l'échanger ; je préfère le retourner et demander un remboursement.",
-        "it": "Non voglio più cambiarlo; preferisco restituirlo e chiedere un rimborso."
+        "it": "Non voglio più cambiarlo; preferisco restituirlo e chiedere un rimborso.",
+        "de": "Ich möchte es nicht mehr umtauschen. Ich würde es lieber zurückgeben und um eine Rückerstattung bitten."
       },
       "image_url": ""
     },
@@ -932,9 +1466,10 @@
       "es": "¿Se devuelve el dinero a la misma tarjeta con la que pagué?",
       "translations": {
         "en": "Is the money refunded to the same card I paid with?",
-        "pt": "O dinheiro é devolvido para o mesmo cartão que usei para pagar?",
+        "pt": "O reembolso é feito no mesmo cartão que usei para pagar?",
         "fr": "L'argent est-il remboursé sur la carte utilisée pour le paiement ?",
-        "it": "Il denaro viene rimborsato sulla stessa carta con cui ho pagato?"
+        "it": "Il denaro viene rimborsato sulla stessa carta con cui ho pagato?",
+        "de": "Wird mir das Geld auf dieselbe Karte zurückerstattet, mit der ich bezahlt habe?"
       },
       "image_url": ""
     },
@@ -945,7 +1480,8 @@
         "en": "How long does the refund usually take?",
         "pt": "Quanto tempo o reembolso costuma levar?",
         "fr": "Combien de temps le remboursement prend-il généralement ?",
-        "it": "Quanto tempo ci vuole di solito per il rimborso?"
+        "it": "Quanto tempo ci vuole di solito per il rimborso?",
+        "de": "Wie lange dauert die Rückerstattung normalerweise?"
       },
       "image_url": ""
     },
@@ -956,7 +1492,8 @@
         "en": "Does the refund include the shipping cost?",
         "pt": "O reembolso inclui o custo do frete?",
         "fr": "Le remboursement comprend-il les frais de livraison ?",
-        "it": "Il rimborso comprende le spese di spedizione?"
+        "it": "Il rimborso comprende le spese di spedizione?",
+        "de": "Umfasst die Rückerstattung auch die Versandkosten?"
       },
       "image_url": ""
     },
@@ -967,9 +1504,13 @@
         "en": "Can you give me confirmation of the return?",
         "pt": "Pode me dar uma confirmação da devolução?",
         "fr": "Pouvez-vous me donner une confirmation du retour ?",
-        "it": "Può darmi una conferma del reso?"
+        "it": "Può darmi una conferma del reso?",
+        "de": "Können Sie mir die Rückgabe bestätigen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Constancia de que la tienda recibió el producto devuelto)"
+      }
     },
     {
       "id": "ccd_089",
@@ -978,7 +1519,8 @@
         "en": "Where can I check the status of my refund?",
         "pt": "Onde posso consultar o status do reembolso?",
         "fr": "Où puis-je consulter l'état de mon remboursement ?",
-        "it": "Dove posso controllare lo stato del rimborso?"
+        "it": "Dove posso controllare lo stato del rimborso?",
+        "de": "Wo kann ich den Status meiner Rückerstattung prüfen?"
       },
       "image_url": ""
     },
@@ -989,7 +1531,8 @@
         "en": "I want to return only one of the items in the order.",
         "pt": "Quero devolver só um dos produtos do pedido.",
         "fr": "Je veux retourner seulement un des articles de la commande.",
-        "it": "Voglio restituire solo uno degli articoli dell'ordine."
+        "it": "Voglio restituire solo uno degli articoli dell'ordine.",
+        "de": "Ich möchte nur einen Artikel aus der Bestellung zurückgeben."
       },
       "image_url": ""
     },
@@ -999,19 +1542,21 @@
       "translations": {
         "en": "How do I request a return through my account?",
         "pt": "Como solicito uma devolução pela minha conta?",
-        "fr": "Comment demander un retour depuis mon compte ?",
-        "it": "Come richiedo un reso dal mio account?"
+        "fr": "Comment puis-je demander un retour depuis mon compte ?",
+        "it": "Come richiedo un reso dal mio account?",
+        "de": "Wie beantrage ich über mein Kundenkonto eine Rückgabe?"
       },
       "image_url": ""
     },
     {
       "id": "ccd_092",
-      "es": "¿Necesito una autorización antes de enviar el producto?",
+      "es": "¿Necesito una autorización antes de enviar el producto de vuelta?",
       "translations": {
         "en": "Do I need authorization before shipping the product back?",
-        "pt": "Preciso de autorização antes de enviar o produto?",
+        "pt": "Preciso de autorização antes de enviar o produto de volta?",
         "fr": "Ai-je besoin d'une autorisation avant de renvoyer le produit ?",
-        "it": "Mi serve un'autorizzazione prima di rispedire il prodotto?"
+        "it": "Mi serve un'autorizzazione prima di rispedire il prodotto?",
+        "de": "Brauche ich eine Genehmigung, bevor ich das Produkt zurückschicke?"
       },
       "image_url": ""
     },
@@ -1022,7 +1567,8 @@
         "en": "Do I need to print a label, or can I show a code?",
         "pt": "Preciso imprimir uma etiqueta ou posso mostrar um código?",
         "fr": "Dois-je imprimer une étiquette ou puis-je présenter un code ?",
-        "it": "Devo stampare un'etichetta o posso mostrare un codice?"
+        "it": "Devo stampare un'etichetta o posso mostrare un codice?",
+        "de": "Muss ich ein Etikett ausdrucken oder kann ich einen Code vorzeigen?"
       },
       "image_url": ""
     },
@@ -1031,9 +1577,10 @@
       "es": "¿Pasan a recogerlo o tengo que llevarlo a un punto de entrega?",
       "translations": {
         "en": "Will someone pick it up, or do I need to take it to a drop-off point?",
-        "pt": "Vão buscar ou preciso levar a um ponto de entrega?",
+        "pt": "Vocês vêm buscar o produto ou preciso levar a um ponto de entrega?",
         "fr": "Venez-vous le récupérer ou dois-je le déposer dans un point de dépôt ?",
-        "it": "Venite a ritirarlo o devo portarlo a un punto di consegna?"
+        "it": "Venite a ritirarlo o devo portarlo a un punto di consegna?",
+        "de": "Wird es abgeholt oder muss ich es zu einer Abgabestelle bringen?"
       },
       "image_url": ""
     },
@@ -1044,29 +1591,32 @@
         "en": "What accessories should I include in the return package?",
         "pt": "Quais acessórios devo incluir no pacote de devolução?",
         "fr": "Quels accessoires dois-je mettre dans le colis de retour ?",
-        "it": "Quali accessori devo includere nel pacco del reso?"
+        "it": "Quali accessori devo includere nel pacco del reso?",
+        "de": "Welches Zubehör muss ich in das Rücksendepaket legen?"
       },
       "image_url": ""
     },
     {
       "id": "ccd_096",
-      "es": "Quiero conservar una prueba de que envié el producto.",
+      "es": "Quiero conservar una prueba de que envié el producto de vuelta.",
       "translations": {
         "en": "I want to keep proof that I shipped the product back.",
-        "pt": "Quero guardar uma prova de que enviei o produto.",
-        "fr": "Je veux conserver une preuve de l'envoi du produit.",
-        "it": "Voglio conservare una prova di aver spedito il prodotto."
+        "pt": "Quero guardar uma prova de que enviei o produto de volta.",
+        "fr": "Je veux garder une preuve que j'ai renvoyé le produit.",
+        "it": "Voglio conservare una prova di aver rispedito il prodotto.",
+        "de": "Ich möchte einen Nachweis dafür aufbewahren, dass ich das Produkt zurückgeschickt habe."
       },
       "image_url": ""
     },
     {
       "id": "ccd_097",
-      "es": "El seguimiento indica que recibieron la devolución ayer.",
+      "es": "El rastreo del paquete indica que recibieron la devolución ayer.",
       "translations": {
         "en": "The tracking information says you received the return yesterday.",
         "pt": "O rastreamento indica que vocês receberam a devolução ontem.",
         "fr": "Le suivi indique que vous avez reçu le retour hier.",
-        "it": "Il tracciamento indica che avete ricevuto il reso ieri."
+        "it": "Il tracciamento indica che avete ricevuto il reso ieri.",
+        "de": "Laut Sendungsverfolgung haben Sie die Rücksendung gestern erhalten."
       },
       "image_url": ""
     },
@@ -1077,7 +1627,8 @@
         "en": "Will you inspect it before approving the refund?",
         "pt": "Vão verificar antes de aprovar o reembolso?",
         "fr": "Allez-vous le vérifier avant d'approuver le remboursement ?",
-        "it": "Lo controllerete prima di approvare il rimborso?"
+        "it": "Lo controllerete prima di approvare il rimborso?",
+        "de": "Prüfen Sie es, bevor Sie die Rückerstattung genehmigen?"
       },
       "image_url": ""
     },
@@ -1088,7 +1639,8 @@
         "en": "I was told you don't accept the return. Can you explain why?",
         "pt": "Me disseram que não aceitam a devolução. Pode explicar o motivo?",
         "fr": "On m'a dit que vous n'acceptez pas le retour. Pouvez-vous expliquer pourquoi ?",
-        "it": "Mi hanno detto che non accettate il reso. Può spiegarmi il motivo?"
+        "it": "Mi hanno detto che non accettate il reso. Può spiegarmi il motivo?",
+        "de": "Mir wurde gesagt, dass Sie die Rückgabe nicht akzeptieren. Können Sie mir erklären, warum?"
       },
       "image_url": ""
     },
@@ -1099,7 +1651,8 @@
         "en": "Which requirement hasn't been met in this case?",
         "pt": "Qual condição não foi cumprida neste caso?",
         "fr": "Quelle condition n'est pas remplie dans ce cas ?",
-        "it": "Quale condizione non è soddisfatta in questo caso?"
+        "it": "Quale condizione non è soddisfatta in questo caso?",
+        "de": "Welche Bedingung ist in diesem Fall nicht erfüllt?"
       },
       "image_url": ""
     },
@@ -1110,7 +1663,8 @@
         "en": "The return period has ended, but the problem is a product defect.",
         "pt": "O prazo já passou, mas o problema é um defeito do produto.",
         "fr": "Le délai est dépassé, mais le problème est un défaut du produit.",
-        "it": "Il termine è scaduto, ma il problema è un difetto del prodotto."
+        "it": "Il termine è scaduto, ma il problema è un difetto del prodotto.",
+        "de": "Die Frist ist abgelaufen, aber das Produkt hat einen Mangel."
       },
       "image_url": ""
     },
@@ -1121,7 +1675,8 @@
         "en": "Can you check whether the warranty covers this problem?",
         "pt": "Pode verificar se a garantia cobre este problema?",
         "fr": "Pouvez-vous vérifier si la garantie couvre ce problème ?",
-        "it": "Può verificare se la garanzia copre questo problema?"
+        "it": "Può verificare se la garanzia copre questo problema?",
+        "de": "Können Sie prüfen, ob die Garantie dieses Problem abdeckt?"
       },
       "image_url": ""
     },
@@ -1132,7 +1687,8 @@
         "en": "Do you offer a repair or replacement in this case?",
         "pt": "Oferecem conserto ou substituição neste caso?",
         "fr": "Proposez-vous une réparation ou un remplacement dans ce cas ?",
-        "it": "Offrite una riparazione o una sostituzione in questo caso?"
+        "it": "Offrite una riparazione o una sostituzione in questo caso?",
+        "de": "Bieten Sie in diesem Fall eine Reparatur oder einen Ersatz an?"
       },
       "image_url": ""
     },
@@ -1141,9 +1697,10 @@
       "es": "¿Cuánto tardaría la reparación y tendría algún costo?",
       "translations": {
         "en": "How long would the repair take, and would there be a charge?",
-        "pt": "Quanto tempo o conserto levaria e teria algum custo?",
+        "pt": "Quanto tempo o conserto levaria? Teria algum custo?",
         "fr": "Combien de temps prendrait la réparation et serait-elle payante ?",
-        "it": "Quanto tempo richiederebbe la riparazione e avrebbe un costo?"
+        "it": "Quanto tempo richiederebbe la riparazione e avrebbe un costo?",
+        "de": "Wie lange würde die Reparatur dauern, und würde sie etwas kosten?"
       },
       "image_url": ""
     },
@@ -1154,7 +1711,8 @@
         "en": "I don't want to authorize a paid repair without knowing the price.",
         "pt": "Não quero autorizar um conserto pago sem saber o preço.",
         "fr": "Je ne veux pas autoriser une réparation payante sans connaître le prix.",
-        "it": "Non voglio autorizzare una riparazione a pagamento senza conoscere il prezzo."
+        "it": "Non voglio autorizzare una riparazione a pagamento senza conoscere il prezzo.",
+        "de": "Ich möchte keine kostenpflichtige Reparatur genehmigen, ohne den Preis zu kennen."
       },
       "image_url": ""
     },
@@ -1165,7 +1723,8 @@
         "en": "Should I contact the store or the manufacturer?",
         "pt": "Devo entrar em contato com a loja ou com o fabricante?",
         "fr": "Dois-je contacter le magasin ou le fabricant ?",
-        "it": "Devo contattare il negozio o il produttore?"
+        "it": "Devo contattare il negozio o il produttore?",
+        "de": "Soll ich mich an das Geschäft oder an den Hersteller wenden?"
       },
       "image_url": ""
     },
@@ -1176,7 +1735,8 @@
         "en": "I need a case number to follow up.",
         "pt": "Preciso de um número de protocolo para acompanhar.",
         "fr": "J'ai besoin d'un numéro de dossier pour le suivi.",
-        "it": "Mi serve un numero di pratica per seguire il caso."
+        "it": "Mi serve un numero di pratica per seguire il caso.",
+        "de": "Ich brauche eine Vorgangsnummer, damit ich später nachfragen kann."
       },
       "image_url": ""
     },
@@ -1187,7 +1747,8 @@
         "en": "Can you tell me when I'll receive a response?",
         "pt": "Pode me informar quando vou receber uma resposta?",
         "fr": "Pouvez-vous m'indiquer quand je recevrai une réponse ?",
-        "it": "Può indicarmi quando riceverò una risposta?"
+        "it": "Può indicarmi quando riceverò una risposta?",
+        "de": "Können Sie mir sagen, wann ich eine Antwort bekomme?"
       },
       "image_url": ""
     },
@@ -1195,10 +1756,11 @@
       "id": "ccd_109",
       "es": "Acepto el cambio por el mismo modelo, sin costo adicional.",
       "translations": {
-        "en": "I accept an exchange for the same model at no extra charge.",
+        "en": "I'm okay with exchanging it for the same model at no extra charge.",
         "pt": "Aceito a troca pelo mesmo modelo, sem custo adicional.",
         "fr": "J'accepte l'échange contre le même modèle, sans frais supplémentaires.",
-        "it": "Accetto il cambio con lo stesso modello, senza costi aggiuntivi."
+        "it": "Accetto il cambio con lo stesso modello, senza costi aggiuntivi.",
+        "de": "Ich bin mit einem Umtausch gegen dasselbe Modell ohne Aufpreis einverstanden."
       },
       "image_url": ""
     },
@@ -1209,29 +1771,32 @@
         "en": "Before I leave, I'd like to check that the replacement works.",
         "pt": "Antes de ir embora, gostaria de verificar se o produto substituto funciona.",
         "fr": "Avant de partir, je voudrais vérifier que l'article de remplacement fonctionne.",
-        "it": "Prima di andare via, vorrei verificare che il prodotto sostitutivo funzioni."
+        "it": "Prima di andare via, vorrei verificare che il prodotto sostitutivo funzioni.",
+        "de": "Bevor ich gehe, würde ich gern prüfen, ob der Ersatz funktioniert."
       },
       "image_url": ""
     },
     {
       "id": "ccd_111",
-      "es": "Ya recibí el reembolso, pero el importe no coincide.",
+      "es": "Ya recibí el reembolso, pero la cantidad no es la que esperaba.",
       "translations": {
-        "en": "I've received the refund, but the amount doesn't match.",
-        "pt": "Já recebi o reembolso, mas o valor não confere.",
-        "fr": "J'ai reçu le remboursement, mais le montant ne correspond pas.",
-        "it": "Ho ricevuto il rimborso, ma l'importo non corrisponde."
+        "en": "I've received the refund, but the amount isn't what I expected.",
+        "pt": "Já recebi o reembolso, mas o valor não foi o que eu esperava.",
+        "fr": "J'ai reçu le remboursement, mais le montant ne correspond pas à ce que j'attendais.",
+        "it": "Ho ricevuto il rimborso, ma l'importo non è quello che mi aspettavo.",
+        "de": "Die Rückerstattung ist schon da, aber der Betrag ist anders als erwartet."
       },
       "image_url": ""
     },
     {
       "id": "ccd_112",
-      "es": "¿Puede explicarme cómo calcularon el importe devuelto?",
+      "es": "¿Puede explicarme cómo calcularon la cantidad que me devolvieron?",
       "translations": {
         "en": "Can you explain how you calculated the refund amount?",
         "pt": "Pode me explicar como calcularam o valor devolvido?",
         "fr": "Pouvez-vous m'expliquer comment vous avez calculé le montant remboursé ?",
-        "it": "Può spiegarmi come avete calcolato l'importo rimborsato?"
+        "it": "Può spiegarmi come avete calcolato l'importo rimborsato?",
+        "de": "Können Sie mir erklären, wie Sie den erstatteten Betrag berechnet haben?"
       },
       "image_url": ""
     },
@@ -1242,7 +1807,8 @@
         "en": "The confirmation says it's a refund, not an exchange.",
         "pt": "A confirmação indica um reembolso, não uma troca.",
         "fr": "La confirmation indique un remboursement, pas un échange.",
-        "it": "La conferma indica un rimborso, non un cambio."
+        "it": "La conferma indica un rimborso, non un cambio.",
+        "de": "Die Bestätigung nennt eine Rückerstattung, keinen Umtausch."
       },
       "image_url": ""
     },
@@ -1250,10 +1816,11 @@
       "id": "ccd_114",
       "es": "Con esta solución, el problema queda resuelto.",
       "translations": {
-        "en": "This solution resolves the problem.",
+        "en": "This takes care of the problem.",
         "pt": "Com esta solução, o problema fica resolvido.",
         "fr": "Avec cette solution, le problème est résolu.",
-        "it": "Con questa soluzione, il problema è risolto."
+        "it": "Con questa soluzione, il problema è risolto.",
+        "de": "Mit dieser Lösung ist das Problem behoben."
       },
       "image_url": ""
     }
