@@ -51,7 +51,7 @@
       "translations": {
         "en": "The ticket vending machine",
         "pt": "A máquina de venda de bilhetes",
-        "fr": "Le distributeur de billets",
+        "fr": "Le distributeur automatique de titres de transport",
         "it": "Il distributore automatico di biglietti",
         "de": "Der Fahrkartenautomat"
       },
@@ -66,7 +66,7 @@
           "es": "La máquina para comprar boletos solo acepta tarjeta."
         },
         "fr": {
-          "text": "Le distributeur de billets n'accepte que les cartes.",
+          "text": "Le distributeur automatique de titres de transport n'accepte que les cartes.",
           "es": "La máquina para comprar boletos solo acepta tarjeta."
         },
         "it": {
@@ -81,7 +81,7 @@
       "notes": {
         "en": "(Plural: The ticket vending machines)",
         "pt": "(Plural: As máquinas de venda de bilhetes)",
-        "fr": "(Plural: Les distributeurs de billets)",
+        "fr": "(Plural: Les distributeurs automatiques de titres de transport) «Distributeur de billets» sin contexto también puede ser un cajero automático.",
         "it": "(Plural: I distributori automatici di biglietti)",
         "de": "(Plural: Die Fahrkartenautomaten)"
       }
@@ -145,7 +145,7 @@
         },
         "pt": {
           "text": "Aproxime o cartão do leitor de cartões até ouvir um sinal.",
-          "es": "Acerca la tarjeta al lector hasta que suene."
+          "es": "Acerca la tarjeta al lector hasta que escuches un sonido."
         },
         "fr": {
           "text": "Approche la carte du lecteur de cartes jusqu'au bip.",
@@ -182,23 +182,23 @@
       "examples": {
         "en": {
           "text": "The turnstile opens when you tap your card.",
-          "es": "El torniquete se abre al pasar la tarjeta."
+          "es": "El torniquete se abre al acercar la tarjeta al lector."
         },
         "pt": {
           "text": "A catraca abre quando você aproxima o cartão.",
-          "es": "El torniquete se abre al pasar la tarjeta."
+          "es": "El torniquete se abre al acercar la tarjeta al lector."
         },
         "fr": {
           "text": "Le tourniquet se débloque quand tu présentes ta carte.",
-          "es": "El torniquete se abre al pasar la tarjeta."
+          "es": "El torniquete se abre al acercar la tarjeta al lector."
         },
         "it": {
-          "text": "Il tornello si sblocca quando passi la carta.",
-          "es": "El torniquete se abre al pasar la tarjeta."
+          "text": "Il tornello si sblocca quando avvicini la carta al lettore.",
+          "es": "El torniquete se abre al acercar la tarjeta al lector."
         },
         "de": {
           "text": "Das Drehkreuz öffnet sich, wenn du die Karte ans Lesegerät hältst.",
-          "es": "El torniquete se abre al pasar la tarjeta."
+          "es": "El torniquete se abre al acercar la tarjeta al lector."
         }
       },
       "notes": {
@@ -215,7 +215,7 @@
       "translations": {
         "en": "The ticket inspector",
         "pt": "O fiscal de bilhetes",
-        "fr": "Le contrôleur de billets",
+        "fr": "Le contrôleur",
         "it": "Il controllore dei biglietti",
         "de": "Der Fahrkartenkontrolleur"
       },
@@ -230,7 +230,7 @@
           "es": "La inspectora de boletos pasó por todo el vagón."
         },
         "fr": {
-          "text": "La contrôleuse de billets a traversé toute la voiture.",
+          "text": "La contrôleuse est passée dans toute la voiture du train.",
           "es": "La inspectora de boletos pasó por todo el vagón."
         },
         "it": {
@@ -245,7 +245,7 @@
       "notes": {
         "en": "(Plural: The ticket inspectors)",
         "pt": "(Plural: Os fiscais de bilhetes / As fiscais de bilhetes) Forma femenina: «a fiscal de bilhetes».",
-        "fr": "(Plural: Les contrôleurs de billets / Les contrôleuses de billets) Forma femenina: «la contrôleuse de billets».",
+        "fr": "(Plural: Les contrôleurs / Les contrôleuses) Forma femenina: «la contrôleuse». En este contexto, revisa los boletos.",
         "it": "(Plural: I controllori dei biglietti / Le controllore dei biglietti) Forma femenina: «la controllora dei biglietti».",
         "de": "(Plural: Die Fahrkartenkontrolleure / Die Fahrkartenkontrolleurinnen) Forma femenina: «die Fahrkartenkontrolleurin».",
         "es": "Forma femenina: «la inspectora de boletos»."
@@ -287,7 +287,7 @@
       "notes": {
         "en": "(Plural: The bus fare collectors)",
         "pt": "(Plural: Os cobradores de ônibus / As cobradoras de ônibus) Forma femenina: «a cobradora de ônibus».",
-        "fr": "(Plural: Les receveurs d'autobus / Les receveuses d'autobus) Forma femenina: «la receveuse d'autobus».",
+        "fr": "(Plural: Les receveurs d'autobus / Les receveuses d'autobus) Forma femenina: «la receveuse d'autobus». Puesto tradicional; en muchos servicios ya no hay una persona dedicada a cobrar.",
         "it": "(Plural: Gli addetti alla riscossione del biglietto sull'autobus / Le addette alla riscossione del biglietto sull'autobus) Forma femenina: «l'addetta alla riscossione del biglietto sull'autobus».",
         "de": "(Plural: Die Kassierer im Bus / Die Kassiererinnen im Bus) Forma femenina: «die Kassiererin im Bus».",
         "es": "Se refiere a la persona que cobra el pasaje en el autobús, no al inspector que revisa los boletos. Forma femenina: «la cobradora del autobús»."
@@ -306,24 +306,24 @@
       "image_url": "",
       "examples": {
         "en": {
-          "text": "Thanks to fare integration, there's no extra charge to transfer to the bus.",
-          "es": "Gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
+          "text": "In this city, fare integration means there's no extra charge when you transfer to the bus.",
+          "es": "En esta ciudad, gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
         },
         "pt": {
-          "text": "Graças à integração tarifária, não há cobrança extra na baldeação para o ônibus.",
-          "es": "Gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
+          "text": "Nesta cidade, graças à integração tarifária, a baldeação para o ônibus não tem custo extra.",
+          "es": "En esta ciudad, gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
         },
         "fr": {
-          "text": "Grâce à l'intégration tarifaire, la correspondance avec le bus n'est pas facturée en plus.",
-          "es": "Gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
+          "text": "Dans cette ville, grâce à l'intégration tarifaire, on ne paie pas de supplément quand on prend le bus en correspondance.",
+          "es": "En esta ciudad, gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
         },
         "it": {
-          "text": "Grazie all'integrazione tariffaria, per il cambio con l'autobus non si paga un supplemento.",
-          "es": "Gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
+          "text": "In questa città, grazie all'integrazione tariffaria, non si paga un supplemento quando si cambia per prendere l'autobus.",
+          "es": "En esta ciudad, gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
         },
         "de": {
-          "text": "Dank der Tarifintegration kostet der Umstieg in den Bus nichts extra.",
-          "es": "Gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
+          "text": "In dieser Stadt kostet der Umstieg in den Bus dank der Tarifintegration nichts extra.",
+          "es": "En esta ciudad, gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
         }
       }
     },
@@ -485,7 +485,7 @@
         }
       },
       "notes": {
-        "es": "Autoriza un solo viaje; no implica que incluya el regreso. Puede incluir transbordos según el sistema.",
+        "es": "(Enfatiza el número de viajes: uno. Según el sistema, puede incluir transbordos)",
         "en": "(Plural: The single-ride tickets)",
         "pt": "(Plural: Os bilhetes para uma viagem)",
         "fr": "(Plural: Les tickets pour un trajet)",
@@ -531,7 +531,8 @@
         "pt": "(Plural: As passagens só de ida)",
         "fr": "(Plural: Les billets aller simple)",
         "it": "(Plural: I biglietti di sola andata)",
-        "de": "(Plural: Die Fahrkarten für die einfache Fahrt)"
+        "de": "(Plural: Die Fahrkarten für die einfache Fahrt)",
+        "es": "(Enfatiza el sentido del trayecto: solo ida, sin regreso)"
       }
     },
     {
@@ -958,8 +959,8 @@
       "image_url": "",
       "examples": {
         "en": {
-          "text": "We need a card reload before taking the subway.",
-          "es": "Necesitamos hacer una recarga de la tarjeta antes de tomar el metro."
+          "text": "The card reload hasn't shown up yet.",
+          "es": "La recarga de la tarjeta todavía no aparece."
         },
         "pt": {
           "text": "Você pode fazer a recarga do cartão na máquina antes de entrar no metrô.",
@@ -975,7 +976,7 @@
         },
         "de": {
           "text": "Das Aufladen der Karte ist am Automaten vor dem U-Bahn-Eingang möglich.",
-          "es": "Puedes recargar la tarjeta en la máquina que está antes de la entrada del metro."
+          "es": "Puedes recargar la tarjeta en la máquina que está frente a la entrada del metro."
         }
       },
       "notes": {
@@ -1022,7 +1023,8 @@
         "en": "(Plural: The available balances)",
         "pt": "(Plural: Os saldos disponíveis)",
         "fr": "(Plural: Les soldes disponibles)",
-        "it": "(Plural: I saldi disponibili)"
+        "it": "(Plural: I saldi disponibili)",
+        "de": "(Plural: Die verfügbaren Guthaben)"
       }
     },
     {
@@ -1077,7 +1079,7 @@
       "examples": {
         "en": {
           "text": "Activate your mobile ticket in the app before boarding.",
-          "es": "Activa el boleto digital en la aplicación antes de subir."
+          "es": "Activa el boleto en tu celular con la aplicación antes de subir."
         },
         "pt": {
           "text": "Ative o bilhete digital no aplicativo antes de embarcar.",
@@ -1227,7 +1229,7 @@
         "pt": "O valor exato da passagem",
         "fr": "L'appoint",
         "it": "L'importo esatto del biglietto",
-        "de": "Der passende Betrag für die Fahrt"
+        "de": "Der genaue Fahrpreis"
       },
       "image_url": "",
       "examples": {
@@ -1248,14 +1250,15 @@
           "es": "En este autobús, si pagas en efectivo, necesitas el importe exacto."
         },
         "de": {
-          "text": "Wenn du in diesem Bus bar zahlst, brauchst du den passenden Betrag für die Fahrt.",
-          "es": "En este autobús, si pagas en efectivo, necesitas el importe exacto."
+          "text": "Zahlst du in diesem Bus bar, musst du den genauen Fahrpreis bereithalten.",
+          "es": "Si pagas en efectivo en este autobús, necesitas el importe exacto."
         }
       },
       "notes": {
         "es": "Para pagar en efectivo sin que tengan que darte cambio.",
         "fr": "Se usa mucho «faire l'appoint» (pagar con el importe exacto).",
-        "en": "También se dice «exact change» cuando hay que pagar justo, sin recibir cambio."
+        "en": "También se dice «exact change» cuando hay que pagar justo, sin recibir cambio.",
+        "de": "«Passend zahlen» significa pagar el importe exacto, sin que te den cambio."
       }
     },
     {
@@ -1496,13 +1499,13 @@
       "translations": {
         "en": "Does this ticket include a transfer?",
         "pt": "Este bilhete dá direito à integração?",
-        "fr": "Ce billet permet-il de faire une correspondance ?",
-        "it": "Con questo biglietto posso cambiare mezzo?",
-        "de": "Kann ich mit dieser Fahrkarte auch umsteigen?"
+        "fr": "Ce billet permet-il une correspondance sans supplément ?",
+        "it": "Con questo biglietto posso cambiare mezzo senza pagare di nuovo?",
+        "de": "Kann ich mit dieser Fahrkarte ohne Aufpreis umsteigen?"
       },
       "image_url": "",
       "notes": {
-        "pt": "(En Brasil, «integração» es la conexión entre servicios incluida en el boleto o en una tarifa combinada)."
+        "pt": "(La «integração» permite combinar servicios con el mismo boleto o con una tarifa de transbordo)"
       }
     },
     {
@@ -1513,7 +1516,7 @@
         "pt": "Posso usar este passe no ônibus, no metrô e no bonde?",
         "fr": "Puis-je utiliser ce pass dans le bus, le métro et le tramway ?",
         "it": "Posso usare questo abbonamento su autobus, metropolitana e tram?",
-        "de": "Kann ich mit diesem Pass Bus, U-Bahn und Straßenbahn fahren?"
+        "de": "Kann ich mit dieser Fahrkarte Bus, U-Bahn und Straßenbahn fahren?"
       },
       "image_url": ""
     },
@@ -1585,7 +1588,7 @@
         "pt": "A validade começa na compra ou no primeiro uso?",
         "fr": "La validité commence-t-elle à l'achat ou à la première utilisation ?",
         "it": "La validità inizia all'acquisto o al primo utilizzo?",
-        "de": "Gilt die Fahrkarte ab dem Kauf oder erst ab der ersten Fahrt?"
+        "de": "Gilt die Fahrkarte ab dem Kauf oder erst ab der ersten Nutzung?"
       },
       "image_url": ""
     },
@@ -1609,7 +1612,7 @@
         "pt": "Há tarifa reduzida para crianças, estudantes ou idosos?",
         "fr": "Y a-t-il un tarif réduit pour les enfants, les étudiants ou les personnes âgées ?",
         "it": "Ci sono tariffe ridotte per bambini, studenti o anziani?",
-        "de": "Gibt es ermäßigte Fahrkarten für Kinder, Studierende oder Senioren?"
+        "de": "Gibt es ermäßigte Fahrpreise für Kinder, Studierende oder ältere Menschen?"
       },
       "image_url": ""
     },
@@ -1675,10 +1678,10 @@
     },
     {
       "id": "tpd156",
-      "es": "¿El precio incluye la tarjeta o la tarjeta se paga aparte?",
+      "es": "¿La tarjeta está incluida en el precio o se paga aparte?",
       "translations": {
-        "en": "Does the price include the card, or is the card charged separately?",
-        "pt": "O preço inclui o cartão ou o cartão é cobrado à parte?",
+        "en": "Is the card included in the price, or do I have to pay for it separately?",
+        "pt": "O preço inclui o cartão ou preciso pagar por ele à parte?",
         "fr": "Le prix comprend-il la carte ou faut-il la payer séparément ?",
         "it": "Il prezzo include la tessera o la tessera si paga a parte?",
         "de": "Ist die Karte im Preis inbegriffen oder kostet sie extra?"
@@ -1709,7 +1712,7 @@
       },
       "image_url": "",
       "notes": {
-        "es": "(QR: código que se escanea para comprobar o validar el boleto)."
+        "es": "(QR: código que se escanea para comprobar o validar el boleto)"
       }
     },
     {
@@ -1743,7 +1746,7 @@
         "en": "Can I pay the fare with a contactless bank card?",
         "pt": "Posso pagar a passagem com um cartão bancário por aproximação?",
         "fr": "Puis-je payer le trajet avec une carte bancaire sans contact ?",
-        "it": "Posso pagare il biglietto con una carta bancaria contactless?",
+        "it": "Posso pagare il biglietto con una carta contactless?",
         "de": "Kann ich die Fahrt mit einer kontaktlosen Bankkarte bezahlen?"
       },
       "image_url": ""
@@ -1788,8 +1791,8 @@
           "es": "La máquina muestra «Pago aceptado» después de cobrar."
         },
         "it": {
-          "text": "La macchinetta mostra «Pagamento accettato» dopo aver riscosso il pagamento.",
-          "es": "La máquina muestra «Pago aceptado» después de cobrar."
+          "text": "Dopo il pagamento, la macchinetta mostra «Pagamento accettato».",
+          "es": "Después de pagar, la máquina muestra «Pago aceptado»."
         },
         "de": {
           "text": "Der Automat zeigt nach dem Bezahlen „Zahlung akzeptiert“ an.",
@@ -1829,7 +1832,7 @@
           "es": "La máquina muestra «Tarjeta rechazada» cuando intento pagar."
         },
         "de": {
-          "text": "Der Automat zeigt „Karte abgelehnt“ an, als ich bezahlen möchte.",
+          "text": "Der Automat zeigt „Karte abgelehnt“ an, wenn ich bezahlen will.",
           "es": "La máquina muestra «Tarjeta rechazada» cuando intento pagar."
         }
       }
@@ -1910,8 +1913,8 @@
       "id": "tpd168",
       "es": "¿La recarga se puede usar de inmediato o tarda en aparecer?",
       "translations": {
-        "en": "Can I use the money right after topping up, or does it take time to show up?",
-        "pt": "Posso usar o saldo da recarga na hora ou demora para aparecer?",
+        "en": "Can I use the balance as soon as I reload the card, or does it take time to show up?",
+        "pt": "Posso usar o saldo assim que recarrego o cartão ou demora para aparecer?",
         "fr": "Puis-je utiliser le solde rechargé tout de suite ou faut-il attendre qu'il apparaisse ?",
         "it": "Posso usare subito il credito appena caricato o devo aspettare che compaia?",
         "de": "Kann ich das aufgeladene Guthaben sofort nutzen oder wird es erst später angezeigt?"
@@ -1974,7 +1977,7 @@
         "pt": "Preciso validar novamente ao fazer baldeação?",
         "fr": "Dois-je valider à nouveau lors d'une correspondance ?",
         "it": "Devo convalidare di nuovo il biglietto quando cambio mezzo?",
-        "de": "Muss ich die Fahrkarte beim Umsteigen noch einmal entwerten?"
+        "de": "Muss ich meine Fahrkarte beim Umsteigen noch einmal am Lesegerät erfassen lassen?"
       },
       "image_url": ""
     },
@@ -1985,8 +1988,8 @@
         "en": "You can transfer with this pass. Please validate it at the reader every time you transfer.",
         "pt": "Este passe permite integração. Valide-o no leitor a cada troca de transporte.",
         "fr": "Ce pass permet les correspondances. Validez-le au lecteur à chaque changement.",
-        "it": "Con questo abbonamento può cambiare mezzo. Lo convalidi al lettore a ogni cambio.",
-        "de": "Mit diesem Pass können Sie umsteigen. Halten Sie ihn aber bei jedem Umstieg erneut ans Lesegerät."
+        "it": "Con questo abbonamento può cambiare mezzo. Lo passi sul lettore a ogni cambio.",
+        "de": "Mit dieser Karte können Sie umsteigen. Halten Sie sie bei jedem Umstieg erneut ans Lesegerät."
       },
       "image_url": "",
       "notes": {
@@ -2017,7 +2020,7 @@
       },
       "image_url": "",
       "notes": {
-        "es": "(Se refiere a la tarifa al cambiar de vehículo, no a un pasaje nuevo)."
+        "es": "(Se refiere a la tarifa al cambiar de vehículo, no a un pasaje nuevo)"
       }
     },
     {
@@ -2027,8 +2030,8 @@
         "en": "If I pay cash, do I need to ask for a transfer slip?",
         "pt": "Se eu pagar em dinheiro, preciso pedir um comprovante para fazer a integração?",
         "fr": "Si je paie en espèces, dois-je demander un ticket de correspondance ?",
-        "it": "Se pago in contanti, devo chiedere un biglietto per la coincidenza?",
-        "de": "Muss ich bei Barzahlung nach einem Umsteigebeleg fragen?"
+        "it": "Se pago in contanti, devo chiedere una ricevuta per poter cambiare mezzo?",
+        "de": "Muss ich bei Barzahlung nach einem Beleg fürs Umsteigen fragen?"
       },
       "image_url": ""
     },
@@ -2076,7 +2079,7 @@
         "pt": "Preciso guardar o bilhete até sair da estação?",
         "fr": "Dois-je conserver le billet jusqu'à la sortie de la station ?",
         "it": "Devo conservare il biglietto fino all'uscita della stazione?",
-        "de": "Muss ich die Fahrkarte behalten, bis ich die Station verlasse?"
+        "de": "Muss ich die Fahrkarte behalten, bis ich die Station verlassen habe?"
       },
       "image_url": ""
     },

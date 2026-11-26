@@ -108,7 +108,7 @@
           "es": "El trolebús pasa por la avenida principal."
         },
         "de": {
-          "text": "Der Oberleitungsbus fährt über die Hauptstraße.",
+          "text": "Der Oberleitungsbus fährt die Hauptstraße entlang.",
           "es": "El trolebús pasa por la avenida principal."
         }
       },
@@ -239,7 +239,8 @@
         "pt": "(Plural: Os veículos leves sobre trilhos) Se abrevia «VLT».",
         "fr": "(Plural: Les métros légers)",
         "it": "(Plural: Le metropolitane leggere)",
-        "de": "(Plural: Die Stadtbahnen)"
+        "de": "(Plural: Die Stadtbahnen) «Stadtbahn» es un equivalente habitual para ciertos sistemas de tren ligero; las categorías varían según la red.",
+        "es": "El tren ligero circula sobre rieles. Los nombres y la clasificación varían de una red a otra."
       }
     },
     {
@@ -549,7 +550,7 @@
         },
         "pt": {
           "text": "Espere na plataforma de embarque, atrás da linha amarela.",
-          "es": "Espera en el andén, detrás de la línea amarilla."
+          "es": "Espere en el andén, detrás de la línea amarilla."
         },
         "fr": {
           "text": "Attends sur le quai, derrière la ligne jaune.",
@@ -766,8 +767,8 @@
           "es": "Cruzamos la avenida por el puente peatonal."
         },
         "de": {
-          "text": "Wir sind über die Fußgängerbrücke auf die andere Seite der Straße gegangen.",
-          "es": "Cruzamos la avenida por el puente peatonal."
+          "text": "Wir haben die Hauptstraße über die Fußgängerbrücke überquert.",
+          "es": "Cruzamos la avenida principal por el puente peatonal."
         }
       },
       "notes": {
@@ -807,7 +808,7 @@
           "es": "La escalera eléctrica que baja al andén está fuera de servicio."
         },
         "de": {
-          "text": "Die Rolltreppe zum Bahnsteig ist außer Betrieb.",
+          "text": "Die Rolltreppe hinunter zum Bahnsteig ist außer Betrieb.",
           "es": "La escalera eléctrica que baja al andén está fuera de servicio."
         }
       },
@@ -1047,8 +1048,8 @@
           "es": "Para llegar al museo tengo que hacer un transbordo."
         },
         "de": {
-          "text": "Um zum Museum zu kommen, muss ich umsteigen.",
-          "es": "Para llegar al museo tengo que hacer un transbordo."
+          "text": "Für den Weg zum Museum ist einmaliges Umsteigen nötig.",
+          "es": "Para llegar al museo es necesario hacer un transbordo."
         }
       },
       "notes": {
@@ -1056,7 +1057,8 @@
         "pt": "(Plural: As baldeações)",
         "fr": "(Plural: Les correspondances)",
         "it": "(Plural: I cambi di linea)",
-        "es": "Se cambia de línea o de vehículo para continuar el mismo viaje."
+        "es": "Se cambia de línea o de vehículo para continuar el mismo viaje.",
+        "de": "«Umsteigen» es aquí un infinitivo sustantivado; se usa normalmente en singular."
       }
     },
     {
@@ -1150,7 +1152,7 @@
         "pt": "Sentido norte no metrô de Manhattan",
         "fr": "Vers le nord dans le métro de Manhattan",
         "it": "Verso nord nella metropolitana di Manhattan",
-        "de": "Richtung Norden in der New Yorker U-Bahn in Manhattan"
+        "de": "Richtung Norden in der U-Bahn von Manhattan"
       },
       "image_url": "",
       "examples": {
@@ -1171,13 +1173,17 @@
           "es": "En el metro de Manhattan, toma un tren hacia el norte para llegar a la calle 96."
         },
         "de": {
-          "text": "Fahr in Manhattan mit der New Yorker U-Bahn Richtung Norden bis zur 96th Street.",
+          "text": "Nimm in der U-Bahn von Manhattan einen Zug Richtung Norden bis zur 96th Street.",
           "es": "En el metro de Manhattan, toma un tren hacia el norte para llegar a la calle 96."
         }
       },
       "notes": {
         "en": "En letreros del metro de Manhattan, «uptown» indica el sentido hacia el norte y «downtown», hacia el sur. Fuera de este contexto no equivalen necesariamente a esos puntos cardinales.",
-        "es": "En Manhattan, «uptown» suele indicar hacia el norte y «downtown» hacia el sur. En otras ciudades, «downtown» suele aludir al centro."
+        "es": "En el metro de Manhattan, «uptown» indica el sentido hacia la parte alta de la isla, normalmente al norte; «downtown» indica el sentido contrario. En otras ciudades, «downtown» suele aludir al centro.",
+        "pt": "En los letreros del metro de Manhattan aparece «Uptown» para este sentido.",
+        "fr": "En los letreros del metro de Manhattan aparece «Uptown» para este sentido.",
+        "it": "En los letreros del metro de Manhattan aparece «Uptown» para este sentido.",
+        "de": "En los letreros del metro de Manhattan aparece «Uptown» para este sentido."
       }
     },
     {
@@ -1235,7 +1241,7 @@
       "examples": {
         "en": {
           "text": "The express service skips five stops between the two terminals.",
-          "es": "El servicio exprés evita cinco paradas entre las dos terminales."
+          "es": "El servicio exprés se salta cinco paradas entre las dos terminales."
         },
         "pt": {
           "text": "O serviço expresso pula cinco paradas entre os dois terminais.",
@@ -1243,11 +1249,11 @@
         },
         "fr": {
           "text": "Le service express saute cinq arrêts entre les deux terminus.",
-          "es": "El servicio exprés evita cinco paradas entre las dos terminales."
+          "es": "El servicio exprés se salta cinco paradas entre las dos terminales de la línea."
         },
         "it": {
           "text": "Il servizio espresso salta cinque fermate tra i due capolinea.",
-          "es": "El servicio exprés evita cinco paradas entre las dos terminales."
+          "es": "El servicio exprés se salta cinco paradas entre las dos terminales de la línea."
         },
         "de": {
           "text": "Die Expressverbindung lässt fünf Haltestellen zwischen den beiden Endstationen aus.",
@@ -1281,7 +1287,7 @@
         },
         "pt": {
           "text": "Escolhemos o serviço que para em todas as estações porque há uma parada perto de casa.",
-          "es": "Elegimos el servicio con parada en todas las estaciones porque para cerca de casa."
+          "es": "Elegimos el servicio con parada en todas las estaciones porque hay una parada cerca de casa."
         },
         "fr": {
           "text": "On a choisi le service omnibus parce qu'il s'arrête près de chez nous.",
@@ -1292,8 +1298,8 @@
           "es": "Elegimos el servicio con parada en todas las estaciones porque para cerca de casa."
         },
         "de": {
-          "text": "Wir haben die Verbindung mit Halt an allen Stationen gewählt, weil sie in der Nähe unserer Wohnung hält.",
-          "es": "Elegimos el servicio con parada en todas las estaciones porque para cerca de nuestro departamento."
+          "text": "Wir haben die Verbindung mit Halt an allen Stationen gewählt, weil eine Station in der Nähe unserer Wohnung liegt.",
+          "es": "Elegimos el servicio con parada en todas las estaciones porque hay una estación cerca de nuestro departamento."
         }
       },
       "notes": {
@@ -1333,7 +1339,7 @@
           "es": "Revisa el horario de salidas antes de ir a la terminal."
         },
         "de": {
-          "text": "Schau in den Abfahrtsplan, bevor du zum Terminal fährst.",
+          "text": "Schau in den Abfahrtsplan, bevor du zum Terminal gehst.",
           "es": "Revisa el horario de salidas antes de ir a la terminal."
         }
       },
@@ -1373,8 +1379,8 @@
           "es": "La frecuencia de paso baja a un tren cada media hora los domingos."
         },
         "de": {
-          "text": "Sonntags gilt ein Takt von dreißig Minuten.",
-          "es": "Los domingos pasa un tren cada treinta minutos."
+          "text": "Sonntags fahren die Züge im 30-Minuten-Takt.",
+          "es": "Los domingos los trenes pasan cada treinta minutos."
         }
       },
       "notes": {
@@ -1382,7 +1388,7 @@
         "pt": "(Plural: As frequências de passagem)",
         "fr": "(Plural: Les fréquences de passage)",
         "it": "(Plural: Le frequenze delle corse)",
-        "de": "(Plural: Die Takte)"
+        "de": "(Plural: Die Takte) Los minutos indican el intervalo entre dos salidas: «im 30-Minuten-Takt» significa que pasa un tren cada treinta minutos."
       }
     },
     {
@@ -1496,7 +1502,7 @@
           "es": "Los pasajeros suben al autobús por la puerta delantera."
         },
         "de": {
-          "text": "Die Fahrgäste steigen vorne in den Bus ein.",
+          "text": "Die Fahrgäste steigen durch die vordere Tür in den Bus ein.",
           "es": "Los pasajeros suben al autobús por la puerta delantera."
         }
       },
@@ -1542,47 +1548,6 @@
       }
     },
     {
-      "id": "tpd98",
-      "es": "El vagón de pasajeros",
-      "translations": {
-        "en": "The passenger car",
-        "pt": "O vagão de passageiros",
-        "fr": "La voiture de voyageurs",
-        "it": "La carrozza passeggeri",
-        "de": "Der Personenwagen"
-      },
-      "image_url": "",
-      "examples": {
-        "en": {
-          "text": "The passenger car is at the back of the train.",
-          "es": "El vagón de pasajeros está al final del tren."
-        },
-        "pt": {
-          "text": "O vagão de passageiros fica no fim do trem.",
-          "es": "El vagón de pasajeros está al final del tren."
-        },
-        "fr": {
-          "text": "La voiture de voyageurs se trouve en queue de train.",
-          "es": "El vagón de pasajeros está al final del tren."
-        },
-        "it": {
-          "text": "La carrozza passeggeri è in fondo al treno.",
-          "es": "El vagón de pasajeros está al final del tren."
-        },
-        "de": {
-          "text": "Der Personenwagen ist ganz hinten am Zug.",
-          "es": "El vagón de pasajeros está al final del tren."
-        }
-      },
-      "notes": {
-        "en": "(Plural: The passenger cars)",
-        "pt": "(Plural: Os vagões de passageiros)",
-        "fr": "(Plural: Les voitures de voyageurs)",
-        "it": "(Plural: Le carrozze passeggeri)",
-        "de": "(Plural: Die Personenwagen)"
-      }
-    },
-    {
       "id": "tpd100",
       "es": "El asiento prioritario",
       "translations": {
@@ -1607,7 +1572,7 @@
           "es": "Los asientos prioritarios están cerca de la puerta."
         },
         "it": {
-          "text": "I posti riservati a chi ne ha bisogno sono vicino alla porta.",
+          "text": "I posti riservati alle persone che ne hanno bisogno sono vicino alla porta.",
           "es": "Los asientos prioritarios están cerca de la puerta."
         },
         "de": {
@@ -1646,7 +1611,7 @@
         },
         "fr": {
           "text": "Tenez-vous à la barre verticale de maintien quand le bus démarre.",
-          "es": "Sujétate de la barra vertical de apoyo cuando arranque el autobús."
+          "es": "Sujétese de la barra vertical de apoyo cuando arranque el autobús."
         },
         "it": {
           "text": "Reggiti al sostegno verticale quando l'autobus parte.",
@@ -1688,7 +1653,7 @@
         },
         "fr": {
           "text": "Utilisez la main courante en descendant les escaliers de la gare.",
-          "es": "Usa el pasamanos al bajar las escaleras de la estación."
+          "es": "Use el pasamanos al bajar las escaleras de la estación."
         },
         "it": {
           "text": "Usa il corrimano quando scendi le scale della stazione.",
@@ -1729,7 +1694,7 @@
         },
         "fr": {
           "text": "Appuyez sur le bouton de demande d'arrêt avant d'arriver au marché.",
-          "es": "Presiona el botón para solicitar la parada antes de llegar al mercado."
+          "es": "Presione el botón para solicitar la parada antes de llegar al mercado."
         },
         "it": {
           "text": "Premi il pulsante di richiesta fermata prima di arrivare al mercato.",
@@ -1948,7 +1913,7 @@
         "pt": "Qual destino devo procurar no letreiro do veículo?",
         "fr": "Quelle destination dois-je chercher sur l'affichage du véhicule ?",
         "it": "Quale destinazione devo cercare sul display del mezzo?",
-        "de": "Welches Ziel muss auf der Anzeige am Fahrzeug stehen?"
+        "de": "Nach welchem Ziel auf der Anzeige am Fahrzeug soll ich suchen?"
       },
       "image_url": ""
     },
@@ -1960,7 +1925,7 @@
         "pt": "Quanto preciso caminhar da estação até o destino?",
         "fr": "Quelle distance faut-il parcourir à pied entre la station et la destination ?",
         "it": "Quanto bisogna camminare dalla stazione alla destinazione?",
-        "de": "Wie weit ist es vom Bahnhof bis zum Ziel zu Fuß?"
+        "de": "Wie weit ist es von der Station bis zum Ziel zu Fuß?"
       },
       "image_url": ""
     },
@@ -2052,7 +2017,7 @@
       "id": "tpd184",
       "es": "¿Tengo que hacer una señal para que se detenga?",
       "translations": {
-        "en": "Do I need to signal for it to stop?",
+        "en": "Do I need to wave to make the bus stop?",
         "pt": "Preciso fazer sinal para ele parar?",
         "fr": "Dois-je faire signe pour qu'il s'arrête ?",
         "it": "Devo fare un cenno perché si fermi?",
@@ -2062,7 +2027,7 @@
     },
     {
       "id": "tpd185",
-      "es": "¿Se sube por la puerta de enfrente o por la de atrás?",
+      "es": "¿Se sube por la puerta delantera o por la de atrás?",
       "translations": {
         "en": "Do I board through the front door or the rear door?",
         "pt": "O embarque é pela porta da frente ou pela de trás?",
@@ -2081,6 +2046,18 @@
         "fr": "Laissez descendre les voyageurs avant de monter.",
         "it": "Lasci scendere i passeggeri prima di salire.",
         "de": "Lassen Sie die Fahrgäste bitte zuerst aussteigen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd329",
+      "es": "Las puertas se están cerrando. Manténgase a distancia.",
+      "translations": {
+        "en": "Doors are closing. Please stand clear.",
+        "pt": "As portas estão se fechando. Mantenha distância.",
+        "fr": "Les portes se ferment. Veuillez vous en éloigner.",
+        "it": "Le porte si stanno chiudendo. Si tenga a distanza.",
+        "de": "Die Türen schließen. Bitte Abstand halten."
       },
       "image_url": ""
     },
@@ -2152,12 +2129,12 @@
     },
     {
       "id": "tpd191",
-      "es": "¿Debo presionar este botón para pedir la parada?",
+      "es": "¿Tengo que presionar este botón para que el autobús se detenga en la próxima parada?",
       "translations": {
-        "en": "Do I press this button to request a stop?",
-        "pt": "Devo apertar este botão para pedir a parada?",
-        "fr": "Dois-je appuyer sur ce bouton pour demander l'arrêt ?",
-        "it": "Devo premere questo pulsante per prenotare la fermata?",
+        "en": "Do I have to press this button for the bus to stop at the next stop?",
+        "pt": "Tenho que apertar este botão para o ônibus parar no próximo ponto?",
+        "fr": "Faut-il que j'appuie sur ce bouton pour que le bus s'arrête au prochain arrêt ?",
+        "it": "Devo premere questo pulsante perché l'autobus si fermi alla prossima fermata?",
         "de": "Muss ich diesen Knopf drücken, damit der Bus an der nächsten Haltestelle anhält?"
       },
       "image_url": ""
@@ -2333,7 +2310,7 @@
         "pt": "Como chego à plataforma da linha [número]?",
         "fr": "Comment rejoindre le quai de la ligne [numéro] ?",
         "it": "Come raggiungo la banchina della linea [numero]?",
-        "de": "Wie komme ich zum Bahnsteig für die Linie [Nummer]?"
+        "de": "Wie komme ich zum Bahnsteig der Linie [Nummer]?"
       },
       "image_url": ""
     },
@@ -2392,7 +2369,7 @@
         "en": "Which signs should I follow to transfer to line [number]?",
         "pt": "Quais placas devo seguir para fazer baldeação para a linha [número]?",
         "fr": "Quels panneaux dois-je suivre pour la correspondance avec la ligne [numéro] ?",
-        "it": "Quali indicazioni devo seguire per prendere la linea [numero]?",
+        "it": "Quali indicazioni devo seguire per il cambio con la linea [numero]?",
         "de": "Welchen Schildern muss ich folgen, um zur Linie [Nummer] zu wechseln?"
       },
       "image_url": ""
@@ -2446,6 +2423,18 @@
       "image_url": ""
     },
     {
+      "id": "tpd332",
+      "es": "Esta es la última parada. Todos los pasajeros deben bajar.",
+      "translations": {
+        "en": "This is the last stop. All passengers must get off.",
+        "pt": "Este é o ponto final. Todos os passageiros devem descer.",
+        "fr": "C'est le terminus. Tous les voyageurs doivent descendre.",
+        "it": "Questo è il capolinea. Tutti i passeggeri devono scendere.",
+        "de": "Dies ist die Endhaltestelle. Bitte steigen Sie alle aus."
+      },
+      "image_url": ""
+    },
+    {
       "id": "tpd213",
       "es": "¿Qué salida me deja más cerca de [lugar]?",
       "translations": {
@@ -2453,7 +2442,7 @@
         "pt": "Qual saída me deixa mais perto de [local]?",
         "fr": "Quelle sortie est la plus proche de [lieu] ?",
         "it": "Quale uscita è più vicina a [luogo]?",
-        "de": "Welcher Ausgang liegt am nächsten an [Ort]?"
+        "de": "Welcher Ausgang ist am nächsten bei [Ort]?"
       },
       "image_url": ""
     },
@@ -2490,30 +2479,6 @@
         "fr": "Y a-t-il du personnel dans cette station à cette heure-ci ?",
         "it": "C'è personale in questa stazione a quest'ora?",
         "de": "Gibt es um diese Uhrzeit Personal an dieser Station?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "tpd329",
-      "es": "Las puertas se están cerrando. Manténgase a distancia.",
-      "translations": {
-        "en": "Doors are closing. Please stand clear.",
-        "pt": "As portas estão se fechando. Mantenha distância.",
-        "fr": "Les portes se ferment. Veuillez vous en éloigner.",
-        "it": "Le porte si stanno chiudendo. Si tenga a distanza.",
-        "de": "Die Türen schließen. Bitte Abstand halten."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "tpd332",
-      "es": "Esta es la última parada. Todos los pasajeros deben bajar.",
-      "translations": {
-        "en": "This is the last stop. All passengers must get off.",
-        "pt": "Este é o ponto final. Todos os passageiros devem descer.",
-        "fr": "C'est le terminus. Tous les voyageurs doivent descendre.",
-        "it": "Questo è il capolinea. Tutti i passeggeri devono scendere.",
-        "de": "Dies ist die Endhaltestelle. Bitte steigen Sie alle aus."
       },
       "image_url": ""
     }

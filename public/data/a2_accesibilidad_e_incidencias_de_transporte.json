@@ -161,7 +161,7 @@
       "translations": {
         "en": "Is there space for me to ride in my wheelchair?",
         "pt": "Tem espaço para eu viajar na minha cadeira de rodas?",
-        "fr": "Y a-t-il un emplacement pour voyager dans mon fauteuil roulant ?",
+        "fr": "Y a-t-il une place pour que je puisse voyager dans mon fauteuil roulant ?",
         "it": "C'è spazio per viaggiare sulla mia sedia a rotelle?",
         "de": "Gibt es einen Platz, an dem ich im Rollstuhl mitfahren kann?"
       },
@@ -169,7 +169,7 @@
     },
     {
       "id": "tpd284",
-      "es": "¿Funcionan los elevadores en las estaciones donde debo cambiar?",
+      "es": "¿Funcionan los elevadores en las estaciones donde tengo que hacer transbordo?",
       "translations": {
         "en": "Are the elevators working at the stations where I need to transfer?",
         "pt": "Os elevadores estão funcionando nas estações onde preciso fazer baldeação?",
@@ -181,17 +181,17 @@
     },
     {
       "id": "tpd274",
-      "es": "¿Se puede llegar caminando sin subir escaleras?",
+      "es": "¿Se puede llegar a pie sin usar escaleras?",
       "translations": {
         "en": "Can I walk there without using stairs?",
-        "pt": "Dá para chegar a pé sem subir escadas?",
+        "pt": "Dá para chegar a pé sem usar escadas?",
         "fr": "Peut-on y aller à pied sans prendre d'escaliers ?",
         "it": "Si può arrivare a piedi senza fare scale?",
-        "de": "Kommt man zu Fuß dorthin, ohne Treppen zu steigen?"
+        "de": "Kommt man zu Fuß dorthin, ohne Treppen benutzen zu müssen?"
       },
       "image_url": "",
       "notes": {
-        "es": "(Se pregunta por una ruta a pie sin escalones)"
+        "es": "Se pregunta por un recorrido a pie sin escaleras."
       }
     },
     {
@@ -200,9 +200,9 @@
       "translations": {
         "en": "Do I need to request assistance in advance for this trip?",
         "pt": "Preciso solicitar assistência com antecedência para esta viagem?",
-        "fr": "Dois-je demander une assistance à l'avance pour ce voyage ?",
+        "fr": "Dois-je demander de l'aide à l'avance pour ce trajet ?",
         "it": "Devo richiedere assistenza in anticipo per questo viaggio?",
-        "de": "Muss ich für diese Fahrt vorher Hilfe anmelden?"
+        "de": "Muss ich für diese Fahrt im Voraus Unterstützung anmelden?"
       },
       "image_url": ""
     },
@@ -247,7 +247,7 @@
         "en": "Where can I get through with this large suitcase?",
         "pt": "Por onde posso passar com esta mala grande?",
         "fr": "Par où puis-je passer avec cette grande valise ?",
-        "it": "Da dove posso passare con questa valigia grande?",
+        "it": "Da che parte posso passare con questa valigia grande?",
         "de": "Wo komme ich mit diesem großen Koffer durch?"
       },
       "image_url": ""
@@ -273,18 +273,6 @@
         "fr": "Je voyage avec un chien guide.",
         "it": "Viaggio con un cane guida.",
         "de": "Ich reise mit einem Blindenführhund."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "tpd291",
-      "es": "¿Se permiten mascotas dentro de una transportadora?",
-      "translations": {
-        "en": "Are pets allowed in a carrier?",
-        "pt": "Animais de estimação são permitidos em uma caixa de transporte?",
-        "fr": "Les animaux de compagnie sont-ils autorisés dans une caisse de transport ?",
-        "it": "Gli animali domestici sono ammessi nel trasportino?",
-        "de": "Sind Haustiere in einer Transportbox erlaubt?"
       },
       "image_url": ""
     },
@@ -346,7 +334,7 @@
           "es": "Por el desvío, el autobús no pasa por el mercado."
         },
         "pt": {
-          "text": "Por causa do desvio, o ônibus não passa pelo mercado.",
+          "text": "Por causa do desvio de rota, o ônibus não passa pelo mercado.",
           "es": "Por el desvío, el autobús no pasa por el mercado."
         },
         "fr": {
@@ -354,7 +342,7 @@
           "es": "Por el desvío, el autobús no pasa por el mercado."
         },
         "it": {
-          "text": "A causa della deviazione, l'autobus non passa davanti al mercato.",
+          "text": "A causa della deviazione del percorso, l'autobus non passa davanti al mercato.",
           "es": "Por el desvío, el autobús no pasa por el mercado."
         },
         "de": {
@@ -492,9 +480,12 @@
         "pt": "Estou perdido e preciso voltar para [local]. / Estou perdida e preciso voltar para [local].",
         "fr": "Je me suis perdu et je dois retourner à [lieu]. / Je me suis perdue et je dois retourner à [lieu].",
         "it": "Mi sono perso e devo tornare a [luogo]. / Mi sono persa e devo tornare a [luogo].",
-        "de": "Ich habe mich verirrt und muss zurück nach [Ort]."
+        "de": "Ich habe mich verirrt. Ich muss zurück nach [Ort]."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "de": "«Nach» se usa aquí con ciudades sin artículo; si dices el nombre de un lugar concreto, puede cambiar la preposición, como en «zum Bahnhof»."
+      }
     },
     {
       "id": "tpd297",
@@ -513,7 +504,7 @@
       "es": "Cancelaron mi salida; ¿con quién tramito el cambio de boleto?",
       "translations": {
         "en": "My departure was canceled. Who do I contact to change my ticket?",
-        "pt": "Minha partida foi cancelada. Com quem trato da alteração da passagem?",
+        "pt": "Minha partida foi cancelada. Com quem falo para trocar a passagem?",
         "fr": "Mon départ a été annulé. À qui dois-je m'adresser pour modifier mon billet ?",
         "it": "La mia partenza è stata cancellata. A chi mi rivolgo per cambiare il biglietto?",
         "de": "Meine Fahrt wurde gestrichen. An wen kann ich mich wenden, um meine Fahrkarte umzubuchen?"
@@ -536,9 +527,9 @@
       "id": "tpd334",
       "es": "Hay menos salidas por la huelga.",
       "translations": {
-        "en": "Fewer trips are running because of the strike.",
-        "pt": "Há menos viagens por causa da greve.",
-        "fr": "Il y a moins de trajets à cause de la grève.",
+        "en": "There are fewer departures because of the strike.",
+        "pt": "Há menos partidas por causa da greve.",
+        "fr": "Il y a moins de départs à cause de la grève.",
         "it": "Ci sono meno corse a causa dello sciopero.",
         "de": "Wegen des Streiks gibt es weniger Fahrten."
       },
@@ -609,7 +600,7 @@
         "pt": "Perdi minha conexão. Podem me ajudar a reservar a próxima partida?",
         "fr": "J'ai manqué ma correspondance. Pouvez-vous m'aider à réserver le prochain départ ?",
         "it": "Ho perso la coincidenza. Potete aiutarmi a prenotare la prossima partenza?",
-        "de": "Ich habe meinen Anschluss verpasst. Können Sie mir helfen, die nächste Abfahrt zu buchen?"
+        "de": "Ich habe meinen Anschluss verpasst. Können Sie mir helfen, die nächste Verbindung zu buchen?"
       },
       "image_url": "",
       "notes": {
@@ -706,7 +697,7 @@
       "es": "Me cobraron otro viaje aunque estaba haciendo un transbordo; ¿pueden revisar?",
       "translations": {
         "en": "I was charged another fare even though I was transferring. Could you check?",
-        "pt": "Cobraram outra tarifa mesmo eu só fazendo baldeação. Podem verificar?",
+        "pt": "Cobraram outra tarifa, embora eu só estivesse fazendo baldeação. Podem verificar?",
         "fr": "Un autre trajet m'a été facturé alors que je faisais une correspondance. Pouvez-vous vérifier ?",
         "it": "Mi hanno addebitato un altro viaggio, anche se stavo solo cambiando mezzo. Potete controllare?",
         "de": "Mir wurde eine weitere Fahrt berechnet, obwohl ich nur umgestiegen bin. Können Sie das bitte prüfen?"
@@ -723,13 +714,13 @@
       "translations": {
         "en": "I forgot to tap my card when I exited. How do I correct my trip record?",
         "pt": "Esqueci de aproximar o cartão na saída. Como corrijo o registro da viagem?",
-        "fr": "J'ai oublié de passer ma carte sur le lecteur à la sortie. Comment corriger l'enregistrement du trajet ?",
+        "fr": "J'ai oublié de présenter ma carte au lecteur à la sortie. Comment faire corriger mon trajet enregistré ?",
         "it": "Ho dimenticato di avvicinare la tessera al lettore in uscita. Come faccio a correggere il viaggio registrato?",
         "de": "Ich habe vergessen, meine Karte beim Verlassen der Station an das Lesegerät zu halten. Wie kann ich den Eintrag für die Fahrt korrigieren?"
       },
       "image_url": "",
       "notes": {
-        "en": "(También se dice «tap out» donde el sistema exige registrar la salida con la tarjeta)"
+        "en": "En sistemas que requieren registrar la salida con la tarjeta, esta acción también se llama «tap out»."
       }
     },
     {
@@ -744,7 +735,7 @@
       },
       "image_url": "",
       "notes": {
-        "de": "(«Entwerten» aquí significa validar el boleto antes del viaje, no anularlo)"
+        "de": "En transporte, «entwerten» significa validar un boleto para usarlo, no cancelar el viaje."
       }
     },
     {

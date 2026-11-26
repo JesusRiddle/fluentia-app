@@ -93,7 +93,7 @@
         "pt": "O trem regional",
         "fr": "Le train régional",
         "it": "Il treno regionale",
-        "de": "Die Regionalbahn"
+        "de": "Der Regionalzug"
       },
       "image_url": "",
       "examples": {
@@ -103,7 +103,7 @@
         },
         "pt": {
           "text": "O trem regional para em três cidades antes de chegar.",
-          "es": "El tren regional para en tres pueblos antes de llegar."
+          "es": "El tren regional para en tres ciudades antes de llegar."
         },
         "fr": {
           "text": "Le train régional s'arrête dans trois villages avant d'arriver.",
@@ -114,8 +114,8 @@
           "es": "El tren regional para en tres pueblos antes de llegar."
         },
         "de": {
-          "text": "Die Regionalbahn hält vor der Ankunft in drei Orten.",
-          "es": "El tren regional para en tres pueblos antes de llegar."
+          "text": "Der Regionalzug hält unterwegs in drei kleinen Orten.",
+          "es": "El tren regional para en tres pueblos en el camino."
         }
       },
       "notes": {
@@ -123,7 +123,7 @@
         "pt": "(Plural: Os trens regionais)",
         "fr": "(Plural: Les trains régionaux)",
         "it": "(Plural: I treni regionali)",
-        "de": "(Plural: Die Regionalbahnen)"
+        "de": "(Plural: Die Regionalzüge) «Regionalbahn» designa en Alemania un tipo de servicio regional que suele hacer más paradas."
       }
     },
     {
@@ -151,8 +151,8 @@
           "es": "En el tren de alta velocidad reservamos asientos juntos."
         },
         "it": {
-          "text": "Sul treno ad alta velocità abbiamo prenotato posti vicini.",
-          "es": "En el tren de alta velocidad reservamos asientos juntos."
+          "text": "Sul treno ad alta velocità abbiamo prenotato due posti uno accanto all'altro.",
+          "es": "En el tren de alta velocidad reservamos dos asientos uno al lado del otro."
         },
         "de": {
           "text": "Wir haben im Hochgeschwindigkeitszug Plätze nebeneinander reserviert.",
@@ -363,7 +363,7 @@
         },
         "de": {
           "text": "Sieh auf der Anzeige nach, von welchem Bussteig dein Bus abfährt.",
-          "es": "Revisa en la pantalla la bahía de salida del autobús."
+          "es": "Revisa en la pantalla de qué bahía sale tu autobús."
         }
       },
       "notes": {
@@ -495,6 +495,47 @@
         "fr": "(Plural: Les embarcadères)",
         "it": "(Plural: I moli d'imbarco)",
         "de": "(Plural: Die Anlegestege)"
+      }
+    },
+    {
+      "id": "tpd98",
+      "es": "El vagón de pasajeros",
+      "translations": {
+        "en": "The passenger car",
+        "pt": "O vagão de passageiros",
+        "fr": "La voiture de voyageurs",
+        "it": "La carrozza passeggeri",
+        "de": "Der Reisezugwagen"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The passenger car is at the back of the train.",
+          "es": "El vagón de pasajeros está al final del tren."
+        },
+        "pt": {
+          "text": "O vagão de passageiros fica no fim do trem.",
+          "es": "El vagón de pasajeros está al final del tren."
+        },
+        "fr": {
+          "text": "La voiture de voyageurs se trouve en queue de train.",
+          "es": "El vagón de pasajeros está al final del tren."
+        },
+        "it": {
+          "text": "La carrozza passeggeri è in fondo al treno.",
+          "es": "El vagón de pasajeros está al final del tren."
+        },
+        "de": {
+          "text": "Der Reisezugwagen ist ganz hinten am Zug.",
+          "es": "El vagón de pasajeros está al final del tren."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The passenger cars)",
+        "pt": "(Plural: Os vagões de passageiros)",
+        "fr": "(Plural: Les voitures de voyageurs)",
+        "it": "(Plural: Le carrozze passeggeri)",
+        "de": "(Plural: Die Reisezugwagen) También se dice «Personenwagen» en contexto ferroviario; fuera de él, puede referirse a un automóvil de pasajeros."
       }
     },
     {
@@ -723,7 +764,7 @@
           "es": "No dejes la maleta en el pasillo entre los asientos."
         },
         "fr": {
-          "text": "Ne laissez pas votre valise dans l'allée entre les sièges.",
+          "text": "Ne laisse pas ta valise dans l'allée entre les sièges.",
           "es": "No dejes la maleta en el pasillo entre los asientos."
         },
         "it": {
@@ -869,13 +910,25 @@
     },
     {
       "id": "tpd217",
-      "es": "¿De qué estación o terminal sale mi transporte?",
+      "es": "¿De qué estación o terminal sale mi tren o autobús?",
       "translations": {
-        "en": "Which station or terminal do I leave from?",
-        "pt": "De qual estação ou terminal eu saio?",
-        "fr": "De quelle gare ou de quel terminal est-ce que je pars ?",
-        "it": "Da quale stazione o terminal parto?",
-        "de": "Von welchem Bahnhof oder Terminal fahre ich ab?"
+        "en": "Which station or terminal does my train or bus leave from?",
+        "pt": "De qual estação ou terminal sai o meu trem ou ônibus?",
+        "fr": "De quelle gare ou de quel terminal part mon train ou mon car ?",
+        "it": "Da quale stazione o terminal parte il mio treno o autobus?",
+        "de": "Von welchem Bahnhof oder Terminal fährt mein Zug oder Bus ab?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd218",
+      "es": "¿Con cuánta anticipación tengo que llegar para abordar?",
+      "translations": {
+        "en": "How early should I arrive before boarding?",
+        "pt": "Com quanta antecedência devo chegar para embarcar?",
+        "fr": "Combien de temps à l'avance dois-je arriver pour embarquer ?",
+        "it": "Quanto tempo prima devo arrivare per salire a bordo?",
+        "de": "Wie lange vor dem Einsteigen soll ich da sein?"
       },
       "image_url": ""
     },
@@ -910,18 +963,6 @@
         "es": "Sustituya «[número]» por el número de la vía. La vía es por donde circula el tren; el andén es la zona donde esperan y suben los pasajeros.",
         "de": "«Gleis» es la vía del tren; «Bahnsteig» es el andén donde se espera y se sube al tren."
       }
-    },
-    {
-      "id": "tpd218",
-      "es": "¿Con cuánta anticipación tengo que llegar para abordar?",
-      "translations": {
-        "en": "How early should I arrive before boarding?",
-        "pt": "Com quanta antecedência devo chegar para embarcar?",
-        "fr": "Combien de temps à l'avance dois-je arriver pour embarquer ?",
-        "it": "Quanto tempo prima devo arrivare per salire a bordo?",
-        "de": "Wie lange vor dem Einsteigen soll ich da sein?"
-      },
-      "image_url": ""
     },
     {
       "id": "tpd219",
@@ -963,9 +1004,9 @@
       "id": "tpd221",
       "es": "¿Mi boleto tiene un asiento asignado o puedo sentarme donde haya lugar?",
       "translations": {
-        "en": "Does my ticket have an assigned seat, or can I sit anywhere that's free?",
-        "pt": "Minha passagem tem assento marcado ou posso sentar onde houver lugar?",
-        "fr": "Une place est-elle indiquée sur mon billet ou puis-je m'asseoir où il y a de la place ?",
+        "en": "Does my ticket come with an assigned seat, or can I sit anywhere that's free?",
+        "pt": "Minha passagem tem assento marcado ou posso me sentar em qualquer assento livre?",
+        "fr": "Mon billet indique-t-il une place précise ou puis-je m'asseoir sur n'importe quelle place libre ?",
         "it": "Ho un posto assegnato sul biglietto o posso sedermi dove c'è posto?",
         "de": "Ist auf meiner Fahrkarte ein Sitzplatz angegeben oder kann ich mich auf einen freien Platz setzen?"
       },
@@ -981,7 +1022,13 @@
         "it": "Mi può assegnare un posto vicino al finestrino?",
         "de": "Können Sie mir einen Fensterplatz geben?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Formal)",
+        "fr": "(Formal)",
+        "it": "(Formal)",
+        "de": "(Formal)"
+      }
     },
     {
       "id": "tpd351",
@@ -993,7 +1040,13 @@
         "it": "Mi può assegnare un posto sul corridoio?",
         "de": "Können Sie mir einen Gangplatz geben?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Formal)",
+        "fr": "(Formal)",
+        "it": "(Formal)",
+        "de": "(Formal)"
+      }
     },
     {
       "id": "tpd321",
@@ -1016,17 +1069,23 @@
       "translations": {
         "en": "I think you're in my seat. This is my seat number.",
         "pt": "Acho que você está no meu assento. Este é o número do meu lugar.",
-        "fr": "Je crois que vous êtes à ma place. Voici mon numéro de siège.",
+        "fr": "Je crois que vous êtes à ma place. Voici le numéro de ma place.",
         "it": "Credo che sia al mio posto. Questo è il numero del mio posto.",
         "de": "Ich glaube, Sie sitzen auf meinem Platz. Hier ist meine Platznummer."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Formal)",
+        "fr": "(Formal)",
+        "it": "(Formal)",
+        "de": "(Formal)"
+      }
     },
     {
       "id": "tpd224",
       "es": "¿Esta reservación de asiento también incluye el boleto del viaje?",
       "translations": {
-        "en": "Does this seat reservation also include the travel ticket?",
+        "en": "Does this seat reservation also include the ticket for the trip?",
         "pt": "Esta reserva de assento também inclui a passagem?",
         "fr": "Cette réservation de place comprend-elle aussi le billet de transport ?",
         "it": "Questa prenotazione del posto include anche il biglietto di viaggio?",
@@ -1092,14 +1151,20 @@
         "it": "Non lasci i bagagli nel corridoio né davanti alle porte.",
         "de": "Lassen Sie Ihr Gepäck weder im Gang noch vor den Türen stehen."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Formal)",
+        "fr": "(Formal)",
+        "it": "(Formal)",
+        "de": "(Formal)"
+      }
     },
     {
       "id": "tpd229",
       "es": "¿Me dan un comprobante por la maleta que va en la bodega?",
       "translations": {
         "en": "Will I get a claim ticket for the suitcase in the luggage compartment?",
-        "pt": "Vou receber um comprovante da mala que for no bagageiro?",
+        "pt": "Vou receber um comprovante para retirar a mala que vai no bagageiro?",
         "fr": "Vais-je recevoir un ticket pour récupérer ma valise dans la soute ?",
         "it": "Riceverò un tagliando per ritirare la valigia che metto nel vano bagagli?",
         "de": "Bekomme ich für den Koffer im Gepäckraum einen Gepäckschein?"
@@ -1115,9 +1180,27 @@
       "translations": {
         "en": "Keep this claim ticket. You'll need it to collect your suitcase.",
         "pt": "Guarde este comprovante. Vai precisar dele para retirar sua mala.",
-        "fr": "Conservez ce reçu. Vous en aurez besoin pour récupérer votre valise.",
-        "it": "Conservi questa ricevuta. Le servirà per ritirare la valigia.",
+        "fr": "Conservez ce ticket. Vous en aurez besoin pour récupérer votre valise.",
+        "it": "Conservi questo tagliando. Le servirà per ritirare la valigia.",
         "de": "Bewahren Sie diesen Gepäckschein auf. Sie brauchen ihn, um Ihren Koffer abzuholen."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Formal)",
+        "fr": "(Formal)",
+        "it": "(Formal)",
+        "de": "(Formal)"
+      }
+    },
+    {
+      "id": "tpd291",
+      "es": "¿Se permiten mascotas dentro de una transportadora?",
+      "translations": {
+        "en": "Are pets allowed in a carrier?",
+        "pt": "Animais de estimação são permitidos em uma caixa de transporte?",
+        "fr": "Les animaux de compagnie sont-ils autorisés dans une caisse de transport ?",
+        "it": "Gli animali domestici sono ammessi nel trasportino?",
+        "de": "Sind Haustiere in einer Transportbox erlaubt?"
       },
       "image_url": ""
     },
@@ -1158,6 +1241,18 @@
       "image_url": ""
     },
     {
+      "id": "tpd234",
+      "es": "¿Mi boleto permite cambios? ¿Hay que pagar la diferencia de tarifa?",
+      "translations": {
+        "en": "Does my ticket allow changes? Do I need to pay a fare difference?",
+        "pt": "Minha passagem permite alterações? Tenho que pagar a diferença de tarifa?",
+        "fr": "Mon billet permet-il des modifications ? Dois-je payer une différence de tarif ?",
+        "it": "Il mio biglietto consente modifiche? Devo pagare una differenza di tariffa?",
+        "de": "Kann ich mit dieser Fahrkarte umbuchen? Muss ich einen Preisunterschied bezahlen?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "tpd233",
       "es": "Quisiera cambiar mi boleto para una salida más temprano.",
       "translations": {
@@ -1182,18 +1277,6 @@
       "image_url": ""
     },
     {
-      "id": "tpd234",
-      "es": "¿Mi boleto permite cambios? ¿Hay que pagar una diferencia?",
-      "translations": {
-        "en": "Does my ticket allow changes? Do I need to pay a fare difference?",
-        "pt": "Minha passagem permite alterações? Preciso pagar uma diferença?",
-        "fr": "Mon billet permet-il des modifications ? Dois-je payer une différence de tarif ?",
-        "it": "Il mio biglietto consente modifiche? Devo pagare una differenza di tariffa?",
-        "de": "Kann ich mit dieser Fahrkarte umbuchen? Muss ich einen Preisunterschied bezahlen?"
-      },
-      "image_url": ""
-    },
-    {
       "id": "tpd235",
       "es": "¿El tren llega hasta la terminal del aeropuerto o hay que tomar otro transporte?",
       "translations": {
@@ -1207,13 +1290,13 @@
     },
     {
       "id": "tpd236",
-      "es": "¿Hay un transporte entre terminales? ¿Dónde se toma?",
+      "es": "¿Hay un servicio de transporte entre terminales? ¿Dónde se toma?",
       "translations": {
         "en": "Is there a shuttle between terminals? Where do I catch it?",
-        "pt": "Tem transporte entre os terminais? Onde posso pegar?",
+        "pt": "Há um serviço de transporte entre os terminais? Onde posso pegar?",
         "fr": "Y a-t-il une navette entre les terminaux ? Où se prend-elle ?",
         "it": "C'è una navetta tra i terminal? Dove si prende?",
-        "de": "Gibt es einen Shuttlebus zwischen den Terminals? Wo steigt man ein?"
+        "de": "Gibt es einen Shuttle zwischen den Terminals? Wo steigt man ein?"
       },
       "image_url": ""
     },
@@ -1224,7 +1307,7 @@
         "en": "Does this bus stop at all the terminals or only some of them?",
         "pt": "Este ônibus para em todos os terminais ou só em alguns?",
         "fr": "Ce bus dessert-il tous les terminaux ou seulement certains ?",
-        "it": "Questo autobus ferma in tutti i terminal o solo in alcuni?",
+        "it": "Questo autobus si ferma a tutti i terminal o solo ad alcuni?",
         "de": "Hält dieser Bus an allen Terminals oder nur an manchen?"
       },
       "image_url": ""
