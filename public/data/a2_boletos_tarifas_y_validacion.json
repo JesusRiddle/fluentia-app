@@ -1,0 +1,2142 @@
+{
+  "module": "Boletos, tarifas y validación",
+  "level": "A2",
+  "revisado": true,
+  "cards": [
+    {
+      "id": "tpd31",
+      "es": "La taquilla de boletos",
+      "translations": {
+        "en": "The ticket counter",
+        "pt": "O guichê de passagens",
+        "fr": "Le guichet",
+        "it": "La biglietteria",
+        "de": "Der Fahrkartenschalter"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I asked at the ticket counter whether there was a student discount.",
+          "es": "Pregunté en la taquilla si había descuento para estudiantes."
+        },
+        "pt": {
+          "text": "Perguntei no guichê de passagens se havia desconto para estudantes.",
+          "es": "Pregunté en la taquilla si había descuento para estudiantes."
+        },
+        "fr": {
+          "text": "Au guichet, j'ai demandé s'il y avait un tarif étudiant.",
+          "es": "Pregunté en la taquilla si había una tarifa para estudiantes."
+        },
+        "it": {
+          "text": "Ho chiesto in biglietteria se c'era uno sconto per studenti.",
+          "es": "Pregunté en la taquilla si había descuento para estudiantes."
+        },
+        "de": {
+          "text": "Ich habe am Fahrkartenschalter nach einem Rabatt für Studierende gefragt.",
+          "es": "Pregunté en la taquilla si había descuento para estudiantes."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The ticket counters)",
+        "pt": "(Plural: Os guichês de passagens)",
+        "fr": "(Plural: Les guichets)",
+        "it": "(Plural: Le biglietterie)",
+        "de": "(Plural: Die Fahrkartenschalter)",
+        "es": "También se dice «ventanilla de boletos»."
+      }
+    },
+    {
+      "id": "tpd32",
+      "es": "La máquina para comprar boletos",
+      "translations": {
+        "en": "The ticket vending machine",
+        "pt": "A máquina de venda de bilhetes",
+        "fr": "Le distributeur de billets",
+        "it": "Il distributore automatico di biglietti",
+        "de": "Der Fahrkartenautomat"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The ticket vending machine only takes cards.",
+          "es": "La máquina para comprar boletos solo acepta tarjeta."
+        },
+        "pt": {
+          "text": "A máquina de venda de bilhetes só aceita cartão.",
+          "es": "La máquina para comprar boletos solo acepta tarjeta."
+        },
+        "fr": {
+          "text": "Le distributeur de billets n'accepte que les cartes.",
+          "es": "La máquina para comprar boletos solo acepta tarjeta."
+        },
+        "it": {
+          "text": "Il distributore automatico di biglietti accetta solo carte.",
+          "es": "La máquina para comprar boletos solo acepta tarjeta."
+        },
+        "de": {
+          "text": "Der Fahrkartenautomat nimmt nur Karten an.",
+          "es": "La máquina para comprar boletos solo acepta tarjeta."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The ticket vending machines)",
+        "pt": "(Plural: As máquinas de venda de bilhetes)",
+        "fr": "(Plural: Les distributeurs de billets)",
+        "it": "(Plural: I distributori automatici di biglietti)",
+        "de": "(Plural: Die Fahrkartenautomaten)"
+      }
+    },
+    {
+      "id": "tpd33",
+      "es": "La máquina para validar el boleto",
+      "translations": {
+        "en": "The ticket validator",
+        "pt": "O validador de bilhetes",
+        "fr": "Le valideur de titres de transport",
+        "it": "La validatrice",
+        "de": "Der Fahrkartenentwerter"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The ticket validator is next to the door.",
+          "es": "La máquina para validar el boleto está junto a la puerta."
+        },
+        "pt": {
+          "text": "O validador de bilhetes fica ao lado da porta.",
+          "es": "La máquina para validar el boleto está junto a la puerta."
+        },
+        "fr": {
+          "text": "Le valideur de titres de transport est à côté de la porte.",
+          "es": "La máquina para validar el boleto está junto a la puerta."
+        },
+        "it": {
+          "text": "La validatrice è accanto alla porta.",
+          "es": "La máquina para validar el boleto está junto a la puerta."
+        },
+        "de": {
+          "text": "Der Fahrkartenentwerter ist neben der Tür.",
+          "es": "La máquina para validar el boleto está junto a la puerta."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The ticket validators)",
+        "pt": "(Plural: Os validadores de bilhetes)",
+        "fr": "(Plural: Les valideurs de titres de transport)",
+        "it": "(Plural: Le validatrici) También se usa «obliteratrice».",
+        "de": "(Plural: Die Fahrkartenentwerter)"
+      }
+    },
+    {
+      "id": "tpd34",
+      "es": "El lector de tarjetas",
+      "translations": {
+        "en": "The card reader",
+        "pt": "O leitor de cartões",
+        "fr": "Le lecteur de cartes",
+        "it": "Il lettore di carte",
+        "de": "Das Kartenlesegerät"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Hold the card near the card reader until it beeps.",
+          "es": "Acerca la tarjeta al lector hasta que suene."
+        },
+        "pt": {
+          "text": "Aproxime o cartão do leitor de cartões até ouvir um sinal.",
+          "es": "Acerca la tarjeta al lector hasta que suene."
+        },
+        "fr": {
+          "text": "Approche la carte du lecteur de cartes jusqu'au bip.",
+          "es": "Acerca la tarjeta al lector hasta que suene."
+        },
+        "it": {
+          "text": "Avvicina la carta al lettore di carte finché non senti un bip.",
+          "es": "Acerca la tarjeta al lector hasta que suene."
+        },
+        "de": {
+          "text": "Halte die Karte ans Kartenlesegerät, bis es piept.",
+          "es": "Acerca la tarjeta al lector hasta que suene."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The card readers)",
+        "pt": "(Plural: Os leitores de cartões)",
+        "fr": "(Plural: Les lecteurs de cartes)",
+        "it": "(Plural: I lettori di carte)",
+        "de": "(Plural: Die Kartenlesegeräte)"
+      }
+    },
+    {
+      "id": "tpd35",
+      "es": "El torniquete",
+      "translations": {
+        "en": "The turnstile",
+        "pt": "A catraca",
+        "fr": "Le tourniquet",
+        "it": "Il tornello",
+        "de": "Das Drehkreuz"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The turnstile opens when you tap your card.",
+          "es": "El torniquete se abre al pasar la tarjeta."
+        },
+        "pt": {
+          "text": "A catraca abre quando você aproxima o cartão.",
+          "es": "El torniquete se abre al pasar la tarjeta."
+        },
+        "fr": {
+          "text": "Le tourniquet se débloque quand tu présentes ta carte.",
+          "es": "El torniquete se abre al pasar la tarjeta."
+        },
+        "it": {
+          "text": "Il tornello si sblocca quando passi la carta.",
+          "es": "El torniquete se abre al pasar la tarjeta."
+        },
+        "de": {
+          "text": "Das Drehkreuz öffnet sich, wenn du die Karte ans Lesegerät hältst.",
+          "es": "El torniquete se abre al pasar la tarjeta."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The turnstiles)",
+        "pt": "(Plural: As catracas)",
+        "fr": "(Plural: Les tourniquets)",
+        "it": "(Plural: I tornelli)",
+        "de": "(Plural: Die Drehkreuze)"
+      }
+    },
+    {
+      "id": "tpd47",
+      "es": "El inspector de boletos",
+      "translations": {
+        "en": "The ticket inspector",
+        "pt": "O fiscal de bilhetes",
+        "fr": "Le contrôleur de billets",
+        "it": "Il controllore dei biglietti",
+        "de": "Der Fahrkartenkontrolleur"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The ticket inspector walked through the whole train car.",
+          "es": "La inspectora de boletos pasó por todo el vagón."
+        },
+        "pt": {
+          "text": "A fiscal de bilhetes passou pelo vagão inteiro.",
+          "es": "La inspectora de boletos pasó por todo el vagón."
+        },
+        "fr": {
+          "text": "La contrôleuse de billets a traversé toute la voiture.",
+          "es": "La inspectora de boletos pasó por todo el vagón."
+        },
+        "it": {
+          "text": "La controllora dei biglietti ha attraversato tutta la carrozza.",
+          "es": "La inspectora de boletos pasó por todo el vagón."
+        },
+        "de": {
+          "text": "Die Fahrkartenkontrolleurin ist durch den ganzen Wagen gegangen.",
+          "es": "La inspectora de boletos pasó por todo el vagón."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The ticket inspectors)",
+        "pt": "(Plural: Os fiscais de bilhetes / As fiscais de bilhetes) Forma femenina: «a fiscal de bilhetes».",
+        "fr": "(Plural: Les contrôleurs de billets / Les contrôleuses de billets) Forma femenina: «la contrôleuse de billets».",
+        "it": "(Plural: I controllori dei biglietti / Le controllore dei biglietti) Forma femenina: «la controllora dei biglietti».",
+        "de": "(Plural: Die Fahrkartenkontrolleure / Die Fahrkartenkontrolleurinnen) Forma femenina: «die Fahrkartenkontrolleurin».",
+        "es": "Forma femenina: «la inspectora de boletos»."
+      }
+    },
+    {
+      "id": "tpd48",
+      "es": "El cobrador del autobús",
+      "translations": {
+        "en": "The bus fare collector",
+        "pt": "O cobrador de ônibus",
+        "fr": "Le receveur d'autobus",
+        "it": "L'addetto alla riscossione del biglietto sull'autobus",
+        "de": "Der Kassierer im Bus"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The bus fare collector gave me my change.",
+          "es": "La cobradora del autobús me dio el cambio."
+        },
+        "pt": {
+          "text": "A cobradora de ônibus me deu o troco.",
+          "es": "La cobradora del autobús me dio el cambio."
+        },
+        "fr": {
+          "text": "La receveuse d'autobus m'a rendu la monnaie.",
+          "es": "La cobradora del autobús me dio el cambio."
+        },
+        "it": {
+          "text": "L'addetta alla riscossione del biglietto sull'autobus mi ha dato il resto.",
+          "es": "La cobradora del autobús me dio el cambio."
+        },
+        "de": {
+          "text": "Die Kassiererin im Bus hat mir das Wechselgeld gegeben.",
+          "es": "La cobradora del autobús me dio el cambio."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The bus fare collectors)",
+        "pt": "(Plural: Os cobradores de ônibus / As cobradoras de ônibus) Forma femenina: «a cobradora de ônibus».",
+        "fr": "(Plural: Les receveurs d'autobus / Les receveuses d'autobus) Forma femenina: «la receveuse d'autobus».",
+        "it": "(Plural: Gli addetti alla riscossione del biglietto sull'autobus / Le addette alla riscossione del biglietto sull'autobus) Forma femenina: «l'addetta alla riscossione del biglietto sull'autobus».",
+        "de": "(Plural: Die Kassierer im Bus / Die Kassiererinnen im Bus) Forma femenina: «die Kassiererin im Bus».",
+        "es": "Se refiere a la persona que cobra el pasaje en el autobús, no al inspector que revisa los boletos. Forma femenina: «la cobradora del autobús»."
+      }
+    },
+    {
+      "id": "tpd54",
+      "es": "La integración de tarifas",
+      "translations": {
+        "en": "The fare integration",
+        "pt": "A integração tarifária",
+        "fr": "L'intégration tarifaire",
+        "it": "L'integrazione tariffaria",
+        "de": "Die Tarifintegration"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Thanks to fare integration, there's no extra charge to transfer to the bus.",
+          "es": "Gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
+        },
+        "pt": {
+          "text": "Graças à integração tarifária, não há cobrança extra na baldeação para o ônibus.",
+          "es": "Gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
+        },
+        "fr": {
+          "text": "Grâce à l'intégration tarifaire, la correspondance avec le bus n'est pas facturée en plus.",
+          "es": "Gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
+        },
+        "it": {
+          "text": "Grazie all'integrazione tariffaria, per il cambio con l'autobus non si paga un supplemento.",
+          "es": "Gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
+        },
+        "de": {
+          "text": "Dank der Tarifintegration kostet der Umstieg in den Bus nichts extra.",
+          "es": "Gracias a la integración de tarifas, el transbordo al autobús no se cobra aparte."
+        }
+      }
+    },
+    {
+      "id": "tpd55",
+      "es": "El viaje de ida",
+      "translations": {
+        "en": "The outbound trip",
+        "pt": "A viagem de ida",
+        "fr": "Le trajet aller",
+        "it": "Il viaggio di andata",
+        "de": "Die Hinfahrt"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The outbound trip took three hours because of traffic.",
+          "es": "El viaje de ida duró tres horas por el tráfico."
+        },
+        "pt": {
+          "text": "A viagem de ida levou três horas por causa do trânsito.",
+          "es": "El viaje de ida duró tres horas por el tráfico."
+        },
+        "fr": {
+          "text": "Le trajet aller a duré trois heures à cause de la circulation.",
+          "es": "El viaje de ida duró tres horas por el tráfico."
+        },
+        "it": {
+          "text": "Il viaggio di andata è durato tre ore per via del traffico.",
+          "es": "El viaje de ida duró tres horas por el tráfico."
+        },
+        "de": {
+          "text": "Wegen des Verkehrs hat die Hinfahrt drei Stunden gedauert.",
+          "es": "El viaje de ida duró tres horas por el tráfico."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The outbound trips)",
+        "pt": "(Plural: As viagens de ida)",
+        "fr": "(Plural: Les trajets aller)",
+        "it": "(Plural: I viaggi di andata)",
+        "de": "(Plural: Die Hinfahrten)"
+      }
+    },
+    {
+      "id": "tpd347",
+      "image_url": "",
+      "es": "El viaje de vuelta",
+      "translations": {
+        "en": "The return trip",
+        "pt": "A viagem de volta",
+        "fr": "Le trajet retour",
+        "it": "Il viaggio di ritorno",
+        "de": "Die Rückfahrt"
+      },
+      "examples": {
+        "en": {
+          "text": "The return trip was faster because there was no traffic.",
+          "es": "El viaje de vuelta fue más rápido porque no había tráfico."
+        },
+        "pt": {
+          "text": "A viagem de volta foi mais rápida porque não havia trânsito.",
+          "es": "El viaje de vuelta fue más rápido porque no había tráfico."
+        },
+        "fr": {
+          "text": "Le trajet retour a été plus rapide parce qu'il n'y avait pas de circulation.",
+          "es": "El viaje de vuelta fue más rápido porque no había tráfico."
+        },
+        "it": {
+          "text": "Il viaggio di ritorno è stato più veloce perché non c'era traffico.",
+          "es": "El viaje de vuelta fue más rápido porque no había tráfico."
+        },
+        "de": {
+          "text": "Die Rückfahrt ging schneller, weil kein Verkehr war.",
+          "es": "El viaje de vuelta fue más rápido porque no había tráfico."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The return trips)",
+        "pt": "(Plural: As viagens de volta)",
+        "fr": "(Plural: Les trajets retour)",
+        "it": "(Plural: I viaggi di ritorno)",
+        "de": "(Plural: Die Rückfahrten)"
+      }
+    },
+    {
+      "id": "tpd72",
+      "es": "El boleto de transporte",
+      "translations": {
+        "en": "The ticket",
+        "pt": "O bilhete",
+        "fr": "Le billet",
+        "it": "Il biglietto",
+        "de": "Die Fahrkarte"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Keep your ticket until the end of the trip.",
+          "es": "Guarda el boleto hasta el final del viaje."
+        },
+        "pt": {
+          "text": "Guarde o bilhete até o fim da viagem.",
+          "es": "Guarda el boleto hasta el final del viaje."
+        },
+        "fr": {
+          "text": "Gardez votre billet jusqu'à la fin du trajet.",
+          "es": "Guarda el boleto hasta el final del viaje."
+        },
+        "it": {
+          "text": "Conserva il biglietto fino alla fine del viaggio.",
+          "es": "Guarda el boleto hasta el final del viaje."
+        },
+        "de": {
+          "text": "Heb die Fahrkarte bis zum Ende der Fahrt auf.",
+          "es": "Guarda el boleto hasta el final del viaje."
+        }
+      },
+      "notes": {
+        "es": "Es el documento físico o digital para viajar. «Pasaje» también puede referirse al precio o al viaje.",
+        "pt": "Para viajes en autobús interurbano, avión o tren, en Brasil es común «a passagem». (Plural: Os bilhetes)",
+        "fr": "En el metro o autobús, también es habitual «le ticket». (Plural: Les billets)",
+        "en": "(Plural: The tickets)",
+        "it": "(Plural: I biglietti)",
+        "de": "(Plural: Die Fahrkarten)"
+      }
+    },
+    {
+      "id": "tpd73",
+      "es": "El boleto de un solo viaje",
+      "translations": {
+        "en": "The single-ride ticket",
+        "pt": "O bilhete para uma viagem",
+        "fr": "Le ticket pour un trajet",
+        "it": "Il biglietto per una corsa",
+        "de": "Die Einzelfahrkarte"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I bought a single-ride ticket to go downtown.",
+          "es": "Compré un boleto de un viaje para ir al centro."
+        },
+        "pt": {
+          "text": "Comprei um bilhete para uma viagem até o centro.",
+          "es": "Compré un boleto de un viaje para ir al centro."
+        },
+        "fr": {
+          "text": "J'ai acheté un ticket pour un trajet jusqu'au centre-ville.",
+          "es": "Compré un boleto de un viaje para ir al centro."
+        },
+        "it": {
+          "text": "Ho comprato un biglietto per una corsa fino in centro.",
+          "es": "Compré un boleto de un viaje para ir al centro."
+        },
+        "de": {
+          "text": "Ich habe eine Einzelfahrkarte für die Fahrt ins Stadtzentrum gekauft.",
+          "es": "Compré un boleto de un viaje para ir al centro."
+        }
+      },
+      "notes": {
+        "es": "Autoriza un solo viaje; no implica que incluya el regreso. Puede incluir transbordos según el sistema.",
+        "en": "(Plural: The single-ride tickets)",
+        "pt": "(Plural: Os bilhetes para uma viagem)",
+        "fr": "(Plural: Les tickets pour un trajet)",
+        "it": "(Plural: I biglietti per una corsa)",
+        "de": "(Plural: Die Einzelfahrkarten)"
+      }
+    },
+    {
+      "id": "tpd74",
+      "es": "El boleto solo de ida",
+      "translations": {
+        "en": "The one-way ticket",
+        "pt": "A passagem só de ida",
+        "fr": "Le billet aller simple",
+        "it": "Il biglietto di sola andata",
+        "de": "Die Fahrkarte für die einfache Fahrt"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I need a one-way ticket because I'm coming back by bus.",
+          "es": "Necesito un boleto solo de ida porque regreso en autobús."
+        },
+        "pt": {
+          "text": "Preciso de uma passagem só de ida porque vou voltar de ônibus.",
+          "es": "Necesito un boleto solo de ida porque regreso en autobús."
+        },
+        "fr": {
+          "text": "Il me faut un billet aller simple, car je reviens en bus.",
+          "es": "Necesito un boleto solo de ida porque regreso en autobús."
+        },
+        "it": {
+          "text": "Mi serve un biglietto di sola andata perché torno in autobus.",
+          "es": "Necesito un boleto solo de ida porque regreso en autobús."
+        },
+        "de": {
+          "text": "Ich brauche eine Fahrkarte für die einfache Fahrt, weil ich mit dem Bus zurückfahre.",
+          "es": "Necesito un boleto solo de ida porque regreso en autobús."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The one-way tickets)",
+        "pt": "(Plural: As passagens só de ida)",
+        "fr": "(Plural: Les billets aller simple)",
+        "it": "(Plural: I biglietti di sola andata)",
+        "de": "(Plural: Die Fahrkarten für die einfache Fahrt)"
+      }
+    },
+    {
+      "id": "tpd75",
+      "es": "El boleto de ida y vuelta",
+      "translations": {
+        "en": "The round-trip ticket",
+        "pt": "A passagem de ida e volta",
+        "fr": "Le billet aller-retour",
+        "it": "Il biglietto di andata e ritorno",
+        "de": "Die Fahrkarte für die Hin- und Rückfahrt"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I bought a round-trip ticket so I can come back today.",
+          "es": "Compré un boleto de ida y vuelta para regresar hoy mismo."
+        },
+        "pt": {
+          "text": "Comprei uma passagem de ida e volta para voltar ainda hoje.",
+          "es": "Compré un boleto de ida y vuelta para regresar hoy mismo."
+        },
+        "fr": {
+          "text": "J'ai acheté un billet aller-retour pour revenir aujourd'hui même.",
+          "es": "Compré un boleto de ida y vuelta para regresar hoy mismo."
+        },
+        "it": {
+          "text": "Ho comprato un biglietto di andata e ritorno per tornare oggi stesso.",
+          "es": "Compré un boleto de ida y vuelta para regresar hoy mismo."
+        },
+        "de": {
+          "text": "Ich habe eine Fahrkarte für die Hin- und Rückfahrt gekauft, damit ich heute zurückfahren kann.",
+          "es": "Compré un boleto de ida y vuelta para regresar hoy mismo."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The round-trip tickets)",
+        "pt": "(Plural: As passagens de ida e volta)",
+        "fr": "(Plural: Les billets aller-retour)",
+        "it": "(Plural: I biglietti di andata e ritorno)",
+        "de": "(Plural: Die Fahrkarten für die Hin- und Rückfahrt)"
+      }
+    },
+    {
+      "id": "tpd76",
+      "es": "El pase de un día",
+      "translations": {
+        "en": "The day pass",
+        "pt": "O passe diário",
+        "fr": "Le forfait journalier",
+        "it": "Il biglietto giornaliero",
+        "de": "Die Tageskarte"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "With the day pass, we can take the subway several times.",
+          "es": "Con el pase de un día podemos tomar el metro varias veces."
+        },
+        "pt": {
+          "text": "Com o passe diário, podemos pegar o metrô várias vezes.",
+          "es": "Con el pase de un día podemos tomar el metro varias veces."
+        },
+        "fr": {
+          "text": "Avec le forfait journalier, on peut prendre le métro plusieurs fois.",
+          "es": "Con el pase de un día podemos tomar el metro varias veces."
+        },
+        "it": {
+          "text": "Con il biglietto giornaliero possiamo prendere la metro più volte.",
+          "es": "Con el pase de un día podemos tomar el metro varias veces."
+        },
+        "de": {
+          "text": "Mit der Tageskarte können wir mehrmals mit der U-Bahn fahren.",
+          "es": "Con el pase de un día podemos tomar el metro varias veces."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The day passes)",
+        "pt": "(Plural: Os passes diários)",
+        "fr": "(Plural: Les forfaits journaliers)",
+        "it": "(Plural: I biglietti giornalieri)",
+        "de": "(Plural: Die Tageskarten)"
+      }
+    },
+    {
+      "id": "tpd77",
+      "es": "El pase semanal",
+      "translations": {
+        "en": "The weekly pass",
+        "pt": "O passe semanal",
+        "fr": "Le forfait hebdomadaire",
+        "it": "L'abbonamento settimanale",
+        "de": "Die Wochenkarte"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I use my weekly pass to get to work every day.",
+          "es": "Con el pase semanal voy al trabajo todos los días."
+        },
+        "pt": {
+          "text": "Uso meu passe semanal para ir ao trabalho todos os dias.",
+          "es": "Con el pase semanal voy al trabajo todos los días."
+        },
+        "fr": {
+          "text": "Je prends les transports tous les jours pour aller au travail avec mon forfait hebdomadaire.",
+          "es": "Con el pase semanal tomo el transporte todos los días para ir al trabajo."
+        },
+        "it": {
+          "text": "Con l'abbonamento settimanale vado al lavoro tutti i giorni.",
+          "es": "Con el pase semanal voy al trabajo todos los días."
+        },
+        "de": {
+          "text": "Mit der Wochenkarte fahre ich jeden Tag zur Arbeit.",
+          "es": "Con el pase semanal voy al trabajo todos los días."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The weekly passes)",
+        "pt": "(Plural: Os passes semanais)",
+        "fr": "(Plural: Les forfaits hebdomadaires)",
+        "it": "(Plural: Gli abbonamenti settimanali)",
+        "de": "(Plural: Die Wochenkarten)"
+      }
+    },
+    {
+      "id": "tpd348",
+      "es": "El pase mensual",
+      "translations": {
+        "en": "The monthly pass",
+        "pt": "O passe mensal",
+        "fr": "L'abonnement mensuel",
+        "it": "L'abbonamento mensile",
+        "de": "Die Monatskarte"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "You can renew your monthly pass in the app.",
+          "es": "Puedes renovar el pase mensual en la aplicación."
+        },
+        "pt": {
+          "text": "Você pode renovar o passe mensal no aplicativo.",
+          "es": "Puedes renovar el pase mensual en la aplicación."
+        },
+        "fr": {
+          "text": "Vous pouvez renouveler votre abonnement mensuel dans l'application.",
+          "es": "Puedes renovar el pase mensual en la aplicación."
+        },
+        "it": {
+          "text": "Puoi rinnovare l'abbonamento mensile nell'app.",
+          "es": "Puedes renovar el pase mensual en la aplicación."
+        },
+        "de": {
+          "text": "Du kannst deine Monatskarte in der App verlängern.",
+          "es": "Puedes renovar el pase mensual en la aplicación."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The monthly passes)",
+        "pt": "(Plural: Os passes mensais)",
+        "fr": "(Plural: Les abonnements mensuels)",
+        "it": "(Plural: Gli abbonamenti mensili)",
+        "de": "(Plural: Die Monatskarten)"
+      }
+    },
+    {
+      "id": "tpd78",
+      "es": "La tarjeta recargable de transporte",
+      "translations": {
+        "en": "The reloadable transit card",
+        "pt": "O cartão de transporte recarregável",
+        "fr": "La carte de transport rechargeable",
+        "it": "La tessera di trasporto ricaricabile",
+        "de": "Die aufladbare Nahverkehrskarte"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I use my reloadable transit card for the subway and bus.",
+          "es": "Uso mi tarjeta recargable de transporte para el metro y el autobús."
+        },
+        "pt": {
+          "text": "Uso meu cartão de transporte recarregável no metrô e no ônibus.",
+          "es": "Uso mi tarjeta recargable de transporte para el metro y el autobús."
+        },
+        "fr": {
+          "text": "J'utilise ma carte de transport rechargeable pour le métro et le bus.",
+          "es": "Uso mi tarjeta recargable de transporte para el metro y el autobús."
+        },
+        "it": {
+          "text": "Uso la tessera di trasporto ricaricabile per la metro e l'autobus.",
+          "es": "Uso mi tarjeta recargable de transporte para el metro y el autobús."
+        },
+        "de": {
+          "text": "Ich benutze meine aufladbare Nahverkehrskarte für die U-Bahn und den Bus.",
+          "es": "Uso mi tarjeta recargable de transporte para el metro y el autobús."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The reloadable transit cards)",
+        "pt": "(Plural: Os cartões de transporte recarregáveis)",
+        "fr": "(Plural: Les cartes de transport rechargeables)",
+        "it": "(Plural: Le tessere di trasporto ricaricabili)",
+        "de": "(Plural: Die aufladbaren Nahverkehrskarten)"
+      }
+    },
+    {
+      "id": "tpd79",
+      "es": "El boleto digital",
+      "translations": {
+        "en": "The digital ticket / The mobile ticket",
+        "pt": "O bilhete digital / O bilhete no celular",
+        "fr": "Le billet dématérialisé / Le billet sur téléphone",
+        "it": "Il biglietto digitale / Il biglietto sul telefono",
+        "de": "Das digitale Ticket"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Show your digital ticket when you get on the bus.",
+          "es": "Muestra tu boleto digital al subir al autobús."
+        },
+        "pt": {
+          "text": "Mostre o bilhete digital ao entrar no ônibus.",
+          "es": "Muestra tu boleto digital al subir al autobús."
+        },
+        "fr": {
+          "text": "Montrez votre billet dématérialisé en montant dans le bus.",
+          "es": "Muestra tu boleto digital al subir al autobús."
+        },
+        "it": {
+          "text": "Mostra il biglietto digitale quando sali sull'autobus.",
+          "es": "Muestra tu boleto digital al subir al autobús."
+        },
+        "de": {
+          "text": "Zeig beim Einsteigen in den Bus dein digitales Ticket.",
+          "es": "Muestra tu boleto digital al subir al autobús."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The digital tickets)",
+        "pt": "(Plural: Os bilhetes digitais)",
+        "fr": "(Plural: Les billets dématérialisés)",
+        "it": "(Plural: I biglietti digitali)",
+        "de": "(Plural: Die digitalen Tickets)"
+      }
+    },
+    {
+      "id": "tpd80",
+      "es": "El código QR del boleto",
+      "translations": {
+        "en": "The ticket QR code",
+        "pt": "O código QR do bilhete",
+        "fr": "Le code QR du billet",
+        "it": "Il codice QR del biglietto",
+        "de": "Der QR-Code der Fahrkarte"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Scan the ticket's QR code at the reader by the entrance.",
+          "es": "Escanea el código QR del boleto en el lector de la entrada."
+        },
+        "pt": {
+          "text": "Escaneie o código QR do bilhete no leitor da entrada.",
+          "es": "Escanea el código QR del boleto en el lector de la entrada."
+        },
+        "fr": {
+          "text": "Scannez le code QR du billet sur le lecteur à l'entrée.",
+          "es": "Escanea el código QR del boleto en el lector de la entrada."
+        },
+        "it": {
+          "text": "Scansiona il codice QR del biglietto sul lettore all'ingresso.",
+          "es": "Escanea el código QR del boleto en el lector de la entrada."
+        },
+        "de": {
+          "text": "Scann den QR-Code der Fahrkarte am Lesegerät am Eingang.",
+          "es": "Escanea el código QR del boleto en el lector de la entrada."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The ticket QR codes)",
+        "pt": "(Plural: Os códigos QR dos bilhetes)",
+        "fr": "(Plural: Les codes QR des billets)",
+        "it": "(Plural: I codici QR dei biglietti)",
+        "de": "(Plural: Die QR-Codes der Fahrkarten)"
+      }
+    },
+    {
+      "id": "tpd81",
+      "es": "La tarifa",
+      "translations": {
+        "en": "The fare",
+        "pt": "A tarifa",
+        "fr": "Le tarif",
+        "it": "La tariffa",
+        "de": "Der Fahrpreis"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The fare is higher if you're going to the airport.",
+          "es": "La tarifa es más alta si viajas al aeropuerto."
+        },
+        "pt": {
+          "text": "A tarifa é mais alta para quem vai ao aeroporto.",
+          "es": "La tarifa es más alta si viajas al aeropuerto."
+        },
+        "fr": {
+          "text": "Le tarif est plus élevé si vous allez à l'aéroport.",
+          "es": "La tarifa es más alta si viajas al aeropuerto."
+        },
+        "it": {
+          "text": "La tariffa è più alta se vai all'aeroporto.",
+          "es": "La tarifa es más alta si viajas al aeropuerto."
+        },
+        "de": {
+          "text": "Der Fahrpreis ist höher, wenn du zum Flughafen fährst.",
+          "es": "La tarifa es más alta si viajas al aeropuerto."
+        }
+      },
+      "notes": {
+        "es": "Aquí «tarifa» es el precio que se paga por el viaje.",
+        "en": "(Plural: The fares)",
+        "pt": "(Plural: As tarifas)",
+        "fr": "(Plural: Les tarifs)",
+        "it": "(Plural: Le tariffe)",
+        "de": "(Plural: Die Fahrpreise)"
+      }
+    },
+    {
+      "id": "tpd82",
+      "es": "La tarifa reducida",
+      "translations": {
+        "en": "The reduced fare / The discounted fare",
+        "pt": "A tarifa reduzida",
+        "fr": "Le tarif réduit",
+        "it": "La tariffa ridotta",
+        "de": "Der ermäßigte Fahrpreis"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Students pay a reduced fare.",
+          "es": "Los estudiantes pagan una tarifa reducida."
+        },
+        "pt": {
+          "text": "Os estudantes pagam uma tarifa reduzida.",
+          "es": "Los estudiantes pagan una tarifa reducida."
+        },
+        "fr": {
+          "text": "Les étudiants paient un tarif réduit.",
+          "es": "Los estudiantes pagan una tarifa reducida."
+        },
+        "it": {
+          "text": "Gli studenti pagano una tariffa ridotta.",
+          "es": "Los estudiantes pagan una tarifa reducida."
+        },
+        "de": {
+          "text": "Studierende zahlen einen ermäßigten Fahrpreis.",
+          "es": "Los estudiantes pagan una tarifa reducida."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The reduced fares)",
+        "pt": "(Plural: As tarifas reduzidas)",
+        "fr": "(Plural: Les tarifs réduits)",
+        "it": "(Plural: Le tariffe ridotte)",
+        "de": "(Plural: Die ermäßigten Fahrpreise)"
+      }
+    },
+    {
+      "id": "tpd83",
+      "es": "La zona tarifaria",
+      "translations": {
+        "en": "The fare zone",
+        "pt": "A zona tarifária",
+        "fr": "La zone tarifaire",
+        "it": "La zona tariffaria",
+        "de": "Die Tarifzone"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The airport is in a different fare zone.",
+          "es": "El aeropuerto está en otra zona tarifaria."
+        },
+        "pt": {
+          "text": "O aeroporto fica em outra zona tarifária.",
+          "es": "El aeropuerto está en otra zona tarifaria."
+        },
+        "fr": {
+          "text": "L'aéroport est dans une autre zone tarifaire.",
+          "es": "El aeropuerto está en otra zona tarifaria."
+        },
+        "it": {
+          "text": "L'aeroporto è in un'altra zona tariffaria.",
+          "es": "El aeropuerto está en otra zona tarifaria."
+        },
+        "de": {
+          "text": "Der Flughafen liegt in einer anderen Tarifzone.",
+          "es": "El aeropuerto está en otra zona tarifaria."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The fare zones)",
+        "pt": "(Plural: As zonas tarifárias)",
+        "fr": "(Plural: Les zones tarifaires)",
+        "it": "(Plural: Le zone tariffarie)",
+        "de": "(Plural: Die Tarifzonen)"
+      }
+    },
+    {
+      "id": "tpd84",
+      "es": "La recarga de la tarjeta",
+      "translations": {
+        "en": "The card reload",
+        "pt": "A recarga do cartão",
+        "fr": "Le rechargement de la carte",
+        "it": "La ricarica della tessera",
+        "de": "Das Aufladen der Karte"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "We need a card reload before taking the subway.",
+          "es": "Necesitamos hacer una recarga de la tarjeta antes de tomar el metro."
+        },
+        "pt": {
+          "text": "Você pode fazer a recarga do cartão na máquina antes de entrar no metrô.",
+          "es": "En la máquina puedes hacer una recarga de la tarjeta antes de entrar al metro."
+        },
+        "fr": {
+          "text": "Le rechargement de la carte se fait à la borne près de l'entrée du métro.",
+          "es": "La recarga de la tarjeta se hace en la máquina que está cerca de la entrada del metro."
+        },
+        "it": {
+          "text": "Puoi fare la ricarica della tessera alla macchinetta prima di entrare in metro.",
+          "es": "En la máquina puedes hacer una recarga de la tarjeta antes de entrar al metro."
+        },
+        "de": {
+          "text": "Das Aufladen der Karte ist am Automaten vor dem U-Bahn-Eingang möglich.",
+          "es": "Puedes recargar la tarjeta en la máquina que está antes de la entrada del metro."
+        }
+      },
+      "notes": {
+        "en": "En EE. UU., también es muy habitual la instrucción «reload your card» (recarga tu tarjeta). (Plural: The card reloads)",
+        "pt": "(Plural: As recargas do cartão)",
+        "fr": "(Plural: Les rechargements de la carte)",
+        "it": "(Plural: Le ricariche della tessera)"
+      }
+    },
+    {
+      "id": "tpd85",
+      "es": "El saldo disponible",
+      "translations": {
+        "en": "The available balance",
+        "pt": "O saldo disponível",
+        "fr": "Le solde disponible",
+        "it": "Il saldo disponibile",
+        "de": "Das verfügbare Guthaben"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The machine shows the available balance on your card.",
+          "es": "La máquina muestra el saldo disponible en tu tarjeta."
+        },
+        "pt": {
+          "text": "A máquina mostra o saldo disponível no seu cartão.",
+          "es": "La máquina muestra el saldo disponible en tu tarjeta."
+        },
+        "fr": {
+          "text": "La borne affiche le solde disponible sur votre carte.",
+          "es": "La máquina muestra el saldo disponible en tu tarjeta."
+        },
+        "it": {
+          "text": "La macchinetta mostra il saldo disponibile sulla tessera.",
+          "es": "La máquina muestra el saldo disponible en tu tarjeta."
+        },
+        "de": {
+          "text": "Der Automat zeigt das verfügbare Guthaben auf deiner Karte an.",
+          "es": "La máquina muestra el saldo disponible en tu tarjeta."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The available balances)",
+        "pt": "(Plural: Os saldos disponíveis)",
+        "fr": "(Plural: Les soldes disponibles)",
+        "it": "(Plural: I saldi disponibili)"
+      }
+    },
+    {
+      "id": "tpd86",
+      "es": "Validar el boleto",
+      "translations": {
+        "en": "To validate the ticket",
+        "pt": "Validar o bilhete",
+        "fr": "Valider le titre de transport",
+        "it": "Convalidare il biglietto",
+        "de": "Die Fahrkarte entwerten"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Validate your ticket when you get on the streetcar.",
+          "es": "Valida el boleto al subir al tranvía."
+        },
+        "pt": {
+          "text": "Valide o bilhete ao entrar no bonde.",
+          "es": "Valida el boleto al subir al tranvía."
+        },
+        "fr": {
+          "text": "Validez votre titre de transport en montant dans le tram.",
+          "es": "Valida el boleto al subir al tranvía."
+        },
+        "it": {
+          "text": "Convalida il biglietto quando sali sul tram.",
+          "es": "Valida el boleto al subir al tranvía."
+        },
+        "de": {
+          "text": "Entwerte die Fahrkarte beim Einsteigen in die Straßenbahn.",
+          "es": "Valida el boleto al subir al tranvía."
+        }
+      },
+      "notes": {
+        "es": "Validar es registrar el uso del boleto: por ejemplo, al escanearlo o pasarlo por el lector antes de viajar.",
+        "de": "«Entwerten» aquí es validar para viajar al marcar o registrar la Fahrkarte, no cancelarla."
+      }
+    },
+    {
+      "id": "tpd87",
+      "es": "Activar un boleto digital",
+      "translations": {
+        "en": "To activate a digital ticket / To activate a mobile ticket",
+        "pt": "Ativar um bilhete digital",
+        "fr": "Activer un billet dématérialisé",
+        "it": "Attivare un biglietto digitale",
+        "de": "Ein digitales Ticket aktivieren"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Activate your mobile ticket in the app before boarding.",
+          "es": "Activa el boleto digital en la aplicación antes de subir."
+        },
+        "pt": {
+          "text": "Ative o bilhete digital no aplicativo antes de embarcar.",
+          "es": "Activa el boleto digital en la aplicación antes de subir."
+        },
+        "fr": {
+          "text": "Activez votre billet dématérialisé dans l'application avant de monter.",
+          "es": "Activa el boleto digital en la aplicación antes de subir."
+        },
+        "it": {
+          "text": "Attiva il biglietto digitale nell'app prima di salire.",
+          "es": "Activa el boleto digital en la aplicación antes de subir."
+        },
+        "de": {
+          "text": "Aktiviere dein digitales Ticket in der App, bevor du einsteigst.",
+          "es": "Activa el boleto digital en la aplicación antes de subir."
+        }
+      }
+    },
+    {
+      "id": "tpd88",
+      "es": "El periodo de validez del boleto",
+      "translations": {
+        "en": "The ticket validity period",
+        "pt": "O período de validade do bilhete",
+        "fr": "La durée de validité du billet",
+        "it": "Il periodo di validità del biglietto",
+        "de": "Die Gültigkeitsdauer der Fahrkarte"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The ticket's validity period is ninety minutes.",
+          "es": "El periodo de validez del boleto es de noventa minutos."
+        },
+        "pt": {
+          "text": "O período de validade do bilhete é de noventa minutos.",
+          "es": "El periodo de validez del boleto es de noventa minutos."
+        },
+        "fr": {
+          "text": "La durée de validité du billet est de quatre-vingt-dix minutes.",
+          "es": "El periodo de validez del boleto es de noventa minutos."
+        },
+        "it": {
+          "text": "Il periodo di validità del biglietto è di novanta minuti.",
+          "es": "El periodo de validez del boleto es de noventa minutos."
+        },
+        "de": {
+          "text": "Die Gültigkeitsdauer der Fahrkarte beträgt neunzig Minuten.",
+          "es": "El periodo de validez del boleto es de noventa minutos."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The ticket validity periods)",
+        "pt": "(Plural: Os períodos de validade do bilhete)",
+        "fr": "(Plural: Les durées de validité du billet)",
+        "it": "(Plural: I periodi di validità del biglietto)",
+        "de": "(Plural: Die Gültigkeitsdauern der Fahrkarten)"
+      }
+    },
+    {
+      "id": "tpd89",
+      "es": "El boleto vencido",
+      "translations": {
+        "en": "The expired ticket",
+        "pt": "O bilhete vencido",
+        "fr": "Le billet périmé",
+        "it": "Il biglietto scaduto",
+        "de": "Die abgelaufene Fahrkarte"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "You can't travel with an expired ticket.",
+          "es": "No puedes viajar con un boleto vencido."
+        },
+        "pt": {
+          "text": "Você não pode viajar com um bilhete vencido.",
+          "es": "No puedes viajar con un boleto vencido."
+        },
+        "fr": {
+          "text": "Vous ne pouvez pas voyager avec un billet périmé.",
+          "es": "No puedes viajar con un boleto vencido."
+        },
+        "it": {
+          "text": "Non puoi viaggiare con un biglietto scaduto.",
+          "es": "No puedes viajar con un boleto vencido."
+        },
+        "de": {
+          "text": "Mit einer abgelaufenen Fahrkarte darfst du nicht fahren.",
+          "es": "No puedes viajar con un boleto vencido."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The expired tickets)",
+        "pt": "(Plural: Os bilhetes vencidos)",
+        "fr": "(Plural: Les billets périmés)",
+        "it": "(Plural: I biglietti scaduti)",
+        "de": "(Plural: Die abgelaufenen Fahrkarten)"
+      }
+    },
+    {
+      "id": "tpd91",
+      "es": "El pago sin contacto",
+      "translations": {
+        "en": "The contactless payment",
+        "pt": "O pagamento por aproximação",
+        "fr": "Le paiement sans contact",
+        "it": "Il pagamento senza contatto",
+        "de": "Das kontaktlose Bezahlen"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "You can make a contactless payment with your phone.",
+          "es": "El pago sin contacto se puede hacer con el celular."
+        },
+        "pt": {
+          "text": "Você pode fazer o pagamento por aproximação com o celular.",
+          "es": "El pago sin contacto se puede hacer con el celular."
+        },
+        "fr": {
+          "text": "Vous pouvez effectuer un paiement sans contact avec votre téléphone.",
+          "es": "El pago sin contacto se puede hacer con el celular."
+        },
+        "it": {
+          "text": "Puoi fare un pagamento senza contatto con il telefono.",
+          "es": "El pago sin contacto se puede hacer con el celular."
+        },
+        "de": {
+          "text": "Kontaktloses Bezahlen geht auch mit dem Handy.",
+          "es": "El pago sin contacto se puede hacer con el celular."
+        }
+      },
+      "notes": {
+        "it": "También se usa el anglicismo «contactless» en señalización o terminales. (Plural: I pagamenti senza contatto)",
+        "en": "(Plural: The contactless payments)",
+        "pt": "(Plural: Os pagamentos por aproximação)",
+        "fr": "(Plural: Les paiements sans contact)"
+      }
+    },
+    {
+      "id": "tpd92",
+      "es": "El importe exacto del pasaje",
+      "translations": {
+        "en": "The exact fare",
+        "pt": "O valor exato da passagem",
+        "fr": "L'appoint",
+        "it": "L'importo esatto del biglietto",
+        "de": "Der passende Betrag für die Fahrt"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "If you pay cash on this bus, you need the exact fare.",
+          "es": "En este autobús, si pagas en efectivo, necesitas el importe exacto."
+        },
+        "pt": {
+          "text": "Neste ônibus, se você pagar em dinheiro, precisa ter o valor exato da passagem.",
+          "es": "En este autobús, si pagas en efectivo, necesitas el importe exacto."
+        },
+        "fr": {
+          "text": "Si vous payez en espèces dans ce bus, vous devez faire l'appoint.",
+          "es": "En este autobús, si pagas en efectivo, necesitas el importe exacto."
+        },
+        "it": {
+          "text": "Su questo autobus, se paghi in contanti, devi avere l'importo esatto del biglietto.",
+          "es": "En este autobús, si pagas en efectivo, necesitas el importe exacto."
+        },
+        "de": {
+          "text": "Wenn du in diesem Bus bar zahlst, brauchst du den passenden Betrag für die Fahrt.",
+          "es": "En este autobús, si pagas en efectivo, necesitas el importe exacto."
+        }
+      },
+      "notes": {
+        "es": "Para pagar en efectivo sin que tengan que darte cambio.",
+        "fr": "Se usa mucho «faire l'appoint» (pagar con el importe exacto).",
+        "en": "También se dice «exact change» cuando hay que pagar justo, sin recibir cambio."
+      }
+    },
+    {
+      "id": "tpd93",
+      "es": "El recibo de pago",
+      "translations": {
+        "en": "The receipt",
+        "pt": "O recibo",
+        "fr": "Le reçu",
+        "it": "La ricevuta",
+        "de": "Die Quittung"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "Keep the receipt in case you need to prove you paid.",
+          "es": "Guarda el recibo por si necesitas comprobar el pago."
+        },
+        "pt": {
+          "text": "Guarde o recibo caso precise comprovar o pagamento.",
+          "es": "Guarda el recibo por si necesitas comprobar el pago."
+        },
+        "fr": {
+          "text": "Gardez le reçu au cas où vous devriez prouver le paiement.",
+          "es": "Guarda el recibo por si necesitas comprobar el pago."
+        },
+        "it": {
+          "text": "Conserva la ricevuta nel caso in cui tu debba dimostrare di aver pagato.",
+          "es": "Guarda el recibo por si necesitas comprobar el pago."
+        },
+        "de": {
+          "text": "Heb die Quittung auf, falls du die Zahlung nachweisen musst.",
+          "es": "Guarda el recibo por si necesitas comprobar el pago."
+        }
+      },
+      "notes": {
+        "es": "Es el recibo que entrega quien cobra. Un comprobante de pago puede ser otro documento, como un cargo bancario.",
+        "en": "(Plural: The receipts)",
+        "pt": "(Plural: Os recibos)",
+        "fr": "(Plural: Les reçus)",
+        "it": "(Plural: Le ricevute)",
+        "de": "(Plural: Die Quittungen)"
+      }
+    },
+    {
+      "id": "tpd94",
+      "es": "El reembolso",
+      "translations": {
+        "en": "The refund",
+        "pt": "O reembolso",
+        "fr": "Le remboursement",
+        "it": "Il rimborso",
+        "de": "Die Erstattung"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I asked for a refund because the train was canceled.",
+          "es": "Pedí un reembolso porque cancelaron el tren."
+        },
+        "pt": {
+          "text": "Pedi um reembolso porque o trem foi cancelado.",
+          "es": "Pedí un reembolso porque cancelaron el tren."
+        },
+        "fr": {
+          "text": "J'ai demandé un remboursement parce que le train a été annulé.",
+          "es": "Pedí un reembolso porque cancelaron el tren."
+        },
+        "it": {
+          "text": "Ho chiesto un rimborso perché il treno è stato cancellato.",
+          "es": "Pedí un reembolso porque cancelaron el tren."
+        },
+        "de": {
+          "text": "Ich habe eine Erstattung beantragt, weil der Zug ausgefallen ist.",
+          "es": "Pedí un reembolso porque cancelaron el tren."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The refunds)",
+        "pt": "(Plural: Os reembolsos)",
+        "fr": "(Plural: Les remboursements)",
+        "it": "(Plural: I rimborsi)",
+        "de": "(Plural: Die Erstattungen)"
+      }
+    },
+    {
+      "id": "tpd95",
+      "es": "La multa por viajar sin un boleto válido",
+      "translations": {
+        "en": "The fine for traveling without a valid ticket",
+        "pt": "A multa por viajar sem bilhete válido",
+        "fr": "L'amende pour avoir voyagé sans billet valable",
+        "it": "La multa per aver viaggiato senza biglietto valido",
+        "de": "Die Strafe fürs Fahren ohne gültige Fahrkarte"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "He got a fine for traveling without a valid ticket.",
+          "es": "Le pusieron una multa por viajar sin un boleto válido."
+        },
+        "pt": {
+          "text": "Ele recebeu uma multa por viajar sem um bilhete válido.",
+          "es": "Le pusieron una multa por viajar sin un boleto válido."
+        },
+        "fr": {
+          "text": "Il a reçu une amende pour avoir voyagé sans billet valable.",
+          "es": "Le pusieron una multa por viajar sin un boleto válido."
+        },
+        "it": {
+          "text": "Ha ricevuto una multa per aver viaggiato senza un biglietto valido.",
+          "es": "Le pusieron una multa por viajar sin un boleto válido."
+        },
+        "de": {
+          "text": "Er hat eine Strafe fürs Fahren ohne gültige Fahrkarte bekommen.",
+          "es": "Le pusieron una multa por viajar sin un boleto válido."
+        }
+      },
+      "notes": {
+        "de": "En avisos oficiales del transporte en Alemania se puede ver «erhöhtes Beförderungsentgelt» como el recargo por viajar sin boleto válido. (Plural: Die Strafen fürs Fahren ohne gültige Fahrkarte)",
+        "en": "(Plural: The fines for traveling without a valid ticket)",
+        "pt": "(Plural: As multas por viajar sem bilhete válido)",
+        "fr": "(Plural: Les amendes pour avoir voyagé sans billet valable)",
+        "it": "(Plural: Le multe per aver viaggiato senza biglietto valido)"
+      }
+    },
+    {
+      "id": "tpd137",
+      "es": "Quisiera un boleto para [destino], por favor.",
+      "translations": {
+        "en": "I'd like a ticket to [destination], please.",
+        "pt": "Gostaria de uma passagem para [destino], por favor.",
+        "fr": "Je voudrais un billet pour [destination], s'il vous plaît.",
+        "it": "Vorrei un biglietto per [destinazione], per favore.",
+        "de": "Ich hätte gern eine Fahrkarte nach [Zielort], bitte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd316",
+      "es": "¿A dónde quiere ir?",
+      "translations": {
+        "en": "Where would you like to go?",
+        "pt": "Para onde você quer ir?",
+        "fr": "Où souhaitez-vous aller ?",
+        "it": "Dove desidera andare?",
+        "de": "Wohin möchten Sie fahren?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd317",
+      "es": "¿Solo de ida o de ida y vuelta?",
+      "translations": {
+        "en": "One way or round trip?",
+        "pt": "Só de ida ou de ida e volta?",
+        "fr": "Un aller simple ou un aller-retour ?",
+        "it": "Solo andata o andata e ritorno?",
+        "de": "Nur Hinfahrt oder Hin- und Rückfahrt?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd318",
+      "es": "¿Para qué fecha quiere viajar?",
+      "translations": {
+        "en": "What date would you like to travel on?",
+        "pt": "Para qual data quer viajar?",
+        "fr": "À quelle date souhaitez-vous voyager ?",
+        "it": "Per quale data desidera viaggiare?",
+        "de": "An welchem Tag möchten Sie fahren?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd138",
+      "es": "Quisiera viajar el [fecha de ida] y regresar el [fecha de regreso].",
+      "translations": {
+        "en": "I'd like to travel on [outbound date] and return on [return date].",
+        "pt": "Gostaria de viajar em [data de ida] e voltar em [data de volta].",
+        "fr": "Je voudrais voyager le [date de départ] et revenir le [date de retour].",
+        "it": "Vorrei partire il [data di andata] e tornare il [data di ritorno].",
+        "de": "Ich möchte am [Hinfahrtsdatum] hinfahren und am [Rückfahrtsdatum] zurückfahren."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd139",
+      "es": "¿Dónde puedo comprar el boleto?",
+      "translations": {
+        "en": "Where can I buy a ticket?",
+        "pt": "Onde posso comprar a passagem?",
+        "fr": "Où puis-je acheter un billet ?",
+        "it": "Dove posso comprare il biglietto?",
+        "de": "Wo kann ich eine Fahrkarte kaufen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd140",
+      "es": "¿Puedo comprar el boleto al subir o debo comprarlo antes?",
+      "translations": {
+        "en": "Can I buy a ticket when I board, or do I need to buy it beforehand?",
+        "pt": "Posso comprar a passagem ao embarcar ou preciso comprar antes?",
+        "fr": "Puis-je acheter le billet en montant ou dois-je l'acheter avant ?",
+        "it": "Posso comprare il biglietto a bordo o devo comprarlo prima?",
+        "de": "Kann ich die Fahrkarte beim Einsteigen kaufen oder muss ich sie vorher kaufen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd141",
+      "es": "¿Cuánto cuesta el pasaje hasta [destino]?",
+      "translations": {
+        "en": "How much is the fare to [destination]?",
+        "pt": "Quanto custa a passagem até [destino]?",
+        "fr": "Combien coûte le trajet jusqu'à [destination] ?",
+        "it": "Quanto costa il biglietto fino a [destinazione]?",
+        "de": "Wie viel kostet die Fahrt nach [Zielort]?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd142",
+      "es": "¿Qué boleto necesito para este trayecto?",
+      "translations": {
+        "en": "Which ticket do I need for this trip?",
+        "pt": "De qual bilhete eu preciso para este trajeto?",
+        "fr": "Quel titre de transport me faut-il pour ce trajet ?",
+        "it": "Quale biglietto mi serve per questo tragitto?",
+        "de": "Welche Fahrkarte brauche ich für diese Strecke?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd143",
+      "es": "¿Este boleto incluye el transbordo?",
+      "translations": {
+        "en": "Does this ticket include a transfer?",
+        "pt": "Este bilhete dá direito à integração?",
+        "fr": "Ce billet permet-il de faire une correspondance ?",
+        "it": "Con questo biglietto posso cambiare mezzo?",
+        "de": "Kann ich mit dieser Fahrkarte auch umsteigen?"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "(En Brasil, «integração» es la conexión entre servicios incluida en el boleto o en una tarifa combinada)."
+      }
+    },
+    {
+      "id": "tpd144",
+      "es": "¿Puedo usar este pase en autobús, metro y tranvía?",
+      "translations": {
+        "en": "Can I use this pass on buses, the subway, and streetcars?",
+        "pt": "Posso usar este passe no ônibus, no metrô e no bonde?",
+        "fr": "Puis-je utiliser ce pass dans le bus, le métro et le tramway ?",
+        "it": "Posso usare questo abbonamento su autobus, metropolitana e tram?",
+        "de": "Kann ich mit diesem Pass Bus, U-Bahn und Straßenbahn fahren?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd145",
+      "es": "¿Qué zonas cubre este boleto?",
+      "translations": {
+        "en": "Which zones does this ticket cover?",
+        "pt": "Quais zonas este bilhete cobre?",
+        "fr": "Quelles zones ce billet couvre-t-il ?",
+        "it": "Quali zone copre questo biglietto?",
+        "de": "Für welche Zonen gilt diese Fahrkarte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd146",
+      "es": "¿Sirve también para llegar al aeropuerto o necesito otro boleto?",
+      "translations": {
+        "en": "Is it also valid for travel to the airport, or do I need another ticket?",
+        "pt": "Também vale para chegar ao aeroporto ou preciso de outro bilhete?",
+        "fr": "Est-il aussi valable pour aller à l'aéroport ou me faut-il un autre billet ?",
+        "it": "È valido anche per arrivare all'aeroporto o mi serve un altro biglietto?",
+        "de": "Gilt die Fahrkarte auch bis zum Flughafen oder brauche ich eine andere?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd322",
+      "es": "Este boleto no cubre el trayecto al aeropuerto. Necesita otro.",
+      "translations": {
+        "en": "This ticket doesn't cover the airport trip. You need a different one.",
+        "pt": "Esta passagem não vale para o trajeto até o aeroporto. Você precisa de outra.",
+        "fr": "Ce billet ne couvre pas le trajet jusqu'à l'aéroport. Il vous en faut un autre.",
+        "it": "Questo biglietto non copre il tragitto fino all'aeroporto. Ne serve un altro.",
+        "de": "Diese Fahrkarte gilt nicht bis zum Flughafen. Sie brauchen eine andere."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd147",
+      "es": "Voy a hacer varios viajes hoy; ¿qué opción me conviene más?",
+      "translations": {
+        "en": "I'll be taking several trips today. Which option is best for me?",
+        "pt": "Vou fazer várias viagens hoje. Qual opção é melhor para mim?",
+        "fr": "Je vais faire plusieurs trajets aujourd'hui. Quelle formule me convient le mieux ?",
+        "it": "Farò diversi spostamenti oggi. Quale opzione mi conviene di più?",
+        "de": "Ich fahre heute mehrmals. Welche Option lohnt sich für mich am meisten?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd148",
+      "es": "¿El pase de un día dura veinticuatro horas o vence a medianoche?",
+      "translations": {
+        "en": "Is the day pass valid for twenty-four hours, or does it expire at midnight?",
+        "pt": "O passe diário vale por vinte e quatro horas ou vence à meia-noite?",
+        "fr": "Le pass d'une journée est-il valable vingt-quatre heures ou expire-t-il à minuit ?",
+        "it": "Il biglietto giornaliero vale ventiquattro ore o scade a mezzanotte?",
+        "de": "Gilt die Tageskarte 24 Stunden oder nur bis Mitternacht?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd149",
+      "es": "¿La validez empieza al comprarlo o al usarlo por primera vez?",
+      "translations": {
+        "en": "Does its validity start when I buy it or when I first use it?",
+        "pt": "A validade começa na compra ou no primeiro uso?",
+        "fr": "La validité commence-t-elle à l'achat ou à la première utilisation ?",
+        "it": "La validità inizia all'acquisto o al primo utilizzo?",
+        "de": "Gilt die Fahrkarte ab dem Kauf oder erst ab der ersten Fahrt?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd150",
+      "es": "¿Cuántos viajes incluye y durante cuánto tiempo?",
+      "translations": {
+        "en": "How many rides does it include, and for how long is it valid?",
+        "pt": "Quantas viagens inclui e por quanto tempo vale?",
+        "fr": "Combien de trajets comprend-il et pendant combien de temps est-il valable ?",
+        "it": "Quanti viaggi include e per quanto tempo è valido?",
+        "de": "Wie viele Fahrten sind inbegriffen und wie lange ist die Karte gültig?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd151",
+      "es": "¿Hay tarifa reducida para niños, estudiantes o adultos mayores?",
+      "translations": {
+        "en": "Are there reduced fares for children, students, or seniors?",
+        "pt": "Há tarifa reduzida para crianças, estudantes ou idosos?",
+        "fr": "Y a-t-il un tarif réduit pour les enfants, les étudiants ou les personnes âgées ?",
+        "it": "Ci sono tariffe ridotte per bambini, studenti o anziani?",
+        "de": "Gibt es ermäßigte Fahrkarten für Kinder, Studierende oder Senioren?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd319",
+      "es": "¿Tiene un documento que acredite el descuento?",
+      "translations": {
+        "en": "Do you have proof that you qualify for the discount?",
+        "pt": "Tem um documento que comprove o direito ao desconto?",
+        "fr": "Avez-vous un justificatif pour bénéficier de la réduction ?",
+        "it": "Ha un documento che dimostri il diritto allo sconto?",
+        "de": "Haben Sie einen Nachweis für die Ermäßigung?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd152",
+      "es": "¿Qué documento necesito para obtener la tarifa reducida?",
+      "translations": {
+        "en": "What document do I need to qualify for the reduced fare?",
+        "pt": "De qual documento eu preciso para ter direito à tarifa reduzida?",
+        "fr": "Quel justificatif me faut-il pour bénéficier du tarif réduit ?",
+        "it": "Quale documento mi serve per ottenere la tariffa ridotta?",
+        "de": "Welchen Nachweis brauche ich für die Ermäßigung?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd153",
+      "es": "¿Los niños necesitan su propio boleto?",
+      "translations": {
+        "en": "Do children need their own ticket?",
+        "pt": "As crianças precisam de bilhete próprio?",
+        "fr": "Les enfants ont-ils besoin de leur propre billet ?",
+        "it": "I bambini hanno bisogno di un biglietto proprio?",
+        "de": "Brauchen Kinder eine eigene Fahrkarte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd154",
+      "es": "¿Cada persona necesita su propia tarjeta de transporte?",
+      "translations": {
+        "en": "Does each person need their own transit card?",
+        "pt": "Cada pessoa precisa do próprio cartão de transporte?",
+        "fr": "Chaque personne a-t-elle besoin de sa propre carte de transport ?",
+        "it": "Ogni persona deve avere la propria tessera di trasporto?",
+        "de": "Braucht jede Person eine eigene Karte für den Nahverkehr?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd155",
+      "es": "¿Puedo pagar el pasaje de varias personas con la misma tarjeta bancaria?",
+      "translations": {
+        "en": "Can I pay for several passengers with the same bank card?",
+        "pt": "Posso pagar por vários passageiros com o mesmo cartão bancário?",
+        "fr": "Puis-je payer pour plusieurs voyageurs avec la même carte bancaire ?",
+        "it": "Posso pagare per più passeggeri con la stessa carta bancaria?",
+        "de": "Kann ich mit derselben Bankkarte für mehrere Personen bezahlen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd156",
+      "es": "¿El precio incluye la tarjeta o la tarjeta se paga aparte?",
+      "translations": {
+        "en": "Does the price include the card, or is the card charged separately?",
+        "pt": "O preço inclui o cartão ou o cartão é cobrado à parte?",
+        "fr": "Le prix comprend-il la carte ou faut-il la payer séparément ?",
+        "it": "Il prezzo include la tessera o la tessera si paga a parte?",
+        "de": "Ist die Karte im Preis inbegriffen oder kostet sie extra?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd157",
+      "es": "¿Puedo comprar el boleto en línea y mostrarlo en mi teléfono?",
+      "translations": {
+        "en": "Can I buy the ticket online and show it on my phone?",
+        "pt": "Posso comprar o bilhete pela internet e mostrá-lo no celular?",
+        "fr": "Puis-je acheter le billet en ligne et le présenter sur mon téléphone ?",
+        "it": "Posso comprare il biglietto online e mostrarlo sul telefono?",
+        "de": "Kann ich die Fahrkarte online kaufen und auf dem Handy vorzeigen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd158",
+      "es": "¿Debo imprimir el boleto o basta con mostrar el código QR?",
+      "translations": {
+        "en": "Do I need to print the ticket, or is showing the QR code enough?",
+        "pt": "Preciso imprimir o bilhete ou basta mostrar o código QR?",
+        "fr": "Dois-je imprimer le billet ou suffit-il de montrer le code QR ?",
+        "it": "Devo stampare il biglietto o basta mostrare il codice QR?",
+        "de": "Muss ich die Fahrkarte ausdrucken oder reicht es, den QR-Code vorzuzeigen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(QR: código que se escanea para comprobar o validar el boleto)."
+      }
+    },
+    {
+      "id": "tpd159",
+      "es": "¿Este boleto es para una salida específica o puedo elegir otra hora?",
+      "translations": {
+        "en": "Is this ticket for a specific departure, or can I choose a different time?",
+        "pt": "Este bilhete é para uma partida específica ou posso escolher outro horário?",
+        "fr": "Ce billet est-il pour un départ précis ou puis-je choisir un autre horaire ?",
+        "it": "Questo biglietto è per una partenza specifica o posso scegliere un altro orario?",
+        "de": "Gilt diese Fahrkarte nur für eine bestimmte Abfahrt oder kann ich auch zu einer anderen Uhrzeit fahren?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd161",
+      "es": "¿La máquina acepta efectivo, tarjeta o ambos?",
+      "translations": {
+        "en": "Does the machine accept cash, cards, or both?",
+        "pt": "A máquina aceita dinheiro, cartão ou os dois?",
+        "fr": "Le distributeur accepte-t-il les espèces, la carte ou les deux ?",
+        "it": "Il distributore accetta contanti, carte o entrambi?",
+        "de": "Nimmt der Automat Bargeld, Karten oder beides?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd162",
+      "es": "¿Puedo pagar el pasaje con una tarjeta bancaria sin contacto?",
+      "translations": {
+        "en": "Can I pay the fare with a contactless bank card?",
+        "pt": "Posso pagar a passagem com um cartão bancário por aproximação?",
+        "fr": "Puis-je payer le trajet avec une carte bancaire sans contact ?",
+        "it": "Posso pagare il biglietto con una carta bancaria contactless?",
+        "de": "Kann ich die Fahrt mit einer kontaktlosen Bankkarte bezahlen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd163",
+      "es": "¿Puedo pagar acercando el teléfono o necesito la tarjeta física?",
+      "translations": {
+        "en": "Can I pay by tapping my phone, or do I need the physical card?",
+        "pt": "Posso pagar por aproximação com o celular ou preciso do cartão físico?",
+        "fr": "Puis-je payer sans contact avec mon téléphone ou me faut-il la carte physique ?",
+        "it": "Posso pagare avvicinando il telefono o mi serve la carta fisica?",
+        "de": "Kann ich kontaktlos mit dem Handy bezahlen oder brauche ich die physische Karte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd325",
+      "es": "Pago aceptado",
+      "translations": {
+        "en": "Payment accepted",
+        "pt": "Pagamento aprovado",
+        "fr": "Paiement accepté",
+        "it": "Pagamento accettato",
+        "de": "Zahlung akzeptiert"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Mensaje de una máquina después de aceptar el pago)"
+      },
+      "examples": {
+        "en": {
+          "text": "The machine displays “Payment accepted” after taking the payment.",
+          "es": "La máquina muestra «Pago aceptado» después de cobrar."
+        },
+        "pt": {
+          "text": "A máquina mostra «Pagamento aprovado» depois de cobrar.",
+          "es": "La máquina muestra «Pago aceptado» después de cobrar."
+        },
+        "fr": {
+          "text": "L'automate affiche « Paiement accepté » après avoir encaissé le paiement.",
+          "es": "La máquina muestra «Pago aceptado» después de cobrar."
+        },
+        "it": {
+          "text": "La macchinetta mostra «Pagamento accettato» dopo aver riscosso il pagamento.",
+          "es": "La máquina muestra «Pago aceptado» después de cobrar."
+        },
+        "de": {
+          "text": "Der Automat zeigt nach dem Bezahlen „Zahlung akzeptiert“ an.",
+          "es": "La máquina muestra «Pago aceptado» después de que se realiza el pago."
+        }
+      }
+    },
+    {
+      "id": "tpd353",
+      "es": "Tarjeta rechazada",
+      "translations": {
+        "de": "Karte abgelehnt",
+        "en": "Card declined",
+        "pt": "Cartão recusado",
+        "fr": "Carte refusée",
+        "it": "Carta rifiutata"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Mensaje de una máquina cuando no acepta la tarjeta)"
+      },
+      "examples": {
+        "en": {
+          "text": "The machine displays “Card declined” when I try to pay.",
+          "es": "La máquina muestra «Tarjeta rechazada» cuando intento pagar."
+        },
+        "pt": {
+          "text": "A máquina mostra «Cartão recusado» quando tento pagar.",
+          "es": "La máquina muestra «Tarjeta rechazada» cuando intento pagar."
+        },
+        "fr": {
+          "text": "L'automate affiche « Carte refusée » quand j'essaie de payer.",
+          "es": "La máquina muestra «Tarjeta rechazada» cuando intento pagar."
+        },
+        "it": {
+          "text": "La macchinetta mostra «Carta rifiutata» quando provo a pagare.",
+          "es": "La máquina muestra «Tarjeta rechazada» cuando intento pagar."
+        },
+        "de": {
+          "text": "Der Automat zeigt „Karte abgelehnt“ an, als ich bezahlen möchte.",
+          "es": "La máquina muestra «Tarjeta rechazada» cuando intento pagar."
+        }
+      }
+    },
+    {
+      "id": "tpd164",
+      "es": "¿Necesito el importe exacto o el conductor da cambio?",
+      "translations": {
+        "en": "Do I need exact change, or does the driver make change?",
+        "pt": "Preciso do valor exato ou o motorista dá troco?",
+        "fr": "Dois-je faire l'appoint ou le conducteur rend-il la monnaie ?",
+        "it": "Devo avere l'importo esatto o l'autista dà il resto?",
+        "de": "Muss ich passend zahlen oder hat der Fahrer Wechselgeld?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd186",
+      "es": "¿Pago al subir o al bajar?",
+      "translations": {
+        "en": "Do I pay when I get on or when I get off?",
+        "pt": "Pago ao subir ou ao descer?",
+        "fr": "Dois-je payer en montant ou en descendant ?",
+        "it": "Pago quando salgo o quando scendo?",
+        "de": "Zahle ich beim Einsteigen oder beim Aussteigen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd165",
+      "es": "¿Dónde puedo recargar esta tarjeta?",
+      "translations": {
+        "en": "Where can I reload this card?",
+        "pt": "Onde posso recarregar este cartão?",
+        "fr": "Où puis-je recharger cette carte ?",
+        "it": "Dove posso ricaricare questa tessera?",
+        "de": "Wo kann ich diese Karte aufladen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd166",
+      "es": "Quisiera recargar esta tarjeta con [monto], por favor.",
+      "translations": {
+        "en": "I'd like to add [amount] to this card, please.",
+        "pt": "Gostaria de recarregar este cartão com [valor], por favor.",
+        "fr": "Je voudrais recharger cette carte de [montant], s'il vous plaît.",
+        "it": "Vorrei ricaricare questa tessera di [importo], per favore.",
+        "de": "Ich würde gern [Betrag] auf diese Karte laden, bitte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd167",
+      "es": "¿Cómo consulto el saldo que me queda?",
+      "translations": {
+        "en": "How do I check my remaining balance?",
+        "pt": "Como consulto o saldo que me resta?",
+        "fr": "Comment consulter mon solde restant ?",
+        "it": "Come controllo il saldo che mi rimane?",
+        "de": "Wie kann ich mein Restguthaben abfragen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd324",
+      "es": "Saldo insuficiente. Recargue la tarjeta antes de volver a intentarlo.",
+      "translations": {
+        "en": "Insufficient balance. Reload the card before trying again.",
+        "pt": "Saldo insuficiente. Recarregue o cartão antes de tentar novamente.",
+        "fr": "Solde insuffisant. Rechargez la carte avant de réessayer.",
+        "it": "Saldo insufficiente. Ricarichi la tessera prima di riprovare.",
+        "de": "Nicht genug Guthaben. Laden Sie die Karte auf und versuchen Sie es erneut."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd168",
+      "es": "¿La recarga se puede usar de inmediato o tarda en aparecer?",
+      "translations": {
+        "en": "Can I use the money right after topping up, or does it take time to show up?",
+        "pt": "Posso usar o saldo da recarga na hora ou demora para aparecer?",
+        "fr": "Puis-je utiliser le solde rechargé tout de suite ou faut-il attendre qu'il apparaisse ?",
+        "it": "Posso usare subito il credito appena caricato o devo aspettare che compaia?",
+        "de": "Kann ich das aufgeladene Guthaben sofort nutzen oder wird es erst später angezeigt?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd169",
+      "es": "Ya compré el boleto; ¿debo validarlo antes de subir?",
+      "translations": {
+        "en": "I've already bought the ticket. Do I need to validate it before boarding?",
+        "pt": "Já comprei o bilhete. Preciso validá-lo antes de embarcar?",
+        "fr": "J'ai déjà acheté le billet. Dois-je le valider avant de monter ?",
+        "it": "Ho già comprato il biglietto. Devo convalidarlo prima di salire?",
+        "de": "Ich habe die Fahrkarte schon gekauft. Muss ich sie vor dem Einsteigen entwerten?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd170",
+      "es": "¿Dónde y cómo se valida este boleto?",
+      "translations": {
+        "en": "Where and how do I validate this ticket?",
+        "pt": "Onde e como valido este bilhete?",
+        "fr": "Où et comment valider ce billet ?",
+        "it": "Dove e come si convalida questo biglietto?",
+        "de": "Wo und wie entwerte ich diese Fahrkarte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd171",
+      "es": "¿Debo insertar el boleto, escanear el código o acercar la tarjeta?",
+      "translations": {
+        "en": "Should I insert the ticket, scan the code, or tap the card?",
+        "pt": "Devo inserir o bilhete, escanear o código ou aproximar o cartão?",
+        "fr": "Dois-je insérer le billet, scanner le code ou approcher la carte ?",
+        "it": "Devo inserire il biglietto, scansionare il codice o avvicinare la tessera?",
+        "de": "Muss ich die Fahrkarte einschieben, den Code scannen oder die Karte ans Lesegerät halten?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd172",
+      "es": "¿Cómo activo el boleto en la aplicación?",
+      "translations": {
+        "en": "How do I activate the ticket in the app?",
+        "pt": "Como ativo o bilhete no aplicativo?",
+        "fr": "Comment activer le billet dans l'application ?",
+        "it": "Come attivo il biglietto nell'app?",
+        "de": "Wie aktiviere ich die Fahrkarte in der App?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd173",
+      "es": "¿Tengo que validar otra vez al hacer transbordo?",
+      "translations": {
+        "en": "Do I need to validate again when I transfer?",
+        "pt": "Preciso validar novamente ao fazer baldeação?",
+        "fr": "Dois-je valider à nouveau lors d'une correspondance ?",
+        "it": "Devo convalidare di nuovo il biglietto quando cambio mezzo?",
+        "de": "Muss ich die Fahrkarte beim Umsteigen noch einmal entwerten?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd323",
+      "es": "Con este pase puede hacer transbordos. Valídelo en el lector cada vez que cambie de transporte.",
+      "translations": {
+        "en": "You can transfer with this pass. Please validate it at the reader every time you transfer.",
+        "pt": "Este passe permite integração. Valide-o no leitor a cada troca de transporte.",
+        "fr": "Ce pass permet les correspondances. Validez-le au lecteur à chaque changement.",
+        "it": "Con questo abbonamento può cambiare mezzo. Lo convalidi al lettore a ogni cambio.",
+        "de": "Mit diesem Pass können Sie umsteigen. Halten Sie ihn aber bei jedem Umstieg erneut ans Lesegerät."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Anuncio de un servicio con validación electrónica en cada transbordo; la regla no es universal)"
+      }
+    },
+    {
+      "id": "tpd174",
+      "es": "¿Debo acercar la tarjeta tanto al entrar como al salir?",
+      "translations": {
+        "en": "Do I need to tap my card both when I enter and when I exit?",
+        "pt": "Preciso aproximar o cartão tanto na entrada quanto na saída?",
+        "fr": "Dois-je présenter la carte à l'entrée et à la sortie ?",
+        "it": "Devo avvicinare la tessera sia all'entrata sia all'uscita?",
+        "de": "Muss ich die Karte sowohl am Eingang als auch am Ausgang ans Lesegerät halten?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd175",
+      "es": "¿Debo usar la misma tarjeta o el mismo dispositivo para que me cobren la tarifa de transbordo?",
+      "translations": {
+        "en": "Do I need to use the same card or device to get the transfer fare?",
+        "pt": "Preciso usar o mesmo cartão ou dispositivo para ter direito à tarifa de integração?",
+        "fr": "Dois-je utiliser la même carte ou le même appareil pour bénéficier du tarif de correspondance ?",
+        "it": "Devo usare la stessa carta o lo stesso dispositivo per ottenere la tariffa integrata?",
+        "de": "Muss ich dieselbe Karte oder dasselbe Gerät benutzen, damit der Umsteigetarif gilt?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Se refiere a la tarifa al cambiar de vehículo, no a un pasaje nuevo)."
+      }
+    },
+    {
+      "id": "tpd176",
+      "es": "Si pago en efectivo, ¿debo pedir un comprobante para el transbordo?",
+      "translations": {
+        "en": "If I pay cash, do I need to ask for a transfer slip?",
+        "pt": "Se eu pagar em dinheiro, preciso pedir um comprovante para fazer a integração?",
+        "fr": "Si je paie en espèces, dois-je demander un ticket de correspondance ?",
+        "it": "Se pago in contanti, devo chiedere un biglietto per la coincidenza?",
+        "de": "Muss ich bei Barzahlung nach einem Umsteigebeleg fragen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd177",
+      "es": "¿Cuánto tiempo tengo para hacer el transbordo sin pagar otro viaje?",
+      "translations": {
+        "en": "How much time do I have to transfer without paying another fare?",
+        "pt": "Quanto tempo tenho para fazer a integração sem pagar outra passagem?",
+        "fr": "Combien de temps ai-je pour faire une correspondance sans payer un nouveau trajet ?",
+        "it": "Quanto tempo ho per cambiare mezzo senza pagare un'altra corsa?",
+        "de": "Wie viel Zeit habe ich zum Umsteigen, ohne eine weitere Fahrt bezahlen zu müssen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd178",
+      "es": "¿Hay un límite diario o semanal de cobro al usar la misma tarjeta?",
+      "translations": {
+        "en": "Is there a daily or weekly fare cap when I use the same card?",
+        "pt": "Há um limite diário ou semanal de cobrança ao usar o mesmo cartão?",
+        "fr": "Y a-t-il un plafond journalier ou hebdomadaire si je paie avec la même carte ?",
+        "it": "C'è un tetto di spesa giornaliero o settimanale usando la stessa carta?",
+        "de": "Gibt es eine tägliche oder wöchentliche Preisobergrenze, wenn ich mit derselben Karte bezahle?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd179",
+      "es": "¿El boleto en el teléfono funciona sin conexión a internet?",
+      "translations": {
+        "en": "Does the mobile ticket work without an internet connection?",
+        "pt": "O bilhete no celular funciona sem conexão com a internet?",
+        "fr": "Le billet sur téléphone fonctionne-t-il sans connexion Internet ?",
+        "it": "Il biglietto sul telefono funziona senza connessione a Internet?",
+        "de": "Funktioniert die Fahrkarte auf dem Handy auch ohne Internetverbindung?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd180",
+      "es": "¿Debo conservar el boleto hasta salir de la estación?",
+      "translations": {
+        "en": "Do I need to keep the ticket until I leave the station?",
+        "pt": "Preciso guardar o bilhete até sair da estação?",
+        "fr": "Dois-je conserver le billet jusqu'à la sortie de la station ?",
+        "it": "Devo conservare il biglietto fino all'uscita della stazione?",
+        "de": "Muss ich die Fahrkarte behalten, bis ich die Station verlasse?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd209",
+      "es": "Si salgo de la estación, ¿necesito pagar otra vez para volver a entrar?",
+      "translations": {
+        "en": "If I leave the station, do I need to pay again to reenter?",
+        "pt": "Se eu sair da estação, preciso pagar de novo para entrar?",
+        "fr": "Si je sors de la station, dois-je payer à nouveau pour y rentrer ?",
+        "it": "Se esco dalla stazione, devo pagare di nuovo per rientrare?",
+        "de": "Wenn ich die Station verlasse, muss ich dann noch einmal bezahlen, um wieder reinzukommen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd326",
+      "es": "Revisión de boletos. Muestre su boleto o el medio de pago que utilizó.",
+      "translations": {
+        "en": "Fare inspection. Please show your ticket or the payment method you used.",
+        "pt": "Fiscalização de passagens. Mostre sua passagem ou o meio de pagamento que usou.",
+        "fr": "Contrôle des titres de transport. Présentez votre billet ou le moyen de paiement utilisé.",
+        "it": "Controllo dei biglietti. Mostri il biglietto o il mezzo di pagamento utilizzato.",
+        "de": "Fahrkartenkontrolle. Zeigen Sie bitte Ihre Fahrkarte oder das verwendete Zahlungsmittel vor."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "tpd327",
+      "es": "Acceso exclusivo para pasajeros con boleto válido",
+      "translations": {
+        "en": "Valid ticket holders only",
+        "pt": "Acesso exclusivo para passageiros com passagem válida",
+        "fr": "Accès réservé aux voyageurs munis d'un titre valable",
+        "it": "Accesso riservato ai passeggeri con biglietto valido",
+        "de": "Zutritt nur mit gültiger Fahrkarte"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The sign at the entrance says “Valid ticket holders only.”",
+          "es": "El letrero de la entrada dice «Acceso exclusivo para pasajeros con boleto válido»."
+        },
+        "pt": {
+          "text": "Na entrada está escrito «Acesso exclusivo para passageiros com passagem válida».",
+          "es": "En la entrada dice «Acceso exclusivo para pasajeros con boleto válido»."
+        },
+        "fr": {
+          "text": "À l'entrée, on peut lire : « Accès réservé aux voyageurs munis d'un titre valable ».",
+          "es": "En la entrada dice «Acceso exclusivo para pasajeros con boleto válido»."
+        },
+        "it": {
+          "text": "All'ingresso c'è scritto «Accesso riservato ai passeggeri con biglietto valido».",
+          "es": "En la entrada dice «Acceso exclusivo para pasajeros con boleto válido»."
+        },
+        "de": {
+          "text": "Am Eingang steht „Zutritt nur mit gültiger Fahrkarte“.",
+          "es": "En la entrada dice «Acceso exclusivo para pasajeros con boleto válido»."
+        }
+      }
+    }
+  ]
+}
