@@ -57,7 +57,7 @@
       },
       "examples": {
         "en": {
-          "text": "I left a message in Ana's voicemail.",
+          "text": "I left a message on Ana's voicemail.",
           "es": "Dejé un mensaje en el buzón de voz de Ana."
         },
         "pt": {
@@ -243,47 +243,6 @@
       }
     },
     {
-      "id": "tmt_007",
-      "es": "La captura de pantalla",
-      "translations": {
-        "en": "The screenshot",
-        "pt": "A captura de tela",
-        "fr": "La capture d'écran",
-        "it": "Lo screenshot",
-        "de": "Der Screenshot"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The screenshots)",
-        "pt": "(Plural: As capturas de tela)",
-        "fr": "(Plural: Les captures d'écran)",
-        "it": "(Plural: Gli screenshot)",
-        "de": "(Plural: Die Screenshots)"
-      },
-      "examples": {
-        "en": {
-          "text": "I took a screenshot of the notice.",
-          "es": "Tomé una captura de pantalla del aviso."
-        },
-        "pt": {
-          "text": "Fiz uma captura de tela do aviso.",
-          "es": "Tomé una captura de pantalla del aviso."
-        },
-        "fr": {
-          "text": "J'ai fait une capture d'écran de l'avis.",
-          "es": "Tomé una captura de pantalla del aviso."
-        },
-        "it": {
-          "text": "Ho fatto uno screenshot dell'avviso.",
-          "es": "Tomé una captura de pantalla del aviso."
-        },
-        "de": {
-          "text": "Ich habe einen Screenshot von dem Hinweis gemacht.",
-          "es": "Tomé una captura de pantalla del aviso."
-        }
-      }
-    },
-    {
       "id": "tmt_016",
       "es": "¿Puedo hablar con Ana, por favor?",
       "translations": {
@@ -337,7 +296,7 @@
       "es": "Soy Luis; llamo por el pedido de ayer.",
       "translations": {
         "en": "This is Luis; I'm calling about yesterday's order.",
-        "pt": "Aqui é o Luis; estou ligando sobre o pedido de ontem.",
+        "pt": "Aqui é o Luis; estou ligando para falar do pedido de ontem.",
         "fr": "C'est Luis ; j'appelle au sujet de la commande d'hier.",
         "it": "Sono Luis; chiamo per l'ordine di ieri.",
         "de": "Hier ist Luis. Ich rufe wegen der Bestellung von gestern an."
@@ -410,7 +369,7 @@
       "translations": {
         "en": "I'd rather leave a message and have someone call me back.",
         "pt": "Prefiro deixar um recado e receber uma ligação mais tarde.",
-        "fr": "Je préfère laisser un message et qu'on me rappelle.",
+        "fr": "Je préfère laisser un message pour qu'on me rappelle plus tard.",
         "it": "Preferisco lasciare un messaggio e farmi richiamare.",
         "de": "Ich möchte lieber eine Nachricht hinterlassen und später zurückgerufen werden."
       },
@@ -445,7 +404,7 @@
       "es": "Es el mismo número desde el que estoy llamando.",
       "translations": {
         "en": "It's the same number I'm calling from.",
-        "pt": "É o mesmo número de que estou ligando.",
+        "pt": "É o mesmo número que estou usando para ligar.",
         "fr": "C'est le même numéro que celui depuis lequel j'appelle.",
         "it": "È lo stesso numero da cui sto chiamando.",
         "de": "Das ist dieselbe Nummer, von der ich gerade anrufe."
@@ -520,7 +479,7 @@
         "pt": "Quando ouvir esta mensagem, me ligue, por favor.",
         "fr": "Rappelle-moi quand tu auras écouté ce message, s'il te plaît.",
         "it": "Chiamami quando ascolti questo messaggio, per favore.",
-        "de": "Ruf mich bitte an, wenn du diese Nachricht abhörst."
+        "de": "Ruf mich bitte an, wenn du diese Nachricht gehört hast."
       },
       "image_url": ""
     },
@@ -556,7 +515,7 @@
         "pt": "Não estou te ouvindo bem; parece que tem muito barulho.",
         "fr": "Je ne t'entends pas bien ; on dirait qu'il y a beaucoup de bruit.",
         "it": "Non ti sento bene; sembra che ci sia molto rumore.",
-        "de": "Ich höre dich schlecht. Es klingt, als wäre es sehr laut."
+        "de": "Ich kann dich nicht gut hören. Es klingt, als wäre es bei dir sehr laut."
       },
       "image_url": ""
     },
@@ -567,7 +526,7 @@
         "en": "The call dropped before you finished.",
         "pt": "A ligação caiu antes de você terminar.",
         "fr": "L'appel a été coupé avant que tu finisses.",
-        "it": "La chiamata è caduta prima che finissi.",
+        "it": "È caduta la linea prima che finissi di parlare.",
         "de": "Die Verbindung ist abgebrochen, bevor du fertig warst."
       },
       "image_url": ""
@@ -579,7 +538,7 @@
         "en": "If it drops again, I'll send you a message.",
         "pt": "Se cair de novo, te mando uma mensagem.",
         "fr": "Si ça coupe encore, je t'envoie un message.",
-        "it": "Se cade di nuovo, ti mando un messaggio.",
+        "it": "Se cade di nuovo la linea, ti mando un messaggio.",
         "de": "Wenn die Verbindung wieder abbricht, schreibe ich dir eine Nachricht."
       },
       "image_url": ""
@@ -739,7 +698,7 @@
         "pt": "A Ana me disse que o horário mudou, mas não me disse o novo horário.",
         "fr": "Ana m'a dit que l'heure avait changé, mais elle ne m'a pas donné la nouvelle heure.",
         "it": "Ana mi ha detto che l'ora è cambiata, ma non mi ha detto qual è quella nuova.",
-        "de": "Ana hat mir gesagt, dass sich die Uhrzeit geändert hat, aber nicht, wann es jetzt ist."
+        "de": "Ana hat mir gesagt, dass sich die Uhrzeit geändert hat. Die neue Uhrzeit hat sie mir aber nicht gesagt."
       },
       "image_url": ""
     },
@@ -821,7 +780,7 @@
       "translations": {
         "en": "I'll reply privately so I don't fill up the group chat.",
         "pt": "Vou responder no privado para não encher o chat do grupo.",
-        "fr": "Je vais répondre en privé pour ne pas remplir la discussion de groupe.",
+        "fr": "Je vais répondre en privé pour ne pas encombrer la discussion de groupe.",
         "it": "Risponderò in privato per non riempire la chat del gruppo.",
         "de": "Ich antworte privat, damit der Gruppenchat nicht so voll wird."
       },
@@ -925,13 +884,13 @@
     },
     {
       "id": "tmt_064",
-      "es": "Ya entré, pero estoy en la sala de espera.",
+      "es": "Ya abrí el enlace, pero sigo en la sala de espera.",
       "translations": {
-        "en": "I've joined, but I'm in the waiting room.",
-        "pt": "Já entrei, mas estou na sala de espera.",
-        "fr": "Je me suis connecté, mais je suis dans la salle d'attente. / Je me suis connectée, mais je suis dans la salle d'attente.",
-        "it": "Sono già nella chiamata, ma sono ancora nella sala d'attesa.",
-        "de": "Ich bin schon drin, aber noch im Warteraum."
+        "en": "I opened the link, but I'm still in the waiting room.",
+        "pt": "Já abri o link, mas ainda estou na sala de espera.",
+        "fr": "J'ai ouvert le lien, mais je suis toujours dans la salle d'attente.",
+        "it": "Ho aperto il link, ma sono ancora nella sala d'attesa.",
+        "de": "Ich habe den Link geöffnet, aber ich bin noch im Warteraum."
       },
       "image_url": ""
     },
@@ -979,7 +938,7 @@
         "pt": "Vou sair da chamada e entrar de novo.",
         "fr": "Je vais quitter l'appel et me reconnecter.",
         "it": "Uscirò dalla chiamata e rientrerò.",
-        "de": "Ich verlasse den Anruf und komme dann wieder rein."
+        "de": "Ich gehe kurz aus dem Videoanruf raus und komme dann wieder rein."
       },
       "image_url": ""
     },

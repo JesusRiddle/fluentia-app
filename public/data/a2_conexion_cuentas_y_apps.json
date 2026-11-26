@@ -160,30 +160,30 @@
       "notes": {
         "en": "(Plural: The verification codes)",
         "pt": "(Plural: Os códigos de verificação)",
-        "fr": "(Plural: Les codes de vérification)",
+        "fr": "(Plural: Les codes de vérification) «SMS» significa mensaje de texto.",
         "it": "(Plural: I codici di verifica)",
         "de": "(Plural: Die Bestätigungscodes)"
       },
       "examples": {
         "en": {
           "text": "The verification code came in a text message.",
-          "es": "El código de verificación llegó por mensaje."
+          "es": "El código de verificación llegó por mensaje de texto."
         },
         "pt": {
           "text": "O código de verificação chegou por mensagem de texto.",
-          "es": "El código de verificación llegó por mensaje."
+          "es": "El código de verificación llegó por mensaje de texto."
         },
         "fr": {
-          "text": "Le code de vérification est arrivé par message texte.",
-          "es": "El código de verificación llegó por mensaje."
+          "text": "Le code de vérification est arrivé par SMS.",
+          "es": "El código de verificación llegó por mensaje de texto."
         },
         "it": {
           "text": "Il codice di verifica è arrivato con un messaggio di testo.",
-          "es": "El código de verificación llegó por mensaje."
+          "es": "El código de verificación llegó por mensaje de texto."
         },
         "de": {
           "text": "Der Bestätigungscode kam per Textnachricht.",
-          "es": "El código de verificación llegó por mensaje."
+          "es": "El código de verificación llegó por mensaje de texto."
         }
       }
     },
@@ -307,7 +307,7 @@
         "pt": "Qual é o nome da rede Wi-Fi?",
         "fr": "Quel est le nom du réseau Wi-Fi ?",
         "it": "Come si chiama la rete Wi-Fi?",
-        "de": "Wie heißt das WLAN-Netz?"
+        "de": "Wie heißt das WLAN?"
       },
       "image_url": ""
     },
@@ -385,15 +385,18 @@
     },
     {
       "id": "tmt_080",
-      "es": "¿Puedes compartir tus datos móviles conmigo un momento?",
+      "es": "¿Puedes compartir el internet de tu celular conmigo un momento?",
       "translations": {
-        "en": "Can you share your mobile data with me for a moment?",
-        "pt": "Pode compartilhar seus dados móveis comigo por um momento?",
-        "fr": "Peux-tu partager tes données mobiles avec moi un instant ?",
-        "it": "Puoi condividere i tuoi dati mobili con me per un momento?",
-        "de": "Kannst du deine mobilen Daten kurz mit mir teilen?"
+        "en": "Can you turn on your mobile hotspot so I can get online for a minute?",
+        "pt": "Você pode rotear a internet do seu celular para mim por um instante?",
+        "fr": "Peux-tu activer le partage de connexion de ton téléphone pour que je puisse me connecter un instant ?",
+        "it": "Puoi attivare il punto di accesso sul telefono per farmi collegare un attimo?",
+        "de": "Kannst du kurz den Hotspot auf deinem Handy einschalten, damit ich ins Internet kann?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Se pide usar la conexión a internet del otro celular; no transferir archivos ni compartir datos personales)"
+      }
     },
     {
       "id": "tmt_081",
@@ -889,13 +892,13 @@
     },
     {
       "id": "tmt_122",
-      "es": "El enlace se abre, pero me pide permiso para ver el archivo.",
+      "es": "El enlace se abre, pero necesito permiso para ver el archivo.",
       "translations": {
         "en": "The link opens, but I need permission to view the file.",
-        "pt": "O link abre, mas pede permissão para ver o arquivo.",
+        "pt": "O link abre, mas preciso de permissão para ver o arquivo.",
         "fr": "Le lien s'ouvre, mais une autorisation est nécessaire pour consulter le fichier.",
         "it": "Il link si apre, ma mi serve il permesso per vedere il file.",
-        "de": "Der Link öffnet sich, aber ich brauche eine Berechtigung, um die Datei zu sehen."
+        "de": "Der Link lässt sich öffnen, aber ich brauche eine Berechtigung, um die Datei zu sehen."
       },
       "image_url": ""
     },
@@ -919,7 +922,7 @@
         "pt": "O download parou na metade.",
         "fr": "Le téléchargement s'est arrêté à mi-chemin.",
         "it": "Il download si è interrotto a metà.",
-        "de": "Der Download wurde mittendrin abgebrochen."
+        "de": "Der Download ist mittendrin stehen geblieben."
       },
       "image_url": ""
     },
@@ -1025,7 +1028,7 @@
       "translations": {
         "en": "Does it happen every time or only with that file?",
         "pt": "Isso acontece sempre ou só com esse arquivo?",
-        "fr": "Cela arrive-t-il toujours ou seulement avec ce fichier ?",
+        "fr": "Ça t'arrive à chaque fois ou seulement avec ce fichier ?",
         "it": "Succede sempre o solo con quel file?",
         "de": "Passiert dir das immer oder nur bei dieser Datei?"
       },
@@ -1054,6 +1057,47 @@
         "de": "Ich kopiere den genauen Wortlaut der Fehlermeldung."
       },
       "image_url": ""
+    },
+    {
+      "id": "tmt_007",
+      "es": "La captura de pantalla",
+      "translations": {
+        "en": "The screenshot",
+        "pt": "A captura de tela",
+        "fr": "La capture d'écran",
+        "it": "Lo screenshot",
+        "de": "Der Screenshot"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The screenshots)",
+        "pt": "(Plural: As capturas de tela)",
+        "fr": "(Plural: Les captures d'écran)",
+        "it": "(Plural: Gli screenshot)",
+        "de": "(Plural: Die Screenshots)"
+      },
+      "examples": {
+        "en": {
+          "text": "I took a screenshot of the notice.",
+          "es": "Tomé una captura de pantalla del aviso."
+        },
+        "pt": {
+          "text": "Fiz uma captura de tela do aviso.",
+          "es": "Tomé una captura de pantalla del aviso."
+        },
+        "fr": {
+          "text": "J'ai fait une capture d'écran de l'avis.",
+          "es": "Tomé una captura de pantalla del aviso."
+        },
+        "it": {
+          "text": "Ho fatto uno screenshot dell'avviso.",
+          "es": "Tomé una captura de pantalla del aviso."
+        },
+        "de": {
+          "text": "Ich habe einen Screenshot von dem Hinweis gemacht.",
+          "es": "Tomé una captura de pantalla del aviso."
+        }
+      }
     },
     {
       "id": "tmt_139",
