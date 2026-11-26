@@ -4,6 +4,114 @@
   "revisado": true,
   "cards": [
     {
+      "id": "food_32",
+      "es": "El agua",
+      "translations": {
+        "en": "The water",
+        "fr": "L'eau",
+        "it": "L'acqua",
+        "pt": "A água",
+        "de": "Das Wasser"
+      },
+      "image_url": "data/img/agua.jpg",
+      "examples": {
+        "en": {
+          "text": "I drink water after running.",
+          "es": "Tomo agua después de correr."
+        },
+        "fr": {
+          "text": "Je bois de l'eau après avoir couru.",
+          "es": "Tomo agua después de correr."
+        },
+        "it": {
+          "text": "Bevo acqua dopo aver corso.",
+          "es": "Tomo agua después de correr."
+        },
+        "pt": {
+          "text": "Bebo água depois de correr.",
+          "es": "Tomo agua después de correr."
+        },
+        "de": {
+          "text": "Nach dem Laufen trinke ich Wasser.",
+          "es": "Tomo agua después de correr."
+        }
+      }
+    },
+    {
+      "id": "food_183",
+      "es": "El agua sin gas",
+      "translations": {
+        "en": "The still water",
+        "fr": "L'eau plate",
+        "it": "L'acqua naturale",
+        "pt": "A água sem gás",
+        "de": "Das stille Wasser"
+      },
+      "image_url": "data/img/agua_sin_gas.jpg",
+      "notes": {
+        "de": "«Still» en esta expresión indica que el agua no tiene gas."
+      },
+      "examples": {
+        "en": {
+          "text": "I order a bottle of still water.",
+          "es": "Pido una botella de agua sin gas."
+        },
+        "fr": {
+          "text": "Je commande une bouteille d'eau plate.",
+          "es": "Pido una botella de agua sin gas."
+        },
+        "it": {
+          "text": "Ordino una bottiglia di acqua naturale.",
+          "es": "Pido una botella de agua sin gas."
+        },
+        "pt": {
+          "text": "Peço uma garrafa de água sem gás.",
+          "es": "Pido una botella de agua sin gas."
+        },
+        "de": {
+          "text": "Ich bestelle eine Flasche stilles Wasser.",
+          "es": "Pido una botella de agua sin gas."
+        }
+      }
+    },
+    {
+      "id": "food_78",
+      "es": "El agua con gas",
+      "translations": {
+        "en": "The sparkling water",
+        "fr": "L'eau gazeuse",
+        "it": "L'acqua frizzante",
+        "pt": "A água com gás",
+        "de": "Das Wasser mit Kohlensäure"
+      },
+      "image_url": "data/img/agua_mineral.jpg",
+      "notes": {
+        "de": "Al pedir una botella también se dice «Sprudelwasser» o «Wasser mit Gas»."
+      },
+      "examples": {
+        "en": {
+          "text": "I'd like sparkling water, please.",
+          "es": "Quiero agua con gas, por favor."
+        },
+        "fr": {
+          "text": "Je voudrais de l'eau gazeuse, s'il vous plaît.",
+          "es": "Quiero agua con gas, por favor."
+        },
+        "it": {
+          "text": "Vorrei dell'acqua frizzante, per favore.",
+          "es": "Quiero agua con gas, por favor."
+        },
+        "pt": {
+          "text": "Queria água com gás, por favor.",
+          "es": "Quiero agua con gas, por favor."
+        },
+        "de": {
+          "text": "Ich hätte gern Wasser mit Kohlensäure.",
+          "es": "Quiero agua con gas, por favor."
+        }
+      }
+    },
+    {
       "id": "food_313",
       "es": "El agua mineral",
       "translations": {
@@ -155,6 +263,86 @@
       }
     },
     {
+      "id": "food_46",
+      "es": "El jugo",
+      "translations": {
+        "en": "The juice",
+        "fr": "Le jus",
+        "it": "Il succo",
+        "pt": "O suco",
+        "de": "Der Saft"
+      },
+      "image_url": "data/img/jugo.jpg",
+      "notes": {
+        "en": "(Plural: The juices)",
+        "fr": "(Plural: Les jus)",
+        "it": "(Plural: I succi)",
+        "pt": "(Plural: Os sucos)",
+        "de": "(Plural: Die Säfte) Para combinar el jugo con el nombre de la fruta: «Orangensaft», jugo de naranja."
+      },
+      "examples": {
+        "en": {
+          "text": "I drink orange juice in the morning.",
+          "es": "Tomo jugo de naranja en la mañana."
+        },
+        "fr": {
+          "text": "Je bois du jus d'orange le matin.",
+          "es": "Tomo jugo de naranja en la mañana."
+        },
+        "it": {
+          "text": "Bevo succo d'arancia la mattina.",
+          "es": "Tomo jugo de naranja en la mañana."
+        },
+        "pt": {
+          "text": "Tomo suco de laranja de manhã.",
+          "es": "Tomo jugo de naranja en la mañana."
+        },
+        "de": {
+          "text": "Morgens trinke ich frischen Saft.",
+          "es": "En la mañana tomo jugo fresco."
+        }
+      }
+    },
+    {
+      "id": "food_370",
+      "es": "El agua de limón",
+      "translations": {
+        "en": "The limeade",
+        "fr": "La citronnade au citron vert",
+        "it": "La limonata al lime",
+        "pt": "A limonada de limão-taiti",
+        "de": "Die Limettenlimonade"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Agua fresca hecha con limón verde)",
+        "fr": "«Citron vert» corresponde al limón verde; «citron» sin aclaración suele ser el amarillo.",
+        "pt": "«Limão-taiti» es el limón persa, una variedad de limón verde; no es el único limón verde de México."
+      },
+      "examples": {
+        "en": {
+          "text": "I'm making limeade today.",
+          "es": "Hoy preparo agua de limón."
+        },
+        "fr": {
+          "text": "Aujourd'hui, je prépare une citronnade au citron vert.",
+          "es": "Hoy preparo agua de limón verde."
+        },
+        "it": {
+          "text": "Oggi preparo una limonata al lime.",
+          "es": "Hoy preparo agua de limón verde."
+        },
+        "pt": {
+          "text": "Hoje eu preparo limonada de limão-taiti.",
+          "es": "Hoy preparo agua de limón persa."
+        },
+        "de": {
+          "text": "Heute mache ich Limettenlimonade.",
+          "es": "Hoy preparo agua de limón."
+        }
+      }
+    },
+    {
       "id": "food_92",
       "es": "La limonada sin gas",
       "translations": {
@@ -235,45 +423,6 @@
       }
     },
     {
-      "id": "food_370",
-      "es": "El agua de limón",
-      "translations": {
-        "en": "The limeade",
-        "fr": "La citronnade au citron vert",
-        "it": "La limonata al lime",
-        "pt": "A limonada de limão-taiti",
-        "de": "Die Limettenlimonade"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Agua fresca hecha con limón verde)",
-        "fr": "«Citron vert» corresponde al limón verde; «citron» sin aclaración suele ser el amarillo.",
-        "pt": "«Limão-taiti» es el limón persa, una variedad de limón verde; no es el único limón verde de México."
-      },
-      "examples": {
-        "en": {
-          "text": "I'm making limeade today.",
-          "es": "Hoy preparo agua de limón."
-        },
-        "fr": {
-          "text": "Aujourd'hui, je prépare une citronnade au citron vert.",
-          "es": "Hoy preparo agua de limón verde."
-        },
-        "it": {
-          "text": "Oggi preparo una limonata al lime.",
-          "es": "Hoy preparo agua de limón verde."
-        },
-        "pt": {
-          "text": "Hoje eu preparo limonada de limão-taiti.",
-          "es": "Hoy preparo agua de limón persa."
-        },
-        "de": {
-          "text": "Heute mache ich Limettenlimonade.",
-          "es": "Hoy preparo agua de limón."
-        }
-      }
-    },
-    {
       "id": "food_347",
       "es": "El agua de coco",
       "translations": {
@@ -304,6 +453,227 @@
         "de": {
           "text": "Am Strand trinke ich Kokoswasser.",
           "es": "Tomo agua de coco en la playa."
+        }
+      }
+    },
+    {
+      "id": "food_359",
+      "es": "El agua de jamaica",
+      "translations": {
+        "en": "The Mexican hibiscus tea",
+        "fr": "La boisson mexicaine à l'hibiscus",
+        "it": "La bevanda messicana all'ibisco",
+        "pt": "O chá mexicano de hibisco",
+        "de": "Das mexikanische Hibiskusgetränk"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Bebida mexicana de flor de jamaica, normalmente fría)",
+        "en": "El té de hibisco puede tomarse caliente o frío; el agua de jamaica suele servirse fría.",
+        "pt": "Aquí es «chá de hibisco» servido frío, como agua fresca."
+      },
+      "examples": {
+        "en": {
+          "text": "I drink cold Mexican hibiscus tea with my tacos.",
+          "es": "Tomo agua de jamaica fría con los tacos."
+        },
+        "fr": {
+          "text": "Je bois une boisson mexicaine à l'hibiscus bien fraîche avec mes tacos.",
+          "es": "Tomo agua de jamaica fría con los tacos."
+        },
+        "it": {
+          "text": "Bevo una bevanda messicana all'ibisco fresca con i tacos.",
+          "es": "Tomo agua de jamaica fría con los tacos."
+        },
+        "pt": {
+          "text": "Tomo chá mexicano de hibisco gelado com os tacos.",
+          "es": "Tomo agua de jamaica fría con los tacos."
+        },
+        "de": {
+          "text": "Zu den Tacos trinke ich ein kaltes mexikanisches Hibiskusgetränk.",
+          "es": "Tomo agua de jamaica fría con los tacos."
+        }
+      }
+    },
+    {
+      "id": "food_367",
+      "es": "El agua de horchata",
+      "translations": {
+        "en": "The Mexican horchata",
+        "fr": "La horchata mexicaine",
+        "it": "L'horchata messicana",
+        "pt": "A horchata mexicana",
+        "de": "Die mexikanische Horchata"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Bebida mexicana de arroz y canela, no la horchata valenciana de chufa)",
+        "en": "Aquí «horchata» se refiere a la versión mexicana de arroz y canela.",
+        "pt": "Es una bebida de arroz y canela, no de chufa."
+      },
+      "examples": {
+        "en": {
+          "text": "Mexican horchata is made with rice and cinnamon.",
+          "es": "El agua de horchata lleva arroz y canela."
+        },
+        "fr": {
+          "text": "La horchata mexicaine se prépare avec du riz et de la cannelle.",
+          "es": "El agua de horchata lleva arroz y canela."
+        },
+        "it": {
+          "text": "L'horchata messicana si fa con riso e cannella.",
+          "es": "El agua de horchata lleva arroz y canela."
+        },
+        "pt": {
+          "text": "A horchata mexicana é feita com arroz e canela.",
+          "es": "El agua de horchata lleva arroz y canela."
+        },
+        "de": {
+          "text": "Mexikanische Horchata macht man aus Reis und Zimt.",
+          "es": "El agua de horchata lleva arroz y canela."
+        }
+      }
+    },
+    {
+      "id": "food_77",
+      "es": "El refresco",
+      "translations": {
+        "en": "The soda",
+        "fr": "Le soda",
+        "it": "La bibita gassata",
+        "pt": "O refrigerante",
+        "de": "Die Limonade"
+      },
+      "image_url": "data/img/refresco.jpg",
+      "notes": {
+        "en": "(Plural: The sodas)",
+        "fr": "(Plural: Les sodas)",
+        "it": "(Plural: Le bibite gassate)",
+        "pt": "(Plural: Os refrigerantes)",
+        "de": "(Plural: Die Limonaden) En Alemania, «Limonade» se usa para refrescos dulces; no significa solo limonada de limón."
+      },
+      "examples": {
+        "en": {
+          "text": "I order an orange soda with my pizza.",
+          "es": "Pido un refresco de naranja con la pizza."
+        },
+        "fr": {
+          "text": "Je commande un soda à l'orange avec ma pizza.",
+          "es": "Pido un refresco de naranja con la pizza."
+        },
+        "it": {
+          "text": "Ordino una bibita gassata all'arancia con la pizza.",
+          "es": "Pido un refresco de naranja con la pizza."
+        },
+        "pt": {
+          "text": "Peço um refrigerante de laranja com a pizza.",
+          "es": "Pido un refresco de naranja con la pizza."
+        },
+        "de": {
+          "text": "Zur Pizza bestelle ich eine Orangenlimonade.",
+          "es": "Pido un refresco de naranja para acompañar la pizza."
+        }
+      }
+    },
+    {
+      "id": "food_27",
+      "es": "La leche",
+      "translations": {
+        "en": "The milk",
+        "fr": "Le lait",
+        "it": "Il latte",
+        "pt": "O leite",
+        "de": "Die Milch"
+      },
+      "image_url": "data/img/leche.jpg",
+      "examples": {
+        "en": {
+          "text": "We need milk for the cereal.",
+          "es": "Necesitamos leche para el cereal."
+        },
+        "fr": {
+          "text": "On a besoin de lait pour les céréales.",
+          "es": "Necesitamos leche para el cereal."
+        },
+        "it": {
+          "text": "Ci serve il latte per i cereali.",
+          "es": "Necesitamos leche para el cereal."
+        },
+        "pt": {
+          "text": "Precisamos de leite para o cereal.",
+          "es": "Necesitamos leche para el cereal."
+        },
+        "de": {
+          "text": "Wir brauchen Milch für die Cornflakes.",
+          "es": "Necesitamos leche para las hojuelas de maíz."
+        }
+      }
+    },
+    {
+      "id": "food_368",
+      "es": "La leche entera",
+      "translations": {
+        "en": "The whole milk",
+        "fr": "Le lait entier",
+        "it": "Il latte intero",
+        "pt": "O leite integral",
+        "de": "Die Vollmilch"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I make hot chocolate with whole milk.",
+          "es": "Preparo chocolate caliente con leche entera."
+        },
+        "fr": {
+          "text": "Je prépare un chocolat chaud avec du lait entier.",
+          "es": "Preparo chocolate caliente con leche entera."
+        },
+        "it": {
+          "text": "Preparo la cioccolata calda con il latte intero.",
+          "es": "Preparo chocolate caliente con leche entera."
+        },
+        "pt": {
+          "text": "Faço chocolate quente com leite integral.",
+          "es": "Preparo chocolate caliente con leche entera."
+        },
+        "de": {
+          "text": "Ich mache heiße Schokolade mit Vollmilch.",
+          "es": "Preparo chocolate caliente con leche entera."
+        }
+      }
+    },
+    {
+      "id": "food_242",
+      "es": "La leche deslactosada",
+      "translations": {
+        "en": "The lactose-free milk",
+        "fr": "Le lait sans lactose",
+        "it": "Il latte senza lattosio",
+        "pt": "O leite sem lactose",
+        "de": "Die laktosefreie Milch"
+      },
+      "image_url": "data/img/leche_deslactosada.jpg",
+      "examples": {
+        "en": {
+          "text": "Do you have lactose-free milk for the coffee?",
+          "es": "¿Tienen leche deslactosada para el café?"
+        },
+        "fr": {
+          "text": "Vous avez du lait sans lactose pour le café ?",
+          "es": "¿Tienen leche deslactosada para el café?"
+        },
+        "it": {
+          "text": "Avete latte senza lattosio per il caffè?",
+          "es": "¿Tienen leche deslactosada para el café?"
+        },
+        "pt": {
+          "text": "Tem leite sem lactose para o café?",
+          "es": "¿Tienen leche deslactosada para el café?"
+        },
+        "de": {
+          "text": "Haben Sie laktosefreie Milch für den Kaffee?",
+          "es": "¿Tienen leche deslactosada para el café?"
         }
       }
     },
@@ -391,85 +761,43 @@
       }
     },
     {
-      "id": "food_94",
-      "es": "El té helado",
+      "id": "food_33",
+      "es": "El café",
       "translations": {
-        "en": "The iced tea",
-        "fr": "Le thé glacé",
-        "it": "Il tè freddo",
-        "pt": "O chá gelado",
-        "de": "Der Eistee"
+        "en": "The coffee",
+        "fr": "Le café",
+        "it": "Il caffè",
+        "pt": "O café",
+        "de": "Der Kaffee"
       },
-      "image_url": "data/img/te_helado.jpg",
+      "image_url": "data/img/cafe.jpg",
       "notes": {
-        "en": "(Plural: The iced teas)",
-        "fr": "(Plural: Les thés glacés)",
-        "it": "(Plural: I tè freddi)",
-        "pt": "(Plural: Os chás gelados)",
-        "de": "(Plural: Die Eistees)",
-        "es": "(Té servido frío)"
+        "en": "(Plural: The coffees)",
+        "fr": "(Plural: Les cafés)",
+        "it": "(Plural: I caffè)",
+        "pt": "(Plural: Os cafés)",
+        "de": "(Plural: Die Kaffees)"
       },
       "examples": {
         "en": {
-          "text": "I'd like an unsweetened iced tea.",
-          "es": "Quisiera un té helado sin azúcar."
+          "text": "I drink coffee before work.",
+          "es": "Tomo café antes de trabajar."
         },
         "fr": {
-          "text": "Je voudrais un thé glacé sans sucre.",
-          "es": "Quisiera un té helado sin azúcar."
+          "text": "Je bois du café avant le travail.",
+          "es": "Tomo café antes de trabajar."
         },
         "it": {
-          "text": "Vorrei un tè freddo senza zucchero.",
-          "es": "Quisiera un té helado sin azúcar."
+          "text": "Bevo un caffè prima del lavoro.",
+          "es": "Tomo café antes de trabajar."
         },
         "pt": {
-          "text": "Eu queria um chá gelado sem açúcar.",
-          "es": "Quisiera un té helado sin azúcar."
+          "text": "Tomo café antes do trabalho.",
+          "es": "Tomo café antes de trabajar."
         },
         "de": {
-          "text": "Ich hätte gern einen Eistee ohne Zucker.",
-          "es": "Quisiera un té helado sin azúcar."
-        }
-      }
-    },
-    {
-      "id": "food_95",
-      "es": "El chocolate caliente",
-      "translations": {
-        "en": "The hot chocolate",
-        "fr": "Le chocolat chaud",
-        "it": "La cioccolata calda",
-        "pt": "O chocolate quente",
-        "de": "Die heiße Schokolade"
-      },
-      "image_url": "data/img/chocolate_caliente.jpg",
-      "notes": {
-        "en": "(Plural: The hot chocolates) El plural es habitual al contar tazas o pedidos de chocolate caliente.",
-        "fr": "(Plural: Les chocolats chauds)",
-        "it": "(Plural: Le cioccolate calde)",
-        "pt": "(Plural: Os chocolates quentes)",
-        "de": "Al contar tazas, usa «zwei Tassen heiße Schokolade» (dos tazas de chocolate caliente)."
-      },
-      "examples": {
-        "en": {
-          "text": "I drink hot chocolate when it's cold.",
-          "es": "Tomo chocolate caliente cuando hace frío."
-        },
-        "fr": {
-          "text": "Je bois du chocolat chaud quand il fait froid.",
-          "es": "Tomo chocolate caliente cuando hace frío."
-        },
-        "it": {
-          "text": "Bevo cioccolata calda quando fa freddo.",
-          "es": "Tomo chocolate caliente cuando hace frío."
-        },
-        "pt": {
-          "text": "Eu tomo chocolate quente quando faz frio.",
-          "es": "Tomo chocolate caliente cuando hace frío."
-        },
-        "de": {
-          "text": "Wenn es kalt ist, trinke ich heiße Schokolade.",
-          "es": "Tomo chocolate caliente cuando hace frío."
+          "text": "Ich trinke Kaffee vor der Arbeit.",
+          "es": "Tomo café antes de trabajar."
         }
       }
     },
@@ -553,6 +881,245 @@
         "de": {
           "text": "Im Sommer trinke ich Kaffee mit Eiswürfeln.",
           "es": "En verano tomo café con cubitos de hielo."
+        }
+      }
+    },
+    {
+      "id": "food_304",
+      "es": "El café con leche",
+      "translations": {
+        "en": "The coffee with milk",
+        "fr": "Le café au lait",
+        "it": "Il caffellatte",
+        "pt": "O café com leite",
+        "de": "Der Milchkaffee"
+      },
+      "image_url": "data/img/cafe_leche.jpg",
+      "notes": {
+        "de": "(Plural: Die Milchkaffees)"
+      },
+      "examples": {
+        "en": {
+          "text": "I drink coffee with milk at breakfast.",
+          "es": "Tomo un café con leche en el desayuno."
+        },
+        "fr": {
+          "text": "Je prends un café au lait au petit déjeuner.",
+          "es": "Tomo un café con leche en el desayuno."
+        },
+        "it": {
+          "text": "Prendo un caffellatte a colazione.",
+          "es": "Tomo un café con leche en el desayuno."
+        },
+        "pt": {
+          "text": "Tomo café com leite no café da manhã.",
+          "es": "Tomo un café con leche en el desayuno."
+        },
+        "de": {
+          "text": "Zum Frühstück trinke ich einen Milchkaffee.",
+          "es": "Tomo un café con leche en el desayuno."
+        }
+      }
+    },
+    {
+      "id": "food_47",
+      "es": "El té",
+      "translations": {
+        "en": "The tea",
+        "fr": "Le thé",
+        "it": "Il tè",
+        "pt": "O chá",
+        "de": "Der Tee"
+      },
+      "image_url": "data/img/te.jpg",
+      "notes": {
+        "en": "(Plural: The teas)",
+        "fr": "(Plural: Les thés)",
+        "it": "(Plural: I tè)",
+        "pt": "(Plural: Os chás)",
+        "de": "(Plural: Die Tees)"
+      },
+      "examples": {
+        "en": {
+          "text": "I make myself some tea before bed.",
+          "es": "Me preparo un té antes de dormir."
+        },
+        "fr": {
+          "text": "Je me prépare un thé avant de me coucher.",
+          "es": "Me preparo un té antes de dormir."
+        },
+        "it": {
+          "text": "Mi preparo un tè prima di andare a letto.",
+          "es": "Me preparo un té antes de dormir."
+        },
+        "pt": {
+          "text": "Faço um chá antes de dormir.",
+          "es": "Me preparo un té antes de dormir."
+        },
+        "de": {
+          "text": "Vor dem Schlafengehen mache ich mir einen Tee.",
+          "es": "Me preparo un té antes de dormir."
+        }
+      }
+    },
+    {
+      "id": "food_94",
+      "es": "El té helado",
+      "translations": {
+        "en": "The iced tea",
+        "fr": "Le thé glacé",
+        "it": "Il tè freddo",
+        "pt": "O chá gelado",
+        "de": "Der Eistee"
+      },
+      "image_url": "data/img/te_helado.jpg",
+      "notes": {
+        "en": "(Plural: The iced teas)",
+        "fr": "(Plural: Les thés glacés)",
+        "it": "(Plural: I tè freddi)",
+        "pt": "(Plural: Os chás gelados)",
+        "de": "(Plural: Die Eistees)",
+        "es": "(Té servido frío)"
+      },
+      "examples": {
+        "en": {
+          "text": "I'd like an unsweetened iced tea.",
+          "es": "Quisiera un té helado sin azúcar."
+        },
+        "fr": {
+          "text": "Je voudrais un thé glacé sans sucre.",
+          "es": "Quisiera un té helado sin azúcar."
+        },
+        "it": {
+          "text": "Vorrei un tè freddo senza zucchero.",
+          "es": "Quisiera un té helado sin azúcar."
+        },
+        "pt": {
+          "text": "Eu queria um chá gelado sem açúcar.",
+          "es": "Quisiera un té helado sin azúcar."
+        },
+        "de": {
+          "text": "Ich hätte gern einen Eistee ohne Zucker.",
+          "es": "Quisiera un té helado sin azúcar."
+        }
+      }
+    },
+    {
+      "id": "food_95",
+      "es": "El chocolate caliente",
+      "translations": {
+        "en": "The hot chocolate",
+        "fr": "Le chocolat chaud",
+        "it": "La cioccolata calda",
+        "pt": "O chocolate quente",
+        "de": "Die heiße Schokolade"
+      },
+      "image_url": "data/img/chocolate_caliente.jpg",
+      "notes": {
+        "en": "(Plural: The hot chocolates) El plural es habitual al contar tazas o pedidos de chocolate caliente.",
+        "fr": "(Plural: Les chocolats chauds)",
+        "it": "(Plural: Le cioccolate calde)",
+        "pt": "(Plural: Os chocolates quentes)",
+        "de": "Al contar tazas, usa «zwei Tassen heiße Schokolade» (dos tazas de chocolate caliente)."
+      },
+      "examples": {
+        "en": {
+          "text": "I drink hot chocolate when it's cold.",
+          "es": "Tomo chocolate caliente cuando hace frío."
+        },
+        "fr": {
+          "text": "Je bois du chocolat chaud quand il fait froid.",
+          "es": "Tomo chocolate caliente cuando hace frío."
+        },
+        "it": {
+          "text": "Bevo cioccolata calda quando fa freddo.",
+          "es": "Tomo chocolate caliente cuando hace frío."
+        },
+        "pt": {
+          "text": "Eu tomo chocolate quente quando faz frio.",
+          "es": "Tomo chocolate caliente cuando hace frío."
+        },
+        "de": {
+          "text": "Wenn es kalt ist, trinke ich heiße Schokolade.",
+          "es": "Tomo chocolate caliente cuando hace frío."
+        }
+      }
+    },
+    {
+      "id": "food_35",
+      "es": "La cerveza",
+      "translations": {
+        "en": "The beer",
+        "fr": "La bière",
+        "it": "La birra",
+        "pt": "A cerveja",
+        "de": "Das Bier"
+      },
+      "image_url": "data/img/cerveza.jpg",
+      "notes": {
+        "en": "(Plural: The beers)",
+        "fr": "(Plural: Les bières)",
+        "it": "(Plural: Le birre)",
+        "pt": "(Plural: As cervejas)",
+        "de": "(Plural: Die Biere)"
+      },
+      "examples": {
+        "en": {
+          "text": "My uncle orders a beer with dinner.",
+          "es": "Mi tío pide una cerveza con la cena."
+        },
+        "fr": {
+          "text": "Mon oncle commande une bière avec le dîner.",
+          "es": "Mi tío pide una cerveza con la cena."
+        },
+        "it": {
+          "text": "Mio zio ordina una birra per cena.",
+          "es": "Mi tío pide una cerveza con la cena."
+        },
+        "pt": {
+          "text": "Meu tio pede uma cerveja para acompanhar o jantar.",
+          "es": "Mi tío pide una cerveza con la cena."
+        },
+        "de": {
+          "text": "Mein Onkel bestellt zum Abendessen ein Bier.",
+          "es": "Mi tío pide una cerveza con la cena."
+        }
+      }
+    },
+    {
+      "id": "food_34",
+      "es": "El vino tinto",
+      "translations": {
+        "en": "The red wine",
+        "fr": "Le vin rouge",
+        "it": "Il vino rosso",
+        "pt": "O vinho tinto",
+        "de": "Der Rotwein"
+      },
+      "image_url": "data/img/vino_tinto.jpg",
+      "notes": {
+        "de": "(Plural: Die Rotweine) El plural se usa al distinguir variedades."
+      },
+      "examples": {
+        "en": {
+          "text": "We order a glass of red wine with our meal.",
+          "es": "Pedimos una copa de vino tinto con la comida."
+        },
+        "fr": {
+          "text": "On commande un verre de vin rouge avec le repas.",
+          "es": "Pedimos una copa de vino tinto con la comida."
+        },
+        "it": {
+          "text": "Ordiniamo un bicchiere di vino rosso con il pasto.",
+          "es": "Pedimos una copa de vino tinto con la comida."
+        },
+        "pt": {
+          "text": "Pedimos uma taça de vinho tinto com a refeição.",
+          "es": "Pedimos una copa de vino tinto con la comida."
+        },
+        "de": {
+          "text": "Zum Essen bestellen wir ein Glas Rotwein.",
+          "es": "Pedimos una copa de vino tinto con la comida."
         }
       }
     },
@@ -732,6 +1299,192 @@
           "es": "Compramos una botella de sidra alcohólica."
         }
       }
+    },
+    {
+      "id": "food_377",
+      "es": "¿Tiene una mesa para dos, por favor?",
+      "translations": {
+        "en": "Do you have a table for two, please?",
+        "fr": "Vous avez une table pour deux, s'il vous plaît ?",
+        "it": "Ha un tavolo per due, per favore?",
+        "pt": "Tem uma mesa para duas pessoas, por favor?",
+        "de": "Haben Sie einen Tisch für zwei Personen, bitte?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_378",
+      "es": "¿Me puede traer el menú, por favor?",
+      "translations": {
+        "en": "Could you bring me the menu, please?",
+        "fr": "Vous pouvez m'apporter la carte, s'il vous plaît ?",
+        "it": "Mi può portare il menù, per favore?",
+        "pt": "Pode me trazer o cardápio, por favor?",
+        "de": "Könnten Sie mir bitte die Speisekarte bringen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_379",
+      "es": "¿Ya podemos ordenar?",
+      "translations": {
+        "en": "Can we order now?",
+        "fr": "On peut commander maintenant ?",
+        "it": "Possiamo ordinare adesso?",
+        "pt": "Já podemos fazer o pedido?",
+        "de": "Können wir jetzt bestellen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_380",
+      "es": "¿Qué me recomienda?",
+      "translations": {
+        "en": "What do you recommend?",
+        "fr": "Qu'est-ce que vous me conseillez ?",
+        "it": "Che cosa mi consiglia?",
+        "pt": "O que você recomenda?",
+        "de": "Was empfehlen Sie mir?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_381",
+      "es": "Quisiera este plato, por favor.",
+      "translations": {
+        "en": "I'd like this dish, please.",
+        "fr": "Je voudrais ce plat, s'il vous plaît.",
+        "it": "Vorrei questo piatto, per favore.",
+        "pt": "Eu gostaria deste prato, por favor.",
+        "de": "Ich hätte gern dieses Gericht, bitte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_382",
+      "es": "¿Este plato lleva leche?",
+      "translations": {
+        "en": "Does this dish have milk in it?",
+        "fr": "Il y a du lait dans ce plat ?",
+        "it": "C'è del latte in questo piatto?",
+        "pt": "Este prato leva leite?",
+        "de": "Ist in diesem Gericht Milch?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_383",
+      "es": "Quisiera un café, por favor.",
+      "translations": {
+        "en": "I'd like a coffee, please.",
+        "fr": "Je voudrais un café, s'il vous plaît.",
+        "it": "Vorrei un caffè, per favore.",
+        "pt": "Eu gostaria de um café, por favor.",
+        "de": "Ich hätte gern einen Kaffee, bitte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_384",
+      "es": "¿Tiene leche deslactosada?",
+      "translations": {
+        "en": "Do you have lactose-free milk?",
+        "fr": "Vous avez du lait sans lactose ?",
+        "it": "Ha del latte senza lattosio?",
+        "pt": "Tem leite sem lactose?",
+        "de": "Haben Sie laktosefreie Milch?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_385",
+      "es": "¿Me trae un vaso de agua, por favor?",
+      "translations": {
+        "en": "Could you bring me a glass of water, please?",
+        "fr": "Vous pouvez m'apporter un verre d'eau, s'il vous plaît ?",
+        "it": "Mi porta un bicchiere d'acqua, per favore?",
+        "pt": "Pode me trazer um copo de água, por favor?",
+        "de": "Könnten Sie mir bitte ein Glas Wasser bringen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_386",
+      "es": "¿Quiere el agua con gas o sin gas?",
+      "translations": {
+        "en": "Would you like sparkling or still water?",
+        "fr": "Vous voulez de l'eau gazeuse ou plate ?",
+        "it": "Preferisce l'acqua frizzante o naturale?",
+        "pt": "Você prefere água com gás ou sem gás?",
+        "de": "Möchten Sie Wasser mit oder ohne Kohlensäure?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Pregunta del personal sobre el tipo de agua)"
+      }
+    },
+    {
+      "id": "food_387",
+      "es": "¿Me lo puede traer sin hielo, por favor?",
+      "translations": {
+        "en": "Could you bring it without ice, please?",
+        "fr": "Vous pouvez me l'apporter sans glaçons, s'il vous plaît ?",
+        "it": "Me lo può portare senza ghiaccio, per favore?",
+        "pt": "Pode me trazer sem gelo, por favor?",
+        "de": "Könnten Sie mir das bitte ohne Eis bringen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_388",
+      "es": "¿Es para comer aquí o para llevar?",
+      "translations": {
+        "en": "Is that for here or to go?",
+        "fr": "C'est sur place ou à emporter ?",
+        "it": "È da consumare qui o da portare via?",
+        "pt": "É para comer aqui ou para viagem?",
+        "de": "Ist das zum Hieressen oder zum Mitnehmen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Pregunta del personal al tomar un pedido)"
+      }
+    },
+    {
+      "id": "food_389",
+      "es": "Voy a comer aquí, gracias.",
+      "translations": {
+        "en": "I'll eat here, thanks.",
+        "fr": "Je mange sur place, merci.",
+        "it": "Mangio qui, grazie.",
+        "pt": "Vou comer aqui, obrigado. / Vou comer aqui, obrigada.",
+        "de": "Ich esse hier, danke."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_390",
+      "es": "Lo quiero para llevar, por favor.",
+      "translations": {
+        "en": "I'd like it to go, please.",
+        "fr": "Je voudrais l'emporter, s'il vous plaît.",
+        "it": "Lo vorrei da portare via, per favore.",
+        "pt": "Quero para viagem, por favor.",
+        "de": "Ich hätte das gern zum Mitnehmen, bitte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "food_391",
+      "es": "¿Me trae la cuenta, por favor?",
+      "translations": {
+        "en": "Could you bring me the check, please?",
+        "fr": "Vous pouvez m'apporter l'addition, s'il vous plaît ?",
+        "it": "Mi porta il conto, per favore?",
+        "pt": "Pode me trazer a conta, por favor?",
+        "de": "Könnten Sie mir bitte die Rechnung bringen?"
+      },
+      "image_url": ""
     }
   ]
 }
