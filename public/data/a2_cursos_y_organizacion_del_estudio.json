@@ -367,7 +367,7 @@
         "pt": "O que vou conseguir fazer ao terminar o curso?",
         "fr": "Qu'est-ce que je pourrai faire à la fin du cours ?",
         "it": "Che cosa saprò fare alla fine del corso?",
-        "de": "Was kann ich am Ende des Kurses machen?"
+        "de": "Was werde ich am Ende des Kurses können?"
       },
       "image_url": ""
     },
@@ -451,7 +451,7 @@
         "pt": "Não estou buscando um diploma; quero aprender coisas que possa usar no dia a dia.",
         "fr": "Je ne cherche pas à obtenir un diplôme ; je veux apprendre des choses que je pourrai utiliser au quotidien.",
         "it": "Non cerco un diploma; voglio imparare cose che possa usare nella vita quotidiana.",
-        "de": "Ich will keinen Abschluss. Ich will lernen, wie ich das Gelernte im Alltag anwenden kann."
+        "de": "Mir geht es nicht um einen Abschluss. Ich möchte etwas lernen, das ich im Alltag anwenden kann."
       },
       "image_url": ""
     },
@@ -476,6 +476,18 @@
         "fr": "Le cours se déroule sur combien de semaines ?",
         "it": "Quante settimane dura il corso?",
         "de": "Wie viele Wochen dauert der Kurs?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "coe_102",
+      "es": "¿Qué días y a qué hora son las clases?",
+      "translations": {
+        "en": "What days and times are the classes?",
+        "pt": "Em quais dias e a que horas são as aulas?",
+        "fr": "Quels jours et à quelle heure ont lieu les cours ?",
+        "it": "In quali giorni e a che ora si tengono le lezioni?",
+        "de": "An welchen Tagen und um wie viel Uhr findet der Unterricht statt?"
       },
       "image_url": ""
     },
@@ -544,7 +556,7 @@
       "es": "Ese horario se empalma con mi trabajo; ¿hay otro grupo?",
       "translations": {
         "en": "That schedule conflicts with my work. Is there another class?",
-        "pt": "Esse horário bate com meu horário de trabalho; há outra turma?",
+        "pt": "Nesse horário eu trabalho. Há outra turma?",
         "fr": "Cet horaire tombe pendant mes heures de travail ; il y a un autre groupe ?",
         "it": "Quell'orario si sovrappone al mio orario di lavoro; c'è un altro gruppo?",
         "de": "Zu dieser Zeit muss ich arbeiten. Gibt es eine andere Gruppe?"
@@ -660,8 +672,20 @@
       "image_url": ""
     },
     {
+      "id": "coe_103",
+      "es": "¿Cuánto cuesta el curso en total?",
+      "translations": {
+        "en": "How much does the course cost in total?",
+        "pt": "Quanto custa o curso ao todo?",
+        "fr": "Combien coûte le cours au total ?",
+        "it": "Quanto costa il corso in tutto?",
+        "de": "Wie viel kostet der Kurs insgesamt?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "coe_039",
-      "es": "¿El precio incluye la inscripción y los materiales?",
+      "es": "¿El precio incluye la cuota de inscripción y los materiales?",
       "translations": {
         "en": "Does the price include the registration fee and the materials?",
         "pt": "O preço inclui a taxa de matrícula e os materiais?",
@@ -1244,7 +1268,7 @@
       "translations": {
         "en": "I'm behind on the course material. I need a plan to catch up.",
         "pt": "Estou atrasado com o conteúdo; preciso de um plano para colocar os estudos em dia. / Estou atrasada com o conteúdo; preciso de um plano para colocar os estudos em dia.",
-        "fr": "J'ai du retard sur le contenu du cours ; il me faut un plan pour le rattraper.",
+        "fr": "J'ai pris du retard dans le cours ; il me faut un plan pour rattraper mon retard.",
         "it": "Sono indietro con il materiale; mi serve un piano per mettermi in pari.",
         "de": "Ich bin mit dem Lernstoff im Rückstand. Ich brauche einen Plan, um ihn nachzuholen."
       },
@@ -1279,12 +1303,12 @@
     },
     {
       "id": "coe_090",
-      "es": "Mi horario de trabajo cambió; necesito cambiar de turno.",
+      "es": "Mi horario de trabajo cambió; necesito pasarme a un grupo con un horario distinto.",
       "translations": {
         "en": "My work schedule changed. I need to switch to a different class time.",
-        "pt": "Meu horário de trabalho mudou; preciso mudar de turno.",
+        "pt": "Meu horário de trabalho mudou; preciso mudar para uma turma com outro horário.",
         "fr": "Mes horaires de travail ont changé ; je dois changer de créneau de cours.",
-        "it": "Il mio orario di lavoro è cambiato; devo cambiare l'orario delle lezioni.",
+        "it": "Il mio orario di lavoro è cambiato; devo passare a un gruppo con un orario diverso.",
         "de": "Meine Arbeitszeiten haben sich geändert. Ich muss in eine Gruppe mit anderen Kurszeiten wechseln."
       },
       "image_url": ""
@@ -1357,7 +1381,7 @@
         "pt": "Posso ver um exemplo dos tipos de perguntas da avaliação?",
         "fr": "Je peux voir un exemple du type de questions de l'évaluation ?",
         "it": "Posso vedere un esempio del tipo di domande della valutazione?",
-        "de": "Kann ich ein Beispiel dafür sehen, welche Fragen bei der Lernkontrolle gestellt werden?"
+        "de": "Kann ich eine Beispielfrage für die Lernkontrolle sehen?"
       },
       "image_url": ""
     },
