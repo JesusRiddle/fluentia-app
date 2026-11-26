@@ -1,7 +1,7 @@
 {
   "module": "Invitaciones y acuerdos",
   "level": "A2",
-  "revisado": false,
+  "revisado": true,
   "cards": [
     {
       "id": "ia_001",
@@ -9,10 +9,33 @@
       "translations": {
         "en": "Invitations and arrangements",
         "pt": "Convites e combinados",
-        "fr": "Invitations et organisation de rencontres",
-        "it": "Inviti e accordi"
+        "fr": "Invitations et organisation de sorties",
+        "it": "Inviti e accordi",
+        "de": "Einladungen und Absprachen"
       },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "We use our group chat for invitations and arrangements.",
+          "es": "Usamos el chat del grupo para las invitaciones y para ponernos de acuerdo."
+        },
+        "pt": {
+          "text": "O grupo de mensagens é para convites e combinados.",
+          "es": "El grupo de mensajes es para las invitaciones y para ponernos de acuerdo."
+        },
+        "fr": {
+          "text": "Notre groupe de discussion sert aux invitations et à l'organisation de sorties.",
+          "es": "Nuestro chat de grupo sirve para las invitaciones y para organizar salidas."
+        },
+        "it": {
+          "text": "Gli inviti e gli accordi per la festa sono nella chat di gruppo.",
+          "es": "Las invitaciones y los acuerdos para la fiesta están en el chat del grupo."
+        },
+        "de": {
+          "text": "Für Einladungen und Absprachen nutzen wir unseren Gruppenchat.",
+          "es": "Para las invitaciones y para ponernos de acuerdo, usamos el chat del grupo."
+        }
+      }
     },
     {
       "id": "ia_002",
@@ -21,18 +44,20 @@
         "en": "Would you like to do something together this week?",
         "pt": "Você gostaria de fazer alguma coisa comigo esta semana?",
         "fr": "Ça te dirait de faire quelque chose ensemble cette semaine ?",
-        "it": "Ti andrebbe di fare qualcosa insieme questa settimana?"
+        "it": "Ti andrebbe di fare qualcosa insieme questa settimana?",
+        "de": "Hast du Lust, diese Woche etwas zusammen zu unternehmen?"
       },
       "image_url": ""
     },
     {
       "id": "ia_003",
-      "es": "Estoy organizando una reunión y quiero invitarte.",
+      "es": "Estoy organizando una reunión y me gustaría invitarte.",
       "translations": {
         "en": "I'm organizing a get-together, and I'd like to invite you.",
-        "pt": "Estou organizando um encontro e quero te convidar.",
-        "fr": "J’organise une rencontre et je voudrais t’inviter.",
-        "it": "Sto organizzando un incontro e vorrei invitarti."
+        "pt": "Estou organizando um encontro e gostaria de te convidar.",
+        "fr": "J'organise une rencontre et je voudrais t'inviter.",
+        "it": "Sto organizzando un incontro e vorrei invitarti.",
+        "de": "Ich plane ein Treffen und möchte dich einladen."
       },
       "image_url": ""
     },
@@ -41,9 +66,10 @@
       "es": "¿Prefieres salir o reunirnos en casa?",
       "translations": {
         "en": "Would you rather go out or get together at home?",
-        "pt": "Você prefere sair ou a gente se encontrar em casa?",
-        "fr": "Tu préfères sortir ou qu’on se retrouve à la maison ?",
-        "it": "Preferisci uscire o vederci a casa?"
+        "pt": "Você prefere sair ou que a gente se encontre em casa?",
+        "fr": "Tu préfères sortir ou qu'on se retrouve à la maison ?",
+        "it": "Preferisci uscire o vederci a casa?",
+        "de": "Möchtest du lieber ausgehen oder wollen wir uns zu Hause treffen?"
       },
       "image_url": ""
     },
@@ -54,7 +80,8 @@
         "en": "We can choose something we both like.",
         "pt": "Podemos escolher algo de que nós dois gostamos.",
         "fr": "On peut choisir quelque chose qui nous plaît à tous les deux.",
-        "it": "Possiamo scegliere qualcosa che piace a entrambi."
+        "it": "Possiamo scegliere qualcosa che piace a entrambi.",
+        "de": "Wir können etwas aussuchen, das uns beiden gefällt."
       },
       "image_url": ""
     },
@@ -64,8 +91,9 @@
       "translations": {
         "en": "I have an idea, but I want to know what you think.",
         "pt": "Tenho uma ideia, mas quero saber o que você acha.",
-        "fr": "J’ai une idée, mais je voudrais savoir ce que tu en penses.",
-        "it": "Ho un'idea, ma voglio sapere cosa ne pensi."
+        "fr": "J'ai une idée, mais je veux savoir ce que tu en penses.",
+        "it": "Ho un'idea, ma voglio sapere cosa ne pensi.",
+        "de": "Ich habe eine Idee, aber ich möchte wissen, was du davon hältst."
       },
       "image_url": ""
     },
@@ -76,7 +104,8 @@
         "en": "Do you have another suggestion?",
         "pt": "Você tem outra sugestão?",
         "fr": "Tu as une autre proposition ?",
-        "it": "Hai un'altra proposta?"
+        "it": "Hai un'altra proposta?",
+        "de": "Hast du noch einen anderen Vorschlag?"
       },
       "image_url": ""
     },
@@ -86,8 +115,9 @@
       "translations": {
         "en": "I'd like to plan something simple without spending much.",
         "pt": "Gostaria de organizar algo simples, sem gastar muito.",
-        "fr": "J’aimerais organiser quelque chose de simple, sans trop dépenser.",
-        "it": "Vorrei organizzare qualcosa di semplice, senza spendere molto."
+        "fr": "J'aimerais organiser quelque chose de simple, sans trop dépenser.",
+        "it": "Vorrei organizzare qualcosa di semplice, senza spendere molto.",
+        "de": "Ich würde gern etwas Einfaches planen, ohne viel Geld auszugeben."
       },
       "image_url": ""
     },
@@ -97,19 +127,21 @@
       "translations": {
         "en": "We don't have to decide everything now. We can agree on the day first.",
         "pt": "Não precisamos decidir tudo agora; podemos combinar primeiro o dia.",
-        "fr": "On n’a pas besoin de tout décider maintenant ; on peut d’abord choisir le jour.",
-        "it": "Non dobbiamo decidere tutto adesso; possiamo prima metterci d’accordo sul giorno."
+        "fr": "On n'a pas besoin de tout décider maintenant ; on peut d'abord se mettre d'accord sur le jour.",
+        "it": "Non dobbiamo decidere tutto adesso; possiamo prima metterci d'accordo sul giorno.",
+        "de": "Wir müssen nicht jetzt schon alles entscheiden. Wir können erst einmal einen Tag ausmachen."
       },
       "image_url": ""
     },
     {
       "id": "ia_010",
-      "es": "Puedes venir acompañado/a.",
+      "es": "Puedes traer a alguien.",
       "translations": {
         "en": "You can bring someone with you.",
         "pt": "Você pode trazer alguém com você.",
-        "fr": "Tu peux venir avec quelqu’un.",
-        "it": "Puoi venire con qualcuno."
+        "fr": "Tu peux venir avec quelqu'un.",
+        "it": "Puoi venire con qualcuno.",
+        "de": "Du kannst jemanden mitbringen."
       },
       "image_url": ""
     },
@@ -119,8 +151,9 @@
       "translations": {
         "en": "Is the invitation just for me, or can I bring someone?",
         "pt": "O convite é só para mim ou posso levar alguém?",
-        "fr": "L’invitation est seulement pour moi ou je peux venir avec quelqu’un ?",
-        "it": "L’invito è solo per me o posso portare qualcuno?"
+        "fr": "L'invitation est seulement pour moi ou je peux venir avec quelqu'un ?",
+        "it": "L'invito è solo per me o posso portare qualcuno?",
+        "de": "Gilt die Einladung nur für mich oder kann ich jemanden mitbringen?"
       },
       "image_url": ""
     },
@@ -130,8 +163,9 @@
       "translations": {
         "en": "Can the kids come, or is it an adults-only get-together?",
         "pt": "As crianças podem ir ou é um encontro só para adultos?",
-        "fr": "Les enfants peuvent venir ou c’est une rencontre réservée aux adultes ?",
-        "it": "Possono venire i bambini o è un incontro solo per adulti?"
+        "fr": "Les enfants peuvent venir ou c'est une rencontre réservée aux adultes ?",
+        "it": "Possono venire i bambini o è un incontro solo per adulti?",
+        "de": "Dürfen die Kinder mitkommen oder ist das Treffen nur für Erwachsene?"
       },
       "image_url": ""
     },
@@ -141,21 +175,26 @@
       "translations": {
         "en": "You can stop by for a while. You don't have to stay until the end.",
         "pt": "Você pode vir e ficar só um pouco; não precisa ficar até o final.",
-        "fr": "Tu peux passer un moment ; tu n’es pas obligé de rester jusqu’à la fin. / Tu peux passer un moment ; tu n’es pas obligée de rester jusqu’à la fin.",
-        "it": "Puoi passare per un po’; non devi restare fino alla fine."
+        "fr": "Tu peux passer un moment ; tu n'es pas obligé de rester jusqu'à la fin. / Tu peux passer un moment ; tu n'es pas obligée de rester jusqu'à la fin.",
+        "it": "Puoi passare per un po'; non devi restare fino alla fine.",
+        "de": "Du kannst kurz vorbeikommen. Du musst nicht bis zum Schluss bleiben."
       },
       "image_url": ""
     },
     {
       "id": "ia_014",
-      "es": "Me apunto; cuenta conmigo.",
+      "es": "Me apunto. Cuenta conmigo.",
       "translations": {
-        "en": "I'm in. Count me in.",
+        "en": "I'm in. You can count on me.",
         "pt": "Eu topo; pode contar comigo.",
         "fr": "Je suis partant ; compte sur moi. / Je suis partante ; compte sur moi.",
-        "it": "Ci sto; conta su di me."
+        "it": "Ci sto; conta su di me.",
+        "de": "Ich bin dabei. Du kannst mit mir rechnen."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Informal) «Me apunto» indica que aceptas participar."
+      }
     },
     {
       "id": "ia_015",
@@ -164,7 +203,8 @@
         "en": "I can come, but I'll have to leave early.",
         "pt": "Posso ir, mas vou precisar sair cedo.",
         "fr": "Je peux venir, mais je devrai partir tôt.",
-        "it": "Posso venire, ma dovrò andare via presto."
+        "it": "Posso venire, ma dovrò andare via presto.",
+        "de": "Ich kann kommen, muss aber früh wieder gehen."
       },
       "image_url": ""
     },
@@ -174,8 +214,9 @@
       "translations": {
         "en": "I'd like to, but I work that day.",
         "pt": "Eu gostaria, mas trabalho nesse dia.",
-        "fr": "J’aimerais bien, mais je travaille ce jour-là.",
-        "it": "Mi piacerebbe, ma quel giorno lavoro."
+        "fr": "J'aimerais bien, mais je travaille ce jour-là.",
+        "it": "Mi piacerebbe, ma quel giorno lavoro.",
+        "de": "Ich würde gern kommen, aber an dem Tag muss ich arbeiten."
       },
       "image_url": ""
     },
@@ -185,19 +226,21 @@
       "translations": {
         "en": "I won't be able to come. I need to rest.",
         "pt": "Não vou poder ir; preciso descansar.",
-        "fr": "Je ne vais pas pouvoir venir ; j’ai besoin de me reposer.",
-        "it": "Non riuscirò a venire; ho bisogno di riposare."
+        "fr": "Je ne vais pas pouvoir venir ; j'ai besoin de me reposer.",
+        "it": "Non riuscirò a venire; ho bisogno di riposare.",
+        "de": "Ich kann nicht kommen. Ich muss mich ausruhen."
       },
       "image_url": ""
     },
     {
       "id": "ia_018",
-      "es": "Ese plan se sale de mi presupuesto; ¿buscamos algo más económico?",
+      "es": "Ese plan se sale de mi presupuesto. ¿Buscamos algo más económico?",
       "translations": {
-        "en": "That plan is over my budget. Can we find something less expensive?",
+        "en": "That plan is over my budget. Can we look for something less expensive?",
         "pt": "Esse programa está fora do meu orçamento; podemos procurar algo mais barato?",
-        "fr": "C’est au-dessus de mon budget ; on peut trouver quelque chose de moins cher ?",
-        "it": "È fuori dal mio budget; cerchiamo qualcosa di più economico?"
+        "fr": "C'est au-dessus de mon budget ; on peut trouver quelque chose de moins cher ?",
+        "it": "È fuori dal mio budget; cerchiamo qualcosa di più economico?",
+        "de": "Das liegt über meinem Budget. Suchen wir etwas Günstigeres?"
       },
       "image_url": ""
     },
@@ -207,8 +250,9 @@
       "translations": {
         "en": "That activity isn't for me, but I'd like to get together another day.",
         "pt": "Essa atividade não é para mim, mas gostaria de encontrar você outro dia.",
-        "fr": "Cette activité n’est pas pour moi, mais j’aimerais qu’on se voie un autre jour.",
-        "it": "Quell’attività non fa per me, ma mi piacerebbe vederci un altro giorno."
+        "fr": "Cette activité n'est pas pour moi, mais j'aimerais qu'on se voie un autre jour.",
+        "it": "Quell'attività non fa per me, ma mi piacerebbe vederci un altro giorno.",
+        "de": "Das ist nichts für mich, aber ich würde dich gern an einem anderen Tag sehen."
       },
       "image_url": ""
     },
@@ -218,19 +262,21 @@
       "translations": {
         "en": "I can't commit yet. I'll let you know as soon as I know.",
         "pt": "Ainda não posso confirmar; te aviso assim que souber.",
-        "fr": "Je ne peux pas encore m’engager ; je te préviens dès que je sais.",
-        "it": "Non posso ancora prendere un impegno; ti avviso appena lo so."
+        "fr": "Je ne peux pas encore confirmer ; je te dis dès que je sais si je peux venir.",
+        "it": "Non posso ancora prendere un impegno; ti avviso appena lo so.",
+        "de": "Ich kann noch nicht zusagen. Ich sage dir Bescheid, sobald ich es weiß."
       },
       "image_url": ""
     },
     {
       "id": "ia_021",
-      "es": "Tengo que consultarlo antes de aceptar.",
+      "es": "Tengo que consultarlo con alguien antes de aceptar.",
       "translations": {
-        "en": "I need to check before I accept.",
-        "pt": "Preciso verificar antes de aceitar.",
-        "fr": "Je dois vérifier avant d’accepter.",
-        "it": "Devo verificare prima di accettare."
+        "en": "I need to check with someone before I say yes.",
+        "pt": "Preciso falar com alguém antes de aceitar.",
+        "fr": "Je dois en parler à quelqu'un avant d'accepter.",
+        "it": "Prima di accettare devo parlarne con qualcuno.",
+        "de": "Ich muss erst nachfragen, bevor ich zusage."
       },
       "image_url": ""
     },
@@ -240,8 +286,9 @@
       "translations": {
         "en": "Can I let you know for sure tomorrow?",
         "pt": "Posso confirmar amanhã?",
-        "fr": "Je peux te confirmer demain ?",
-        "it": "Posso confermartelo domani?"
+        "fr": "Je peux te donner une réponse définitive demain ?",
+        "it": "Posso confermartelo domani?",
+        "de": "Kann ich dir morgen endgültig Bescheid geben?"
       },
       "image_url": ""
     },
@@ -250,9 +297,10 @@
       "es": "Si al final no puedes venir, avísame; no pasa nada.",
       "translations": {
         "en": "If you can't make it after all, let me know. It's okay.",
-        "pt": "Se você não puder vir no fim das contas, me avise; não tem problema.",
-        "fr": "Si finalement tu ne peux pas venir, préviens-moi ; ce n’est pas grave.",
-        "it": "Se alla fine non puoi venire, avvisami; non è un problema."
+        "pt": "Se no fim você não puder vir, me avise. Não tem problema.",
+        "fr": "Si finalement tu ne peux pas venir, préviens-moi ; ce n'est pas grave.",
+        "it": "Se alla fine non puoi venire, avvisami; non è un problema.",
+        "de": "Wenn du doch nicht kommen kannst, sag mir Bescheid. Das ist kein Problem."
       },
       "image_url": ""
     },
@@ -262,8 +310,9 @@
       "translations": {
         "en": "Thanks for letting me know. We can find another date.",
         "pt": "Obrigado por avisar; podemos combinar outra data. / Obrigada por avisar; podemos combinar outra data.",
-        "fr": "Merci de me prévenir ; on peut trouver une autre date.",
-        "it": "Grazie per avermi avvisato; possiamo trovare un'altra data."
+        "fr": "Merci de m'avoir prévenu ; on peut trouver une autre date. / Merci de m'avoir prévenue ; on peut trouver une autre date.",
+        "it": "Grazie per avermi avvisato; possiamo trovare un'altra data.",
+        "de": "Danke, dass du mir Bescheid gesagt hast. Wir können einen anderen Termin suchen."
       },
       "image_url": ""
     },
@@ -274,7 +323,8 @@
         "en": "Which days are you free this week?",
         "pt": "Em quais dias você está livre esta semana?",
         "fr": "Quels jours es-tu libre cette semaine ?",
-        "it": "Quali giorni sei libero questa settimana? / Quali giorni sei libera questa settimana?"
+        "it": "Quali giorni sei libero questa settimana? / Quali giorni sei libera questa settimana?",
+        "de": "An welchen Tagen hast du diese Woche Zeit?"
       },
       "image_url": ""
     },
@@ -285,7 +335,8 @@
         "en": "On weekdays, I can only meet after work.",
         "pt": "Durante a semana, só posso depois do trabalho.",
         "fr": "En semaine, je suis disponible seulement après le travail.",
-        "it": "Durante la settimana posso solo dopo il lavoro."
+        "it": "Durante la settimana posso solo dopo il lavoro.",
+        "de": "Unter der Woche kann ich erst nach der Arbeit."
       },
       "image_url": ""
     },
@@ -295,8 +346,9 @@
       "translations": {
         "en": "I have more time this weekend than during the week.",
         "pt": "Neste fim de semana tenho mais tempo do que durante a semana.",
-        "fr": "J’ai plus de temps ce week-end qu’en semaine.",
-        "it": "Questo fine settimana ho più tempo che durante la settimana."
+        "fr": "J'ai plus de temps ce week-end qu'en semaine.",
+        "it": "Questo fine settimana ho più tempo che durante la settimana.",
+        "de": "Dieses Wochenende habe ich mehr Zeit als unter der Woche."
       },
       "image_url": ""
     },
@@ -306,19 +358,21 @@
       "translations": {
         "en": "I'm free Saturday morning, but not in the afternoon.",
         "pt": "No sábado de manhã eu posso, mas à tarde não.",
-        "fr": "Samedi matin, je suis disponible, mais pas l’après-midi.",
-        "it": "Sabato mattina posso, ma nel pomeriggio no."
+        "fr": "Samedi matin, je suis disponible, mais pas l'après-midi.",
+        "it": "Sabato mattina posso, ma nel pomeriggio no.",
+        "de": "Am Samstagvormittag habe ich Zeit, aber am Nachmittag nicht."
       },
       "image_url": ""
     },
     {
       "id": "ia_029",
-      "es": "¿Te viene mejor al mediodía o al final de la tarde?",
+      "es": "¿Te queda mejor al mediodía o al final de la tarde?",
       "translations": {
         "en": "Does noon or late afternoon work better for you?",
         "pt": "Para você, é melhor ao meio-dia ou no fim da tarde?",
-        "fr": "Tu préfères à midi ou en fin d’après-midi ?",
-        "it": "Ti va meglio a mezzogiorno o nel tardo pomeriggio?"
+        "fr": "Tu préfères à midi ou en fin d'après-midi ?",
+        "it": "Ti va meglio a mezzogiorno o nel tardo pomeriggio?",
+        "de": "Passt es dir mittags oder am späten Nachmittag besser?"
       },
       "image_url": ""
     },
@@ -329,7 +383,8 @@
         "en": "I get off at six. I need half an hour to get there.",
         "pt": "Saio às seis; preciso de meia hora para chegar.",
         "fr": "Je termine à six heures ; il me faut une demi-heure pour arriver.",
-        "it": "Finisco alle sei; mi serve mezz'ora per arrivare."
+        "it": "Finisco alle sei; mi serve mezz'ora per arrivare.",
+        "de": "Ich habe um sechs Feierabend und brauche eine halbe Stunde bis dorthin."
       },
       "image_url": ""
     },
@@ -340,7 +395,8 @@
         "en": "I can't get there before seven.",
         "pt": "Não consigo chegar antes das sete.",
         "fr": "Je ne peux pas arriver avant sept heures.",
-        "it": "Non posso arrivare prima delle sette."
+        "it": "Non posso arrivare prima delle sette.",
+        "de": "Ich kann nicht vor sieben da sein."
       },
       "image_url": ""
     },
@@ -350,8 +406,9 @@
       "translations": {
         "en": "I have another appointment at eight, so we need to finish before then.",
         "pt": "Tenho outro compromisso às oito, então precisamos terminar antes.",
-        "fr": "J’ai un autre rendez-vous à huit heures, donc on doit finir avant.",
-        "it": "Ho un altro appuntamento alle otto, quindi dobbiamo finire prima."
+        "fr": "J'ai un autre rendez-vous à huit heures, donc on doit finir avant.",
+        "it": "Ho un altro appuntamento alle otto, quindi dobbiamo finire prima.",
+        "de": "Ich habe um acht noch einen Termin, deshalb müssen wir vorher fertig sein."
       },
       "image_url": ""
     },
@@ -362,7 +419,8 @@
         "en": "Can we meet half an hour earlier?",
         "pt": "Podemos nos encontrar meia hora mais cedo?",
         "fr": "On peut se retrouver une demi-heure plus tôt ?",
-        "it": "Possiamo vederci mezz'ora prima?"
+        "it": "Possiamo vederci mezz'ora prima?",
+        "de": "Können wir uns eine halbe Stunde früher treffen?"
       },
       "image_url": ""
     },
@@ -373,7 +431,8 @@
         "en": "If we start later, I'll only be able to stay for an hour.",
         "pt": "Se começarmos mais tarde, só vou poder ficar uma hora.",
         "fr": "Si on commence plus tard, je pourrai rester seulement une heure.",
-        "it": "Se iniziamo più tardi, potrò restare solo un'ora."
+        "it": "Se iniziamo più tardi, potrò restare solo un'ora.",
+        "de": "Wenn wir später anfangen, kann ich nur eine Stunde bleiben."
       },
       "image_url": ""
     },
@@ -381,10 +440,11 @@
       "id": "ia_035",
       "es": "Elige entre estas dos fechas y yo me organizo.",
       "translations": {
-        "en": "Choose one of these two dates, and I’ll arrange my schedule around it.",
+        "en": "Choose one of these two dates, and I'll arrange my schedule around it.",
         "pt": "Escolha uma dessas duas datas e eu me organizo.",
-        "fr": "Choisis l’une de ces deux dates et je m’organise.",
-        "it": "Scegli una di queste due date e io mi organizzo."
+        "fr": "Choisis l'une de ces deux dates et je m'organise.",
+        "it": "Scegli una di queste due date e io mi organizzo.",
+        "de": "Such dir einen der beiden Termine aus, dann richte ich mich danach."
       },
       "image_url": ""
     },
@@ -394,8 +454,9 @@
       "translations": {
         "en": "I need to know the exact time so I can plan.",
         "pt": "Preciso saber o horário exato para me organizar.",
-        "fr": "J’ai besoin de connaître l’heure exacte pour m’organiser.",
-        "it": "Ho bisogno di sapere l'orario esatto per organizzarmi."
+        "fr": "J'ai besoin de connaître l'heure exacte pour m'organiser.",
+        "it": "Ho bisogno di sapere l'orario esatto per organizzarmi.",
+        "de": "Ich muss die genaue Uhrzeit wissen, damit ich planen kann."
       },
       "image_url": ""
     },
@@ -405,8 +466,9 @@
       "translations": {
         "en": "Should we find a place near you or halfway between us?",
         "pt": "Vamos procurar um lugar perto de você ou no meio do caminho?",
-        "fr": "On cherche un endroit près de chez toi ou à mi-chemin ?",
-        "it": "Cerchiamo un posto vicino a te o a metà strada?"
+        "fr": "On cherche un endroit près de chez toi ou à mi-chemin entre nous ?",
+        "it": "Cerchiamo un posto vicino a te o a metà strada?",
+        "de": "Suchen wir einen Ort bei dir in der Nähe oder auf halbem Weg?"
       },
       "image_url": ""
     },
@@ -417,7 +479,8 @@
         "en": "That place is too far for me. Can we find somewhere closer?",
         "pt": "Esse lugar fica muito longe para mim; podemos procurar um mais perto?",
         "fr": "Cet endroit est trop loin pour moi ; on peut en trouver un plus près ?",
-        "it": "Quel posto è troppo lontano per me; ne cerchiamo uno più vicino?"
+        "it": "Quel posto è troppo lontano per me; ne cerchiamo uno più vicino?",
+        "de": "Das ist mir zu weit weg. Suchen wir etwas Näheres?"
       },
       "image_url": ""
     },
@@ -425,10 +488,11 @@
       "id": "ia_039",
       "es": "Nos encontramos afuera, junto a la entrada principal.",
       "translations": {
-        "en": "We’ll meet outside, next to the main entrance.",
+        "en": "We'll meet outside, next to the main entrance.",
         "pt": "A gente se encontra do lado de fora, junto à entrada principal.",
-        "fr": "On se retrouve dehors, à côté de l’entrée principale.",
-        "it": "Ci incontriamo fuori, vicino all'ingresso principale."
+        "fr": "On se retrouve dehors, à côté de l'entrée principale.",
+        "it": "Ci incontriamo fuori, vicino all'ingresso principale.",
+        "de": "Wir treffen uns draußen neben dem Haupteingang."
       },
       "image_url": ""
     },
@@ -436,10 +500,11 @@
       "id": "ia_040",
       "es": "Hay dos entradas; nos vemos en la que da a la plaza.",
       "translations": {
-        "en": "There are two entrances. We’ll meet at the one facing the square.",
+        "en": "There are two entrances. We'll meet at the one facing the square.",
         "pt": "Há duas entradas; a gente se encontra na que dá para a praça.",
         "fr": "Il y a deux entrées ; on se retrouve à celle qui donne sur la place.",
-        "it": "Ci sono due ingressi; ci vediamo in quello che dà sulla piazza."
+        "it": "Ci sono due ingressi; ci vediamo a quello che dà sulla piazza.",
+        "de": "Es gibt zwei Eingänge. Wir treffen uns an dem, der zum Platz zeigt."
       },
       "image_url": ""
     },
@@ -447,21 +512,26 @@
       "id": "ia_041",
       "es": "Te mando la ubicación del punto de encuentro.",
       "translations": {
-        "en": "I’ll send you the location of our meeting point.",
+        "en": "I'll send you the location of our meeting point.",
         "pt": "Vou te mandar a localização do ponto de encontro.",
-        "fr": "Je t’envoie la localisation du point de rendez-vous.",
-        "it": "Ti mando la posizione del punto d’incontro."
+        "fr": "Je t'envoie la position du point de rendez-vous.",
+        "it": "Ti mando la posizione del punto d'incontro.",
+        "de": "Ich schicke dir den Standort unseres Treffpunkts."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Se refiere a la ubicación que se comparte por mensaje."
+      }
     },
     {
       "id": "ia_042",
       "es": "¿Nos vemos directamente allí o vamos juntos?",
       "translations": {
-        "en": "Should we meet there or go together?",
+        "en": "Should we meet right there or go together?",
         "pt": "A gente se encontra direto lá ou vai junto?",
         "fr": "On se retrouve directement là-bas ou on y va ensemble ?",
-        "it": "Ci vediamo direttamente lì o andiamo insieme?"
+        "it": "Ci vediamo direttamente lì o andiamo insieme?",
+        "de": "Treffen wir uns direkt dort oder gehen wir zusammen hin?"
       },
       "image_url": ""
     },
@@ -469,10 +539,11 @@
       "id": "ia_043",
       "es": "¿Puedes pasar por mí? No tengo cómo llegar.",
       "translations": {
-        "en": "Can you pick me up? I don’t have a way to get there.",
+        "en": "Can you pick me up? I don't have a way to get there.",
         "pt": "Você pode me buscar? Não tenho como chegar lá.",
-        "fr": "Tu peux passer me chercher ? Je n’ai pas de moyen pour y aller.",
-        "it": "Puoi passare a prendermi? Non ho modo di arrivare lì."
+        "fr": "Tu peux passer me chercher ? Je n'ai pas de moyen de m'y rendre.",
+        "it": "Puoi passare a prendermi? Non ho modo di arrivare lì.",
+        "de": "Kannst du mich abholen? Ich komme sonst nicht hin."
       },
       "image_url": ""
     },
@@ -483,20 +554,25 @@
         "en": "We can share a ride and split the cost.",
         "pt": "Podemos ir juntos e dividir o custo do transporte.",
         "fr": "On peut partager le trajet et les frais.",
-        "it": "Possiamo condividere il viaggio e dividere le spese."
+        "it": "Possiamo condividere il viaggio e dividere le spese.",
+        "de": "Wir können zusammen fahren und uns die Fahrtkosten teilen."
       },
       "image_url": ""
     },
     {
       "id": "ia_045",
-      "es": "El lugar tiene escaleras; ¿necesitamos buscar uno con acceso sin escalones?",
+      "es": "El lugar tiene escaleras. ¿Buscamos uno con acceso sin escalones?",
       "translations": {
-        "en": "The place has stairs. Do we need to find somewhere with step-free access?",
-        "pt": "O lugar tem escadas; precisamos procurar um com acesso sem degraus?",
-        "fr": "Il y a des escaliers ; on doit chercher un endroit avec un accès sans marches ?",
-        "it": "Il posto ha delle scale; dobbiamo cercarne uno con un accesso senza gradini?"
+        "en": "The place has stairs. Should we look for somewhere with step-free access?",
+        "pt": "O lugar tem escadas. Vamos procurar um com acesso sem degraus?",
+        "fr": "Il y a des escaliers. On cherche un endroit avec un accès sans marches ?",
+        "it": "Il posto ha delle scale. Cerchiamo un posto con un accesso senza gradini?",
+        "de": "Dort gibt es Treppen. Sollen wir einen Ort mit stufenlosem Zugang suchen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "«Sin escalones» describe el acceso; no implica que todo el lugar sea accesible."
+      }
     },
     {
       "id": "ia_046",
@@ -505,7 +581,8 @@
         "en": "How many of us will there be in total?",
         "pt": "Quantas pessoas vamos ser ao todo?",
         "fr": "Combien serons-nous au total ?",
-        "it": "Quanti saremo in totale?"
+        "it": "Quanti saremo in totale?",
+        "de": "Wie viele sind wir insgesamt?"
       },
       "image_url": ""
     },
@@ -516,29 +593,35 @@
         "en": "We just need to find out if Ana can come.",
         "pt": "Só falta saber se a Ana pode vir.",
         "fr": "Il reste seulement à savoir si Ana peut venir.",
-        "it": "Manca solo sapere se Ana può venire."
+        "it": "Manca solo sapere se Ana può venire.",
+        "de": "Wir müssen nur noch wissen, ob Ana kommen kann."
       },
       "image_url": ""
     },
     {
       "id": "ia_048",
-      "es": "¿Todos están de acuerdo con ese plan? (a un grupo)",
+      "es": "¿Todos están de acuerdo con ese plan?",
       "translations": {
         "en": "Does everyone agree with that plan?",
         "pt": "Todo mundo concorda com esse plano?",
-        "fr": "Tout le monde est d’accord avec ce programme ?",
-        "it": "Siete tutti d’accordo con questo programma?"
+        "fr": "Tout le monde est d'accord avec ce programme ?",
+        "it": "Siete tutti d'accordo con questo programma?",
+        "de": "Seid ihr alle mit dem Plan einverstanden?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(A un grupo)"
+      }
     },
     {
       "id": "ia_049",
       "es": "Antes de reservar, revisemos quiénes van a venir.",
       "translations": {
-        "en": "Before we book, let’s check who’s coming.",
+        "en": "Before we book, let's check who's coming.",
         "pt": "Antes de reservar, vamos conferir quem vai vir.",
         "fr": "Avant de réserver, vérifions qui va venir.",
-        "it": "Prima di prenotare, controlliamo chi verrà."
+        "it": "Prima di prenotare, controlliamo chi verrà.",
+        "de": "Bevor wir reservieren, schauen wir, wer kommt."
       },
       "image_url": ""
     },
@@ -546,10 +629,11 @@
       "id": "ia_050",
       "es": "Si somos muchos, conviene reservar con anticipación.",
       "translations": {
-        "en": "If there are a lot of us, it’s best to book in advance.",
+        "en": "If there are a lot of us, it's best to book in advance.",
         "pt": "Se formos muitos, é melhor reservar com antecedência.",
-        "fr": "Si on est nombreux, il vaut mieux réserver à l’avance.",
-        "it": "Se siamo in tanti, conviene prenotare in anticipo."
+        "fr": "Si on est nombreux, il vaut mieux réserver à l'avance.",
+        "it": "Se siamo in tanti, conviene prenotare in anticipo.",
+        "de": "Wenn wir viele sind, reservieren wir am besten im Voraus."
       },
       "image_url": ""
     },
@@ -557,10 +641,11 @@
       "id": "ia_051",
       "es": "Yo hago la reserva; tú avisas a los demás.",
       "translations": {
-        "en": "I’ll make the reservation. You let the others know.",
+        "en": "I'll make the reservation. You let the others know.",
         "pt": "Eu faço a reserva; você avisa os outros.",
-        "fr": "Je m’occupe de la réservation ; tu préviens les autres.",
-        "it": "Io faccio la prenotazione; tu avvisi gli altri."
+        "fr": "Je m'occupe de la réservation ; tu préviens les autres.",
+        "it": "Io faccio la prenotazione; tu avvisi gli altri.",
+        "de": "Ich reserviere und du sagst den anderen Bescheid."
       },
       "image_url": ""
     },
@@ -568,10 +653,11 @@
       "id": "ia_052",
       "es": "¿Quién se encarga de comprar las entradas?",
       "translations": {
-        "en": "Who’s in charge of buying the tickets?",
+        "en": "Who's in charge of buying the tickets?",
         "pt": "Quem fica responsável por comprar os ingressos?",
-        "fr": "Qui s’occupe d’acheter les billets ?",
-        "it": "Chi si occupa di comprare i biglietti?"
+        "fr": "Qui s'occupe d'acheter les billets ?",
+        "it": "Chi si occupa di comprare i biglietti?",
+        "de": "Wer kauft die Eintrittskarten?"
       },
       "image_url": ""
     },
@@ -579,10 +665,11 @@
       "id": "ia_053",
       "es": "Prefiero esperar tu confirmación antes de comprar mi entrada.",
       "translations": {
-        "en": "I’d rather wait for your confirmation before buying my ticket.",
+        "en": "I'd rather wait for your confirmation before buying my ticket.",
         "pt": "Prefiro esperar sua confirmação antes de comprar meu ingresso.",
-        "fr": "Je préfère attendre ta confirmation avant d’acheter mon billet.",
-        "it": "Preferisco aspettare la tua conferma prima di comprare il mio biglietto."
+        "fr": "Je préfère attendre ta confirmation avant d'acheter mon billet.",
+        "it": "Preferisco aspettare la tua conferma prima di comprare il mio biglietto.",
+        "de": "Ich warte lieber auf deine Zusage, bevor ich meine Karte kaufe."
       },
       "image_url": ""
     },
@@ -593,18 +680,20 @@
         "en": "Everyone brings something to share.",
         "pt": "Cada um leva alguma coisa para compartilhar.",
         "fr": "Chacun apporte quelque chose à partager.",
-        "it": "Ognuno porta qualcosa da condividere."
+        "it": "Ognuno porta qualcosa da condividere.",
+        "de": "Alle bringen etwas zum Teilen mit."
       },
       "image_url": ""
     },
     {
       "id": "ia_055",
-      "es": "Ya tenemos bebidas; mejor trae algo para comer.",
+      "es": "Ya tenemos bebidas. Mejor trae algo de comer.",
       "translations": {
         "en": "We already have drinks. Bring something to eat instead.",
         "pt": "Já temos bebidas; é melhor você trazer algo para comer.",
         "fr": "On a déjà des boissons ; apporte plutôt quelque chose à manger.",
-        "it": "Abbiamo già da bere; porta piuttosto qualcosa da mangiare."
+        "it": "Abbiamo già da bere; porta piuttosto qualcosa da mangiare.",
+        "de": "Getränke haben wir schon. Bring lieber etwas zu essen mit."
       },
       "image_url": ""
     },
@@ -612,10 +701,11 @@
       "id": "ia_056",
       "es": "¿Hay alguien que no pueda comer algún ingrediente?",
       "translations": {
-        "en": "Is there anyone who can’t eat a particular ingredient?",
+        "en": "Is there anyone who can't eat a particular ingredient?",
         "pt": "Tem alguém que não pode comer algum ingrediente?",
-        "fr": "Est-ce que quelqu’un ne peut pas manger un ingrédient particulier ?",
-        "it": "C'è qualcuno che non può mangiare un certo ingrediente?"
+        "fr": "Est-ce que quelqu'un ne peut pas manger un des ingrédients ?",
+        "it": "C'è qualcuno che non può mangiare un certo ingrediente?",
+        "de": "Gibt es jemanden, der eine bestimmte Zutat nicht essen kann?"
       },
       "image_url": ""
     },
@@ -626,29 +716,35 @@
         "en": "How are we going to split the costs?",
         "pt": "Como vamos dividir os gastos?",
         "fr": "Comment allons-nous répartir les frais ?",
-        "it": "Come dividiamo le spese?"
+        "it": "Come dividiamo le spese?",
+        "de": "Wie teilen wir die Kosten auf?"
       },
       "image_url": ""
     },
     {
       "id": "ia_058",
-      "es": "Yo compro todo y después me dan su parte. (a un grupo)",
+      "es": "Yo compro todo y después me dan su parte.",
       "translations": {
-        "en": "I’ll buy everything, and then you can each pay me back for your share.",
-        "pt": "Eu compro tudo e depois vocês me passam a parte de cada um.",
-        "fr": "J’achète tout et ensuite vous me remboursez chacun votre part.",
-        "it": "Compro tutto io e poi mi date ciascuno la vostra parte."
+        "en": "I'll buy everything, and then you can each pay me back for your share.",
+        "pt": "Eu compro tudo e depois cada um me paga a sua parte.",
+        "fr": "J'achète tout et ensuite chacun me rembourse sa part.",
+        "it": "Compro tutto io e poi ognuno mi dà la sua parte.",
+        "de": "Ich kaufe alles, und danach gebt ihr mir euren Anteil."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(A un grupo)"
+      }
     },
     {
       "id": "ia_059",
       "es": "Acordemos un máximo por persona antes de decidir.",
       "translations": {
-        "en": "Let’s agree on a maximum amount per person before we decide.",
+        "en": "Let's agree on a maximum amount per person before we decide.",
         "pt": "Vamos combinar um valor máximo por pessoa antes de decidir.",
         "fr": "Fixons un montant maximum par personne avant de décider.",
-        "it": "Mettiamoci d’accordo su una cifra massima a persona prima di decidere."
+        "it": "Mettiamoci d'accordo su una cifra massima a persona prima di decidere.",
+        "de": "Legen wir vor der Entscheidung fest, wie viel jede Person höchstens ausgeben soll."
       },
       "image_url": ""
     },
@@ -656,10 +752,11 @@
       "id": "ia_060",
       "es": "No hay que llevar nada; nosotros nos encargamos de todo.",
       "translations": {
-        "en": "You don’t need to bring anything. We’ll take care of everything.",
+        "en": "You don't need to bring anything. We'll take care of everything.",
         "pt": "Não precisa levar nada; a gente cuida de tudo.",
-        "fr": "Il n’y a rien à apporter ; on s’occupe de tout.",
-        "it": "Non serve portare niente; pensiamo a tutto noi."
+        "fr": "Il n'y a rien à apporter ; on s'occupe de tout.",
+        "it": "Non serve portare niente; pensiamo a tutto noi.",
+        "de": "Du musst nichts mitbringen. Wir kümmern uns um alles."
       },
       "image_url": ""
     },
@@ -670,9 +767,13 @@
         "en": "When do you need my answer by?",
         "pt": "Até quando você precisa da minha resposta?",
         "fr": "Pour quand as-tu besoin de ma réponse ?",
-        "it": "Entro quando ti serve la mia risposta?"
+        "it": "Entro quando ti serve la mia risposta?",
+        "de": "Bis wann brauchst du meine Antwort?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "«By» indica la fecha u hora límite para responder."
+      }
     },
     {
       "id": "ia_062",
@@ -680,8 +781,9 @@
       "translations": {
         "en": "Let me know before Thursday so I can include you in the reservation.",
         "pt": "Me avise antes de quinta-feira para eu incluir você na reserva.",
-        "fr": "Préviens-moi avant jeudi pour que je puisse t’inclure dans la réservation.",
-        "it": "Avvisami prima di giovedì così posso includerti nella prenotazione."
+        "fr": "Préviens-moi avant jeudi pour que je puisse t'inclure dans la réservation.",
+        "it": "Avvisami prima di giovedì, così posso contare anche te nella prenotazione.",
+        "de": "Sag mir vor Donnerstag Bescheid, damit ich dich bei der Reservierung einplanen kann."
       },
       "image_url": ""
     },
@@ -689,10 +791,11 @@
       "id": "ia_063",
       "es": "Te confirmo que voy; puedes comprar mi entrada.",
       "translations": {
-        "en": "I’m confirming that I’m coming. You can buy my ticket.",
+        "en": "Yes, I'm coming. You can buy my ticket.",
         "pt": "Confirmo que vou; pode comprar meu ingresso.",
         "fr": "Je te confirme que je viens ; tu peux acheter mon billet.",
-        "it": "Ti confermo che vengo; puoi comprare il mio biglietto."
+        "it": "Ti confermo che vengo; puoi comprare il mio biglietto.",
+        "de": "Ich komme auf jeden Fall. Du kannst meine Karte kaufen."
       },
       "image_url": ""
     },
@@ -702,19 +805,24 @@
       "translations": {
         "en": "Are we still on for Saturday?",
         "pt": "Ainda está de pé o combinado para sábado?",
-        "fr": "C’est toujours bon pour samedi ?",
-        "it": "È ancora confermato per sabato?"
+        "fr": "C'est toujours bon pour samedi ?",
+        "it": "È ancora confermato per sabato?",
+        "de": "Bleibt es bei Samstag?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "(Informal) «Are we still on?» pregunta si se mantiene un plan ya acordado."
+      }
     },
     {
       "id": "ia_065",
       "es": "Sí, mantenemos el mismo lugar y la misma hora.",
       "translations": {
-        "en": "Yes, we’re keeping the same place and time.",
+        "en": "Yes, we're keeping the same place and time.",
         "pt": "Sim, mantemos o mesmo lugar e o mesmo horário.",
         "fr": "Oui, on garde le même lieu et la même heure.",
-        "it": "Sì, manteniamo lo stesso posto e lo stesso orario."
+        "it": "Sì, manteniamo lo stesso posto e lo stesso orario.",
+        "de": "Ja, wir bleiben beim gleichen Ort und bei der gleichen Uhrzeit."
       },
       "image_url": ""
     },
@@ -724,8 +832,9 @@
       "translations": {
         "en": "Has the reservation been made, or do we still need to make it?",
         "pt": "A reserva já foi feita ou ainda precisamos fazer?",
-        "fr": "La réservation est déjà faite ou on doit encore s’en occuper ?",
-        "it": "La prenotazione è già fatta o dobbiamo ancora farla?"
+        "fr": "La réservation est déjà faite ou on doit encore s'en occuper ?",
+        "it": "La prenotazione è già fatta o dobbiamo ancora farla?",
+        "de": "Ist schon reserviert oder müssen wir das noch machen?"
       },
       "image_url": ""
     },
@@ -733,10 +842,11 @@
       "id": "ia_067",
       "es": "Te envío los detalles por mensaje para que los tengas a mano.",
       "translations": {
-        "en": "I’ll send you the details in a message so you have them handy.",
+        "en": "I'll send you the details in a message so you have them handy.",
         "pt": "Vou te mandar os detalhes por mensagem para você ter tudo à mão.",
-        "fr": "Je t’envoie les détails par message pour que tu les aies sous la main.",
-        "it": "Ti mando i dettagli per messaggio così li hai a portata di mano."
+        "fr": "Je t'envoie les détails par message pour que tu les aies sous la main.",
+        "it": "Ti mando i dettagli in un messaggio, così li hai a portata di mano.",
+        "de": "Ich schicke dir die Infos per Nachricht, dann hast du sie griffbereit."
       },
       "image_url": ""
     },
@@ -747,7 +857,8 @@
         "en": "There will be four of us after all, not five.",
         "pt": "No fim das contas, vamos ser quatro, não cinco.",
         "fr": "Finalement, nous serons quatre, pas cinq.",
-        "it": "Alla fine saremo in quattro, non in cinque."
+        "it": "Alla fine saremo in quattro, non in cinque.",
+        "de": "Wir sind doch nur zu viert, nicht zu fünft."
       },
       "image_url": ""
     },
@@ -756,9 +867,10 @@
       "es": "Si viene alguien más, tenemos que avisar al lugar.",
       "translations": {
         "en": "If anyone else comes, we need to let the venue know.",
-        "pt": "Se vier mais alguém, precisamos avisar o estabelecimento.",
-        "fr": "Si quelqu’un d’autre vient, on doit prévenir l’établissement.",
-        "it": "Se viene qualcun altro, dobbiamo avvisare il locale."
+        "pt": "Se vier mais alguém, precisamos avisar o pessoal do local.",
+        "fr": "Si quelqu'un d'autre vient, on doit prévenir le personnel sur place.",
+        "it": "Se viene qualcun altro, dobbiamo avvisare il locale.",
+        "de": "Wenn noch jemand dazukommt, müssen wir dort Bescheid sagen."
       },
       "image_url": ""
     },
@@ -769,7 +881,8 @@
         "en": "Can we leave the plan undecided until tomorrow?",
         "pt": "Podemos deixar o plano em aberto até amanhã?",
         "fr": "On peut attendre demain pour fixer le programme ?",
-        "it": "Possiamo lasciare il programma aperto fino a domani?"
+        "it": "Possiamo aspettare fino a domani per decidere cosa fare?",
+        "de": "Können wir bis morgen offenlassen, was wir machen?"
       },
       "image_url": ""
     },
@@ -777,10 +890,11 @@
       "id": "ia_071",
       "es": "Necesito una respuesta para organizarme; si no puedes, buscamos otra opción.",
       "translations": {
-        "en": "I need an answer so I can plan. If you can’t make it, we’ll find another option.",
+        "en": "I need an answer so I can plan. If you can't make it, we'll find another option.",
         "pt": "Preciso de uma resposta para me organizar; se você não puder, buscamos outra opção.",
-        "fr": "J’ai besoin d’une réponse pour m’organiser ; si tu ne peux pas, on cherche une autre option.",
-        "it": "Mi serve una risposta per organizzarmi; se non puoi, troviamo un'altra soluzione."
+        "fr": "J'ai besoin d'une réponse pour m'organiser ; si tu ne peux pas, on cherche une autre option.",
+        "it": "Mi serve una risposta per organizzarmi; se non puoi, troviamo un'altra soluzione.",
+        "de": "Ich brauche eine Antwort, damit ich planen kann. Wenn du nicht kannst, suchen wir eine andere Möglichkeit."
       },
       "image_url": ""
     },
@@ -788,10 +902,11 @@
       "id": "ia_072",
       "es": "Voy con diez minutos de retraso; ya estoy en camino.",
       "translations": {
-        "en": "I’m running ten minutes late. I’m already on my way.",
+        "en": "I'm running ten minutes late. I'm already on my way.",
         "pt": "Estou dez minutos atrasado e já estou a caminho. / Estou dez minutos atrasada e já estou a caminho.",
-        "fr": "J’ai dix minutes de retard ; je suis déjà en route.",
-        "it": "Ho dieci minuti di ritardo; sono già in viaggio."
+        "fr": "J'ai dix minutes de retard ; je suis déjà en route.",
+        "it": "Ho dieci minuti di ritardo; sono già per strada.",
+        "de": "Ich komme zehn Minuten später. Ich bin schon unterwegs."
       },
       "image_url": ""
     },
@@ -799,10 +914,11 @@
       "id": "ia_073",
       "es": "Se retrasó mi transporte; te aviso cuando esté cerca.",
       "translations": {
-        "en": "My transportation is delayed. I’ll let you know when I’m nearby.",
+        "en": "My transportation is delayed. I'll let you know when I'm nearby.",
         "pt": "Meu transporte atrasou; te aviso quando estiver perto.",
-        "fr": "Il y a du retard dans les transports ; je te préviens quand je suis près d’arriver.",
-        "it": "Il mio mezzo è in ritardo; ti avviso quando sono vicino. / Il mio mezzo è in ritardo; ti avviso quando sono vicina."
+        "fr": "Il y a du retard dans les transports ; je te préviens quand je suis près d'arriver.",
+        "it": "Il mio mezzo è in ritardo; ti avviso quando sono vicino. / Il mio mezzo è in ritardo; ti avviso quando sono vicina.",
+        "de": "Meine Verbindung hat Verspätung. Ich sage dir Bescheid, wenn ich fast da bin."
       },
       "image_url": ""
     },
@@ -810,10 +926,11 @@
       "id": "ia_074",
       "es": "Estoy esperando en el lugar que acordamos.",
       "translations": {
-        "en": "I’m waiting at the place we agreed on.",
+        "en": "I'm waiting at the place we agreed on.",
         "pt": "Estou esperando no lugar que combinamos.",
-        "fr": "J’attends à l’endroit qu’on avait convenu.",
-        "it": "Sto aspettando nel posto che abbiamo concordato."
+        "fr": "J'attends au point de rendez-vous qu'on a choisi.",
+        "it": "Sto aspettando nel posto che abbiamo concordato.",
+        "de": "Ich warte am vereinbarten Treffpunkt."
       },
       "image_url": ""
     },
@@ -824,7 +941,8 @@
         "en": "How much longer until you get here?",
         "pt": "Quanto tempo falta para você chegar?",
         "fr": "Tu arrives dans combien de temps ?",
-        "it": "Quanto ti manca per arrivare?"
+        "it": "Quanto ti manca per arrivare?",
+        "de": "Wie lange brauchst du noch?"
       },
       "image_url": ""
     },
@@ -832,10 +950,11 @@
       "id": "ia_076",
       "es": "Estoy en la otra entrada; voy hacia donde estás.",
       "translations": {
-        "en": "I’m at the other entrance. I’m heading over to you.",
+        "en": "I'm at the other entrance. I'm heading over to you.",
         "pt": "Estou na outra entrada; vou até onde você está.",
-        "fr": "Je suis à l’autre entrée ; je viens vers toi.",
-        "it": "Sono all’altro ingresso; vengo dove sei tu."
+        "fr": "Je suis à l'autre entrée ; je viens vers toi.",
+        "it": "Sono all'altro ingresso; ti raggiungo.",
+        "de": "Ich bin am anderen Eingang. Ich komme zu dir."
       },
       "image_url": ""
     },
@@ -843,23 +962,28 @@
       "id": "ia_077",
       "es": "Si llegas después, te guardamos un lugar.",
       "translations": {
-        "en": "If you arrive later, we’ll save you a spot.",
+        "en": "If you arrive later, we'll save you a spot.",
         "pt": "Se você chegar depois, guardamos um lugar para você.",
         "fr": "Si tu arrives plus tard, on te garde une place.",
-        "it": "Se arrivi più tardi, ti teniamo un posto."
+        "it": "Se arrivi più tardi, ti teniamo un posto.",
+        "de": "Wenn du später kommst, halten wir dir einen Platz frei."
       },
       "image_url": ""
     },
     {
       "id": "ia_078",
-      "es": "Empiecen sin mí; me uniré cuando llegue. (a un grupo)",
+      "es": "Empiecen sin mí. Me uno al grupo cuando llegue.",
       "translations": {
-        "en": "Start without me. I’ll join you when I get there.",
+        "en": "Start without me. I'll join you when I get there.",
         "pt": "Comecem sem mim; me junto a vocês quando chegar.",
-        "fr": "Commencez sans moi ; je vous rejoins dès que j’arrive.",
-        "it": "Cominciate senza di me; mi unisco a voi quando arrivo."
+        "fr": "Commencez sans moi ; je vous rejoins dès que j'arrive.",
+        "it": "Cominciate senza di me; vi raggiungo appena arrivo.",
+        "de": "Fangt ohne mich an. Ich komme dazu, wenn ich da bin."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(A un grupo)"
+      }
     },
     {
       "id": "ia_079",
@@ -867,8 +991,9 @@
       "translations": {
         "en": "I can wait another fifteen minutes, but then I have to go.",
         "pt": "Posso esperar mais quinze minutos, mas depois preciso ir.",
-        "fr": "Je peux t’attendre encore quinze minutes, mais après je dois partir.",
-        "it": "Posso aspettarti altri quindici minuti, ma poi devo andare."
+        "fr": "Je peux t'attendre encore quinze minutes, mais après je dois partir.",
+        "it": "Posso aspettarti altri quindici minuti, ma poi devo andare.",
+        "de": "Ich kann noch fünfzehn Minuten auf dich warten, aber dann muss ich gehen."
       },
       "image_url": ""
     },
@@ -876,10 +1001,11 @@
       "id": "ia_080",
       "es": "Si vas a llegar mucho más tarde, mejor lo dejamos para otro día.",
       "translations": {
-        "en": "If you’re going to be much later, let’s leave it for another day.",
+        "en": "If you're going to be much later, let's leave it for another day.",
         "pt": "Se você for chegar muito mais tarde, é melhor deixar para outro dia.",
         "fr": "Si tu vas arriver beaucoup plus tard, on ferait mieux de remettre ça à un autre jour.",
-        "it": "Se arrivi molto più tardi, è meglio rimandare a un altro giorno."
+        "it": "Se arrivi molto più tardi, è meglio rimandare a un altro giorno.",
+        "de": "Wenn du viel später kommst, verschieben wir es lieber auf einen anderen Tag."
       },
       "image_url": ""
     },
@@ -887,10 +1013,11 @@
       "id": "ia_081",
       "es": "Ya me fui; no podía esperar más.",
       "translations": {
-        "en": "I’ve already left. I couldn’t wait any longer.",
+        "en": "I've already left. I couldn't wait any longer.",
         "pt": "Já fui embora; não podia esperar mais.",
         "fr": "Je suis déjà parti ; je ne pouvais plus attendre. / Je suis déjà partie ; je ne pouvais plus attendre.",
-        "it": "Sono già andato via; non potevo aspettare ancora. / Sono già andata via; non potevo aspettare ancora."
+        "it": "Sono già andato via; non potevo aspettare più a lungo. / Sono già andata via; non potevo aspettare più a lungo.",
+        "de": "Ich bin schon gegangen. Ich konnte nicht länger warten."
       },
       "image_url": ""
     },
@@ -900,8 +1027,9 @@
       "translations": {
         "en": "Something came up, and I have to cancel.",
         "pt": "Surgiu um imprevisto e preciso cancelar.",
-        "fr": "J’ai eu un imprévu et je dois annuler.",
-        "it": "È sorto un imprevisto e devo annullare."
+        "fr": "J'ai eu un imprévu et je dois annuler.",
+        "it": "È sorto un imprevisto e devo annullare.",
+        "de": "Mir ist etwas dazwischengekommen, und ich muss absagen."
       },
       "image_url": ""
     },
@@ -909,10 +1037,11 @@
       "id": "ia_083",
       "es": "Siento avisarte tan tarde; no voy a poder llegar.",
       "translations": {
-        "en": "I’m sorry for the late notice. I won’t be able to make it.",
+        "en": "I'm sorry for the late notice. I won't be able to make it.",
         "pt": "Desculpa por avisar tão tarde; não vou conseguir ir.",
         "fr": "Désolé de te prévenir si tard ; je ne vais pas pouvoir venir. / Désolée de te prévenir si tard ; je ne vais pas pouvoir venir.",
-        "it": "Mi dispiace avvisarti così tardi; non riuscirò a venire."
+        "it": "Mi dispiace avvisarti così tardi; non riuscirò a venire.",
+        "de": "Tut mir leid, dass ich erst jetzt Bescheid sage. Ich schaffe es nicht."
       },
       "image_url": ""
     },
@@ -923,7 +1052,8 @@
         "en": "Can we put it off until next week?",
         "pt": "Podemos adiar para a próxima semana?",
         "fr": "On peut reporter ça à la semaine prochaine ?",
-        "it": "Possiamo rimandare alla prossima settimana?"
+        "it": "Possiamo rimandare alla prossima settimana?",
+        "de": "Können wir es auf nächste Woche verschieben?"
       },
       "image_url": ""
     },
@@ -931,10 +1061,11 @@
       "id": "ia_085",
       "es": "No quiero cancelar; prefiero cambiar el día.",
       "translations": {
-        "en": "I don’t want to cancel. I’d rather change the day.",
+        "en": "I don't want to cancel. I'd rather change the day.",
         "pt": "Não quero cancelar; prefiro mudar o dia.",
         "fr": "Je ne veux pas annuler ; je préfère changer de jour.",
-        "it": "Non voglio annullare; preferisco cambiare giorno."
+        "it": "Non voglio annullare; preferisco cambiare giorno.",
+        "de": "Ich möchte nicht absagen. Ich würde lieber einen anderen Tag ausmachen."
       },
       "image_url": ""
     },
@@ -944,8 +1075,9 @@
       "translations": {
         "en": "The place is closed. We need another meeting point.",
         "pt": "O lugar está fechado; precisamos de outro ponto de encontro.",
-        "fr": "L’endroit est fermé ; il nous faut un autre point de rendez-vous.",
-        "it": "Il posto è chiuso; ci serve un altro punto d’incontro."
+        "fr": "L'endroit est fermé ; il nous faut un autre point de rendez-vous.",
+        "it": "Il posto è chiuso; ci serve un altro punto d'incontro.",
+        "de": "Dort ist geschlossen. Wir brauchen einen anderen Treffpunkt."
       },
       "image_url": ""
     },
@@ -955,8 +1087,9 @@
       "translations": {
         "en": "There are no tickets left. Should we choose another activity?",
         "pt": "Não há mais ingressos; vamos escolher outra atividade?",
-        "fr": "Il n’y a plus de billets ; on choisit une autre activité ?",
-        "it": "Non ci sono più biglietti; scegliamo un'altra attività?"
+        "fr": "Il n'y a plus de billets ; on choisit une autre activité ?",
+        "it": "Non ci sono più biglietti; scegliamo un'altra attività?",
+        "de": "Es gibt keine Karten mehr. Wollen wir etwas anderes machen?"
       },
       "image_url": ""
     },
@@ -964,10 +1097,11 @@
       "id": "ia_088",
       "es": "Está lloviendo; ¿nos reunimos en un lugar cubierto?",
       "translations": {
-        "en": "It’s raining. Should we meet somewhere indoors?",
+        "en": "It's raining. Should we meet somewhere sheltered?",
         "pt": "Está chovendo; vamos nos encontrar em um lugar coberto?",
         "fr": "Il pleut ; on se retrouve dans un endroit couvert ?",
-        "it": "Piove; ci vediamo in un posto al coperto?"
+        "it": "Piove; ci vediamo in un posto al coperto?",
+        "de": "Es regnet. Treffen wir uns irgendwo im Trockenen?"
       },
       "image_url": ""
     },
@@ -977,8 +1111,9 @@
       "translations": {
         "en": "We can keep the same day and just change the activity.",
         "pt": "Podemos manter o dia e mudar só a atividade.",
-        "fr": "On peut garder le même jour et changer seulement l’activité.",
-        "it": "Possiamo mantenere il giorno e cambiare solo l’attività."
+        "fr": "On peut garder le même jour et changer seulement l'activité.",
+        "it": "Possiamo mantenere il giorno e cambiare solo l'attività.",
+        "de": "Wir können den Tag beibehalten und einfach etwas anderes machen."
       },
       "image_url": ""
     },
@@ -986,10 +1121,11 @@
       "id": "ia_090",
       "es": "El cambio de horario me complica; ¿podemos conservar la hora original?",
       "translations": {
-        "en": "The time change makes things difficult for me. Can we keep the original time?",
+        "en": "The new time doesn't work well for me. Can we stick to the original time?",
         "pt": "A mudança de horário me atrapalha; podemos manter o horário original?",
-        "fr": "Le changement d’horaire me complique les choses ; on peut garder l’heure prévue au départ ?",
-        "it": "Il cambio di orario mi crea difficoltà; possiamo mantenere l’orario originale?"
+        "fr": "Le changement d'horaire me complique les choses ; on peut garder l'heure prévue au départ ?",
+        "it": "Il cambio di orario mi crea difficoltà; possiamo mantenere l'orario originale?",
+        "de": "Die neue Uhrzeit passt mir nicht gut. Können wir bei der ursprünglichen Uhrzeit bleiben?"
       },
       "image_url": ""
     },
@@ -997,12 +1133,16 @@
       "id": "ia_091",
       "es": "Si no puedes venir en persona, podemos hablar por videollamada.",
       "translations": {
-        "en": "If you can’t come in person, we can talk on a video call.",
-        "pt": "Se você não puder vir pessoalmente, podemos conversar por videochamada.",
-        "fr": "Si tu ne peux pas venir en personne, on peut parler en appel vidéo.",
-        "it": "Se non puoi venire di persona, possiamo parlare in videochiamata."
+        "en": "If you can't come in person, we can talk on a video call.",
+        "pt": "Se você não puder vir pessoalmente, podemos conversar por chamada de vídeo.",
+        "fr": "Si tu ne peux pas venir en personne, on peut se parler en visio.",
+        "it": "Se non puoi venire di persona, possiamo parlare in videochiamata.",
+        "de": "Wenn du nicht persönlich kommen kannst, können wir per Videoanruf sprechen."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "(Informal) «En visio» se dice en la conversación cotidiana."
+      }
     },
     {
       "id": "ia_092",
@@ -1011,7 +1151,8 @@
         "en": "Before changing the day, we need to check the reservation terms.",
         "pt": "Antes de mudar o dia, precisamos conferir as condições da reserva.",
         "fr": "Avant de changer de jour, il faut vérifier les conditions de la réservation.",
-        "it": "Prima di cambiare giorno, dobbiamo controllare le condizioni della prenotazione."
+        "it": "Prima di cambiare giorno, dobbiamo controllare le condizioni della prenotazione.",
+        "de": "Bevor wir den Tag ändern, müssen wir die Bedingungen der Reservierung prüfen."
       },
       "image_url": ""
     },
@@ -1019,32 +1160,38 @@
       "id": "ia_093",
       "es": "Ya pagamos las entradas; antes de cancelar, veamos si podemos cambiarlas.",
       "translations": {
-        "en": "We’ve already paid for the tickets. Before we cancel, let’s see if we can exchange them.",
+        "en": "We've already paid for the tickets. Before we cancel, let's see if we can exchange them.",
         "pt": "Já pagamos os ingressos; antes de cancelar, vamos ver se podemos trocar.",
-        "fr": "On a déjà payé les billets ; avant d’annuler, voyons si on peut les échanger.",
-        "it": "Abbiamo già pagato i biglietti; prima di annullare, vediamo se possiamo cambiarli."
+        "fr": "On a déjà payé les billets ; avant d'annuler, voyons si on peut les échanger.",
+        "it": "Abbiamo già pagato i biglietti; prima di annullare, vediamo se possiamo cambiarli.",
+        "de": "Die Karten sind schon bezahlt. Schauen wir vor der Absage, ob wir sie umtauschen können."
       },
       "image_url": ""
     },
     {
       "id": "ia_094",
-      "es": "¿Puedes avisar a todos del cambio? (a una persona)",
+      "es": "¿Puedes avisar a todos del cambio?",
       "translations": {
         "en": "Can you let everyone know about the change?",
         "pt": "Você pode avisar todo mundo sobre a mudança?",
         "fr": "Tu peux prévenir tout le monde du changement ?",
-        "it": "Puoi avvisare tutti del cambiamento?"
+        "it": "Puoi avvisare tutti del cambiamento?",
+        "de": "Kannst du allen wegen der Änderung Bescheid sagen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(A una persona)"
+      }
     },
     {
       "id": "ia_095",
       "es": "Te propongo otra fecha: el próximo viernes después del trabajo.",
       "translations": {
-        "en": "I suggest another date: next Friday after work.",
+        "en": "How about another date: next Friday after work?",
         "pt": "Proponho outra data: na próxima sexta-feira, depois do trabalho.",
         "fr": "Je te propose une autre date : vendredi prochain après le travail.",
-        "it": "Ti propongo un'altra data: venerdì prossimo dopo il lavoro."
+        "it": "Ti propongo un'altra data: venerdì prossimo dopo il lavoro.",
+        "de": "Ich schlage einen anderen Termin vor: nächsten Freitag nach der Arbeit."
       },
       "image_url": ""
     },
@@ -1052,21 +1199,23 @@
       "id": "ia_096",
       "es": "No coincidimos esta semana; revisemos nuestros horarios para la siguiente.",
       "translations": {
-        "en": "Our schedules don’t line up this week. Let’s check them for next week.",
+        "en": "Our schedules don't line up this week. Let's check them for next week.",
         "pt": "Nossos horários não coincidem esta semana; vamos conferir os da próxima.",
-        "fr": "Nos disponibilités ne correspondent pas cette semaine ; regardons pour la suivante.",
-        "it": "I nostri orari non coincidono questa settimana; controlliamo quelli della prossima."
+        "fr": "On n'a pas de créneau en commun cette semaine ; regardons nos disponibilités pour la semaine prochaine.",
+        "it": "I nostri orari non coincidono questa settimana; controlliamo quelli della prossima.",
+        "de": "Diese Woche finden wir keinen gemeinsamen Termin. Schauen wir, wann wir nächste Woche Zeit haben."
       },
       "image_url": ""
     },
     {
       "id": "ia_097",
-      "es": "Si esta vez no puedes, dime cuándo te viene bien.",
+      "es": "Si esta vez no puedes, dime cuándo te queda bien.",
       "translations": {
-        "en": "If you can’t make it this time, tell me when works for you.",
+        "en": "If you can't make it this time, tell me when works for you.",
         "pt": "Se desta vez você não puder, me diga quando fica bom para você.",
-        "fr": "Si tu ne peux pas cette fois-ci, dis-moi quand ça t’arrange.",
-        "it": "Se questa volta non puoi, dimmi quando ti va bene."
+        "fr": "Si tu ne peux pas cette fois-ci, dis-moi quand ça t'arrange.",
+        "it": "Se questa volta non puoi, dimmi quando ti va bene.",
+        "de": "Wenn du diesmal nicht kannst, sag mir, wann es dir passt."
       },
       "image_url": ""
     },
@@ -1074,21 +1223,26 @@
       "id": "ia_098",
       "es": "Prefiero que acordemos una fecha cuando los dos estemos seguros.",
       "translations": {
-        "en": "I’d rather agree on a date when we’re both sure we can make it.",
+        "en": "I'd rather agree on a date when we're both sure we can make it.",
         "pt": "Prefiro combinar uma data quando nós dois tivermos certeza de que podemos ir.",
-        "fr": "Je préfère qu’on fixe une date quand on est tous les deux sûrs de pouvoir venir.",
-        "it": "Preferisco fissare una data quando siamo entrambi sicuri di poterci essere."
+        "fr": "Je préfère qu'on fixe une date quand on sera certains de pouvoir venir tous les deux.",
+        "it": "Preferisco fissare una data quando siamo entrambi sicuri di poterci essere.",
+        "de": "Ich würde lieber einen Termin ausmachen, wenn wir beide sicher Zeit haben."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "Aquí se trata de estar seguros de que ambos pueden asistir."
+      }
     },
     {
       "id": "ia_099",
       "es": "Dejemos el plan pendiente y lo retomamos cuando tengas tiempo.",
       "translations": {
-        "en": "Let’s leave it open and talk about it again when you have time.",
+        "en": "Let's leave it open and talk about it again when you have time.",
         "pt": "Vamos deixar o plano em aberto e voltar a falar disso quando você tiver tempo.",
         "fr": "On laisse ça en suspens et on en reparle quand tu as le temps.",
-        "it": "Lasciamo il programma in sospeso e ne riparliamo quando hai tempo."
+        "it": "Lasciamo il programma in sospeso e ne riparliamo quando hai tempo.",
+        "de": "Lassen wir den Plan erst mal offen. Wir reden weiter darüber, wenn du Zeit hast."
       },
       "image_url": ""
     }
