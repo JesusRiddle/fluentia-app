@@ -9,8 +9,8 @@
       "translations": {
         "en": "Immigration control",
         "pt": "O controle de imigração",
-        "fr": "Le contrôle de l'immigration",
-        "it": "Il controllo dell'immigrazione",
+        "fr": "Le contrôle à la frontière",
+        "it": "Il controllo di frontiera",
         "de": "Die Einreisekontrolle"
       },
       "image_url": "",
@@ -24,11 +24,11 @@
           "es": "Mostré mi pasaporte en el control migratorio."
         },
         "fr": {
-          "text": "J'ai montré mon passeport au contrôle de l'immigration.",
+          "text": "J'ai montré mon passeport au contrôle à la frontière.",
           "es": "Mostré mi pasaporte en el control migratorio."
         },
         "it": {
-          "text": "Ho mostrato il passaporto al controllo dell'immigrazione.",
+          "text": "Ho mostrato il passaporto al controllo di frontiera.",
           "es": "Mostré mi pasaporte en el control migratorio."
         },
         "de": {
@@ -38,8 +38,8 @@
       },
       "notes": {
         "pt": "(Plural: Os controles de imigração)",
-        "fr": "(Plural: Les contrôles de l'immigration)",
-        "it": "(Plural: I controlli dell'immigrazione)",
+        "fr": "(Plural: Les contrôles à la frontière)",
+        "it": "(Plural: I controlli di frontiera)",
         "de": "(Plural: Die Einreisekontrollen) Se usa aquí al entrar a un país; «Passkontrolle» destaca la revisión del pasaporte.",
         "es": "Aquí se revisa la documentación de las personas que cruzan una frontera."
       }
@@ -60,8 +60,8 @@
       "id": "ava_056",
       "es": "¿Puedo pasar por el control automatizado con mi pasaporte?",
       "translations": {
-        "en": "Can I use the automated gate with my passport?",
-        "pt": "Posso usar o portão automático com meu passaporte?",
+        "en": "Can I use the automated passport control gate with my passport?",
+        "pt": "Posso passar pelo controle automatizado de passaportes com o meu passaporte?",
         "fr": "Puis-je passer par le contrôle automatisé avec mon passeport ?",
         "it": "Posso usare il varco automatico con il mio passaporto?",
         "de": "Kann ich mit meinem Reisepass durch die automatische Passkontrolle gehen?"
@@ -81,12 +81,42 @@
       "image_url": ""
     },
     {
+      "id": "ava_092",
+      "es": "¿De dónde viene y cuál es su destino final?",
+      "translations": {
+        "en": "Where are you coming from, and what is your final destination?",
+        "pt": "De onde vem e qual é seu destino final?",
+        "fr": "D'où venez-vous et quelle est votre destination finale ?",
+        "it": "Da dove viene e qual è la sua destinazione finale?",
+        "de": "Woher kommen Sie und was ist Ihr Endziel?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Pregunta o indicación del oficial)"
+      }
+    },
+    {
+      "id": "ava_093",
+      "es": "Vengo de la Ciudad de México y mi destino final es París.",
+      "translations": {
+        "en": "I'm coming from Mexico City, and my final destination is Paris.",
+        "pt": "Venho da Cidade do México e meu destino final é Paris.",
+        "fr": "Je viens de Mexico et ma destination finale est Paris.",
+        "it": "Vengo da Città del Messico e la mia destinazione finale è Parigi.",
+        "de": "Ich komme aus Mexiko-Stadt. Mein Endziel ist Paris."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Respuesta hipotética para practicar)"
+      }
+    },
+    {
       "id": "ava_110",
       "es": "¿Puede mostrarme su visa o autorización de viaje, si corresponde?",
       "translations": {
         "en": "Can you show me your visa or travel authorization, if applicable?",
         "pt": "Pode me mostrar seu visto ou sua autorização de viagem, se for o caso?",
-        "fr": "Pouvez-vous me montrer votre visa ou votre autorisation de voyage, si cela vous concerne ?",
+        "fr": "Pouvez-vous me montrer votre visa ou votre autorisation de voyage, le cas échéant ?",
         "it": "Può mostrarmi il visto o l'autorizzazione di viaggio, se prevista?",
         "de": "Können Sie mir gegebenenfalls Ihr Visum oder Ihre Reisegenehmigung zeigen?"
       },
@@ -174,7 +204,7 @@
       "id": "ava_061",
       "es": "Vengo a visitar a mi hermana y después regresaré a mi país.",
       "translations": {
-        "en": "I'm here to visit my sister, and then I'll return to my country.",
+        "en": "I'm here to visit my sister, and then I'll return to my home country.",
         "pt": "Vim visitar minha irmã e depois voltarei ao meu país.",
         "fr": "Je viens rendre visite à ma sœur, puis je retournerai dans mon pays.",
         "it": "Sono qui per visitare mia sorella e poi tornerò nel mio paese.",
@@ -198,6 +228,36 @@
       "image_url": "",
       "notes": {
         "es": "Respuesta de ejemplo para practicar."
+      }
+    },
+    {
+      "id": "ava_094",
+      "es": "¿Qué lugares piensa visitar durante su estancia?",
+      "translations": {
+        "en": "What places do you plan to visit during your stay?",
+        "pt": "Quais lugares pretende visitar durante sua estadia?",
+        "fr": "Quels endroits comptez-vous visiter pendant votre séjour ?",
+        "it": "Quali luoghi pensa di visitare durante il soggiorno?",
+        "de": "Welche Orte wollen Sie während Ihres Aufenthalts besuchen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Pregunta o indicación del oficial)"
+      }
+    },
+    {
+      "id": "ava_095",
+      "es": "Pasaré unos días en la capital y después visitaré otra ciudad en tren.",
+      "translations": {
+        "en": "I'll spend a few days in the capital and then visit another city by train.",
+        "pt": "Vou passar alguns dias na capital e depois visitar outra cidade de trem.",
+        "fr": "Je passerai quelques jours dans la capitale, puis je visiterai une autre ville en train.",
+        "it": "Passerò qualche giorno nella capitale e poi visiterò un'altra città in treno.",
+        "de": "Ich verbringe ein paar Tage in der Hauptstadt. Danach fahre ich mit dem Zug in eine andere Stadt, um sie zu besuchen."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Respuesta hipotética para practicar)"
       }
     },
     {
@@ -264,7 +324,7 @@
       "id": "ava_067",
       "es": "Me hospedaré en el Hotel Central. Aquí están la confirmación de mi reservación y la dirección.",
       "translations": {
-        "en": "I'll be staying at the Central Hotel. Here's my booking confirmation and the address.",
+        "en": "I'll be staying at Hotel Central. Here's my booking confirmation and the address.",
         "pt": "Vou me hospedar no Hotel Central. Aqui estão a confirmação da reserva e o endereço.",
         "fr": "Je séjournerai à l'hôtel Central. Voici ma confirmation de réservation et l'adresse.",
         "it": "Alloggerò all'Hotel Central. Ecco la conferma della prenotazione e l'indirizzo.",
@@ -292,17 +352,47 @@
     },
     {
       "id": "ava_069",
-      "es": "Las primeras tres noches estaré en un hotel y después en otro. Aquí están las dos reservaciones.",
+      "es": "Las primeras tres noches estaré en un hotel y después en otro. Aquí están las confirmaciones de las dos reservaciones.",
       "translations": {
-        "en": "I'll stay at one hotel for the first three nights and then at another. Here are both reservations.",
-        "pt": "Nas primeiras três noites ficarei em um hotel e depois em outro. Aqui estão as duas reservas.",
-        "fr": "Je serai dans un hôtel les trois premières nuits, puis dans un autre. Voici les deux réservations.",
-        "it": "Per le prime tre notti starò in un hotel e poi in un altro. Ecco entrambe le prenotazioni.",
-        "de": "Die ersten drei Nächte bleibe ich in einem Hotel und danach in einem anderen. Hier sind beide Reservierungen."
+        "en": "I'll stay at one hotel for the first three nights and then at another. Here are both booking confirmations.",
+        "pt": "Nas primeiras três noites ficarei em um hotel e depois em outro. Aqui estão as confirmações das duas reservas.",
+        "fr": "Je serai dans un hôtel les trois premières nuits, puis dans un autre. Voici les deux confirmations de réservation.",
+        "it": "Per le prime tre notti starò in un hotel e poi in un altro. Ecco le conferme di entrambe le prenotazioni.",
+        "de": "Die ersten drei Nächte bleibe ich in einem Hotel und danach in einem anderen. Hier sind beide Buchungsbestätigungen."
       },
       "image_url": "",
       "notes": {
         "es": "Respuesta de ejemplo para practicar."
+      }
+    },
+    {
+      "id": "ava_096",
+      "es": "¿Tiene una carta de invitación o los datos de la persona que lo recibe?",
+      "translations": {
+        "en": "Do you have an invitation letter or the details of the person hosting you?",
+        "pt": "Tem uma carta-convite ou os dados de contato de quem vai hospedar você?",
+        "fr": "Avez-vous une lettre d'invitation ou les coordonnées de la personne qui vous accueille ?",
+        "it": "Ha una lettera d'invito o i dati della persona che la ospita?",
+        "de": "Haben Sie ein Einladungsschreiben oder die Kontaktdaten der Person, bei der Sie wohnen werden?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Pregunta o indicación del oficial)"
+      }
+    },
+    {
+      "id": "ava_097",
+      "es": "Tengo una carta de invitación y estos son los datos de contacto de mi anfitrión.",
+      "translations": {
+        "en": "I have an invitation letter, and these are my host's contact details.",
+        "pt": "Tenho uma carta-convite e estes são os dados de contato de quem vai me hospedar.",
+        "fr": "J'ai une lettre d'invitation et voici les coordonnées de la personne qui m'accueille.",
+        "it": "Ho una lettera d'invito e questi sono i recapiti di chi mi ospita.",
+        "de": "Ich habe ein Einladungsschreiben. Hier sind die Kontaktdaten der Person, bei der ich wohnen werde."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Respuesta hipotética para practicar)"
       }
     },
     {
@@ -339,15 +429,45 @@
       "id": "ava_072",
       "es": "No regreso a mi país desde aquí. Voy a seguir hacia otro país. Aquí está el boleto para continuar mi viaje.",
       "translations": {
-        "en": "I'm not flying home from here. I'm traveling on to another country. Here's my onward ticket.",
+        "en": "I'm not returning home from here. I'm traveling on to another country. Here's my onward ticket.",
         "pt": "Não vou voltar ao meu país daqui. Vou seguir para outro país. Aqui está a passagem para continuar a viagem.",
-        "fr": "Je ne rentre pas dans mon pays depuis ici. Je vais continuer vers un autre pays. Voici mon billet pour la suite du voyage.",
+        "fr": "D'ici, je ne rentre pas dans mon pays : je poursuis mon voyage vers un autre pays. Voici mon billet pour la suite du voyage.",
         "it": "Non torno nel mio paese da qui. Proseguo per un altro paese. Ecco il biglietto per proseguire.",
         "de": "Von hier aus reise ich nicht in mein Heimatland zurück, sondern weiter in ein anderes Land. Hier ist mein Ticket für die Weiterreise."
       },
       "image_url": "",
       "notes": {
         "es": "Respuesta de ejemplo para practicar."
+      }
+    },
+    {
+      "id": "ava_100",
+      "es": "¿Puede mostrarme la reserva de alojamiento y el boleto de salida?",
+      "translations": {
+        "en": "Could you show me your accommodation booking and your ticket to leave the country?",
+        "pt": "Pode me mostrar a reserva da hospedagem e a passagem para sair do país?",
+        "fr": "Pouvez-vous me montrer votre réservation d'hébergement et votre billet pour quitter le pays ?",
+        "it": "Può mostrarmi la prenotazione dell'alloggio e il biglietto per lasciare il paese?",
+        "de": "Können Sie mir Ihre Unterkunftsbuchung und das Ticket für Ihre Ausreise zeigen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Pregunta o indicación del oficial)"
+      }
+    },
+    {
+      "id": "ava_101",
+      "es": "Los tengo guardados en el teléfono; puedo mostrarle las confirmaciones.",
+      "translations": {
+        "en": "I have them saved on my phone. I can show you the confirmations.",
+        "pt": "Tenho os dois documentos salvos no celular. Posso mostrar as confirmações.",
+        "fr": "Je les ai enregistrés sur mon téléphone ; je peux vous montrer les confirmations.",
+        "it": "Li ho salvati sul telefono; posso mostrarle le conferme.",
+        "de": "Ich habe beides auf dem Handy gespeichert. Ich kann Ihnen die Bestätigungen zeigen."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Respuesta hipotética para practicar)"
       }
     },
     {
@@ -403,11 +523,41 @@
         "pt": "Sou estudante universitário e viajo durante minhas férias. / Sou estudante universitária e viajo durante minhas férias.",
         "fr": "Je suis étudiant à l'université et je voyage pendant mes vacances. / Je suis étudiante à l'université et je voyage pendant mes vacances.",
         "it": "Sono uno studente universitario e viaggio durante le vacanze. / Sono una studentessa universitaria e viaggio durante le vacanze.",
-        "de": "Ich studiere und reise während meiner Semesterferien."
+        "de": "Ich studiere an einer Universität und reise in den Ferien."
       },
       "image_url": "",
       "notes": {
         "es": "Respuesta de ejemplo para practicar."
+      }
+    },
+    {
+      "id": "ava_098",
+      "es": "¿Va a trabajar o estudiar durante su estancia?",
+      "translations": {
+        "en": "Will you work or study during your stay?",
+        "pt": "Vai trabalhar ou estudar durante sua estadia?",
+        "fr": "Allez-vous travailler ou étudier pendant votre séjour ?",
+        "it": "Lavorerà o studierà durante il soggiorno?",
+        "de": "Werden Sie während Ihres Aufenthalts arbeiten oder studieren?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Pregunta o indicación del oficial)"
+      }
+    },
+    {
+      "id": "ava_099",
+      "es": "No; vengo únicamente de vacaciones y regresaré a mi trabajo en México.",
+      "translations": {
+        "en": "No. I'm here only on vacation, and I'll return to my job in Mexico.",
+        "pt": "Não; vim apenas de férias e voltarei ao meu trabalho no México.",
+        "fr": "Non, je suis ici uniquement pour les vacances. Je reprendrai le travail au Mexique.",
+        "it": "No; sono qui solo in vacanza e tornerò al mio lavoro in Messico.",
+        "de": "Nein, ich bin nur im Urlaub hier. Danach gehe ich in Mexiko wieder zur Arbeit."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Respuesta hipotética para practicar)"
       }
     },
     {
@@ -442,10 +592,10 @@
     },
     {
       "id": "ava_079",
-      "es": "Viajo con mi pareja; estamos haciendo el mismo itinerario.",
+      "es": "Viajo con mi pareja. Seguimos el mismo itinerario.",
       "translations": {
         "en": "I'm traveling with my partner. We're following the same itinerary.",
-        "pt": "Viajo com meu parceiro; estamos fazendo o mesmo itinerário. / Viajo com minha parceira; estamos fazendo o mesmo itinerário.",
+        "pt": "Viajo com meu parceiro. Seguimos o mesmo itinerário. / Viajo com minha parceira. Seguimos o mesmo itinerário.",
         "fr": "Je voyage avec mon partenaire ; nous suivons le même itinéraire. / Je voyage avec ma partenaire ; nous suivons le même itinéraire.",
         "it": "Viaggio con il mio compagno; seguiamo lo stesso itinerario. / Viaggio con la mia compagna; seguiamo lo stesso itinerario.",
         "de": "Ich reise mit meinem Partner. Wir haben denselben Reiseplan. / Ich reise mit meiner Partnerin. Wir haben denselben Reiseplan."
@@ -546,6 +696,36 @@
       }
     },
     {
+      "id": "ava_102",
+      "es": "¿Puede demostrar cómo pagará los gastos de su estancia?",
+      "translations": {
+        "en": "Can you show how you will cover the cost of your stay?",
+        "pt": "Pode comprovar como pagará as despesas da sua estadia?",
+        "fr": "Pouvez-vous montrer comment vous paierez vos dépenses pendant votre séjour ?",
+        "it": "Può dimostrare come pagherà le spese del soggiorno?",
+        "de": "Können Sie nachweisen, wie Sie Ihre Ausgaben während des Aufenthalts bezahlen werden?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Pregunta o indicación del oficial)"
+      }
+    },
+    {
+      "id": "ava_103",
+      "es": "Aquí está mi estado de cuenta y el comprobante de pago del hotel.",
+      "translations": {
+        "en": "Here are my bank statement and proof of payment for the hotel.",
+        "pt": "Aqui estão meu extrato bancário e o comprovante de pagamento do hotel.",
+        "fr": "Voici mon relevé bancaire et le justificatif de paiement de l'hôtel.",
+        "it": "Ecco il mio estratto conto e la ricevuta del pagamento dell'hotel.",
+        "de": "Hier sind mein Kontoauszug und der Zahlungsbeleg für das Hotel."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Respuesta hipotética para practicar)"
+      }
+    },
+    {
       "id": "ava_086",
       "es": "¿Conoce a alguien aquí o tiene familiares en el país?",
       "translations": {
@@ -635,186 +815,6 @@
         "es": "(Respuesta hipotética para practicar)",
         "fr": "(Primera forma: masculino; segunda: femenino)",
         "it": "(Primera forma: masculino; segunda: femenino)"
-      }
-    },
-    {
-      "id": "ava_092",
-      "es": "¿De dónde viene y cuál es su destino final?",
-      "translations": {
-        "en": "Where are you coming from, and what is your final destination?",
-        "pt": "De onde vem e qual é seu destino final?",
-        "fr": "D'où venez-vous et quelle est votre destination finale ?",
-        "it": "Da dove viene e qual è la sua destinazione finale?",
-        "de": "Woher kommen Sie und was ist das Ziel Ihrer gesamten Reise?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Pregunta o indicación del oficial)"
-      }
-    },
-    {
-      "id": "ava_093",
-      "es": "Vengo de la Ciudad de México y mi destino final es París.",
-      "translations": {
-        "en": "I'm coming from Mexico City, and my final destination is Paris.",
-        "pt": "Venho da Cidade do México e meu destino final é Paris.",
-        "fr": "Je viens de Mexico et ma destination finale est Paris.",
-        "it": "Vengo da Città del Messico e la mia destinazione finale è Parigi.",
-        "de": "Ich komme aus Mexiko-Stadt. Mein endgültiges Reiseziel ist Paris."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Respuesta hipotética para practicar)"
-      }
-    },
-    {
-      "id": "ava_094",
-      "es": "¿Qué lugares piensa visitar durante su estancia?",
-      "translations": {
-        "en": "What places do you plan to visit during your stay?",
-        "pt": "Quais lugares pretende visitar durante sua estadia?",
-        "fr": "Quels endroits comptez-vous visiter pendant votre séjour ?",
-        "it": "Quali luoghi pensa di visitare durante il soggiorno?",
-        "de": "Welche Orte möchten Sie während Ihres Aufenthalts besuchen?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Pregunta o indicación del oficial)"
-      }
-    },
-    {
-      "id": "ava_095",
-      "es": "Pasaré unos días en la capital y después visitaré otra ciudad en tren.",
-      "translations": {
-        "en": "I'll spend a few days in the capital and then visit another city by train.",
-        "pt": "Vou passar alguns dias na capital e depois visitar outra cidade de trem.",
-        "fr": "Je passerai quelques jours dans la capitale, puis je visiterai une autre ville en train.",
-        "it": "Passerò qualche giorno nella capitale e poi visiterò un'altra città in treno.",
-        "de": "Ich verbringe ein paar Tage in der Hauptstadt. Danach fahre ich mit dem Zug in eine andere Stadt, um sie zu besuchen."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Respuesta hipotética para practicar)"
-      }
-    },
-    {
-      "id": "ava_096",
-      "es": "¿Tiene una carta de invitación o los datos de la persona que lo recibe?",
-      "translations": {
-        "en": "Do you have an invitation letter or the details of the person hosting you?",
-        "pt": "Tem uma carta-convite ou os dados de contato de quem vai hospedar você?",
-        "fr": "Avez-vous une lettre d'invitation ou les coordonnées de la personne qui vous accueille ?",
-        "it": "Ha una lettera d'invito o i dati della persona che la ospita?",
-        "de": "Haben Sie ein Einladungsschreiben oder die Kontaktdaten der Person, bei der Sie wohnen werden?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Pregunta o indicación del oficial)"
-      }
-    },
-    {
-      "id": "ava_097",
-      "es": "Tengo una carta de invitación y estos son los datos de contacto de mi anfitrión.",
-      "translations": {
-        "en": "I have an invitation letter, and these are my host's contact details.",
-        "pt": "Tenho uma carta-convite e estes são os dados de contato de quem vai me hospedar.",
-        "fr": "J'ai une lettre d'invitation et voici les coordonnées de la personne qui m'accueille.",
-        "it": "Ho una lettera d'invito e questi sono i recapiti di chi mi ospita.",
-        "de": "Ich habe ein Einladungsschreiben. Hier sind die Kontaktdaten der Person, die mich aufnimmt."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Respuesta hipotética para practicar)"
-      }
-    },
-    {
-      "id": "ava_098",
-      "es": "¿Va a trabajar o estudiar durante su estancia?",
-      "translations": {
-        "en": "Will you work or study during your stay?",
-        "pt": "Vai trabalhar ou estudar durante sua estadia?",
-        "fr": "Allez-vous travailler ou étudier pendant votre séjour ?",
-        "it": "Lavorerà o studierà durante il soggiorno?",
-        "de": "Werden Sie während Ihres Aufenthalts arbeiten oder studieren?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Pregunta o indicación del oficial)"
-      }
-    },
-    {
-      "id": "ava_099",
-      "es": "No; vengo únicamente de vacaciones y regresaré a mi trabajo en México.",
-      "translations": {
-        "en": "No. I'm here only on vacation, and I'll return to my job in Mexico.",
-        "pt": "Não; vim apenas de férias e voltarei ao meu trabalho no México.",
-        "fr": "Non, je suis ici uniquement pour les vacances. Je reprendrai le travail au Mexique.",
-        "it": "No; sono qui solo in vacanza e tornerò al mio lavoro in Messico.",
-        "de": "Nein, ich bin nur im Urlaub hier. Danach gehe ich in Mexiko wieder zur Arbeit."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Respuesta hipotética para practicar)"
-      }
-    },
-    {
-      "id": "ava_100",
-      "es": "¿Puede mostrarme la reserva de alojamiento y el boleto de salida?",
-      "translations": {
-        "en": "Could you show me your accommodation booking and your ticket to leave the country?",
-        "pt": "Pode me mostrar a reserva da hospedagem e a passagem para sair do país?",
-        "fr": "Pouvez-vous me montrer votre réservation d'hébergement et votre billet pour quitter le pays ?",
-        "it": "Può mostrarmi la prenotazione dell'alloggio e il biglietto di uscita dal paese?",
-        "de": "Können Sie mir Ihre Unterkunftsbuchung und das Ticket für Ihre Ausreise zeigen?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Pregunta o indicación del oficial)"
-      }
-    },
-    {
-      "id": "ava_101",
-      "es": "Los tengo guardados en el teléfono; puedo mostrarle las confirmaciones.",
-      "translations": {
-        "en": "I have them saved on my phone. I can show you the confirmations.",
-        "pt": "Tenho os dois documentos salvos no celular. Posso mostrar as confirmações.",
-        "fr": "Je les ai enregistrés sur mon téléphone ; je peux vous montrer les confirmations.",
-        "it": "Li ho salvati sul telefono; posso mostrarle le conferme.",
-        "de": "Ich habe beides auf dem Handy gespeichert. Ich kann Ihnen die Bestätigungen zeigen."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Respuesta hipotética para practicar)"
-      }
-    },
-    {
-      "id": "ava_102",
-      "es": "¿Puede demostrar cómo pagará los gastos de su estancia?",
-      "translations": {
-        "en": "Can you show how you will cover the cost of your stay?",
-        "pt": "Pode comprovar como pagará as despesas da sua estadia?",
-        "fr": "Pouvez-vous montrer comment vous paierez vos dépenses pendant votre séjour ?",
-        "it": "Può dimostrare come pagherà le spese del soggiorno?",
-        "de": "Können Sie nachweisen, wie Sie Ihre Ausgaben während des Aufenthalts bezahlen werden?"
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Pregunta o indicación del oficial)"
-      }
-    },
-    {
-      "id": "ava_103",
-      "es": "Aquí está mi estado de cuenta y el comprobante de pago del hotel.",
-      "translations": {
-        "en": "Here are my bank statement and proof of payment for the hotel.",
-        "pt": "Aqui estão meu extrato bancário e o comprovante de pagamento do hotel.",
-        "fr": "Voici mon relevé bancaire et le justificatif de paiement de l'hôtel.",
-        "it": "Ecco il mio estratto conto e la ricevuta del pagamento dell'hotel.",
-        "de": "Hier sind mein Kontoauszug und der Zahlungsbeleg für das Hotel."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Respuesta hipotética para practicar)"
       }
     },
     {
@@ -1125,7 +1125,7 @@
     },
     {
       "id": "ava_123",
-      "es": "Sí, llevo una manzana en la mochila; quiero declarar que la traigo.",
+      "es": "Sí, llevo una manzana en la mochila. Quiero declararla.",
       "translations": {
         "en": "Yes, I have an apple in my backpack. I'd like to declare it.",
         "pt": "Sim, tenho uma maçã na mochila e gostaria de declará-la.",
@@ -1259,7 +1259,7 @@
         "en": "I'm not sure about this product. I'd rather show it to you so you can check.",
         "pt": "Tenho dúvidas sobre este produto. Prefiro mostrá-lo para que você possa verificar.",
         "fr": "J'ai un doute sur ce produit ; je préfère vous le montrer pour vérification.",
-        "it": "Non sono sicuro di questo prodotto. Preferisco mostrarglielo così può controllarlo. / Non sono sicura di questo prodotto. Preferisco mostrarglielo così può controllarlo.",
+        "it": "Non sono sicuro di questo prodotto. Preferisco mostrarglielo, così può controllarlo. / Non sono sicura di questo prodotto. Preferisco mostrarglielo, così può controllarlo.",
         "de": "Bei diesem Produkt bin ich mir nicht sicher. Ich möchte es Ihnen lieber zeigen, damit Sie es prüfen können."
       },
       "image_url": "",

@@ -81,7 +81,7 @@
     },
     {
       "id": "ava_004",
-      "es": "El mostrador de documentación",
+      "es": "El mostrador de documentación / El mostrador de check-in",
       "translations": {
         "en": "The check-in counter",
         "pt": "O balcão de check-in",
@@ -123,35 +123,35 @@
     },
     {
       "id": "ava_005",
-      "es": "La entrega de equipaje documentado",
+      "es": "La entrega de equipaje para documentar",
       "translations": {
         "en": "The bag drop",
         "pt": "O despacho de bagagem",
-        "fr": "La dépose des bagages",
-        "it": "La consegna dei bagagli",
+        "fr": "Le dépôt des bagages",
+        "it": "La consegna dei bagagli da stiva",
         "de": "Die Gepäckabgabe"
       },
       "image_url": "",
       "examples": {
         "en": {
           "text": "I asked what floor bag drop was on.",
-          "es": "Pregunté en qué piso se hace la entrega de equipaje documentado."
+          "es": "Pregunté en qué piso se entrega el equipaje para documentarlo."
         },
         "pt": {
           "text": "Perguntei em que andar fica o despacho de bagagem.",
-          "es": "Pregunté en qué piso se hace la entrega de equipaje documentado."
+          "es": "Pregunté en qué piso se entrega el equipaje para documentarlo."
         },
         "fr": {
-          "text": "J'ai demandé à quel étage se fait la dépose des bagages.",
-          "es": "Pregunté en qué piso se hace la entrega de equipaje documentado."
+          "text": "J'ai demandé à quel étage se trouve le dépôt des bagages.",
+          "es": "Pregunté en qué piso se entrega el equipaje para documentarlo."
         },
         "it": {
-          "text": "Ho chiesto a che piano si fa la consegna dei bagagli.",
-          "es": "Pregunté en qué piso se hace la entrega de equipaje documentado."
+          "text": "Ho chiesto a che piano si consegnano i bagagli da stiva.",
+          "es": "Pregunté en qué piso se entrega el equipaje para documentarlo."
         },
         "de": {
           "text": "Ich habe gefragt, in welchem Stockwerk die Gepäckabgabe ist.",
-          "es": "Pregunté en qué piso se hace la entrega de equipaje documentado."
+          "es": "Pregunté en qué piso se entrega el equipaje para documentarlo."
         }
       },
       "notes": {
@@ -275,10 +275,10 @@
       "id": "ava_009",
       "es": "El comprobante de equipaje documentado",
       "translations": {
-        "en": "The baggage claim receipt",
+        "en": "The baggage claim receipt / The baggage claim check",
         "pt": "O comprovante de despacho de bagagem",
         "fr": "Le reçu d'enregistrement des bagages",
-        "it": "La ricevuta del bagaglio registrato",
+        "it": "La ricevuta del bagaglio da stiva",
         "de": "Der Gepäckabschnitt"
       },
       "image_url": "",
@@ -296,7 +296,7 @@
           "es": "Guardé el comprobante de equipaje documentado en mi cartera."
         },
         "it": {
-          "text": "Ho messo la ricevuta del bagaglio registrato nel portafoglio.",
+          "text": "Ho messo la ricevuta del bagaglio da stiva nel portafoglio.",
           "es": "Guardé el comprobante de equipaje documentado en mi cartera."
         },
         "de": {
@@ -305,10 +305,10 @@
         }
       },
       "notes": {
-        "en": "(Plural: The baggage claim receipts)",
+        "en": "(Plural: The baggage claim receipts / The baggage claim checks)",
         "pt": "(Plural: Os comprovantes de despacho de bagagem)",
         "fr": "(Plural: Les reçus d'enregistrement des bagages)",
-        "it": "(Plural: Le ricevute del bagaglio registrato)",
+        "it": "(Plural: Le ricevute del bagaglio da stiva)",
         "de": "(Plural: Die Gepäckabschnitte)",
         "es": "Es el recibo que conserva el pasajero. No es la etiqueta adherida a la maleta."
       }
@@ -318,7 +318,7 @@
       "es": "¿Esta es la terminal de salida de mi vuelo?",
       "translations": {
         "en": "Is this the departure terminal for my flight?",
-        "pt": "Este é o terminal de saída do meu voo?",
+        "pt": "Este é o terminal de embarque do meu voo?",
         "fr": "C'est le terminal de départ de mon vol ?",
         "it": "È questo il terminal di partenza del mio volo?",
         "de": "Ist das das Abflugterminal für meinen Flug?"
@@ -344,7 +344,7 @@
         "en": "I've already checked in online. I just need to check this bag.",
         "pt": "Já fiz o check-in on-line; só preciso despachar esta mala.",
         "fr": "J'ai déjà fait l'enregistrement en ligne ; je dois seulement déposer cette valise.",
-        "it": "Ho già fatto il check-in online; devo solo consegnare questa valigia.",
+        "it": "Ho già fatto il check-in online; devo solo imbarcare questa valigia in stiva.",
         "de": "Ich habe schon online eingecheckt. Ich muss nur noch diesen Koffer aufgeben."
       },
       "image_url": ""
@@ -440,7 +440,7 @@
         "en": "My bag is too heavy. Can I take some things out before checking it?",
         "pt": "Minha mala está pesada demais; posso tirar algumas coisas antes de despachar?",
         "fr": "Ma valise est trop lourde ; je peux retirer quelques affaires avant de l'enregistrer ?",
-        "it": "La mia valigia pesa troppo. Posso togliere alcune cose prima di imbarcarla?",
+        "it": "La mia valigia pesa troppo. Posso togliere alcune cose prima di imbarcarla in stiva?",
         "de": "Mein Koffer ist zu schwer. Kann ich vor der Gepäckaufgabe noch ein paar Sachen herausnehmen?"
       },
       "image_url": ""
@@ -452,7 +452,7 @@
         "en": "Do I need to remove my power bank before checking this bag?",
         "pt": "Preciso tirar a bateria externa antes de despachar esta mala?",
         "fr": "Je dois retirer la batterie externe avant d'enregistrer cette valise ?",
-        "it": "Devo togliere il power bank prima di imbarcare questa valigia?",
+        "it": "Devo togliere il power bank prima di imbarcare questa valigia in stiva?",
         "de": "Muss ich die Powerbank herausnehmen, bevor ich diesen Koffer aufgebe?"
       },
       "image_url": ""
@@ -462,15 +462,12 @@
       "es": "¿La maleta está etiquetada hasta mi destino final?",
       "translations": {
         "en": "Is my bag tagged through to my final destination?",
-        "pt": "A mala está etiquetada até meu destino final?",
+        "pt": "A etiqueta da minha mala indica meu destino final?",
         "fr": "L'étiquette de ma valise indique-t-elle ma destination finale ?",
         "it": "Sull'etichetta della mia valigia c'è la mia destinazione finale?",
-        "de": "Ist mein Koffer bis zu meinem endgültigen Reiseziel durchgecheckt?"
+        "de": "Steht mein endgültiges Reiseziel auf dem Gepäckanhänger?"
       },
-      "image_url": "",
-      "notes": {
-        "de": "«Durchgecheckt» significa que el equipaje está documentado hasta el destino indicado."
-      }
+      "image_url": ""
     },
     {
       "id": "ava_034",
@@ -504,7 +501,7 @@
         "pt": "Solicitei assistência para me deslocar pelo aeroporto; onde devo me apresentar?",
         "fr": "J'ai demandé une assistance pour me déplacer dans l'aéroport ; où dois-je me présenter ?",
         "it": "Ho richiesto assistenza per spostarmi in aeroporto; dove devo presentarmi?",
-        "de": "Ich habe Hilfe für den Weg durch den Flughafen angefordert. Wo soll ich mich melden?"
+        "de": "Ich habe Hilfe für den Weg durch den Flughafen angefragt. Wo soll ich mich melden?"
       },
       "image_url": ""
     },
@@ -516,7 +513,7 @@
         "pt": "Pode conferir se meu nome corresponde ao da reserva?",
         "fr": "Pouvez-vous vérifier que mon nom correspond à celui de la réservation ?",
         "it": "Può controllare che il mio nome corrisponda a quello della prenotazione?",
-        "de": "Können Sie überprüfen, ob mein Name mit dem Namen auf der Buchung übereinstimmt?"
+        "de": "Können Sie prüfen, ob mein Name mit dem Namen in der Buchung übereinstimmt?"
       },
       "image_url": "",
       "notes": {
@@ -527,10 +524,10 @@
     },
     {
       "id": "ava_038",
-      "es": "Aquí tiene los documentos que me solicitaron para el viaje.",
+      "es": "Aquí tiene los documentos que me pidió para el viaje.",
       "translations": {
         "en": "Here are the documents you requested for my trip.",
-        "pt": "Aqui estão os documentos que solicitaram para a viagem.",
+        "pt": "Aqui estão os documentos que você me pediu para a viagem.",
         "fr": "Voici les documents que vous m'avez demandés pour le voyage.",
         "it": "Ecco i documenti che mi ha chiesto per il viaggio.",
         "de": "Hier sind die Unterlagen, um die Sie mich für die Reise gebeten haben."
@@ -548,8 +545,8 @@
       "translations": {
         "en": "What time does bag drop close?",
         "pt": "A que horas encerra o despacho de bagagem?",
-        "fr": "À quelle heure ferme la dépose des bagages ?",
-        "it": "A che ora chiude la consegna bagagli?",
+        "fr": "À quelle heure ferme le dépôt des bagages ?",
+        "it": "A che ora chiude il banco per la consegna dei bagagli da stiva?",
         "de": "Um wie viel Uhr schließt die Gepäckabgabe?"
       },
       "image_url": ""
@@ -574,13 +571,13 @@
     },
     {
       "id": "ava_041",
-      "es": "Conserve este comprobante hasta recibir su equipaje.",
+      "es": "Conserve este comprobante hasta recoger su equipaje.",
       "translations": {
-        "en": "Keep this receipt until you receive your baggage.",
-        "pt": "Guarde este comprovante até receber sua bagagem.",
+        "en": "Keep this receipt until you pick up your baggage.",
+        "pt": "Guarde este comprovante até retirar sua bagagem.",
         "fr": "Gardez ce reçu jusqu'à la récupération de vos bagages.",
         "it": "Conservi questa ricevuta fino al ritiro del bagaglio.",
-        "de": "Bewahren Sie diesen Beleg auf, bis Sie Ihr Gepäck bekommen haben."
+        "de": "Bewahren Sie diesen Beleg auf, bis Sie Ihr Gepäck abgeholt haben."
       },
       "image_url": "",
       "notes": {
@@ -595,7 +592,7 @@
       "es": "¿Usted preparó su equipaje y conoce todo su contenido?",
       "translations": {
         "en": "Did you pack your own baggage, and do you know everything that's in it?",
-        "pt": "Você preparou sua bagagem e conhece todo o conteúdo?",
+        "pt": "Você mesmo preparou sua bagagem e sabe tudo o que tem nela? / Você mesma preparou sua bagagem e sabe tudo o que tem nela?",
         "fr": "Avez-vous préparé vos bagages vous-même et connaissez-vous tout leur contenu ?",
         "it": "Ha preparato personalmente il bagaglio e conosce tutto il contenuto?",
         "de": "Haben Sie Ihr Gepäck selbst gepackt und wissen Sie, was alles darin ist?"
@@ -628,7 +625,7 @@
         "pt": "Está levando algum objeto que outra pessoa pediu para transportar?",
         "fr": "Transportez-vous un objet qu'une autre personne vous a demandé d'emporter ?",
         "it": "Porta qualche oggetto che un'altra persona le ha chiesto di trasportare?",
-        "de": "Hat Sie jemand gebeten, etwas für ihn mitzunehmen, das Sie jetzt dabeihaben?"
+        "de": "Haben Sie etwas dabei, das Sie für jemand anderen mitnehmen sollen?"
       },
       "image_url": "",
       "notes": {
@@ -643,7 +640,7 @@
         "pt": "Sim, levo um livro que minha irmã pediu para trazer; aqui está.",
         "fr": "Oui, j'ai un livre que ma sœur m'a demandé d'apporter ; le voici.",
         "it": "Sì, porto un libro che mia sorella mi ha chiesto di portare; eccolo.",
-        "de": "Ja, meine Schwester hat mich gebeten, dieses Buch mitzubringen. Hier ist es."
+        "de": "Ja, ich habe ein Buch dabei, das ich für meine Schwester mitbringen soll. Hier ist es."
       },
       "image_url": "",
       "notes": {
@@ -663,8 +660,8 @@
       "image_url": "",
       "examples": {
         "en": {
-          "text": "Very few people were waiting for airport security screening.",
-          "es": "Había poca gente esperando para pasar el control de seguridad del aeropuerto."
+          "text": "The line for airport security screening was short.",
+          "es": "La fila para el control de seguridad del aeropuerto era corta."
         },
         "pt": {
           "text": "Tinha pouca gente na inspeção de segurança do aeroporto.",
@@ -718,7 +715,7 @@
       "id": "ava_044",
       "es": "¿Puedo llevar estos líquidos en el equipaje de mano?",
       "translations": {
-        "en": "Can I take these liquids through security in my carry-on?",
+        "en": "Can I bring these liquids in my carry-on?",
         "pt": "Posso levar estes líquidos na bagagem de mão?",
         "fr": "Est-ce que je peux emporter ces liquides dans mon bagage cabine ?",
         "it": "Posso portare questi liquidi nel bagaglio a mano?",
@@ -761,7 +758,7 @@
         "pt": "Preciso tirar os sapatos e o cinto?",
         "fr": "Je dois enlever mes chaussures et ma ceinture ?",
         "it": "Devo togliere le scarpe e la cintura?",
-        "de": "Muss ich die Schuhe und den Gürtel ausziehen?"
+        "de": "Muss ich die Schuhe ausziehen und den Gürtel abnehmen?"
       },
       "image_url": ""
     },
@@ -782,7 +779,7 @@
       "es": "Mi mochila quedó del otro lado; ¿puedo recogerla?",
       "translations": {
         "en": "My backpack is on the other side. Can I pick it up?",
-        "pt": "Minha mochila ficou do outro lado. Posso pegá-la?",
+        "pt": "Minha mochila ficou do outro lado. Posso buscar?",
         "fr": "Mon sac à dos est de l'autre côté ; je peux le récupérer ?",
         "it": "Il mio zaino è dall'altra parte; posso prenderlo?",
         "de": "Mein Rucksack ist noch auf der anderen Seite. Darf ich ihn holen?"
@@ -806,7 +803,7 @@
       "es": "Vacíe sus bolsillos y ponga sus cosas en la charola.",
       "translations": {
         "en": "Empty your pockets and place your items in the bin.",
-        "pt": "Esvazie os bolsos e coloque seus objetos na bandeja.",
+        "pt": "Esvazie os bolsos e coloque seus pertences na bandeja.",
         "fr": "Videz vos poches et mettez vos objets dans le bac.",
         "it": "Svuoti le tasche e metta gli oggetti nella vaschetta.",
         "de": "Leeren Sie Ihre Taschen und legen Sie Ihre Sachen in die Schale."
@@ -854,7 +851,7 @@
         "pt": "O portão de embarque",
         "fr": "La porte d'embarquement",
         "it": "Il gate d'imbarco",
-        "de": "Das Abfluggate"
+        "de": "Das Gate"
       },
       "image_url": "",
       "examples": {
@@ -875,7 +872,7 @@
           "es": "La puerta de embarque cambió hace unos minutos."
         },
         "de": {
-          "text": "Das Abfluggate hat sich vor ein paar Minuten geändert.",
+          "text": "Das Gate hat sich vor ein paar Minuten geändert.",
           "es": "La puerta de embarque cambió hace unos minutos."
         }
       },
@@ -884,17 +881,17 @@
         "pt": "(Plural: Os portões de embarque)",
         "fr": "(Plural: Les portes d'embarquement)",
         "it": "(Plural: I gate d'imbarco)",
-        "de": "(Plural: Die Abfluggates)"
+        "de": "(Plural: Die Gates) También «das Abfluggate»."
       }
     },
     {
       "id": "ava_143",
-      "es": "¿Dónde puedo revisar cuál es la puerta de embarque actual?",
+      "es": "¿Dónde puedo consultar cuál es la puerta de embarque asignada a mi vuelo?",
       "translations": {
         "en": "Where can I check which gate is currently assigned to my flight?",
-        "pt": "Onde posso conferir qual é o portão de embarque atual do meu voo?",
+        "pt": "Onde posso conferir qual é o portão de embarque indicado para o meu voo?",
         "fr": "Où puis-je vérifier quelle porte est actuellement indiquée pour mon vol ?",
-        "it": "Dove posso controllare qual è il gate d'imbarco attuale del mio volo?",
+        "it": "Dove posso controllare qual è il gate assegnato al mio volo?",
         "de": "Wo kann ich nachsehen, welches Gate aktuell für meinen Flug angezeigt wird?"
       },
       "image_url": ""
@@ -954,7 +951,7 @@
       "id": "ava_153",
       "es": "Muestre su pase de abordar y su documento de viaje.",
       "translations": {
-        "en": "Show your boarding pass and travel document.",
+        "en": "Please show your boarding pass and travel document.",
         "pt": "Mostre seu cartão de embarque e seu documento de viagem.",
         "fr": "Présentez votre carte d'embarquement et votre document de voyage.",
         "it": "Mostri la carta d'imbarco e il documento di viaggio.",
@@ -1011,7 +1008,7 @@
         "en": "Final boarding call for the flight to Paris",
         "pt": "Última chamada para o voo com destino a Paris",
         "fr": "Dernier appel pour le vol à destination de Paris",
-        "it": "Ultima chiamata per il volo per Parigi",
+        "it": "Ultima chiamata per il volo diretto a Parigi",
         "de": "Letzter Aufruf für den Flug nach Paris"
       },
       "image_url": "",
@@ -1032,7 +1029,7 @@
           "es": "Estábamos tomando café cuando oímos «Última llamada para el vuelo a París»."
         },
         "it": {
-          "text": "Stavamo prendendo un caffè quando abbiamo sentito «Ultima chiamata per il volo per Parigi».",
+          "text": "Stavamo prendendo un caffè quando abbiamo sentito «Ultima chiamata per il volo diretto a Parigi».",
           "es": "Estábamos tomando café cuando oímos «Última llamada para el vuelo a París»."
         },
         "de": {
@@ -1042,6 +1039,18 @@
       }
     },
     {
+      "id": "ava_196",
+      "es": "Mi reservación aparece, pero no tengo asiento asignado. ¿Qué significa?",
+      "translations": {
+        "en": "I can see my reservation, but I haven't been assigned a seat. What does that mean?",
+        "pt": "Minha reserva aparece, mas ainda não me atribuíram um assento. O que isso significa?",
+        "fr": "Je vois ma réservation, mais je n'ai pas de siège attribué. Qu'est-ce que ça veut dire ?",
+        "it": "La mia prenotazione compare, ma non ho un posto assegnato; che cosa significa?",
+        "de": "Meine Buchung wird angezeigt, aber mir wurde kein Sitzplatz zugeteilt. Was bedeutet das?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "ava_149",
       "es": "¿El asiento que aparece aquí es el definitivo?",
       "translations": {
@@ -1049,7 +1058,7 @@
         "pt": "O assento que aparece aqui é o definitivo?",
         "fr": "Le siège indiqué ici est définitif ?",
         "it": "Il posto indicato qui è quello definitivo?",
-        "de": "Ist der Sitzplatz, der hier angezeigt wird, endgültig?"
+        "de": "Ist das hier schon mein endgültiger Sitzplatz?"
       },
       "image_url": ""
     },
@@ -1059,7 +1068,7 @@
       "translations": {
         "en": "This flight is full. We're going to check some carry-on bags.",
         "pt": "Este voo está lotado; vamos despachar algumas malas de mão.",
-        "fr": "Ce vol est complet ; nous allons enregistrer certains bagages cabine en soute.",
+        "fr": "Ce vol est complet ; nous allons placer certains bagages cabine en soute.",
         "it": "Questo volo è al completo. Metteremo in stiva alcuni bagagli a mano.",
         "de": "Dieser Flug ist voll. Einige Handgepäckstücke müssen mit in den Frachtraum."
       },
@@ -1076,7 +1085,7 @@
         "pt": "Preciso despachar minha mala de mão no portão de embarque?",
         "fr": "Dois-je faire enregistrer mon bagage cabine à la porte d'embarquement ?",
         "it": "Devo consegnare al gate il mio bagaglio a mano perché vada in stiva?",
-        "de": "Muss ich meinen Handgepäckkoffer am Gate abgeben?"
+        "de": "Muss ich meinen Handgepäckkoffer am Gate als Aufgabegepäck abgeben?"
       },
       "image_url": "",
       "notes": {
@@ -1109,7 +1118,7 @@
     },
     {
       "id": "ava_158",
-      "es": "¿Esta es la fila que aparece en mi pase de abordar?",
+      "es": "¿Esta es la fila de asientos que aparece en mi pase de abordar?",
       "translations": {
         "en": "Is this the row shown on my boarding pass?",
         "pt": "Esta fileira corresponde ao número que aparece no meu cartão de embarque?",
@@ -1117,7 +1126,10 @@
         "it": "Questa fila corrisponde al numero sulla mia carta d'imbarco?",
         "de": "Ist das die Sitzreihe, die auf meiner Bordkarte steht?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Se refiere a una fila de asientos, no a la fila de personas para abordar)"
+      }
     },
     {
       "id": "ava_159",
@@ -1152,18 +1164,6 @@
         "fr": "Pouvez-vous m'aider à ranger mes bagages sans bloquer le passage ?",
         "it": "Può aiutarmi a sistemare il bagaglio senza bloccare il corridoio?",
         "de": "Können Sie mir helfen, das Gepäck zu verstauen, ohne den Gang zu versperren?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ava_162",
-      "es": "No escuché el anuncio sobre mi conexión. ¿Puede decirme qué dijeron?",
-      "translations": {
-        "en": "I didn't hear the announcement about my connection. Can you tell me what they said?",
-        "pt": "Não ouvi o anúncio sobre a minha conexão. Pode me dizer o que anunciaram?",
-        "fr": "Je n'ai pas entendu l'annonce sur ma correspondance. Pouvez-vous me dire ce qui a été annoncé ?",
-        "it": "Non ho sentito l'annuncio sulla mia coincidenza. Può dirmi che cosa hanno detto?",
-        "de": "Ich habe die Durchsage zu meinem Anschluss nicht gehört. Können Sie mir sagen, was gesagt wurde?"
       },
       "image_url": ""
     }
