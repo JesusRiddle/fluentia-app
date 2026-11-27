@@ -9,6 +9,8 @@ const STORAGE_KEY = "fluentia_home_navigation";
 const normalize = (text) =>
     text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
+const categoryName = (entry, level) => entry?.titlesByLevel?.[level] ?? entry?.title;
+
 function initialNavigation() {
     try {
         const saved = JSON.parse(sessionStorage.getItem(STORAGE_KEY));
@@ -53,12 +55,11 @@ export default function Home({ onSelectModule }) {
 
     const matchingModules = searching
         ? MODULES.filter((item) => {
-            const categoryTitle = CATEGORIES.find(
-                (entry) => entry.id === item.category
-            )?.title ?? "";
+            const entry = CATEGORIES.find((category) => category.id === item.category);
+            const categoryTitle = categoryName(entry, item.level) ?? "";
 
             return normalize(
-                `${item.title} ${item.description} ${item.level} ${categoryTitle}`
+                `${item.title} ${item.description} ${item.level} ${categoryTitle} ${entry?.title ?? ""}`
             ).includes(search);
         })
         : levelModules.filter((item) => item.category === category);
@@ -177,7 +178,7 @@ export default function Home({ onSelectModule }) {
                         : `${level} — ${selectedLevel.title}`}
                     {!searching && selectedCategory && (
                         <span className="home-category-label">
-                            {" / "}{selectedCategory.title}
+                            {" / "}{categoryName(selectedCategory, level)}
                         </span>
                     )}
                 </h3>
@@ -227,7 +228,7 @@ export default function Home({ onSelectModule }) {
                                     <span className="home-category-icon" aria-hidden="true">
                                         {item.icon}
                                     </span>
-                                    <strong>{item.title}</strong>
+                                    <strong>{categoryName(item, level)}</strong>
                                     <span className="home-muted">
                                         {topics.length} {topics.length === 1 ? "tema" : "temas"}
                                         {" · "}{availableCount} disponibles
@@ -244,9 +245,8 @@ export default function Home({ onSelectModule }) {
             ) : displayedModules.length > 0 ? (
                 <div className="home-topics">
                     {displayedModules.map((item) => {
-                        const categoryTitle = CATEGORIES.find(
-                            (entry) => entry.id === item.category
-                        )?.title;
+                        const entry = CATEGORIES.find((category) => category.id === item.category);
+                        const categoryTitle = categoryName(entry, item.level);
 
                         return (
                             <article key={item.id} className="home-topic">
@@ -279,7 +279,7 @@ export default function Home({ onSelectModule }) {
                                         className="secondary-btn"
                                         disabled={!item.available}
                                         aria-label={`Flashcards: ${item.title}`}
-                                        onClick={() => onSelectModule(item.file, "study")}
+                                        onClick={() => onSelectModule(item, "study")}
                                     >
                                         <span className="home-action-icon" aria-hidden="true">📚</span>
                                         <span>Flashcards</span>
@@ -290,7 +290,7 @@ export default function Home({ onSelectModule }) {
                                         className="secondary-btn"
                                         disabled={!item.available}
                                         aria-label={`Práctica: ${item.title}`}
-                                        onClick={() => onSelectModule(item.file, "practice")}
+                                        onClick={() => onSelectModule(item, "practice")}
                                     >
                                         <span className="home-action-icon" aria-hidden="true">🎮</span>
                                         <span>Práctica</span>
