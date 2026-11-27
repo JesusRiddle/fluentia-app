@@ -1,0 +1,770 @@
+{
+  "module": "Envíos y paquetería",
+  "level": "A2",
+  "revisado": true,
+  "cards": [
+    {
+      "id": "seg_002",
+      "es": "El remitente",
+      "translations": {
+        "en": "The sender",
+        "pt": "O remetente",
+        "fr": "L'expéditeur",
+        "it": "Il mittente",
+        "de": "Der Absender"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The sender wrote their address on the envelope.",
+          "es": "El remitente escribió su dirección en el sobre."
+        },
+        "pt": {
+          "text": "O remetente escreveu seu endereço no envelope.",
+          "es": "El remitente escribió su dirección en el sobre."
+        },
+        "fr": {
+          "text": "L'expéditeur a écrit son adresse sur l'enveloppe.",
+          "es": "El remitente escribió su dirección en el sobre."
+        },
+        "it": {
+          "text": "Il mittente ha scritto il suo indirizzo sulla busta.",
+          "es": "El remitente escribió su dirección en el sobre."
+        },
+        "de": {
+          "text": "Der Absender hat seine Adresse auf den Umschlag geschrieben.",
+          "es": "El remitente escribió su dirección en el sobre."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The senders)",
+        "pt": "(Plural: Os remetentes) Forma femenina: «a remetente».",
+        "fr": "(Plural: Les expéditeurs) Forma femenina: «l'expéditrice».",
+        "it": "(Plural: I mittenti) Forma femenina: «la mittente».",
+        "de": "(Plural: Die Absender) Forma femenina: «die Absenderin».",
+        "es": "Forma femenina: «la remitente»."
+      }
+    },
+    {
+      "id": "seg_003",
+      "es": "El destinatario",
+      "translations": {
+        "en": "The recipient",
+        "pt": "O destinatário",
+        "fr": "Le destinataire",
+        "it": "Il destinatario",
+        "de": "Der Empfänger"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The recipient signed for the box.",
+          "es": "El destinatario firmó al recibir la caja."
+        },
+        "pt": {
+          "text": "O destinatário assinou ao receber a caixa.",
+          "es": "El destinatario firmó al recibir la caja."
+        },
+        "fr": {
+          "text": "Le destinataire a signé à la réception du colis.",
+          "es": "El destinatario firmó al recibir el paquete."
+        },
+        "it": {
+          "text": "Il destinatario ha firmato quando ha ricevuto la scatola.",
+          "es": "El destinatario firmó al recibir la caja."
+        },
+        "de": {
+          "text": "Der Empfänger hat bei der Übergabe des Pakets unterschrieben.",
+          "es": "El destinatario firmó al recibir el paquete."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The recipients)",
+        "pt": "(Plural: Os destinatários) Forma femenina: «a destinatária».",
+        "fr": "(Plural: Les destinataires) Forma femenina: «la destinataire».",
+        "it": "(Plural: I destinatari) Forma femenina: «la destinataria».",
+        "de": "(Plural: Die Empfänger) Forma femenina: «die Empfängerin».",
+        "es": "Forma femenina: «la destinataria»."
+      }
+    },
+    {
+      "id": "seg_004",
+      "es": "El franqueo",
+      "translations": {
+        "en": "Postage",
+        "pt": "O valor da postagem",
+        "fr": "Les frais d'affranchissement",
+        "it": "Le spese di affrancatura",
+        "de": "Das Porto"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I've already paid the postage for this letter.",
+          "es": "Ya pagué el franqueo de esta carta."
+        },
+        "pt": {
+          "text": "Já paguei o valor da postagem desta carta.",
+          "es": "Ya pagué el franqueo de esta carta."
+        },
+        "fr": {
+          "text": "J'ai déjà payé les frais d'affranchissement de cette lettre.",
+          "es": "Ya pagué el franqueo de esta carta."
+        },
+        "it": {
+          "text": "Ho già pagato le spese di affrancatura di questa lettera.",
+          "es": "Ya pagué el franqueo de esta carta."
+        },
+        "de": {
+          "text": "Ich habe das Porto für diesen Brief schon bezahlt.",
+          "es": "Ya pagué el franqueo de esta carta."
+        }
+      },
+      "notes": {
+        "es": "Es el importe que se paga para enviar algo por correo."
+      }
+    },
+    {
+      "id": "seg_005",
+      "es": "El número de guía / El número de seguimiento del envío",
+      "translations": {
+        "en": "The tracking number",
+        "pt": "O código de rastreamento",
+        "fr": "Le numéro de suivi",
+        "it": "Il numero di tracciamento",
+        "de": "Die Sendungsnummer"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "The tracking number is on the receipt.",
+          "es": "El número de guía aparece en el comprobante."
+        },
+        "pt": {
+          "text": "O código de rastreamento aparece no comprovante.",
+          "es": "El número de guía aparece en el comprobante."
+        },
+        "fr": {
+          "text": "Le numéro de suivi figure sur le reçu.",
+          "es": "El número de guía aparece en el comprobante."
+        },
+        "it": {
+          "text": "Il numero di tracciamento è sulla ricevuta.",
+          "es": "El número de guía aparece en el comprobante."
+        },
+        "de": {
+          "text": "Die Sendungsnummer steht auf dem Beleg.",
+          "es": "El número de guía aparece en el comprobante."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The tracking numbers)",
+        "pt": "(Plural: Os códigos de rastreamento)",
+        "fr": "(Plural: Les numéros de suivi)",
+        "it": "(Plural: I numeri di tracciamento)",
+        "de": "(Plural: Die Sendungsnummern)",
+        "es": "(Ambos nombres identifican el envío para rastrearlo)"
+      }
+    },
+    {
+      "id": "seg_006",
+      "es": "El aviso de intento de entrega",
+      "translations": {
+        "en": "The delivery attempt notice",
+        "pt": "O aviso de tentativa de entrega",
+        "fr": "L'avis de passage",
+        "it": "L'avviso di tentata consegna",
+        "de": "Die Benachrichtigung über einen Zustellversuch"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I found a delivery attempt notice in the mailbox.",
+          "es": "Encontré un aviso de intento de entrega en el buzón."
+        },
+        "pt": {
+          "text": "Encontrei um aviso de tentativa de entrega na caixa de correio.",
+          "es": "Encontré un aviso de intento de entrega en el buzón."
+        },
+        "fr": {
+          "text": "J'ai trouvé un avis de passage dans la boîte aux lettres.",
+          "es": "Encontré un aviso de intento de entrega en el buzón."
+        },
+        "it": {
+          "text": "Ho trovato un avviso di tentata consegna nella cassetta della posta.",
+          "es": "Encontré un aviso de intento de entrega en el buzón."
+        },
+        "de": {
+          "text": "Ich habe im Briefkasten eine Benachrichtigung über einen Zustellversuch gefunden.",
+          "es": "Encontré un aviso de intento de entrega en el buzón."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The delivery attempt notices)",
+        "pt": "(Plural: Os avisos de tentativa de entrega)",
+        "fr": "(Plural: Les avis de passage)",
+        "it": "(Plural: Gli avvisi di tentata consegna)",
+        "de": "(Plural: Die Benachrichtigungen über die Zustellversuche)",
+        "es": "Avisa que se intentó entregar el envío, no que ya se entregó."
+      }
+    },
+    {
+      "id": "seg_007",
+      "es": "La recolección de un paquete a domicilio",
+      "translations": {
+        "en": "The package pickup from home",
+        "pt": "A coleta de pacote em domicílio",
+        "fr": "L'enlèvement d'un colis à domicile",
+        "it": "Il ritiro di un pacco a domicilio",
+        "de": "Die Paketabholung zu Hause"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I scheduled a package pickup from home for tomorrow.",
+          "es": "Programé la recolección de un paquete a domicilio para mañana."
+        },
+        "pt": {
+          "text": "Agendei a coleta de um pacote em domicílio para amanhã.",
+          "es": "Programé la recolección de un paquete a domicilio para mañana."
+        },
+        "fr": {
+          "text": "J'ai prévu l'enlèvement d'un colis à domicile pour demain.",
+          "es": "Programé la recolección de un paquete a domicilio para mañana."
+        },
+        "it": {
+          "text": "Ho prenotato il ritiro di un pacco a domicilio per domani.",
+          "es": "Programé la recolección de un paquete a domicilio para mañana."
+        },
+        "de": {
+          "text": "Ich habe die Paketabholung bei mir zu Hause für morgen vereinbart.",
+          "es": "Programé la recolección de un paquete a domicilio para mañana."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The package pickups from home)",
+        "pt": "(Plural: As coletas de pacotes em domicílio)",
+        "fr": "(Plural: Les enlèvements de colis à domicile)",
+        "it": "(Plural: I ritiri di pacchi a domicilio)",
+        "de": "(Plural: Die Paketabholungen zu Hause)",
+        "es": "(La paquetería recoge el paquete en tu domicilio para enviarlo; no es una entrega)"
+      }
+    },
+    {
+      "id": "seg_010",
+      "es": "Quisiera enviar este paquete a otra ciudad.",
+      "translations": {
+        "en": "I'd like to send this package to another city.",
+        "pt": "Gostaria de enviar este pacote para outra cidade.",
+        "fr": "Je voudrais envoyer ce colis dans une autre ville.",
+        "it": "Vorrei spedire questo pacco in un'altra città.",
+        "de": "Ich möchte dieses Paket in eine andere Stadt schicken."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_011",
+      "es": "¿Este punto acepta paquetes para enviar o solo permite recogerlos?",
+      "translations": {
+        "en": "Does this location accept outgoing packages, or is it only for pickup?",
+        "pt": "Este ponto recebe pacotes para envio ou serve apenas para retirada?",
+        "fr": "Ce point accepte les colis à envoyer ou sert seulement au retrait ?",
+        "it": "Questo punto accetta pacchi da spedire o serve solo per il ritiro?",
+        "de": "Kann ich hier auch Pakete zum Versand abgeben oder nur abholen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_012",
+      "es": "¿Puedo enviar esta carta con seguimiento?",
+      "translations": {
+        "en": "Can I send this letter with tracking?",
+        "pt": "Posso enviar esta carta com rastreamento?",
+        "fr": "Je peux envoyer cette lettre avec un suivi ?",
+        "it": "Posso spedire questa lettera con tracciamento?",
+        "de": "Kann ich diesen Brief mit Sendungsverfolgung verschicken?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_113",
+      "es": "Este punto de entrega no acepta ese tipo de envío. Tiene que ir a la oficina indicada.",
+      "translations": {
+        "en": "This drop-off point doesn't accept that type of shipment. You'll need to go to the specified office.",
+        "pt": "Este ponto de postagem não aceita esse tipo de envio. Você precisa ir à agência indicada.",
+        "fr": "Ce point de dépôt n'accepte pas ce type d'envoi. Vous devez vous rendre au bureau indiqué.",
+        "it": "Questo punto di consegna non accetta quel tipo di spedizione. Deve rivolgersi all'ufficio indicato.",
+        "de": "Diese Annahmestelle nimmt solche Sendungen nicht an. Bitte gehen Sie zu der angegebenen Filiale."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
+    },
+    {
+      "id": "seg_013",
+      "es": "¿Qué opción tienen para que llegue antes del viernes?",
+      "translations": {
+        "en": "What shipping option will get the package there before Friday?",
+        "pt": "Que opção vocês oferecem para o pacote chegar antes de sexta-feira?",
+        "fr": "Quelle option proposez-vous pour que le colis arrive avant vendredi ?",
+        "it": "Quale opzione avete per far arrivare il pacco prima di venerdì?",
+        "de": "Welche Versandoption gibt es, damit es noch vor Freitag ankommt?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_014",
+      "es": "¿La fecha de entrega es garantizada o solo estimada?",
+      "translations": {
+        "en": "Is the delivery date guaranteed or just estimated?",
+        "pt": "A data de entrega é garantida ou apenas estimada?",
+        "fr": "La date de livraison est garantie ou seulement estimée ?",
+        "it": "La data di consegna è garantita o solo stimata?",
+        "de": "Ist das Lieferdatum garantiert oder nur geschätzt?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_015",
+      "es": "¿El plazo del envío se cuenta desde hoy o desde que recogen el paquete?",
+      "translations": {
+        "en": "Is the delivery time calculated from today or from when the package is picked up?",
+        "pt": "O prazo do envio conta a partir de hoje ou da coleta do pacote?",
+        "fr": "Le délai de livraison commence aujourd'hui ou au moment de l'enlèvement du colis ?",
+        "it": "Da quando si calcolano i tempi di consegna: da oggi o dal ritiro del pacco?",
+        "de": "Rechnet man die Lieferzeit ab heute oder erst ab der Abholung des Pakets?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_016",
+      "es": "¿Los fines de semana cuentan dentro del plazo de entrega?",
+      "translations": {
+        "en": "Do weekends count toward the delivery time?",
+        "pt": "Os fins de semana contam no prazo de entrega?",
+        "fr": "Les week-ends sont compris dans le délai de livraison ?",
+        "it": "I fine settimana contano nel tempo di consegna?",
+        "de": "Zählen Wochenenden bei der Lieferzeit mit?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_017",
+      "es": "¿El precio depende del peso, del tamaño o de ambos?",
+      "translations": {
+        "en": "Does the price depend on weight, size, or both?",
+        "pt": "O preço depende do peso, do tamanho ou dos dois?",
+        "fr": "Le prix dépend du poids, des dimensions ou des deux ?",
+        "it": "Il prezzo dipende dal peso, dalle dimensioni o da entrambi?",
+        "de": "Hängt der Preis vom Gewicht, von der Größe oder von beidem ab?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_018",
+      "es": "¿El empaque está incluido o debo comprar una caja aparte?",
+      "translations": {
+        "en": "Is packaging included, or do I need to buy a box separately?",
+        "pt": "A embalagem está incluída ou preciso comprar uma caixa à parte?",
+        "fr": "L'emballage est inclus ou je dois acheter une boîte à part ?",
+        "it": "L'imballaggio è incluso o devo comprare una scatola a parte?",
+        "de": "Ist die Verpackung inbegriffen oder muss ich extra einen Karton kaufen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_019",
+      "es": "¿Pueden ayudarme a empacar este objeto para que no se rompa?",
+      "translations": {
+        "en": "Can you help me pack this item so it doesn't break?",
+        "pt": "Podem me ajudar a embalar este objeto para que ele não quebre?",
+        "fr": "Pouvez-vous m'aider à emballer cet objet pour qu'il ne se casse pas ?",
+        "it": "Potete aiutarmi a imballare questo oggetto per evitare che si rompa?",
+        "de": "Können Sie mir helfen, diesen Gegenstand so zu verpacken, dass er nicht kaputtgeht?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_020",
+      "es": "El contenido es frágil; ¿hay una forma de indicarlo en el paquete?",
+      "translations": {
+        "en": "The contents are fragile. Is there a way to indicate that on the package?",
+        "pt": "O conteúdo é frágil; dá para indicar isso no pacote?",
+        "fr": "Le contenu est fragile ; on peut l'indiquer sur le colis ?",
+        "it": "Il contenuto è fragile. C'è un modo per indicarlo sul pacco?",
+        "de": "Der Inhalt ist zerbrechlich. Kann ich das auf dem Paket vermerken?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_021",
+      "es": "¿Hay productos que no aceptan para este tipo de envío?",
+      "translations": {
+        "en": "Are there products you don't accept for this type of shipment?",
+        "pt": "Há produtos que vocês não aceitam para este tipo de envio?",
+        "fr": "Il y a des produits que vous n'acceptez pas pour ce type d'envoi ?",
+        "it": "Ci sono prodotti che non accettate per questo tipo di spedizione?",
+        "de": "Gibt es Waren, die Sie für diese Versandart nicht annehmen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_022",
+      "es": "¿Debo describir el contenido antes de cerrar la caja?",
+      "translations": {
+        "en": "Do I need to describe the contents before sealing the box?",
+        "pt": "Preciso descrever o conteúdo antes de fechar a caixa?",
+        "fr": "Je dois décrire le contenu avant de fermer la boîte ?",
+        "it": "Devo descrivere il contenuto prima di chiudere la scatola?",
+        "de": "Muss ich den Inhalt beschreiben, bevor ich den Karton verschließe?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_023",
+      "es": "¿Este envío al extranjero necesita una declaración de contenido?",
+      "translations": {
+        "en": "Does this international shipment need a contents declaration?",
+        "pt": "Este envio para o exterior precisa de uma declaração de conteúdo?",
+        "fr": "Cet envoi à l'étranger nécessite-t-il une déclaration de contenu ?",
+        "it": "Questa spedizione all'estero richiede una dichiarazione del contenuto?",
+        "de": "Brauche ich für diese Sendung ins Ausland eine Erklärung zum Inhalt?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_024",
+      "es": "¿El precio incluye todos los cargos o el destinatario podría pagar algo al recibirlo?",
+      "translations": {
+        "en": "Does the price include all charges, or might the recipient have to pay something on delivery?",
+        "pt": "O preço inclui todas as taxas ou o destinatário pode ter que pagar algo ao receber?",
+        "fr": "Le prix comprend tous les frais ou le destinataire pourrait devoir payer quelque chose à la réception ?",
+        "it": "Il prezzo include tutti i costi o il destinatario potrebbe pagare qualcosa al ricevimento?",
+        "de": "Sind alle Gebühren im Preis enthalten oder muss der Empfänger bei der Zustellung eventuell noch etwas bezahlen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_025",
+      "es": "¿Puedo añadir protección por pérdida o daño? ¿Qué cubre?",
+      "translations": {
+        "en": "Can I add coverage for loss or damage? What does it cover?",
+        "pt": "Posso acrescentar cobertura por perda ou dano? O que ela cobre?",
+        "fr": "Je peux ajouter une couverture en cas de perte ou de dommage ? Que couvre-t-elle ?",
+        "it": "Posso aggiungere una copertura per perdita o danni? Che cosa copre?",
+        "de": "Kann ich die Sendung zusätzlich gegen Verlust oder Beschädigung absichern? Was ist abgedeckt?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_026",
+      "es": "¿Dónde escribo la dirección del remitente y la del destinatario?",
+      "translations": {
+        "en": "Where do I write the sender's and recipient's addresses?",
+        "pt": "Onde escrevo os endereços do remetente e do destinatário?",
+        "fr": "Où dois-je écrire les adresses de l'expéditeur et du destinataire ?",
+        "it": "Dove scrivo l'indirizzo del mittente e quello del destinatario?",
+        "de": "Wo schreibe ich die Adressen des Absenders und des Empfängers hin?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_027",
+      "es": "La dirección incluye edificio, piso y departamento; ¿debo ponerlos todos?",
+      "translations": {
+        "en": "The address includes a building, a floor, and an apartment number. Should I include all three?",
+        "pt": "O endereço tem o prédio, o andar e o número do apartamento; preciso informar os três?",
+        "fr": "L'adresse comprend le bâtiment, l'étage et l'appartement ; je dois tout indiquer ?",
+        "it": "L'indirizzo comprende edificio, piano e appartamento; devo indicare tutto?",
+        "de": "Die Adresse enthält Gebäude, Stockwerk und Wohnungsnummer. Muss ich alles angeben?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_028",
+      "es": "¿Necesitan el teléfono del destinatario para hacer la entrega?",
+      "translations": {
+        "en": "Do you need the recipient's phone number for delivery?",
+        "pt": "Precisam do telefone do destinatário para fazer a entrega?",
+        "fr": "Vous avez besoin du numéro de téléphone du destinataire pour la livraison ?",
+        "it": "Vi serve il numero di telefono del destinatario per la consegna?",
+        "de": "Brauchen Sie die Telefonnummer des Empfängers für die Zustellung?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_029",
+      "es": "Antes de enviarlo, quiero comprobar que la etiqueta tiene la dirección correcta.",
+      "translations": {
+        "en": "Before sending it, I want to check that the label has the correct address.",
+        "pt": "Antes de enviar, quero conferir se a etiqueta tem o endereço correto.",
+        "fr": "Avant l'envoi, je veux vérifier que l'étiquette porte la bonne adresse.",
+        "it": "Prima di spedirlo, voglio controllare che l'etichetta abbia l'indirizzo corretto.",
+        "de": "Bevor ich das Paket abschicke, möchte ich prüfen, ob die richtige Adresse auf dem Etikett steht."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_030",
+      "es": "¿La entrega requiere la firma de quien recibe el paquete?",
+      "translations": {
+        "en": "Does the person who receives the package need to sign for it?",
+        "pt": "A entrega exige a assinatura de quem recebe o pacote?",
+        "fr": "La livraison nécessite la signature de la personne qui reçoit le colis ?",
+        "it": "La consegna richiede la firma di chi riceve il pacco?",
+        "de": "Muss die Person unterschreiben, die das Paket entgegennimmt?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_031",
+      "es": "¿Puedo dejar el paquete aquí hoy aunque la etiqueta indique otra fecha?",
+      "translations": {
+        "en": "Can I drop off the package here today even if the label shows another date?",
+        "pt": "Posso deixar o pacote aqui hoje mesmo que a etiqueta indique outra data?",
+        "fr": "Je peux déposer le colis ici aujourd'hui même si l'étiquette indique une autre date ?",
+        "it": "Posso lasciare il pacco qui oggi anche se l'etichetta indica un'altra data?",
+        "de": "Kann ich das Paket heute hier abgeben, obwohl auf dem Etikett ein anderes Datum steht?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_032",
+      "es": "Necesito un comprobante que indique cuándo aceptaron el paquete para enviarlo.",
+      "translations": {
+        "en": "I need a receipt showing when you accepted the package for shipment.",
+        "pt": "Preciso de um comprovante que mostre quando vocês receberam o pacote para envio.",
+        "fr": "J'ai besoin d'un reçu indiquant quand vous avez pris le colis en charge.",
+        "it": "Mi serve una ricevuta che indichi quando avete accettato il pacco per la spedizione.",
+        "de": "Ich brauche einen Beleg, auf dem steht, wann Sie das Paket für den Versand angenommen haben."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_112",
+      "es": "Ya se creó la etiqueta de envío, pero todavía no hemos recibido el paquete.",
+      "translations": {
+        "en": "The shipping label has been created, but we haven't received the package yet.",
+        "pt": "A etiqueta de envio já foi criada, mas ainda não recebemos o pacote.",
+        "fr": "L'étiquette d'expédition a été créée, mais nous n'avons pas encore reçu le colis.",
+        "it": "L'etichetta di spedizione è stata creata, ma non abbiamo ancora ricevuto il pacco.",
+        "de": "Das Versandetikett wurde bereits erstellt, aber wir haben das Paket noch nicht erhalten."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
+    },
+    {
+      "id": "seg_033",
+      "es": "¿Cómo compruebo si el destinatario ya recibió el envío?",
+      "translations": {
+        "en": "How can I check whether the recipient has received the shipment?",
+        "pt": "Como posso verificar se o destinatário já recebeu a encomenda?",
+        "fr": "Comment puis-je vérifier si le destinataire a reçu l'envoi ?",
+        "it": "Come verifico se il destinatario ha già ricevuto la spedizione?",
+        "de": "Wie kann ich prüfen, ob der Empfänger die Sendung schon erhalten hat?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_111",
+      "es": "El envío está en tránsito; todavía no está listo para recoger.",
+      "translations": {
+        "en": "The shipment is in transit. It isn't ready for pickup yet.",
+        "pt": "O envio está em trânsito; ainda não está pronto para retirada.",
+        "fr": "L'envoi est en cours d'acheminement ; il n'est pas encore prêt à être retiré.",
+        "it": "La spedizione è in transito; non è ancora pronta per il ritiro.",
+        "de": "Die Sendung ist unterwegs. Sie kann noch nicht abgeholt werden."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
+    },
+    {
+      "id": "seg_048",
+      "es": "¿Pueden decirme cuándo se actualizará el seguimiento del envío?",
+      "translations": {
+        "en": "Can you tell me when the tracking information will be updated?",
+        "pt": "Podem me dizer quando o rastreamento do envio será atualizado?",
+        "fr": "Pouvez-vous me dire quand les informations de suivi seront mises à jour ?",
+        "it": "Potete dirmi quando verrà aggiornato il tracciamento della spedizione?",
+        "de": "Können Sie mir sagen, wann der Sendungsstatus wieder aktualisiert wird?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_034",
+      "es": "El seguimiento dice que intentaron entregar el paquete, pero nadie me llamó.",
+      "translations": {
+        "en": "The tracking says they tried to deliver the package, but no one called me.",
+        "pt": "O rastreamento diz que tentaram entregar o pacote, mas ninguém me ligou.",
+        "fr": "Le suivi indique une tentative de livraison, mais personne ne m'a appelé. / Le suivi indique une tentative de livraison, mais personne ne m'a appelée.",
+        "it": "Il tracciamento indica un tentativo di consegna, ma non ho ricevuto nessuna chiamata.",
+        "de": "Laut Sendungsverfolgung gab es einen Zustellversuch, aber niemand hat mich angerufen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_035",
+      "es": "¿Puedo cambiar la entrega a un punto de recolección?",
+      "translations": {
+        "en": "Can I change the delivery to a pickup point?",
+        "pt": "Posso mudar a entrega para um ponto de retirada?",
+        "fr": "Je peux faire livrer le colis dans un point de retrait ?",
+        "it": "Posso modificare la consegna scegliendo un punto di ritiro?",
+        "de": "Kann ich das Paket stattdessen an eine Abholstelle liefern lassen?"
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Aquí el destinatario va por el paquete; no se pide que la paquetería pase por él)"
+      }
+    },
+    {
+      "id": "seg_036",
+      "es": "El destinatario no estará en casa; ¿pueden programar un segundo intento de entrega?",
+      "translations": {
+        "en": "The recipient won't be home. Can you schedule a second delivery attempt?",
+        "pt": "O destinatário não vai estar em casa. Vocês podem agendar uma segunda tentativa de entrega?",
+        "fr": "Le destinataire ne sera pas chez lui. Pouvez-vous prévoir une deuxième tentative de livraison ?",
+        "it": "Il destinatario non sarà a casa. Potete programmare un secondo tentativo di consegna?",
+        "de": "Der Empfänger wird nicht zu Hause sein. Können Sie einen zweiten Zustellversuch vereinbaren?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_037",
+      "es": "¿Quién puede recibir el paquete si el destinatario no está?",
+      "translations": {
+        "en": "Who can receive the package if the recipient isn't there?",
+        "pt": "Quem pode receber o pacote se o destinatário não estiver?",
+        "fr": "Qui peut recevoir le colis si le destinataire est absent ?",
+        "it": "Chi può ricevere il pacco se il destinatario non c'è?",
+        "de": "Wer kann das Paket annehmen, wenn der Empfänger nicht da ist?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_038",
+      "es": "Vengo a recoger un paquete. Tengo este aviso de intento de entrega.",
+      "translations": {
+        "en": "I'm here to pick up a package. I have this delivery attempt notice.",
+        "pt": "Vim retirar um pacote. Tenho este aviso de tentativa de entrega.",
+        "fr": "Je viens récupérer un colis ; j'ai cet avis de passage.",
+        "it": "Sono qui per ritirare un pacco. Ho questo avviso di tentata consegna.",
+        "de": "Ich möchte ein Paket abholen. Ich habe diese Benachrichtigung über den Zustellversuch."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_039",
+      "es": "¿Este código corresponde a una ventanilla o a un casillero automático?",
+      "translations": {
+        "en": "Is this code for a counter or an automated locker?",
+        "pt": "Este código é para um balcão ou um armário automático?",
+        "fr": "Ce code correspond à un guichet ou à une consigne automatique ?",
+        "it": "Questo codice è per uno sportello o per un armadietto automatico?",
+        "de": "Ist dieser Code für einen Schalter oder für ein automatisches Abholfach?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_040",
+      "es": "¿Debo mostrar el código de recolección y una identificación?",
+      "translations": {
+        "en": "Do I need to show the pickup code and ID?",
+        "pt": "Preciso mostrar o código de retirada e um documento de identificação?",
+        "fr": "Je dois présenter le code de retrait et une pièce d'identité ?",
+        "it": "Devo mostrare il codice di ritiro e un documento d'identità?",
+        "de": "Muss ich den Abholcode und einen Ausweis vorzeigen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_041",
+      "es": "El código abre el casillero, pero no hay ningún paquete dentro.",
+      "translations": {
+        "en": "The code opens the locker, but there's no package inside.",
+        "pt": "O código abre o armário, mas não há nenhum pacote dentro.",
+        "fr": "Le code ouvre la consigne, mais il n'y a aucun colis à l'intérieur.",
+        "it": "Il codice apre l'armadietto, ma dentro non c'è nessun pacco.",
+        "de": "Mit dem Code öffnet sich das Abholfach, aber es liegt kein Paket darin."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_042",
+      "es": "¿Cuánto tiempo guardan el paquete antes de devolverlo al remitente?",
+      "translations": {
+        "en": "How long do you hold the package before returning it to the sender?",
+        "pt": "Por quanto tempo guardam o pacote antes de devolvê-lo ao remetente?",
+        "fr": "Combien de temps gardez-vous le colis avant de le renvoyer à l'expéditeur ?",
+        "it": "Per quanto tempo tenete il pacco prima di restituirlo al mittente?",
+        "de": "Wie lange behalten Sie das Paket, bevor Sie es an den Absender zurückschicken?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_043",
+      "es": "No puedo recogerlo esta semana; ¿puedo ampliar el plazo?",
+      "translations": {
+        "en": "I can't pick it up this week. Can I extend the pickup deadline?",
+        "pt": "Não posso retirar o pacote esta semana; posso estender o prazo de retirada?",
+        "fr": "Je ne peux pas le récupérer cette semaine ; je peux prolonger le délai de retrait ?",
+        "it": "Non posso ritirarlo questa settimana; posso prorogare il termine per il ritiro?",
+        "de": "Ich kann es diese Woche nicht abholen. Kann ich die Abholfrist verlängern?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_044",
+      "es": "¿Otra persona puede recoger el paquete con una autorización mía?",
+      "translations": {
+        "en": "Can someone else pick up the package with my authorization?",
+        "pt": "Outra pessoa pode retirar o pacote com uma autorização minha?",
+        "fr": "Une autre personne peut récupérer le colis avec mon autorisation ?",
+        "it": "Un'altra persona può ritirare il pacco con la mia autorizzazione?",
+        "de": "Kann jemand anderes das Paket mit einer Vollmacht von mir abholen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_045",
+      "es": "El seguimiento marca el paquete como entregado, pero no lo recibí.",
+      "translations": {
+        "en": "The tracking shows the package as delivered, but I haven't received it.",
+        "pt": "O rastreamento mostra o pacote como entregue, mas não recebi.",
+        "fr": "Le suivi indique que le colis a été livré, mais je ne l'ai pas reçu.",
+        "it": "Il tracciamento indica che il pacco è stato consegnato, ma non l'ho ricevuto.",
+        "de": "Laut Sendungsverfolgung wurde das Paket zugestellt, aber ich habe es nicht bekommen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_046",
+      "es": "La caja llegó abierta y falta parte del contenido.",
+      "translations": {
+        "en": "The box arrived open, and some of the contents are missing.",
+        "pt": "A caixa chegou aberta e falta parte do conteúdo.",
+        "fr": "La boîte est arrivée ouverte et il manque une partie du contenu.",
+        "it": "La scatola è arrivata aperta e manca una parte del contenuto.",
+        "de": "Der Karton ist offen angekommen, und ein Teil des Inhalts fehlt."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_047",
+      "es": "¿Cómo reporto un problema con el envío y qué comprobantes necesitan?",
+      "translations": {
+        "en": "How do I report a shipping problem, and what documents do you need as proof?",
+        "pt": "Como posso informar um problema com o envio e de quais comprovantes vocês precisam?",
+        "fr": "Comment signaler un problème d'envoi et quels justificatifs faut-il ?",
+        "it": "Come segnalo un problema con la spedizione e quali documenti servono?",
+        "de": "Wie kann ich ein Problem mit der Sendung melden, und welche Belege brauchen Sie?"
+      },
+      "image_url": ""
+    }
+  ]
+}

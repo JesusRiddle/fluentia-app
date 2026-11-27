@@ -1,544 +1,51 @@
 {
   "module": "Servicios, envíos y gestiones",
   "level": "A2",
-  "revisado": false,
+  "revisado": true,
   "cards": [
     {
       "id": "seg_001",
-      "es": "Servicios, envíos y gestiones",
+      "es": "Los servicios y los trámites",
       "translations": {
-        "en": "Services, shipping, and everyday paperwork",
-        "pt": "Serviços, envios e trâmites do dia a dia",
-        "fr": "Services, envois et démarches courantes",
-        "it": "Servizi, spedizioni e pratiche quotidiane"
+        "en": "Services and paperwork",
+        "pt": "Os serviços e os trâmites",
+        "fr": "Les services et les démarches",
+        "it": "I servizi e le pratiche",
+        "de": "Die Dienstleistungen und Formalitäten"
       },
-      "image_url": ""
-    },
-    {
-      "id": "seg_002",
-      "es": "Remitente (quien envía)",
-      "translations": {
-        "en": "Sender",
-        "pt": "Remetente",
-        "fr": "Expéditeur",
-        "it": "Mittente"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_003",
-      "es": "Destinatario/a (quien recibe)",
-      "translations": {
-        "en": "Recipient",
-        "pt": "Destinatário / Destinatária",
-        "fr": "Destinataire",
-        "it": "Destinatario / Destinataria"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_004",
-      "es": "Franqueo (importe para enviar por correo)",
-      "translations": {
-        "en": "Postage",
-        "pt": "Valor da postagem",
-        "fr": "Affranchissement",
-        "it": "Affrancatura"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_005",
-      "es": "Número de seguimiento de un envío",
-      "translations": {
-        "en": "Tracking number",
-        "pt": "Código de rastreamento",
-        "fr": "Numéro de suivi",
-        "it": "Numero di tracciamento"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_006",
-      "es": "Aviso de intento de entrega",
-      "translations": {
-        "en": "Delivery attempt notice",
-        "pt": "Aviso de tentativa de entrega",
-        "fr": "Avis de passage",
-        "it": "Avviso di tentata consegna"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_007",
-      "es": "Recogida a domicilio de un paquete",
-      "translations": {
-        "en": "Package pickup from home",
-        "pt": "Coleta de pacote em domicílio",
-        "fr": "Enlèvement d’un colis à domicile",
-        "it": "Ritiro di un pacco a domicilio"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_008",
-      "es": "Presupuesto de un servicio (precio estimado antes de aceptarlo)",
-      "translations": {
-        "en": "Service estimate",
-        "pt": "Orçamento de um serviço",
-        "fr": "Devis pour un service",
-        "it": "Preventivo per un servizio"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_009",
-      "es": "Número de expediente / Referencia de una gestión",
-      "translations": {
-        "en": "Case number / Application reference",
-        "pt": "Número do processo / Referência da solicitação",
-        "fr": "Numéro de dossier / Référence de la demande",
-        "it": "Numero di pratica / Riferimento della richiesta"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_010",
-      "es": "Quisiera enviar este paquete a otra ciudad.",
-      "translations": {
-        "en": "I’d like to send this package to another city.",
-        "pt": "Gostaria de enviar este pacote para outra cidade.",
-        "fr": "Je voudrais envoyer ce colis dans une autre ville.",
-        "it": "Vorrei spedire questo pacco in un’altra città."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_011",
-      "es": "¿Este punto acepta paquetes para enviar o solo permite recogerlos?",
-      "translations": {
-        "en": "Does this location accept outgoing packages, or is it only for pickup?",
-        "pt": "Este ponto recebe pacotes para envio ou serve apenas para retirada?",
-        "fr": "Ce point accepte les colis à envoyer ou sert seulement au retrait ?",
-        "it": "Questo punto accetta pacchi da spedire o serve solo per il ritiro?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_012",
-      "es": "¿Puedo enviar esta carta con seguimiento?",
-      "translations": {
-        "en": "Can I send this letter with tracking?",
-        "pt": "Posso enviar esta carta com rastreamento?",
-        "fr": "Je peux envoyer cette lettre avec un suivi ?",
-        "it": "Posso spedire questa lettera con tracciamento?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_013",
-      "es": "¿Qué opción tienen para que llegue antes del viernes?",
-      "translations": {
-        "en": "What option do you have to get it there before Friday?",
-        "pt": "Qual opção vocês têm para chegar antes de sexta-feira?",
-        "fr": "Quelle option proposez-vous pour que ça arrive avant vendredi ?",
-        "it": "Quale opzione avete per farlo arrivare prima di venerdì?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_014",
-      "es": "¿La fecha de entrega es garantizada o solo estimada?",
-      "translations": {
-        "en": "Is the delivery date guaranteed or just estimated?",
-        "pt": "A data de entrega é garantida ou apenas estimada?",
-        "fr": "La date de livraison est garantie ou seulement estimée ?",
-        "it": "La data di consegna è garantita o solo stimata?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_015",
-      "es": "¿El plazo del envío se cuenta desde hoy o desde que recogen el paquete?",
-      "translations": {
-        "en": "Does the shipping time start today or when the package is collected?",
-        "pt": "O prazo do envio conta a partir de hoje ou da coleta do pacote?",
-        "fr": "Le délai commence aujourd’hui ou à partir de l’enlèvement du colis ?",
-        "it": "Il tempo di spedizione si conta da oggi o dal ritiro del pacco?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_016",
-      "es": "¿Los fines de semana cuentan dentro del plazo de entrega?",
-      "translations": {
-        "en": "Do weekends count toward the delivery time?",
-        "pt": "Os fins de semana contam no prazo de entrega?",
-        "fr": "Les week-ends sont compris dans le délai de livraison ?",
-        "it": "I fine settimana contano nel tempo di consegna?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_017",
-      "es": "¿El precio depende del peso, del tamaño o de ambos?",
-      "translations": {
-        "en": "Does the price depend on weight, size, or both?",
-        "pt": "O preço depende do peso, do tamanho ou dos dois?",
-        "fr": "Le prix dépend du poids, des dimensions ou des deux ?",
-        "it": "Il prezzo dipende dal peso, dalle dimensioni o da entrambi?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_018",
-      "es": "¿El empaque está incluido o debo comprar una caja aparte?",
-      "translations": {
-        "en": "Is packaging included, or do I need to buy a box separately?",
-        "pt": "A embalagem está incluída ou preciso comprar uma caixa à parte?",
-        "fr": "L’emballage est inclus ou je dois acheter une boîte à part ?",
-        "it": "L’imballaggio è incluso o devo comprare una scatola a parte?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_019",
-      "es": "¿Pueden ayudarme a empacar este objeto para que no se rompa?",
-      "translations": {
-        "en": "Can you help me pack this item so it doesn’t break?",
-        "pt": "Podem me ajudar a embalar este objeto para não quebrar?",
-        "fr": "Pouvez-vous m’aider à emballer cet objet pour qu’il ne se casse pas ?",
-        "it": "Potete aiutarmi a imballare questo oggetto per evitare che si rompa?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_020",
-      "es": "El contenido es frágil; ¿hay una forma de indicarlo en el envío?",
-      "translations": {
-        "en": "The contents are fragile. Is there a way to indicate that on the shipment?",
-        "pt": "O conteúdo é frágil; há uma forma de indicar isso no envio?",
-        "fr": "Le contenu est fragile ; on peut l’indiquer sur le colis ?",
-        "it": "Il contenuto è fragile; c’è un modo per indicarlo sulla spedizione?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_021",
-      "es": "¿Hay productos que no aceptan para este tipo de envío?",
-      "translations": {
-        "en": "Are there products you don’t accept for this type of shipment?",
-        "pt": "Há produtos que vocês não aceitam para este tipo de envio?",
-        "fr": "Il y a des produits que vous n’acceptez pas pour ce type d’envoi ?",
-        "it": "Ci sono prodotti che non accettate per questo tipo di spedizione?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_022",
-      "es": "¿Debo describir el contenido antes de cerrar la caja?",
-      "translations": {
-        "en": "Do I need to describe the contents before sealing the box?",
-        "pt": "Preciso descrever o conteúdo antes de fechar a caixa?",
-        "fr": "Je dois décrire le contenu avant de fermer la boîte ?",
-        "it": "Devo descrivere il contenuto prima di chiudere la scatola?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_023",
-      "es": "¿Este envío al extranjero necesita una declaración de contenido?",
-      "translations": {
-        "en": "Does this international shipment need a contents declaration?",
-        "pt": "Este envio para o exterior precisa de uma declaração de conteúdo?",
-        "fr": "Cet envoi à l’étranger nécessite une déclaration du contenu ?",
-        "it": "Questa spedizione all’estero richiede una dichiarazione del contenuto?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_024",
-      "es": "¿El precio incluye todos los cargos o el destinatario podría pagar algo al recibirlo?",
-      "translations": {
-        "en": "Does the price include all charges, or might the recipient have to pay something on delivery?",
-        "pt": "O preço inclui todas as taxas ou o destinatário pode ter que pagar algo ao receber?",
-        "fr": "Le prix comprend tous les frais ou le destinataire pourrait devoir payer quelque chose à la réception ?",
-        "it": "Il prezzo include tutti i costi o il destinatario potrebbe pagare qualcosa al ricevimento?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_025",
-      "es": "¿Puedo añadir protección por pérdida o daño? ¿Qué cubre?",
-      "translations": {
-        "en": "Can I add coverage for loss or damage? What does it cover?",
-        "pt": "Posso acrescentar cobertura por perda ou dano? O que ela cobre?",
-        "fr": "Je peux ajouter une couverture en cas de perte ou de dommage ? Que couvre-t-elle ?",
-        "it": "Posso aggiungere una copertura per perdita o danni? Che cosa copre?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_026",
-      "es": "¿Dónde escribo la dirección del remitente y la del destinatario?",
-      "translations": {
-        "en": "Where do I write the sender’s and recipient’s addresses?",
-        "pt": "Onde escrevo os endereços do remetente e do destinatário?",
-        "fr": "Où dois-je écrire les adresses de l’expéditeur et du destinataire ?",
-        "it": "Dove scrivo l’indirizzo del mittente e quello del destinatario?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_027",
-      "es": "La dirección incluye edificio, piso y departamento; ¿debo ponerlos todos?",
-      "translations": {
-        "en": "The address includes the building, floor, and apartment. Should I include all of them?",
-        "pt": "O endereço inclui prédio, andar e apartamento; preciso colocar tudo?",
-        "fr": "L’adresse comprend le bâtiment, l’étage et l’appartement ; je dois tout indiquer ?",
-        "it": "L’indirizzo comprende edificio, piano e appartamento; devo indicare tutto?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_028",
-      "es": "¿Necesitan el teléfono del destinatario para hacer la entrega?",
-      "translations": {
-        "en": "Do you need the recipient’s phone number for delivery?",
-        "pt": "Precisam do telefone do destinatário para fazer a entrega?",
-        "fr": "Vous avez besoin du téléphone du destinataire pour la livraison ?",
-        "it": "Vi serve il numero di telefono del destinatario per la consegna?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_029",
-      "es": "Antes de enviarlo, quiero comprobar que la etiqueta tiene la dirección correcta.",
-      "translations": {
-        "en": "Before sending it, I want to check that the label has the correct address.",
-        "pt": "Antes de enviar, quero conferir se a etiqueta tem o endereço correto.",
-        "fr": "Avant l’envoi, je veux vérifier que l’étiquette porte la bonne adresse.",
-        "it": "Prima di spedirlo, voglio controllare che l’etichetta abbia l’indirizzo corretto."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_030",
-      "es": "¿La entrega requiere la firma de quien recibe el paquete?",
-      "translations": {
-        "en": "Does delivery require the recipient’s signature?",
-        "pt": "A entrega exige a assinatura de quem recebe o pacote?",
-        "fr": "La livraison nécessite la signature de la personne qui reçoit le colis ?",
-        "it": "La consegna richiede la firma di chi riceve il pacco?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_031",
-      "es": "¿Puedo dejar el paquete aquí hoy aunque la etiqueta indique otra fecha?",
-      "translations": {
-        "en": "Can I drop off the package here today even if the label shows another date?",
-        "pt": "Posso deixar o pacote aqui hoje mesmo que a etiqueta indique outra data?",
-        "fr": "Je peux déposer le colis ici aujourd’hui même si l’étiquette indique une autre date ?",
-        "it": "Posso lasciare il pacco qui oggi anche se l’etichetta indica un’altra data?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_032",
-      "es": "Necesito un comprobante que muestre cuándo recibieron el paquete.",
-      "translations": {
-        "en": "I need a receipt showing when you received the package.",
-        "pt": "Preciso de um comprovante que mostre quando receberam o pacote.",
-        "fr": "J’ai besoin d’un reçu indiquant quand vous avez reçu le colis.",
-        "it": "Mi serve una ricevuta che indichi quando avete ricevuto il pacco."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_033",
-      "es": "¿Cómo compruebo si el destinatario ya recibió el envío?",
-      "translations": {
-        "en": "How can I check whether the recipient has received the shipment?",
-        "pt": "Como posso verificar se o destinatário já recebeu o envio?",
-        "fr": "Comment puis-je vérifier si le destinataire a reçu l’envoi ?",
-        "it": "Come verifico se il destinatario ha già ricevuto la spedizione?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_034",
-      "es": "El seguimiento dice que se intentó entregar, pero nadie llamó.",
-      "translations": {
-        "en": "The tracking says delivery was attempted, but no one called.",
-        "pt": "O rastreamento diz que houve uma tentativa de entrega, mas ninguém ligou.",
-        "fr": "Le suivi indique une tentative de livraison, mais personne n’a appelé.",
-        "it": "Il tracciamento indica un tentativo di consegna, ma nessuno ha chiamato."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_035",
-      "es": "¿Puedo cambiar la entrega a un punto de recogida?",
-      "translations": {
-        "en": "Can I change the delivery to a pickup point?",
-        "pt": "Posso mudar a entrega para um ponto de retirada?",
-        "fr": "Je peux faire livrer le colis dans un point de retrait ?",
-        "it": "Posso modificare la consegna scegliendo un punto di ritiro?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_036",
-      "es": "El destinatario no estará en casa; ¿puede programar una segunda entrega?",
-      "translations": {
-        "en": "The recipient won’t be home. Can they schedule a second delivery?",
-        "pt": "O destinatário não estará em casa; ele pode agendar uma segunda entrega?",
-        "fr": "Le destinataire ne sera pas chez lui ; peut-il programmer une deuxième livraison ?",
-        "it": "Il destinatario non sarà a casa; può programmare una seconda consegna?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_037",
-      "es": "¿Quién puede recibir el paquete si el destinatario no está?",
-      "translations": {
-        "en": "Who can receive the package if the recipient isn’t there?",
-        "pt": "Quem pode receber o pacote se o destinatário não estiver?",
-        "fr": "Qui peut recevoir le colis si le destinataire est absent ?",
-        "it": "Chi può ricevere il pacco se il destinatario non c’è?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_038",
-      "es": "Vengo a recoger un paquete; tengo este aviso de entrega.",
-      "translations": {
-        "en": "I’m here to pick up a package. I have this delivery notice.",
-        "pt": "Vim retirar um pacote; tenho este aviso de entrega.",
-        "fr": "Je viens récupérer un colis ; j’ai cet avis de passage.",
-        "it": "Sono qui per ritirare un pacco; ho questo avviso di consegna."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_039",
-      "es": "¿Este código corresponde a una ventanilla o a un casillero automático?",
-      "translations": {
-        "en": "Is this code for a counter or an automated locker?",
-        "pt": "Este código é para um balcão ou um armário automático?",
-        "fr": "Ce code correspond à un guichet ou à une consigne automatique ?",
-        "it": "Questo codice è per uno sportello o per un armadietto automatico?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_040",
-      "es": "¿Debo mostrar el código de recogida y una identificación?",
-      "translations": {
-        "en": "Do I need to show the pickup code and ID?",
-        "pt": "Preciso mostrar o código de retirada e um documento de identificação?",
-        "fr": "Je dois présenter le code de retrait et une pièce d’identité ?",
-        "it": "Devo mostrare il codice di ritiro e un documento d’identità?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_041",
-      "es": "El código abre el casillero, pero no hay ningún paquete dentro.",
-      "translations": {
-        "en": "The code opens the locker, but there’s no package inside.",
-        "pt": "O código abre o armário, mas não há nenhum pacote dentro.",
-        "fr": "Le code ouvre la consigne, mais il n’y a aucun colis à l’intérieur.",
-        "it": "Il codice apre l’armadietto, ma dentro non c’è nessun pacco."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_042",
-      "es": "¿Cuánto tiempo guardan el paquete antes de devolverlo al remitente?",
-      "translations": {
-        "en": "How long do you hold the package before returning it to the sender?",
-        "pt": "Por quanto tempo guardam o pacote antes de devolver ao remetente?",
-        "fr": "Combien de temps gardez-vous le colis avant de le renvoyer à l’expéditeur ?",
-        "it": "Per quanto tempo tenete il pacco prima di restituirlo al mittente?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_043",
-      "es": "No puedo recogerlo esta semana; ¿puedo ampliar el plazo de recogida?",
-      "translations": {
-        "en": "I can’t pick it up this week. Can I extend the pickup deadline?",
-        "pt": "Não posso retirar esta semana; posso ampliar o prazo de retirada?",
-        "fr": "Je ne peux pas le récupérer cette semaine ; je peux prolonger le délai de retrait ?",
-        "it": "Non posso ritirarlo questa settimana; posso prolungare il termine per il ritiro?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_044",
-      "es": "¿Otra persona puede recoger el paquete con una autorización mía?",
-      "translations": {
-        "en": "Can someone else pick up the package with my authorization?",
-        "pt": "Outra pessoa pode retirar o pacote com uma autorização minha?",
-        "fr": "Une autre personne peut récupérer le colis avec mon autorisation ?",
-        "it": "Un’altra persona può ritirare il pacco con la mia autorizzazione?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_045",
-      "es": "El seguimiento marca el paquete como entregado, pero no lo recibí.",
-      "translations": {
-        "en": "The tracking shows the package as delivered, but I haven’t received it.",
-        "pt": "O rastreamento mostra o pacote como entregue, mas não recebi.",
-        "fr": "Le suivi indique que le colis a été livré, mais je ne l’ai pas reçu.",
-        "it": "Il tracciamento indica che il pacco è stato consegnato, ma non l’ho ricevuto."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_046",
-      "es": "La caja llegó abierta y falta parte del contenido.",
-      "translations": {
-        "en": "The box arrived open, and some of the contents are missing.",
-        "pt": "A caixa chegou aberta e falta parte do conteúdo.",
-        "fr": "La boîte est arrivée ouverte et il manque une partie du contenu.",
-        "it": "La scatola è arrivata aperta e manca una parte del contenuto."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_047",
-      "es": "¿Cómo registro un problema con el envío y qué comprobantes necesitan?",
-      "translations": {
-        "en": "How do I report a shipping problem, and what proof do you need?",
-        "pt": "Como registro um problema com o envio e quais comprovantes são necessários?",
-        "fr": "Comment signaler un problème d’envoi et quels justificatifs faut-il ?",
-        "it": "Come segnalo un problema con la spedizione e quali documenti servono?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_048",
-      "es": "¿Pueden indicarme cuándo habrá una nueva actualización del seguimiento?",
-      "translations": {
-        "en": "Can you tell me when there will be a new tracking update?",
-        "pt": "Podem me informar quando haverá uma nova atualização do rastreamento?",
-        "fr": "Pouvez-vous me dire quand il y aura une nouvelle mise à jour du suivi ?",
-        "it": "Potete dirmi quando ci sarà un nuovo aggiornamento del tracciamento?"
-      },
-      "image_url": ""
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "At the community center, they told me about the services and helped me with the paperwork.",
+          "es": "En el centro comunitario me informaron sobre los servicios y me ayudaron con los trámites."
+        },
+        "pt": {
+          "text": "No centro comunitário, me orientaram sobre os serviços oferecidos e os trâmites que eu podia resolver lá.",
+          "es": "En el centro comunitario me orientaron sobre los servicios que ofrecían y los trámites que podía hacer ahí."
+        },
+        "fr": {
+          "text": "Au centre communautaire, on m'a renseigné sur les services proposés et les démarches possibles.",
+          "es": "En el centro comunitario me orientaron sobre los servicios y los trámites disponibles."
+        },
+        "it": {
+          "text": "Al centro civico mi hanno dato informazioni sui servizi disponibili e sulle pratiche che si possono sbrigare lì.",
+          "es": "En el centro comunitario me orientaron sobre los servicios y los trámites disponibles."
+        },
+        "de": {
+          "text": "Im Bürgerzentrum hat man mir erklärt, welche Dienstleistungen es gibt und welche Formalitäten ich dort erledigen kann.",
+          "es": "En el centro comunitario me orientaron sobre los servicios y los trámites disponibles."
+        }
+      }
     },
     {
       "id": "seg_049",
-      "es": "Necesito imprimir este archivo; ¿puedo enviarlo por correo?",
+      "es": "Necesito imprimir este archivo. ¿Se lo puedo mandar por correo electrónico?",
       "translations": {
         "en": "I need to print this file. Can I email it to you?",
-        "pt": "Preciso imprimir este arquivo; posso enviar por e-mail?",
-        "fr": "Je dois imprimer ce fichier ; je peux vous l’envoyer par e-mail ?",
-        "it": "Devo stampare questo file; posso inviarvelo via e-mail?"
+        "pt": "Preciso imprimir este arquivo. Posso enviar por e-mail para vocês?",
+        "fr": "Je dois imprimer ce fichier ; je peux vous l'envoyer par e-mail ?",
+        "it": "Devo stampare questo file. Posso mandarvelo per e-mail?",
+        "de": "Ich muss diese Datei ausdrucken. Kann ich sie Ihnen per E-Mail schicken?"
       },
       "image_url": ""
     },
@@ -546,10 +53,11 @@
       "id": "seg_050",
       "es": "Quiero dos copias a color y las demás en blanco y negro.",
       "translations": {
-        "en": "I’d like two color copies and the rest in black and white.",
-        "pt": "Quero duas cópias coloridas e as demais em preto e branco.",
+        "en": "I'd like two color copies and the rest in black and white.",
+        "pt": "Quero duas cópias coloridas e o restante em preto e branco.",
         "fr": "Je voudrais deux copies en couleur et les autres en noir et blanc.",
-        "it": "Vorrei due copie a colori e le altre in bianco e nero."
+        "it": "Vorrei due copie a colori e le altre in bianco e nero.",
+        "de": "Ich hätte gern zwei Kopien in Farbe und die übrigen in Schwarz-Weiß."
       },
       "image_url": ""
     },
@@ -560,7 +68,8 @@
         "en": "Can you print double-sided to use less paper?",
         "pt": "Podem imprimir frente e verso para usar menos papel?",
         "fr": "Vous pouvez imprimer recto verso pour utiliser moins de papier ?",
-        "it": "Potete stampare fronte e retro per usare meno carta?"
+        "it": "Potete stampare fronte e retro per usare meno carta?",
+        "de": "Können Sie doppelseitig drucken, damit wir weniger Papier verbrauchen?"
       },
       "image_url": ""
     },
@@ -570,8 +79,9 @@
       "translations": {
         "en": "I only need pages five through eight, not the whole document.",
         "pt": "Só preciso das páginas cinco a oito, não do documento inteiro.",
-        "fr": "J’ai seulement besoin des pages cinq à huit, pas de tout le document.",
-        "it": "Mi servono solo le pagine da cinque a otto, non tutto il documento."
+        "fr": "J'ai seulement besoin des pages cinq à huit, pas de tout le document.",
+        "it": "Mi servono solo le pagine da cinque a otto, non tutto il documento.",
+        "de": "Ich brauche nur die Seiten fünf bis acht, nicht das ganze Dokument."
       },
       "image_url": ""
     },
@@ -581,8 +91,9 @@
       "translations": {
         "en": "Is the price per sheet or per printed side?",
         "pt": "O preço é por folha ou por cada lado impresso?",
-        "fr": "Le prix est par feuille ou par face imprimée ?",
-        "it": "Il prezzo è per foglio o per ogni lato stampato?"
+        "fr": "Vous facturez par feuille ou par face imprimée ?",
+        "it": "Il prezzo è per foglio o per ogni lato stampato?",
+        "de": "Gilt der Preis pro Blatt oder pro bedruckter Seite?"
       },
       "image_url": ""
     },
@@ -592,8 +103,9 @@
       "translations": {
         "en": "Can you keep the original size without cutting off the edges?",
         "pt": "Podem manter o tamanho original sem cortar as bordas?",
-        "fr": "Vous pouvez garder la taille d’origine sans couper les bords ?",
-        "it": "Potete mantenere le dimensioni originali senza tagliare i bordi?"
+        "fr": "Vous pouvez garder la taille d'origine sans couper les bords ?",
+        "it": "Potete mantenere le dimensioni originali senza tagliare i bordi?",
+        "de": "Können Sie die Originalgröße beibehalten, ohne etwas am Rand abzuschneiden?"
       },
       "image_url": ""
     },
@@ -601,10 +113,11 @@
       "id": "seg_055",
       "es": "Antes de imprimir todo, quiero revisar una copia de prueba.",
       "translations": {
-        "en": "Before printing everything, I’d like to check a test copy.",
+        "en": "Before you print everything, I'd like to check a test copy.",
         "pt": "Antes de imprimir tudo, quero conferir uma cópia de teste.",
-        "fr": "Avant de tout imprimer, je voudrais vérifier une copie d’essai.",
-        "it": "Prima di stampare tutto, vorrei controllare una copia di prova."
+        "fr": "Avant de tout imprimer, je voudrais vérifier une impression d'essai.",
+        "it": "Prima di stampare tutto, vorrei controllare una copia di prova.",
+        "de": "Bevor Sie alles drucken, möchte ich einen Probeausdruck prüfen."
       },
       "image_url": ""
     },
@@ -613,20 +126,22 @@
       "es": "¿Pueden escanear estos documentos y guardarlos en un solo archivo?",
       "translations": {
         "en": "Can you scan these documents and save them in one file?",
-        "pt": "Podem digitalizar estes documentos e salvar em um único arquivo?",
+        "pt": "Podem digitalizar estes documentos e salvá-los em um único arquivo?",
         "fr": "Pouvez-vous numériser ces documents et les enregistrer dans un seul fichier ?",
-        "it": "Potete scansionare questi documenti e salvarli in un unico file?"
+        "it": "Potete scansionare questi documenti e salvarli in un unico file?",
+        "de": "Können Sie diese Dokumente scannen und in einer einzigen Datei speichern?"
       },
       "image_url": ""
     },
     {
       "id": "seg_057",
-      "es": "Necesito que el archivo se pueda leer bien, pero que no sea demasiado pesado.",
+      "es": "Necesito que el archivo sea legible, pero que no pese demasiado.",
       "translations": {
-        "en": "I need the file to be clear enough to read but not too large.",
+        "en": "I need the file to be readable without being too large.",
         "pt": "Preciso que o arquivo seja legível, mas não muito pesado.",
         "fr": "Il faut que le fichier soit lisible, mais pas trop lourd.",
-        "it": "Mi serve un file leggibile, ma non troppo pesante."
+        "it": "Mi serve un file leggibile, ma non troppo pesante.",
+        "de": "Die Datei soll gut lesbar sein, aber nicht zu groß."
       },
       "image_url": ""
     },
@@ -636,30 +151,21 @@
       "translations": {
         "en": "Do you also offer binding, or only printing?",
         "pt": "Vocês também fazem encadernação ou só impressão?",
-        "fr": "Vous faites aussi la reliure ou seulement l’impression ?",
-        "it": "Fate anche rilegatura o solo stampa?"
+        "fr": "Vous faites aussi de la reliure ou seulement de l'impression ?",
+        "it": "Fate anche la rilegatura o solo la stampa?",
+        "de": "Binden Sie Dokumente auch oder drucken Sie sie nur?"
       },
       "image_url": ""
     },
     {
       "id": "seg_059",
-      "es": "La impresión salió cortada; falta una parte del texto.",
+      "es": "La impresión salió cortada y falta una parte del texto.",
       "translations": {
-        "en": "The printout was cut off. Part of the text is missing.",
+        "en": "Part of the text is missing because it got cut off when it was printed.",
         "pt": "A impressão saiu cortada; falta uma parte do texto.",
-        "fr": "L’impression est coupée ; il manque une partie du texte.",
-        "it": "La stampa è tagliata; manca una parte del testo."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_060",
-      "es": "¿Pueden borrar el archivo que les envié cuando termine el servicio?",
-      "translations": {
-        "en": "Can you delete the file I sent you when the service is finished?",
-        "pt": "Podem apagar o arquivo que enviei quando terminarem o serviço?",
-        "fr": "Pouvez-vous supprimer le fichier que je vous ai envoyé une fois le service terminé ?",
-        "it": "Potete eliminare il file che vi ho inviato quando il servizio è finito?"
+        "fr": "L'impression est coupée ; il manque une partie du texte.",
+        "it": "La stampa è tagliata; manca una parte del testo.",
+        "de": "Beim Drucken wurde etwas abgeschnitten. Ein Teil des Textes fehlt."
       },
       "image_url": ""
     },
@@ -668,9 +174,10 @@
       "es": "Necesito fotos para este trámite; aquí están las medidas que me pidieron.",
       "translations": {
         "en": "I need photos for this application. Here are the required dimensions.",
-        "pt": "Preciso de fotos para este processo; aqui estão as medidas solicitadas.",
-        "fr": "J’ai besoin de photos pour cette démarche ; voici les dimensions demandées.",
-        "it": "Mi servono foto per questa pratica; ecco le misure richieste."
+        "pt": "Preciso de fotos para esta solicitação. Aqui estão as medidas que me pediram.",
+        "fr": "J'ai besoin de photos pour cette démarche ; voici les dimensions demandées.",
+        "it": "Mi servono foto per questa pratica; ecco le misure richieste.",
+        "de": "Ich brauche Fotos für diesen Antrag. Hier steht, wie groß sie sein müssen."
       },
       "image_url": ""
     },
@@ -678,10 +185,11 @@
       "id": "seg_062",
       "es": "¿Me entregan las fotos impresas, el archivo digital o ambos?",
       "translations": {
-        "en": "Will I receive printed photos, a digital file, or both?",
+        "en": "Will I get printed photos, a digital file, or both?",
         "pt": "Vocês entregam as fotos impressas, o arquivo digital ou os dois?",
-        "fr": "Vous me remettez les photos imprimées, le fichier numérique ou les deux ?",
-        "it": "Mi consegnate le foto stampate, il file digitale o entrambi?"
+        "fr": "Est-ce que j'aurai les photos imprimées, un fichier numérique ou les deux ?",
+        "it": "Mi consegnate le foto stampate, il file digitale o entrambi?",
+        "de": "Bekomme ich die Fotos ausgedruckt, als digitale Datei oder in beiden Formaten?"
       },
       "image_url": ""
     },
@@ -692,29 +200,86 @@
         "en": "Can you check the dimensions before making the copies?",
         "pt": "Podem conferir as medidas antes de fazer as cópias?",
         "fr": "Pouvez-vous vérifier les dimensions avant de faire les copies ?",
-        "it": "Potete controllare le misure prima di fare le copie?"
+        "it": "Potete controllare le misure prima di fare le copie?",
+        "de": "Können Sie die Maße prüfen, bevor Sie die Kopien machen?"
       },
       "image_url": ""
     },
     {
-      "id": "seg_064",
-      "es": "¿Pueden revisar este objeto y darme un presupuesto antes de repararlo?",
+      "id": "seg_060",
+      "es": "¿Pueden borrar el archivo que les envié cuando terminen el trabajo?",
       "translations": {
-        "en": "Can you inspect this item and give me an estimate before repairing it?",
-        "pt": "Podem verificar este objeto e me dar um orçamento antes de consertar?",
-        "fr": "Pouvez-vous examiner cet objet et me donner un devis avant de le réparer ?",
-        "it": "Potete controllare questo oggetto e darmi un preventivo prima di ripararlo?"
+        "en": "Could you delete the file I sent you once the job is done?",
+        "pt": "Podem apagar o arquivo que enviei quando terminarem o serviço?",
+        "fr": "Pouvez-vous supprimer le fichier que je vous ai envoyé une fois le travail terminé ?",
+        "it": "Potete eliminare il file che vi ho inviato una volta finito il lavoro?",
+        "de": "Können Sie die Datei, die ich Ihnen geschickt habe, löschen, sobald Sie fertig sind?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_008",
+      "es": "La cotización de un servicio",
+      "translations": {
+        "en": "The estimate for a service",
+        "pt": "O orçamento de um serviço",
+        "fr": "Le devis pour un service",
+        "it": "Il preventivo per un servizio",
+        "de": "Der Kostenvoranschlag für eine Dienstleistung"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I asked for an estimate for the installation service.",
+          "es": "Pedí una cotización por el servicio de instalación."
+        },
+        "pt": {
+          "text": "Pedi o orçamento do serviço de instalação.",
+          "es": "Pedí una cotización por el servicio de instalación."
+        },
+        "fr": {
+          "text": "J'ai demandé un devis pour le service d'installation.",
+          "es": "Pedí una cotización por el servicio de instalación."
+        },
+        "it": {
+          "text": "Ho chiesto un preventivo per il servizio di installazione.",
+          "es": "Pedí una cotización por el servicio de instalación."
+        },
+        "de": {
+          "text": "Ich habe um einen Kostenvoranschlag für die Installation gebeten.",
+          "es": "Pedí una cotización para la instalación."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The estimates for services)",
+        "pt": "(Plural: Os orçamentos de serviços)",
+        "fr": "(Plural: Les devis pour des services)",
+        "it": "(Plural: I preventivi per servizi)",
+        "de": "(Plural: Die Kostenvoranschläge für Dienstleistungen)",
+        "es": "Es una estimación del costo antes de contratar el servicio. También se dice «presupuesto»."
+      }
+    },
+    {
+      "id": "seg_064",
+      "es": "¿Pueden revisar esto y darme un presupuesto antes de repararlo?",
+      "translations": {
+        "en": "Can you take a look at this and give me an estimate before repairing it?",
+        "pt": "Podem dar uma olhada nisto e me passar um orçamento antes de consertar?",
+        "fr": "Pouvez-vous regarder ça et me donner un devis avant de le réparer ?",
+        "it": "Potete dare un'occhiata a questo oggetto e farmi un preventivo prima di ripararlo?",
+        "de": "Können Sie sich das ansehen und mir vor der Reparatur einen Kostenvoranschlag geben?"
       },
       "image_url": ""
     },
     {
       "id": "seg_065",
-      "es": "¿La revisión se cobra aunque decida no hacer la reparación?",
+      "es": "¿Me cobran la revisión aunque decida no hacer la reparación?",
       "translations": {
         "en": "Is there an inspection fee even if I decide not to have it repaired?",
-        "pt": "A avaliação é cobrada mesmo se eu decidir não fazer o conserto?",
-        "fr": "La vérification est payante même si je décide de ne pas faire la réparation ?",
-        "it": "Il controllo si paga anche se decido di non fare la riparazione?"
+        "pt": "Vocês cobram pela avaliação mesmo se eu decidir não fazer o conserto?",
+        "fr": "Le diagnostic est-il payant même si je décide de ne pas faire réparer l'objet ?",
+        "it": "Il controllo si paga anche se decido di non fare la riparazione?",
+        "de": "Muss ich für die Überprüfung bezahlen, auch wenn ich es nicht reparieren lasse?"
       },
       "image_url": ""
     },
@@ -722,10 +287,11 @@
       "id": "seg_066",
       "es": "Antes de cambiar una pieza, quiero que me confirmen el costo.",
       "translations": {
-        "en": "Before replacing a part, I’d like you to confirm the cost.",
+        "en": "Before replacing a part, I'd like you to confirm the cost.",
         "pt": "Antes de trocar uma peça, quero que confirmem o custo.",
         "fr": "Avant de remplacer une pièce, je voudrais que vous confirmiez le coût.",
-        "it": "Prima di cambiare un pezzo, vorrei che mi confermaste il costo."
+        "it": "Prima di sostituire un pezzo, vorrei che mi confermaste il costo.",
+        "de": "Bitte bestätigen Sie mir die Kosten, bevor Sie ein Teil austauschen."
       },
       "image_url": ""
     },
@@ -734,31 +300,49 @@
       "es": "Si encuentran otro problema, avísenme antes de hacer trabajo adicional.",
       "translations": {
         "en": "If you find another problem, let me know before doing additional work.",
-        "pt": "Se encontrarem outro problema, me avisem antes de fazer trabalho adicional.",
-        "fr": "Si vous trouvez un autre problème, prévenez-moi avant de faire un travail supplémentaire.",
-        "it": "Se trovate un altro problema, avvisatemi prima di fare altro lavoro."
+        "pt": "Se encontrarem outro problema, me avisem antes de fazer qualquer trabalho extra.",
+        "fr": "Si vous trouvez un autre problème, prévenez-moi avant de faire d'autres travaux.",
+        "it": "Se trovate un altro problema, avvisatemi prima di fare altri lavori.",
+        "de": "Wenn Sie noch ein Problem finden, sagen Sie mir bitte Bescheid, bevor Sie weitere Arbeiten durchführen."
       },
       "image_url": ""
     },
     {
-      "id": "seg_068",
-      "es": "¿Hay una fecha estimada para terminar el servicio?",
+      "id": "seg_114",
+      "es": "Podemos realizar el servicio, pero necesitamos su autorización antes de empezar.",
       "translations": {
-        "en": "Is there an estimated completion date for the service?",
-        "pt": "Há uma data prevista para terminar o serviço?",
-        "fr": "Il y a une date prévue pour terminer le service ?",
-        "it": "C’è una data prevista per completare il servizio?"
+        "en": "We can provide the service, but we need your authorization before starting.",
+        "pt": "Podemos realizar o serviço, mas precisamos da sua autorização antes de começar.",
+        "fr": "Nous pouvons effectuer le service, mais nous avons besoin de votre autorisation avant de commencer.",
+        "it": "Possiamo effettuare il servizio, ma ci serve la sua autorizzazione prima di iniziare.",
+        "de": "Wir können den Auftrag ausführen, brauchen aber vorher Ihre Zustimmung."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
+    },
+    {
+      "id": "seg_068",
+      "es": "¿Para qué fecha calculan que estará listo?",
+      "translations": {
+        "en": "When do you expect it to be ready?",
+        "pt": "Para quando vocês acham que vai ficar pronto?",
+        "fr": "Pour quand pensez-vous que ce sera prêt ?",
+        "it": "Per quando pensate che sarà pronto?",
+        "de": "Wann ist es voraussichtlich fertig?"
       },
       "image_url": ""
     },
     {
       "id": "seg_069",
-      "es": "Necesito un comprobante del objeto que dejo aquí y de su estado.",
+      "es": "Necesito un comprobante que indique qué dejo aquí y en qué estado está.",
       "translations": {
-        "en": "I need a receipt for the item I’m leaving here and its condition.",
-        "pt": "Preciso de um comprovante do objeto que deixo aqui e do estado dele.",
-        "fr": "J’ai besoin d’un reçu indiquant l’objet que je laisse ici et son état.",
-        "it": "Mi serve una ricevuta dell’oggetto che lascio qui e delle sue condizioni."
+        "en": "I need a receipt showing what I'm leaving here and what condition it's in.",
+        "pt": "Preciso de um comprovante que indique o que estou deixando aqui e em que estado está.",
+        "fr": "J'ai besoin d'un reçu indiquant l'objet que je laisse ici et son état.",
+        "it": "Mi serve una ricevuta che indichi che cosa lascio qui e in che condizioni è.",
+        "de": "Ich brauche einen Beleg, auf dem steht, was ich hier abgebe und in welchem Zustand es ist."
       },
       "image_url": ""
     },
@@ -766,54 +350,59 @@
       "id": "seg_070",
       "es": "¿Me avisarán cuando esté listo o debo llamar para comprobarlo?",
       "translations": {
-        "en": "Will you let me know when it’s ready, or should I call to check?",
-        "pt": "Vão me avisar quando estiver pronto ou preciso ligar para conferir?",
+        "en": "Will you let me know when it's ready, or should I call to check?",
+        "pt": "Vão me avisar quando estiver pronto ou preciso ligar para saber?",
         "fr": "Vous me préviendrez quand ce sera prêt ou je dois appeler pour vérifier ?",
-        "it": "Mi avviserete quando sarà pronto o devo chiamare per controllare?"
+        "it": "Mi avviserete quando sarà pronto o devo chiamare per sapere se è pronto?",
+        "de": "Sagen Sie mir Bescheid, wenn es fertig ist, oder soll ich anrufen und nachfragen?"
       },
       "image_url": ""
     },
     {
       "id": "seg_071",
-      "es": "¿El servicio incluye alguna garantía sobre el trabajo realizado?",
+      "es": "¿El trabajo tiene garantía?",
       "translations": {
-        "en": "Does the service include any warranty on the work done?",
-        "pt": "O serviço inclui alguma garantia sobre o trabalho realizado?",
-        "fr": "Le service comprend une garantie sur le travail effectué ?",
-        "it": "Il servizio include una garanzia sul lavoro svolto?"
+        "en": "Does the work come with a warranty?",
+        "pt": "O trabalho tem garantia?",
+        "fr": "Le travail est-il garanti ?",
+        "it": "C'è una garanzia sul lavoro fatto?",
+        "de": "Gibt es eine Garantie auf die Arbeit?"
       },
       "image_url": ""
     },
     {
       "id": "seg_072",
-      "es": "Quiero probar el objeto antes de dar el servicio por terminado.",
+      "es": "Quiero probarlo antes de dar el trabajo por terminado.",
       "translations": {
-        "en": "I’d like to test the item before considering the service complete.",
-        "pt": "Quero testar o objeto antes de considerar o serviço concluído.",
-        "fr": "Je voudrais tester l’objet avant de considérer le service comme terminé.",
-        "it": "Voglio provare l’oggetto prima di considerare il servizio concluso."
+        "en": "I'd like to test it before we consider the job done.",
+        "pt": "Quero testar antes de dar o serviço por concluído.",
+        "fr": "Je voudrais l'essayer avant de considérer que le travail est terminé.",
+        "it": "Vorrei provarlo prima di considerare il lavoro finito.",
+        "de": "Ich möchte ausprobieren, ob es funktioniert, bevor wir den Auftrag abschließen."
       },
       "image_url": ""
     },
     {
       "id": "seg_073",
-      "es": "El presupuesto dice una cantidad y la cuenta final muestra otra.",
+      "es": "El monto del presupuesto no coincide con el de la cuenta final.",
       "translations": {
-        "en": "The estimate shows one amount, and the final bill shows another.",
+        "en": "The estimate and the final bill show different amounts.",
         "pt": "O orçamento indica um valor e a conta final mostra outro.",
         "fr": "Le devis indique un montant et la facture finale en indique un autre.",
-        "it": "Il preventivo indica una cifra e il conto finale ne mostra un’altra."
+        "it": "Il preventivo indica una cifra e il conto finale ne mostra un'altra.",
+        "de": "Im Kostenvoranschlag steht ein anderer Betrag als auf der Schlussrechnung."
       },
       "image_url": ""
     },
     {
       "id": "seg_074",
-      "es": "¿Qué parte del servicio tiene ese cargo adicional?",
+      "es": "¿A qué parte del servicio corresponde ese cargo adicional?",
       "translations": {
         "en": "Which part of the service is that extra charge for?",
-        "pt": "Qual parte do serviço tem essa cobrança adicional?",
+        "pt": "A que parte do serviço se refere essa cobrança extra?",
         "fr": "À quelle partie du service correspond ce supplément ?",
-        "it": "A quale parte del servizio corrisponde questo costo aggiuntivo?"
+        "it": "A quale parte del servizio corrisponde questo costo aggiuntivo?",
+        "de": "Für welche Arbeit berechnen Sie diesen Aufpreis?"
       },
       "image_url": ""
     },
@@ -821,21 +410,23 @@
       "id": "seg_075",
       "es": "No autoricé ese trabajo adicional; ¿podemos revisar lo que acordamos?",
       "translations": {
-        "en": "I didn’t authorize that additional work. Can we review what we agreed on?",
+        "en": "I didn't authorize that additional work. Can we review what we agreed on?",
         "pt": "Não autorizei esse trabalho adicional; podemos revisar o que combinamos?",
-        "fr": "Je n’ai pas autorisé ce travail supplémentaire ; pouvons-nous revoir ce qui était convenu ?",
-        "it": "Non ho autorizzato questo lavoro aggiuntivo; possiamo rivedere quello che avevamo concordato?"
+        "fr": "Je n'ai pas autorisé ce travail supplémentaire ; pouvons-nous revoir ce qui était convenu ?",
+        "it": "Non ho autorizzato questo lavoro aggiuntivo; possiamo rivedere quello che avevamo concordato?",
+        "de": "Ich habe diese zusätzlichen Arbeiten nicht genehmigt. Können wir noch einmal durchgehen, was wir vereinbart haben?"
       },
       "image_url": ""
     },
     {
       "id": "seg_076",
-      "es": "Quiero cortar solo las puntas, sin cambiar mucho el largo del cabello.",
+      "es": "Quisiera que me cortara solo las puntas, sin acortar mucho el cabello.",
       "translations": {
-        "en": "I’d like just the ends trimmed without changing the length much.",
-        "pt": "Quero cortar só as pontas, sem mudar muito o comprimento do cabelo.",
-        "fr": "Je voudrais couper seulement les pointes, sans trop changer la longueur.",
-        "it": "Vorrei tagliare solo le punte, senza cambiare molto la lunghezza dei capelli."
+        "en": "I'd like you to trim just the ends without taking off too much length.",
+        "pt": "Queria que você cortasse só as pontas, sem tirar muito do comprimento.",
+        "fr": "Je voudrais que vous coupiez juste les pointes, sans trop raccourcir les cheveux.",
+        "it": "Vorrei che mi tagliasse solo le punte, senza accorciare troppo i capelli.",
+        "de": "Bitte schneiden Sie nur die Spitzen, damit die Haare nicht viel kürzer werden."
       },
       "image_url": ""
     },
@@ -846,7 +437,8 @@
         "en": "Does the haircut include washing and styling?",
         "pt": "O corte inclui lavagem e penteado?",
         "fr": "La coupe comprend le lavage et le coiffage ?",
-        "it": "Il taglio include il lavaggio e la piega?"
+        "it": "Il taglio include il lavaggio e la piega?",
+        "de": "Sind Waschen und Styling beim Haarschnitt inbegriffen?"
       },
       "image_url": ""
     },
@@ -854,21 +446,23 @@
       "id": "seg_078",
       "es": "Le mostraré una foto del resultado que busco.",
       "translations": {
-        "en": "I’ll show you a photo of the result I’m looking for.",
+        "en": "I'll show you a photo of the look I'm going for.",
         "pt": "Vou mostrar uma foto do resultado que quero.",
         "fr": "Je vous montrerai une photo du résultat que je souhaite.",
-        "it": "Le mostrerò una foto del risultato che cerco."
+        "it": "Le faccio vedere una foto del risultato che vorrei.",
+        "de": "Ich zeige Ihnen ein Foto davon, wie ich es gern hätte."
       },
       "image_url": ""
     },
     {
       "id": "seg_079",
-      "es": "Antes de empezar, ¿puede decirme cuánto se va a cortar?",
+      "es": "Antes de empezar, ¿puede decirme cuánto cabello va a cortar?",
       "translations": {
-        "en": "Before we start, can you tell me how much you’re going to cut?",
+        "en": "Before we start, could you tell me how much hair you plan to cut off?",
         "pt": "Antes de começar, pode me dizer quanto vai cortar?",
         "fr": "Avant de commencer, pouvez-vous me dire combien vous allez couper ?",
-        "it": "Prima di iniziare, può dirmi quanto taglierà?"
+        "it": "Prima di iniziare, può dirmi quanto taglierà?",
+        "de": "Können Sie mir vor dem Schneiden sagen, wie viel Sie abschneiden wollen?"
       },
       "image_url": ""
     },
@@ -876,54 +470,59 @@
       "id": "seg_080",
       "es": "No quiero usar ese producto; ¿hay una alternativa?",
       "translations": {
-        "en": "I don’t want to use that product. Is there an alternative?",
+        "en": "I don't want to use that product. Is there an alternative?",
         "pt": "Não quero usar esse produto; há uma alternativa?",
         "fr": "Je ne veux pas utiliser ce produit ; il y a une alternative ?",
-        "it": "Non voglio usare quel prodotto; c’è un’alternativa?"
+        "it": "Non voglio usare quel prodotto; c'è un'alternativa?",
+        "de": "Ich möchte dieses Produkt nicht verwenden. Gibt es eine Alternative?"
       },
       "image_url": ""
     },
     {
       "id": "seg_081",
-      "es": "¿Dónde inicio esta gestión y a qué ventanilla corresponde?",
+      "es": "¿Dónde empiezo este trámite y en qué ventanilla lo atienden?",
       "translations": {
         "en": "Where do I start this application, and which counter handles it?",
-        "pt": "Onde inicio esta solicitação e qual guichê atende?",
+        "pt": "Onde posso iniciar esta solicitação e a qual guichê devo me dirigir?",
         "fr": "Où dois-je commencer cette démarche et à quel guichet dois-je aller ?",
-        "it": "Dove inizio questa pratica e a quale sportello devo rivolgermi?"
+        "it": "Dove inizio questa pratica e a quale sportello devo rivolgermi?",
+        "de": "Wo kann ich diesen Antrag stellen und welcher Schalter ist dafür zuständig?"
       },
       "image_url": ""
     },
     {
       "id": "seg_082",
-      "es": "¿Esta gestión se puede hacer en línea o requiere acudir en persona?",
+      "es": "¿Puedo hacer este trámite en línea o tengo que ir en persona?",
       "translations": {
-        "en": "Can this application be completed online, or do I need to come in person?",
-        "pt": "Esta solicitação pode ser feita on-line ou exige comparecer pessoalmente?",
-        "fr": "Cette démarche peut se faire en ligne ou il faut venir en personne ?",
-        "it": "Questa pratica si può fare online o bisogna venire di persona?"
+        "en": "Can I complete this application online, or do I need to go in person?",
+        "pt": "Posso fazer esta solicitação pela internet ou preciso ir pessoalmente?",
+        "fr": "Puis-je faire cette démarche en ligne ou dois-je me déplacer ?",
+        "it": "Posso sbrigare questa pratica online o devo presentarmi di persona?",
+        "de": "Kann ich das online erledigen oder muss ich persönlich vorbeikommen?"
       },
       "image_url": ""
     },
     {
       "id": "seg_083",
-      "es": "¿Debo pedir turno para entregar los documentos o puedo venir sin cita?",
+      "es": "¿Necesito sacar cita para entregar los documentos o puedo venir sin cita?",
       "translations": {
         "en": "Do I need an appointment to submit the documents, or can I walk in?",
-        "pt": "Preciso agendar para entregar os documentos ou posso vir sem horário marcado?",
+        "pt": "Preciso marcar um horário para entregar os documentos ou posso vir sem agendar?",
         "fr": "Je dois prendre rendez-vous pour déposer les documents ou je peux venir sans rendez-vous ?",
-        "it": "Devo prenotare per consegnare i documenti o posso venire senza appuntamento?"
+        "it": "Devo prendere un appuntamento per consegnare i documenti o posso venire senza appuntamento?",
+        "de": "Brauche ich einen Termin, um die Unterlagen abzugeben, oder kann ich ohne Termin kommen?"
       },
       "image_url": ""
     },
     {
       "id": "seg_084",
-      "es": "¿Qué formulario corresponde a la solicitud que quiero hacer?",
+      "es": "¿Qué formulario necesito para presentar esta solicitud?",
       "translations": {
-        "en": "Which form is for the application I want to make?",
-        "pt": "Qual formulário corresponde à solicitação que quero fazer?",
-        "fr": "Quel formulaire correspond à la demande que je veux faire ?",
-        "it": "Quale modulo corrisponde alla richiesta che voglio presentare?"
+        "en": "Which form do I need to submit this application?",
+        "pt": "Qual formulário preciso preencher para apresentar esta solicitação?",
+        "fr": "De quel formulaire ai-je besoin pour déposer cette demande ?",
+        "it": "Di quale modulo ho bisogno per presentare questa richiesta?",
+        "de": "Welches Formular brauche ich für meinen Antrag?"
       },
       "image_url": ""
     },
@@ -934,7 +533,8 @@
         "en": "Where can I find the complete list of required documents?",
         "pt": "Onde encontro a lista completa dos documentos necessários?",
         "fr": "Où puis-je trouver la liste complète des documents nécessaires ?",
-        "it": "Dove trovo l’elenco completo dei documenti necessari?"
+        "it": "Dove trovo l'elenco completo dei documenti necessari?",
+        "de": "Wo finde ich die vollständige Liste der nötigen Unterlagen?"
       },
       "image_url": ""
     },
@@ -943,9 +543,10 @@
       "es": "¿Debo llevar los originales, copias o ambas cosas?",
       "translations": {
         "en": "Should I bring the originals, copies, or both?",
-        "pt": "Preciso levar os originais, cópias ou os dois?",
+        "pt": "Preciso levar os originais, as cópias ou os dois?",
         "fr": "Je dois apporter les originaux, les copies ou les deux ?",
-        "it": "Devo portare gli originali, le copie o entrambi?"
+        "it": "Devo portare gli originali, le copie o entrambi?",
+        "de": "Muss ich die Originale, Kopien oder beides mitbringen?"
       },
       "image_url": ""
     },
@@ -955,30 +556,33 @@
       "translations": {
         "en": "Does this document need a translation, or can you accept it as it is?",
         "pt": "Este documento precisa de tradução ou podem aceitar assim?",
-        "fr": "Ce document doit être traduit ou vous pouvez l’accepter tel quel ?",
-        "it": "Questo documento richiede una traduzione o potete accettarlo così?"
+        "fr": "Ce document doit être traduit ou vous pouvez l'accepter tel quel ?",
+        "it": "Questo documento richiede una traduzione o potete accettarlo così?",
+        "de": "Muss dieses Dokument übersetzt werden oder können Sie es so annehmen?"
       },
       "image_url": ""
     },
     {
       "id": "seg_088",
-      "es": "¿La copia debe tener alguna certificación específica?",
+      "es": "¿Piden algún tipo específico de certificación para la copia?",
       "translations": {
         "en": "Does the copy need any specific certification?",
         "pt": "A cópia precisa de alguma certificação específica?",
-        "fr": "La copie doit avoir une certification particulière ?",
-        "it": "La copia richiede una certificazione specifica?"
+        "fr": "Faut-il faire certifier la copie d'une manière particulière ?",
+        "it": "La copia richiede una certificazione specifica?",
+        "de": "Muss die Kopie auf eine bestimmte Weise beglaubigt sein?"
       },
       "image_url": ""
     },
     {
       "id": "seg_089",
-      "es": "¿Este documento sigue vigente para la gestión que estoy haciendo?",
+      "es": "¿Este documento todavía es válido para mi trámite?",
       "translations": {
-        "en": "Is this document still valid for the application I’m making?",
-        "pt": "Este documento ainda é válido para a solicitação que estou fazendo?",
-        "fr": "Ce document est encore valable pour ma démarche ?",
-        "it": "Questo documento è ancora valido per la pratica che sto facendo?"
+        "en": "Is this document still valid for my application?",
+        "pt": "Este documento ainda vale para a minha solicitação?",
+        "fr": "Ce document est-il toujours valable pour ma démarche ?",
+        "it": "Questo documento è ancora valido per la mia pratica?",
+        "de": "Ist dieses Dokument für meinen Antrag noch gültig?"
       },
       "image_url": ""
     },
@@ -989,18 +593,20 @@
         "en": "Can I save the application and finish it later?",
         "pt": "Posso salvar a solicitação e terminar depois?",
         "fr": "Je peux enregistrer la demande et la compléter plus tard ?",
-        "it": "Posso salvare la richiesta e completarla più tardi?"
+        "it": "Posso salvare la richiesta e completarla più tardi?",
+        "de": "Kann ich den Antrag speichern und später fertig ausfüllen?"
       },
       "image_url": ""
     },
     {
       "id": "seg_091",
-      "es": "No tengo el dato de este campo; ¿debo dejarlo en blanco o pedir ayuda?",
+      "es": "No tengo el dato que piden en este campo. ¿Lo dejo en blanco o pido ayuda?",
       "translations": {
-        "en": "I don’t have the information for this field. Should I leave it blank or ask for help?",
+        "en": "I don't have the information for this field. Should I leave it blank or ask for help?",
         "pt": "Não tenho a informação deste campo; devo deixar em branco ou pedir ajuda?",
-        "fr": "Je n’ai pas l’information pour ce champ ; je dois le laisser vide ou demander de l’aide ?",
-        "it": "Non ho il dato per questo campo; devo lasciarlo vuoto o chiedere aiuto?"
+        "fr": "Je n'ai pas l'information pour ce champ ; je dois le laisser vide ou demander de l'aide ?",
+        "it": "Non ho il dato per questo campo; devo lasciarlo vuoto o chiedere aiuto?",
+        "de": "Mir fehlt die Angabe für dieses Feld. Soll ich es leer lassen oder um Hilfe bitten?"
       },
       "image_url": ""
     },
@@ -1011,18 +617,20 @@
         "en": "Should I sign before coming or in front of the staff receiving the documents?",
         "pt": "Devo assinar antes de vir ou na frente da equipe que recebe os documentos?",
         "fr": "Je dois signer avant de venir ou devant la personne qui reçoit les documents ?",
-        "it": "Devo firmare prima di venire o davanti al personale che riceve i documenti?"
+        "it": "Devo firmare prima di venire o davanti al personale che riceve i documenti?",
+        "de": "Soll ich vorher unterschreiben oder erst vor der Person, die die Unterlagen entgegennimmt?"
       },
       "image_url": ""
     },
     {
       "id": "seg_093",
-      "es": "¿Cuánto cuesta la gestión y en qué momento debo pagar?",
+      "es": "¿Cuánto cuesta el trámite y cuándo tengo que pagar?",
       "translations": {
         "en": "How much does the application cost, and when should I pay?",
-        "pt": "Quanto custa a solicitação e em que momento devo pagar?",
+        "pt": "Quanto custa a solicitação e quando preciso pagar?",
         "fr": "Combien coûte la démarche et à quel moment dois-je payer ?",
-        "it": "Quanto costa la pratica e in quale momento devo pagare?"
+        "it": "Quanto costa la pratica e quando devo pagare?",
+        "de": "Wie viel kostet der Antrag und wann muss ich bezahlen?"
       },
       "image_url": ""
     },
@@ -1033,7 +641,8 @@
         "en": "Does the proof of payment need to be attached to the application?",
         "pt": "O comprovante de pagamento deve ser anexado à solicitação?",
         "fr": "Le justificatif de paiement doit être joint à la demande ?",
-        "it": "La ricevuta di pagamento va allegata alla richiesta?"
+        "it": "La ricevuta di pagamento va allegata alla richiesta?",
+        "de": "Muss ich dem Antrag den Zahlungsbeleg beifügen?"
       },
       "image_url": ""
     },
@@ -1042,20 +651,37 @@
       "es": "¿Pueden revisar si el expediente está completo antes de recibirlo?",
       "translations": {
         "en": "Can you check whether the application file is complete before accepting it?",
-        "pt": "Podem verificar se a documentação está completa antes de receber?",
-        "fr": "Pouvez-vous vérifier si le dossier est complet avant de le recevoir ?",
-        "it": "Potete controllare se la pratica è completa prima di accettarla?"
+        "pt": "Podem verificar se a documentação está completa antes de aceitá-la?",
+        "fr": "Pouvez-vous vérifier si mon dossier est complet avant d'accepter le dépôt ?",
+        "it": "Potete controllare se la pratica è completa prima di accettarla?",
+        "de": "Können Sie vor der Annahme prüfen, ob meine Unterlagen vollständig sind?"
       },
       "image_url": ""
+    },
+    {
+      "id": "seg_115",
+      "es": "Falta adjuntar un documento; el resto de la solicitud está completo.",
+      "translations": {
+        "en": "One document still needs to be attached. The rest of the application is complete.",
+        "pt": "Falta anexar um documento; o restante da solicitação está completo.",
+        "fr": "Il manque un document à joindre ; le reste de la demande est complet.",
+        "it": "Manca un documento da allegare; il resto della richiesta è completo.",
+        "de": "Sie müssen noch ein Dokument beifügen. Der Rest Ihres Antrags ist vollständig."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
     },
     {
       "id": "seg_096",
       "es": "¿Qué documento falta y cómo puedo entregarlo después?",
       "translations": {
         "en": "Which document is missing, and how can I submit it later?",
-        "pt": "Qual documento está faltando e como posso entregar depois?",
+        "pt": "Qual documento está faltando e como posso entregá-lo depois?",
         "fr": "Quel document manque et comment puis-je le fournir plus tard ?",
-        "it": "Quale documento manca e come posso consegnarlo in seguito?"
+        "it": "Quale documento manca e come posso consegnarlo in seguito?",
+        "de": "Welches Dokument fehlt und wie kann ich es nachreichen?"
       },
       "image_url": ""
     },
@@ -1063,87 +689,104 @@
       "id": "seg_097",
       "es": "¿Recibiré un comprobante de que entregué todos los documentos?",
       "translations": {
-        "en": "Will I receive proof that I submitted all the documents?",
+        "en": "Will I get a receipt showing that I submitted all the documents?",
         "pt": "Vou receber um comprovante de que entreguei todos os documentos?",
-        "fr": "Je recevrai un justificatif du dépôt de tous les documents ?",
-        "it": "Riceverò una ricevuta della consegna di tutti i documenti?"
+        "fr": "Vais-je recevoir un justificatif confirmant que tous les documents ont été déposés ?",
+        "it": "Riceverò una ricevuta che confermi la consegna di tutti i documenti?",
+        "de": "Bekomme ich eine Bestätigung, dass ich alle Unterlagen abgegeben habe?"
       },
       "image_url": ""
+    },
+    {
+      "id": "seg_009",
+      "es": "El número de referencia de un trámite",
+      "translations": {
+        "en": "The case reference number",
+        "pt": "O número de protocolo de um pedido",
+        "fr": "Le numéro de référence d'un dossier",
+        "it": "Il numero di riferimento di una pratica",
+        "de": "Die Vorgangsnummer"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I wrote down the case reference number so I could check its status.",
+          "es": "Anoté el número de referencia del trámite para consultar su estado."
+        },
+        "pt": {
+          "text": "Anotei o número de protocolo do pedido para acompanhar o andamento.",
+          "es": "Anoté el número de referencia del trámite para consultar su estado."
+        },
+        "fr": {
+          "text": "J'ai noté le numéro de référence du dossier pour suivre son avancement.",
+          "es": "Anoté el número de referencia del trámite para seguir su avance."
+        },
+        "it": {
+          "text": "Ho annotato il numero di riferimento della pratica per controllare a che punto è.",
+          "es": "Anoté el número de referencia del trámite para consultar su estado."
+        },
+        "de": {
+          "text": "Ich habe mir die Vorgangsnummer notiert, um nachzusehen, wie weit die Bearbeitung ist.",
+          "es": "Anoté el número de referencia del trámite para ver qué tan avanzada está la gestión."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The case reference numbers)",
+        "pt": "(Plural: Os números de protocolo de pedidos)",
+        "fr": "(Plural: Les numéros de référence des dossiers)",
+        "it": "(Plural: I numeri di riferimento delle pratiche)",
+        "de": "(Plural: Die Vorgangsnummern)",
+        "es": "Identifica una solicitud o trámite para consultar su estado. En algunas instituciones se dice «número de expediente»; «expediente» también puede nombrar el conjunto de documentos."
+      }
     },
     {
       "id": "seg_098",
       "es": "¿Dónde aparece el número de referencia de mi solicitud?",
       "translations": {
         "en": "Where can I find my application reference number?",
-        "pt": "Onde aparece o número de referência da minha solicitação?",
+        "pt": "Onde aparece o número de protocolo da minha solicitação?",
         "fr": "Où figure le numéro de référence de ma demande ?",
-        "it": "Dove compare il numero di riferimento della mia richiesta?"
+        "it": "Dove compare il numero di riferimento della mia richiesta?",
+        "de": "Wo finde ich die Vorgangsnummer für meinen Antrag?"
       },
       "image_url": ""
+    },
+    {
+      "id": "seg_116",
+      "es": "Guarde este número de referencia para consultar el estado de su trámite.",
+      "translations": {
+        "en": "Keep this reference number to check the status of the application.",
+        "pt": "Guarde este número de protocolo para consultar o andamento da solicitação.",
+        "fr": "Gardez ce numéro de référence pour consulter l'état de la démarche.",
+        "it": "Conservi questo numero di riferimento per controllare lo stato della pratica.",
+        "de": "Bewahren Sie diese Vorgangsnummer auf. Damit können Sie den Stand Ihres Antrags abfragen."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Frase del personal)"
+      }
     },
     {
       "id": "seg_099",
       "es": "¿Desde qué fecha empieza a contar el plazo de respuesta?",
       "translations": {
-        "en": "From which date does the response time start?",
+        "en": "On what date does the response period start?",
         "pt": "A partir de qual data começa a contar o prazo de resposta?",
         "fr": "À partir de quelle date commence le délai de réponse ?",
-        "it": "Da quale data si conta il tempo di risposta?"
+        "it": "Da quale data decorre il termine per la risposta?",
+        "de": "Ab welchem Datum läuft die Frist für die Antwort?"
       },
       "image_url": ""
     },
     {
       "id": "seg_100",
-      "es": "¿Me avisarán por mensaje, por correo o debo consultar el portal?",
+      "es": "¿Me avisarán por mensaje o por correo electrónico, o debo consultar el portal?",
       "translations": {
         "en": "Will you notify me by message or email, or should I check the portal?",
         "pt": "Vão me avisar por mensagem, por e-mail ou preciso consultar o portal?",
         "fr": "Vous me préviendrez par message ou par e-mail, ou je dois consulter le portail ?",
-        "it": "Mi avviserete per messaggio o e-mail, oppure devo consultare il portale?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_101",
-      "es": "La solicitud aparece como incompleta; no sé qué archivo falta.",
-      "translations": {
-        "en": "The application shows as incomplete. I don’t know which file is missing.",
-        "pt": "A solicitação aparece como incompleta; não sei qual arquivo falta.",
-        "fr": "La demande apparaît comme incomplète ; je ne sais pas quel fichier manque.",
-        "it": "La richiesta risulta incompleta; non so quale file manca."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_102",
-      "es": "Ya envié el documento adicional; ¿quedó vinculado a mi expediente?",
-      "translations": {
-        "en": "I’ve sent the additional document. Has it been added to my case file?",
-        "pt": "Já enviei o documento adicional; ele foi vinculado ao meu processo?",
-        "fr": "J’ai envoyé le document supplémentaire ; il a été ajouté à mon dossier ?",
-        "it": "Ho inviato il documento aggiuntivo; è stato collegato alla mia pratica?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_103",
-      "es": "El portal no reconoce mi número de referencia; ¿cómo compruebo el registro?",
-      "translations": {
-        "en": "The portal doesn’t recognize my reference number. How can I check the registration?",
-        "pt": "O portal não reconhece meu número de referência; como verifico o registro?",
-        "fr": "Le portail ne reconnaît pas mon numéro de référence ; comment vérifier l’enregistrement ?",
-        "it": "Il portale non riconosce il mio numero di riferimento; come verifico la registrazione?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_104",
-      "es": "Encontré un error después de enviar la solicitud; ¿puedo corregirlo sin empezar otra?",
-      "translations": {
-        "en": "I found an error after submitting the application. Can I correct it without starting a new one?",
-        "pt": "Encontrei um erro depois de enviar a solicitação; posso corrigir sem começar outra?",
-        "fr": "J’ai trouvé une erreur après l’envoi de la demande ; je peux la corriger sans en créer une nouvelle ?",
-        "it": "Ho trovato un errore dopo aver inviato la richiesta; posso correggerlo senza iniziarne un’altra?"
+        "it": "Mi avviserete per messaggio o e-mail, oppure devo consultare il portale?",
+        "de": "Bekomme ich eine Nachricht oder eine E-Mail oder soll ich selbst im Portal nachsehen?"
       },
       "image_url": ""
     },
@@ -1153,19 +796,69 @@
       "translations": {
         "en": "What does it mean that my application is awaiting review?",
         "pt": "O que significa que minha solicitação está aguardando análise?",
-        "fr": "Qu’est-ce que cela signifie si ma demande est en attente d’examen ?",
-        "it": "Che cosa significa che la mia richiesta è in attesa di verifica?"
+        "fr": "Qu'est-ce que cela signifie si ma demande est en attente d'examen ?",
+        "it": "Che cosa significa che la mia richiesta è in attesa di verifica?",
+        "de": "Was bedeutet es, dass mein Antrag noch auf Prüfung wartet?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_101",
+      "es": "La solicitud aparece como incompleta; no sé qué archivo falta.",
+      "translations": {
+        "en": "The application shows as incomplete. I don't know which file is missing.",
+        "pt": "A solicitação aparece como incompleta; não sei qual arquivo falta.",
+        "fr": "La demande apparaît comme incomplète ; je ne sais pas quel fichier manque.",
+        "it": "La richiesta risulta incompleta; non so quale file manca.",
+        "de": "Mein Antrag wird als unvollständig angezeigt. Ich weiß nicht, welche Datei fehlt."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_102",
+      "es": "Ya mandé el documento adicional. ¿Se agregó a mi expediente?",
+      "translations": {
+        "en": "I've sent the additional document. Has it been added to my case file?",
+        "pt": "Já enviei o documento adicional; ele foi vinculado ao meu processo?",
+        "fr": "J'ai déjà envoyé le document supplémentaire. A-t-il été ajouté à mon dossier ?",
+        "it": "Ho inviato il documento aggiuntivo; è stato collegato alla mia pratica?",
+        "de": "Ich habe das zusätzliche Dokument schon geschickt. Wurde es meinem Vorgang zugeordnet?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_103",
+      "es": "El portal no reconoce mi número de referencia. ¿Cómo puedo verificar que se registró mi solicitud?",
+      "translations": {
+        "en": "The portal doesn't recognize my reference number. How can I check that my application was recorded?",
+        "pt": "O portal não reconhece meu número de protocolo. Como verifico se minha solicitação foi registrada?",
+        "fr": "Le portail ne reconnaît pas mon numéro de référence. Comment puis-je vérifier que ma demande a bien été enregistrée ?",
+        "it": "Il portale non riconosce il mio numero di riferimento. Come verifico che la mia richiesta sia stata registrata?",
+        "de": "Das Portal erkennt meine Vorgangsnummer nicht. Wie kann ich prüfen, ob mein Antrag erfasst wurde?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_104",
+      "es": "Encontré un error después de enviar la solicitud. ¿Puedo corregirlo sin presentar otra?",
+      "translations": {
+        "en": "I found an error after submitting the application. Can I correct it without starting a new one?",
+        "pt": "Encontrei um erro depois de enviar a solicitação; posso corrigir sem começar outra?",
+        "fr": "J'ai trouvé une erreur après l'envoi de la demande ; je peux la corriger sans en créer une nouvelle ?",
+        "it": "Ho trovato un errore dopo aver inviato la richiesta; posso correggerlo senza iniziarne un'altra?",
+        "de": "Ich habe nach dem Abschicken einen Fehler entdeckt. Kann ich ihn korrigieren, ohne einen neuen Antrag zu stellen?"
       },
       "image_url": ""
     },
     {
       "id": "seg_106",
-      "es": "Necesito actualizar mi dirección sin cancelar la gestión en curso.",
+      "es": "Necesito actualizar mi dirección sin cancelar el trámite en curso.",
       "translations": {
         "en": "I need to update my address without canceling the application in progress.",
         "pt": "Preciso atualizar meu endereço sem cancelar a solicitação em andamento.",
         "fr": "Je dois mettre à jour mon adresse sans annuler la démarche en cours.",
-        "it": "Devo aggiornare il mio indirizzo senza annullare la pratica in corso."
+        "it": "Devo aggiornare il mio indirizzo senza annullare la pratica in corso.",
+        "de": "Ich muss meine Adresse ändern, ohne das laufende Verfahren abzubrechen."
       },
       "image_url": ""
     },
@@ -1173,10 +866,11 @@
       "id": "seg_107",
       "es": "¿La respuesta se recoge aquí o la enviarán a mi domicilio?",
       "translations": {
-        "en": "Will I receive the response here, or will it be sent to my home?",
-        "pt": "A resposta é retirada aqui ou será enviada ao meu endereço?",
+        "en": "Do I pick up the response here, or will it be sent to my address?",
+        "pt": "Preciso retirar a resposta aqui ou vão enviá-la ao meu endereço?",
         "fr": "La réponse est à retirer ici ou sera envoyée à mon domicile ?",
-        "it": "La risposta si ritira qui o verrà inviata a casa?"
+        "it": "La risposta si ritira qui o verrà inviata a casa?",
+        "de": "Hole ich die Antwort hier ab oder wird sie an meine Adresse geschickt?"
       },
       "image_url": ""
     },
@@ -1187,7 +881,8 @@
         "en": "Do I need to show this receipt when collecting the final document?",
         "pt": "Preciso mostrar este comprovante ao retirar o documento final?",
         "fr": "Je dois présenter ce justificatif pour récupérer le document final ?",
-        "it": "Devo mostrare questa ricevuta per ritirare il documento finale?"
+        "it": "Devo mostrare questa ricevuta per ritirare il documento finale?",
+        "de": "Muss ich diesen Beleg vorzeigen, wenn ich das fertige Dokument abhole?"
       },
       "image_url": ""
     },
@@ -1197,85 +892,21 @@
       "translations": {
         "en": "Can you give me a written explanation of what still needs to be done?",
         "pt": "Pode me dar uma explicação por escrito do que falta fazer?",
-        "fr": "Pouvez-vous m’expliquer par écrit ce qu’il reste à faire ?",
-        "it": "Può darmi una spiegazione scritta di quello che resta da fare?"
+        "fr": "Pouvez-vous m'expliquer par écrit ce qu'il reste à faire ?",
+        "it": "Può darmi una spiegazione scritta di quello che resta da fare?",
+        "de": "Können Sie mir schriftlich erklären, was ich noch tun muss?"
       },
       "image_url": ""
     },
     {
       "id": "seg_110",
-      "es": "¿Con quién puedo revisar el caso si la respuesta no llega en el plazo indicado?",
+      "es": "¿Con quién puedo consultar el estado de mi expediente si no recibo respuesta en el plazo indicado?",
       "translations": {
-        "en": "Who can I check with if the response doesn’t arrive within the stated time?",
-        "pt": "Com quem posso verificar o caso se a resposta não chegar no prazo indicado?",
-        "fr": "Avec qui puis-je vérifier mon dossier si la réponse n’arrive pas dans le délai indiqué ?",
-        "it": "Con chi posso verificare il caso se la risposta non arriva nel tempo indicato?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_111",
-      "es": "El envío está en tránsito; todavía no está listo para recoger. (personal)",
-      "translations": {
-        "en": "The shipment is in transit. It isn’t ready for pickup yet.",
-        "pt": "O envio está em trânsito; ainda não está pronto para retirada.",
-        "fr": "L’envoi est en cours d’acheminement ; il n’est pas encore prêt à être retiré.",
-        "it": "La spedizione è in transito; non è ancora pronta per il ritiro."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_112",
-      "es": "La etiqueta ya está creada, pero aún no hemos recibido el paquete. (personal)",
-      "translations": {
-        "en": "The label has been created, but we haven’t received the package yet.",
-        "pt": "A etiqueta já foi criada, mas ainda não recebemos o pacote.",
-        "fr": "L’étiquette a été créée, mais nous n’avons pas encore reçu le colis.",
-        "it": "L’etichetta è stata creata, ma non abbiamo ancora ricevuto il pacco."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_113",
-      "es": "Este punto no acepta ese tipo de envío; debe acudir a la oficina indicada. (personal)",
-      "translations": {
-        "en": "This location doesn’t accept that type of shipment. Please go to the indicated office.",
-        "pt": "Este ponto não aceita esse tipo de envio; procure a agência indicada.",
-        "fr": "Ce point n’accepte pas ce type d’envoi ; vous devez aller au bureau indiqué.",
-        "it": "Questo punto non accetta quel tipo di spedizione; deve andare all’ufficio indicato."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_114",
-      "es": "Podemos hacer el servicio, pero necesitamos su autorización antes de comenzar. (personal)",
-      "translations": {
-        "en": "We can provide the service, but we need your authorization before starting.",
-        "pt": "Podemos realizar o serviço, mas precisamos da sua autorização antes de começar.",
-        "fr": "Nous pouvons effectuer le service, mais nous avons besoin de votre autorisation avant de commencer.",
-        "it": "Possiamo effettuare il servizio, ma ci serve la sua autorizzazione prima di iniziare."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_115",
-      "es": "Falta adjuntar un documento; el resto de la solicitud está completo. (personal)",
-      "translations": {
-        "en": "One document still needs to be attached. The rest of the application is complete.",
-        "pt": "Falta anexar um documento; o restante da solicitação está completo.",
-        "fr": "Il manque un document à joindre ; le reste de la demande est complet.",
-        "it": "Manca un documento da allegare; il resto della richiesta è completo."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_116",
-      "es": "Guarde este número de referencia para consultar el estado de la gestión. (personal)",
-      "translations": {
-        "en": "Keep this reference number to check the status of the application.",
-        "pt": "Guarde este número de referência para consultar o andamento da solicitação.",
-        "fr": "Gardez ce numéro de référence pour consulter l’état de la démarche.",
-        "it": "Conservi questo numero di riferimento per controllare lo stato della pratica."
+        "en": "Who can I contact about my case status if I don't receive a response within the stated time?",
+        "pt": "Com quem posso verificar o andamento do meu processo se a resposta não chegar no prazo indicado?",
+        "fr": "À qui puis-je demander où en est mon dossier si je ne reçois pas de réponse dans le délai indiqué ?",
+        "it": "A chi posso chiedere a che punto è la mia pratica se non ricevo una risposta entro il termine indicato?",
+        "de": "Bei wem kann ich nach dem Stand meines Antrags fragen, wenn die Antwort nicht innerhalb der angegebenen Frist kommt?"
       },
       "image_url": ""
     }
