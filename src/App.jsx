@@ -48,11 +48,12 @@ function App() {
     setCurrentView(view);
   };
 
-  const handleSelectModule = async (module, mode, cardId) => {
+  const handleSelectModule = async (module, mode, cardId, signal) => {
     try {
-      const response = await fetch(`${import.meta.env.BASE_URL}data/${module.file}`);
+      const response = await fetch(`${import.meta.env.BASE_URL}data/${module.file}`, { signal });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
+      if (signal?.aborted) return;
       const index = cardId === undefined ? 0 : data.cards.findIndex(card => card.id === cardId);
       if (index < 0) throw new Error('Tarjeta no encontrada en el módulo');
       setInitialStudyIndex(index);

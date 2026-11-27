@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { MODULES } from "../data/modules";
 import { cardSearchPage, normalizeCardSearch, prepareCardSearch } from "../utils/cardSearch";
 
@@ -32,6 +32,7 @@ export default function CardSearch({ targetLang, query, page, onQuery, onPage, o
     const [loaded, setLoaded] = useState(null);
     const [attempt, setAttempt] = useState(0);
     const [opening, setOpening] = useState(null);
+    const pendingCard = useRef(null);
     const [openError, setOpenError] = useState("");
     const readyToSearch = normalizeCardSearch(query).length >= 2;
     const status = loaded?.language === targetLang && loaded?.attempt === attempt ? loaded : null;
@@ -47,25 +48,48 @@ export default function CardSearch({ targetLang, query, page, onQuery, onPage, o
         return () => { ignore = true; };
     }, [targetLang, readyToSearch, attempt]);
 
+    // Leaving this search or changing languages discards pending navigation.
+    useEffect(() => () => pendingCard.current?.abort(), [targetLang]);
+
     const results = useMemo(
         () => index && cardSearchPage({ index, query, page }),
         [index, query, page],
     );
 
-    function changeQuery(value) {
+    function discardPendingCard() {
+        pendingCard.current?.abort();
+        pendingCard.current = null;
+        setOpening(null);
         setOpenError("");
+    }
+
+    function changeQuery(value) {
+        discardPendingCard();
         onQuery(value);
     }
 
+    function changePage(value) {
+        discardPendingCard();
+        onPage(value);
+    }
+
     async function openCard(result) {
+        if (pendingCard.current) return;
+        const controller = new AbortController();
+        pendingCard.current = controller;
         setOpening(result);
         setOpenError("");
         try {
-            await onSelectModule(result.module, "study", result.id);
+            await onSelectModule(result.module, "study", result.id, controller.signal);
         } catch {
-            setOpenError("No se pudo abrir la tarjeta. Vuelve a intentarlo.");
+            if (!controller.signal.aborted) {
+                setOpenError("No se pudo abrir la tarjeta. Vuelve a intentarlo.");
+            }
         } finally {
-            setOpening(null);
+            if (pendingCard.current === controller) {
+                pendingCard.current = null;
+                setOpening(null);
+            }
         }
     }
 
@@ -142,10 +166,10 @@ export default function CardSearch({ targetLang, query, page, onQuery, onPage, o
                     {results.pages > 1 && (
                         <nav className="home-pagination" aria-label="Páginas de tarjetas">
                             <button className="secondary-btn" type="button" disabled={results.current <= 1}
-                                onClick={() => onPage(results.current - 1)}>Anterior</button>
+                                onClick={() => changePage(results.current - 1)}>Anterior</button>
                             <span className="home-page-indicator" aria-live="polite">{results.current} / {results.pages}</span>
                             <button className="secondary-btn" type="button" disabled={results.current >= results.pages}
-                                onClick={() => onPage(results.current + 1)}>Siguiente</button>
+                                onClick={() => changePage(results.current + 1)}>Siguiente</button>
                         </nav>
                     )}
                 </>
