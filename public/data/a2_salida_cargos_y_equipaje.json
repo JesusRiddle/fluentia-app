@@ -4,47 +4,6 @@
   "revisado": true,
   "cards": [
     {
-      "id": "ha28",
-      "es": "El servicio de objetos perdidos",
-      "translations": {
-        "en": "The lost and found",
-        "fr": "Le service des objets trouvés",
-        "it": "L'ufficio oggetti smarriti",
-        "pt": "O setor de achados e perdidos",
-        "de": "Das Fundbüro"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The lost and found departments)",
-        "pt": "(Plural: Os setores de achados e perdidos)",
-        "fr": "(Plural: Les services des objets trouvés)",
-        "it": "(Plural: Gli uffici oggetti smarriti)",
-        "de": "(Plural: Die Fundbüros)"
-      },
-      "examples": {
-        "en": {
-          "text": "Ask at the lost and found.",
-          "es": "Pregunte en el servicio de objetos perdidos."
-        },
-        "fr": {
-          "text": "Demandez au service des objets trouvés.",
-          "es": "Pregunte en el servicio de objetos perdidos."
-        },
-        "it": {
-          "text": "Chieda all'ufficio oggetti smarriti.",
-          "es": "Pregunte en el servicio de objetos perdidos."
-        },
-        "pt": {
-          "text": "Pergunte no setor de achados e perdidos.",
-          "es": "Pregunte en el servicio de objetos perdidos."
-        },
-        "de": {
-          "text": "Fragen Sie im Fundbüro nach.",
-          "es": "Pregunte en el servicio de objetos perdidos."
-        }
-      }
-    },
-    {
       "id": "ha93",
       "es": "El registro de salida",
       "translations": {
@@ -82,6 +41,179 @@
           "es": "El registro de salida es a las once."
         }
       }
+    },
+    {
+      "id": "ha165",
+      "es": "¿A qué hora debo dejar la habitación el día de salida?",
+      "translations": {
+        "en": "What time do I need to leave the room on my check-out day?",
+        "fr": "À quelle heure dois-je libérer la chambre le jour du départ ?",
+        "it": "Entro che ora devo lasciare la camera il giorno della partenza?",
+        "pt": "Até que horas devo desocupar o quarto no dia da saída?",
+        "de": "Bis wann muss ich das Zimmer am Abreisetag verlassen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha314",
+      "es": "Quisiera hacer el check-out.",
+      "translations": {
+        "en": "I'd like to check out.",
+        "fr": "Je voudrais faire les formalités de départ.",
+        "it": "Vorrei fare il check-out.",
+        "pt": "Gostaria de fazer o check-out.",
+        "de": "Ich möchte auschecken."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha365",
+      "es": "¿Cuál es su número de habitación?",
+      "translations": {
+        "en": "What's your room number?",
+        "fr": "Quel est le numéro de votre chambre ?",
+        "it": "Qual è il numero della sua camera?",
+        "pt": "Qual é o número do seu quarto?",
+        "de": "Wie lautet Ihre Zimmernummer?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha312",
+      "es": "¿Dónde dejo las llaves al salir?",
+      "translations": {
+        "en": "Where should I leave the keys when I check out?",
+        "fr": "Où dois-je laisser les clés au départ ?",
+        "it": "Dove devo lasciare le chiavi alla partenza?",
+        "pt": "Onde deixo as chaves na saída?",
+        "de": "Wo lasse ich die Schlüssel bei der Abreise?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha313",
+      "es": "¿Debo sacar la basura o lavar los platos antes de salir?",
+      "translations": {
+        "en": "Do I need to take out the trash or wash the dishes before I leave?",
+        "fr": "Dois-je sortir les poubelles ou faire la vaisselle avant de partir ?",
+        "it": "Devo portare fuori la spazzatura o lavare i piatti prima di partire?",
+        "pt": "Preciso tirar o lixo ou lavar a louça antes de sair?",
+        "de": "Muss ich vor der Abreise den Müll rausbringen oder das Geschirr spülen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha315",
+      "es": "¿Puedo dejar la habitación a las [hora]? ¿Tiene algún cargo adicional?",
+      "translations": {
+        "en": "Can I check out at [time]? Is there an extra charge?",
+        "fr": "Puis-je libérer la chambre à [heure] ? Y a-t-il un supplément ?",
+        "it": "Posso lasciare la camera alle [ora]? C'è un supplemento?",
+        "pt": "Posso desocupar o quarto às [horário]? Há alguma cobrança adicional?",
+        "de": "Kann ich das Zimmer um [Uhrzeit] verlassen? Kostet das extra?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha389",
+      "es": "La tarifa de salida tardía",
+      "translations": {
+        "en": "The late check-out fee",
+        "fr": "Les frais de départ tardif",
+        "it": "Il supplemento per il check-out posticipato",
+        "pt": "A taxa de check-out tardio",
+        "de": "Die Gebühr für den späten Check-out"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The late check-out fees)",
+        "pt": "(Plural: As taxas de check-out tardio)",
+        "fr": "(Plural: Les frais de départ tardif)",
+        "it": "(Plural: I supplementi per il check-out posticipato)",
+        "de": "(Plural: Die Gebühren für den späten Check-out)"
+      },
+      "examples": {
+        "en": {
+          "text": "Is the late check-out fee per person?",
+          "es": "¿La tarifa de salida tardía se cobra por persona?"
+        },
+        "fr": {
+          "text": "Les frais de départ tardif sont-ils facturés par personne ?",
+          "es": "¿La tarifa de salida tardía se cobra por persona?"
+        },
+        "it": {
+          "text": "Il supplemento per il check-out posticipato si paga a persona?",
+          "es": "¿La tarifa de salida tardía se cobra por persona?"
+        },
+        "pt": {
+          "text": "A taxa de check-out tardio é cobrada por pessoa?",
+          "es": "¿La tarifa de salida tardía se cobra por persona?"
+        },
+        "de": {
+          "text": "Wird die Gebühr für den späten Check-out pro Person berechnet?",
+          "es": "¿La tarifa de salida tardía se cobra por persona?"
+        }
+      }
+    },
+    {
+      "id": "ha362",
+      "es": "La salida tardía está sujeta a disponibilidad.",
+      "translations": {
+        "en": "Late check-out is subject to availability.",
+        "fr": "Le départ tardif est soumis à disponibilité.",
+        "it": "Il check-out tardivo è soggetto a disponibilità.",
+        "pt": "O check-out tardio está sujeito à disponibilidade.",
+        "de": "Ein später Check-out ist je nach Verfügbarkeit möglich."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha363",
+      "es": "Puede quedarse hasta las [hora] sin cargo adicional.",
+      "translations": {
+        "en": "You can stay until [time] at no extra charge.",
+        "fr": "Vous pouvez rester jusqu'à [heure] sans supplément.",
+        "it": "Può rimanere fino alle [ora] senza costi aggiuntivi.",
+        "pt": "Pode ficar até as [horário] sem custo adicional.",
+        "de": "Sie können bis [Uhrzeit] ohne Aufpreis bleiben."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha316",
+      "es": "¿Puedo seguir usando la alberca después del check-out?",
+      "translations": {
+        "en": "Can I still use the pool after check-out?",
+        "fr": "Puis-je continuer à utiliser la piscine après mon départ de la chambre ?",
+        "it": "Posso continuare a usare la piscina dopo il check-out?",
+        "pt": "Posso continuar usando a piscina depois do check-out?",
+        "de": "Kann ich nach dem Check-out noch den Pool benutzen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha372",
+      "es": "¿Puede devolver todas las tarjetas llave, por favor?",
+      "translations": {
+        "en": "Could you return all the key cards, please?",
+        "fr": "Pouvez-vous rendre toutes les cartes-clés, s'il vous plaît ?",
+        "it": "Può restituire tutte le tessere della camera, per favore?",
+        "pt": "Pode devolver todos os cartões-chave, por favor?",
+        "de": "Können Sie bitte alle Zimmerkarten zurückgeben?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha332",
+      "es": "Aquí están las tarjetas llave.",
+      "translations": {
+        "en": "Here are the key cards.",
+        "fr": "Voici les cartes-clés.",
+        "it": "Ecco le tessere della camera.",
+        "pt": "Aqui estão os cartões-chave.",
+        "de": "Hier sind die Zimmerkarten."
+      },
+      "image_url": ""
     },
     {
       "id": "ha106",
@@ -407,191 +539,6 @@
       }
     },
     {
-      "id": "ha165",
-      "es": "¿A qué hora debo dejar la habitación el día de salida?",
-      "translations": {
-        "en": "What time do I need to leave the room on my check-out day?",
-        "fr": "À quelle heure dois-je libérer la chambre le jour du départ ?",
-        "it": "Entro che ora devo lasciare la camera il giorno della partenza?",
-        "pt": "Até que horas devo desocupar o quarto no dia da saída?",
-        "de": "Bis wann muss ich das Zimmer am Abreisetag verlassen?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha279",
-      "es": "¿Puedo dejar mi equipaje aquí después del check-out?",
-      "translations": {
-        "en": "Can I leave my luggage here after check-out?",
-        "fr": "Puis-je laisser mes bagages ici après le départ ?",
-        "it": "Posso lasciare qui i bagagli dopo il check-out?",
-        "pt": "Posso deixar minha bagagem aqui depois do check-out?",
-        "de": "Kann ich mein Gepäck nach dem Check-out hier lassen?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha280",
-      "es": "¿Hasta qué hora guardan el equipaje? ¿Tiene costo?",
-      "translations": {
-        "en": "Until what time can you store my luggage? Is there a charge?",
-        "fr": "Jusqu'à quelle heure pouvez-vous garder mes bagages ? Est-ce payant ?",
-        "it": "Fino a che ora potete tenere i bagagli? Ha un costo?",
-        "pt": "Até que horas vocês guardam a bagagem? Há custo?",
-        "de": "Bis wann bewahren Sie das Gepäck auf? Kostet das etwas?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha281",
-      "es": "Volveré a recoger mis maletas a las [hora].",
-      "translations": {
-        "en": "I'll come back to pick up my bags at [time].",
-        "fr": "Je reviendrai récupérer mes bagages à [heure].",
-        "it": "Tornerò a ritirare i bagagli alle [ora].",
-        "pt": "Vou voltar para buscar minhas malas às [horário].",
-        "de": "Ich hole meine Koffer um [Uhrzeit] wieder ab."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha282",
-      "es": "Este es mi comprobante para recoger el equipaje.",
-      "translations": {
-        "en": "Here is my luggage claim ticket.",
-        "fr": "Voici mon ticket de consigne.",
-        "it": "Questa è la mia ricevuta per ritirare i bagagli.",
-        "pt": "Este é meu comprovante para retirar a bagagem.",
-        "de": "Das ist mein Beleg für die Gepäckabholung."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha283",
-      "es": "Perdí el comprobante del equipaje; ¿cómo puedo identificar mis maletas?",
-      "translations": {
-        "en": "I lost my luggage claim ticket. How can I identify my bags?",
-        "fr": "J'ai perdu mon ticket de consigne. Comment puis-je identifier mes bagages ?",
-        "it": "Ho perso la ricevuta del deposito bagagli. Come posso identificare le mie valigie?",
-        "pt": "Perdi o comprovante da bagagem. Como posso identificar minhas malas?",
-        "de": "Ich habe den Gepäckschein verloren. Wie kann ich meine Koffer identifizieren?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha284",
-      "es": "Mi maleta no está donde la dejaron; ¿pueden revisar?",
-      "translations": {
-        "en": "My suitcase isn't where it was left. Could you check?",
-        "fr": "Ma valise n'est pas à l'endroit où elle a été déposée. Pouvez-vous vérifier ?",
-        "it": "La mia valigia non è dove è stata lasciata. Potete controllare?",
-        "pt": "Minha mala não está onde foi deixada. Podem verificar?",
-        "de": "Mein Koffer ist nicht da, wo er abgestellt wurde. Können Sie nachsehen?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha312",
-      "es": "¿Dónde dejo las llaves al salir?",
-      "translations": {
-        "en": "Where should I leave the keys when I check out?",
-        "fr": "Où dois-je laisser les clés au départ ?",
-        "it": "Dove devo lasciare le chiavi alla partenza?",
-        "pt": "Onde deixo as chaves na saída?",
-        "de": "Wo lasse ich die Schlüssel bei der Abreise?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha313",
-      "es": "¿Debo sacar la basura o lavar los platos antes de salir?",
-      "translations": {
-        "en": "Do I need to take out the trash or wash the dishes before I leave?",
-        "fr": "Dois-je sortir les poubelles ou faire la vaisselle avant de partir ?",
-        "it": "Devo portare fuori la spazzatura o lavare i piatti prima di partire?",
-        "pt": "Preciso tirar o lixo ou lavar a louça antes de sair?",
-        "de": "Muss ich vor der Abreise den Müll rausbringen oder das Geschirr spülen?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha314",
-      "es": "Quisiera hacer el check-out.",
-      "translations": {
-        "en": "I'd like to check out.",
-        "fr": "Je voudrais faire les formalités de départ.",
-        "it": "Vorrei fare il check-out.",
-        "pt": "Gostaria de fazer o check-out.",
-        "de": "Ich möchte auschecken."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha315",
-      "es": "¿Puedo dejar la habitación a las [hora]? ¿Tiene algún cargo adicional?",
-      "translations": {
-        "en": "Can I check out at [time]? Is there an extra charge?",
-        "fr": "Puis-je libérer la chambre à [heure] ? Y a-t-il un supplément ?",
-        "it": "Posso lasciare la camera alle [ora]? C'è un supplemento?",
-        "pt": "Posso desocupar o quarto às [horário]? Há alguma cobrança adicional?",
-        "de": "Kann ich das Zimmer um [Uhrzeit] verlassen? Kostet das extra?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha389",
-      "es": "La tarifa de salida tardía",
-      "translations": {
-        "en": "The late check-out fee",
-        "fr": "Les frais de départ tardif",
-        "it": "Il supplemento per il check-out posticipato",
-        "pt": "A taxa de check-out tardio",
-        "de": "Die Gebühr für den späten Check-out"
-      },
-      "image_url": "",
-      "notes": {
-        "en": "(Plural: The late check-out fees)",
-        "pt": "(Plural: As taxas de check-out tardio)",
-        "fr": "(Plural: Les frais de départ tardif)",
-        "it": "(Plural: I supplementi per il check-out posticipato)",
-        "de": "(Plural: Die Gebühren für den späten Check-out)"
-      },
-      "examples": {
-        "en": {
-          "text": "Is the late check-out fee per person?",
-          "es": "¿La tarifa de salida tardía se cobra por persona?"
-        },
-        "fr": {
-          "text": "Les frais de départ tardif sont-ils facturés par personne ?",
-          "es": "¿La tarifa de salida tardía se cobra por persona?"
-        },
-        "it": {
-          "text": "Il supplemento per il check-out posticipato si paga a persona?",
-          "es": "¿La tarifa de salida tardía se cobra por persona?"
-        },
-        "pt": {
-          "text": "A taxa de check-out tardio é cobrada por pessoa?",
-          "es": "¿La tarifa de salida tardía se cobra por persona?"
-        },
-        "de": {
-          "text": "Wird die Gebühr für den späten Check-out pro Person berechnet?",
-          "es": "¿La tarifa de salida tardía se cobra por persona?"
-        }
-      }
-    },
-    {
-      "id": "ha316",
-      "es": "¿Puedo seguir usando la alberca después del check-out?",
-      "translations": {
-        "en": "Can I still use the pool after check-out?",
-        "fr": "Puis-je continuer à utiliser la piscine après mon départ de la chambre ?",
-        "it": "Posso continuare a usare la piscina dopo il check-out?",
-        "pt": "Posso continuar usando a piscina depois do check-out?",
-        "de": "Kann ich nach dem Check-out noch den Pool benutzen?"
-      },
-      "image_url": ""
-    },
-    {
       "id": "ha317",
       "es": "¿Me puede dar la cuenta detallada, por favor?",
       "translations": {
@@ -600,6 +547,18 @@
         "it": "Mi può dare il conto dettagliato, per favore?",
         "pt": "Pode me dar a conta detalhada, por favor?",
         "de": "Können Sie mir bitte eine detaillierte Rechnung geben?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha367",
+      "es": "Este es el desglose de sus cargos.",
+      "translations": {
+        "en": "Here is the breakdown of your charges.",
+        "fr": "Voici le détail de vos frais.",
+        "it": "Questo è il dettaglio dei suoi addebiti.",
+        "pt": "Este é o detalhamento das suas cobranças.",
+        "de": "Hier sind die einzelnen Posten Ihrer Rechnung."
       },
       "image_url": ""
     },
@@ -624,6 +583,30 @@
         "it": "A cosa si riferisce questo addebito?",
         "pt": "A que se refere esta cobrança?",
         "de": "Wofür ist dieser Betrag?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha371",
+      "es": "El impuesto turístico aparece por separado en la cuenta.",
+      "translations": {
+        "en": "The tourist tax is listed separately on the bill.",
+        "fr": "La taxe de séjour apparaît séparément sur la facture.",
+        "it": "L'imposta di soggiorno è indicata separatamente sul conto.",
+        "pt": "A taxa turística aparece separadamente na conta.",
+        "de": "Die Tourismusabgabe ist auf der Rechnung separat aufgeführt."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha366",
+      "es": "¿Consumió algo del minibar?",
+      "translations": {
+        "en": "Did you use anything from the minibar?",
+        "fr": "Avez-vous consommé quelque chose dans le minibar ?",
+        "it": "Ha consumato qualcosa dal minibar?",
+        "pt": "Consumiu algo do frigobar?",
+        "de": "Haben Sie etwas aus der Minibar genommen?"
       },
       "image_url": ""
     },
@@ -684,6 +667,18 @@
         "it": "Potete emettere una fattura a nome della mia azienda?",
         "pt": "Podem emitir uma nota fiscal em nome da minha empresa?",
         "de": "Können Sie die Rechnung auf meine Firma ausstellen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha370",
+      "es": "¿A nombre de quién emitimos la factura?",
+      "translations": {
+        "en": "Whose name should we put on the invoice?",
+        "fr": "À quel nom devons-nous établir la facture ?",
+        "it": "A che nome emettiamo la fattura?",
+        "pt": "Em nome de quem emitimos a nota fiscal?",
+        "de": "Auf welchen Namen sollen wir die Rechnung ausstellen?"
       },
       "image_url": ""
     },
@@ -760,6 +755,18 @@
       "image_url": ""
     },
     {
+      "id": "ha369",
+      "es": "¿Desea pagar con la tarjeta que dejó al llegar?",
+      "translations": {
+        "en": "Would you like to pay with the card you provided at check-in?",
+        "fr": "Souhaitez-vous payer avec la carte présentée à votre arrivée ?",
+        "it": "Desidera pagare con la carta che ha presentato all'arrivo?",
+        "pt": "Quer pagar com o cartão que apresentou no check-in?",
+        "de": "Möchten Sie mit der Karte bezahlen, die Sie bei der Ankunft hinterlegt haben?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "ha331",
       "es": "¿Queda algún saldo pendiente?",
       "translations": {
@@ -772,14 +779,14 @@
       "image_url": ""
     },
     {
-      "id": "ha332",
-      "es": "Aquí están las tarjetas llave.",
+      "id": "ha368",
+      "es": "Queda un saldo de [monto] por pagar.",
       "translations": {
-        "en": "Here are the key cards.",
-        "fr": "Voici les cartes-clés.",
-        "it": "Ecco le tessere della camera.",
-        "pt": "Aqui estão os cartões-chave.",
-        "de": "Hier sind die Zimmerkarten."
+        "en": "There is a remaining balance of [amount].",
+        "fr": "Il reste un solde de [montant] à payer.",
+        "it": "Resta un saldo di [importo] da pagare.",
+        "pt": "Há um saldo de [valor] a pagar.",
+        "de": "Es sind noch [Betrag] zu zahlen."
       },
       "image_url": ""
     },
@@ -806,6 +813,131 @@
         "de": "Haben Sie die Freigabe des reservierten Betrags auf meiner Karte schon veranlasst?"
       },
       "image_url": ""
+    },
+    {
+      "id": "ha279",
+      "es": "¿Puedo dejar mi equipaje aquí después del check-out?",
+      "translations": {
+        "en": "Can I leave my luggage here after check-out?",
+        "fr": "Puis-je laisser mes bagages ici après le départ ?",
+        "it": "Posso lasciare qui i bagagli dopo il check-out?",
+        "pt": "Posso deixar minha bagagem aqui depois do check-out?",
+        "de": "Kann ich mein Gepäck nach dem Check-out hier lassen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha280",
+      "es": "¿Hasta qué hora guardan el equipaje? ¿Tiene costo?",
+      "translations": {
+        "en": "Until what time can you store my luggage? Is there a charge?",
+        "fr": "Jusqu'à quelle heure pouvez-vous garder mes bagages ? Est-ce payant ?",
+        "it": "Fino a che ora potete tenere i bagagli? Ha un costo?",
+        "pt": "Até que horas vocês guardam a bagagem? Há custo?",
+        "de": "Bis wann bewahren Sie das Gepäck auf? Kostet das etwas?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha281",
+      "es": "Volveré a recoger mis maletas a las [hora].",
+      "translations": {
+        "en": "I'll come back to pick up my bags at [time].",
+        "fr": "Je reviendrai récupérer mes bagages à [heure].",
+        "it": "Tornerò a ritirare i bagagli alle [ora].",
+        "pt": "Vou voltar para buscar minhas malas às [horário].",
+        "de": "Ich hole meine Koffer um [Uhrzeit] wieder ab."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha282",
+      "es": "Este es mi comprobante para recoger el equipaje.",
+      "translations": {
+        "en": "Here is my luggage claim ticket.",
+        "fr": "Voici mon ticket de consigne.",
+        "it": "Questa è la mia ricevuta per ritirare i bagagli.",
+        "pt": "Este é meu comprovante para retirar a bagagem.",
+        "de": "Das ist mein Beleg für die Gepäckabholung."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha373",
+      "es": "Para recoger el equipaje, presente este comprobante.",
+      "translations": {
+        "en": "Please show this claim ticket when you pick up your luggage.",
+        "fr": "Pour récupérer vos bagages, présentez ce ticket.",
+        "it": "Per ritirare i bagagli, presenti questa ricevuta.",
+        "pt": "Para retirar a bagagem, apresente este comprovante.",
+        "de": "Zeigen Sie zur Gepäckabholung bitte diesen Beleg vor."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha283",
+      "es": "Perdí el comprobante del equipaje; ¿cómo puedo identificar mis maletas?",
+      "translations": {
+        "en": "I lost my luggage claim ticket. How can I identify my bags?",
+        "fr": "J'ai perdu mon ticket de consigne. Comment puis-je identifier mes bagages ?",
+        "it": "Ho perso la ricevuta del deposito bagagli. Come posso identificare le mie valigie?",
+        "pt": "Perdi o comprovante da bagagem. Como posso identificar minhas malas?",
+        "de": "Ich habe den Gepäckschein verloren. Wie kann ich meine Koffer identifizieren?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha284",
+      "es": "Mi maleta no está donde la dejaron; ¿pueden revisar?",
+      "translations": {
+        "en": "My suitcase isn't where it was left. Could you check?",
+        "fr": "Ma valise n'est pas à l'endroit où elle a été déposée. Pouvez-vous vérifier ?",
+        "it": "La mia valigia non è dove è stata lasciata. Potete controllare?",
+        "pt": "Minha mala não está onde foi deixada. Podem verificar?",
+        "de": "Mein Koffer ist nicht da, wo er abgestellt wurde. Können Sie nachsehen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "ha28",
+      "es": "El servicio de objetos perdidos",
+      "translations": {
+        "en": "The lost and found",
+        "fr": "Le service des objets trouvés",
+        "it": "L'ufficio oggetti smarriti",
+        "pt": "O setor de achados e perdidos",
+        "de": "Das Fundbüro"
+      },
+      "image_url": "",
+      "notes": {
+        "en": "(Plural: The lost and found departments)",
+        "pt": "(Plural: Os setores de achados e perdidos)",
+        "fr": "(Plural: Les services des objets trouvés)",
+        "it": "(Plural: Gli uffici oggetti smarriti)",
+        "de": "(Plural: Die Fundbüros)"
+      },
+      "examples": {
+        "en": {
+          "text": "Ask at the lost and found.",
+          "es": "Pregunte en el servicio de objetos perdidos."
+        },
+        "fr": {
+          "text": "Demandez au service des objets trouvés.",
+          "es": "Pregunte en el servicio de objetos perdidos."
+        },
+        "it": {
+          "text": "Chieda all'ufficio oggetti smarriti.",
+          "es": "Pregunte en el servicio de objetos perdidos."
+        },
+        "pt": {
+          "text": "Pergunte no setor de achados e perdidos.",
+          "es": "Pregunte en el servicio de objetos perdidos."
+        },
+        "de": {
+          "text": "Fragen Sie im Fundbüro nach.",
+          "es": "Pregunte en el servicio de objetos perdidos."
+        }
+      }
     },
     {
       "id": "ha335",
@@ -840,138 +972,6 @@
         "it": "Potete spedirmelo? Pago io le spese di spedizione.",
         "pt": "Podem me enviar? Eu pago o frete.",
         "de": "Können Sie ihn mir schicken? Ich übernehme die Versandkosten."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha362",
-      "es": "La salida tardía está sujeta a disponibilidad.",
-      "translations": {
-        "en": "Late check-out is subject to availability.",
-        "fr": "Le départ tardif est soumis à disponibilité.",
-        "it": "Il check-out tardivo è soggetto a disponibilità.",
-        "pt": "O check-out tardio está sujeito à disponibilidade.",
-        "de": "Ein später Check-out ist je nach Verfügbarkeit möglich."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha363",
-      "es": "Puede quedarse hasta las [hora] sin cargo adicional.",
-      "translations": {
-        "en": "You can stay until [time] at no extra charge.",
-        "fr": "Vous pouvez rester jusqu'à [heure] sans supplément.",
-        "it": "Può rimanere fino alle [ora] senza costi aggiuntivi.",
-        "pt": "Pode ficar até as [horário] sem custo adicional.",
-        "de": "Sie können bis [Uhrzeit] ohne Aufpreis bleiben."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha365",
-      "es": "¿Cuál es su número de habitación?",
-      "translations": {
-        "en": "What's your room number?",
-        "fr": "Quel est le numéro de votre chambre ?",
-        "it": "Qual è il numero della sua camera?",
-        "pt": "Qual é o número do seu quarto?",
-        "de": "Wie lautet Ihre Zimmernummer?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha366",
-      "es": "¿Consumió algo del minibar?",
-      "translations": {
-        "en": "Did you use anything from the minibar?",
-        "fr": "Avez-vous consommé quelque chose dans le minibar ?",
-        "it": "Ha consumato qualcosa dal minibar?",
-        "pt": "Consumiu algo do frigobar?",
-        "de": "Haben Sie etwas aus der Minibar genommen?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha367",
-      "es": "Este es el desglose de sus cargos.",
-      "translations": {
-        "en": "Here is the breakdown of your charges.",
-        "fr": "Voici le détail de vos frais.",
-        "it": "Questo è il dettaglio dei suoi addebiti.",
-        "pt": "Este é o detalhamento das suas cobranças.",
-        "de": "Hier sind die einzelnen Posten Ihrer Rechnung."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha368",
-      "es": "Queda un saldo de [monto] por pagar.",
-      "translations": {
-        "en": "There is a remaining balance of [amount].",
-        "fr": "Il reste un solde de [montant] à payer.",
-        "it": "Resta un saldo di [importo] da pagare.",
-        "pt": "Há um saldo de [valor] a pagar.",
-        "de": "Es sind noch [Betrag] zu zahlen."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha369",
-      "es": "¿Desea pagar con la tarjeta que dejó al llegar?",
-      "translations": {
-        "en": "Would you like to pay with the card you provided at check-in?",
-        "fr": "Souhaitez-vous payer avec la carte présentée à votre arrivée ?",
-        "it": "Desidera pagare con la carta che ha presentato all'arrivo?",
-        "pt": "Quer pagar com o cartão que apresentou no check-in?",
-        "de": "Möchten Sie mit der Karte bezahlen, die Sie bei der Ankunft hinterlegt haben?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha370",
-      "es": "¿A nombre de quién emitimos la factura?",
-      "translations": {
-        "en": "Whose name should we put on the invoice?",
-        "fr": "À quel nom devons-nous établir la facture ?",
-        "it": "A che nome emettiamo la fattura?",
-        "pt": "Em nome de quem emitimos a nota fiscal?",
-        "de": "Auf welchen Namen sollen wir die Rechnung ausstellen?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha371",
-      "es": "El impuesto turístico aparece por separado en la cuenta.",
-      "translations": {
-        "en": "The tourist tax is listed separately on the bill.",
-        "fr": "La taxe de séjour apparaît séparément sur la facture.",
-        "it": "L'imposta di soggiorno è indicata separatamente sul conto.",
-        "pt": "A taxa turística aparece separadamente na conta.",
-        "de": "Die Tourismusabgabe ist auf der Rechnung separat aufgeführt."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha372",
-      "es": "¿Puede devolver todas las tarjetas llave, por favor?",
-      "translations": {
-        "en": "Could you return all the key cards, please?",
-        "fr": "Pouvez-vous rendre toutes les cartes-clés, s'il vous plaît ?",
-        "it": "Può restituire tutte le tessere della camera, per favore?",
-        "pt": "Pode devolver todos os cartões-chave, por favor?",
-        "de": "Können Sie bitte alle Zimmerkarten zurückgeben?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "ha373",
-      "es": "Para recoger el equipaje, presente este comprobante.",
-      "translations": {
-        "en": "Please show this claim ticket when you pick up your luggage.",
-        "fr": "Pour récupérer vos bagages, présentez ce ticket.",
-        "it": "Per ritirare i bagagli, presenti questa ricevuta.",
-        "pt": "Para retirar a bagagem, apresente este comprovante.",
-        "de": "Zeigen Sie zur Gepäckabholung bitte diesen Beleg vor."
       },
       "image_url": ""
     },
