@@ -4,14 +4,62 @@
   "revisado": true,
   "cards": [
     {
-      "id": "gs_018",
-      "es": "No quiero hacerlo.",
+      "id": "gs_027",
+      "es": "Prefiero conocerte antes.",
       "translations": {
-        "en": "I don't want to do that.",
-        "fr": "J'ai pas envie de faire ça.",
-        "it": "Non voglio farlo.",
-        "pt": "Não quero fazer isso.",
-        "de": "Ich will das nicht machen."
+        "en": "I'd rather get to know you first.",
+        "fr": "Je préfère qu'on fasse connaissance avant.",
+        "it": "Preferisco conoscerti prima.",
+        "pt": "Prefiro te conhecer antes.",
+        "de": "Ich möchte dich lieber erst kennenlernen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "gs_028",
+      "es": "Mejor nos vemos primero en un lugar público.",
+      "translations": {
+        "en": "Let's meet somewhere public first.",
+        "fr": "On ferait mieux de se voir d'abord dans un lieu public.",
+        "it": "Meglio vederci prima in un luogo pubblico.",
+        "pt": "Melhor a gente se encontrar primeiro em um lugar público.",
+        "de": "Treffen wir uns lieber zuerst an einem öffentlichen Ort."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "gs_029",
+      "es": "No quiero consumir drogas.",
+      "translations": {
+        "en": "I don't want to do drugs.",
+        "fr": "Je ne veux pas prendre de drogue.",
+        "it": "Non voglio prendere droghe.",
+        "pt": "Não quero usar drogas.",
+        "de": "Ich will keine Drogen nehmen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "gs_033",
+      "es": "No me siento seguro. / No me siento segura.",
+      "translations": {
+        "en": "I don't feel safe.",
+        "fr": "Je ne me sens pas en sécurité.",
+        "it": "Non mi sento al sicuro.",
+        "pt": "Não me sinto seguro. / Não me sinto segura.",
+        "de": "Ich fühle mich nicht sicher."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "gs_034",
+      "es": "Quiero irme.",
+      "translations": {
+        "en": "I want to leave.",
+        "fr": "Je veux partir.",
+        "it": "Voglio andarmene.",
+        "pt": "Quero ir embora.",
+        "de": "Ich möchte gehen."
       },
       "image_url": ""
     },
@@ -22,10 +70,13 @@
         "en": "Are you okay with that?",
         "fr": "Ça te va ?",
         "it": "Ti va bene?",
-        "pt": "Tudo bem pra você?",
+        "pt": "Tudo bem para você?",
         "de": "Ist das für dich okay?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "pt": "Coloquial: «Tudo bem pra você?»."
+      }
     },
     {
       "id": "gs_020",
@@ -36,18 +87,6 @@
         "it": "Ti senti a tuo agio?",
         "pt": "Você está à vontade?",
         "de": "Fühlst du dich wohl?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "gs_030",
-      "es": "¿Todo bien? ¿Seguimos?",
-      "translations": {
-        "en": "You okay? Want to keep going?",
-        "fr": "Ça va ? On continue ?",
-        "it": "Tutto bene? Continuiamo?",
-        "pt": "Tudo bem? Quer continuar?",
-        "de": "Alles in Ordnung? Wollen wir weitermachen?"
       },
       "image_url": ""
     },
@@ -64,16 +103,46 @@
       "image_url": ""
     },
     {
-      "id": "gs_032",
-      "es": "Cambié de opinión.",
+      "id": "gs_030",
+      "es": "¿Todo bien? ¿Seguimos?",
       "translations": {
-        "en": "I changed my mind.",
-        "fr": "J'ai changé d'avis.",
-        "it": "Ho cambiato idea.",
-        "pt": "Mudei de ideia.",
-        "de": "Ich habe meine Meinung geändert."
+        "en": "You okay? Want to keep going?",
+        "fr": "Ça va ? On continue ?",
+        "it": "Tutto bene? Continuiamo?",
+        "pt": "Tudo bem? Quer continuar?",
+        "de": "Alles in Ordnung? Wollen wir weitermachen?"
       },
       "image_url": ""
+    },
+    {
+      "id": "gs_018",
+      "es": "No quiero hacerlo.",
+      "translations": {
+        "en": "I don't want to do that.",
+        "fr": "Je n'ai pas envie de faire ça.",
+        "it": "Non voglio farlo.",
+        "pt": "Não quero fazer isso.",
+        "de": "Ich will das nicht machen."
+      },
+      "image_url": "",
+      "notes": {
+        "fr": "Coloquial: «J'ai pas envie de faire ça»; en el habla se suele omitir «ne»."
+      }
+    },
+    {
+      "id": "gs_023",
+      "es": "No me gusta eso.",
+      "translations": {
+        "en": "I don't like that.",
+        "fr": "Je n'aime pas ça.",
+        "it": "Non mi piace.",
+        "pt": "Não gosto disso.",
+        "de": "Das mag ich nicht."
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Coloquial: «Não curto isso»."
+      }
     },
     {
       "id": "gs_021",
@@ -100,14 +169,14 @@
       "image_url": ""
     },
     {
-      "id": "gs_023",
-      "es": "No me gusta eso.",
+      "id": "gs_032",
+      "es": "Cambié de opinión.",
       "translations": {
-        "en": "I don't like that.",
-        "fr": "Je n'aime pas ça.",
-        "it": "Non mi piace.",
-        "pt": "Não curto isso.",
-        "de": "Das mag ich nicht."
+        "en": "I changed my mind.",
+        "fr": "J'ai changé d'avis.",
+        "it": "Ho cambiato idea.",
+        "pt": "Mudei de ideia.",
+        "de": "Ich habe meine Meinung geändert."
       },
       "image_url": ""
     },
@@ -161,73 +230,17 @@
       "id": "gs_026",
       "es": "No compartas mis fotos.",
       "translations": {
-        "en": "Don't share my pics.",
-        "fr": "Partage pas mes photos.",
+        "en": "Don't share my photos.",
+        "fr": "Ne partage pas mes photos.",
         "it": "Non condividere le mie foto.",
         "pt": "Não compartilha minhas fotos.",
         "de": "Teile meine Fotos nicht."
       },
-      "image_url": ""
-    },
-    {
-      "id": "gs_027",
-      "es": "Prefiero conocerte antes.",
-      "translations": {
-        "en": "I'd rather get to know you first.",
-        "fr": "Je préfère qu'on fasse connaissance avant.",
-        "it": "Preferisco conoscerti prima.",
-        "pt": "Prefiro te conhecer antes.",
-        "de": "Ich möchte dich lieber erst kennenlernen."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "gs_028",
-      "es": "Mejor nos vemos primero en un lugar público.",
-      "translations": {
-        "en": "Let's meet somewhere public first.",
-        "fr": "On ferait mieux de se voir d'abord dans un lieu public.",
-        "it": "Meglio vederci prima in un luogo pubblico.",
-        "pt": "Melhor a gente se encontrar primeiro em um lugar público.",
-        "de": "Treffen wir uns lieber zuerst an einem öffentlichen Ort."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "gs_029",
-      "es": "No quiero consumir drogas.",
-      "translations": {
-        "en": "I don't want to do drugs.",
-        "fr": "Je veux pas prendre de drogues.",
-        "it": "Non voglio prendere droghe.",
-        "pt": "Não quero usar drogas.",
-        "de": "Ich möchte keine Drogen nehmen."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "gs_033",
-      "es": "No me siento seguro. / No me siento segura.",
-      "translations": {
-        "en": "I don't feel safe.",
-        "fr": "Je ne me sens pas en sécurité.",
-        "it": "Non mi sento al sicuro.",
-        "pt": "Não me sinto seguro. / Não me sinto segura.",
-        "de": "Ich fühle mich nicht sicher."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "gs_034",
-      "es": "Quiero irme.",
-      "translations": {
-        "en": "I want to leave.",
-        "fr": "Je veux partir.",
-        "it": "Voglio andarmene.",
-        "pt": "Quero ir embora.",
-        "de": "Ich möchte gehen."
-      },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "en": "Coloquial: «pics» significa «photos» en mensajes.",
+        "fr": "Coloquial: «Partage pas mes photos»; en el habla se suele omitir «ne»."
+      }
     },
     {
       "id": "gs_001",
@@ -239,26 +252,34 @@
         "pt": "Topa usar camisinha?",
         "de": "Ist es für dich okay, wenn wir ein Kondom benutzen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Coloquial) «¿Te late…?» significa «¿Te parece bien…?» en México.",
+        "fr": "(Coloquial) «Capote» equivale a «préservatif».",
+        "pt": "(Coloquial) «Topa…?» es una forma de preguntar si algo te parece bien."
+      }
     },
     {
       "id": "gs_002",
       "es": "¿Traes condones?",
       "translations": {
-        "en": "Do you have condoms?",
-        "fr": "T'as des capotes ?",
+        "en": "Do you have condoms with you?",
+        "fr": "Tu as des préservatifs sur toi ?",
         "it": "Hai dei preservativi?",
         "pt": "Você tem camisinha?",
         "de": "Hast du Kondome dabei?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Coloquial: «Tu as des capotes sur toi ?»."
+      }
     },
     {
       "id": "gs_003",
       "es": "Yo llevo condones.",
       "translations": {
         "en": "I'll bring condoms.",
-        "fr": "J'amène des capotes.",
+        "fr": "J'apporte des préservatifs.",
         "it": "Porto io i preservativi.",
         "pt": "Eu levo camisinha.",
         "de": "Ich bringe Kondome mit."
@@ -270,7 +291,7 @@
       "es": "Solo con condón",
       "translations": {
         "en": "Condoms only",
-        "fr": "Avec capote uniquement",
+        "fr": "Uniquement avec préservatif",
         "it": "Solo con preservativo",
         "pt": "Só com camisinha",
         "de": "Nur mit Kondom"
@@ -286,7 +307,7 @@
           "es": "En su perfil dice «Solo con condón» para dejar claro su límite."
         },
         "fr": {
-          "text": "Sur son profil, il a écrit « Avec capote uniquement » pour préciser sa limite.",
+          "text": "Sur son profil, il a écrit « Uniquement avec préservatif » pour préciser sa limite.",
           "es": "En su perfil dice «Solo con condón» para dejar claro su límite."
         },
         "it": {
@@ -312,7 +333,11 @@
       "image_url": "",
       "notes": {
         "es": "«A pelo» es coloquial. «Bareback» y «raw» son formas de jerga para hablar de sexo sin condón.",
-        "en": "También «raw» y, en perfiles, «BB»; no se debe asumir consentimiento."
+        "en": "También «raw» y, en perfiles, «BB»; no se debe asumir consentimiento.",
+        "fr": "«Bareback» es jerga de perfiles para «sans préservatif».",
+        "it": "«Bareback» es jerga de perfiles para «senza preservativo».",
+        "pt": "«No pelo» es coloquial; «sem camisinha» es neutro.",
+        "de": "«Bareback» es jerga de perfiles para «ohne Kondom»."
       },
       "examples": {
         "en": {
@@ -342,18 +367,21 @@
       "es": "No le entro sin condón.",
       "translations": {
         "en": "I don't do it without a condom.",
-        "fr": "Je fais pas ça sans capote.",
+        "fr": "Je ne fais pas ça sans préservatif.",
         "it": "Non lo faccio senza preservativo.",
         "pt": "Não faço sem camisinha.",
         "de": "Ohne Kondom mache ich das nicht."
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "fr": "Coloquial: «Je fais pas ça sans capote»."
+      }
     },
     {
       "id": "gs_007",
       "es": "¿Traes lubricante?",
       "translations": {
-        "en": "Do you have lube?",
+        "en": "Do you have lube with you?",
         "fr": "Tu as du lubrifiant ?",
         "it": "Hai del lubrificante?",
         "pt": "Tem lubrificante?",
@@ -378,7 +406,7 @@
       "es": "Se rompió el condón.",
       "translations": {
         "en": "The condom broke.",
-        "fr": "La capote a craqué.",
+        "fr": "Le préservatif s'est déchiré.",
         "it": "Si è rotto il preservativo.",
         "pt": "A camisinha estourou.",
         "de": "Das Kondom ist gerissen."
@@ -390,9 +418,9 @@
       "es": "Se salió el condón.",
       "translations": {
         "en": "The condom slipped off.",
-        "fr": "Le préservatif a glissé et s'est retiré.",
+        "fr": "Le préservatif a glissé.",
         "it": "Si è sfilato il preservativo.",
-        "pt": "A camisinha saiu. / A camisinha escapou.",
+        "pt": "A camisinha saiu.",
         "de": "Das Kondom ist abgerutscht."
       },
       "image_url": ""
@@ -401,30 +429,38 @@
       "id": "gs_011",
       "es": "¿Te hiciste pruebas de infecciones de transmisión sexual?",
       "translations": {
-        "en": "Have you been tested for STIs?",
-        "fr": "Est-ce que tu as fait un dépistage des IST ?",
-        "it": "Hai fatto i test per le IST?",
-        "pt": "Você fez testes para ISTs?",
+        "en": "Have you been tested for sexually transmitted infections?",
+        "fr": "Tu as fait un dépistage des infections sexuellement transmissibles ?",
+        "it": "Hai fatto i test per le infezioni sessualmente trasmissibili?",
+        "pt": "Você fez testes para infecções sexualmente transmissíveis?",
         "de": "Hast du dich auf sexuell übertragbare Infektionen testen lassen?"
       },
       "image_url": "",
       "notes": {
-        "es": "Abreviatura: ITS."
+        "es": "Sigla: ITS.",
+        "en": "Sigla: STIs (sexually transmitted infections).",
+        "fr": "Sigla: IST (infections sexuellement transmissibles).",
+        "it": "Sigla: IST (infezioni sessualmente trasmissibili).",
+        "pt": "Sigla: IST (infecções sexualmente transmissíveis)."
       }
     },
     {
       "id": "gs_012",
       "es": "Me hice pruebas de infecciones de transmisión sexual hace poco.",
       "translations": {
-        "en": "I got tested for STIs recently.",
-        "fr": "J'ai fait un dépistage des IST récemment.",
-        "it": "Ho fatto i test per le IST da poco.",
-        "pt": "Fiz testes para ISTs recentemente.",
+        "en": "I got tested for sexually transmitted infections recently.",
+        "fr": "J'ai fait un dépistage des infections sexuellement transmissibles récemment.",
+        "it": "Ho fatto i test per le infezioni sessualmente trasmissibili da poco.",
+        "pt": "Fiz testes para infecções sexualmente transmissíveis recentemente.",
         "de": "Ich habe mich vor Kurzem auf sexuell übertragbare Infektionen testen lassen."
       },
       "image_url": "",
       "notes": {
-        "es": "Abreviatura: ITS."
+        "es": "Sigla: ITS.",
+        "en": "Sigla: STIs (sexually transmitted infections).",
+        "fr": "Sigla: IST (infections sexuellement transmissibles).",
+        "it": "Sigla: IST (infezioni sessualmente trasmissibili).",
+        "pt": "Sigla: IST (infecções sexualmente transmissíveis)."
       }
     },
     {
@@ -439,7 +475,7 @@
       },
       "image_url": "",
       "notes": {
-        "es": "PrEP: profilaxis preexposición al VIH."
+        "es": "Sigla: PrEP (profilaxis preexposición al VIH)."
       }
     },
     {
@@ -454,7 +490,7 @@
       },
       "image_url": "",
       "notes": {
-        "es": "PrEP: profilaxis preexposición al VIH."
+        "es": "Sigla: PrEP (profilaxis preexposición al VIH)."
       }
     },
     {
@@ -525,8 +561,8 @@
       },
       "image_url": "",
       "notes": {
-        "fr": "«TPE» significa «traitement post-exposition»; corresponde a la PEP.",
-        "es": "PEP: profilaxis posexposición al VIH."
+        "fr": "Sigla: TPE (traitement post-exposition), equivalente francés de PEP.",
+        "es": "Sigla: PEP (profilaxis posexposición al VIH)."
       }
     }
   ]

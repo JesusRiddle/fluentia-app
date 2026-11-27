@@ -4,6 +4,116 @@
   "revisado": true,
   "cards": [
     {
+      "id": "lf121",
+      "es": "¿Perdón? ¿Qué dijiste?",
+      "translations": {
+        "en": "Excuse me? What did you say?",
+        "fr": "Pardon ? Tu as dit quoi ?",
+        "it": "Scusa? Che hai detto?",
+        "pt": "Como é que é? O que você disse?",
+        "de": "Wie bitte? Was hast du gesagt?"
+      },
+      "notes": {
+        "es": "(Incredulidad o desafío, según la entonación)"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "lf122",
+      "es": "¿A mí me estás hablando?",
+      "translations": {
+        "en": "Are you talking to me?",
+        "fr": "C'est à moi que tu parles ?",
+        "it": "Stai parlando con me?",
+        "pt": "Está falando comigo?",
+        "de": "Redest du mit mir?"
+      },
+      "image_url": "",
+      "notes": {
+        "pt": "Coloquial: Tá falando comigo?"
+      }
+    },
+    {
+      "id": "lf123",
+      "es": "¿Cuál es tu problema?",
+      "translations": {
+        "en": "What's your problem?",
+        "fr": "C'est quoi ton problème ?",
+        "it": "Qual è il tuo problema?",
+        "pt": "Qual é o seu problema?",
+        "de": "Was ist dein Problem?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "lf124",
+      "es": "¿Y tú qué traes?",
+      "translations": {
+        "en": "What's gotten into you?",
+        "fr": "Qu'est-ce qui te prend ?",
+        "it": "Che ti prende?",
+        "pt": "Qual é a tua?",
+        "de": "Was ist denn mit dir los?"
+      },
+      "notes": {
+        "es": "(Coloquial)"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "lf125",
+      "es": "¿A quién le dices pendejo?",
+      "translations": {
+        "en": "Who are you calling a dumbass?",
+        "fr": "Tu traites qui d'abruti ?",
+        "it": "A chi stai dando del coglione?",
+        "pt": "Está chamando quem de babaca?",
+        "de": "Wen nennst du hier einen Vollidioten?"
+      },
+      "notes": {
+        "es": "(Vulgar) La pregunta repite un insulto recibido para confrontar a quien lo dijo; las equivalencias dependen de la intensidad local."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "lf126",
+      "es": "¡Igualmente!",
+      "translations": {
+        "en": "Right back at you!",
+        "fr": "Toi-même !",
+        "it": "Tu, piuttosto!",
+        "pt": "Você que é!",
+        "de": "Selber!"
+      },
+      "notes": {
+        "es": "(Réplica irónica) Devuelve un comentario a quien lo hizo. No es el «igualmente» de los buenos deseos.",
+        "de": "(Coloquial) «Selber!» devuelve el insulto al interlocutor."
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "In the film, after an insult, he said, “Right back at you!”",
+          "es": "En la película, después de un insulto, dijo: «¡Igualmente!»"
+        },
+        "fr": {
+          "text": "Dans le film, après une insulte, il a dit : « Toi-même ! »",
+          "es": "En la película, después de un insulto, dijo: «¡Igualmente!»"
+        },
+        "it": {
+          "text": "Nel film, dopo un insulto, lui risponde: «Tu, piuttosto!»",
+          "es": "En la película, después de un insulto, dijo: «¡Igualmente!»"
+        },
+        "pt": {
+          "text": "No filme, depois de um insulto, ele disse: “Você que é!”",
+          "es": "En la película, después de un insulto, dijo: «¡Igualmente!»"
+        },
+        "de": {
+          "text": "Im Film, nach einer Beleidigung, sagte er: „Selber!“",
+          "es": "En la película, después de un insulto, dijo: «¡Igualmente!»"
+        }
+      }
+    },
+    {
       "id": "lf071",
       "es": "No estés chingando.",
       "translations": {
@@ -66,7 +176,7 @@
       "es": "Ese tipo me cae de la chingada.",
       "translations": {
         "en": "I can't fucking stand that guy.",
-        "fr": "Ce type, je ne peux vraiment pas le blairer.",
+        "fr": "Ce putain de type, je ne peux pas le supporter.",
         "it": "Quel tipo mi sta proprio sul cazzo.",
         "pt": "Não suporto esse cara de jeito nenhum, porra.",
         "de": "Den Scheißtyp kann ich nicht ausstehen."
@@ -165,7 +275,7 @@
         "en": "Get the fuck out of here!",
         "fr": "Casse-toi, putain !",
         "it": "Levati dai coglioni!",
-        "pt": "Vaza, porra!",
+        "pt": "Sai daqui, porra!",
         "de": "Verzieh dich, verdammt noch mal!"
       },
       "notes": {
@@ -240,13 +350,13 @@
         "en": "Stop busting my balls!",
         "fr": "Arrête de me casser les couilles !",
         "it": "Smettila di rompermi i coglioni!",
-        "pt": "Para de encher meu saco!",
+        "pt": "Para de encher o meu saco, porra!",
         "de": "Geh mir nicht auf die Eier!"
       },
       "notes": {
         "es": "(Vulgar)",
         "it": "(Vulgar) «Coglioni» es más fuerte que la formulación española.",
-        "pt": "(Coloquial; menos fuerte que el inglés o francés)"
+        "pt": "(Vulgar) «Porra» añade la fuerza que no tiene por sí sola la expresión «encher o saco»."
       },
       "image_url": ""
     },
@@ -285,13 +395,13 @@
       "es": "¡No me jodas!",
       "translations": {
         "en": "Quit fucking with me!",
-        "fr": "Me fais pas chier !",
-        "it": "Non rompermi il cazzo!",
-        "pt": "Não enche o saco!",
-        "de": "Verarsch mich nicht!"
+        "fr": "Arrête de te foutre de moi !",
+        "it": "Non prendermi per il culo!",
+        "pt": "Para de tirar sarro de mim, porra!",
+        "de": "Hör auf, mich zu verarschen!"
       },
       "notes": {
-        "es": "(Vulgar)"
+        "es": "(Vulgar) Aquí se usa para pedir que alguien deje de burlarse de ti; no expresa sorpresa."
       },
       "image_url": ""
     },
@@ -422,10 +532,10 @@
       "id": "lf094",
       "es": "¡No me faltes al respeto!",
       "translations": {
-        "en": "Don't disrespect me.",
-        "fr": "Ne me manque pas de respect.",
-        "it": "Non mancarmi di rispetto.",
-        "pt": "Não me desrespeita.",
+        "en": "Don't disrespect me!",
+        "fr": "Ne me manque pas de respect !",
+        "it": "Non mancarmi di rispetto!",
+        "pt": "Não me desrespeite!",
         "de": "Sei nicht respektlos zu mir!"
       },
       "image_url": ""
@@ -509,14 +619,15 @@
       "id": "lf101",
       "es": "¡Puras mamadas! / ¡Puro cuento!",
       "translations": {
-        "en": "Bullshit! / Just talk!",
+        "en": "Bullshit! / Just a made-up story!",
         "fr": "Des conneries ! / Du baratin !",
         "it": "Stronzate! / Tutte storie!",
         "pt": "Papo furado do caralho! / Conversa fiada!",
         "de": "So ein Bullshit! / Alles nur Gerede!"
       },
       "notes": {
-        "es": "(Rechazo de un relato) La primera forma es vulgar; la segunda es coloquial."
+        "es": "(Rechazo de un relato) La primera forma es vulgar; la segunda es coloquial.",
+        "en": "«Bullshit» es vulgar. La segunda variante rechaza el relato como inventado sin usar una grosería."
       },
       "image_url": "",
       "examples": {
@@ -561,7 +672,7 @@
       "id": "lf103",
       "es": "Estás diciendo puras pendejadas.",
       "translations": {
-        "en": "You're talking out of your ass.",
+        "en": "You're talking a load of shit.",
         "fr": "Tu racontes que des conneries.",
         "it": "Stai dicendo un sacco di stronzate.",
         "pt": "Você está falando um monte de merda.",
@@ -586,50 +697,13 @@
       "image_url": ""
     },
     {
-      "id": "lf105",
-      "es": "¡Qué poca madre!",
-      "translations": {
-        "en": "That's fucked up!",
-        "fr": "C'est dégueulasse !",
-        "it": "Che bastardata!",
-        "pt": "Que sacanagem!",
-        "de": "Das ist echt unter aller Sau!"
-      },
-      "notes": {
-        "es": "(Vulgar)"
-      },
-      "image_url": "",
-      "examples": {
-        "en": {
-          "text": "On hearing about the scam, he said, “That's fucked up!”",
-          "es": "Al enterarse de la estafa, dijo: «¡Qué poca madre!»"
-        },
-        "fr": {
-          "text": "En apprenant l'arnaque, il a dit : « C'est honteux ! »",
-          "es": "Al enterarse de la estafa, dijo: «¡Qué poca madre!»"
-        },
-        "it": {
-          "text": "Saputo della truffa, ha detto: «Che bastardata!»",
-          "es": "Al enterarse de la estafa, dijo: «¡Qué poca madre!»"
-        },
-        "pt": {
-          "text": "Ao saber do golpe, ele disse: “Que sacanagem!”",
-          "es": "Al enterarse de la estafa, dijo: «¡Qué poca madre!»"
-        },
-        "de": {
-          "text": "Als er von dem Betrug erfuhr, sagte er: „Das ist echt unter aller Sau!“",
-          "es": "Al enterarse de la estafa, dijo: «¡Qué poca madre!»"
-        }
-      }
-    },
-    {
       "id": "lf106",
       "es": "¡Te pasaste de lanza!",
       "translations": {
         "en": "You went too far!",
         "fr": "Tu as abusé !",
         "it": "Hai esagerato!",
-        "pt": "Você vacilou feio!",
+        "pt": "Você passou dos limites!",
         "de": "Da bist du zu weit gegangen!"
       },
       "notes": {
@@ -676,17 +750,55 @@
       }
     },
     {
+      "id": "lf105",
+      "es": "¡Qué poca madre!",
+      "translations": {
+        "en": "That's fucked up!",
+        "fr": "C'est honteux !",
+        "it": "Che bastardata!",
+        "pt": "Que sacanagem!",
+        "de": "Das ist echt unter aller Sau!"
+      },
+      "notes": {
+        "es": "(Vulgar) Aquí reprocha una acción abusiva o injusta. Con otra entonación puede expresar admiración, pero no es el sentido de esta tarjeta.",
+        "fr": "La forma francesa conserva la condena, pero no es vulgar."
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "On hearing about the scam, he said, “That's fucked up!”",
+          "es": "Al enterarse de la estafa, dijo: «¡Qué poca madre!»"
+        },
+        "fr": {
+          "text": "En apprenant l'arnaque, il a dit : « C'est honteux ! »",
+          "es": "Al enterarse de la estafa, dijo: «¡Qué poca madre!»"
+        },
+        "it": {
+          "text": "Saputo della truffa, ha detto: «Che bastardata!»",
+          "es": "Al enterarse de la estafa, dijo: «¡Qué poca madre!»"
+        },
+        "pt": {
+          "text": "Ao saber do golpe, ele disse: “Que sacanagem!”",
+          "es": "Al enterarse de la estafa, dijo: «¡Qué poca madre!»"
+        },
+        "de": {
+          "text": "Als er von dem Betrug erfuhr, sagte er: „Das ist echt unter aller Sau!“",
+          "es": "Al enterarse de la estafa, dijo: «¡Qué poca madre!»"
+        }
+      }
+    },
+    {
       "id": "lf108",
       "es": "¡Ya ni la chingas!",
       "translations": {
-        "en": "You've got some nerve!",
+        "en": "You went too fucking far!",
         "fr": "Putain, là tu abuses !",
-        "it": "Adesso hai proprio rotto il cazzo!",
+        "it": "Adesso stai proprio esagerando, cazzo!",
         "pt": "Aí você já está passando dos limites, porra!",
-        "de": "Jetzt reicht's aber mit dem Scheiß!"
+        "de": "Jetzt gehst du verdammt noch mal zu weit!"
       },
       "notes": {
-        "es": "(Vulgar)"
+        "es": "(Vulgar) Es un reproche por cruzar el límite de lo tolerable, más agresivo que «te pasaste de lanza»."
       },
       "image_url": ""
     },
@@ -695,7 +807,7 @@
       "es": "Te estás haciendo pendejo.",
       "translations": {
         "en": "You're fucking playing dumb.",
-        "fr": "Tu fais le con pour ne pas répondre.",
+        "fr": "Tu fais semblant de ne rien comprendre, putain.",
         "it": "Fai finta di non capire un cazzo.",
         "pt": "Está se fazendo de idiota, porra.",
         "de": "Du stellst dich absichtlich dumm, verdammt."
@@ -712,7 +824,7 @@
         "en": "Don't play dumb with me.",
         "fr": "Ne fais pas l'innocent !",
         "it": "Non fare il finto tonto!",
-        "pt": "Não se faz de desentendido!",
+        "pt": "Não se faça de desentendido!",
         "de": "Tu nicht so, als wüsstest du von nichts!"
       },
       "image_url": ""
@@ -759,9 +871,9 @@
       "es": "Sí, cómo no.",
       "translations": {
         "en": "Yeah, right.",
-        "fr": "Mais bien sûr...",
-        "it": "Sì, come no...",
-        "pt": "Ah, tá bom...",
+        "fr": "Mais bien sûr…",
+        "it": "Sì, come no…",
+        "pt": "Ah, tá bom…",
         "de": "Ja, klar."
       },
       "notes": {
@@ -774,13 +886,38 @@
       "es": "¡Mira quién habla!",
       "translations": {
         "en": "Look who's talking!",
-        "fr": "C'est l'hôpital qui se fout de la charité !",
+        "fr": "C'est toi qui dis ça ?",
         "it": "Senti chi parla!",
         "pt": "Olha quem fala!",
         "de": "Das sagt gerade der Richtige! / Das sagt gerade die Richtige!"
       },
       "notes": {
-        "es": "(Sarcástico) Critica que alguien señale un defecto que también tiene."
+        "es": "(Sarcástico) Critica que alguien señale un defecto que también tiene.",
+        "fr": "La expresión «C'est l'hôpital qui se fout de la charité» también denuncia la hipocresía, pero suena más fuerte."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "lf127",
+      "es": "¡Tú no tienes cara para hablar!",
+      "translations": {
+        "en": "You're one to talk!",
+        "fr": "Tu es mal placé pour parler ! / Tu es mal placée pour parler !",
+        "it": "Parli proprio tu!",
+        "pt": "Logo você vem falar!",
+        "de": "Ausgerechnet du sagst das!"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "lf128",
+      "es": "Tú tampoco eres un santo.",
+      "translations": {
+        "en": "You're no saint either.",
+        "fr": "Tu n'es pas un saint non plus. / Tu n'es pas une sainte non plus.",
+        "it": "Neanche tu sei un santo. / Neanche tu sei una santa.",
+        "pt": "Você também não é santo. / Você também não é santa.",
+        "de": "Du bist auch kein Engel."
       },
       "image_url": ""
     },
@@ -850,7 +987,7 @@
           "es": "Después de la broma sobre el accidente, dijo: «¡Qué broma tan pesada!»"
         },
         "de": {
-          "text": "Nach dem Witz über den Unfall, sagte er: „Was für ein geschmackloser Scherz!“",
+          "text": "Nach dem Witz über den Unfall sagte er: „Was für ein geschmackloser Scherz!“",
           "es": "Después de la broma sobre el accidente, dijo: «¡Qué broma tan pesada!»"
         }
       }
@@ -886,7 +1023,7 @@
       "id": "lf119",
       "es": "¡Se pasó de listo!",
       "translations": {
-        "en": "They tried to pull a fast one.",
+        "en": "They thought they could pull a fast one!",
         "fr": "Il a voulu faire le malin.",
         "it": "Ha fatto il furbo.",
         "pt": "Ele quis dar uma de esperto.",
@@ -894,140 +1031,6 @@
       },
       "notes": {
         "es": "(Coloquial) Reprocha un intento de sacar ventaja haciéndose el listo."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "lf121",
-      "es": "¿Perdón? ¿Qué dijiste?",
-      "translations": {
-        "en": "Excuse me? What did you say?",
-        "fr": "Pardon ? Tu as dit quoi ?",
-        "it": "Scusa? Che hai detto?",
-        "pt": "Como é que é? O que você disse?",
-        "de": "Wie bitte? Was hast du gesagt?"
-      },
-      "notes": {
-        "es": "(Incredulidad o desafío, según la entonación)"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "lf122",
-      "es": "¿A mí me estás hablando?",
-      "translations": {
-        "en": "Are you talking to me?",
-        "fr": "C'est à moi que tu parles ?",
-        "it": "Stai parlando con me?",
-        "pt": "Está falando comigo?",
-        "de": "Redest du mit mir?"
-      },
-      "image_url": "",
-      "notes": {
-        "pt": "Coloquial: Tá falando comigo?"
-      }
-    },
-    {
-      "id": "lf123",
-      "es": "¿Cuál es tu problema?",
-      "translations": {
-        "en": "What's your problem?",
-        "fr": "C'est quoi ton problème ?",
-        "it": "Qual è il tuo problema?",
-        "pt": "Qual é o seu problema?",
-        "de": "Was ist dein Problem?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "lf124",
-      "es": "¿Y tú qué traes?",
-      "translations": {
-        "en": "What's gotten into you?",
-        "fr": "Qu'est-ce qui te prend ?",
-        "it": "Che ti prende?",
-        "pt": "Qual é a tua?",
-        "de": "Was ist denn mit dir los?"
-      },
-      "notes": {
-        "es": "(Coloquial)"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "lf125",
-      "es": "¿A quién le dices pendejo?",
-      "translations": {
-        "en": "Who are you calling a dumbass?",
-        "fr": "Tu traites qui d'abruti ?",
-        "it": "A chi stai dando del coglione?",
-        "pt": "Está chamando quem de imbecil?",
-        "de": "Wen nennst du hier einen Vollidioten?"
-      },
-      "notes": {
-        "es": "(Vulgar)"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "lf126",
-      "es": "¡Igualmente!",
-      "translations": {
-        "en": "Right back at you!",
-        "fr": "Toi-même !",
-        "it": "Tu, piuttosto!",
-        "pt": "Você que é!",
-        "de": "Selber!"
-      },
-      "notes": {
-        "es": "(Réplica irónica) Devuelve un comentario a quien lo hizo. No es el «igualmente» de los buenos deseos.",
-        "de": "(Coloquial) «Selber!» devuelve el insulto al interlocutor."
-      },
-      "image_url": "",
-      "examples": {
-        "en": {
-          "text": "In the film, after an insult, he said, “Right back at you!”",
-          "es": "En la película, después de un insulto, dijo: «¡Igualmente!»"
-        },
-        "fr": {
-          "text": "Dans le film, après une insulte, il a dit : « Toi-même ! »",
-          "es": "En la película, después de un insulto, dijo: «¡Igualmente!»"
-        },
-        "it": {
-          "text": "Nel film, dopo un insulto, lui risponde: «Tu, piuttosto!»",
-          "es": "En la película, después de un insulto, dijo: «¡Igualmente!»"
-        },
-        "pt": {
-          "text": "No filme, depois de um insulto, ele disse: “Você que é!”",
-          "es": "En la película, después de un insulto, dijo: «¡Igualmente!»"
-        },
-        "de": {
-          "text": "Im Film, nach einer Beleidigung, sagte er: „Selber!“",
-          "es": "En la película, después de un insulto, dijo: «¡Igualmente!»"
-        }
-      }
-    },
-    {
-      "id": "lf127",
-      "es": "¡Tú no tienes cara para hablar!",
-      "translations": {
-        "en": "You're one to talk!",
-        "fr": "Tu es mal placé pour parler ! / Tu es mal placée pour parler !",
-        "it": "Parli proprio tu!",
-        "pt": "Logo você vem falar!",
-        "de": "Ausgerechnet du sagst das!"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "lf128",
-      "es": "Tú tampoco eres un santo.",
-      "translations": {
-        "en": "You're no saint either.",
-        "fr": "Tu n'es pas un saint non plus. / Tu n'es pas une sainte non plus.",
-        "it": "Neanche tu sei un santo. / Neanche tu sei una santa.",
-        "pt": "Você também não é santo. / Você também não é santa.",
-        "de": "Du bist auch kein Engel."
       },
       "image_url": ""
     },
@@ -1140,35 +1143,25 @@
       "id": "lf162",
       "es": "¡Respeta, por favor!",
       "translations": {
-        "en": "Show some respect, please.",
-        "fr": "Un peu de respect, s'il te plaît.",
-        "it": "Un po' di rispetto, per favore.",
+        "en": "Show some respect, please!",
+        "fr": "Un peu de respect, s'il te plaît !",
+        "it": "Un po' di rispetto, per favore!",
         "pt": "Um pouco de respeito, por favor!",
         "de": "Ein bisschen Respekt, bitte!"
       },
-      "image_url": "",
-      "examples": {
-        "en": {
-          "text": "When the insults started, he said, “Show some respect, please.”",
-          "es": "Cuando empezaron los insultos, dijo: «¡Respeta, por favor!»"
-        },
-        "fr": {
-          "text": "Quand les insultes ont commencé, il a dit : « Un peu de respect, s'il te plaît. »",
-          "es": "Cuando empezaron los insultos, dijo: «¡Respeta, por favor!»"
-        },
-        "it": {
-          "text": "Quando sono iniziati gli insulti, ha detto: «Un po' di rispetto, per favore.»",
-          "es": "Cuando empezaron los insultos, dijo: «¡Respeta, por favor!»"
-        },
-        "pt": {
-          "text": "Quando começaram os xingamentos, ele disse: “Um pouco de respeito, por favor!”",
-          "es": "Cuando empezaron los insultos, dijo: «¡Respeta, por favor!»"
-        },
-        "de": {
-          "text": "Als die Beleidigungen anfingen, sagte er: „Ein bisschen Respekt, bitte!“",
-          "es": "Cuando empezaron los insultos, dijo: «¡Respeta, por favor!»"
-        }
-      }
+      "image_url": ""
+    },
+    {
+      "id": "lf141",
+      "es": "Tranquilo, no hace falta insultar. / Tranquila, no hace falta insultar.",
+      "translations": {
+        "en": "Calm down; there's no need for insults.",
+        "fr": "Calme-toi, ce n'est pas la peine d'insulter les gens !",
+        "it": "Calmati, non c'è bisogno di insultare.",
+        "pt": "Calma, não precisa xingar.",
+        "de": "Beruhige dich. Beleidigungen sind nicht nötig."
+      },
+      "image_url": ""
     },
     {
       "id": "lf136",
@@ -1200,7 +1193,7 @@
       "translations": {
         "en": "I don't have to put up with this.",
         "fr": "Je n'ai pas à supporter ça.",
-        "it": "Non sono tenuto a sopportare questo. / Non sono tenuta a sopportare questo.",
+        "it": "Non devo sopportare tutto questo.",
         "pt": "Não sou obrigado a aguentar isso. / Não sou obrigada a aguentar isso.",
         "de": "Das muss ich mir nicht gefallen lassen."
       },
@@ -1231,14 +1224,14 @@
       "image_url": ""
     },
     {
-      "id": "lf141",
-      "es": "Tranquilo, no hace falta insultar. / Tranquila, no hace falta insultar.",
+      "id": "lf145",
+      "es": "No vuelvas a llamarme así.",
       "translations": {
-        "en": "Calm down; there's no need for insults.",
-        "fr": "Calme-toi, ce n'est pas la peine d'insulter les gens.",
-        "it": "Calmati, non c'è bisogno di insultare.",
-        "pt": "Calma, não precisa xingar.",
-        "de": "Beruhige dich. Beleidigungen sind nicht nötig."
+        "en": "Don't ever call me that again.",
+        "fr": "Ne m'appelle plus jamais comme ça.",
+        "it": "Non chiamarmi mai più così.",
+        "pt": "Nunca mais me chame assim.",
+        "de": "Nenn mich nie wieder so."
       },
       "image_url": ""
     },
@@ -1364,18 +1357,6 @@
       "notes": {
         "fr": "Coloquial: Je voulais pas t'insulter."
       }
-    },
-    {
-      "id": "lf145",
-      "es": "No vuelvas a llamarme así.",
-      "translations": {
-        "en": "Don't ever call me that again.",
-        "fr": "Ne m'appelle plus jamais comme ça.",
-        "it": "Non chiamarmi mai più così.",
-        "pt": "Nunca mais me chame assim.",
-        "de": "Nenn mich nie wieder so."
-      },
-      "image_url": ""
     }
   ]
 }

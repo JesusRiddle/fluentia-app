@@ -1516,7 +1516,7 @@ export const MODULES = [
     },
     {
         id: "b2_jerga_lgbtq_y_encuentros",
-        title: "Cultura LGBTQ+, perfiles y ligue",
+        title: "Perfiles y ligue LGBTQ+",
         description: "Entender la jerga de perfiles y mensajes, expresar lo que buscas y coordinar una cita.",
         level: "B2",
         category: "personas",

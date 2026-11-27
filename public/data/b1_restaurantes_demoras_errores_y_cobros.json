@@ -52,6 +52,42 @@
       "image_url": ""
     },
     {
+      "id": "rpi393",
+      "es": "Nos dijeron que la mesa estaría lista en veinte minutos y ya pasó casi una hora.",
+      "translations": {
+        "en": "We were told the table would be ready in twenty minutes, and it's been almost an hour.",
+        "pt": "Disseram que a mesa ficaria pronta em vinte minutos e já passou quase uma hora.",
+        "fr": "On nous a dit que la table serait prête dans vingt minutes et cela fait presque une heure.",
+        "it": "Ci hanno detto che il tavolo sarebbe stato pronto in venti minuti ed è passata quasi un'ora.",
+        "de": "Uns wurde gesagt, der Tisch sei in zwanzig Minuten frei. Jetzt ist schon fast eine Stunde vergangen."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rpi215",
+      "es": "Llevamos más tiempo esperando del que nos indicaron.",
+      "translations": {
+        "en": "We've been waiting longer than you said we would.",
+        "pt": "Estamos esperando há mais tempo do que vocês disseram.",
+        "fr": "On attend depuis plus longtemps que prévu d'après ce que vous nous aviez dit.",
+        "it": "Stiamo aspettando da più tempo di quello che ci avete indicato.",
+        "de": "Wir warten schon länger, als Sie uns gesagt haben."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rpi394",
+      "es": "Si todavía falta mucho, prefiero que nos lo diga para poder decidir.",
+      "translations": {
+        "en": "If it's going to be much longer, I'd rather you tell us so we can decide.",
+        "pt": "Se ainda for demorar muito, prefiro que nos avise para podermos decidir.",
+        "fr": "Si l'attente est encore longue, je préfère que vous nous le disiez pour que nous puissions décider.",
+        "it": "Se manca ancora molto, preferisco che ce lo dica così possiamo decidere.",
+        "de": "Wenn es noch lange dauert, sagen Sie es uns bitte, damit wir uns entscheiden können."
+      },
+      "image_url": ""
+    },
+    {
       "id": "rpi99",
       "es": "El tiempo estimado de preparación",
       "translations": {
@@ -93,42 +129,6 @@
       }
     },
     {
-      "id": "rpi393",
-      "es": "Nos dijeron que la mesa estaría lista en veinte minutos y ya pasó casi una hora.",
-      "translations": {
-        "en": "We were told the table would be ready in twenty minutes, and it's been almost an hour.",
-        "pt": "Disseram que a mesa ficaria pronta em vinte minutos e já passou quase uma hora.",
-        "fr": "On nous a dit que la table serait prête dans vingt minutes et cela fait presque une heure.",
-        "it": "Ci hanno detto che il tavolo sarebbe stato pronto in venti minuti ed è passata quasi un'ora.",
-        "de": "Uns wurde gesagt, der Tisch sei in zwanzig Minuten frei. Jetzt ist schon fast eine Stunde vergangen."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "rpi215",
-      "es": "Llevamos más tiempo esperando del que nos indicaron.",
-      "translations": {
-        "en": "We've been waiting longer than we were told.",
-        "pt": "Estamos esperando há mais tempo do que nos informaram.",
-        "fr": "Nous attendons depuis plus longtemps que ce qui nous avait été annoncé.",
-        "it": "Stiamo aspettando da più tempo di quello che ci avete indicato.",
-        "de": "Wir warten schon länger, als Sie uns gesagt haben."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "rpi394",
-      "es": "Si todavía falta mucho, prefiero que nos lo diga para poder decidir.",
-      "translations": {
-        "en": "If it's going to be much longer, I'd rather you tell us so we can decide.",
-        "pt": "Se ainda for demorar muito, prefiro que nos avise para podermos decidir.",
-        "fr": "Si l'attente est encore longue, je préfère que vous nous le disiez pour que nous puissions décider.",
-        "it": "Se manca ancora molto, preferisco che ce lo dica così possiamo decidere.",
-        "de": "Wenn es noch lange dauert, sagen Sie es uns bitte, damit wir uns entscheiden können."
-      },
-      "image_url": ""
-    },
-    {
       "id": "rpi395",
       "es": "Tenemos boletos para un espectáculo. ¿Cree que nos dé tiempo de comer antes de que empiece?",
       "translations": {
@@ -154,7 +154,7 @@
     },
     {
       "id": "rpi396",
-      "es": "Preferimos pedir algo rápido, pero no queremos que traigan un plato distinto sin consultarnos.",
+      "es": "Preferimos pedir algo rápido, pero no queremos que nos traigan otro platillo sin consultarnos.",
       "translations": {
         "en": "We'd prefer to order something quick, but please don't bring us a different dish without asking us first.",
         "pt": "Preferimos pedir algo rápido, mas não queremos que tragam outro prato sem nos consultar.",
@@ -184,9 +184,12 @@
         "pt": "Pode verificar se a comanda se perdeu ou se há um atraso na cozinha?",
         "fr": "Pouvez-vous vérifier si le bon de commande a été perdu ou s'il y a un retard en cuisine ?",
         "it": "Può verificare se la comanda è stata persa o se c'è un ritardo in cucina?",
-        "de": "Können Sie nachsehen, ob die Bestellung verloren gegangen ist oder ob es in der Küche eine Verzögerung gibt?"
+        "de": "Können Sie nachsehen, ob der Bestellbon verloren gegangen ist oder ob es in der Küche eine Verzögerung gibt?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Comanda: registro del pedido que recibe la cocina)"
+      }
     },
     {
       "id": "rpi436",
@@ -194,7 +197,7 @@
       "translations": {
         "en": "There was a mix-up sending your order to the kitchen, so your dish is running late. I'm checking how much longer it'll take.",
         "pt": "Seu prato atrasou por um erro ao passar a comanda. Estou verificando quanto tempo falta.",
-        "fr": "Votre plat a du retard à cause d'une erreur dans la transmission de la commande. Je vérifie combien de temps il reste à attendre.",
+        "fr": "Votre plat a pris du retard à cause d'une erreur dans la transmission de la commande. Je vais voir dans combien de temps il sera prêt.",
         "it": "Il suo piatto è in ritardo per un errore nella trasmissione della comanda. Sto verificando quanto manca.",
         "de": "Bei der Weitergabe der Bestellung ist ein Fehler passiert. Deshalb verspätet sich Ihr Gericht. Ich sehe nach, wie lange es noch dauert."
       },
@@ -253,7 +256,7 @@
       "es": "Pedí este plato sin queso y expliqué que no podía consumirlo. No me basta con quitarlo ahora.",
       "translations": {
         "en": "I ordered this dish without cheese and explained that I couldn't eat it. Removing it now isn't enough.",
-        "pt": "Pedi este prato sem queijo e expliquei que não podia consumir. Não basta tirar agora.",
+        "pt": "Pedi este prato sem queijo e expliquei que não posso comer queijo. Tirar agora não resolve.",
         "fr": "J'ai commandé ce plat sans fromage en expliquant que je ne pouvais pas en consommer. Le retirer maintenant ne suffit pas.",
         "it": "Ho ordinato questo piatto senza formaggio e ho spiegato che non potevo mangiarlo. Toglierlo adesso non basta.",
         "de": "Ich habe das Gericht ohne Käse bestellt und gesagt, dass ich keinen essen darf. Es reicht nicht, ihn jetzt einfach zu entfernen."
@@ -280,7 +283,7 @@
         "pt": "Pedi a carne ao ponto, mas veio bem passada. Podem preparar outra porção ao ponto?",
         "fr": "J'ai demandé la viande à point, mais elle est bien cuite. Pouvez-vous m'en préparer une autre portion à point ?",
         "it": "Ho chiesto la carne a cottura media, ma è arrivata ben cotta. Potete prepararmene un'altra porzione a cottura media?",
-        "de": "Ich habe das Fleisch medium bestellt, aber es ist durchgebraten. Können Sie es noch einmal medium zubereiten?"
+        "de": "Ich habe das Fleisch medium bestellt, aber es ist durchgebraten. Können Sie eine neue Portion medium zubereiten?"
       },
       "image_url": "",
       "notes": {
@@ -297,7 +300,7 @@
       "translations": {
         "en": "The food is cold inside, even though the plate is hot. Could you check it with the kitchen?",
         "pt": "A comida está fria por dentro, embora o prato esteja quente. Pode verificar com a cozinha?",
-        "fr": "La nourriture est froide à l'intérieur, même si l'assiette est chaude. Pouvez-vous vérifier avec la cuisine ?",
+        "fr": "Le plat est froid à l'intérieur alors que l'assiette est chaude. Pouvez-vous voir ça avec la cuisine ?",
         "it": "Il cibo è freddo all'interno, anche se il piatto è caldo. Può verificare con la cucina?",
         "de": "Das Essen ist innen kalt, obwohl der Teller heiß ist. Können Sie das mit der Küche klären?"
       },
@@ -305,13 +308,13 @@
     },
     {
       "id": "rpi408",
-      "es": "No puedo terminar este plato por el olor extraño. Quisiera que lo retiraran y lo revisaran.",
+      "es": "El platillo tiene un olor raro y no puedo terminarlo. ¿Pueden retirarlo y revisarlo?",
       "translations": {
-        "en": "I can't finish this dish because of the unusual smell. I'd like you to take it away and check it.",
-        "pt": "Não consigo terminar este prato por causa do cheiro estranho. Gostaria que retirassem e verificassem.",
-        "fr": "Je ne peux pas finir ce plat à cause de son odeur étrange. Je voudrais que vous le retiriez et le vérifiiez.",
-        "it": "Non riesco a finire questo piatto per via dell'odore strano. Vorrei che lo portaste via e lo controllaste.",
-        "de": "Das Gericht riecht seltsam, deshalb möchte ich es nicht aufessen. Bitte nehmen Sie es mit und sehen Sie nach, woran das liegt."
+        "en": "The dish smells strange, and I can't finish it. Could you take it away and check it?",
+        "pt": "O prato está com um cheiro estranho e não consigo terminar. Podem retirar e conferir?",
+        "fr": "Le plat a une odeur bizarre et je ne peux pas le finir. Pouvez-vous le retirer et vérifier ce qui ne va pas ?",
+        "it": "Il piatto ha un odore strano e non riesco a finirlo. Potete portarlo via e controllare?",
+        "de": "Das Gericht riecht seltsam, und ich kann es nicht aufessen. Können Sie es mitnehmen und nachsehen, woran das liegt?"
       },
       "image_url": ""
     },
@@ -322,20 +325,20 @@
         "en": "I found something in my food that shouldn't be there, so I stopped eating. Could the manager come take a look?",
         "pt": "Encontrei algo que não devia estar na comida e parei de comer. Alguém da gerência pode vir conferir?",
         "fr": "J'ai trouvé quelque chose qui n'avait rien à faire dans mon plat et j'ai arrêté de manger. Est-ce que la personne responsable peut venir voir ?",
-        "it": "Ho trovato nel piatto qualcosa che non doveva esserci e ho smesso di mangiare. Può venire a controllare chi è responsabile?",
+        "it": "Ho trovato nel piatto qualcosa che non doveva esserci e ho smesso di mangiare. Può chiedere al responsabile di venire a controllare?",
         "de": "Ich habe etwas im Essen gefunden, das da nicht hineingehört, und habe aufgehört zu essen. Kann sich das jemand von der Restaurantleitung ansehen?"
       },
       "image_url": ""
     },
     {
       "id": "rpi412",
-      "es": "No hace falta cambiar todo el pedido. Solo quiero que corrijan el platillo que llegó equivocado.",
+      "es": "No hace falta cambiar todo el pedido. Solo quiero que vuelvan a preparar el platillo que llegó equivocado.",
       "translations": {
-        "en": "You don't need to change the whole order. I just want you to fix the dish that was served incorrectly.",
-        "pt": "Não precisa mudar o pedido inteiro. Só quero que corrijam o prato que veio errado.",
-        "fr": "Il n'est pas nécessaire de modifier toute la commande. Je veux juste que vous corrigiez le plat qui ne correspond pas à ma demande.",
-        "it": "Non serve cambiare tutta l'ordinazione. Vorrei solo che sistemaste il piatto che è arrivato sbagliato.",
-        "de": "Sie müssen nicht die ganze Bestellung ändern. Bitte korrigieren Sie nur das Gericht, das falsch serviert wurde."
+        "en": "You don't need to change the entire order. I only want you to remake the dish that came out wrong.",
+        "pt": "Não precisa mudar o pedido inteiro. Só quero que refaçam o prato que veio errado.",
+        "fr": "Il n'est pas nécessaire de modifier toute la commande. Je voudrais simplement que vous refassiez le plat qui ne correspond pas à ma demande.",
+        "it": "Non serve cambiare tutta l'ordinazione. Vorrei solo che rifaceste il piatto arrivato sbagliato.",
+        "de": "Sie müssen nicht die ganze Bestellung ändern. Ich möchte nur, dass Sie das falsch servierte Gericht neu zubereiten."
       },
       "image_url": ""
     },
@@ -405,18 +408,6 @@
       }
     },
     {
-      "id": "rpi249",
-      "es": "Preferiría un platillo diferente en lugar de esperar otro igual.",
-      "translations": {
-        "en": "I'd prefer a different dish rather than wait for the same one again.",
-        "pt": "Preferiria um prato diferente em vez de esperar outro igual.",
-        "fr": "Je préférerais un autre plat plutôt que d'attendre le même.",
-        "it": "Preferirei un piatto diverso invece di aspettarne un altro uguale.",
-        "de": "Ich hätte lieber ein anderes Gericht, statt noch einmal auf dasselbe zu warten."
-      },
-      "image_url": ""
-    },
-    {
       "id": "rpi437",
       "es": "Podemos prepararlo de nuevo o cancelar ese plato. ¿Qué opción le sirve mejor?",
       "translations": {
@@ -437,6 +428,18 @@
         "fr": "Le plat de remplacement ne vous coûtera rien, mais il faudra compter environ quinze minutes. Est-ce que ça vous va d'attendre ?",
         "it": "Il piatto sostitutivo non avrà costi, ma richiederà circa quindici minuti. Va bene aspettare?",
         "de": "Das Ersatzgericht kostet nichts extra, dauert aber etwa fünfzehn Minuten. Möchten Sie so lange warten?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rpi249",
+      "es": "Preferiría un platillo diferente en lugar de esperar otro igual.",
+      "translations": {
+        "en": "I'd prefer a different dish rather than wait for the same one again.",
+        "pt": "Preferiria um prato diferente em vez de esperar outro igual.",
+        "fr": "Je préférerais un autre plat plutôt que d'attendre le même.",
+        "it": "Preferirei un piatto diverso invece di aspettarne un altro uguale.",
+        "de": "Ich hätte lieber ein anderes Gericht, statt noch einmal auf dasselbe zu warten."
       },
       "image_url": ""
     },
@@ -489,6 +492,18 @@
       "image_url": ""
     },
     {
+      "id": "rpi415",
+      "es": "¿Podemos acordar una solución antes de que vuelva a pedir otro plato?",
+      "translations": {
+        "en": "Can we agree on a solution before I order another dish?",
+        "pt": "Podemos combinar uma solução antes de eu pedir outro prato?",
+        "fr": "Peut-on se mettre d'accord sur une solution avant que je commande un autre plat ?",
+        "it": "Possiamo concordare una soluzione prima che ordini un altro piatto?",
+        "de": "Können wir uns auf eine Lösung einigen, bevor ich ein anderes Gericht bestelle?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "rpi411",
       "es": "Si preparar otro tarda demasiado, prefiero cancelar ese plato y revisar la cuenta.",
       "translations": {
@@ -497,18 +512,6 @@
         "fr": "Si préparer un autre plat prend trop de temps, je préfère annuler ce plat et vérifier l'addition.",
         "it": "Se prepararne un altro richiede troppo tempo, preferisco annullare quel piatto e controllare il conto.",
         "de": "Wenn es zu lange dauert, das Gericht neu zuzubereiten, möchte ich es lieber abbestellen und die Rechnung prüfen."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "rpi415",
-      "es": "¿Podemos acordar una solución antes de que vuelva a pedir otro plato?",
-      "translations": {
-        "en": "Can we agree on a solution before I order another dish?",
-        "pt": "Podemos combinar uma solução antes de eu pedir outro prato?",
-        "fr": "Pouvons-nous convenir d'une solution avant que je commande un autre plat ?",
-        "it": "Possiamo concordare una soluzione prima che ordini un altro piatto?",
-        "de": "Können wir uns auf eine Lösung einigen, bevor ich ein anderes Gericht bestelle?"
       },
       "image_url": ""
     },
@@ -628,7 +631,7 @@
       "es": "No sé si son dos cobros confirmados o si uno sigue pendiente. Aquí están los dos movimientos.",
       "translations": {
         "en": "I don't know whether both charges are confirmed or one is still pending. Here are the two transactions.",
-        "pt": "Não sei se são duas cobranças confirmadas ou se uma ainda está pendente. Aqui estão as duas movimentações.",
+        "pt": "Não sei se as duas cobranças foram confirmadas ou se uma ainda está pendente. Aqui estão as duas transações.",
         "fr": "Je ne sais pas si les deux débits sont confirmés ou si l'un est encore en attente. Voici les deux opérations.",
         "it": "Non so se entrambi gli addebiti sono confermati o se uno è ancora in sospeso. Ecco i due movimenti.",
         "de": "Ich weiß nicht, ob beide Zahlungen schon gebucht sind oder ob eine noch vorgemerkt ist. Hier sind die beiden Umsätze."
@@ -742,6 +745,30 @@
       "image_url": ""
     },
     {
+      "id": "rpi443",
+      "es": "Podemos reembolsar ese plato; el resto de la cuenta se mantiene.",
+      "translations": {
+        "en": "We can refund you for that dish. The rest of the bill won't change.",
+        "pt": "Podemos reembolsar o valor desse prato. O resto da conta fica igual.",
+        "fr": "Nous pouvons vous rembourser ce plat. Le reste de l'addition ne change pas.",
+        "it": "Possiamo rimborsare quel piatto; il resto del conto rimane invariato.",
+        "de": "Wir können Ihnen den Betrag für dieses Gericht erstatten. Der Rest der Rechnung bleibt unverändert."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rpi444",
+      "es": "Aquí está el comprobante con el importe corregido y el número de referencia del reembolso.",
+      "translations": {
+        "en": "Here's the receipt with the corrected amount and the refund reference number.",
+        "pt": "Aqui está o comprovante com o valor corrigido e o número de referência do reembolso.",
+        "fr": "Voici le justificatif avec le montant corrigé et le numéro de référence du remboursement.",
+        "it": "Ecco la ricevuta con l'importo corretto e il numero di riferimento del rimborso.",
+        "de": "Hier ist der Beleg mit dem korrigierten Betrag und der Referenznummer für die Erstattung."
+      },
+      "image_url": ""
+    },
+    {
       "id": "rpi424",
       "es": "Quisiera confirmar qué conceptos incluye el reembolso parcial.",
       "translations": {
@@ -761,31 +788,7 @@
         "pt": "O reembolso é menor do que combinamos. Pode explicar a diferença?",
         "fr": "Le remboursement est inférieur au montant convenu. Pouvez-vous expliquer la différence ?",
         "it": "Il rimborso è inferiore a quanto avevamo concordato. Può spiegarmi la differenza?",
-        "de": "Die Erstattung ist niedriger als vereinbart. Können Sie mir den Unterschied erklären?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "rpi443",
-      "es": "Podemos reembolsar ese plato; el resto de la cuenta se mantiene.",
-      "translations": {
-        "en": "We can refund you for that dish. The rest of the bill won't change.",
-        "pt": "Podemos reembolsar aquele prato; o restante da conta permanece igual.",
-        "fr": "Nous pouvons vous rembourser ce plat. Le reste de l'addition ne change pas.",
-        "it": "Possiamo rimborsare quel piatto; il resto del conto rimane invariato.",
-        "de": "Wir können Ihnen dieses Gericht erstatten. Der Rest der Rechnung bleibt unverändert."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "rpi444",
-      "es": "Aquí está la confirmación con el importe corregido y la referencia del reembolso.",
-      "translations": {
-        "en": "Here's the confirmation with the corrected amount and the refund reference.",
-        "pt": "Aqui está a confirmação com o valor corrigido e a referência do reembolso.",
-        "fr": "Voici la confirmation avec le montant corrigé et la référence du remboursement.",
-        "it": "Ecco la conferma con l'importo corretto e il riferimento del rimborso.",
-        "de": "Hier ist die Bestätigung mit dem korrigierten Betrag und der Referenznummer für die Erstattung."
+        "de": "Die Erstattung fällt geringer aus als vereinbart. Können Sie mir erklären, warum?"
       },
       "image_url": ""
     },
@@ -794,7 +797,7 @@
       "es": "No puedo resolverlo ahora con mi banco. Necesito saber qué comprobantes puede darme el restaurante.",
       "translations": {
         "en": "I can't resolve it with my bank right now. I need to know what documents the restaurant can give me.",
-        "pt": "Não consigo resolver agora com meu banco. Preciso saber quais comprovantes o restaurante pode me dar.",
+        "pt": "Não consigo resolver isso com meu banco agora. Que comprovantes o restaurante pode me dar?",
         "fr": "Je ne peux pas régler cela avec ma banque maintenant. Je dois savoir quels justificatifs le restaurant peut me fournir.",
         "it": "Non posso risolverlo adesso con la mia banca. Devo sapere quali documenti può fornirmi il ristorante.",
         "de": "Ich kann das gerade nicht mit meiner Bank klären. Welche Belege können Sie mir hier im Restaurant geben?"
@@ -821,7 +824,7 @@
         "pt": "Não precisa repetir tudo; o problema pendente é a cobrança daquele prato.",
         "fr": "Inutile de tout répéter ; le seul problème qui reste, c'est qu'on nous a facturé ce plat.",
         "it": "Non serve ripetere tutto; il problema che rimane è che quel piatto ci è stato addebitato.",
-        "de": "Wir müssen nicht alles wiederholen. Es geht nur noch darum, dass dieses Gericht berechnet wurde."
+        "de": "Wir müssen nicht alles wiederholen. Offen ist nur noch die Frage, warum dieses Gericht berechnet wurde."
       },
       "image_url": ""
     },
@@ -869,7 +872,7 @@
         "pt": "Depois de conferir a conta, confirmo que a correção é a que combinamos.",
         "fr": "Après avoir vérifié l'addition, je confirme que la correction correspond à notre accord.",
         "it": "Dopo aver controllato il conto, confermo che la correzione è quella concordata.",
-        "de": "Ich habe die Rechnung geprüft. Sie ist jetzt so, wie wir es vereinbart haben."
+        "de": "Ich habe die Rechnung geprüft. Sie wurde wie vereinbart korrigiert."
       },
       "image_url": ""
     }

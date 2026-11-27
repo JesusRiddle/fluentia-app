@@ -15,7 +15,7 @@
       },
       "image_url": "",
       "notes": {
-        "es": "(Precio variable indicado en la carta)",
+        "es": "(Precio variable del día indicado en la carta)",
         "en": "(Precio variable indicado en la carta) (Plural: The market prices)",
         "pt": "(Precio variable indicado en la carta) (Plural: Os preços de mercado)",
         "fr": "(Precio variable indicado en la carta) (Plural: Les prix du marché)",
@@ -49,7 +49,7 @@
       "id": "rpi367",
       "es": "Si el pescado se cobra por peso, quisiera saber el precio de nuestra porción antes de pedirlo.",
       "translations": {
-        "en": "If the fish is priced by weight, I'd like to know the price of our portion before ordering it.",
+        "en": "If you charge for the fish by weight, I'd like to know how much our portion will cost before we order.",
         "pt": "Se o peixe for cobrado por peso, gostaria de saber o preço da nossa porção antes de pedir.",
         "fr": "Si le poisson est facturé au poids, je voudrais connaître le prix de notre portion avant de le commander.",
         "it": "Se il pesce si paga a peso, vorrei sapere il prezzo della nostra porzione prima di ordinarlo.",
@@ -90,6 +90,18 @@
         "fr": "La description indique « fait maison ». Cela comprend-il la sauce ou seulement le plat principal ?",
         "it": "La descrizione dice «fatto in casa». Vale anche per la salsa o solo per il piatto principale?",
         "de": "In der Beschreibung steht „hausgemacht“. Gilt das auch für die Soße oder nur für das Hauptgericht?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rpi368",
+      "es": "Queremos compartir varios platos. ¿En qué orden recomienda que los pidamos?",
+      "translations": {
+        "en": "We'd like to share a few dishes. What order would you suggest we have them in?",
+        "pt": "Queremos compartilhar vários pratos. Em que ordem você recomenda que a gente peça?",
+        "fr": "Nous aimerions partager plusieurs plats. Dans quel ordre nous conseillez-vous de les prendre ?",
+        "it": "Vorremmo condividere diversi piatti. In che ordine ci consiglia di mangiarli?",
+        "de": "Wir möchten mehrere Gerichte teilen. Welche Reihenfolge würden Sie uns empfehlen?"
       },
       "image_url": ""
     },
@@ -155,14 +167,29 @@
       }
     },
     {
-      "id": "rpi368",
-      "es": "Queremos compartir varios platos. ¿En qué orden recomienda que los pidamos?",
+      "id": "rpi370",
+      "es": "Antes de pedir el menú degustación, quisiera saber cuáles de los tiempos pueden adaptar.",
       "translations": {
-        "en": "We want to share several dishes. In what order would you recommend ordering them?",
-        "pt": "Queremos compartilhar vários pratos. Em que ordem você recomenda que a gente peça?",
-        "fr": "Nous voulons partager plusieurs plats. Dans quel ordre nous conseillez-vous de les commander ?",
-        "it": "Vorremmo condividere diversi piatti. In quale ordine ci consiglia di ordinarli?",
-        "de": "Wir möchten mehrere Gerichte teilen. Welche Reihenfolge würden Sie uns empfehlen?"
+        "en": "Before I order the tasting menu, I'd like to know which courses you can adapt.",
+        "pt": "Antes de pedir o menu degustação, gostaria de saber quais pratos vocês podem adaptar.",
+        "fr": "Avant de commander le menu dégustation, j'aimerais savoir quels plats vous pouvez adapter.",
+        "it": "Prima di ordinare il menù degustazione, vorrei sapere quali portate potete adattare.",
+        "de": "Bevor ich das Degustationsmenü bestelle, würde ich gern wissen, welche Gänge Sie anpassen können."
+      },
+      "image_url": "",
+      "notes": {
+        "es": "(Tiempos: platillos que se sirven por etapas en una misma comida)"
+      }
+    },
+    {
+      "id": "rpi285",
+      "es": "¿Pueden adaptar el menú degustación para que yo pueda evitar los ingredientes que no puedo comer?",
+      "translations": {
+        "en": "Can you adapt the tasting menu so I can avoid the ingredients I can't eat?",
+        "pt": "Vocês podem adaptar o menu degustação para que eu possa evitar os ingredientes que não posso comer?",
+        "fr": "Pouvez-vous adapter le menu dégustation pour que je puisse éviter les ingrédients que je ne peux pas manger ?",
+        "it": "Potete adattare il menù degustazione in modo che possa evitare gli ingredienti che non posso mangiare?",
+        "de": "Können Sie das Degustationsmenü anpassen, damit ich die Zutaten meiden kann, die ich nicht essen darf?"
       },
       "image_url": ""
     },
@@ -209,13 +236,13 @@
     },
     {
       "id": "rpi369",
-      "es": "Una persona no bebe alcohol. ¿Puede ofrecerle otra bebida con el mismo menú?",
+      "es": "Una persona de nuestro grupo no toma alcohol. ¿Puede ofrecerle otra bebida con el mismo menú?",
       "translations": {
-        "en": "One person doesn't drink alcohol. Could you offer them another drink with the same menu?",
-        "pt": "Uma pessoa não bebe álcool. Pode oferecer outra bebida com o mesmo menu?",
-        "fr": "Une personne ne boit pas d'alcool. Pouvez-vous lui proposer une autre boisson avec le même menu ?",
-        "it": "Una persona non beve alcol. Può proporle un'altra bevanda con lo stesso menu?",
-        "de": "Eine Person trinkt keinen Alkohol. Können Sie ihr zum selben Menü ein anderes Getränk anbieten?"
+        "en": "Someone in our group doesn't drink alcohol. Could you offer them a different drink with the same menu?",
+        "pt": "Uma pessoa do nosso grupo não bebe álcool. Pode oferecer outra bebida com o mesmo menu?",
+        "fr": "Une personne dans notre groupe ne boit pas d'alcool. Pouvez-vous lui proposer une autre boisson avec le même menu ?",
+        "it": "Una persona del nostro gruppo non beve alcol. Può proporle un'altra bevanda con lo stesso menù?",
+        "de": "Eine Person in unserer Gruppe trinkt keinen Alkohol. Können Sie ihr zum selben Menü ein anderes Getränk anbieten?"
       },
       "image_url": ""
     },
@@ -226,35 +253,8 @@
         "en": "If I don't like one of the paired drinks, can I change it without changing the whole menu?",
         "pt": "Se eu não gostar de uma das bebidas da harmonização, posso trocar sem mudar o menu inteiro?",
         "fr": "Si une des boissons proposées en accord avec le menu ne me plaît pas, puis-je la changer sans modifier tout le menu ?",
-        "it": "Se una delle bevande abbinate non mi piace, posso cambiarla senza modificare tutto il menu?",
-        "de": "Wenn mir eines der Getränke aus der Getränkebegleitung nicht zusagt, kann ich es austauschen, ohne das ganze Menü zu ändern?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "rpi370",
-      "es": "Antes de pedir el menú degustación, necesito saber qué tiempos pueden adaptar.",
-      "translations": {
-        "en": "Before I order the tasting menu, I need to know which courses you can adapt.",
-        "pt": "Antes de pedir o menu degustação, preciso saber quais pratos vocês podem adaptar.",
-        "fr": "Avant de commander le menu dégustation, je dois savoir quels plats du menu vous pouvez adapter.",
-        "it": "Prima di ordinare il menù degustazione, devo sapere quali portate potete adattare.",
-        "de": "Bevor ich das Degustationsmenü bestelle, muss ich wissen, welche Gänge Sie anpassen können."
-      },
-      "image_url": "",
-      "notes": {
-        "es": "(Tiempos: platillos que se sirven por etapas en una misma comida)"
-      }
-    },
-    {
-      "id": "rpi285",
-      "es": "¿Pueden adaptar el menú degustación para que yo pueda evitar los ingredientes que no puedo comer?",
-      "translations": {
-        "en": "Can you adapt the tasting menu so I can avoid the ingredients I can't eat?",
-        "pt": "Vocês podem adaptar o menu degustação para que eu possa evitar os ingredientes que não posso comer?",
-        "fr": "Pouvez-vous adapter le menu dégustation pour que je puisse éviter les ingrédients que je ne peux pas manger ?",
-        "it": "Potete adattare il menù degustazione in modo che possa evitare gli ingredienti che non posso mangiare?",
-        "de": "Können Sie das Degustationsmenü anpassen, damit ich die Zutaten meiden kann, die ich nicht essen darf?"
+        "it": "Se una delle bevande in abbinamento non mi piace, posso cambiarla senza modificare tutto il menù?",
+        "de": "Kann ich bei der Getränkebegleitung ein Getränk austauschen, wenn es mir nicht schmeckt, ohne das ganze Menü zu ändern?"
       },
       "image_url": ""
     },
@@ -274,7 +274,7 @@
         "pt": "(Plural: As substituições de um ingrediente)",
         "fr": "(Plural: Les remplacements d'un ingrédient)",
         "it": "(Plural: Le sostituzioni di un ingrediente)",
-        "de": "En este contexto se suele usar «der Austausch» en singular, incluso al hablar de varias sustituciones."
+        "de": "(Normalmente en singular en este contexto)"
       },
       "examples": {
         "en": {
@@ -319,7 +319,7 @@
         "pt": "Gostaria de trocar o acompanhamento, mas manter o molho.",
         "fr": "Je voudrais changer la garniture, mais garder la sauce.",
         "it": "Vorrei cambiare il contorno, ma mantenere la salsa.",
-        "de": "Ich würde gern die Beilage ändern, aber die Soße behalten."
+        "de": "Ich würde gern die Beilage austauschen, aber die Soße behalten."
       },
       "image_url": ""
     },
@@ -331,7 +331,7 @@
         "pt": "Podemos mudar o acompanhamento, mas não o molho, porque já vem preparado.",
         "fr": "Nous pouvons changer l'accompagnement, mais pas la sauce, car elle est déjà préparée.",
         "it": "Possiamo cambiare il contorno, ma non la salsa, perché è già preparata.",
-        "de": "Wir können die Beilage austauschen, aber die Soße ist schon vorbereitet."
+        "de": "Wir können die Beilage austauschen, aber nicht die Soße. Die ist schon vorbereitet."
       },
       "image_url": ""
     },
@@ -445,12 +445,12 @@
     },
     {
       "id": "rpi163",
-      "es": "Quisiera cambiar mi pedido, si todavía no han empezado a prepararlo.",
+      "es": "Quisiera cambiar mi pedido si todavía no han empezado a prepararlo.",
       "translations": {
         "en": "I'd like to change my order if you haven't started preparing it yet.",
         "pt": "Gostaria de mudar meu pedido, se ainda não começaram a preparar.",
         "fr": "Je voudrais modifier ma commande si vous n'avez pas encore commencé à la préparer.",
-        "it": "Vorrei cambiare la mia ordinazione, se non avete ancora iniziato a prepararla.",
+        "it": "Vorrei cambiare la mia ordinazione se non avete ancora iniziato a prepararla.",
         "de": "Ich würde meine Bestellung gern ändern, falls die Küche noch nicht angefangen hat."
       },
       "image_url": ""
@@ -499,7 +499,7 @@
         "pt": "É uma intolerância alimentar, não uma alergia.",
         "fr": "Ma restriction alimentaire est liée à une intolérance, pas à une allergie.",
         "it": "La mia restrizione alimentare è dovuta a un'intolleranza, non a un'allergia.",
-        "de": "Es handelt sich um eine Unverträglichkeit, nicht um eine Allergie."
+        "de": "Es geht um eine Lebensmittelunverträglichkeit, nicht um eine Allergie."
       },
       "image_url": ""
     },
@@ -541,15 +541,18 @@
     },
     {
       "id": "rpi187",
-      "es": "¿Este producto es solo sin lactosa o no contiene ningún lácteo?",
+      "es": "¿El producto solo es sin lactosa o también está libre de lácteos?",
       "translations": {
         "en": "Is this product just lactose-free, or is it completely dairy-free?",
         "pt": "Esse produto é só sem lactose ou não tem nenhum laticínio?",
-        "fr": "Ce produit est-il seulement sans lactose ou est-il aussi sans aucun produit laitier ?",
+        "fr": "Ce produit est-il seulement sans lactose ou ne contient-il aucun produit laitier ?",
         "it": "Questo prodotto è solo senza lattosio o è proprio senza latticini?",
-        "de": "Ist dieses Produkt laktosefrei oder enthält es überhaupt keine Milchprodukte?"
+        "de": "Ist das Produkt nur laktosefrei, oder ist es auch frei von Milchprodukten?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "«Sin lactosa» no significa «sin lácteos»: son dos requisitos distintos."
+      }
     },
     {
       "id": "rpi201",
@@ -687,11 +690,11 @@
       "id": "rpi174",
       "es": "¿Han cambiado algún ingrediente de la receta?",
       "translations": {
-        "en": "Have you changed any ingredients in the recipe?",
+        "en": "Have you changed any of the ingredients in the recipe?",
         "pt": "Vocês mudaram algum ingrediente da receita?",
         "fr": "Avez-vous changé un ingrédient de la recette ?",
         "it": "Avete cambiato qualche ingrediente della ricetta?",
-        "de": "Haben Sie eine Zutat im Rezept geändert?"
+        "de": "Haben Sie im Rezept irgendwelche Zutaten geändert?"
       },
       "image_url": ""
     },
@@ -700,7 +703,7 @@
       "es": "La otra vez me dijeron que no llevaba leche. ¿La receta sigue siendo la misma?",
       "translations": {
         "en": "Last time I was told it didn't contain milk. Is the recipe still the same?",
-        "pt": "Da outra vez, me disseram que não levava leite. A receita continua a mesma?",
+        "pt": "Da última vez, me disseram que o prato não levava leite. A receita continua a mesma?",
         "fr": "La dernière fois, on m'a dit que cela ne contenait pas de lait. La recette est-elle toujours la même ?",
         "it": "L'altra volta mi hanno detto che non conteneva latte. La ricetta è ancora la stessa?",
         "de": "Letztes Mal hieß es, dass keine Milch drin ist. Ist das Rezept noch dasselbe?"
@@ -713,7 +716,7 @@
       "translations": {
         "en": "I'll check the current recipe; I don't want to give you an answer based on the old menu.",
         "pt": "Vou verificar a receita atual; não quero responder com base no cardápio anterior.",
-        "fr": "Je vais vérifier la recette actuelle ; je ne veux pas vous répondre à partir de l'ancien menu.",
+        "fr": "Je vais vérifier la recette actuelle ; je ne veux pas me fier à l'ancien menu pour vous répondre.",
         "it": "Controllerò la ricetta attuale; non voglio darle una risposta basata sul menu precedente.",
         "de": "Ich sehe im aktuellen Rezept nach. Ich möchte Ihnen keine Auskunft auf Grundlage der alten Speisekarte geben."
       },
@@ -739,7 +742,7 @@
         "pt": "Se vocês usam produtos diferentes a cada dia, por favor confiram os de hoje.",
         "fr": "Si vous utilisez des produits différents chaque jour, merci de vérifier ceux d'aujourd'hui.",
         "it": "Se usate prodotti diversi ogni giorno, per favore controllate quelli di oggi.",
-        "de": "Wenn Sie jeden Tag andere Produkte verwenden, prüfen Sie bitte die, die Sie heute verwenden."
+        "de": "Wenn Sie jeden Tag andere Produkte verwenden, prüfen Sie bitte die von heute."
       },
       "image_url": ""
     },
@@ -747,7 +750,7 @@
       "id": "rpi75",
       "es": "Las trazas de un ingrediente",
       "translations": {
-        "en": "The traces of an ingredient",
+        "en": "Traces of an ingredient",
         "pt": "Os traços de um ingrediente",
         "fr": "Les traces d'un ingrédient",
         "it": "Le tracce di un ingrediente",
@@ -805,7 +808,7 @@
       "id": "rpi74",
       "es": "El contacto cruzado con alérgenos",
       "translations": {
-        "en": "The allergen cross-contact",
+        "en": "Allergen cross-contact",
         "pt": "A contaminação cruzada por alérgenos",
         "fr": "La contamination croisée par des allergènes",
         "it": "La contaminazione crociata da allergeni",
@@ -903,7 +906,7 @@
         "pt": "Podem preparar minha comida em uma superfície limpa?",
         "fr": "Pouvez-vous préparer mon repas sur une surface propre ?",
         "it": "Potete preparare il mio cibo su una superficie pulita?",
-        "de": "Können Sie mein Essen auf einer sauberen Arbeitsfläche zubereiten?"
+        "de": "Können Sie mein Gericht auf einer sauberen Arbeitsfläche zubereiten?"
       },
       "image_url": ""
     },
@@ -968,30 +971,6 @@
       "image_url": ""
     },
     {
-      "id": "rpi198",
-      "es": "No basta con quitar el ingrediente; necesito que preparen mi platillo de nuevo.",
-      "translations": {
-        "en": "Just taking out the ingredient isn't enough. I need my dish made again.",
-        "pt": "Não basta tirar o ingrediente; preciso que preparem meu prato de novo.",
-        "fr": "Il ne suffit pas de retirer l'ingrédient ; il faut refaire mon plat.",
-        "it": "Non basta togliere l'ingrediente; bisogna rifare il mio piatto.",
-        "de": "Es reicht nicht, die Zutat einfach zu entfernen. Mein Gericht muss neu zubereitet werden."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "rpi382",
-      "es": "La opción vegetal también contiene algo que debo evitar. Necesito buscar otra alternativa.",
-      "translations": {
-        "en": "The plant-based option also contains something I need to avoid. I need to look for another option.",
-        "pt": "A opção vegetal também contém algo que preciso evitar. Preciso buscar outra alternativa.",
-        "fr": "L'option végétale contient aussi un ingrédient que je dois éviter. Je dois chercher une autre possibilité.",
-        "it": "Anche l'opzione vegetale contiene qualcosa che devo evitare. Devo cercare un'altra alternativa.",
-        "de": "Auch die pflanzliche Variante enthält etwas, das ich meiden muss. Ich muss etwas anderes finden."
-      },
-      "image_url": ""
-    },
-    {
       "id": "rpi434",
       "es": "Esa adaptación es posible, aunque la alternativa también contiene soya.",
       "translations": {
@@ -1004,6 +983,18 @@
       "image_url": ""
     },
     {
+      "id": "rpi382",
+      "es": "La opción vegetal también contiene algo que debo evitar. Necesito buscar otra opción.",
+      "translations": {
+        "en": "The plant-based option also contains something I need to avoid. I need to look for another option.",
+        "pt": "A opção vegetal também contém algo que preciso evitar. Preciso buscar outra alternativa.",
+        "fr": "L'option végétale contient aussi un ingrédient que je dois éviter. Je dois chercher une autre possibilité.",
+        "it": "Anche l'opzione vegetale contiene qualcosa che devo evitare. Devo scegliere qualcos'altro.",
+        "de": "Auch die pflanzliche Variante enthält etwas, das ich meiden muss. Ich muss etwas anderes finden."
+      },
+      "image_url": ""
+    },
+    {
       "id": "rpi376",
       "es": "No necesito una lista de opciones; necesito saber qué platillo pueden preparar para que yo pueda comerlo.",
       "translations": {
@@ -1012,6 +1003,18 @@
         "fr": "Je n'ai pas besoin d'une liste d'options ; j'ai besoin de savoir quel plat vous pouvez préparer pour que je puisse le manger.",
         "it": "Non mi serve un elenco di opzioni; devo sapere quale piatto potete preparare in modo che io possa mangiarlo.",
         "de": "Ich brauche keine Liste mit Vorschlägen. Ich muss wissen, welches Gericht Sie so zubereiten können, dass ich es essen kann."
+      },
+      "image_url": ""
+    },
+    {
+      "id": "rpi198",
+      "es": "Necesito que lo preparen desde el principio sin ese ingrediente. No basta con quitarlo al final.",
+      "translations": {
+        "en": "I need it made from scratch without that ingredient. Taking it out at the end isn't enough.",
+        "pt": "Preciso que preparem o prato desde o início sem esse ingrediente. Não basta tirar no final.",
+        "fr": "Il faut préparer le plat sans cet ingrédient dès le départ. Le retirer à la fin ne suffit pas.",
+        "it": "Ho bisogno che prepariate il piatto fin dall'inizio senza quell'ingrediente. Non basta toglierlo alla fine.",
+        "de": "Bitte bereiten Sie das Gericht von Anfang an ohne diese Zutat zu. Sie am Ende einfach zu entfernen reicht nicht."
       },
       "image_url": ""
     },
@@ -1047,7 +1050,7 @@
         "pt": "Vamos informar a cozinha sobre todas as suas restrições.",
         "fr": "Nous allons informer la cuisine de toutes vos restrictions alimentaires.",
         "it": "Informeremo la cucina di tutte le sue restrizioni alimentari.",
-        "de": "Wir geben alle Ihre Angaben zu den Zutaten, die Sie meiden müssen, an die Küche weiter."
+        "de": "Wir geben der Küche Bescheid, welche Zutaten Sie nicht essen können."
       },
       "image_url": ""
     },
@@ -1076,18 +1079,6 @@
       "image_url": ""
     },
     {
-      "id": "rpi383",
-      "es": "Con solo ver el platillo no puedo saber si lo puedo comer.",
-      "translations": {
-        "en": "I can't tell just by looking at the dish whether I can eat it.",
-        "pt": "Só de olhar para o prato, não dá para saber se posso comer.",
-        "fr": "Rien qu'en regardant ce plat, je ne peux pas savoir si je peux le manger.",
-        "it": "Non posso capire solo a vista se posso mangiare questo piatto.",
-        "de": "Ich kann dem Gericht nicht ansehen, ob ich es essen kann."
-      },
-      "image_url": ""
-    },
-    {
       "id": "rpi378",
       "es": "Gracias por revisar los ingredientes. ¿Puede repetir qué cambios hará la cocina?",
       "translations": {
@@ -1100,6 +1091,18 @@
       "image_url": ""
     },
     {
+      "id": "rpi383",
+      "es": "Con solo ver el platillo no puedo saber si lo puedo comer.",
+      "translations": {
+        "en": "I can't tell just by looking at the dish whether I can eat it.",
+        "pt": "Só de olhar para o prato, não dá para saber se posso comer.",
+        "fr": "Rien qu'en regardant ce plat, je ne peux pas savoir si je peux le manger.",
+        "it": "Non posso capire solo a vista se posso mangiare questo piatto.",
+        "de": "Ich kann dem Gericht nicht ansehen, ob ich es essen kann."
+      },
+      "image_url": ""
+    },
+    {
       "id": "rpi384",
       "es": "Antes de probarlo, quisiera confirmar que este es el plato preparado con mis modificaciones.",
       "translations": {
@@ -1107,7 +1110,7 @@
         "pt": "Antes de provar, gostaria de confirmar que este é o prato preparado com as alterações que pedi.",
         "fr": "Avant de le goûter, je voudrais confirmer que ce plat a bien été préparé avec les modifications demandées.",
         "it": "Prima di assaggiarlo, vorrei verificare che questo sia il piatto preparato con le modifiche richieste.",
-        "de": "Bevor ich probiere, möchte ich sichergehen, dass dieses Gericht mit den gewünschten Änderungen zubereitet wurde."
+        "de": "Bevor ich probiere, möchte ich sichergehen, dass das hier das Gericht mit den Änderungen ist, um die ich gebeten habe."
       },
       "image_url": ""
     }
