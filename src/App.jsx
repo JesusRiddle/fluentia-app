@@ -20,6 +20,7 @@ function App() {
 
   const [currentView, setCurrentView] = useState('home');
   const [activeModule, setActiveModule] = useState(null);
+  const [initialStudyIndex, setInitialStudyIndex] = useState(0);
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);
@@ -47,15 +48,21 @@ function App() {
     setCurrentView(view);
   };
 
-  const handleSelectModule = async (module, mode) => {
+  const handleSelectModule = async (module, mode, cardId) => {
     try {
       const response = await fetch(`${import.meta.env.BASE_URL}data/${module.file}`);
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
+      const index = cardId === undefined ? 0 : data.cards.findIndex(card => card.id === cardId);
+      if (index < 0) throw new Error('Tarjeta no encontrada en el módulo');
+      setInitialStudyIndex(index);
 
       // Keep data.module as the stable identity for review marks.
       setActiveModule((module.level === 'A2' || module.useCatalogTitle) ? { ...data, displayTitle: module.title } : data);
       setCurrentView(mode);
+      if (cardId !== undefined) window.scrollTo(0, 0);
     } catch (error) {
+      if (cardId !== undefined) throw error;
       console.error("Error cargando el módulo:", error);
     }
   };
@@ -108,7 +115,7 @@ function App() {
       </header>
 
       {currentView === 'home' && (
-        <Home onSelectModule={handleSelectModule} />
+        <Home onSelectModule={handleSelectModule} targetLang={targetLang} />
       )}
 
       {(currentView === 'study' || currentView === 'practice') && activeModule && !languageAvailable && (
@@ -130,6 +137,7 @@ function App() {
           targetLang={targetLang}
           onBack={() => navigateTo('home')}
           autoPlay={autoPlay}
+          initialIndex={initialStudyIndex}
         />
       )}
 
