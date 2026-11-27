@@ -14,14 +14,14 @@ function loadReviews() {
     }
 }
 
-export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) {
-    const [currentIndex, setCurrentIndex] = useState(0);
+export default function StudyMode({ moduleData, targetLang, onBack, autoPlay, initialIndex = 0 }) {
+    const [currentIndex, setCurrentIndex] = useState(initialIndex);
     const [isFlipped, setIsFlipped] = useState(false);
     const [speechRate, setSpeechRate] = useState(1.0);
     const [range, setRange] = useState('all');
     const [reviewOnly, setReviewOnly] = useState(false);
     const [reviews, setReviews] = useState(loadReviews);
-    const originalIndexRef = useRef(0);
+    const originalIndexRef = useRef(initialIndex);
     const audioTimeoutRef = useRef(null);
     const [isSpeaking, setIsSpeaking] = useState(false);
     const [isPaused, setIsPaused] = useState(false);
