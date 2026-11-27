@@ -220,7 +220,7 @@ export default function PracticeMode({
                         style={{ fontSize: '2rem' }}
                     >
                         <span>
-                            {moduleData.module?.toUpperCase()}
+                            {(moduleData.displayTitle ?? moduleData.module)?.toUpperCase()}
                         </span>
                     </h2>
 

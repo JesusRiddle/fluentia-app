@@ -270,7 +270,7 @@ export default function StudyMode({ moduleData, targetLang, onBack, autoPlay }) 
                 <div className="hero-text">
                     <p className="hero-kicker">NIVEL {moduleData.level || 'A1'}</p>
                     <h2 className="hero-title" style={{ fontSize: '2.2rem' }}>
-                        <span>{moduleData.module?.toUpperCase()}</span>
+                        <span>{(moduleData.displayTitle ?? moduleData.module)?.toUpperCase()}</span>
                     </h2>
                     <p className="hero-sub">
                         {reviewOnly ? 'Para repasar · ' : 'Tarjeta '}

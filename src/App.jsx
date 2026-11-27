@@ -47,12 +47,13 @@ function App() {
     setCurrentView(view);
   };
 
-  const handleSelectModule = async (jsonFileName, mode) => {
+  const handleSelectModule = async (module, mode) => {
     try {
-      const response = await fetch(`${import.meta.env.BASE_URL}data/${jsonFileName}`);
+      const response = await fetch(`${import.meta.env.BASE_URL}data/${module.file}`);
       const data = await response.json();
 
-      setActiveModule(data);
+      // Keep data.module as the stable identity for review marks.
+      setActiveModule(module.level === 'A2' ? { ...data, displayTitle: module.title } : data);
       setCurrentView(mode);
     } catch (error) {
       console.error("Error cargando el módulo:", error);
