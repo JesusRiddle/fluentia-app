@@ -66,16 +66,16 @@
           "es": "El destinatario firmó al recibir la caja."
         },
         "fr": {
-          "text": "Le destinataire a signé à la réception du carton.",
-          "es": "El destinatario firmó al recibir la caja."
+          "text": "Le destinataire a signé à la réception du colis.",
+          "es": "El destinatario firmó al recibir el paquete."
         },
         "it": {
           "text": "Il destinatario ha firmato quando ha ricevuto la scatola.",
           "es": "El destinatario firmó al recibir la caja."
         },
         "de": {
-          "text": "Der Empfänger hat bei der Übergabe des Kartons unterschrieben.",
-          "es": "El destinatario firmó al recibir la caja."
+          "text": "Der Empfänger hat bei der Übergabe des Pakets unterschrieben.",
+          "es": "El destinatario firmó al recibir el paquete."
         }
       },
       "notes": {
@@ -126,7 +126,7 @@
     },
     {
       "id": "seg_005",
-      "es": "El número de seguimiento del envío",
+      "es": "El número de guía / El número de seguimiento del envío",
       "translations": {
         "en": "The tracking number",
         "pt": "O código de rastreamento",
@@ -138,23 +138,23 @@
       "examples": {
         "en": {
           "text": "The tracking number is on the receipt.",
-          "es": "El número de seguimiento del envío aparece en el comprobante."
+          "es": "El número de guía aparece en el comprobante."
         },
         "pt": {
           "text": "O código de rastreamento aparece no comprovante.",
-          "es": "El número de seguimiento del envío aparece en el comprobante."
+          "es": "El número de guía aparece en el comprobante."
         },
         "fr": {
           "text": "Le numéro de suivi figure sur le reçu.",
-          "es": "El número de seguimiento del envío aparece en el comprobante."
+          "es": "El número de guía aparece en el comprobante."
         },
         "it": {
           "text": "Il numero di tracciamento è sulla ricevuta.",
-          "es": "El número de seguimiento del envío aparece en el comprobante."
+          "es": "El número de guía aparece en el comprobante."
         },
         "de": {
           "text": "Die Sendungsnummer steht auf dem Beleg.",
-          "es": "El número de seguimiento del envío aparece en el comprobante."
+          "es": "El número de guía aparece en el comprobante."
         }
       },
       "notes": {
@@ -162,7 +162,8 @@
         "pt": "(Plural: Os códigos de rastreamento)",
         "fr": "(Plural: Les numéros de suivi)",
         "it": "(Plural: I numeri di tracciamento)",
-        "de": "(Plural: Die Sendungsnummern)"
+        "de": "(Plural: Die Sendungsnummern)",
+        "es": "(Ambos nombres identifican el envío para rastrearlo)"
       }
     },
     {
@@ -173,7 +174,7 @@
         "pt": "O aviso de tentativa de entrega",
         "fr": "L'avis de passage",
         "it": "L'avviso di tentata consegna",
-        "de": "Die Benachrichtigung über den Zustellversuch"
+        "de": "Die Benachrichtigung über einen Zustellversuch"
       },
       "image_url": "",
       "examples": {
@@ -194,7 +195,7 @@
           "es": "Encontré un aviso de intento de entrega en el buzón."
         },
         "de": {
-          "text": "Ich habe eine Benachrichtigung über den Zustellversuch im Briefkasten gefunden.",
+          "text": "Ich habe im Briefkasten eine Benachrichtigung über einen Zustellversuch gefunden.",
           "es": "Encontré un aviso de intento de entrega en el buzón."
         }
       },
@@ -211,16 +212,16 @@
       "id": "seg_007",
       "es": "La recolección de un paquete a domicilio",
       "translations": {
-        "en": "The home pickup of a package",
+        "en": "The package pickup from home",
         "pt": "A coleta de pacote em domicílio",
         "fr": "L'enlèvement d'un colis à domicile",
         "it": "Il ritiro di un pacco a domicilio",
-        "de": "Die Abholung eines Pakets von zu Hause"
+        "de": "Die Paketabholung zu Hause"
       },
       "image_url": "",
       "examples": {
         "en": {
-          "text": "I scheduled the home pickup of a package for tomorrow.",
+          "text": "I scheduled a package pickup from home for tomorrow.",
           "es": "Programé la recolección de un paquete a domicilio para mañana."
         },
         "pt": {
@@ -236,16 +237,17 @@
           "es": "Programé la recolección de un paquete a domicilio para mañana."
         },
         "de": {
-          "text": "Für morgen habe ich die Abholung eines Pakets von zu Hause vereinbart.",
+          "text": "Ich habe die Paketabholung bei mir zu Hause für morgen vereinbart.",
           "es": "Programé la recolección de un paquete a domicilio para mañana."
         }
       },
       "notes": {
-        "en": "(Plural: The home pickups of packages)",
+        "en": "(Plural: The package pickups from home)",
         "pt": "(Plural: As coletas de pacotes em domicílio)",
         "fr": "(Plural: Les enlèvements de colis à domicile)",
         "it": "(Plural: I ritiri di pacchi a domicilio)",
-        "de": "(Plural: Die Abholungen von Paketen von zu Hause)"
+        "de": "(Plural: Die Paketabholungen zu Hause)",
+        "es": "(La paquetería recoge el paquete en tu domicilio para enviarlo; no es una entrega)"
       }
     },
     {
@@ -303,10 +305,10 @@
       "id": "seg_013",
       "es": "¿Qué opción tienen para que llegue antes del viernes?",
       "translations": {
-        "en": "What option do you have to get it there before Friday?",
+        "en": "What shipping option will get the package there before Friday?",
         "pt": "Que opção vocês oferecem para o pacote chegar antes de sexta-feira?",
-        "fr": "Quelle option proposez-vous pour que ça arrive avant vendredi ?",
-        "it": "Quale opzione avete per farlo arrivare prima di venerdì?",
+        "fr": "Quelle option proposez-vous pour que le colis arrive avant vendredi ?",
+        "it": "Quale opzione avete per far arrivare il pacco prima di venerdì?",
         "de": "Welche Versandoption gibt es, damit es noch vor Freitag ankommt?"
       },
       "image_url": ""
@@ -327,11 +329,11 @@
       "id": "seg_015",
       "es": "¿El plazo del envío se cuenta desde hoy o desde que recogen el paquete?",
       "translations": {
-        "en": "Does the shipping period start today or when the package is picked up?",
+        "en": "Is the delivery time calculated from today or from when the package is picked up?",
         "pt": "O prazo do envio conta a partir de hoje ou da coleta do pacote?",
-        "fr": "Le délai commence aujourd'hui ou à partir de l'enlèvement du colis ?",
-        "it": "Da quando si conta il tempo di spedizione: da oggi o dal ritiro del pacco?",
-        "de": "Zählt die Versanddauer ab heute oder erst ab der Abholung des Pakets?"
+        "fr": "Le délai de livraison commence aujourd'hui ou au moment de l'enlèvement du colis ?",
+        "it": "Da quando si calcolano i tempi di consegna: da oggi o dal ritiro del pacco?",
+        "de": "Rechnet man die Lieferzeit ab heute oder erst ab der Abholung des Pakets?"
       },
       "image_url": ""
     },
@@ -376,7 +378,7 @@
       "es": "¿Pueden ayudarme a empacar este objeto para que no se rompa?",
       "translations": {
         "en": "Can you help me pack this item so it doesn't break?",
-        "pt": "Podem me ajudar a embalar este objeto para não quebrar?",
+        "pt": "Podem me ajudar a embalar este objeto para que ele não quebre?",
         "fr": "Pouvez-vous m'aider à emballer cet objet pour qu'il ne se casse pas ?",
         "it": "Potete aiutarmi a imballare questo oggetto per evitare che si rompa?",
         "de": "Können Sie mir helfen, diesen Gegenstand so zu verpacken, dass er nicht kaputtgeht?"
@@ -425,9 +427,9 @@
       "translations": {
         "en": "Does this international shipment need a contents declaration?",
         "pt": "Este envio para o exterior precisa de uma declaração de conteúdo?",
-        "fr": "Cet envoi à l'étranger nécessite une déclaration du contenu ?",
+        "fr": "Cet envoi à l'étranger nécessite-t-il une déclaration de contenu ?",
         "it": "Questa spedizione all'estero richiede una dichiarazione del contenuto?",
-        "de": "Brauche ich für diese Sendung ins Ausland eine Inhaltsangabe?"
+        "de": "Brauche ich für diese Sendung ins Ausland eine Erklärung zum Inhalt?"
       },
       "image_url": ""
     },
@@ -475,7 +477,7 @@
         "pt": "O endereço tem o prédio, o andar e o número do apartamento; preciso informar os três?",
         "fr": "L'adresse comprend le bâtiment, l'étage et l'appartement ; je dois tout indiquer ?",
         "it": "L'indirizzo comprende edificio, piano e appartamento; devo indicare tutto?",
-        "de": "Zur Adresse gehören Gebäude, Etage und Wohnung. Muss ich alles angeben?"
+        "de": "Die Adresse enthält Gebäude, Stockwerk und Wohnungsnummer. Muss ich alles angeben?"
       },
       "image_url": ""
     },
@@ -485,7 +487,7 @@
       "translations": {
         "en": "Do you need the recipient's phone number for delivery?",
         "pt": "Precisam do telefone do destinatário para fazer a entrega?",
-        "fr": "Vous avez besoin du téléphone du destinataire pour la livraison ?",
+        "fr": "Vous avez besoin du numéro de téléphone du destinataire pour la livraison ?",
         "it": "Vi serve il numero di telefono del destinatario per la consegna?",
         "de": "Brauchen Sie die Telefonnummer des Empfängers für die Zustellung?"
       },
@@ -529,13 +531,13 @@
     },
     {
       "id": "seg_032",
-      "es": "Necesito un comprobante que muestre cuándo recibieron el paquete.",
+      "es": "Necesito un comprobante que indique cuándo aceptaron el paquete para enviarlo.",
       "translations": {
-        "en": "I need a receipt showing when you received the package.",
-        "pt": "Preciso de um comprovante que mostre quando receberam o pacote.",
-        "fr": "J'ai besoin d'un reçu indiquant quand vous avez reçu le colis.",
-        "it": "Mi serve una ricevuta che indichi quando avete ricevuto il pacco.",
-        "de": "Ich brauche einen Beleg, auf dem steht, wann Sie das Paket angenommen haben."
+        "en": "I need a receipt showing when you accepted the package for shipment.",
+        "pt": "Preciso de um comprovante que mostre quando vocês receberam o pacote para envio.",
+        "fr": "J'ai besoin d'un reçu indiquant quand vous avez pris le colis en charge.",
+        "it": "Mi serve una ricevuta che indichi quando avete accettato il pacco per la spedizione.",
+        "de": "Ich brauche einen Beleg, auf dem steht, wann Sie das Paket für den Versand angenommen haben."
       },
       "image_url": ""
     },
@@ -559,7 +561,7 @@
       "es": "¿Cómo compruebo si el destinatario ya recibió el envío?",
       "translations": {
         "en": "How can I check whether the recipient has received the shipment?",
-        "pt": "Como posso verificar se o destinatário já recebeu o envio?",
+        "pt": "Como posso verificar se o destinatário já recebeu a encomenda?",
         "fr": "Comment puis-je vérifier si le destinataire a reçu l'envoi ?",
         "it": "Come verifico se il destinatario ha già ricevuto la spedizione?",
         "de": "Wie kann ich prüfen, ob der Empfänger die Sendung schon erhalten hat?"
@@ -582,6 +584,18 @@
       }
     },
     {
+      "id": "seg_048",
+      "es": "¿Pueden decirme cuándo se actualizará el seguimiento del envío?",
+      "translations": {
+        "en": "Can you tell me when the tracking information will be updated?",
+        "pt": "Podem me dizer quando o rastreamento do envio será atualizado?",
+        "fr": "Pouvez-vous me dire quand les informations de suivi seront mises à jour ?",
+        "it": "Potete dirmi quando verrà aggiornato il tracciamento della spedizione?",
+        "de": "Können Sie mir sagen, wann der Sendungsstatus wieder aktualisiert wird?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "seg_034",
       "es": "El seguimiento dice que intentaron entregar el paquete, pero nadie me llamó.",
       "translations": {
@@ -595,7 +609,7 @@
     },
     {
       "id": "seg_035",
-      "es": "¿Puedo cambiar la entrega a un punto de recogida?",
+      "es": "¿Puedo cambiar la entrega a un punto de recolección?",
       "translations": {
         "en": "Can I change the delivery to a pickup point?",
         "pt": "Posso mudar a entrega para um ponto de retirada?",
@@ -603,7 +617,10 @@
         "it": "Posso modificare la consegna scegliendo un punto di ritiro?",
         "de": "Kann ich das Paket stattdessen an eine Abholstelle liefern lassen?"
       },
-      "image_url": ""
+      "image_url": "",
+      "notes": {
+        "es": "(Aquí el destinatario va por el paquete; no se pide que la paquetería pase por él)"
+      }
     },
     {
       "id": "seg_036",
@@ -655,7 +672,7 @@
     },
     {
       "id": "seg_040",
-      "es": "¿Debo mostrar el código de recogida y una identificación?",
+      "es": "¿Debo mostrar el código de recolección y una identificación?",
       "translations": {
         "en": "Do I need to show the pickup code and ID?",
         "pt": "Preciso mostrar o código de retirada e um documento de identificação?",
@@ -691,10 +708,10 @@
     },
     {
       "id": "seg_043",
-      "es": "No puedo recogerlo esta semana; ¿puedo extender el plazo para recogerlo?",
+      "es": "No puedo recogerlo esta semana; ¿puedo ampliar el plazo?",
       "translations": {
         "en": "I can't pick it up this week. Can I extend the pickup deadline?",
-        "pt": "Não posso retirar esta semana; posso ampliar o prazo de retirada?",
+        "pt": "Não posso retirar o pacote esta semana; posso estender o prazo de retirada?",
         "fr": "Je ne peux pas le récupérer cette semaine ; je peux prolonger le délai de retrait ?",
         "it": "Non posso ritirarlo questa settimana; posso prorogare il termine per il ritiro?",
         "de": "Ich kann es diese Woche nicht abholen. Kann ich die Abholfrist verlängern?"
@@ -742,22 +759,10 @@
       "es": "¿Cómo reporto un problema con el envío y qué comprobantes necesitan?",
       "translations": {
         "en": "How do I report a shipping problem, and what documents do you need as proof?",
-        "pt": "Como posso comunicar um problema com o envio e quais comprovantes vocês precisam?",
+        "pt": "Como posso informar um problema com o envio e de quais comprovantes vocês precisam?",
         "fr": "Comment signaler un problème d'envoi et quels justificatifs faut-il ?",
         "it": "Come segnalo un problema con la spedizione e quali documenti servono?",
         "de": "Wie kann ich ein Problem mit der Sendung melden, und welche Belege brauchen Sie?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_048",
-      "es": "¿Pueden decirme cuándo se actualizará el seguimiento del envío?",
-      "translations": {
-        "en": "Can you tell me when there will be a new tracking update?",
-        "pt": "Podem me dizer quando o rastreamento do envio será atualizado?",
-        "fr": "Pouvez-vous me dire quand il y aura une nouvelle mise à jour du suivi ?",
-        "it": "Potete dirmi quando ci sarà un nuovo aggiornamento del tracciamento?",
-        "de": "Können Sie mir sagen, wann der Sendungsstatus wieder aktualisiert wird?"
       },
       "image_url": ""
     }

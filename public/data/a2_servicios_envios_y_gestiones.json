@@ -16,12 +16,12 @@
       "image_url": "",
       "examples": {
         "en": {
-          "text": "The community center gave me information about the services and paperwork available there.",
-          "es": "En el centro comunitario me orientaron sobre los servicios y los trámites disponibles."
+          "text": "At the community center, they told me about the services and helped me with the paperwork.",
+          "es": "En el centro comunitario me informaron sobre los servicios y me ayudaron con los trámites."
         },
         "pt": {
-          "text": "No centro comunitário, me orientaram sobre os serviços e os trâmites disponíveis.",
-          "es": "En el centro comunitario me orientaron sobre los servicios y los trámites disponibles."
+          "text": "No centro comunitário, me orientaram sobre os serviços oferecidos e os trâmites que eu podia resolver lá.",
+          "es": "En el centro comunitario me orientaron sobre los servicios que ofrecían y los trámites que podía hacer ahí."
         },
         "fr": {
           "text": "Au centre communautaire, on m'a renseigné sur les services proposés et les démarches possibles.",
@@ -115,7 +115,7 @@
       "translations": {
         "en": "Before you print everything, I'd like to check a test copy.",
         "pt": "Antes de imprimir tudo, quero conferir uma cópia de teste.",
-        "fr": "Avant d'imprimer le reste, je voudrais vérifier une impression d'essai.",
+        "fr": "Avant de tout imprimer, je voudrais vérifier une impression d'essai.",
         "it": "Prima di stampare tutto, vorrei controllare una copia di prova.",
         "de": "Bevor Sie alles drucken, möchte ich einen Probeausdruck prüfen."
       },
@@ -170,23 +170,11 @@
       "image_url": ""
     },
     {
-      "id": "seg_060",
-      "es": "¿Pueden borrar el archivo que les envié cuando terminen el trabajo?",
-      "translations": {
-        "en": "Could you delete the file I sent you once the job is done?",
-        "pt": "Podem apagar o arquivo que enviei quando terminarem o serviço?",
-        "fr": "Pouvez-vous supprimer le fichier que je vous ai envoyé une fois le travail terminé ?",
-        "it": "Potete eliminare il file che vi ho inviato una volta finito il lavoro?",
-        "de": "Können Sie die Datei, die ich Ihnen geschickt habe, nach dem Auftrag löschen?"
-      },
-      "image_url": ""
-    },
-    {
       "id": "seg_061",
       "es": "Necesito fotos para este trámite; aquí están las medidas que me pidieron.",
       "translations": {
         "en": "I need photos for this application. Here are the required dimensions.",
-        "pt": "Preciso de fotos para este pedido. Estas são as medidas que me pediram.",
+        "pt": "Preciso de fotos para esta solicitação. Aqui estão as medidas que me pediram.",
         "fr": "J'ai besoin de photos pour cette démarche ; voici les dimensions demandées.",
         "it": "Mi servono foto per questa pratica; ecco le misure richieste.",
         "de": "Ich brauche Fotos für diesen Antrag. Hier steht, wie groß sie sein müssen."
@@ -201,7 +189,7 @@
         "pt": "Vocês entregam as fotos impressas, o arquivo digital ou os dois?",
         "fr": "Est-ce que j'aurai les photos imprimées, un fichier numérique ou les deux ?",
         "it": "Mi consegnate le foto stampate, il file digitale o entrambi?",
-        "de": "Bekomme ich die Fotos als Ausdrucke, als Datei oder beides?"
+        "de": "Bekomme ich die Fotos ausgedruckt, als digitale Datei oder in beiden Formaten?"
       },
       "image_url": ""
     },
@@ -214,6 +202,18 @@
         "fr": "Pouvez-vous vérifier les dimensions avant de faire les copies ?",
         "it": "Potete controllare le misure prima di fare le copie?",
         "de": "Können Sie die Maße prüfen, bevor Sie die Kopien machen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_060",
+      "es": "¿Pueden borrar el archivo que les envié cuando terminen el trabajo?",
+      "translations": {
+        "en": "Could you delete the file I sent you once the job is done?",
+        "pt": "Podem apagar o arquivo que enviei quando terminarem o serviço?",
+        "fr": "Pouvez-vous supprimer le fichier que je vous ai envoyé une fois le travail terminé ?",
+        "it": "Potete eliminare il file che vi ho inviato una volta finito il lavoro?",
+        "de": "Können Sie die Datei, die ich Ihnen geschickt habe, löschen, sobald Sie fertig sind?"
       },
       "image_url": ""
     },
@@ -303,31 +303,7 @@
         "pt": "Se encontrarem outro problema, me avisem antes de fazer qualquer trabalho extra.",
         "fr": "Si vous trouvez un autre problème, prévenez-moi avant de faire d'autres travaux.",
         "it": "Se trovate un altro problema, avvisatemi prima di fare altri lavori.",
-        "de": "Wenn Sie noch ein Problem finden, sagen Sie mir bitte Bescheid, bevor Sie weitere Arbeiten machen."
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_068",
-      "es": "¿Para qué fecha calculan que estará listo?",
-      "translations": {
-        "en": "When do you expect it to be ready?",
-        "pt": "Para quando vocês acham que vai ficar pronto?",
-        "fr": "Pour quand pensez-vous que ce sera prêt ?",
-        "it": "Per quando pensate che sarà pronto?",
-        "de": "Bis wann sind Sie voraussichtlich fertig?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_069",
-      "es": "Necesito un comprobante que indique qué dejo aquí y en qué estado está.",
-      "translations": {
-        "en": "I need a receipt showing what I'm leaving here and what condition it's in.",
-        "pt": "Preciso de um comprovante que indique o que estou deixando aqui e em que estado está.",
-        "fr": "J'ai besoin d'un reçu indiquant l'objet que je laisse ici et son état.",
-        "it": "Mi serve una ricevuta che indichi che cosa lascio qui e in che condizioni è.",
-        "de": "Ich brauche einen Beleg, auf dem steht, was ich hier abgebe und in welchem Zustand es ist."
+        "de": "Wenn Sie noch ein Problem finden, sagen Sie mir bitte Bescheid, bevor Sie weitere Arbeiten durchführen."
       },
       "image_url": ""
     },
@@ -347,6 +323,30 @@
       }
     },
     {
+      "id": "seg_068",
+      "es": "¿Para qué fecha calculan que estará listo?",
+      "translations": {
+        "en": "When do you expect it to be ready?",
+        "pt": "Para quando vocês acham que vai ficar pronto?",
+        "fr": "Pour quand pensez-vous que ce sera prêt ?",
+        "it": "Per quando pensate che sarà pronto?",
+        "de": "Wann ist es voraussichtlich fertig?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_069",
+      "es": "Necesito un comprobante que indique qué dejo aquí y en qué estado está.",
+      "translations": {
+        "en": "I need a receipt showing what I'm leaving here and what condition it's in.",
+        "pt": "Preciso de um comprovante que indique o que estou deixando aqui e em que estado está.",
+        "fr": "J'ai besoin d'un reçu indiquant l'objet que je laisse ici et son état.",
+        "it": "Mi serve una ricevuta che indichi che cosa lascio qui e in che condizioni è.",
+        "de": "Ich brauche einen Beleg, auf dem steht, was ich hier abgebe und in welchem Zustand es ist."
+      },
+      "image_url": ""
+    },
+    {
       "id": "seg_070",
       "es": "¿Me avisarán cuando esté listo o debo llamar para comprobarlo?",
       "translations": {
@@ -364,7 +364,7 @@
       "translations": {
         "en": "Does the work come with a warranty?",
         "pt": "O trabalho tem garantia?",
-        "fr": "Les travaux sont-ils garantis ?",
+        "fr": "Le travail est-il garanti ?",
         "it": "C'è una garanzia sul lavoro fatto?",
         "de": "Gibt es eine Garantie auf die Arbeit?"
       },
@@ -420,13 +420,13 @@
     },
     {
       "id": "seg_076",
-      "es": "Quisiera que me cortara solo las puntas, sin quitarle mucho largo al cabello.",
+      "es": "Quisiera que me cortara solo las puntas, sin acortar mucho el cabello.",
       "translations": {
         "en": "I'd like you to trim just the ends without taking off too much length.",
         "pt": "Queria que você cortasse só as pontas, sem tirar muito do comprimento.",
         "fr": "Je voudrais que vous coupiez juste les pointes, sans trop raccourcir les cheveux.",
         "it": "Vorrei che mi tagliasse solo le punte, senza accorciare troppo i capelli.",
-        "de": "Ich möchte nur die Spitzen schneiden lassen, damit sich die Länge kaum ändert."
+        "de": "Bitte schneiden Sie nur die Spitzen, damit die Haare nicht viel kürzer werden."
       },
       "image_url": ""
     },
@@ -477,48 +477,6 @@
         "de": "Ich möchte dieses Produkt nicht verwenden. Gibt es eine Alternative?"
       },
       "image_url": ""
-    },
-    {
-      "id": "seg_009",
-      "es": "El número de referencia de un trámite",
-      "translations": {
-        "en": "The case reference number",
-        "pt": "O número de protocolo de um pedido",
-        "fr": "Le numéro de référence d'un dossier",
-        "it": "Il numero di riferimento di una pratica",
-        "de": "Die Vorgangsnummer"
-      },
-      "image_url": "",
-      "examples": {
-        "en": {
-          "text": "I wrote down the case reference number so I could check its status.",
-          "es": "Anoté el número de referencia del trámite para consultar su estado."
-        },
-        "pt": {
-          "text": "Anotei o número de protocolo do pedido para acompanhar o andamento.",
-          "es": "Anoté el número de referencia del trámite para consultar su estado."
-        },
-        "fr": {
-          "text": "J'ai noté le numéro de référence du dossier pour suivre son avancement.",
-          "es": "Anoté el número de referencia del trámite para seguir su avance."
-        },
-        "it": {
-          "text": "Ho annotato il numero di riferimento della pratica per controllare a che punto è.",
-          "es": "Anoté el número de referencia del trámite para consultar su estado."
-        },
-        "de": {
-          "text": "Ich habe mir die Vorgangsnummer notiert, um nachzusehen, wie weit die Bearbeitung ist.",
-          "es": "Anoté el número de referencia del trámite para ver qué tan avanzada está la gestión."
-        }
-      },
-      "notes": {
-        "en": "(Plural: The case reference numbers)",
-        "pt": "(Plural: Os números de protocolo de pedidos)",
-        "fr": "(Plural: Les numéros de référence des dossiers)",
-        "it": "(Plural: I numeri di riferimento delle pratiche)",
-        "de": "(Plural: Die Vorgangsnummern)",
-        "es": "Identifica una solicitud o trámite para consultar su estado. En algunas instituciones se dice «número de expediente»; «expediente» también puede nombrar el conjunto de documentos."
-      }
     },
     {
       "id": "seg_081",
@@ -693,22 +651,10 @@
       "es": "¿Pueden revisar si el expediente está completo antes de recibirlo?",
       "translations": {
         "en": "Can you check whether the application file is complete before accepting it?",
-        "pt": "Podem verificar se a documentação está completa antes de receber?",
+        "pt": "Podem verificar se a documentação está completa antes de aceitá-la?",
         "fr": "Pouvez-vous vérifier si mon dossier est complet avant d'accepter le dépôt ?",
         "it": "Potete controllare se la pratica è completa prima di accettarla?",
         "de": "Können Sie vor der Annahme prüfen, ob meine Unterlagen vollständig sind?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_096",
-      "es": "¿Qué documento falta y cómo puedo entregarlo después?",
-      "translations": {
-        "en": "Which document is missing, and how can I submit it later?",
-        "pt": "Qual documento está faltando e como posso entregá-lo depois?",
-        "fr": "Quel document manque et comment puis-je le fournir plus tard ?",
-        "it": "Quale documento manca e come posso consegnarlo in seguito?",
-        "de": "Welches Dokument fehlt und wie kann ich es nachreichen?"
       },
       "image_url": ""
     },
@@ -728,6 +674,18 @@
       }
     },
     {
+      "id": "seg_096",
+      "es": "¿Qué documento falta y cómo puedo entregarlo después?",
+      "translations": {
+        "en": "Which document is missing, and how can I submit it later?",
+        "pt": "Qual documento está faltando e como posso entregá-lo depois?",
+        "fr": "Quel document manque et comment puis-je le fournir plus tard ?",
+        "it": "Quale documento manca e come posso consegnarlo in seguito?",
+        "de": "Welches Dokument fehlt und wie kann ich es nachreichen?"
+      },
+      "image_url": ""
+    },
+    {
       "id": "seg_097",
       "es": "¿Recibiré un comprobante de que entregué todos los documentos?",
       "translations": {
@@ -740,14 +698,56 @@
       "image_url": ""
     },
     {
+      "id": "seg_009",
+      "es": "El número de referencia de un trámite",
+      "translations": {
+        "en": "The case reference number",
+        "pt": "O número de protocolo de um pedido",
+        "fr": "Le numéro de référence d'un dossier",
+        "it": "Il numero di riferimento di una pratica",
+        "de": "Die Vorgangsnummer"
+      },
+      "image_url": "",
+      "examples": {
+        "en": {
+          "text": "I wrote down the case reference number so I could check its status.",
+          "es": "Anoté el número de referencia del trámite para consultar su estado."
+        },
+        "pt": {
+          "text": "Anotei o número de protocolo do pedido para acompanhar o andamento.",
+          "es": "Anoté el número de referencia del trámite para consultar su estado."
+        },
+        "fr": {
+          "text": "J'ai noté le numéro de référence du dossier pour suivre son avancement.",
+          "es": "Anoté el número de referencia del trámite para seguir su avance."
+        },
+        "it": {
+          "text": "Ho annotato il numero di riferimento della pratica per controllare a che punto è.",
+          "es": "Anoté el número de referencia del trámite para consultar su estado."
+        },
+        "de": {
+          "text": "Ich habe mir die Vorgangsnummer notiert, um nachzusehen, wie weit die Bearbeitung ist.",
+          "es": "Anoté el número de referencia del trámite para ver qué tan avanzada está la gestión."
+        }
+      },
+      "notes": {
+        "en": "(Plural: The case reference numbers)",
+        "pt": "(Plural: Os números de protocolo de pedidos)",
+        "fr": "(Plural: Les numéros de référence des dossiers)",
+        "it": "(Plural: I numeri di riferimento delle pratiche)",
+        "de": "(Plural: Die Vorgangsnummern)",
+        "es": "Identifica una solicitud o trámite para consultar su estado. En algunas instituciones se dice «número de expediente»; «expediente» también puede nombrar el conjunto de documentos."
+      }
+    },
+    {
       "id": "seg_098",
       "es": "¿Dónde aparece el número de referencia de mi solicitud?",
       "translations": {
         "en": "Where can I find my application reference number?",
-        "pt": "Onde aparece o número de referência da minha solicitação?",
+        "pt": "Onde aparece o número de protocolo da minha solicitação?",
         "fr": "Où figure le numéro de référence de ma demande ?",
         "it": "Dove compare il numero di riferimento della mia richiesta?",
-        "de": "Wo finde ich die Referenznummer meines Antrags?"
+        "de": "Wo finde ich die Vorgangsnummer für meinen Antrag?"
       },
       "image_url": ""
     },
@@ -756,10 +756,10 @@
       "es": "Guarde este número de referencia para consultar el estado de su trámite.",
       "translations": {
         "en": "Keep this reference number to check the status of the application.",
-        "pt": "Guarde este número de referência para consultar o andamento da solicitação.",
+        "pt": "Guarde este número de protocolo para consultar o andamento da solicitação.",
         "fr": "Gardez ce numéro de référence pour consulter l'état de la démarche.",
         "it": "Conservi questo numero di riferimento per controllare lo stato della pratica.",
-        "de": "Bewahren Sie diese Referenznummer auf. Damit können Sie den Stand Ihres Antrags abfragen."
+        "de": "Bewahren Sie diese Vorgangsnummer auf. Damit können Sie den Stand Ihres Antrags abfragen."
       },
       "image_url": "",
       "notes": {
@@ -770,7 +770,7 @@
       "id": "seg_099",
       "es": "¿Desde qué fecha empieza a contar el plazo de respuesta?",
       "translations": {
-        "en": "What date does the time limit for a response start from?",
+        "en": "On what date does the response period start?",
         "pt": "A partir de qual data começa a contar o prazo de resposta?",
         "fr": "À partir de quelle date commence le délai de réponse ?",
         "it": "Da quale data decorre il termine per la risposta?",
@@ -787,6 +787,18 @@
         "fr": "Vous me préviendrez par message ou par e-mail, ou je dois consulter le portail ?",
         "it": "Mi avviserete per messaggio o e-mail, oppure devo consultare il portale?",
         "de": "Bekomme ich eine Nachricht oder eine E-Mail oder soll ich selbst im Portal nachsehen?"
+      },
+      "image_url": ""
+    },
+    {
+      "id": "seg_105",
+      "es": "¿Qué significa que mi solicitud esté pendiente de revisión?",
+      "translations": {
+        "en": "What does it mean that my application is awaiting review?",
+        "pt": "O que significa que minha solicitação está aguardando análise?",
+        "fr": "Qu'est-ce que cela signifie si ma demande est en attente d'examen ?",
+        "it": "Che cosa significa che la mia richiesta è in attesa di verifica?",
+        "de": "Was bedeutet es, dass mein Antrag noch auf Prüfung wartet?"
       },
       "image_url": ""
     },
@@ -819,10 +831,10 @@
       "es": "El portal no reconoce mi número de referencia. ¿Cómo puedo verificar que se registró mi solicitud?",
       "translations": {
         "en": "The portal doesn't recognize my reference number. How can I check that my application was recorded?",
-        "pt": "O portal não reconhece meu número de referência. Como verifico se minha solicitação foi registrada?",
+        "pt": "O portal não reconhece meu número de protocolo. Como verifico se minha solicitação foi registrada?",
         "fr": "Le portail ne reconnaît pas mon numéro de référence. Comment puis-je vérifier que ma demande a bien été enregistrée ?",
         "it": "Il portale non riconosce il mio numero di riferimento. Come verifico che la mia richiesta sia stata registrata?",
-        "de": "Das Portal erkennt meine Referenznummer nicht. Wie kann ich prüfen, ob mein Antrag erfasst wurde?"
+        "de": "Das Portal erkennt meine Vorgangsnummer nicht. Wie kann ich prüfen, ob mein Antrag erfasst wurde?"
       },
       "image_url": ""
     },
@@ -835,18 +847,6 @@
         "fr": "J'ai trouvé une erreur après l'envoi de la demande ; je peux la corriger sans en créer une nouvelle ?",
         "it": "Ho trovato un errore dopo aver inviato la richiesta; posso correggerlo senza iniziarne un'altra?",
         "de": "Ich habe nach dem Abschicken einen Fehler entdeckt. Kann ich ihn korrigieren, ohne einen neuen Antrag zu stellen?"
-      },
-      "image_url": ""
-    },
-    {
-      "id": "seg_105",
-      "es": "¿Qué significa que mi solicitud esté pendiente de revisión?",
-      "translations": {
-        "en": "What does it mean that my application is awaiting review?",
-        "pt": "O que significa que minha solicitação está aguardando análise?",
-        "fr": "Qu'est-ce que cela signifie si ma demande est en attente d'examen ?",
-        "it": "Che cosa significa che la mia richiesta è in attesa di verifica?",
-        "de": "Was bedeutet es, dass mein Antrag noch auf Prüfung wartet?"
       },
       "image_url": ""
     },
@@ -870,7 +870,7 @@
         "pt": "Preciso retirar a resposta aqui ou vão enviá-la ao meu endereço?",
         "fr": "La réponse est à retirer ici ou sera envoyée à mon domicile ?",
         "it": "La risposta si ritira qui o verrà inviata a casa?",
-        "de": "Kann ich die Antwort hier abholen oder wird sie an meine Adresse geschickt?"
+        "de": "Hole ich die Antwort hier ab oder wird sie an meine Adresse geschickt?"
       },
       "image_url": ""
     },
@@ -900,13 +900,13 @@
     },
     {
       "id": "seg_110",
-      "es": "¿Con quién puedo consultar mi expediente si la respuesta no llega en el plazo indicado?",
+      "es": "¿Con quién puedo consultar el estado de mi expediente si no recibo respuesta en el plazo indicado?",
       "translations": {
-        "en": "Who can I contact about my case if I do not receive a response within the stated time?",
-        "pt": "Com quem posso falar sobre meu processo se a resposta não chegar no prazo indicado?",
-        "fr": "À qui puis-je m'adresser au sujet de mon dossier si je ne reçois pas de réponse dans le délai indiqué ?",
-        "it": "A chi posso rivolgermi per informazioni sulla mia pratica se la risposta non arriva entro il termine indicato?",
-        "de": "An wen kann ich mich wegen meines Antrags wenden, wenn die Antwort nicht innerhalb der angegebenen Frist kommt?"
+        "en": "Who can I contact about my case status if I don't receive a response within the stated time?",
+        "pt": "Com quem posso verificar o andamento do meu processo se a resposta não chegar no prazo indicado?",
+        "fr": "À qui puis-je demander où en est mon dossier si je ne reçois pas de réponse dans le délai indiqué ?",
+        "it": "A chi posso chiedere a che punto è la mia pratica se non ricevo una risposta entro il termine indicato?",
+        "de": "Bei wem kann ich nach dem Stand meines Antrags fragen, wenn die Antwort nicht innerhalb der angegebenen Frist kommt?"
       },
       "image_url": ""
     }
