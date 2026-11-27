@@ -53,7 +53,7 @@ function App() {
       const data = await response.json();
 
       // Keep data.module as the stable identity for review marks.
-      setActiveModule(module.level === 'A2' ? { ...data, displayTitle: module.title } : data);
+      setActiveModule((module.level === 'A2' || module.useCatalogTitle) ? { ...data, displayTitle: module.title } : data);
       setCurrentView(mode);
     } catch (error) {
       console.error("Error cargando el módulo:", error);
